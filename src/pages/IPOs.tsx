@@ -1,7 +1,9 @@
 import { Link } from 'react-router-dom'
-import { ipos } from '../data/mock'
-import { Card, SectionTitle } from '../components/ui'
+import { ipos as iposFallback } from '../data/mock'
+import { useJson } from '../data/useJson'
+import { Card, SectionTitle, DataBadge } from '../components/ui'
 import { cx } from '../lib/format'
+import type { IPOItem } from '../data/types'
 
 const TODAY = '2026-06-02'
 const daysTo = (d: string) => Math.round((Date.parse(d) - Date.parse(TODAY)) / 86400000)
@@ -15,6 +17,7 @@ function weekKey(d: string) {
 }
 
 export default function IPOs() {
+  const { data: ipos, status } = useJson<IPOItem[]>('ipos.json', iposFallback)
   const sorted = [...ipos].sort((a, b) => a.date.localeCompare(b.date))
   const weeks = new Map<string, typeof sorted>()
   for (const i of sorted) {
@@ -26,8 +29,11 @@ export default function IPOs() {
 
   return (
     <div>
-      <h1 className="text-2xl font-extrabold">IPO 日历</h1>
-      <p className="text-sm text-muted">即将上市 · 可关注的打新标的（mock）。上市后自动接入完整股票详情页。</p>
+      <div className="flex items-center gap-2 flex-wrap">
+        <h1 className="text-2xl font-extrabold">IPO 日历</h1>
+        <DataBadge status={status} />
+      </div>
+      <p className="text-sm text-muted">即将上市 · 可关注的打新标的。上市后自动接入完整股票详情页。</p>
 
       <div className="mt-2 rounded-xl bg-canvas border border-line text-muted text-xs px-3 py-2">
         ℹ️ 美股散户打新门槛较高且与券商相关。本页定位为「列出可关注的 IPO」，不做实际申购对接。
