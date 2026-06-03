@@ -1,0 +1,14 @@
+{
+  "name": "持仓追踪 · Holdings Tracker",
+  "short_name": "持仓追踪",
+  "description": "追踪关注人物的持仓/交易/喊单 + AI 分析 + IPO 日历（自用）",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7f8fa",
+  "theme_color": "#3b6cf6",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>持仓追踪 App · 结构图</title>
+<style>
+  :root{
+    --blue:#3b6cf6; --blue-bg:#e8efff;
+    --purple:#7c5cff; --purple-bg:#efeaff;
+    --gray:#64748b; --gray-bg:#f1f5f9;
+    --amber:#f59e0b; --amber-bg:#fef3c7;
+    --coral:#f87171; --coral-bg:#fee2e2;
+    --green:#10b981; --green-bg:#d1fae5;
+    --ink:#0f172a; --line:#cbd5e1; --bg:#fafbfc;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+    background:var(--bg);color:var(--ink);line-height:1.5;padding:24px 16px 64px}
+  .wrap{max-width:1100px;margin:0 auto}
+  h1{font-size:22px;margin:0 0 4px}
+  .sub{color:var(--gray);font-size:13px;margin:0 0 28px}
+  h2{font-size:16px;margin:40px 0 14px;padding-bottom:8px;border-bottom:2px solid var(--line)}
+  .legend{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 8px}
+  .tag{font-size:11px;padding:3px 9px;border-radius:99px;font-weight:600}
+  .t-blue{background:var(--blue-bg);color:var(--blue)}
+  .t-purple{background:var(--purple-bg);color:var(--purple)}
+  .t-gray{background:var(--gray-bg);color:var(--gray)}
+  .t-amber{background:var(--amber-bg);color:#b45309}
+  .t-coral{background:var(--coral-bg);color:#dc2626}
+  .t-green{background:var(--green-bg);color:#047857}
+
+  /* generic box */
+  .box{border:1.5px solid var(--line);border-radius:12px;padding:12px 14px;background:#fff;
+    box-shadow:0 1px 2px rgba(15,23,42,.04)}
+  .box .ttl{font-weight:700;font-size:14px}
+  .box .desc{font-size:11.5px;color:var(--gray);margin-top:2px}
+  .b-blue{border-color:var(--blue);background:var(--blue-bg)} .b-blue .ttl{color:var(--blue)}
+  .b-purple{border-color:var(--purple);background:var(--purple-bg)} .b-purple .ttl{color:var(--purple)}
+  .b-gray{border-color:var(--gray)} .b-gray .ttl{color:var(--gray)}
+  .b-green{border-color:var(--green);background:var(--green-bg)} .b-green .ttl{color:#047857}
+  .b-amber{border-color:var(--amber);background:var(--amber-bg)} .b-amber .ttl{color:#b45309}
+
+  /* vertical pipeline */
+  .flow{display:flex;flex-direction:column;align-items:center;gap:0}
+  .flow .box{width:100%;max-width:560px;text-align:center}
+  .arrow-down{width:2px;height:22px;background:var(--line);position:relative}
+  .arrow-down::after{content:"";position:absolute;bottom:0;left:-4px;border:5px solid transparent;border-top-color:var(--line)}
+  .row{display:flex;gap:12px;flex-wrap:wrap;justify-content:center;width:100%;max-width:560px}
+  .row .box{flex:1;min-width:150px}
+
+  /* sitemap */
+  .level{display:flex;gap:14px;flex-wrap:wrap;justify-content:center;margin-bottom:8px}
+  .vline{width:2px;height:18px;background:var(--line);margin:0 auto}
+  .sitemap .box{width:160px;text-align:center}
+  .conn-note{text-align:center;font-size:11px;color:var(--gray);margin:6px 0}
+
+  /* data model */
+  .model{display:flex;gap:14px;align-items:stretch;flex-wrap:wrap;justify-content:center}
+  .model .col{flex:1;min-width:220px;display:flex;flex-direction:column;gap:10px}
+  .chip{font-size:11px;padding:4px 8px;border-radius:8px;background:#fff;border:1px solid var(--line)}
+  .rel{display:flex;align-items:center;justify-content:center;color:var(--gray);font-size:20px}
+
+  .note{font-size:12px;color:var(--gray);background:#fff;border:1px dashed var(--line);border-radius:10px;padding:10px 12px;margin-top:10px}
+  code{background:var(--gray-bg);padding:1px 5px;border-radius:4px;font-size:11.5px}
+  @media(max-width:560px){.rel{transform:rotate(90deg)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>持仓追踪 App · 结构图</h1>
+  <p class="sub">自用 · GitHub Pages 静态站 + PWA · 电脑/手机自适应 · 构建时抓数据，运行时只读 JSON</p>
+
+  <div class="legend">
+    <span class="tag t-blue">蓝 = 主入口</span>
+    <span class="tag t-purple">紫 = 内容详情</span>
+    <span class="tag t-gray">灰 = 辅助页</span>
+    <span class="tag t-amber">琥珀 = 共识/重点</span>
+    <span class="tag t-coral">coral = 多空分歧</span>
+    <span class="tag t-green">绿 = 数据/管道</span>
+  </div>
+
+  <!-- ============ 1. 系统架构 ============ -->
+  <h2>① 系统架构 — 数据如何流动</h2>
+  <div class="flow">
+    <div class="box b-green">
+      <div class="ttl">⏱ GitHub Actions（cron 定时）</div>
+      <div class="desc">每天/每周触发；不同数据源不同频率</div>
+    </div>
+    <div class="arrow-down"></div>
+    <div class="row">
+      <div class="box b-green"><div class="ttl">SEC 13F</div><div class="desc">Buffett · Leopold(CIK 0002045724) · 含 put</div></div>
+      <div class="box b-green"><div class="ttl">Congress</div><div class="desc">Pelosi · house/senate-stock-watcher</div></div>
+      <div class="box b-green"><div class="ttl">社交喊单</div><div class="desc">Trump(truthbrush) · Musk/Serenity(RSSHub+X cookie) · 黄仁勋(新闻言论)</div></div>
+    </div>
+    <div style="height:12px"></div>
+    <div class="row">
+      <div class="box b-green"><div class="ttl">IPO 日历</div><div class="desc">Finnhub / Nasdaq</div></div>
+      <div class="box b-green"><div class="ttl">股价 / K线</div><div class="desc">仅关注列表的 ticker</div></div>
+      <div class="box b-green"><div class="ttl">新闻 RSS</div><div class="desc">多家来源，仅标题+外链</div></div>
+    </div>
+    <div class="arrow-down"></div>
+    <div class="box b-amber">
+      <div class="ttl">🤖 Claude API（构建时）</div>
+      <div class="desc">社交帖分类抽 ticker / 看多看空 · 生成每只票的 AI 投资论点（缓存）</div>
+    </div>
+    <div class="arrow-down"></div>
+    <div class="box b-green">
+      <div class="ttl">📦 写出 JSON → git commit</div>
+      <div class="desc"><code>/public/data/</code>：people · stocks/{TICKER} · briefing · ipos · news · meta</div>
+    </div>
+    <div class="arrow-down"></div>
+    <div class="box b-green">
+      <div class="ttl">⚡ Vite 构建 → 部署 GitHub Pages</div>
+      <div class="desc">React + TS + Tailwind · PWA（手机可加到主屏）</div>
+    </div>
+    <div class="arrow-down"></div>
+    <div class="box b-blue">
+      <div class="ttl">📱💻 前端（纯展示层）</div>
+      <div class="desc">运行时只读静态 JSON · 收藏/已读/笔记/配置存 localStorage</div>
+    </div>
+  </div>
+  <div class="note">关键：静态站<strong>运行时不抓任何数据</strong>。所有抓取、计算、AI 分析都在 GitHub Actions 里完成并落成 JSON。这样保持「静态 + 免费」又有新鲜数据。</div>
+
+  <!-- ============ 2. 页面导航图 ============ -->
+  <h2>② 页面导航图 — 7 页 + IPO 折叠进原结构</h2>
+  <div class="sitemap">
+    <div class="level">
+      <div class="box b-blue"><div class="ttl">Briefing 主页</div><div class="desc">日常扫读（已发生）</div></div>
+      <div class="box b-blue"><div class="ttl">明日交易计划 ★新</div><div class="desc">提前一天（将发生+应对）</div></div>
+    </div>
+    <div class="vline"></div>
+    <div class="conn-note">实线=主导航 · ⟷ 紫色双向跳转（点头像/点 ticker） · ┄ 虚线=完整持仓→股票详情循环</div>
+    <div class="level">
+      <div class="box b-purple"><div class="ttl">人物详情</div><div class="desc">持仓/交易/喊单</div></div>
+      <div class="box b-purple"><div class="ttl">股票详情</div><div class="desc">跟踪与分析</div></div>
+      <div class="box b-gray"><div class="ttl">新闻列表</div><div class="desc">历史汇总</div></div>
+      <div class="box b-gray"><div class="ttl">IPO 日历 ★新</div><div class="desc">即将上市</div></div>
+      <div class="box b-gray"><div class="ttl">设置</div><div class="desc">跟踪源管理</div></div>
+    </div>
+    <div class="vline"></div>
+    <div class="level">
+      <div class="box b-purple"><div class="ttl">完整持仓页</div><div class="desc">可筛可排序</div></div>
+      <div class="box b-purple"><div class="ttl">AI 完整分析</div><div class="desc">深度论证</div></div>
+    </div>
+    <div class="conn-note">⟷ 人物详情 与 股票详情 互跳 ｜ IPO 日历的票 → 股票详情 ｜ 任意页新闻条目 → 外部原文</div>
+  </div>
+  <div class="note">★新增：<strong>IPO 日历</strong>为辅助页（IPO 票复用股票详情页）。<strong>本周打新</strong> 与 <strong>社交喊单</strong> 作为 section 加进 Briefing 主页，不新增顶层概念。全局搜索（⌘K / <code>/</code>）所有页面共有。</div>
+
+  <!-- ============ 3. 统一数据模型 ============ -->
+  <h2>③ 统一数据模型 — IPO/社交为何能无缝接入</h2>
+  <div class="model">
+    <div class="col">
+      <div class="box b-purple"><div class="ttl">人物 Person</div><div class="desc">一个抽象，带 signalTypes[]</div></div>
+      <span class="chip">Buffett · 13f + options</span>
+      <span class="chip">Leopold · 13f（含 put）</span>
+      <span class="chip">Pelosi · ptr(congress)</span>
+      <span class="chip">Trump/Musk/Serenity · social</span>
+      <span class="chip">黄仁勋 · statement(公开言论)</span>
+    </div>
+    <div class="rel">→</div>
+    <div class="col">
+      <div class="box b-amber"><div class="ttl">信号 Signal（差异化卡片）</div><div class="desc">type 决定颜色与字段</div></div>
+      <span class="chip" style="border-color:var(--purple)">13f → 紫/琥珀 · notional / 推断均价</span>
+      <span class="chip" style="border-color:var(--coral)">ptr → 粉 · strike / 到期</span>
+      <span class="chip">options → 期权 · put/call</span>
+      <span class="chip" style="border-color:var(--blue)">social → 蓝 · 帖子 / 提及 ticker ★新</span>
+    </div>
+    <div class="rel">→</div>
+    <div class="col">
+      <div class="box b-purple"><div class="ttl">股票 Stock</div><div class="desc">所有信号最终指向 ticker</div></div>
+      <span class="chip">基本面 · K线 · AI 论点</span>
+      <span class="chip">「谁持有/提及它」聚合卡片</span>
+      <span class="chip">IPO 票 = 普通 Stock</span>
+    </div>
+  </div>
+  <div class="note">核心设计：<strong>人物 → 信号 → 股票</strong> 一条主脊。13F 持仓、Congress 交易、期权、社交喊单只是 <code>signalType</code> 不同，共用同一套卡片差异化展示。所以 IPO 与社交喊单不需要新页面，只是新的信号类型 / 入口 section。</div>
+
+</div>
+</body>
+</html>
