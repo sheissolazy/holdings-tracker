@@ -24,6 +24,21 @@ export function Pct({ n }: { n: number }) {
   return <span className={cx('tnum font-semibold', pctColor(n))}>{fmtPct(n)}</span>
 }
 
+// 数据来源徽标：实时（管道生成的 JSON）/ 兜底（本地 mock）/ 加载中
+export function DataBadge({ status }: { status: 'loading' | 'live' | 'fallback' }) {
+  const meta = {
+    loading: { label: '加载中…', cls: 'bg-canvas text-muted border-line' },
+    live: { label: '实时数据', cls: 'bg-emerald-50 text-emerald-600 border-emerald-200' },
+    fallback: { label: '本地兜底', cls: 'bg-amber-50 text-amber-600 border-amber-200' },
+  }[status]
+  return (
+    <span className={cx('inline-flex items-center gap-1 rounded-full border px-2 py-0.5 text-[11px] font-medium', meta.cls)}>
+      <span className={cx('w-1.5 h-1.5 rounded-full', status === 'live' ? 'bg-emerald-500' : status === 'fallback' ? 'bg-amber-500' : 'bg-slate-400')} />
+      {meta.label}
+    </span>
+  )
+}
+
 export function Avatar({ id, size = 36 }: { id: string; size?: number }) {
   const p = peopleById[id]
   const initials = p?.name?.replace(/[^A-Za-z一-龥]/g, '').slice(0, 2) || '?'
