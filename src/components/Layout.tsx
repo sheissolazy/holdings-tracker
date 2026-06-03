@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react'
 import { Link, NavLink, Outlet, useNavigate } from 'react-router-dom'
-import { people, tickerList, stocks, allNews } from '../data/mock'
+import { useData } from '../data/DataProvider'
 import { cx } from '../lib/format'
 import { Avatar } from './ui'
 
@@ -51,7 +51,7 @@ export default function Layout() {
       <main className="max-w-5xl mx-auto px-4 py-5">
         <Outlet />
         <footer className="mt-12 mb-4 text-center text-[11px] text-muted">
-          数据为 mock 演示 · AI 分析非投资建议 · 自用原型
+          数据每日由管道更新 · AI 分析非投资建议 · 自用原型
         </footer>
       </main>
 
@@ -74,17 +74,18 @@ export default function Layout() {
 }
 
 function SearchModal({ onClose }: { onClose: () => void }) {
+  const { people, stockIndex, news } = useData()
   const [q, setQ] = useState('')
   const nav = useNavigate()
   const results = useMemo(() => {
     const s = q.trim().toLowerCase()
-    if (!s) return { ppl: people.slice(0, 4), tks: tickerList.slice(0, 4), nws: [] as typeof allNews }
+    if (!s) return { ppl: people.slice(0, 4), tks: stockIndex.slice(0, 4), nws: [] as typeof news }
     return {
       ppl: people.filter((p) => p.name.toLowerCase().includes(s) || p.org?.toLowerCase().includes(s)),
-      tks: tickerList.filter((t) => t.toLowerCase().includes(s) || stocks[t].name.toLowerCase().includes(s)),
-      nws: allNews.filter((n) => n.title.toLowerCase().includes(s)).slice(0, 5),
+      tks: stockIndex.filter((t) => t.ticker.toLowerCase().includes(s) || t.name.toLowerCase().includes(s)),
+      nws: news.filter((n) => n.title.toLowerCase().includes(s)).slice(0, 5),
     }
-  }, [q])
+  }, [q, people, stockIndex, news])
 
   const go = (path: string) => { onClose(); nav(path) }
 
@@ -104,8 +105,8 @@ function SearchModal({ onClose }: { onClose: () => void }) {
           ))}
           {results.tks.length > 0 && <Group label="股票" />}
           {results.tks.map((t) => (
-            <button key={t} onClick={() => go(`/stock/${t}`)} className="w-full flex items-center gap-2.5 px-2 py-2 rounded-lg hover:bg-canvas text-left">
-              <span className="font-bold text-sm w-14">{t}</span><span className="text-[12px] text-muted">{stocks[t].name}</span>
+            <button key={t.ticker} onClick={() => go(`/stock/${t.ticker}`)} className="w-full flex items-center gap-2.5 px-2 py-2 rounded-lg hover:bg-canvas text-left">
+              <span className="font-bold text-sm w-14">{t.ticker}</span><span className="text-[12px] text-muted">{t.name}</span>
             </button>
           ))}
           {results.nws.length > 0 && <Group label="新闻" />}

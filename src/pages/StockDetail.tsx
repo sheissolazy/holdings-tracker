@@ -1,6 +1,9 @@
 import { useState } from 'react'
 import { useParams, Link } from 'react-router-dom'
-import { stocks, signalsByTicker, ipos } from '../data/mock'
+import { useData } from '../data/DataProvider'
+import { useJson } from '../data/useJson'
+import { stocks as mockStocks } from '../data/mock'
+import type { Stock } from '../data/types'
 import { Card, SectionTitle, Pct, SignalCard, NewsRow } from '../components/ui'
 import KLine from '../components/KLine'
 import { cx } from '../lib/format'
@@ -9,8 +12,9 @@ const RANGES: Record<string, number> = { '1M': 22, '3M': 66, '6M': 120, '1Y': 12
 
 export default function StockDetail() {
   const { ticker } = useParams()
+  const { signalsByTicker, ipos } = useData()
   const [range, setRange] = useState('3M')
-  const s = ticker ? stocks[ticker] : undefined
+  const { data: s } = useJson<Stock | null>(`stocks/${ticker}.json`, (ticker && mockStocks[ticker]) || null)
 
   // IPO 票可能还没有完整 stock 数据
   if (!s) {

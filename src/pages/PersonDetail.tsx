@@ -1,10 +1,11 @@
 import { useParams, Link } from 'react-router-dom'
-import { peopleById, signalsByPerson, allNews, articlesByPersonId } from '../data/mock'
+import { useData } from '../data/DataProvider'
 import { Card, SectionTitle, Avatar, Sparkline, SignalCard, NewsRow } from '../components/ui'
 import { cx } from '../lib/format'
 
 export default function PersonDetail() {
   const { id } = useParams()
+  const { peopleById, signalsByPerson, news: allNews } = useData()
   const p = id ? peopleById[id] : undefined
   if (!p) return <div className="py-16 text-center text-muted">未找到该人物</div>
 
@@ -71,6 +72,7 @@ export default function PersonDetail() {
 // ---- 跟踪源详情页（微信公众号「猫笔刀」等）：文章列表（最新 + 历史） ----
 import type { Person } from '../data/types'
 function SourceDetail({ p }: { p: Person }) {
+  const { articlesByPersonId } = useData()
   const articles = [...articlesByPersonId(p.id)].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
   const latest = articles[0]
   const past = articles.slice(1)

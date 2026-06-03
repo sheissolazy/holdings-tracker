@@ -1,11 +1,12 @@
 import { Link } from 'react-router-dom'
-import { people, signals, allNews, events, ipos, market, signalsByPerson, peopleById, articlesByPersonId } from '../data/mock'
+import { useData } from '../data/DataProvider'
 import { Card, SectionTitle, Avatar, Sparkline, NewsRow, Pct, SentPill } from '../components/ui'
 import { cx } from '../lib/format'
 
 const IMPACT = { high: 'bg-amber-soft text-amber-700 border-amber/40', med: 'bg-canvas text-muted border-line', low: 'bg-canvas text-muted border-line' }
 
 export default function Briefing() {
+  const { people, signals, news: allNews, events, ipos, market, signalsByPerson, peopleById, articlesByPersonId } = useData()
   const consensus = signals.filter((s) => s.ticker === 'MRVL')         // 共识：多人看多 MRVL
   const divergence = signals.filter((s) => s.ticker === 'NVDA')         // 分歧：Leopold put vs Pelosi/Trump 看多
 
@@ -26,7 +27,7 @@ export default function Briefing() {
       <div className="flex items-end justify-between">
         <div>
           <h1 className="text-2xl font-extrabold">今日 Briefing</h1>
-          <p className="text-sm text-muted">2026-06-01 周一 · 数据更新于 20:00（mock）</p>
+          <p className="text-sm text-muted">2026-06-01 周一 · 数据每日由管道更新</p>
         </div>
         <div className="flex gap-2 no-print">
           <button onClick={exportPdf} className="text-sm font-semibold border border-line bg-white text-ink rounded-lg px-3 py-2 hover:bg-canvas">

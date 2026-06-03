@@ -1,4 +1,4 @@
-import { people } from '../data/mock'
+import { useData } from '../data/DataProvider'
 import { Card, SectionTitle, Avatar } from '../components/ui'
 import { useLocalStorage } from '../lib/useLocalStorage'
 import { cx } from '../lib/format'
@@ -16,6 +16,7 @@ const TYPE_LABEL: Record<string, string> = { '13f': '13F', options: '期权', pt
 const REFRESH = [['close', '每日收盘后'], ['6h', '每 6 小时'], ['manual', '仅手动']] as const
 
 export default function Settings() {
+  const { people } = useData()
   const [s, setS] = useLocalStorage<Settings>('settings', DEFAULTS)
 
   const toggleSource = (id: string) =>

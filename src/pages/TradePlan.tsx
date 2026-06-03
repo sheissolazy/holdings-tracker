@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import { tradePlan, peopleById } from '../data/mock'
+import { useData } from '../data/DataProvider'
 import type { DraftAction } from '../data/types'
 import { Card, SectionTitle, Avatar } from '../components/ui'
 import { useLocalStorage } from '../lib/useLocalStorage'
@@ -8,7 +8,7 @@ import { cx } from '../lib/format'
 const KIND = { earnings: '📊 财报', econ: '🏦 经济数据', ipo: '🚀 IPO', opex: '⏳ 期权到期', other: '•' }
 
 export default function TradePlan() {
-  const p = tradePlan
+  const { tradePlan: p, peopleById } = useData()
   const [actions, setActions] = useLocalStorage<DraftAction[]>(`plan-${p.forDate}`, p.draftActions)
 
   const update = (id: string, patch: Partial<DraftAction>) =>

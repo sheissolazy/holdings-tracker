@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react'
 import { useParams, Link } from 'react-router-dom'
-import { peopleById, signalsByPerson } from '../data/mock'
+import { useData } from '../data/DataProvider'
 import type { Signal } from '../data/types'
 import { Card, SectionTitle, Avatar } from '../components/ui'
 import { cx, fmtMoney, fmtPct } from '../lib/format'
@@ -10,6 +10,7 @@ type SortKey = 'ticker' | 'notional' | 'weightPct' | 'asOf'
 
 export default function Holdings() {
   const { id } = useParams()
+  const { peopleById, signalsByPerson } = useData()
   const p = id ? peopleById[id] : undefined
   const all = id ? signalsByPerson(id) : []
   const types = useMemo(() => ['全部', ...Array.from(new Set(all.map((s) => s.type)))], [all])

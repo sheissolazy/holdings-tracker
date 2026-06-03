@@ -63,17 +63,30 @@ def main():
     signals = s13 + sc + ss
     write_json("people.json", PEOPLE)
     write_json("signals.json", signals)
-    write_json("news.json", news)
     write_json("articles.json", articles)
     write_json("ipos.json", ipos)
+    # 大盘速览（真实可由指数 API 补全，现为兜底）
+    write_json("market.json", [
+        {"label": "SPY", "value": "548.2", "chg": "+0.4%", "pos": True},
+        {"label": "Gold", "value": "$2,418", "chg": "+0.9%", "pos": True},
+        {"label": "10Y Yield", "value": "4.31%", "chg": "-3bp", "pos": False},
+    ])
 
     print("[7/7] AI 分析 + 组装股票…")
+    all_news = list(news)  # 全局新闻流 = 头条 + 各标的新闻（前端 News/Briefing 读它）
+    index = []              # 轻量股票索引（前端搜索/列表用，不含 prices/thesis）
     for t in TICKERS:
         bars = prices.get(t, [])
         write_json(f"prices/{t}.json", bars)
         tsigs = [s for s in signals if s.get("ticker") == t]
         ai = gen_ai.run(t, TICKER_META.get(t, {}).get("name", t), tsigs, news)
-        write_json(f"stocks/{t}.json", build_stock(t, bars, tsigs, ai))
+        stock = build_stock(t, bars, tsigs, ai)
+        write_json(f"stocks/{t}.json", stock)
+        all_news += stock["news"]
+        index.append({k: stock[k] for k in
+                      ("ticker", "name", "exchange", "sector", "price", "change5dPct", "changeYtdPct")})
+    write_json("news.json", all_news)
+    write_json("stocks_index.json", index)
 
     # 事件 / 明日交易计划
     events = [
@@ -107,8 +120,9 @@ def main():
             "social": "Truth Social / RSSHub", "prices": "stooq",
             "news": "RSS + Wechat2RSS", "ipos": "Finnhub", "ai": gen_ai.MODEL,
         },
+        "tickers": list(TICKERS),
         "counts": {"people": len(PEOPLE), "signals": len(signals),
-                   "news": len(news), "ipos": len(ipos), "stocks": len(TICKERS)},
+                   "news": len(all_news), "ipos": len(ipos), "stocks": len(TICKERS)},
         "disclaimer": "AI 分析基于公开数据生成，非投资建议。13F 有 ~45 天延迟；社交信号为最佳努力。",
     })
     print("== 完成。前端可读 public/data/*.json ==")
