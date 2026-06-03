@@ -135,15 +135,19 @@ export function SentPill({ s }: { s: 'bull' | 'bear' | 'watch' }) {
 }
 
 export function NewsRow({ n }: { n: NewsItem }) {
-  return (
-    <a href={n.url} target="_blank" rel="noreferrer" className="block py-2.5 group">
+  const hasUrl = !!n.url && n.url !== '#'
+  const Inner = (
+    <>
       <div className="flex flex-wrap items-center gap-1.5 mb-0.5">
         {n.tags.map((t) => (
           <span key={t} className="text-[10px] font-semibold px-1.5 py-0.5 rounded bg-canvas border border-line text-muted">{t}</span>
         ))}
         <span className="text-[11px] text-muted ml-auto">{n.source} · {n.publishedAt}</span>
       </div>
-      <p className="text-sm leading-snug group-hover:text-brand">{n.title} <span className="text-muted">↗</span></p>
-    </a>
+      <p className="text-sm leading-snug group-hover:text-brand">{n.title} {hasUrl && <span className="text-muted">↗</span>}</p>
+    </>
   )
+  return hasUrl
+    ? <a href={n.url} target="_blank" rel="noreferrer" className="block py-2.5 group">{Inner}</a>
+    : <div className="block py-2.5 group">{Inner}</div>
 }

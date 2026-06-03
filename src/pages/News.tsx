@@ -67,17 +67,23 @@ export default function News() {
         <div key={date}>
           <SectionTitle>{date}</SectionTitle>
           <Card className="px-4 divide-y divide-line">
-            {items.map((n) => (
-              <a key={n.id} href={n.url} target="_blank" rel="noreferrer" className="block py-3 group">
-                <div className="flex flex-wrap items-center gap-1.5 mb-1">
-                  <span className={cx('text-[10px] font-bold px-1.5 py-0.5 rounded border', sourceTag(n.source))}>{n.source}</span>
-                  {n.tags.map((t) => (
-                    <span key={t} className={cx('text-[10px] font-semibold px-1.5 py-0.5 rounded border', sourceTag(t))}>{t}</span>
-                  ))}
-                </div>
-                <p className="text-sm leading-snug group-hover:text-brand">{n.title} <span className="text-muted">↗</span></p>
-              </a>
-            ))}
+            {items.map((n) => {
+              const hasUrl = !!n.url && n.url !== '#'
+              const body = (
+                <>
+                  <div className="flex flex-wrap items-center gap-1.5 mb-1">
+                    <span className={cx('text-[10px] font-bold px-1.5 py-0.5 rounded border', sourceTag(n.source))}>{n.source}</span>
+                    {n.tags.map((t) => (
+                      <span key={t} className={cx('text-[10px] font-semibold px-1.5 py-0.5 rounded border', sourceTag(t))}>{t}</span>
+                    ))}
+                  </div>
+                  <p className="text-sm leading-snug group-hover:text-brand">{n.title} {hasUrl && <span className="text-muted">↗</span>}</p>
+                </>
+              )
+              return hasUrl
+                ? <a key={n.id} href={n.url} target="_blank" rel="noreferrer" className="block py-3 group">{body}</a>
+                : <div key={n.id} className="block py-3 group">{body}</div>
+            })}
           </Card>
         </div>
       ))}
