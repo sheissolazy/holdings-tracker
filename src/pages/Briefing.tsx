@@ -69,15 +69,14 @@ export default function Briefing() {
                     <div className="font-semibold text-sm truncate">{p.name}</div>
                     <div className="text-[11px] text-muted truncate">{p.org} · {p.signalTypes.join(' / ')}</div>
                   </div>
-                  {isSource && lastArticle ? (
-                    <div className="hidden sm:block text-[11px] text-muted text-right max-w-[140px] truncate">
-                      最新：<span className="font-semibold text-ink">{lastArticle.publishedAt.slice(5)}</span>
-                    </div>
-                  ) : last ? (
-                    <div className="hidden sm:block text-[11px] text-muted text-right">
-                      最近：<span className="font-semibold text-ink">{last.ticker}</span>
-                    </div>
-                  ) : null}
+                  {(() => {
+                    const when = isSource ? lastArticle?.publishedAt : last?.asOf
+                    return when ? (
+                      <div className="hidden sm:block text-[11px] text-muted text-right">
+                        最近：<span className="font-semibold text-ink">{when.slice(5)}</span>
+                      </div>
+                    ) : null
+                  })()}
                   <Sparkline data={p.sparkline ?? []} color={p.avatarColor} />
                 </Link>
               )
@@ -133,10 +132,10 @@ export default function Briefing() {
               <div className="h-px bg-line flex-1" />
             </div>
             {/* 最近新闻（含公众号「猫笔刀」） */}
-            {recent.map((n) => (
-              <div key={n.id} className="flex gap-3 py-2.5">
-                <DateChip date={n.publishedAt} />
-                <a href={n.url} target="_blank" rel="noreferrer" className="flex-1 min-w-0 group">
+            {recent.map((n) => {
+              const hasUrl = !!n.url && n.url !== '#'
+              const body = (
+                <>
                   <div className="flex flex-wrap items-center gap-1.5 mb-0.5">
                     <span className="text-[10px] font-bold px-1.5 py-0.5 rounded bg-brand-soft text-brand">新闻</span>
                     {n.tags.map((t) => (
@@ -145,10 +144,18 @@ export default function Briefing() {
                     ))}
                     <span className="text-[11px] text-muted ml-auto">{n.source}</span>
                   </div>
-                  <p className="text-sm leading-snug group-hover:text-brand">{n.title} <span className="text-muted">↗</span></p>
-                </a>
-              </div>
-            ))}
+                  <p className="text-sm leading-snug group-hover:text-brand">{n.title} {hasUrl && <span className="text-muted">↗</span>}</p>
+                </>
+              )
+              return (
+                <div key={n.id} className="flex gap-3 py-2.5">
+                  <DateChip date={n.publishedAt} />
+                  {hasUrl
+                    ? <a href={n.url} target="_blank" rel="noreferrer" className="flex-1 min-w-0 group">{body}</a>
+                    : <div className="flex-1 min-w-0 group">{body}</div>}
+                </div>
+              )
+            })}
           </Card>
         </div>
 
