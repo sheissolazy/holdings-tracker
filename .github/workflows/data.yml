@@ -1,0 +1,37 @@
+name: Update data
+
+# 每日抓数据 → 提交 public/data 变化 → 触发 deploy.yml 重新部署
+on:
+  schedule:
+    - cron: "0 21 * * 1-5"   # 工作日 UTC 21:00（美股收盘后）
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install deps
+        run: pip install -r pipeline/requirements.txt
+      - name: Run pipeline
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          X_AUTH_TOKEN: ${{ secrets.X_AUTH_TOKEN }}
+          X_CT0: ${{ secrets.X_CT0 }}
+        run: |
+          cd pipeline
+          python run_all.py || python run_all.py --mock
+      - name: Commit data
+        run: |
+          git config user.name "holdings-tracker-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add public/data
+          git diff --staged --quiet || git commit -m "data: 自动更新 $(date -u +%F)"
+          git push

@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-06-03T06:43:40Z",
+  "mode": "mock",
+  "sources": {
+    "13f": "SEC EDGAR",
+    "congress": "house-stock-watcher",
+    "social": "Truth Social / RSSHub",
+    "prices": "stooq",
+    "news": "RSS + Wechat2RSS",
+    "ipos": "Finnhub",
+    "ai": "claude-sonnet-4-5"
+  },
+  "counts": {
+    "people": 8,
+    "signals": 9,
+    "news": 2,
+    "ipos": 5,
+    "stocks": 5
+  },
+  "disclaimer": "AI 分析基于公开数据生成，非投资建议。13F 有 ~45 天延迟；社交信号为最佳努力。"
+}

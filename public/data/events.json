@@ -1,0 +1,38 @@
+[
+  {
+    "date": "2026-06-02",
+    "label": "MRVL 财报（盘后）",
+    "kind": "earnings",
+    "impact": "high",
+    "tickers": [
+      "MRVL"
+    ]
+  },
+  {
+    "date": "2026-06-02",
+    "label": "ISM 制造业 PMI",
+    "kind": "econ",
+    "impact": "med"
+  },
+  {
+    "date": "2026-06-03",
+    "label": "FOMC 会议纪要",
+    "kind": "econ",
+    "impact": "high"
+  },
+  {
+    "date": "2026-06-04",
+    "label": "Cerebras IPO 定价",
+    "kind": "ipo",
+    "impact": "med",
+    "tickers": [
+      "CBRS"
+    ]
+  },
+  {
+    "date": "2026-06-05",
+    "label": "非农就业（NFP）",
+    "kind": "econ",
+    "impact": "high"
+  }
+]

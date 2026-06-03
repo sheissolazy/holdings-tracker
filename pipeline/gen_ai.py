@@ -1,0 +1,79 @@
+"""AI 分析 → 每个关注 ticker 的 thesis（看多/看空/关注 + 分段长文 + 可比公司）。
+
+源：Anthropic Claude API（构建时调用，需 ANTHROPIC_API_KEY）。
+做法：喂入「基本面 + 持仓事件 + 近期新闻」→ 生成结构化 thesis → 缓存进 stocks/{T}.json。
+标注：AI 基于公开数据生成，非投资建议 + 模型版本 + 生成时间。
+缓存：可只对「数据有变化」的 ticker 重生成以控成本（这里简化为全量）。
+"""
+import json
+import os
+import datetime as dt
+from lib import safe, MOCK
+
+API_KEY = os.environ.get("ANTHROPIC_API_KEY")
+MODEL = "claude-sonnet-4-5"
+
+PROMPT = """你是严谨的股票研究助理。基于以下公开信息，为 {ticker}（{name}）生成投资分析。
+只输出 JSON，结构：
+{{"bull":[3条],"bear":[3条],"watch":[3条],
+  "sections":[{{"heading":"公司概览","body":"..."}}, ...6段],
+  "comparables":[{{"ticker":"...","name":"...","note":"..."}}]}}
+要求：中文；客观、点出多空分歧；不得给出买卖指令。
+
+== 跟踪者动向 ==
+{signals}
+
+== 近期新闻 ==
+{news}
+"""
+
+
+def generate(ticker, name, signals, news):
+    import anthropic  # 仅真实调用时需要
+    client = anthropic.Anthropic(api_key=API_KEY)
+    msg = client.messages.create(
+        model=MODEL, max_tokens=2000,
+        messages=[{"role": "user", "content": PROMPT.format(
+            ticker=ticker, name=name,
+            signals=json.dumps(signals, ensure_ascii=False),
+            news=json.dumps([n["title"] for n in news], ensure_ascii=False))}],
+    )
+    text = msg.content[0].text
+    text = text[text.find("{"): text.rfind("}") + 1]
+    data = json.loads(text)
+    data["model"] = MODEL
+    data["generatedAt"] = dt.datetime.utcnow().isoformat() + "Z"
+    return data
+
+
+# ---- 兜底 thesis（与前端 mock 一致，缺 key 时用） ----
+_MOCK = {
+    "NVDA": {"bull": ["数据中心 GPU 仍供不应求", "CUDA 生态护城河深", "主权 AI 与推理需求接力训练需求"],
+             "bear": ["估值已计入高增长预期", "定制 ASIC 分流份额", "大资金建立大额 put 对冲"],
+             "watch": ["下季度数据中心毛利率", "出口管制变化", "大客户自研芯片进度"]},
+    "MRVL": {"bull": ["定制 AI 互连/ASIC 受益", "黄仁勋公开背书", "光通信 DSP 份额领先"],
+             "bear": ["客户集中度高", "二阶受益者", "周期性强"],
+             "watch": ["定制硅片订单节奏", "数据中心营收占比", "与 NVDA 竞合"]},
+    "BE": {"bull": ["AI 数据中心非电网供电", "Leopold 最大多头背书", "订单加速"],
+           "bear": ["尚未稳定盈利", "政策补贴依赖", "估值波动大"],
+           "watch": ["毛利率转正", "订单兑现", "现金消耗"]},
+    "AAPL": {"bull": ["服务高毛利增长", "生态粘性", "资本回报稳定"],
+             "bear": ["硬件增长乏力", "AI 叙事落后", "中国承压"],
+             "watch": ["Apple Intelligence 落地", "大中华区营收", "服务增速"]},
+    "SMH": {"bull": ["半导体板块 beta", "AI 资本开支主线", "成分股龙头集中"],
+            "bear": ["周期性强", "对 NVDA 高度敏感", "估值偏高"],
+            "watch": ["费城半导体指数趋势", "出口管制", "存储/设备景气"]},
+}
+
+
+def mock_thesis(ticker):
+    base = _MOCK.get(ticker, {"bull": [], "bear": [], "watch": []})
+    return {**base, "sections": [], "comparables": [],
+            "model": "claude-mock", "generatedAt": "2026-06-01T20:00:00Z"}
+
+
+def run(ticker, name, signals, news):
+    if MOCK or not API_KEY:
+        return mock_thesis(ticker)
+    return safe(lambda: generate(ticker, name, signals, news),
+                f"AI thesis {ticker}", lambda: mock_thesis(ticker))

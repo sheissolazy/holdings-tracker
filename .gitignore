@@ -1,0 +1,18 @@
+node_modules
+dist
+dist-ssr
+*.local
+*.tsbuildinfo
+test1.pdf
+.DS_Store
+.env
+.env.*
+!.env.example
+
+# Python data pipeline
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# 注意：public/data/*.json 是构建产物但要提交（静态站读它），不要忽略
