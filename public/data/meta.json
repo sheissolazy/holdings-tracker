@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-03T07:17:38Z",
-  "mode": "mock",
+  "generatedAt": "2026-06-03T07:36:59Z",
+  "mode": "live",
   "sources": {
     "13f": "SEC EDGAR",
     "congress": "house-stock-watcher",
@@ -19,7 +19,7 @@
   ],
   "counts": {
     "people": 8,
-    "signals": 9,
+    "signals": 35,
     "news": 17,
     "ipos": 5,
     "stocks": 5

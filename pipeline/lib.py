@@ -6,6 +6,7 @@
 import json
 import os
 import sys
+import gzip
 import datetime as dt
 import urllib.request
 import urllib.error
@@ -48,11 +49,26 @@ def _size(obj):
 def http_get(url, headers=None, timeout=20):
     req = urllib.request.Request(url, headers=headers or {"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=timeout) as r:
-        return r.read().decode("utf-8", "replace")
+        raw = r.read()
+        if r.headers.get("Content-Encoding") == "gzip" or raw[:2] == b"\x1f\x8b":
+            raw = gzip.decompress(raw)
+    return raw.decode("utf-8", "replace")
 
 
 def http_get_json(url, headers=None, timeout=20):
     return json.loads(http_get(url, headers, timeout))
+
+
+def http_post_json(url, payload, headers=None, timeout=25):
+    body = json.dumps(payload).encode()
+    h = {"Content-Type": "application/json"}
+    h.update(headers or {})
+    req = urllib.request.Request(url, data=body, headers=h)
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        raw = r.read()
+        if r.headers.get("Content-Encoding") == "gzip" or raw[:2] == b"\x1f\x8b":
+            raw = gzip.decompress(raw)
+    return json.loads(raw.decode("utf-8", "replace"))
 
 
 def iso(d):
