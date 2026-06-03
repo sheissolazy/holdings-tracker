@@ -17,11 +17,18 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code
       - name: Install deps
         run: pip install -r pipeline/requirements.txt
       - name: Run pipeline
+        # 用订阅额度（CLAUDE_CODE_OAUTH_TOKEN）生成 AI 分析，避免按量计费。
+        # 故意不传 ANTHROPIC_API_KEY：若它存在会优先并触发按量计费。
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
           X_AUTH_TOKEN: ${{ secrets.X_AUTH_TOKEN }}
           X_CT0: ${{ secrets.X_CT0 }}

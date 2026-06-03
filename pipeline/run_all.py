@@ -99,7 +99,7 @@ def main():
     write_json("events.json", events)
     write_json("tradeplan.json", {
         "forDate": "2026-06-02", "generatedAt": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "model": gen_ai.MODEL if not MOCK and gen_ai.API_KEY else "claude-mock",
+        "model": gen_ai.MODEL if not MOCK and gen_ai.active() else "claude-mock",
         "catalysts": [e for e in events if e["date"] == "2026-06-02"],
         "pendingSignals": [
             {"personId": "serenity", "ticker": "MRVL", "note": "Serenity 喊单 MRVL，叠加黄仁勋背书 + 明日财报"},
