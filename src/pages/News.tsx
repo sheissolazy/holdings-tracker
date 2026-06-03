@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react'
-import { allNews } from '../data/mock'
+import { useData } from '../data/DataProvider'
 import { Card, SectionTitle } from '../components/ui'
 import { cx } from '../lib/format'
 
@@ -8,7 +8,8 @@ const sourceTag = (s: string) =>
   s === '猫笔刀' ? 'bg-detail-soft text-detail border-detail/30' : 'bg-canvas text-muted border-line'
 
 export default function News() {
-  const sources = useMemo(() => ['全部', ...Array.from(new Set(allNews.map((n) => n.source)))], [])
+  const { news: allNews } = useData()
+  const sources = useMemo(() => ['全部', ...Array.from(new Set(allNews.map((n) => n.source)))], [allNews])
   const [source, setSource] = useState('全部')
   const [q, setQ] = useState('')
 
@@ -18,7 +19,7 @@ export default function News() {
       .filter((n) => (source === '全部' ? true : n.source === source))
       .filter((n) => (s ? n.title.toLowerCase().includes(s) || n.tags.some((t) => t.toLowerCase().includes(s)) : true))
       .sort((a, b) => b.publishedAt.localeCompare(a.publishedAt))
-  }, [source, q])
+  }, [source, q, allNews])
 
   // 按日期分组
   const groups = useMemo(() => {
@@ -34,7 +35,7 @@ export default function News() {
   return (
     <div>
       <h1 className="text-2xl font-extrabold">新闻 · 信息流</h1>
-      <p className="text-sm text-muted">聚合跟踪的人 / 标的 / 公众号相关新闻 · 外链原文（mock）</p>
+      <p className="text-sm text-muted">聚合跟踪的人 / 标的相关新闻 · 外链原文</p>
 
       {/* 搜索 + 来源筛选 */}
       <div className="mt-4 flex flex-col gap-3">

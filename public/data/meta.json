@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T06:43:40Z",
+  "generatedAt": "2026-06-03T07:17:38Z",
   "mode": "mock",
   "sources": {
     "13f": "SEC EDGAR",
@@ -10,10 +10,17 @@
     "ipos": "Finnhub",
     "ai": "claude-sonnet-4-5"
   },
+  "tickers": [
+    "NVDA",
+    "MRVL",
+    "BE",
+    "AAPL",
+    "SMH"
+  ],
   "counts": {
     "people": 8,
     "signals": 9,
-    "news": 2,
+    "news": 17,
     "ipos": 5,
     "stocks": 5
   },

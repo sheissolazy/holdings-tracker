@@ -1,12 +1,16 @@
 import { useState } from 'react'
 import { useParams, Link } from 'react-router-dom'
-import { stocks, signalsByTicker } from '../data/mock'
+import { useData } from '../data/DataProvider'
+import { useJson } from '../data/useJson'
+import { stocks as mockStocks } from '../data/mock'
+import type { Stock } from '../data/types'
 import { Card, SectionTitle, SignalCard } from '../components/ui'
 import { cx } from '../lib/format'
 
 export default function Analysis() {
   const { ticker } = useParams()
-  const s = ticker ? stocks[ticker] : undefined
+  const { signalsByTicker } = useData()
+  const { data: s } = useJson<Stock | null>(`stocks/${ticker}.json`, (ticker && mockStocks[ticker]) || null)
   const [regenAt, setRegenAt] = useState<string | null>(null)
   const [regenerating, setRegenerating] = useState(false)
 

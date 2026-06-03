@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import type { Signal, NewsItem, SignalType } from '../data/types'
-import { peopleById } from '../data/mock'
+import { useData } from '../data/DataProvider'
 import { cx, fmtPct, pctColor, fmtMoney } from '../lib/format'
 
 export function Card({ className, children }: { className?: string; children: React.ReactNode }) {
@@ -40,6 +40,7 @@ export function DataBadge({ status }: { status: 'loading' | 'live' | 'fallback' 
 }
 
 export function Avatar({ id, size = 36 }: { id: string; size?: number }) {
+  const { peopleById } = useData()
   const p = peopleById[id]
   const initials = p?.name?.replace(/[^A-Za-z一-龥]/g, '').slice(0, 2) || '?'
   return (
@@ -77,6 +78,7 @@ const CHANGE_LABEL: Record<string, string> = { new: '新建', add: '加仓', tri
 
 // 核心：按 signal.type 差异化展示「谁对这只票做了什么」
 export function SignalCard({ s, showPerson = true, showTicker = false }: { s: Signal; showPerson?: boolean; showTicker?: boolean }) {
+  const { peopleById } = useData()
   const m = TYPE_META[s.type]
   const p = peopleById[s.personId]
   return (
