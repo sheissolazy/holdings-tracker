@@ -2,6 +2,7 @@ import { useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import { useData } from '../data/DataProvider'
 import { Card, SectionTitle, Avatar, Sparkline, SentPill } from '../components/ui'
+import { FxPanel } from '../components/FxPanel'
 import { cx } from '../lib/format'
 import type { Signal } from '../data/types'
 
@@ -234,7 +235,7 @@ export default function Briefing() {
           {market.length > 0 && (
             <>
               <SectionTitle>市场背景 · 商品 · 汇率</SectionTitle>
-              {['大盘', '商品', '汇率'].map((g) => {
+              {['大盘', '商品'].map((g) => {
                 const items = market.filter((m) => (m.group ?? '大盘') === g)
                 if (!items.length) return null
                 return (
@@ -252,6 +253,7 @@ export default function Briefing() {
                   </div>
                 )
               })}
+              <FxPanel items={market.filter((m) => (m.group ?? '大盘') === '汇率')} />
             </>
           )}
         </div>
