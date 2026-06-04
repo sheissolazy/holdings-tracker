@@ -10,7 +10,7 @@ const EMPTY_TRADEPLAN: TradePlan = {
   catalysts: [], pendingSignals: [], draftActions: [],
 }
 
-export interface MarketItem { label: string; value: string; chg: string; pos: boolean }
+export interface MarketItem { label: string; value: string; chg: string; pos: boolean; group?: string }
 export interface StockSummary {
   ticker: string; name: string; exchange: string; sector: string
   price: number; change5dPct: number; changeYtdPct: number

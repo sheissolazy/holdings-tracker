@@ -1,7 +1,12 @@
-"""大盘速览 → market.json（SPY / Gold / 10Y 国债收益率）。
+"""大盘 / 商品 / 汇率速览 → market.json。
 
-源：Yahoo Finance chart API（免费、无密钥），取 meta 最新价 + 前收盘算涨跌。
-抓不到 → 该项不进结果（无假数据原则）；前端对空数组做隐藏处理。
+源：Yahoo Finance chart API（免费、无密钥）。用最近两根日 K 收盘算真实单日涨跌。
+抓不到 → 该项不进结果（无假数据原则）；前端对空做隐藏处理。
+
+分三组（前端按 group 分区展示）：
+  大盘  : 标普500(SPY)、10年美债收益率(^TNX)、美元指数(DXY)
+  商品  : 黄金(GC=F)、原油WTI(CL=F)
+  汇率  : 美元/人民币、美元/日元、美元/韩元、欧元/美元、美元/加元
 """
 from lib import http_get_json, safe
 
@@ -9,16 +14,24 @@ YH = "https://query1.finance.yahoo.com/v8/finance/chart/{sym}?range=5d&interval=
 YH2 = "https://query2.finance.yahoo.com/v8/finance/chart/{sym}?range=5d&interval=1d"
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
 
-# (展示名, Yahoo 符号, 是否收益率/百分比项)
+# (展示名, Yahoo 符号[已 URL 编码], 分组, 类型)
+# 类型 kind: usd=美元计价 / index=指数(无$) / yield=收益率(%,bp) / fx=汇率
 ITEMS = [
-    ("SPY", "SPY", False),
-    ("Gold", "GLD", False),
-    ("10Y Yield", "%5ETNX", True),  # ^TNX = 10年期国债收益率（已是百分数）
+    ("标普500",   "SPY",        "大盘", "usd"),
+    ("10年美债",  "%5ETNX",     "大盘", "yield"),
+    ("美元指数",  "DX-Y.NYB",   "大盘", "index"),
+    ("黄金",      "GC%3DF",     "商品", "usd"),
+    ("原油WTI",   "CL%3DF",     "商品", "usd"),
+    ("美元/人民币", "CNY%3DX",  "汇率", "fx"),
+    ("美元/日元",  "JPY%3DX",   "汇率", "fx"),
+    ("美元/韩元",  "KRW%3DX",   "汇率", "fx"),
+    ("欧元/美元",  "EURUSD%3DX","汇率", "fx"),
+    ("美元/加元",  "CAD%3DX",   "汇率", "fx"),
 ]
 
 
 def _series(sym):
-    """返回 (最新价, 上一交易日收盘) —— 用最近两根日 K 的收盘计算真实单日涨跌。"""
+    """返回 (最新价, 上一交易日收盘)。"""
     try:
         data = http_get_json(YH.format(sym=sym), headers=UA)
     except Exception:
@@ -33,31 +46,42 @@ def _series(sym):
     if len(closes) < 2:
         raise ValueError("数据不足")
     price = meta.get("regularMarketPrice") or closes[-1]
-    prev = closes[-2]
-    return price, prev
+    return price, closes[-2]
 
 
-def fetch_one(label, sym, is_yield):
+def _fmt_value(price, kind):
+    if kind == "yield":
+        return f"{price:.2f}%"
+    if kind == "usd":
+        return f"${price:,.2f}"
+    if kind == "index":
+        return f"{price:.2f}"
+    # fx：按量级选小数位
+    if price >= 100:
+        return f"{price:,.2f}"
+    return f"{price:.4f}"
+
+
+def fetch_one(label, sym, group, kind):
     price, prev = _series(sym)
     if price is None or prev is None:
         raise ValueError("缺价格")
     diff = price - prev
     pos = diff >= 0
-    if is_yield:
-        value = f"{price:.2f}%"
-        bp = round(diff * 100)  # 收益率变动用基点 bp
+    if kind == "yield":
+        bp = round(diff * 100)
         chg = f"{'+' if pos else ''}{bp}bp"
     else:
-        value = f"${price:,.2f}"
         pctv = diff / prev * 100 if prev else 0
         chg = f"{'+' if pos else ''}{pctv:.1f}%"
-    return {"label": label, "value": value, "chg": chg, "pos": pos}
+    return {"label": label, "value": _fmt_value(price, kind),
+            "chg": chg, "pos": pos, "group": group}
 
 
 def run():
     out = []
-    for label, sym, is_yield in ITEMS:
-        res = safe(lambda l=label, s=sym, y=is_yield: fetch_one(l, s, y),
+    for label, sym, group, kind in ITEMS:
+        res = safe(lambda l=label, s=sym, g=group, k=kind: fetch_one(l, s, g, k),
                    f"market {label}", lambda: None)
         if res:
             out.append(res)
