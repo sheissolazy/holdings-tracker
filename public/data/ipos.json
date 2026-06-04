@@ -45,10 +45,10 @@
   },
   {
     "ticker": "INIO",
-    "name": "INNIO Holding GmbH",
+    "name": "INNIO Group Holding B.V.",
     "date": "2026-06-04",
     "priceRange": [
-      24.0,
+      27.0,
       27.0
     ],
     "sector": "—",
@@ -60,7 +60,7 @@
     "date": "2026-06-04",
     "priceRange": [
       13.5,
-      16.5
+      13.5
     ],
     "sector": "—",
     "exchange": "NYSE"
@@ -70,8 +70,8 @@
     "name": "Quantinuum Inc.",
     "date": "2026-06-04",
     "priceRange": [
-      53.0,
-      55.0
+      60.0,
+      60.0
     ],
     "sector": "—",
     "exchange": "NASDAQ Global"
@@ -88,14 +88,36 @@
     "exchange": "NYSE"
   },
   {
+    "ticker": "IPVVU",
+    "name": "InterPrivate Investment Partners V, Inc.",
+    "date": "2026-06-04",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global"
+  },
+  {
     "ticker": "LFTO",
     "name": "Liftoff Mobile, Inc.",
     "date": "2026-06-04",
     "priceRange": [
-      20.0,
-      22.0
+      23.0,
+      23.0
     ],
     "sector": "—",
     "exchange": "NASDAQ Global Select"
+  },
+  {
+    "ticker": "LTGRU",
+    "name": "Long Table Growth Corp.",
+    "date": "2026-06-04",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global"
   }
 ]

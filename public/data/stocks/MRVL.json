@@ -3,21 +3,14 @@
   "name": "Marvell Technology",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 318.62,
-  "change5dPct": 55.6,
-  "changeYtdPct": 224.5,
+  "price": 316.43,
+  "change5dPct": 54.5,
+  "changeYtdPct": 219.9,
   "marketCap": "$266.7B",
   "pe": 97.1,
   "revenue": "—",
   "revenueYoYPct": 34,
   "prices": [
-    {
-      "t": "2025-12-04",
-      "o": 99.41,
-      "h": 102.77,
-      "l": 97.18,
-      "c": 98.19
-    },
     {
       "t": "2025-12-05",
       "o": 100.4,
@@ -882,78 +875,130 @@
     {
       "t": "2026-06-04",
       "o": 282.95,
-      "h": 319.54,
+      "h": 321.5,
       "l": 277.59,
-      "c": 318.62
+      "c": 316.43
     }
   ],
   "thesis": {
-    "bull": [],
-    "bear": [],
-    "watch": [],
-    "sections": [],
-    "comparables": [],
-    "model": "（分析暂不可用）",
-    "generatedAt": null,
-    "unavailable": true
+    "bull": [
+      "英伟达CEO黄仁勋公开表示看好Marvell成为下一个万亿美元市值公司，高层背书直接拉动股价单日上涨5%，彰显其在AI定制芯片（ASIC）赛道的战略地位",
+      "TSMC预测AI芯片需求将持续高增长，作为主要晶圆代工客户，Marvell有望持续受益于云厂商自研芯片（XPU）订单扩张，微软、谷歌、亚马逊等超大规模客户采购需求旺盛",
+      "相较英伟达GPU的通用算力路线，Marvell专注定制ASIC与互联芯片，在功耗效率与单位算力成本上具备差异化优势，云厂商降本增效诉求有利于加速向定制芯片迁移"
+    ],
+    "bear": [
+      "Jim Cramer公开对Marvell发出警告，叠加Broadcom AI业绩指引不及市场超高预期后股价暴跌13%-15%，显示市场对AI芯片板块估值泡沫风险的担忧正在蔓延至Marvell",
+      "Broadcom的失误重燃「AI芯片估值是否透支未来」的争议，Marvell当前市盈率处于历史高位，一旦超大规模客户资本支出节奏放缓，股价将面临显著回调压力",
+      "Marvell自身盈利规模仍与英伟达、Broadcom存在较大差距，万亿市值目标隐含极高增长假设，若AI需求增速不及预期或竞争对手加速追赶，叙事逻辑可能迅速逆转"
+    ],
+    "watch": [
+      "Broadcom财报所揭示的AI芯片需求「天花板」信号是否具有行业普遍性，后续各大超大规模客户资本支出指引将是关键验证节点",
+      "Marvell自研云网络芯片（如Octeon、Teralynx）的设计赢单进展，以及与英伟达生态系统在互联互通层面的合作深度",
+      "宏观环境中的中美科技出口管制动态，Marvell部分客户涉及中国市场，相关风险敞口需持续评估"
+    ],
+    "sections": [
+      {
+        "heading": "公司概览",
+        "body": "Marvell Technology（纳斯达克：MRVL）是一家总部位于美国加州的半导体公司，专注于数据基础设施芯片设计，核心产品涵盖定制AI加速芯片（ASIC）、云网络处理器、以太网交换芯片及光互联器件。公司已从传统存储控制器厂商成功转型为AI时代数据中心芯片供应商，超大规模云厂商为其主要营收来源。"
+      },
+      {
+        "heading": "AI定制芯片机遇",
+        "body": "在生成式AI算力军备竞赛背景下，谷歌、亚马逊、微软等超大规模客户为降低对英伟达GPU的依赖并优化训练与推理成本，正大力投资自研定制芯片。Marvell凭借深厚的ASIC设计能力与封装集成经验，已成为多家云厂商的关键合作伙伴，这一赛道被视为公司未来数年最重要的增长引擎。"
+      },
+      {
+        "heading": "近期股价催化因素",
+        "body": "英伟达CEO黄仁勋近期公开表达对Marvell的高度认可，称其有潜力成为下一个万亿美元市值公司，消息引发市场强烈反响，股价单日劲涨约5%。与此同时，TSMC对AI芯片需求的乐观预测也为整体板块情绪提供支撑，机构资金阶段性回流AI基础设施相关标的。"
+      },
+      {
+        "heading": "主要风险与争议",
+        "body": "Broadcom最新财报季AI业绩指引不及市场极度乐观预期，股价单日暴跌逾13%，引发市场对AI芯片赛道估值是否过热的广泛讨论。Marvell估值同样处于历史高位，市场对其能否兑现高增长预期存在明显分歧。知名股评人Jim Cramer亦对Marvell发出警示，进一步加大投资者心理压力。"
+      },
+      {
+        "heading": "竞争格局",
+        "body": "Marvell在定制ASIC领域的主要竞争对手包括Broadcom及新兴的Alchip Technologies（ALAB，近三个月涨幅超200%）。在通用GPU市场，英伟达仍占绝对主导地位。Marvell的差异化策略在于深度绑定特定超大规模客户并提供端到端定制解决方案，但这也意味着客户集中度风险较高。"
+      },
+      {
+        "heading": "关键指标与前瞻",
+        "body": "投资者应重点关注：超大规模客户资本支出指引的季度变化、Marvell定制ASIC业务的设计赢单数量及量产节点、光互联与以太网网络芯片的竞争壁垒，以及公司毛利率能否随产品结构升级持续改善。中期内，AI数据中心基础设施投资的持续性是支撑股价逻辑的核心变量。"
+      }
+    ],
+    "comparables": [
+      {
+        "ticker": "AVGO",
+        "name": "Broadcom",
+        "note": "定制ASIC与网络芯片直接竞争对手，体量更大、客户更分散，近期AI指引不及预期引发估值重估"
+      },
+      {
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "GPU算力主导者，同时也是Marvell的重要战略背书方，二者在AI基础设施层面存在合作与竞争的复杂关系"
+      },
+      {
+        "ticker": "ALAB",
+        "name": "Alchip Technologies",
+        "note": "新兴定制ASIC设计服务商，近三个月涨幅超200%，体现市场对该赛道的高度热情，也反映估值波动风险"
+      }
+    ],
+    "model": "claude-code（订阅）",
+    "generatedAt": "2026-06-04T22:25:21.524372Z"
   },
   "news": [
     {
-      "id": "MRVL-140523806",
-      "title": "Broadcom's Stock Sinks Despite Solid Earnings. Other Chip Stocks Are Sliding Too.",
+      "id": "MRVL-140529117",
+      "title": "Nvidia’s CEO Sees Marvell Becoming the Next $1 Trillion Company. Shares Gained Another 5% Today.",
       "source": "Yahoo",
       "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=b68333310d3a2990c33e05a6e85815bab9579f18dd26a149cbb1bb92da321a0f",
+      "url": "https://finnhub.io/api/news?id=4d1bfe188441dba7474760304d0367ce34acb2aeeea661d086d2bbeaa5259bc5",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140523455",
-      "title": "Jensen Huang's $70 Billion Endorsement Didn't Eliminate Marvell's Risks",
+      "id": "MRVL-140527158",
+      "title": "Broadcom's 13% Slide Puts AI Chip Valuations On Watch",
       "source": "Yahoo",
       "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=a906626103b426bce655d4284ffc75f96c393b6295030bbc87be4ebb82386cdf",
+      "url": "https://finnhub.io/api/news?id=18385e9b91dc84318bc3e760cddb058294cce29334c7db5d4fd513abfe5ba8dd",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140523646",
-      "title": "Ciena Stock Plummets After Earnings Beat. Revenue Growth of 40% Wasn’t Enough.",
+      "id": "MRVL-140527195",
+      "title": "Quantinuum, Broadcom, UnitedHealth, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
       "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=55555e9070a1be1440e20b0988a3aff0c0797ab0223730b39e4a8919f1ff42bf",
+      "url": "https://finnhub.io/api/news?id=4b78d323087c76d4703722141585d6247b34aaa5c2d1da9dc26c4e407e19b2c0",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140523497",
-      "title": "Broadcom, Micron, Marvell, Ciena, and More Stocks That Explain Today’s Market",
+      "id": "MRVL-140527196",
+      "title": "NVIDIA Stock and the Hundred-Fold Compute Whisper",
       "source": "Yahoo",
       "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=f7e3126eca07c08b6002e8cd87418988727a631bd2db20644971fbf3b846743c",
+      "url": "https://finnhub.io/api/news?id=4092e70abfec5822e81d606d39668a51e17a65d19447d5b5e33ec79b14981dcd",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140522352",
-      "title": "Intel, AMD, Micron shares sink as Broadcom results spark semiconductor sector sell-off",
+      "id": "MRVL-140527272",
+      "title": "ALAB Soars 203% in Three Months: Should You Hold or Fold the Stock?",
       "source": "Yahoo",
       "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=52378ab0c65c7655150f9c025a240fce9c37cc042c535c34d080801ec3c625a3",
+      "url": "https://finnhub.io/api/news?id=a81ce39f365ac96922bff8123caac7c5e054ed6f320f0591af08eddaa3545cc6",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140523810",
-      "title": "Marvell Technology, Inc. (MRVL) is Attracting Investor Attention: Here is What You Should Know",
+      "id": "MRVL-140525788",
+      "title": "Jim Cramer sounds the alarm on Marvell",
       "source": "Yahoo",
       "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=3f53dbda3afe72c23c11de9d458dc29819d3730bb57658b41e7c1a3b8775a7a2",
+      "url": "https://finnhub.io/api/news?id=15abb14a8371908069a8bec2492c73ee6647896f20df6a8bcf650ebf6af6e90c",
       "tags": [
         "MRVL"
       ]
