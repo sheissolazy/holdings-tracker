@@ -98,6 +98,11 @@ def main():
             "ipos": "Finnhub", "fundamentals": "Finnhub", "ai": gen_ai.MODEL,
         },
         "tickers": list(TICKERS),
+        # 数据源健康：前端据此提示（如 X 登录 cookie 过期需更新）
+        "health": {
+            "x": fetch_social.X_STATUS,   # unconfigured | ok | expired
+            "checkedAt": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        },
         "counts": {"people": len(PEOPLE), "signals": len(signals),
                    "news": len(all_news), "ipos": len(ipos), "stocks": len(TICKERS)},
         "disclaimer": "AI 分析基于公开数据生成，非投资建议。13F 有 ~45 天延迟。无真实来源的数据均留空。",

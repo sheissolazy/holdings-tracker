@@ -16,11 +16,24 @@ import json
 import datetime as dt
 import urllib.request
 import urllib.parse
+import urllib.error
 from lib import safe, write_json
 from config import PEOPLE_BY_ID
 
 X_AUTH = os.environ.get("X_AUTH_TOKEN")
 X_CT0 = os.environ.get("X_CT0")
+
+# X 登录健康状态，供 run_all 写入 meta.json，前端据此提示「cookie 过期」。
+#   unconfigured=未配置 cookie / ok=本次抓取成功 / expired=cookie 失效（需更新）
+X_STATUS = "unconfigured"
+
+
+def _is_auth_error(exc):
+    """判断异常是否为 X 登录失效（cookie 过期）而非普通网络/解析错误。"""
+    if isinstance(exc, urllib.error.HTTPError) and exc.code in (401, 403):
+        return True
+    msg = str(exc).lower()
+    return "authenticate" in msg or "unauthorized" in msg or "forbidden" in msg
 # X 网页版公共 bearer（非私密；浏览器同样使用）
 X_BEARER = ("AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs"
             "%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA")
@@ -215,15 +228,29 @@ def fetch_trump(handle="realDonaldTrump", days=30, limit=8):
 
 
 def run():
+    global X_STATUS
     sigs = []
     sigs += safe(fetch_trump, "Truth Social (Trump)", lambda: [])
+
+    if not (X_AUTH and X_CT0):
+        X_STATUS = "unconfigured"
+        return sigs
+
+    X_STATUS = "ok"  # 乐观初值；遇到鉴权失败则置为 expired
     for pid in ("musk", "serenity"):
         p = PEOPLE_BY_ID.get(pid) or {}
         handle = (p.get("social") or {}).get("handle")
         if not handle:
             continue
-        sigs += safe(lambda pid=pid, h=handle: fetch_x(pid, h),
-                     f"X timeline ({pid})", lambda: [])
+        try:
+            sigs += fetch_x(pid, handle)
+        except Exception as e:  # noqa
+            if _is_auth_error(e):
+                X_STATUS = "expired"
+                print(f"  [warn] X cookie 失效（{pid}）：{e} → 社交信号暂停，请更新 cookie",
+                      flush=True)
+            else:
+                print(f"  [warn] X timeline ({pid}) 失败：{e} → 用兜底", flush=True)
     return sigs
 
 
