@@ -1,5 +1,4 @@
 import { Link } from 'react-router-dom'
-import { ipos as iposFallback } from '../data/mock'
 import { useJson } from '../data/useJson'
 import { Card, SectionTitle, DataBadge } from '../components/ui'
 import { cx } from '../lib/format'
@@ -17,7 +16,7 @@ function weekKey(d: string) {
 }
 
 export default function IPOs() {
-  const { data: ipos, status } = useJson<IPOItem[]>('ipos.json', iposFallback)
+  const { data: ipos, status } = useJson<IPOItem[]>('ipos.json', [])
   const sorted = [...ipos].sort((a, b) => a.date.localeCompare(b.date))
   const weeks = new Map<string, typeof sorted>()
   for (const i of sorted) {
@@ -67,6 +66,12 @@ export default function IPOs() {
           </Card>
         </div>
       ))}
+
+      {sorted.length === 0 && (
+        <p className="text-sm text-muted text-center py-12">
+          {status === 'loading' ? '加载中…' : '近期暂无可关注的 IPO。'}
+        </p>
+      )}
     </div>
   )
 }

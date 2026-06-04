@@ -2,7 +2,6 @@ import { useState } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import { useData } from '../data/DataProvider'
 import { useJson } from '../data/useJson'
-import { stocks as mockStocks } from '../data/mock'
 import type { Stock } from '../data/types'
 import { Card, SectionTitle, Pct, SignalCard, NewsRow } from '../components/ui'
 import KLine from '../components/KLine'
@@ -14,7 +13,7 @@ export default function StockDetail() {
   const { ticker } = useParams()
   const { signalsByTicker, ipos } = useData()
   const [range, setRange] = useState('3M')
-  const { data: s } = useJson<Stock | null>(`stocks/${ticker}.json`, (ticker && mockStocks[ticker]) || null)
+  const { data: s } = useJson<Stock | null>(`stocks/${ticker}.json`, null)
 
   // IPO 票可能还没有完整 stock 数据
   if (!s) {
@@ -65,10 +64,14 @@ export default function StockDetail() {
       {/* 基本面 */}
       <SectionTitle>关键基本面</SectionTitle>
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
-        <Fund label="市值" v={s.marketCap} />
+        <Fund label="市值" v={s.marketCap || '—'} />
         <Fund label="PE" v={s.pe == null ? '—' : s.pe.toFixed(1)} />
-        <Fund label="营收(TTM)" v={s.revenue} />
-        <Fund label="营收 YoY" v={`+${s.revenueYoYPct}%`} pos />
+        <Fund label="营收(TTM)" v={s.revenue || '—'} />
+        <Fund
+          label="营收 YoY"
+          v={s.revenueYoYPct == null ? '—' : `${s.revenueYoYPct >= 0 ? '+' : ''}${s.revenueYoYPct}%`}
+          pos={s.revenueYoYPct != null && s.revenueYoYPct >= 0}
+        />
       </div>
 
       {/* 你跟踪的人 */}
@@ -81,17 +84,25 @@ export default function StockDetail() {
 
       {/* AI 论点 */}
       <SectionTitle action={<Link to={`/analysis/${s.ticker}`} className="text-xs text-brand">完整分析 →</Link>}>AI 投资论点摘要</SectionTitle>
-      <div className="grid sm:grid-cols-3 gap-3">
-        <Thesis title="看多" color="pos" items={s.thesis.bull} />
-        <Thesis title="看空" color="neg" items={s.thesis.bear} />
-        <Thesis title="关注点" color="amber" items={s.thesis.watch} />
-      </div>
-      <p className="text-[11px] text-muted mt-2">由 {s.thesis.model} 生成于 {s.thesis.generatedAt?.slice(0, 10)} · 非投资建议</p>
+      {(s.thesis.bull.length || s.thesis.bear.length || s.thesis.watch.length) ? (
+        <>
+          <div className="grid sm:grid-cols-3 gap-3">
+            <Thesis title="看多" color="pos" items={s.thesis.bull} />
+            <Thesis title="看空" color="neg" items={s.thesis.bear} />
+            <Thesis title="关注点" color="amber" items={s.thesis.watch} />
+          </div>
+          <p className="text-[11px] text-muted mt-2">由 {s.thesis.model} 生成于 {s.thesis.generatedAt?.slice(0, 10)} · 非投资建议</p>
+        </>
+      ) : (
+        <Card className="p-4"><p className="text-sm text-muted">AI 分析暂不可用（下次数据管道运行后生成）。</p></Card>
+      )}
 
       {/* 新闻 */}
       <SectionTitle>{s.ticker} 相关新闻</SectionTitle>
       <Card className="px-4 divide-y divide-line">
-        {s.news.map((n) => <NewsRow key={n.id} n={n} />)}
+        {s.news.length
+          ? s.news.map((n) => <NewsRow key={n.id} n={n} />)
+          : <p className="text-sm text-muted py-4">暂无相关新闻。</p>}
       </Card>
     </div>
   )

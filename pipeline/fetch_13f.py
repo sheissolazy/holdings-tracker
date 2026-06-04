@@ -208,8 +208,7 @@ def run():
     out = []
     for pid in ("buffett", "leopold"):
         sigs = safe(lambda pid=pid: fetch_for(PEOPLE_BY_ID[pid]),
-                    f"13F {pid}",
-                    lambda pid=pid: [s for s in mock_signals() if s["personId"] == pid])
+                    f"13F {pid}", lambda: [])  # 抓不到 → 空，不编造持仓
         out.extend(sigs)
     return out
 

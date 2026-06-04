@@ -1,33 +1,85 @@
+import { useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import { useData } from '../data/DataProvider'
-import { Card, SectionTitle, Avatar, Sparkline, NewsRow, Pct, SentPill } from '../components/ui'
+import { Card, SectionTitle, Avatar, Sparkline, SentPill } from '../components/ui'
 import { cx } from '../lib/format'
+import type { Signal } from '../data/types'
 
 const IMPACT = { high: 'bg-amber-soft text-amber-700 border-amber/40', med: 'bg-canvas text-muted border-line', low: 'bg-canvas text-muted border-line' }
 
+// 真实信号的多空倾向（用于「共识 / 分歧」推导，不编造）
+function bias(s: Signal): 'bull' | 'bear' | null {
+  if (s.sentiment === 'bull') return 'bull'
+  if (s.sentiment === 'bear') return 'bear'
+  if (s.direction === 'put') return 'bear'
+  if (s.direction === 'long' || s.direction === 'call') return 'bull'
+  if (s.type === '13f') return 'bull'   // 13F 持仓 = 多头敞口
+  return null
+}
+
 export default function Briefing() {
   const { people, signals, news: allNews, events, ipos, market, signalsByPerson, peopleById, articlesByPersonId } = useData()
-  const consensus = signals.filter((s) => s.ticker === 'MRVL')         // 共识：多人看多 MRVL
-  const divergence = signals.filter((s) => s.ticker === 'NVDA')         // 分歧：Leopold put vs Pelosi/Trump 看多
+
+  const today = new Date().toISOString().slice(0, 10)
+
+  // 从真实信号推导「共识」：同一 ticker 被 ≥2 个不同的人持有/提及
+  const consensus = useMemo(() => {
+    const byTicker = new Map<string, Signal[]>()
+    for (const s of signals) {
+      if (!s.ticker) continue
+      const arr = byTicker.get(s.ticker) ?? []
+      arr.push(s)
+      byTicker.set(s.ticker, arr)
+    }
+    let best: { ticker: string; sigs: Signal[]; people: number } | null = null
+    for (const [ticker, sigs] of byTicker) {
+      const distinct = new Set(sigs.map((s) => s.personId)).size
+      if (distinct >= 2 && (!best || distinct > best.people)) best = { ticker, sigs, people: distinct }
+    }
+    return best
+  }, [signals])
+
+  // 从真实信号推导「分歧」：同一 ticker 同时存在多头与空头倾向
+  const divergence = useMemo(() => {
+    const byTicker = new Map<string, Signal[]>()
+    for (const s of signals) {
+      if (!s.ticker) continue
+      const arr = byTicker.get(s.ticker) ?? []
+      arr.push(s)
+      byTicker.set(s.ticker, arr)
+    }
+    for (const [ticker, sigs] of byTicker) {
+      const biases = new Set(sigs.map(bias).filter(Boolean))
+      if (biases.has('bull') && biases.has('bear')) return { ticker, sigs }
+    }
+    return null
+  }, [signals])
 
   const exportPdf = () => {
     const prev = document.title
-    document.title = '今日Briefing_2026-06-01'
+    document.title = `今日Briefing_${today}`
     window.print()
     setTimeout(() => { document.title = prev }, 800)
   }
 
-  // 合并「事件」与「新闻」为一条以今天为中心的时间线
-  const TODAY = '2026-06-01'
-  const upcoming = [...events].filter((e) => e.date > TODAY).sort((a, b) => a.date.localeCompare(b.date))
+  // 合并「事件」与「新闻」为一条以今天为中心的时间线（均为真实数据，缺则空）
+  const upcoming = [...events].filter((e) => e.date >= today).sort((a, b) => a.date.localeCompare(b.date))
   const recent = [...allNews].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt)).slice(0, 8)
+
+  // 今日要点：从真实数据派生（无数据则不显示该卡）
+  const highlights: { t: string; d: string; c: string }[] = []
+  if (consensus) highlights.push({ t: '共识持仓', d: `${consensus.people} 位跟踪者持有 ${consensus.ticker}`, c: 'amber' })
+  if (divergence) highlights.push({ t: '多空分歧', d: `${divergence.ticker} 多空并存`, c: 'coral' })
+  if (upcoming[0]) highlights.push({ t: '即将事件', d: `${upcoming[0].date.slice(5)} ${upcoming[0].label}`, c: 'brand' })
+  if (recent[0]) highlights.push({ t: '最新动态', d: recent[0].title, c: 'detail' })
+  const cards = highlights.slice(0, 4)
 
   return (
     <div>
       <div className="flex items-end justify-between">
         <div>
           <h1 className="text-2xl font-extrabold">今日 Briefing</h1>
-          <p className="text-sm text-muted">2026-06-01 周一 · 数据每日由管道更新</p>
+          <p className="text-sm text-muted">{today} · 数据每日由管道更新</p>
         </div>
         <div className="flex gap-2 no-print">
           <button onClick={exportPdf} className="text-sm font-semibold border border-line bg-white text-ink rounded-lg px-3 py-2 hover:bg-canvas">
@@ -37,21 +89,20 @@ export default function Briefing() {
         </div>
       </div>
 
-      {/* 今日要点 */}
-      <SectionTitle>今日要点</SectionTitle>
-      <div className="grid grid-cols-2 lg:grid-cols-4 gap-3">
-        {[
-          { t: '13F 申报', d: 'Situational Awareness 披露 ~$8.5B 芯片股 put', c: 'detail' },
-          { t: 'Congress', d: 'Pelosi 新建 NVDA LEAPS call', c: 'coral' },
-          { t: '本周关注', d: 'MRVL 财报（盘后）+ FOMC 纪要 + 非农', c: 'amber' },
-          { t: '市场异动', d: 'MRVL +6.4%，黄仁勋背书发酵', c: 'brand' },
-        ].map((k) => (
-          <Card key={k.t} className={cx('p-3 border-l-4', k.c === 'detail' && 'border-l-detail', k.c === 'coral' && 'border-l-coral', k.c === 'amber' && 'border-l-amber', k.c === 'brand' && 'border-l-brand')}>
-            <div className="text-[11px] font-bold text-muted">{k.t}</div>
-            <div className="text-sm font-medium mt-1 leading-snug">{k.d}</div>
-          </Card>
-        ))}
-      </div>
+      {/* 今日要点（真实派生，空则隐藏） */}
+      {cards.length > 0 && (
+        <>
+          <SectionTitle>今日要点</SectionTitle>
+          <div className="grid grid-cols-2 lg:grid-cols-4 gap-3">
+            {cards.map((k) => (
+              <Card key={k.t} className={cx('p-3 border-l-4', k.c === 'detail' && 'border-l-detail', k.c === 'coral' && 'border-l-coral', k.c === 'amber' && 'border-l-amber', k.c === 'brand' && 'border-l-brand')}>
+                <div className="text-[11px] font-bold text-muted">{k.t}</div>
+                <div className="text-sm font-medium mt-1 leading-snug line-clamp-2">{k.d}</div>
+              </Card>
+            ))}
+          </div>
+        </>
+      )}
 
       <div className="grid lg:grid-cols-3 gap-5 mt-2">
         {/* left/main */}
@@ -83,40 +134,47 @@ export default function Briefing() {
             })}
           </Card>
 
-          {/* 共识 / 分歧 */}
-          <SectionTitle>共识 & 分歧</SectionTitle>
-          <div className="grid sm:grid-cols-2 gap-3">
-            <Card className="p-3 bg-amber-soft border-amber/40">
-              <div className="text-xs font-bold text-amber-700 mb-2">🤝 共识持仓 · <Link to="/stock/MRVL" className="underline">MRVL</Link></div>
-              <div className="space-y-1.5">
-                {consensus.map((s, i) => (
-                  <div key={i} className="flex items-center gap-2 text-xs">
-                    <Avatar id={s.personId} size={20} />
-                    <span className="font-medium">{peopleById[s.personId]?.name}</span>
-                    {s.sentiment && <SentPill s={s.sentiment} />}
-                  </div>
-                ))}
+          {/* 共识 / 分歧（仅在真实推导出时显示） */}
+          {(consensus || divergence) && (
+            <>
+              <SectionTitle>共识 & 分歧</SectionTitle>
+              <div className="grid sm:grid-cols-2 gap-3">
+                {consensus && (
+                  <Card className="p-3 bg-amber-soft border-amber/40">
+                    <div className="text-xs font-bold text-amber-700 mb-2">🤝 共识持仓 · <Link to={`/stock/${consensus.ticker}`} className="underline">{consensus.ticker}</Link></div>
+                    <div className="space-y-1.5">
+                      {dedupePeople(consensus.sigs).map((s, i) => (
+                        <div key={i} className="flex items-center gap-2 text-xs">
+                          <Avatar id={s.personId} size={20} />
+                          <span className="font-medium">{peopleById[s.personId]?.name}</span>
+                          {s.sentiment && <SentPill s={s.sentiment} />}
+                        </div>
+                      ))}
+                    </div>
+                  </Card>
+                )}
+                {divergence && (
+                  <Card className="p-3 bg-coral-soft border-coral/40">
+                    <div className="text-xs font-bold text-coral mb-2">⚔️ 多空分歧 · <Link to={`/stock/${divergence.ticker}`} className="underline">{divergence.ticker}</Link></div>
+                    <div className="space-y-1.5">
+                      {divergence.sigs.map((s, i) => (
+                        <div key={i} className="flex items-center gap-2 text-xs">
+                          <Avatar id={s.personId} size={20} />
+                          <span className="font-medium">{peopleById[s.personId]?.name}</span>
+                          {s.sentiment && <SentPill s={s.sentiment} />}
+                          <span className="text-muted ml-auto">{s.type === 'options' ? `${s.direction?.toUpperCase()} ${s.strike ?? ''}` : s.type}</span>
+                        </div>
+                      ))}
+                    </div>
+                  </Card>
+                )}
               </div>
-            </Card>
-            <Card className="p-3 bg-coral-soft border-coral/40">
-              <div className="text-xs font-bold text-coral mb-2">⚔️ 多空分歧 · <Link to="/stock/NVDA" className="underline">NVDA</Link></div>
-              <div className="space-y-1.5">
-                {divergence.map((s, i) => (
-                  <div key={i} className="flex items-center gap-2 text-xs">
-                    <Avatar id={s.personId} size={20} />
-                    <span className="font-medium">{peopleById[s.personId]?.name}</span>
-                    {s.sentiment && <SentPill s={s.sentiment} />}
-                    <span className="text-muted ml-auto">{s.type === 'options' ? `${s.direction?.toUpperCase()} ${s.strike}` : s.type}</span>
-                  </div>
-                ))}
-              </div>
-            </Card>
-          </div>
+            </>
+          )}
 
           {/* 动态：事件 + 新闻合并时间线 */}
           <SectionTitle action={<Link to="/news" className="text-xs text-brand">全部 →</Link>}>动态 · 事件与新闻</SectionTitle>
           <Card className="px-4 divide-y divide-line">
-            {/* 即将到来的事件 */}
             {upcoming.map((e, i) => (
               <div key={`e${i}`} className="flex items-center gap-3 py-2.5">
                 <DateChip date={e.date} />
@@ -125,13 +183,6 @@ export default function Briefing() {
                 <span className={cx('text-[10px] font-bold px-1.5 py-0.5 rounded border', IMPACT[e.impact])}>{e.impact}</span>
               </div>
             ))}
-            {/* 今天分隔线 */}
-            <div className="flex items-center gap-2 py-2">
-              <div className="h-px bg-line flex-1" />
-              <span className="text-[11px] font-semibold text-muted">今天 · 06-01</span>
-              <div className="h-px bg-line flex-1" />
-            </div>
-            {/* 最近新闻（含公众号「猫笔刀」） */}
             {recent.map((n) => {
               const hasUrl = !!n.url && n.url !== '#'
               const body = (
@@ -156,6 +207,9 @@ export default function Briefing() {
                 </div>
               )
             })}
+            {upcoming.length === 0 && recent.length === 0 && (
+              <p className="text-sm text-muted py-4">暂无事件或新闻。</p>
+            )}
           </Card>
         </div>
 
@@ -163,7 +217,7 @@ export default function Briefing() {
         <div>
           <SectionTitle action={<Link to="/ipos" className="text-xs text-brand">更多</Link>}>本周打新 IPO</SectionTitle>
           <Card className="p-2 divide-y divide-line">
-            {ipos.map((ipo) => (
+            {ipos.length ? ipos.map((ipo) => (
               <Link key={ipo.ticker} to={`/stock/${ipo.ticker}`} className="flex items-center gap-2 p-2 hover:bg-canvas rounded-lg">
                 <div className="flex-1">
                   <div className="text-sm font-semibold">{ipo.name}</div>
@@ -174,23 +228,39 @@ export default function Briefing() {
                   <div className="text-[11px] text-muted">{ipo.date.slice(5)}</div>
                 </div>
               </Link>
-            ))}
+            )) : <p className="text-sm text-muted p-3">近期暂无 IPO。</p>}
           </Card>
 
-          <SectionTitle>市场背景</SectionTitle>
-          <div className="grid grid-cols-3 gap-2">
-            {market.map((m) => (
-              <Card key={m.label} className="p-2.5 text-center">
-                <div className="text-[11px] text-muted">{m.label}</div>
-                <div className="text-sm font-bold tnum mt-0.5">{m.value}</div>
-                <div className={cx('text-[11px] font-semibold tnum', m.pos ? 'text-pos' : 'text-neg')}>{m.chg}</div>
-              </Card>
-            ))}
-          </div>
+          {market.length > 0 && (
+            <>
+              <SectionTitle>市场背景</SectionTitle>
+              <div className="grid grid-cols-3 gap-2">
+                {market.map((m) => (
+                  <Card key={m.label} className="p-2.5 text-center">
+                    <div className="text-[11px] text-muted">{m.label}</div>
+                    <div className="text-sm font-bold tnum mt-0.5">{m.value}</div>
+                    <div className={cx('text-[11px] font-semibold tnum', m.pos ? 'text-pos' : 'text-neg')}>{m.chg}</div>
+                  </Card>
+                ))}
+              </div>
+            </>
+          )}
         </div>
       </div>
     </div>
   )
+}
+
+// 同一个人在某 ticker 可能有多条信号 → 共识列表里每人只显示一次
+function dedupePeople(sigs: Signal[]): Signal[] {
+  const seen = new Set<string>()
+  const out: Signal[] = []
+  for (const s of sigs) {
+    if (seen.has(s.personId)) continue
+    seen.add(s.personId)
+    out.push(s)
+  }
+  return out
 }
 
 function DateChip({ date }: { date: string }) {

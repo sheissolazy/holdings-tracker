@@ -81,6 +81,7 @@ export default function TradePlan() {
                   c.impact === 'high' ? 'bg-amber-soft text-amber-700 border-amber/40' : 'bg-canvas text-muted border-line')}>{c.impact}</span>
               </li>
             ))}
+            {p.catalysts.length === 0 && <li className="text-xs text-muted">暂无已知催化剂。</li>}
           </ul>
         </Card>
         <Card className="p-3">
@@ -96,6 +97,7 @@ export default function TradePlan() {
                 </div>
               </li>
             ))}
+            {p.pendingSignals.length === 0 && <li className="text-xs text-muted">暂无待处理信号。</li>}
           </ul>
         </Card>
       </div>

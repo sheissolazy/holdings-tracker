@@ -46,14 +46,11 @@ def mock():
 
 
 def run():
+    # 社交/言论抓取暂未接入真实源（truthbrush / X cookie）→ 一律空，不编造（无假数据原则）
     sigs = []
-    sigs += safe(fetch_trump, "Truth Social (Trump)",
-                 lambda: [s for s in mock() if s["personId"] == "trump"])
+    sigs += safe(fetch_trump, "Truth Social (Trump)", lambda: [])
     for pid, handle in (("musk", "elonmusk"), ("serenity", "serenity")):
-        sigs += safe(lambda h=handle: fetch_x(h), f"X timeline ({pid})",
-                     lambda pid=pid: [s for s in mock() if s["personId"] == pid])
-    # 黄仁勋 statement 走新闻/事件，但也作为信号展示
-    sigs += [s for s in mock() if s["personId"] == "jensen"]
+        sigs += safe(lambda h=handle: fetch_x(h), f"X timeline ({pid})", lambda: [])
     return sigs
 
 

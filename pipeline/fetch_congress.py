@@ -40,7 +40,8 @@ def mock():
 
 
 def run():
-    return safe(fetch, "Congress house-stock-watcher", mock)
+    # 抓不到 → 空，不编造国会交易（无假数据原则）
+    return safe(fetch, "Congress house-stock-watcher", lambda: [])
 
 
 if __name__ == "__main__":

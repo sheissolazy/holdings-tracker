@@ -1,20 +1,20 @@
 [
   {
     "label": "SPY",
-    "value": "548.2",
-    "chg": "+0.4%",
-    "pos": true
+    "value": "$754.24",
+    "chg": "-0.7%",
+    "pos": false
   },
   {
     "label": "Gold",
-    "value": "$2,418",
-    "chg": "+0.9%",
-    "pos": true
+    "value": "$407.87",
+    "chg": "-1.0%",
+    "pos": false
   },
   {
     "label": "10Y Yield",
-    "value": "4.31%",
-    "chg": "-3bp",
-    "pos": false
+    "value": "4.49%",
+    "chg": "+4bp",
+    "pos": true
   }
 ]
