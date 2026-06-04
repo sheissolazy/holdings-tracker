@@ -6,10 +6,10 @@
   "price": 310.26,
   "change5dPct": -0.2,
   "changeYtdPct": 10.5,
-  "marketCap": "—",
-  "pe": null,
+  "marketCap": "$4.56T",
+  "pe": 37.1,
   "revenue": "—",
-  "revenueYoYPct": null,
+  "revenueYoYPct": 13,
   "prices": [
     {
       "t": "2025-12-04",
@@ -882,65 +882,131 @@
   ],
   "thesis": {
     "bull": [
-      "服务业务（App Store、Apple Music、iCloud、Apple Pay等）保持高双位数增长，毛利率超过70%，持续改善整体利润结构，减少对硬件周期的依赖。",
-      "巴菲特旗下伯克希尔哈撒韦截至2026年3月底仍持有约2.28亿股，仓位占比22%，为第一大重仓股，体现顶级价值投资者对其长期护城河的高度认可。",
-      "Apple Intelligence等AI功能逐步落地iOS/macOS生态，有望驱动新一轮换机周期并开辟AI服务货币化空间，潜在营收增量尚未充分定价。"
+      "巴菲特旗下伯克希尔哈撒韦截至2026年3月仍持有约2.28亿股AAPL，仓位占比22%，持仓不变，显示顶级价值投资者对其长期竞争力的持续认可",
+      "苹果正积极推进由Gemini驱动的新一代Siri及iOS支付扩展，AI功能有望提升用户粘性并开辟服务收入增量",
+      "硬件+软件+服务三位一体的生态护城河深厚，用户迁移成本高，服务板块（App Store、Apple Pay、iCloud等）持续贡献高毛利率现金流"
     ],
     "bear": [
-      "中国市场面临华为Mate系列回归与国产替代政策双重压力，大中华区营收占比约15%-18%，若持续下滑将对整体业绩构成实质拖累。",
-      "全球智能手机市场趋于饱和，iPhone出货量增长空间有限，营收增长高度依赖提价策略，消费者换机意愿受宏观环境影响存在不确定性。",
-      "当前动态市盈率处于历史高位区间，PEG比率偏高，若服务增速放缓或AI商业化低于预期，估值溢价存在收缩风险。"
+      "当前标普500估值处于69年历史次高位，整体市场面临均值回归压力，AAPL作为高权重成分股难以独善其身",
+      "Broadcom AI营收预期令市场失望引发芯片板块抛售，苹果自研芯片供应链及AI算力投入或面临成本上行压力",
+      "美联储加息忧虑再起叠加宏观不确定性，市场对高市盈率科技股的容忍度下降，AAPL高估值溢价存在压缩风险"
     ],
     "watch": [
-      "全球监管机构对App Store「围墙花园」模式的反垄断调查进展，欧盟DMA法规执行力度可能影响服务业务利润率。",
-      "印度及东南亚制造基地扩张进度，以及美中贸易摩擦对供应链成本结构的长期影响。",
-      "Apple Intelligence功能在用户中的实际渗透率与付费转化数据，这将是判断AI战略能否打开新增长曲线的关键先行指标。"
+      "即将召开的重大科技发布会（WWDC等）中AI功能的具体落地情况及开发者生态响应程度",
+      "美联储货币政策走向——若利率预期上修，将直接压制以未来现金流贴现定价的成长股估值",
+      "Gemini集成Siri及iOS支付扩张引发的反垄断审查与监管动向，尤其是欧盟及美国司法部的后续行动"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果公司（AAPL）是全球市值最大的上市企业之一，总部位于美国加利福尼亚州库比蒂诺。公司业务涵盖iPhone、Mac、iPad、可穿戴设备等硬件产品，以及App Store、Apple Music、iCloud、Apple TV+等数字服务。凭借高度整合的软硬件生态系统与强大的品牌溢价，苹果在全球消费电子及数字内容市场占据领导地位。"
+        "body": "苹果公司（AAPL）是全球市值最大的科技企业之一，核心业务涵盖iPhone、Mac、iPad等硬件产品，以及App Store、Apple Music、iCloud、Apple Pay等服务。公司以垂直整合的供应链管理和自研芯片（Apple Silicon）著称，生态系统覆盖全球超过10亿台活跃设备，形成极高用户迁移壁垒。"
       },
       {
         "heading": "财务表现",
-        "body": "苹果年营收规模超3800亿美元，整体毛利率约46%，其中服务板块毛利率持续高于70%。公司自由现金流强劲，常年维持大规模股票回购计划，累计回购金额居全球上市公司前列。资产负债表相对稳健，净现金头寸为管理层持续资本回报提供充裕弹药。"
+        "body": "苹果服务板块毛利率长期维持在70%以上，是整体利润率的重要支撑。公司持续以股票回购和分红形式回报股东，自由现金流生成能力稳健。然而iPhone硬件收入增速趋缓，市场期待AI驱动的换机潮能够重振硬件增长动能。当前估值较历史均值偏高，需要业绩持续兑现以支撑估值水平。"
       },
       {
-        "heading": "业务亮点",
-        "body": "服务业务已成为苹果第二大营收来源，且增速显著高于硬件。Apple Watch与AirPods构成的「可穿戴及家居配件」板块亦持续扩张。2024年起推进的Apple Intelligence战略将大语言模型能力深度集成至操作系统，有望重塑用户交互范式，并为未来订阅及增值服务创造新的货币化路径。"
+        "heading": "AI战略与产品创新",
+        "body": "苹果正将AI能力深度融入操作系统层，包括与Google Gemini合作升级Siri的自然语言理解能力，以及推进Apple Intelligence本地化推理功能。若AI功能显著提升用户体验，有望刺激换机需求并强化生态粘性。但与此同时，苹果在大模型自研方面相比OpenAI、Google的独立路线投入更为保守，外界对其AI竞争力边界存在分歧。"
+      },
+      {
+        "heading": "市场竞争格局",
+        "body": "苹果在高端智能手机市场占据主导地位，但面临三星、华为在中国市场的持续竞争压力。在AI助手领域，Google Gemini、微软Copilot及国内各大厂商均在加速迭代，苹果须确保Siri体验不落后于同类竞品。在支付与金融服务方向，Apple Pay的扩张路径同样受到监管和竞争双重约束。"
       },
       {
         "heading": "风险因素",
-        "body": "地缘政治风险是当前最主要的外部变量：中美贸易紧张局势既威胁供应链稳定性，又在中国市场形成不利的竞争环境。监管层面，欧盟、美国司法部对平台垄断的持续调查可能迫使App Store开放侧载或调降佣金比例，直接冲击服务业务利润。此外，宏观经济下行周期对高端消费品需求的抑制效应不容忽视。"
+        "body": "宏观层面，美联储利率政策走向存在不确定性，高利率环境对高估值科技股估值构成压制。市场整体估值处于历史高位，若出现系统性调整，AAPL难以完全规避。供应链方面，对台积电等关键供应商的集中依赖以及中美贸易摩擦持续影响制造成本。监管风险方面，欧美对科技平台的反垄断审查力度持续加强，App Store分成政策已在多地受到挑战。"
       },
       {
-        "heading": "机构持仓动态",
-        "body": "根据最新13F申报数据（截至2026年3月31日），伯克希尔哈撒韦持有苹果约2.279亿股，名义市值约578亿美元，占其股票投资组合约22%，持仓变动标注为「持有不动」。巴菲特此前曾多次减持，当前持仓稳定反映其对苹果长期商业模式的持续认可，同时也是市场重要的情绪锚点。"
-      },
-      {
-        "heading": "估值与展望",
-        "body": "苹果当前估值处于历史相对高位，市场定价中已隐含对服务业务持续高增长及AI货币化的乐观预期。多空分歧主要集中于：AI功能能否真正驱动换机需求与服务付费转化、中国市场份额能否企稳，以及监管压力对服务利润率的最终影响程度。短期催化剂包括WWDC新品发布、季度财报中服务营收指引，以及印度市场战略进展。"
+        "heading": "估值与机构动向",
+        "body": "伯克希尔哈撒韦持有AAPL约2.28亿股，市值约578亿美元，占其公开持股组合约22%，且持仓维持不变，体现出以巴菲特为代表的长线价值投资者对苹果商业模式的高度认可。与此同时，市场对AI催化剂能否转化为盈利增量仍存在观望情绪，多空在「AI溢价是否成立」这一核心命题上分歧明显，投资者需密切跟踪后续季报中服务收入及利润率的实际表现。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
         "name": "微软",
-        "note": "同为万亿美元级科技巨头，Azure云计算与Microsoft 365订阅模式提供可比的服务业务高利润率参照，AI战略布局（Copilot）更为激进。"
+        "note": "同为万亿市值科技巨头，Azure云+Copilot AI生态与苹果服务板块形成估值参照，AI商业化落地进度领先"
       },
       {
         "ticker": "GOOGL",
         "name": "Alphabet",
-        "note": "Android生态与苹果iOS直接竞争，广告与云业务结构不同，但同样面临反垄断监管压力，AI能力（Gemini）构成直接竞争威胁。"
+        "note": "Gemini模型直接合作方兼潜在竞争对手，Android生态与iOS形成双寡头格局，搜索广告收入模式与苹果服务形成对比"
+      },
+      {
+        "ticker": "META",
+        "name": "Meta Platforms",
+        "note": "消费级AI应用与硬件（AR/VR）并行推进，与苹果Vision Pro在空间计算赛道存在直接竞争关系"
       },
       {
         "ticker": "SAMSUNG",
-        "name": "三星电子（005930.KS）",
-        "note": "全球智能手机出货量第一，硬件技术能力突出，在中高端市场与苹果正面交锋，但服务生态护城河与品牌溢价显著弱于苹果。"
+        "name": "三星电子",
+        "note": "全球高端安卓手机市占率最大竞争对手，Galaxy AI系列对苹果iPhone市场份额构成直接威胁，尤其在中国及新兴市场"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-04T04:53:41.976952Z"
+    "generatedAt": "2026-06-04T05:07:19.314662Z"
   },
-  "news": []
+  "news": [
+    {
+      "id": "AAPL-140519413",
+      "title": "Should Apple’s Gemini‑Powered Siri and iOS Payments Push Require Action From AAPL Investors?",
+      "source": "Yahoo",
+      "publishedAt": "2026-06-04",
+      "url": "https://finnhub.io/api/news?id=b3d8aa29b0dc5d249534f76a25f45b07ac47021468965e2ecf41d667588eff4d",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-140518904",
+      "title": "Review & Preview: Down Day",
+      "source": "Yahoo",
+      "publishedAt": "2026-06-03",
+      "url": "https://finnhub.io/api/news?id=e24046c4cbe556159f02558a4bf3b363c5aac01ac469c0832822922aa5da4f13",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-140518244",
+      "title": "Warren Buffett's Berkshire Hathaway doubles down on Google",
+      "source": "Yahoo",
+      "publishedAt": "2026-06-03",
+      "url": "https://finnhub.io/api/news?id=39d857770a80ff6b8b0903efba6939f955a996dc565b3901dc0ca53094d38044",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-140518245",
+      "title": "Apple Stock Has Been Hot Lately. New AI Features Could Provide the Next Boost",
+      "source": "Yahoo",
+      "publishedAt": "2026-06-03",
+      "url": "https://finnhub.io/api/news?id=8aee1797347591af2b771a8e476772ddd274487a9bad03cef08b8e3314108331",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-140517167",
+      "title": "Broadcom Adds $280 Billion Before Earnings as AI Rally Faces Test",
+      "source": "Yahoo",
+      "publishedAt": "2026-06-03",
+      "url": "https://finnhub.io/api/news?id=91bf39081798eeb0910fa786a8c215e6ac26e60beeaa89ad579dc4190c392bad",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-140518482",
+      "title": "RiverPark Long/Short Opportunity Fund Q1 2026 Key Contributors And Detractors",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-06-03",
+      "url": "https://finnhub.io/api/news?id=6eb88e7894b18657c89dc5f2556c449237b6b315a5703e91050029546000c413",
+      "tags": [
+        "AAPL"
+      ]
+    }
+  ]
 }
