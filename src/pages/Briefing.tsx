@@ -233,16 +233,25 @@ export default function Briefing() {
 
           {market.length > 0 && (
             <>
-              <SectionTitle>市场背景</SectionTitle>
-              <div className="grid grid-cols-3 gap-2">
-                {market.map((m) => (
-                  <Card key={m.label} className="p-2.5 text-center">
-                    <div className="text-[11px] text-muted">{m.label}</div>
-                    <div className="text-sm font-bold tnum mt-0.5">{m.value}</div>
-                    <div className={cx('text-[11px] font-semibold tnum', m.pos ? 'text-pos' : 'text-neg')}>{m.chg}</div>
-                  </Card>
-                ))}
-              </div>
+              <SectionTitle>市场背景 · 商品 · 汇率</SectionTitle>
+              {['大盘', '商品', '汇率'].map((g) => {
+                const items = market.filter((m) => (m.group ?? '大盘') === g)
+                if (!items.length) return null
+                return (
+                  <div key={g} className="mb-3">
+                    <div className="text-[11px] font-bold text-muted mb-1.5">{g}</div>
+                    <div className="grid grid-cols-3 gap-2">
+                      {items.map((m) => (
+                        <Card key={m.label} className="p-2.5 text-center">
+                          <div className="text-[11px] text-muted truncate">{m.label}</div>
+                          <div className="text-sm font-bold tnum mt-0.5">{m.value}</div>
+                          <div className={cx('text-[11px] font-semibold tnum', m.pos ? 'text-pos' : 'text-neg')}>{m.chg}</div>
+                        </Card>
+                      ))}
+                    </div>
+                  </div>
+                )
+              })}
             </>
           )}
         </div>

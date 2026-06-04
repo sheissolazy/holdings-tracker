@@ -65,6 +65,39 @@ def fetch_ticker_news(ticker, days=14, limit=6):
     return out
 
 
+# 双边关系 / 地缘关键词 → 命中则给新闻打「双边关系」标签
+_GEO_KW = ["china", "chinese", "beijing", "tariff", "trade war", "export control",
+           "sanction", "taiwan", "russia", "ukraine", "iran", "opec",
+           "g7", "g20", "geopolit", "trade deal", "semiconductor export"]
+
+
+def fetch_general_news(limit=12):
+    """Finnhub 综合市场新闻（宏观/地缘）→ 进全局新闻流，标签「宏观」。
+    命中地缘关键词的再加「双边关系」标签。"""
+    if not FINNHUB_KEY:
+        raise RuntimeError("缺 FINNHUB_API_KEY")
+    data = http_get_json(
+        f"https://finnhub.io/api/v1/news?category=general&token={FINNHUB_KEY}")
+    out, seen = [], set()
+    for r in sorted(data, key=lambda x: x.get("datetime", 0), reverse=True):
+        title = (r.get("headline") or "").strip()
+        url_ = (r.get("url") or "").strip()
+        if not title or title in seen:
+            continue
+        seen.add(title)
+        d = dt.date.fromtimestamp(r.get("datetime", 0)).isoformat() if r.get("datetime") else ""
+        tags = ["宏观"]
+        low = title.lower()
+        if any(k in low for k in _GEO_KW):
+            tags.append("双边关系")
+        out.append({"id": f"gen-{r.get('id', len(out))}", "title": title,
+                    "source": r.get("source", "Finnhub"), "publishedAt": d,
+                    "url": url_, "tags": tags})
+        if len(out) >= limit:
+            break
+    return out
+
+
 def fetch_wechat(person):
     rss = person.get("rss")
     if not rss:
@@ -82,14 +115,16 @@ def run():
     for t in TICKERS:
         per_ticker[t] = safe(lambda t=t: fetch_ticker_news(t), f"Finnhub news {t}", lambda: [])
 
-    # 全局流：合并各 ticker，按日期倒序，去重标题
+    # 宏观/地缘综合新闻（重要新闻 + 双边关系）
+    general = safe(fetch_general_news, "Finnhub 综合新闻", lambda: [])
+
+    # 全局流：宏观新闻 + 各 ticker 新闻，按日期倒序，去重标题
     merged, seen = [], set()
-    for t in TICKERS:
-        for n in per_ticker[t]:
-            if n["title"] in seen:
-                continue
-            seen.add(n["title"])
-            merged.append(n)
+    for n in general + [x for t in TICKERS for x in per_ticker[t]]:
+        if n["title"] in seen:
+            continue
+        seen.add(n["title"])
+        merged.append(n)
     merged.sort(key=lambda n: n.get("publishedAt", ""), reverse=True)
 
     # 公众号文章流（猫笔刀）—— 只进 articles.json，不进全局新闻流
