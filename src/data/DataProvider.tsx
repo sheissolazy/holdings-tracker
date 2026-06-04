@@ -11,6 +11,8 @@ const EMPTY_TRADEPLAN: TradePlan = {
 }
 
 export interface MarketItem { label: string; value: string; chg: string; pos: boolean; group?: string; code?: string }
+export type SourceStatus = 'unconfigured' | 'ok' | 'expired'
+export interface MetaHealth { x: SourceStatus; checkedAt?: string }
 export interface StockSummary {
   ticker: string; name: string; exchange: string; sector: string
   price: number; change5dPct: number; changeYtdPct: number
@@ -27,6 +29,7 @@ export interface DataSet {
   market: MarketItem[]
   tickers: string[]
   stockIndex: StockSummary[]
+  health: MetaHealth
   // 派生 helper（替代 mock.ts 里的同名导出）
   peopleById: Record<string, Person>
   stockMetaById: Record<string, StockSummary>
@@ -85,7 +88,7 @@ export function DataProvider({ children }: { children: React.ReactNode }) {
         getJson<TradePlan>('tradeplan.json', EMPTY_TRADEPLAN),
         getJson<MarketItem[]>('market.json', []),
         getJson<StockSummary[]>('stocks_index.json', []),
-        getJson<{ tickers?: string[] }>('meta.json', { tickers: [] }),
+        getJson<{ tickers?: string[]; health?: MetaHealth }>('meta.json', { tickers: [] }),
       ])
       if (!alive) return
       const parts = [people, signals, news, articles, events, ipos, tradePlan, market, stockIndex, meta]
@@ -101,6 +104,7 @@ export function DataProvider({ children }: { children: React.ReactNode }) {
         market: market.value,
         stockIndex: stockIndex.value,
         tickers: meta.value.tickers ?? [],
+        health: meta.value.health ?? { x: 'unconfigured' },
         live,
       }))
     })()

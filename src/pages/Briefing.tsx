@@ -19,7 +19,7 @@ function bias(s: Signal): 'bull' | 'bear' | null {
 }
 
 export default function Briefing() {
-  const { people, signals, news: allNews, events, ipos, market, signalsByPerson, peopleById, articlesByPersonId } = useData()
+  const { people, signals, news: allNews, events, ipos, market, health, signalsByPerson, peopleById, articlesByPersonId } = useData()
 
   const today = new Date().toISOString().slice(0, 10)
 
@@ -89,6 +89,19 @@ export default function Briefing() {
           <Link to="/plan" className="text-sm font-semibold bg-brand text-white rounded-lg px-3 py-2">看明日计划 →</Link>
         </div>
       </div>
+
+      {/* X 登录失效提示：cookie 过期 → 社交信号暂停更新，需手动刷新 cookie */}
+      {health.x === 'expired' && (
+        <div className="mt-3 rounded-xl border border-amber/40 bg-amber-soft px-4 py-2.5 flex items-start gap-2 no-print">
+          <span className="text-amber-700 font-bold">⚠️</span>
+          <p className="text-[13px] text-amber-700 leading-snug">
+            X（Twitter）登录已过期，<b>社交信号（Musk / Serenity）暂停更新</b>。
+            请在浏览器重新登录 x.com，复制新的 <code className="font-mono">auth_token</code> 与
+            <code className="font-mono"> ct0</code> cookie 更新到 GitHub Secrets。
+            <Link to="/settings" className="underline ml-1">前往设置查看 →</Link>
+          </p>
+        </div>
+      )}
 
       {/* 今日要点（真实派生，空则隐藏） */}
       {cards.length > 0 && (

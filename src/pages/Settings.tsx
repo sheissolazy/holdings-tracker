@@ -15,9 +15,16 @@ const DEFAULTS: Settings = { disabledSources: [], refresh: 'close', compact: fal
 const TYPE_LABEL: Record<string, string> = { '13f': '13F', options: '期权', ptr: 'Congress', social: '社交', statement: '言论', wechat: '公众号' }
 const REFRESH = [['close', '每日收盘后'], ['6h', '每 6 小时'], ['manual', '仅手动']] as const
 
+const X_STATUS_META: Record<string, { label: string; cls: string }> = {
+  ok:           { label: '正常', cls: 'bg-pos/10 text-pos' },
+  expired:      { label: '登录已过期 · 需更新 cookie', cls: 'bg-neg/10 text-neg' },
+  unconfigured: { label: '未配置', cls: 'bg-canvas text-muted' },
+}
+
 export default function Settings() {
-  const { people } = useData()
+  const { people, health } = useData()
   const [s, setS] = useLocalStorage<Settings>('settings', DEFAULTS)
+  const xStatus = X_STATUS_META[health.x] ?? X_STATUS_META.unconfigured
 
   const toggleSource = (id: string) =>
     setS((v) => ({ ...v, disabledSources: v.disabledSources.includes(id) ? v.disabledSources.filter((x) => x !== id) : [...v.disabledSources, id] }))
@@ -99,15 +106,36 @@ export default function Settings() {
         </button>
       </Card>
 
+      {/* 数据源健康 */}
+      <SectionTitle>数据源健康</SectionTitle>
+      <Card className="divide-y divide-line">
+        <div className="flex items-center gap-3 p-3">
+          <div className="min-w-0 flex-1">
+            <div className="text-sm font-semibold">X（Twitter）登录</div>
+            <div className="text-[11px] text-muted">Musk / Serenity 社交信号，依赖浏览器 cookie</div>
+          </div>
+          <span className={cx('text-[11px] font-bold px-2 py-1 rounded', xStatus.cls)}>{xStatus.label}</span>
+        </div>
+        {health.x === 'expired' && (
+          <div className="p-3 text-xs text-muted leading-relaxed bg-amber-soft/40">
+            <b className="text-amber-700">如何更新：</b>在浏览器登录 x.com → 开发者工具 → Application → Cookies → x.com，
+            复制 <code className="font-mono">auth_token</code> 与 <code className="font-mono">ct0</code> 的值，
+            发给维护者更新到 GitHub Secrets（<code className="font-mono">X_AUTH_TOKEN</code> /
+            <code className="font-mono"> X_CT0</code>）。session cookie 通常 1–3 个月失效一次。
+          </div>
+        )}
+      </Card>
+
       {/* 关于 */}
       <SectionTitle>关于 · 数据源</SectionTitle>
       <Card className="p-4 text-xs text-muted space-y-2 leading-relaxed">
         <p>• 13F 持仓：SEC EDGAR（季度，~45 天申报延迟）。Buffett、Leopold/Situational Awareness。</p>
-        <p>• Congress 交易：house/senate-stock-watcher 开源数据集。Pelosi。</p>
-        <p>• 社交喊单：Truth Social API（Trump）/ 自托管 RSSHub（Musk、Serenity）；构建时经 Claude 抽取 ticker + 多空。</p>
+        <p>• Congress 交易：美国众议院书记官（House Clerk）官方披露 PDF，解析真实买卖。Pelosi。</p>
+        <p>• 社交喊单：X 网页版（Musk、Serenity，cookie 登录）/ Truth Social（Trump）；只在推文确实命中 ticker 时产信号，标「关注」，不臆测多空。</p>
         <p>• 公众号：猫笔刀，经 Wechat2RSS 接入（~6–24h 延迟）。</p>
-        <p>• AI 分析：构建时调用 Claude API 生成并缓存，非投资建议。</p>
-        <p className="pt-1 text-muted/70">当前为 mock 演示数据。真实数据由 GitHub Actions 定时管道生成。</p>
+        <p>• 行情 / 汇率：Yahoo Finance（免费）。新闻 / IPO / 基本面：Finnhub。</p>
+        <p>• AI 分析：构建时（GitHub Actions）调用 Claude 生成并缓存，非投资建议。</p>
+        <p className="pt-1 text-muted/70">无假数据原则：任何源抓不到一律留空，绝不编造。数据由定时管道生成。</p>
       </Card>
     </div>
   )
