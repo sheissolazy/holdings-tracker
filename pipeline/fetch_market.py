@@ -14,19 +14,20 @@ YH = "https://query1.finance.yahoo.com/v8/finance/chart/{sym}?range=5d&interval=
 YH2 = "https://query2.finance.yahoo.com/v8/finance/chart/{sym}?range=5d&interval=1d"
 UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"}
 
-# (展示名, Yahoo 符号[已 URL 编码], 分组, 类型)
+# (展示名, Yahoo 符号[已 URL 编码], 分组, 类型, [汇率 code])
 # 类型 kind: usd=美元计价 / index=指数(无$) / yield=收益率(%,bp) / fx=汇率
+# 汇率项带 code，与 fetch_fx.PAIRS 对应，前端据此加载 fx/{code}.json 迷你图。
 ITEMS = [
-    ("标普500",   "SPY",        "大盘", "usd"),
-    ("10年美债",  "%5ETNX",     "大盘", "yield"),
-    ("美元指数",  "DX-Y.NYB",   "大盘", "index"),
-    ("黄金",      "GC%3DF",     "商品", "usd"),
-    ("原油WTI",   "CL%3DF",     "商品", "usd"),
-    ("美元/人民币", "CNY%3DX",  "汇率", "fx"),
-    ("美元/日元",  "JPY%3DX",   "汇率", "fx"),
-    ("美元/韩元",  "KRW%3DX",   "汇率", "fx"),
-    ("欧元/美元",  "EURUSD%3DX","汇率", "fx"),
-    ("美元/加元",  "CAD%3DX",   "汇率", "fx"),
+    ("标普500",   "SPY",        "大盘", "usd",   None),
+    ("10年美债",  "%5ETNX",     "大盘", "yield", None),
+    ("美元指数",  "DX-Y.NYB",   "大盘", "index", None),
+    ("黄金",      "GC%3DF",     "商品", "usd",   None),
+    ("原油WTI",   "CL%3DF",     "商品", "usd",   None),
+    ("美元/人民币", "CNY%3DX",  "汇率", "fx",    "CNY"),
+    ("美元/日元",  "JPY%3DX",   "汇率", "fx",    "JPY"),
+    ("美元/韩元",  "KRW%3DX",   "汇率", "fx",    "KRW"),
+    ("欧元/美元",  "EURUSD%3DX","汇率", "fx",    "EUR"),
+    ("美元/加元",  "CAD%3DX",   "汇率", "fx",    "CAD"),
 ]
 
 
@@ -62,7 +63,7 @@ def _fmt_value(price, kind):
     return f"{price:.4f}"
 
 
-def fetch_one(label, sym, group, kind):
+def fetch_one(label, sym, group, kind, code=None):
     price, prev = _series(sym)
     if price is None or prev is None:
         raise ValueError("缺价格")
@@ -74,14 +75,17 @@ def fetch_one(label, sym, group, kind):
     else:
         pctv = diff / prev * 100 if prev else 0
         chg = f"{'+' if pos else ''}{pctv:.1f}%"
-    return {"label": label, "value": _fmt_value(price, kind),
+    item = {"label": label, "value": _fmt_value(price, kind),
             "chg": chg, "pos": pos, "group": group}
+    if code:
+        item["code"] = code   # 前端据此加载 fx/{code}.json 迷你图
+    return item
 
 
 def run():
     out = []
-    for label, sym, group, kind in ITEMS:
-        res = safe(lambda l=label, s=sym, g=group, k=kind: fetch_one(l, s, g, k),
+    for label, sym, group, kind, code in ITEMS:
+        res = safe(lambda l=label, s=sym, g=group, k=kind, c=code: fetch_one(l, s, g, k, c),
                    f"market {label}", lambda: None)
         if res:
             out.append(res)

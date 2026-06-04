@@ -13,7 +13,7 @@ import datetime as dt
 from lib import write_json, MOCK, TODAY
 from config import PEOPLE, TICKERS, TICKER_META
 import fetch_13f, fetch_congress, fetch_social, fetch_prices, fetch_market
-import fetch_news, fetch_ipos, fetch_fundamentals
+import fetch_news, fetch_ipos, fetch_fundamentals, fetch_fx
 import gen_ai
 
 
@@ -44,6 +44,7 @@ def main():
     print("[3/8] 社交/言论…");     ss = fetch_social.run()
     print("[4/8] 股价…");          prices = fetch_prices.run()
     print("[5/8] 大盘…");          market = fetch_market.run()
+    print("[5b] 汇率历史…");        fx = fetch_fx.run()
     print("[6/8] 新闻/公众号…");   news, ticker_news, articles = fetch_news.run()
     print("[7/8] IPO…");           ipos = fetch_ipos.run()
     print("[7b] 基本面…");          funds = fetch_fundamentals.run()
@@ -54,6 +55,8 @@ def main():
     write_json("articles.json", articles)
     write_json("ipos.json", ipos)
     write_json("market.json", market)  # 抓不到则为 []，前端隐藏
+    for code, payload in fx.items():    # 汇率 5 年日线 → 前端右栏迷你图按区间切片
+        write_json(f"fx/{code}.json", payload)
 
     print("[8/8] AI 分析 + 组装股票…")
     all_news = list(news)   # 全局新闻流（前端 News/Briefing）= 各 ticker 真实新闻汇总
@@ -89,7 +92,7 @@ def main():
         "generatedAt": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "mode": "mock" if MOCK else "live",
         "sources": {
-            "13f": "SEC EDGAR", "congress": "house-stock-watcher",
+            "13f": "SEC EDGAR", "congress": "House Clerk 官方披露",
             "social": "（未接入）", "prices": "Yahoo Finance",
             "market": "Yahoo Finance", "news": "Finnhub + Wechat2RSS",
             "ipos": "Finnhub", "fundamentals": "Finnhub", "ai": gen_ai.MODEL,

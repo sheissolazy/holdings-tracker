@@ -2,5 +2,6 @@
 # 真实抓取/生成时建议安装：
 anthropic>=0.40        # AI 分析（需 ANTHROPIC_API_KEY）
 truthbrush>=0.3        # Truth Social（Trump）免登录抓取
+pypdf>=4.0             # 解析众议院官方 PTR 披露 PDF（fetch_congress）
 # requests 可选：脚本默认用 urllib，装了不会冲突
 requests>=2.31
