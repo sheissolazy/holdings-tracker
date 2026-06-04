@@ -45,7 +45,8 @@ export interface AIThesis {
   bear: string[]
   watch: string[]
   model?: string
-  generatedAt?: string
+  generatedAt?: string | null
+  unavailable?: boolean        // 生成失败/无 key 时为 true，前端显示「暂不可用」
   // 完整分析页用：分段长文 + 可比公司
   sections?: { heading: string; body: string }[]
   comparables?: { ticker: string; name: string; note: string }[]
@@ -62,7 +63,7 @@ export interface Stock {
   marketCap: string
   pe: number | null
   revenue: string
-  revenueYoYPct: number
+  revenueYoYPct: number | null
   isIPO?: boolean
   prices: PriceBar[]
   thesis: AIThesis

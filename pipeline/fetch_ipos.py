@@ -30,23 +30,9 @@ def fetch():
     return out
 
 
-def mock():
-    return [
-        {"ticker": "CBRS", "name": "Cerebras Systems", "date": "2026-06-04",
-         "priceRange": [22, 26], "sector": "AI 芯片", "exchange": "NASDAQ"},
-        {"ticker": "DBX2", "name": "Databricks", "date": "2026-06-11",
-         "priceRange": [70, 80], "sector": "数据/AI", "exchange": "NASDAQ"},
-        {"ticker": "CRWV", "name": "CoreWeave Tranche II", "date": "2026-06-12",
-         "priceRange": [40, 48], "sector": "AI 云算力", "exchange": "NASDAQ"},
-        {"ticker": "ANTH", "name": "Anthropic", "date": "2026-06-18",
-         "priceRange": [55, 65], "sector": "AI 基础模型", "exchange": "NYSE"},
-        {"ticker": "GRQ", "name": "Groq", "date": "2026-06-25",
-         "priceRange": [18, 22], "sector": "AI 推理芯片", "exchange": "NASDAQ"},
-    ]
-
-
 def run():
-    return safe(fetch, "Finnhub IPO calendar", mock)
+    # 无密钥 / 抓不到 → 返回空，不编造 IPO（无假数据原则）
+    return safe(fetch, "Finnhub IPO calendar", lambda: [])
 
 
 if __name__ == "__main__":

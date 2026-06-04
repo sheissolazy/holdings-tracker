@@ -2,7 +2,6 @@ import { useState } from 'react'
 import { useParams, Link } from 'react-router-dom'
 import { useData } from '../data/DataProvider'
 import { useJson } from '../data/useJson'
-import { stocks as mockStocks } from '../data/mock'
 import type { Stock } from '../data/types'
 import { Card, SectionTitle, SignalCard } from '../components/ui'
 import { cx } from '../lib/format'
@@ -10,7 +9,7 @@ import { cx } from '../lib/format'
 export default function Analysis() {
   const { ticker } = useParams()
   const { signalsByTicker } = useData()
-  const { data: s } = useJson<Stock | null>(`stocks/${ticker}.json`, (ticker && mockStocks[ticker]) || null)
+  const { data: s } = useJson<Stock | null>(`stocks/${ticker}.json`, null)
   const [regenAt, setRegenAt] = useState<string | null>(null)
   const [regenerating, setRegenerating] = useState(false)
 
@@ -23,6 +22,7 @@ export default function Analysis() {
 
   const t = s.thesis
   const sigs = signalsByTicker(s.ticker)
+  const hasThesis = t.bull.length > 0 || t.bear.length > 0 || t.watch.length > 0 || (t.sections?.length ?? 0) > 0
 
   // 「重新生成」在静态站只是 UI 演示：真实重生成在构建时由 Claude API 完成
   const regenerate = () => {
@@ -45,16 +45,24 @@ export default function Analysis() {
         </button>
       </div>
 
-      <div className="mt-3 rounded-xl bg-amber-soft border border-amber/40 text-amber-700 text-xs px-3 py-2">
-        ⚠️ 由 {t.model} 基于公开数据生成于 {regenAt ?? t.generatedAt?.slice(0, 16).replace('T', ' ')}，非投资建议。静态站「重新生成」为演示；真实重生成在构建时（GitHub Actions）调用 Claude API 完成。
-      </div>
+      {hasThesis ? (
+        <div className="mt-3 rounded-xl bg-amber-soft border border-amber/40 text-amber-700 text-xs px-3 py-2">
+          ⚠️ 由 {t.model} 基于公开数据生成于 {regenAt ?? t.generatedAt?.slice(0, 16).replace('T', ' ')}，非投资建议。静态站「重新生成」为演示；真实重生成在构建时（GitHub Actions）调用 Claude 完成。
+        </div>
+      ) : (
+        <div className="mt-3 rounded-xl bg-canvas border border-line text-muted text-sm px-3 py-3">
+          AI 分析暂不可用 —— 下次数据管道运行（GitHub Actions）成功调用 Claude 后会自动生成。
+        </div>
+      )}
 
       {/* 多空 / 关注 速览 */}
-      <div className="grid sm:grid-cols-3 gap-3 mt-5">
-        <Box title="看多" color="pos" items={t.bull} />
-        <Box title="看空" color="neg" items={t.bear} />
-        <Box title="关注点" color="amber" items={t.watch} />
-      </div>
+      {hasThesis && (
+        <div className="grid sm:grid-cols-3 gap-3 mt-5">
+          <Box title="看多" color="pos" items={t.bull} />
+          <Box title="看空" color="neg" items={t.bear} />
+          <Box title="关注点" color="amber" items={t.watch} />
+        </div>
+      )}
 
       {/* 分段长文 */}
       {t.sections && t.sections.length > 0 && (

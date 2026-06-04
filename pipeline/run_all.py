@@ -1,46 +1,32 @@
 """管道总入口：抓取 → 组装 → 写 public/data/*.json（前端只读这些）。
 
 用法：
-  python run_all.py            # 真实抓取（缺源/密钥的步骤自动回落兜底，不中断）
-  python run_all.py --mock     # 全程兜底数据，验证管道与 JSON 结构
+  python run_all.py            # 真实抓取（缺源/密钥的步骤回落为「空」，不编造数据）
+  python run_all.py --mock     # 仅用于验证管道结构（不写到生产）
 
+无假数据原则：任何抓不到的数据一律为空/「—」，绝不用占位/编造值。
 输出（与前端 src/data/types.ts 对应）：
   people.json  signals.json  news.json  articles.json  ipos.json
-  events.json  tradeplan.json  meta.json  stocks/{T}.json  prices/{T}.json
+  events.json  tradeplan.json  market.json  meta.json  stocks/{T}.json  prices/{T}.json
 """
 import datetime as dt
 from lib import write_json, MOCK, TODAY
 from config import PEOPLE, TICKERS, TICKER_META
-import fetch_13f, fetch_congress, fetch_social, fetch_prices, fetch_news, fetch_ipos
+import fetch_13f, fetch_congress, fetch_social, fetch_prices, fetch_market
+import fetch_news, fetch_ipos, fetch_fundamentals
 import gen_ai
-
-# 关注标的的兜底基本面（真实可由财报 API 补全）
-FUNDAMENTALS = {
-    "NVDA": {"marketCap": "$2.41T", "pe": 48.2, "revenue": "$130.5B", "revenueYoYPct": 78},
-    "MRVL": {"marketCap": "$76.2B", "pe": 39.7, "revenue": "$6.1B", "revenueYoYPct": 34},
-    "BE":   {"marketCap": "$31.0B", "pe": None, "revenue": "$1.6B", "revenueYoYPct": 27},
-    "AAPL": {"marketCap": "$3.15T", "pe": 32.1, "revenue": "$391B", "revenueYoYPct": 4},
-    "SMH":  {"marketCap": "—", "pe": None, "revenue": "—", "revenueYoYPct": 0},
-}
 
 
 def pct(a, b):
     return round((a - b) / b * 100, 1) if b else 0.0
 
 
-def build_stock(ticker, bars, signals, ai):
+def build_stock(ticker, price_obj, fund, tnews, signals, ai):
     meta = TICKER_META.get(ticker, {"name": ticker, "exchange": "—", "sector": "—"})
-    fund = FUNDAMENTALS.get(ticker, {"marketCap": "—", "pe": None, "revenue": "—", "revenueYoYPct": 0})
-    last = bars[-1]["c"] if bars else 0
-    c5 = bars[-6]["c"] if len(bars) > 6 else last
+    bars = price_obj["bars"] if price_obj else []
+    last = price_obj["price"] if price_obj else (bars[-1]["c"] if bars else 0)
+    c5 = bars[-6]["c"] if len(bars) > 6 else (bars[-1]["c"] if bars else last)
     cytd = bars[0]["c"] if bars else last
-    tnews = [{"id": f"{ticker}-n{i}", "title": t, "source": s, "publishedAt": d,
-              "url": "#", "tags": [ticker, tag]}
-             for i, (t, s, d, tag) in enumerate([
-                 (f"{ticker} 季度业绩超预期，数据中心营收创新高", "Reuters", "2026-05-30", "财报"),
-                 (f"分析师上调 {ticker} 目标价", "Bloomberg", "2026-05-28", "评级"),
-                 (f"{ticker} 与超大规模厂商签订多年供应协议", "WSJ", "2026-05-25", "合作"),
-             ], 1)]
     return {
         "ticker": ticker, "name": meta["name"], "exchange": meta["exchange"],
         "sector": meta["sector"], "price": round(last, 2),
@@ -50,80 +36,68 @@ def build_stock(ticker, bars, signals, ai):
 
 
 def main():
-    mode = "MOCK 兜底" if MOCK else "真实抓取（失败步骤自动回落）"
+    mode = "MOCK 结构验证" if MOCK else "真实抓取（缺源回落为空）"
     print(f"== 数据管道开始 · {mode} · {TODAY} ==")
 
-    print("[1/7] 13F 持仓…");      s13 = fetch_13f.run()
-    print("[2/7] Congress…");      sc = fetch_congress.run()
-    print("[3/7] 社交/言论…");     ss = fetch_social.run()
-    print("[4/7] 股价…");          prices = fetch_prices.run()
-    print("[5/7] 新闻/公众号…");   news, articles = fetch_news.run()
-    print("[6/7] IPO…");           ipos = fetch_ipos.run()
+    print("[1/8] 13F 持仓…");      s13 = fetch_13f.run()
+    print("[2/8] Congress…");      sc = fetch_congress.run()
+    print("[3/8] 社交/言论…");     ss = fetch_social.run()
+    print("[4/8] 股价…");          prices = fetch_prices.run()
+    print("[5/8] 大盘…");          market = fetch_market.run()
+    print("[6/8] 新闻/公众号…");   news, ticker_news, articles = fetch_news.run()
+    print("[7/8] IPO…");           ipos = fetch_ipos.run()
+    print("[7b] 基本面…");          funds = fetch_fundamentals.run()
 
     signals = s13 + sc + ss
     write_json("people.json", PEOPLE)
     write_json("signals.json", signals)
     write_json("articles.json", articles)
     write_json("ipos.json", ipos)
-    # 大盘速览（真实可由指数 API 补全，现为兜底）
-    write_json("market.json", [
-        {"label": "SPY", "value": "548.2", "chg": "+0.4%", "pos": True},
-        {"label": "Gold", "value": "$2,418", "chg": "+0.9%", "pos": True},
-        {"label": "10Y Yield", "value": "4.31%", "chg": "-3bp", "pos": False},
-    ])
+    write_json("market.json", market)  # 抓不到则为 []，前端隐藏
 
-    print("[7/7] AI 分析 + 组装股票…")
-    all_news = list(news)  # 全局新闻流 = 头条 + 各标的新闻（前端 News/Briefing 读它）
-    index = []              # 轻量股票索引（前端搜索/列表用，不含 prices/thesis）
+    print("[8/8] AI 分析 + 组装股票…")
+    all_news = list(news)   # 全局新闻流（前端 News/Briefing）= 各 ticker 真实新闻汇总
+    index = []
     for t in TICKERS:
-        bars = prices.get(t, [])
-        write_json(f"prices/{t}.json", bars)
+        po = prices.get(t)
+        write_json(f"prices/{t}.json", po["bars"] if po else [])
         tsigs = [s for s in signals if s.get("ticker") == t]
+        tnews = ticker_news.get(t, [])
+        fund = funds.get(t, {"marketCap": "—", "pe": None, "revenue": "—", "revenueYoYPct": None})
         ai = gen_ai.run(t, TICKER_META.get(t, {}).get("name", t), tsigs, news)
-        stock = build_stock(t, bars, tsigs, ai)
+        stock = build_stock(t, po, fund, tnews, tsigs, ai)
         write_json(f"stocks/{t}.json", stock)
-        all_news += stock["news"]
         index.append({k: stock[k] for k in
                       ("ticker", "name", "exchange", "sector", "price", "change5dPct", "changeYtdPct")})
     write_json("news.json", all_news)
     write_json("stocks_index.json", index)
 
-    # 事件 / 明日交易计划
-    events = [
-        {"date": "2026-06-02", "label": "MRVL 财报（盘后）", "kind": "earnings", "impact": "high", "tickers": ["MRVL"]},
-        {"date": "2026-06-02", "label": "ISM 制造业 PMI", "kind": "econ", "impact": "med"},
-        {"date": "2026-06-03", "label": "FOMC 会议纪要", "kind": "econ", "impact": "high"},
-        {"date": "2026-06-04", "label": "Cerebras IPO 定价", "kind": "ipo", "impact": "med", "tickers": ["CBRS"]},
-        {"date": "2026-06-05", "label": "非农就业（NFP）", "kind": "econ", "impact": "high"},
-    ]
+    # 事件：暂无可靠的免费日历源 → 空（不编造）。后续接入真实财经日历再补。
+    events = []
     write_json("events.json", events)
+
+    # 明日交易计划：催化剂取真实事件（现为空）；待办/草案不编造 → 空，前端显示空状态。
     write_json("tradeplan.json", {
-        "forDate": "2026-06-02", "generatedAt": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "forDate": (TODAY + dt.timedelta(days=1)).isoformat(),
+        "generatedAt": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "model": gen_ai.MODEL if not MOCK and gen_ai.active() else "claude-mock",
-        "catalysts": [e for e in events if e["date"] == "2026-06-02"],
-        "pendingSignals": [
-            {"personId": "serenity", "ticker": "MRVL", "note": "Serenity 喊单 MRVL，叠加黄仁勋背书 + 明日财报"},
-            {"personId": "leopold", "ticker": "NVDA", "note": "Leopold 大额 NVDA put 仍在，半导体风向标"},
-        ],
-        "draftActions": [
-            {"id": "a1", "action": "盯 MRVL 盘后财报，先不动", "reason": "三重催化但已涨 6%，避免追高"},
-            {"id": "a2", "action": "关注 SMH/NVDA 板块方向", "reason": "财报外溢 + Leopold put 对冲情绪"},
-            {"id": "a3", "action": "FOMC 纪要/非农前控制仓位", "reason": "本周宏观事件密集"},
-            {"id": "a4", "action": "留意 Cerebras IPO 定价", "reason": "AI 芯片新股，板块情绪参考"},
-        ],
+        "catalysts": events,
+        "pendingSignals": [],
+        "draftActions": [],
     })
     write_json("meta.json", {
         "generatedAt": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "mode": "mock" if MOCK else "live",
         "sources": {
             "13f": "SEC EDGAR", "congress": "house-stock-watcher",
-            "social": "Truth Social / RSSHub", "prices": "stooq",
-            "news": "RSS + Wechat2RSS", "ipos": "Finnhub", "ai": gen_ai.MODEL,
+            "social": "（未接入）", "prices": "Yahoo Finance",
+            "market": "Yahoo Finance", "news": "Finnhub + Wechat2RSS",
+            "ipos": "Finnhub", "fundamentals": "Finnhub", "ai": gen_ai.MODEL,
         },
         "tickers": list(TICKERS),
         "counts": {"people": len(PEOPLE), "signals": len(signals),
                    "news": len(all_news), "ipos": len(ipos), "stocks": len(TICKERS)},
-        "disclaimer": "AI 分析基于公开数据生成，非投资建议。13F 有 ~45 天延迟；社交信号为最佳努力。",
+        "disclaimer": "AI 分析基于公开数据生成，非投资建议。13F 有 ~45 天延迟。无真实来源的数据均留空。",
     })
     print("== 完成。前端可读 public/data/*.json ==")
 

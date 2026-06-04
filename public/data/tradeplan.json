@@ -1,56 +1,8 @@
 {
   "forDate": "2026-06-02",
-  "generatedAt": "2026-06-03T23:13:59Z",
-  "model": "claude-sonnet-4-5",
-  "catalysts": [
-    {
-      "date": "2026-06-02",
-      "label": "MRVL 财报（盘后）",
-      "kind": "earnings",
-      "impact": "high",
-      "tickers": [
-        "MRVL"
-      ]
-    },
-    {
-      "date": "2026-06-02",
-      "label": "ISM 制造业 PMI",
-      "kind": "econ",
-      "impact": "med"
-    }
-  ],
-  "pendingSignals": [
-    {
-      "personId": "serenity",
-      "ticker": "MRVL",
-      "note": "Serenity 喊单 MRVL，叠加黄仁勋背书 + 明日财报"
-    },
-    {
-      "personId": "leopold",
-      "ticker": "NVDA",
-      "note": "Leopold 大额 NVDA put 仍在，半导体风向标"
-    }
-  ],
-  "draftActions": [
-    {
-      "id": "a1",
-      "action": "盯 MRVL 盘后财报，先不动",
-      "reason": "三重催化但已涨 6%，避免追高"
-    },
-    {
-      "id": "a2",
-      "action": "关注 SMH/NVDA 板块方向",
-      "reason": "财报外溢 + Leopold put 对冲情绪"
-    },
-    {
-      "id": "a3",
-      "action": "FOMC 纪要/非农前控制仓位",
-      "reason": "本周宏观事件密集"
-    },
-    {
-      "id": "a4",
-      "action": "留意 Cerebras IPO 定价",
-      "reason": "AI 芯片新股，板块情绪参考"
-    }
-  ]
+  "generatedAt": "2026-06-04T04:41:32Z",
+  "model": "claude-mock",
+  "catalysts": [],
+  "pendingSignals": [],
+  "draftActions": []
 }

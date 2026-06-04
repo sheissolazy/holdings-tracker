@@ -3,7 +3,12 @@ import type {
   Person, Signal, NewsItem, CalendarEvent, TradePlan, IPOItem,
 } from './types'
 import { dataUrl } from './useJson'
-import * as mock from './mock'
+
+// 无假数据原则：任何 JSON 缺失/抓取失败时，回落为「空」而非编造数据。
+const EMPTY_TRADEPLAN: TradePlan = {
+  forDate: '', generatedAt: '', model: '—',
+  catalysts: [], pendingSignals: [], draftActions: [],
+}
 
 export interface MarketItem { label: string; value: string; chg: string; pos: boolean }
 export interface StockSummary {
@@ -56,12 +61,6 @@ function derive(d: RawData): DataSet {
   }
 }
 
-// 从 mock.stocks 派生兜底股票索引
-const mockStockIndex: StockSummary[] = Object.values(mock.stocks).map((s) => ({
-  ticker: s.ticker, name: s.name, exchange: s.exchange, sector: s.sector,
-  price: s.price, change5dPct: s.change5dPct, changeYtdPct: s.changeYtdPct,
-}))
-
 const DataContext = createContext<DataSet | null>(null)
 
 export function useData(): DataSet {
@@ -77,16 +76,16 @@ export function DataProvider({ children }: { children: React.ReactNode }) {
     let alive = true
     ;(async () => {
       const [people, signals, news, articles, events, ipos, tradePlan, market, stockIndex, meta] = await Promise.all([
-        getJson<Person[]>('people.json', mock.people),
-        getJson<Signal[]>('signals.json', mock.signals),
-        getJson<NewsItem[]>('news.json', mock.allNews),
-        getJson<Record<string, NewsItem[]>>('articles.json', mock.articlesByPerson),
-        getJson<CalendarEvent[]>('events.json', mock.events),
-        getJson<IPOItem[]>('ipos.json', mock.ipos),
-        getJson<TradePlan>('tradeplan.json', mock.tradePlan),
-        getJson<MarketItem[]>('market.json', mock.market),
-        getJson<StockSummary[]>('stocks_index.json', mockStockIndex),
-        getJson<{ tickers?: string[] }>('meta.json', { tickers: mock.tickerList }),
+        getJson<Person[]>('people.json', []),
+        getJson<Signal[]>('signals.json', []),
+        getJson<NewsItem[]>('news.json', []),
+        getJson<Record<string, NewsItem[]>>('articles.json', {}),
+        getJson<CalendarEvent[]>('events.json', []),
+        getJson<IPOItem[]>('ipos.json', []),
+        getJson<TradePlan>('tradeplan.json', EMPTY_TRADEPLAN),
+        getJson<MarketItem[]>('market.json', []),
+        getJson<StockSummary[]>('stocks_index.json', []),
+        getJson<{ tickers?: string[] }>('meta.json', { tickers: [] }),
       ])
       if (!alive) return
       const parts = [people, signals, news, articles, events, ipos, tradePlan, market, stockIndex, meta]
@@ -101,7 +100,7 @@ export function DataProvider({ children }: { children: React.ReactNode }) {
         tradePlan: tradePlan.value,
         market: market.value,
         stockIndex: stockIndex.value,
-        tickers: meta.value.tickers ?? mock.tickerList,
+        tickers: meta.value.tickers ?? [],
         live,
       }))
     })()
