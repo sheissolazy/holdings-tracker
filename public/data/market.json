@@ -1,43 +1,43 @@
 [
   {
     "label": "标普500",
-    "value": "$757.81",
-    "chg": "+0.5%",
+    "value": "$757.09",
+    "chg": "+0.4%",
     "pos": true,
     "group": "大盘"
   },
   {
     "label": "10年美债",
-    "value": "4.47%",
-    "chg": "-2bp",
+    "value": "4.48%",
+    "chg": "-1bp",
     "pos": false,
     "group": "大盘"
   },
   {
     "label": "美元指数",
-    "value": "99.38",
-    "chg": "-0.2%",
+    "value": "99.43",
+    "chg": "-0.1%",
     "pos": false,
     "group": "大盘"
   },
   {
     "label": "黄金",
-    "value": "$4,506.00",
-    "chg": "+1.6%",
+    "value": "$4,501.80",
+    "chg": "+1.5%",
     "pos": true,
     "group": "商品"
   },
   {
     "label": "原油WTI",
-    "value": "$92.29",
-    "chg": "-3.9%",
+    "value": "$92.69",
+    "chg": "-3.5%",
     "pos": false,
     "group": "商品"
   },
   {
     "label": "美元/人民币",
     "value": "6.7730",
-    "chg": "+0.2%",
+    "chg": "+0.1%",
     "pos": true,
     "group": "汇率",
     "code": "CNY"
@@ -52,24 +52,24 @@
   },
   {
     "label": "美元/韩元",
-    "value": "1,531.90",
-    "chg": "+1.0%",
+    "value": "1,532.88",
+    "chg": "+0.2%",
     "pos": true,
     "group": "汇率",
     "code": "KRW"
   },
   {
     "label": "欧元/美元",
-    "value": "1.1624",
-    "chg": "+0.0%",
+    "value": "1.1616",
+    "chg": "+0.1%",
     "pos": true,
     "group": "汇率",
     "code": "EUR"
   },
   {
     "label": "美元/加元",
-    "value": "1.3898",
-    "chg": "+0.4%",
+    "value": "1.3905",
+    "chg": "+0.1%",
     "pos": true,
     "group": "汇率",
     "code": "CAD"
