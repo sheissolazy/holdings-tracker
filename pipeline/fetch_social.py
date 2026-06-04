@@ -1,56 +1,229 @@
-"""社交喊单 → social 信号（Trump / Musk / Serenity）+ 公开言论（黄仁勋 statement）。
+"""社交喊单 → social 信号（Musk / Serenity via X，Trump via Truth Social）。
 
 「第三条路」：非付费 API、非手动。
-  - Trump  → Truth Social（Mastodon 兼容）公开帖，免登录：
-             truthsocial.com/api/v1/accounts/{id}/statuses（开源 truthbrush 封装）
-  - Musk / Serenity → 自托管 RSSHub 喂入【你自己的 X 登录 cookie】(X_AUTH_TOKEN / X_CT0)
-             拉 timeline（不是 $100/月 API；脆弱、有账号风险，但零成本）
-  - 黄仁勋 → 不发交易帖，公开讲话走新闻管道；signalType=statement
-分类层：抓到的帖子在构建时过一遍 Claude → 抽取 ticker + 看多/看空，只留与股票相关的。
-（分类调用见 gen_ai.classify_posts；此处先产出原始/兜底信号结构。）
+  - Musk / Serenity → X 网页版 GraphQL，带【你自己的登录 cookie】(X_AUTH_TOKEN / X_CT0)
+        UserByScreenName 解析 handle→id，再 UserTweets 拉最近推文。零成本、脆弱、有账号风险。
+  - Trump → Truth Social（Mastodon 兼容）公开 API，免登录 lookup + statuses。
+  - 黄仁勋 → 不发交易帖，走新闻管道（此处不产 social）。
+
+无假数据原则：
+  - 只在推文里**确实命中**某个 ticker（$ 现金标签 或 公司别名）时才产信号，绝不臆造关联。
+  - 不臆测多空：sentiment 一律 'watch'（关注），原文链接为证。抓不到/缺 cookie → 空。
 """
 import os
+import re
+import json
+import datetime as dt
+import urllib.request
+import urllib.parse
 from lib import safe, write_json
+from config import PEOPLE_BY_ID
 
 X_AUTH = os.environ.get("X_AUTH_TOKEN")
 X_CT0 = os.environ.get("X_CT0")
+# X 网页版公共 bearer（非私密；浏览器同样使用）
+X_BEARER = ("AAAAAAAAAAAAAAAAAAAAANRILgAAAAAAnNwIzUejRCOuH5E6I8xnZz4puTs"
+            "%3D1Zv7ttfk8LF81IUq16cHjhLTvJu4FA33AGWWjCpTnA")
+
+# ticker 命中表：现金标签直接取；公司别名（小写、词边界）映射到 ticker。
+# 只收录主流、歧义低的名字，避免误报（无假数据原则下宁缺毋滥）。
+TICKER_ALIASES = {
+    "NVDA": ["nvidia"], "AAPL": ["apple"], "TSLA": ["tesla"], "MRVL": ["marvell"],
+    "BE": ["bloom energy"], "AVGO": ["broadcom"], "AMZN": ["amazon"],
+    "GOOGL": ["alphabet"], "MSFT": ["microsoft"], "META": ["meta platforms"],
+    "PLTR": ["palantir"], "AMD": ["advanced micro devices"],
+    "MSTR": ["microstrategy"], "TSM": ["tsmc", "taiwan semiconductor"],
+    "INTC": ["intel"], "SMCI": ["supermicro", "super micro"], "BA": ["boeing"],
+}
+_CASHTAG = re.compile(r"\$([A-Za-z]{1,5})\b")
+_VALID_CASHTAG = re.compile(r"^[A-Z]{1,5}$")
 
 
-def fetch_trump():
-    # truthbrush / Truth Social Mastodon API。需把 handle→account_id 解析后拉 statuses。
-    # 真实实现略（依赖 truthbrush）；缺依赖时回落 mock。
-    raise NotImplementedError("truthsocial 抓取需 truthbrush，回落 mock")
+def _match_tickers(text):
+    """从推文文本里抽取命中的 ticker 集合（现金标签 + 公司别名）。"""
+    found = set()
+    for m in _CASHTAG.findall(text):
+        u = m.upper()
+        if _VALID_CASHTAG.match(u):
+            found.add(u)
+    low = text.lower()
+    for tk, names in TICKER_ALIASES.items():
+        if any(re.search(rf"\b{re.escape(n)}\b", low) for n in names):
+            found.add(tk)
+    return found
 
 
-def fetch_x(handle):
+# ---------------- X (Twitter) ----------------
+
+def _x_headers():
+    return {
+        "Authorization": "Bearer " + X_BEARER,
+        "x-csrf-token": X_CT0,
+        "x-twitter-auth-type": "OAuth2Session",
+        "x-twitter-active-user": "yes",
+        "Content-Type": "application/json",
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+        "Cookie": f"auth_token={X_AUTH}; ct0={X_CT0}",
+    }
+
+
+def _x_get(path, variables, features):
+    url = (f"https://x.com/i/api/graphql/{path}"
+           f"?variables={urllib.parse.quote(json.dumps(variables))}"
+           f"&features={urllib.parse.quote(json.dumps(features))}")
+    req = urllib.request.Request(url, headers=_x_headers())
+    with urllib.request.urlopen(req, timeout=25) as r:
+        return json.loads(r.read().decode("utf-8", "replace"))
+
+
+_USER_FEAT = {
+    "hidden_profile_likes_enabled": True, "hidden_profile_subscriptions_enabled": True,
+    "responsive_web_graphql_exclude_directive_enabled": True, "verified_phone_label_enabled": False,
+    "subscriptions_verification_info_is_identity_verified_enabled": True,
+    "subscriptions_verification_info_verified_since_enabled": True,
+    "highlights_tweets_tab_ui_enabled": True, "responsive_web_twitter_article_notes_tab_enabled": True,
+    "creator_subscriptions_tweet_preview_api_enabled": True,
+    "responsive_web_graphql_skip_user_profile_image_extensions_enabled": False,
+    "responsive_web_graphql_timeline_navigation_enabled": True,
+}
+_TWEET_FEAT = {
+    "rweb_tipjar_consumption_enabled": True, "responsive_web_graphql_exclude_directive_enabled": True,
+    "verified_phone_label_enabled": False, "creator_subscriptions_tweet_preview_api_enabled": True,
+    "responsive_web_graphql_timeline_navigation_enabled": True,
+    "responsive_web_graphql_skip_user_profile_image_extensions_enabled": False,
+    "communities_web_enable_tweet_community_results_fetch": True,
+    "c9s_tweet_anatomy_moderator_badge_enabled": True, "articles_preview_enabled": True,
+    "responsive_web_edit_tweet_api_enabled": True,
+    "graphql_is_translatable_rweb_tweet_is_translatable_enabled": True,
+    "view_counts_everywhere_api_enabled": True, "longform_notetweets_consumption_enabled": True,
+    "responsive_web_twitter_article_tweet_consumption_enabled": True,
+    "tweet_awards_web_tipping_enabled": False,
+    "creator_subscriptions_quote_tweet_preview_enabled": False,
+    "freedom_of_speech_not_reach_fetch_enabled": True, "standardized_nudges_misinfo": True,
+    "tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled": True,
+    "rweb_video_timestamps_enabled": True, "longform_notetweets_rich_text_read_enabled": True,
+    "longform_notetweets_inline_media_enabled": True, "responsive_web_enhance_cards_enabled": False,
+}
+
+
+def _x_user_id(handle):
+    d = _x_get("G3KGOASz96M-Qu0nwmGXNg/UserByScreenName",
+               {"screen_name": handle, "withSafetyModeUserFields": True}, _USER_FEAT)
+    return d["data"]["user"]["result"]["rest_id"]
+
+
+def _x_tweets(uid, count=20):
+    d = _x_get("E3opETHurmVJflFsUBVuUQ/UserTweets",
+               {"userId": uid, "count": count, "includePromotedContent": False,
+                "withQuickPromoteEligibilityTweetFields": True, "withVoice": True,
+                "withV2Timeline": True}, _TWEET_FEAT)
+    insts = d["data"]["user"]["result"]["timeline_v2"]["timeline"]["instructions"]
+    out = []
+    for inst in insts:
+        for e in inst.get("entries", []):
+            c = e.get("content", {})
+            if c.get("entryType") != "TimelineTimelineItem":
+                continue
+            res = c.get("itemContent", {}).get("tweet_results", {}).get("result", {})
+            if res.get("__typename") == "TweetWithVisibilityResults":
+                res = res.get("tweet", {})
+            leg = res.get("legacy", {})
+            if not leg:
+                continue
+            text = (leg.get("full_text") or "").strip()
+            note = (res.get("note_tweet", {}).get("note_tweet_results", {})
+                    .get("result", {}).get("text"))
+            if note:
+                text = note.strip()
+            out.append({"id": leg.get("id_str"), "text": text,
+                        "created": leg.get("created_at", "")})
+    return out
+
+
+def _parse_created(s):
+    """X 时间 'Wed Jun 04 19:14:00 +0000 2026' → ISO 日期。"""
+    try:
+        return dt.datetime.strptime(s, "%a %b %d %H:%M:%S %z %Y").date().isoformat()
+    except Exception:
+        return ""
+
+
+def fetch_x(pid, handle, days=30, limit=8):
     if not (X_AUTH and X_CT0):
-        raise RuntimeError("缺 X_AUTH_TOKEN / X_CT0，无法拉 X timeline")
-    raise NotImplementedError("RSSHub + 自有 cookie 抓取，回落 mock")
+        raise RuntimeError("缺 X_AUTH_TOKEN / X_CT0")
+    uid = _x_user_id(handle)
+    cutoff = dt.date.today() - dt.timedelta(days=days)
+    out = []
+    for tw in _x_tweets(uid):
+        text = tw["text"]
+        if text.startswith("RT @"):   # 转推不算本人喊单
+            continue
+        date = _parse_created(tw["created"])
+        if date and dt.date.fromisoformat(date) < cutoff:
+            continue
+        tickers = _match_tickers(text)
+        if not tickers:
+            continue
+        for tk in sorted(tickers):
+            out.append({
+                "personId": pid, "type": "social", "ticker": tk,
+                "asOf": date or dt.date.today().isoformat(),
+                "sentiment": "watch",   # 不臆测多空，只标「关注」，原文为证
+                "excerpt": text[:240],
+                "postUrl": f"https://x.com/{handle}/status/{tw['id']}",
+            })
+        if len(out) >= limit:
+            break
+    return out
 
 
-def mock():
-    return [
-        {"personId": "jensen", "type": "statement", "ticker": "MRVL", "asOf": "2026-05-28",
-         "sentiment": "bull", "excerpt": "在 GTC 上点名 Marvell 的定制 AI 互连方案是「关键合作伙伴」。",
-         "postUrl": "https://example.com/news/jensen-mrvl"},
-        {"personId": "trump", "type": "social", "ticker": "NVDA", "asOf": "2026-05-30",
-         "sentiment": "bull", "excerpt": "AMERICAN CHIPS ARE THE BEST IN THE WORLD!",
-         "postUrl": "https://truthsocial.com/@realDonaldTrump/123"},
-        {"personId": "musk", "type": "social", "ticker": "TSLA", "asOf": "2026-05-31",
-         "sentiment": "bull", "excerpt": "Robotaxi network scaling faster than expected.",
-         "postUrl": "https://x.com/elonmusk/456"},
-        {"personId": "serenity", "type": "social", "ticker": "MRVL", "asOf": "2026-05-29",
-         "sentiment": "bull", "excerpt": "MRVL custom silicon ramp is underappreciated. Watching $90.",
-         "postUrl": "https://x.com/serenity/789"},
-    ]
+# ---------------- Truth Social (Trump) ----------------
+
+def fetch_trump(handle="realDonaldTrump", days=30, limit=8):
+    ua = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+          "Accept": "application/json"}
+    look = urllib.request.Request(
+        f"https://truthsocial.com/api/v1/accounts/lookup?acct={handle}", headers=ua)
+    with urllib.request.urlopen(look, timeout=25) as r:
+        acct = json.loads(r.read().decode("utf-8", "replace"))
+    aid = acct["id"]
+    st = urllib.request.Request(
+        f"https://truthsocial.com/api/v1/accounts/{aid}/statuses?limit=20&exclude_replies=true",
+        headers=ua)
+    with urllib.request.urlopen(st, timeout=25) as r:
+        posts = json.loads(r.read().decode("utf-8", "replace"))
+    cutoff = dt.date.today() - dt.timedelta(days=days)
+    out = []
+    for p in posts:
+        text = re.sub(r"<[^>]+>", " ", p.get("content") or "").strip()
+        text = re.sub(r"\s+", " ", text)
+        date = (p.get("created_at") or "")[:10]
+        if date and dt.date.fromisoformat(date) < cutoff:
+            continue
+        tickers = _match_tickers(text)
+        if not tickers:
+            continue
+        for tk in sorted(tickers):
+            out.append({
+                "personId": "trump", "type": "social", "ticker": tk,
+                "asOf": date or dt.date.today().isoformat(), "sentiment": "watch",
+                "excerpt": text[:240], "postUrl": p.get("url") or "",
+            })
+        if len(out) >= limit:
+            break
+    return out
 
 
 def run():
-    # 社交/言论抓取暂未接入真实源（truthbrush / X cookie）→ 一律空，不编造（无假数据原则）
     sigs = []
     sigs += safe(fetch_trump, "Truth Social (Trump)", lambda: [])
-    for pid, handle in (("musk", "elonmusk"), ("serenity", "serenity")):
-        sigs += safe(lambda h=handle: fetch_x(h), f"X timeline ({pid})", lambda: [])
+    for pid in ("musk", "serenity"):
+        p = PEOPLE_BY_ID.get(pid) or {}
+        handle = (p.get("social") or {}).get("handle")
+        if not handle:
+            continue
+        sigs += safe(lambda pid=pid, h=handle: fetch_x(pid, h),
+                     f"X timeline ({pid})", lambda: [])
     return sigs
 
 
