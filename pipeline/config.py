@@ -39,7 +39,7 @@ PEOPLE = [
     {
         "id": "serenity", "name": "Serenity", "org": "X influencer",
         "avatarColor": "#a855f7", "signalTypes": ["social"],
-        "social": {"platform": "x", "handle": "serenity"},
+        "social": {"platform": "x", "handle": "aleabitoreddit"},
     },
     {
         "id": "maobidao", "name": "猫笔刀", "org": "微信公众号 · 每日更新",

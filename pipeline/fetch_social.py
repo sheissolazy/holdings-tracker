@@ -18,7 +18,9 @@ import urllib.request
 import urllib.parse
 import urllib.error
 from lib import safe, write_json
-from config import PEOPLE_BY_ID
+from config import PEOPLE_BY_ID, TICKERS
+
+MAX_TICKERS_PER_POST = 4   # 一条推文最多产几条信号，防止「11 个 ticker → 11 张卡」刷屏
 
 X_AUTH = os.environ.get("X_AUTH_TOKEN")
 X_CT0 = os.environ.get("X_CT0")
@@ -63,7 +65,10 @@ def _match_tickers(text):
     for tk, names in TICKER_ALIASES.items():
         if any(re.search(rf"\b{re.escape(n)}\b", low) for n in names):
             found.add(tk)
-    return found
+    # 优先保留你跟踪的 ticker，其余按字母序；每条推文最多取 MAX_TICKERS_PER_POST 个
+    tracked = set(TICKERS)
+    ordered = sorted(found, key=lambda t: (t not in tracked, t))
+    return ordered[:MAX_TICKERS_PER_POST]
 
 
 # ---------------- X (Twitter) ----------------
@@ -177,7 +182,7 @@ def fetch_x(pid, handle, days=30, limit=8):
         tickers = _match_tickers(text)
         if not tickers:
             continue
-        for tk in sorted(tickers):
+        for tk in tickers:  # 已按「跟踪优先」排序并截断
             out.append({
                 "personId": pid, "type": "social", "ticker": tk,
                 "asOf": date or dt.date.today().isoformat(),
@@ -216,7 +221,7 @@ def fetch_trump(handle="realDonaldTrump", days=30, limit=8):
         tickers = _match_tickers(text)
         if not tickers:
             continue
-        for tk in sorted(tickers):
+        for tk in tickers:  # 已按「跟踪优先」排序并截断
             out.append({
                 "personId": "trump", "type": "social", "ticker": tk,
                 "asOf": date or dt.date.today().isoformat(), "sentiment": "watch",
