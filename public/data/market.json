@@ -1,20 +1,72 @@
 [
   {
-    "label": "SPY",
+    "label": "标普500",
     "value": "$754.24",
     "chg": "-0.7%",
-    "pos": false
+    "pos": false,
+    "group": "大盘"
   },
   {
-    "label": "Gold",
-    "value": "$407.87",
-    "chg": "-1.0%",
-    "pos": false
-  },
-  {
-    "label": "10Y Yield",
+    "label": "10年美债",
     "value": "4.49%",
     "chg": "+4bp",
-    "pos": true
+    "pos": true,
+    "group": "大盘"
+  },
+  {
+    "label": "美元指数",
+    "value": "99.44",
+    "chg": "-0.1%",
+    "pos": false,
+    "group": "大盘"
+  },
+  {
+    "label": "黄金",
+    "value": "$4,507.80",
+    "chg": "+1.6%",
+    "pos": true,
+    "group": "商品"
+  },
+  {
+    "label": "原油WTI",
+    "value": "$95.21",
+    "chg": "-0.8%",
+    "pos": false,
+    "group": "商品"
+  },
+  {
+    "label": "美元/人民币",
+    "value": "6.7756",
+    "chg": "+0.2%",
+    "pos": true,
+    "group": "汇率"
+  },
+  {
+    "label": "美元/日元",
+    "value": "159.88",
+    "chg": "-0.1%",
+    "pos": false,
+    "group": "汇率"
+  },
+  {
+    "label": "美元/韩元",
+    "value": "1,529.65",
+    "chg": "+0.9%",
+    "pos": true,
+    "group": "汇率"
+  },
+  {
+    "label": "欧元/美元",
+    "value": "1.1612",
+    "chg": "-0.1%",
+    "pos": false,
+    "group": "汇率"
+  },
+  {
+    "label": "美元/加元",
+    "value": "1.3907",
+    "chg": "+0.5%",
+    "pos": true,
+    "group": "汇率"
   }
 ]
