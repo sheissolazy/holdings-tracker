@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-04T05:17:26Z",
+  "generatedAt": "2026-06-04T18:13:51Z",
   "mode": "live",
   "sources": {
     "13f": "SEC EDGAR",
-    "congress": "house-stock-watcher",
+    "congress": "House Clerk 官方披露",
     "social": "（未接入）",
     "prices": "Yahoo Finance",
     "market": "Yahoo Finance",
@@ -21,8 +21,8 @@
   ],
   "counts": {
     "people": 8,
-    "signals": 30,
-    "news": 40,
+    "signals": 57,
+    "news": 41,
     "ipos": 9,
     "stocks": 5
   },
