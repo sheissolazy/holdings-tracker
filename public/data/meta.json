@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T04:54:52Z",
+  "generatedAt": "2026-06-04T05:08:22Z",
   "mode": "live",
   "sources": {
     "13f": "SEC EDGAR",
@@ -22,8 +22,8 @@
   "counts": {
     "people": 8,
     "signals": 30,
-    "news": 0,
-    "ipos": 0,
+    "news": 28,
+    "ipos": 9,
     "stocks": 5
   },
   "disclaimer": "AI 分析基于公开数据生成，非投资建议。13F 有 ~45 天延迟。无真实来源的数据均留空。"
