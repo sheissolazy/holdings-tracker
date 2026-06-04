@@ -3,11 +3,11 @@
   "name": "Marvell Technology",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 301.65,
-  "change5dPct": 51.8,
-  "changeYtdPct": 207.2,
-  "marketCap": "$263.9B",
-  "pe": 104.4,
+  "price": 318.62,
+  "change5dPct": 55.6,
+  "changeYtdPct": 224.5,
+  "marketCap": "$266.7B",
+  "pe": 97.1,
   "revenue": "—",
   "revenueYoYPct": 34,
   "prices": [
@@ -878,137 +878,82 @@
       "h": 324.2,
       "l": 294.01,
       "c": 301.65
+    },
+    {
+      "t": "2026-06-04",
+      "o": 282.95,
+      "h": 319.54,
+      "l": 277.59,
+      "c": 318.62
     }
   ],
   "thesis": {
-    "bull": [
-      "股价近期创历史新高，多家媒体与分析机构探讨MRVL迈向万亿市值的可能性，市场对其AI定制芯片（ASIC）业务的长期成长潜力给予高度定价。",
-      "数据中心AI算力建设浪潮持续，MRVL在定制ASIC与高速以太网互联领域深度绑定头部云厂商，受益于AI基础设施支出扩张的结构性红利。",
-      "「下一重大催化剂」预期升温，零售与机构投资者在隔夜回调后仍维持信心，显示市场对即将到来的产品或客户里程碑具有较强预期支撑。"
-    ],
-    "bear": [
-      "股价于创历史新高后隔夜急跌，高估值背景下情绪波动加剧，短期技术面存在获利了结压力，若宏观或竞争数据不及预期，回调空间不容忽视。",
-      "竞争对手博通AI业务营收指引令市场失望，引发行业整体承压，表明AI芯片需求并非线性增长，客户资本支出节奏与集中度风险不容低估。",
-      "S&P 500估值处于近69年来第二高位，叠加中东地缘风险升温、美联储加息担忧持续，宏观环境对高倍数成长股形成系统性压制。"
-    ],
-    "watch": [
-      "关注下一份季度财报及管理层对自定义AI芯片（XPU）出货量与云客户订单能见度的前瞻指引，这是验证万亿市值叙事能否落地的核心检验点。",
-      "持续跟踪博通、英伟达等同业在AI芯片与数据中心互联领域的最新动态，同业业绩与预期差将显著影响市场对MRVL估值溢价的容忍度。",
-      "留意美联储利率路径与宏观经济数据，高估值科技股对流动性预期极度敏感，利率预期的边际变化可能触发板块性重新定价。"
-    ],
-    "sections": [
-      {
-        "heading": "公司概览",
-        "body": "Marvell Technology（纳斯达克：MRVL）是一家专注于数据基础设施半导体的设计公司，产品覆盖定制AI加速芯片（ASIC/XPU）、高速以太网连接、存储控制器及光模块DSP等领域。公司总部位于美国圣塔克拉拉，近年来通过剥离消费业务、聚焦云与数据中心客户完成战略转型，成为AI基础设施芯片赛道的核心标的之一。"
-      },
-      {
-        "heading": "AI战略与业务驱动力",
-        "body": "MRVL的核心增长引擎在于为超大规模云厂商提供定制AI加速芯片（XPU）及高速互联方案。区别于英伟达的通用GPU路径，MRVL主打针对特定工作负载优化的定制ASIC，理论上可为客户提供更优的能效比与成本结构。此外，公司在800G/1.6T以太网互联与光模块DSP领域的布局，受益于数据中心网络带宽需求的指数级扩张。"
-      },
-      {
-        "heading": "近期股价表现",
-        "body": "MRVL股价近期收于历史新高，引发市场广泛关注，多篇报道探讨其「下一重大催化剂」及「万亿市值」可能性。然而，创高后的隔夜回调亦揭示了高位股价的脆弱性。值得注意的是，零售投资者在回调期间展现出较强的逢低买入意愿，反映市场对公司中长期叙事的信心尚未动摇。"
-      },
-      {
-        "heading": "多头核心逻辑",
-        "body": "多头观点的核心在于：AI基础设施建设处于长周期早期，MRVL凭借定制ASIC的技术壁垒与头部云厂商的深度绑定，具备可持续的份额扩张能力。随着XPU出货量放量、互联产品组合升级，公司营收结构有望向高毛利率的AI业务持续倾斜，支撑估值向上重估。部分机构甚至援引历史先例，认为其存在成为下一个千亿乃至万亿市值企业的路径。"
-      },
-      {
-        "heading": "空头风险与潜在隐患",
-        "body": "空头逻辑聚焦于三个维度：其一，估值已充分定价乐观预期，任何执行层面的不及预期都可能引发估值收缩；其二，竞争对手博通AI营收指引不及预期，表明云厂商资本支出节奏存在变数，定制ASIC市场的需求能见度或被高估；其三，宏观环境趋于复杂，高利率环境下高倍数成长股面临系统性重新定价压力，叠加地缘政治不确定性，外部冲击风险不可忽视。"
-      },
-      {
-        "heading": "行业竞争格局",
-        "body": "MRVL所处的AI数据中心芯片赛道竞争日趋激烈。英伟达在GPU市场保持统治地位，博通在定制ASIC领域是MRVL最直接的对标竞争对手。英特尔正试图通过Gaudi系列重返数据中心AI市场，AMD亦在加码AI加速产品线。从近期市场动态看，博通财报不及预期导致板块承压，而MRVL相对保持韧性，一定程度上反映了市场对其细分赛道差异化竞争优势的认可，但也意味着竞争格局的演变值得持续关注。"
-      }
-    ],
-    "comparables": [
-      {
-        "ticker": "AVGO",
-        "name": "Broadcom",
-        "note": "定制AI ASIC领域最直接竞争对手，近期AI营收指引不及预期引发板块波动，与MRVL形成直接估值对标参照。"
-      },
-      {
-        "ticker": "NVDA",
-        "name": "Nvidia",
-        "note": "AI芯片市场绝对龙头，通用GPU路径与MRVL定制ASIC路径形成互补与竞争，其资本支出数据对整个AI芯片板块具有风向标意义。"
-      },
-      {
-        "ticker": "AMD",
-        "name": "Advanced Micro Devices",
-        "note": "在AI加速与数据中心CPU/GPU领域持续加码，与MRVL在部分云厂商客户处存在竞合关系。"
-      },
-      {
-        "ticker": "INTC",
-        "name": "Intel",
-        "note": "正经历战略重组，Gaudi AI加速器与数据中心业务复苏值得关注，近期股价反弹与行业情绪形成互动参考。"
-      },
-      {
-        "ticker": "QCOM",
-        "name": "Qualcomm",
-        "note": "在边缘AI与定制芯片领域有战略布局，估值体系与客户结构与MRVL存在部分可比性，可作为芯片设计公司估值参照系。"
-      }
-    ],
-    "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-04T05:14:09.130456Z"
+    "bull": [],
+    "bear": [],
+    "watch": [],
+    "sections": [],
+    "comparables": [],
+    "model": "（分析暂不可用）",
+    "generatedAt": null,
+    "unavailable": true
   },
   "news": [
     {
-      "id": "MRVL-140519421",
-      "title": "Broadcom shares plunge after AI forecast disappoints",
+      "id": "MRVL-140523806",
+      "title": "Broadcom's Stock Sinks Despite Solid Earnings. Other Chip Stocks Are Sliding Too.",
       "source": "Yahoo",
       "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=16cef4d7f8077247811d926964b91f79a0b01e5ed26f445f1f1e31da4c1bfa31",
+      "url": "https://finnhub.io/api/news?id=b68333310d3a2990c33e05a6e85815bab9579f18dd26a149cbb1bb92da321a0f",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140519408",
-      "title": "POET Technologies (POET) Soars 11%, Mimics Industry Rally",
+      "id": "MRVL-140523455",
+      "title": "Jensen Huang's $70 Billion Endorsement Didn't Eliminate Marvell's Risks",
       "source": "Yahoo",
       "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=ce0f3be47382d94a8fa085b621e78c977a97160b7b9bf300320e550fcb6c1b56",
+      "url": "https://finnhub.io/api/news?id=a906626103b426bce655d4284ffc75f96c393b6295030bbc87be4ebb82386cdf",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140519410",
-      "title": "MRVL Stock Slides Overnight After Record Close: Retail Traders Keep The Faith",
+      "id": "MRVL-140523646",
+      "title": "Ciena Stock Plummets After Earnings Beat. Revenue Growth of 40% Wasn’t Enough.",
       "source": "Yahoo",
       "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=c252d7fb95798d110736aab38f5f8536f3590a72c99a72fed430188be4732d6c",
+      "url": "https://finnhub.io/api/news?id=55555e9070a1be1440e20b0988a3aff0c0797ab0223730b39e4a8919f1ff42bf",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140518233",
-      "title": "Why Marvell Technology Bumped Higher Again on Wednesday",
+      "id": "MRVL-140523497",
+      "title": "Broadcom, Micron, Marvell, Ciena, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
-      "publishedAt": "2026-06-03",
-      "url": "https://finnhub.io/api/news?id=409019f5332c016c2a2facbef5a4012cee3a23c73341c2ce27117214896462ab",
+      "publishedAt": "2026-06-04",
+      "url": "https://finnhub.io/api/news?id=f7e3126eca07c08b6002e8cd87418988727a631bd2db20644971fbf3b846743c",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140518235",
-      "title": "Will Marvell Technology (MRVL) Really Become the Next Trillion-Dollar Stock?",
+      "id": "MRVL-140522352",
+      "title": "Intel, AMD, Micron shares sink as Broadcom results spark semiconductor sector sell-off",
       "source": "Yahoo",
-      "publishedAt": "2026-06-03",
-      "url": "https://finnhub.io/api/news?id=93d9b47a5fa70d61ff770a0f0be7e96c1abcb9ff234cf5fe4e56072606acf7c2",
+      "publishedAt": "2026-06-04",
+      "url": "https://finnhub.io/api/news?id=52378ab0c65c7655150f9c025a240fce9c37cc042c535c34d080801ec3c625a3",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140518240",
-      "title": "Marvell Stock Closes at a Record High. The Next Big Catalyst Is in Sight.",
+      "id": "MRVL-140523810",
+      "title": "Marvell Technology, Inc. (MRVL) is Attracting Investor Attention: Here is What You Should Know",
       "source": "Yahoo",
-      "publishedAt": "2026-06-03",
-      "url": "https://finnhub.io/api/news?id=860ed1e57eea6082237bd9e1fc659d397b511e75117b38b4f8500b45873d3396",
+      "publishedAt": "2026-06-04",
+      "url": "https://finnhub.io/api/news?id=3f53dbda3afe72c23c11de9d458dc29819d3730bb57658b41e7c1a3b8775a7a2",
       "tags": [
         "MRVL"
       ]
