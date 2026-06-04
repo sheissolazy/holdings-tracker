@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T22:29:38Z",
+  "generatedAt": "2026-06-04T23:55:36Z",
   "mode": "live",
   "sources": {
     "13f": "SEC EDGAR",
@@ -19,10 +19,14 @@
     "AAPL",
     "SMH"
   ],
+  "health": {
+    "x": "ok",
+    "checkedAt": "2026-06-04T23:55:36Z"
+  },
   "counts": {
     "people": 8,
-    "signals": 57,
-    "news": 42,
+    "signals": 68,
+    "news": 41,
     "ipos": 11,
     "stocks": 5
   },
