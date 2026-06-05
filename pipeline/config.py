@@ -27,9 +27,13 @@ PEOPLE = [
         "style": "公开言论 / 背书 · 非交易披露",
     },
     {
-        "id": "trump", "name": "Donald Trump", "org": "X / @realDonaldTrump",
+        "id": "trump", "name": "Donald Trump", "org": "Truth Social / @realDonaldTrump",
         "avatarColor": "#ef4444", "signalTypes": ["social"],
-        "social": {"platform": "x", "handle": "realDonaldTrump"},
+        "social": {"platform": "truthsocial", "handle": "realDonaldTrump"},
+        # Trump 主战场在 Truth Social（X @realDonaldTrump 已基本停更）。
+        #   经 trumpstruth.org 的公开 RSS 镜像（Roll Call 维护）拉他真实的 Truth 帖，
+        #   无需 cookie / 不被 Cloudflare 拦；只对命中 ticker / 市场主题的帖产信号。
+        "truth_rss": "https://trumpstruth.org/feed",
     },
     {
         "id": "musk", "name": "Elon Musk", "org": "X / Tesla",

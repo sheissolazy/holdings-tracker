@@ -95,7 +95,7 @@ export default function Briefing() {
         <div className="mt-3 rounded-xl border border-amber/40 bg-amber-soft px-4 py-2.5 flex items-start gap-2 no-print">
           <span className="text-amber-700 font-bold">⚠️</span>
           <p className="text-[13px] text-amber-700 leading-snug">
-            X（Twitter）登录已过期，<b>社交信号（Musk / Serenity / Trump）暂停更新</b>。
+            X（Twitter）登录已过期，<b>社交信号（Musk / Serenity）+ 猫笔刀文章暂停更新</b>。
             请在浏览器重新登录 x.com，复制新的 <code className="font-mono">auth_token</code> 与
             <code className="font-mono"> ct0</code> cookie 更新到 GitHub Secrets。
             <Link to="/settings" className="underline ml-1">前往设置查看 →</Link>
