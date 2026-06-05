@@ -790,5 +790,45 @@
     "postUrl": "https://x.com/aleabitoreddit/status/2062465797558292937",
     "ticker": "NVDA",
     "topics": []
+  },
+  {
+    "personId": "jensen",
+    "type": "statement",
+    "asOf": "2026-06-04",
+    "sentiment": "watch",
+    "excerpt": "Jensen Huang Just Made a Massive Promise to Nvidia Investors",
+    "postUrl": "https://finnhub.io/api/news?id=d933c231f0925c338fb12ac97b6d82870456a51d71fd589a79ad0a2c0ba02889",
+    "topics": [],
+    "ticker": ""
+  },
+  {
+    "personId": "jensen",
+    "type": "statement",
+    "asOf": "2026-06-04",
+    "sentiment": "watch",
+    "excerpt": "Jensen Huang's $70 Billion Endorsement Didn't Eliminate Marvell's Risks",
+    "postUrl": "https://finnhub.io/api/news?id=a906626103b426bce655d4284ffc75f96c393b6295030bbc87be4ebb82386cdf",
+    "topics": [],
+    "ticker": "MRVL"
+  },
+  {
+    "personId": "jensen",
+    "type": "statement",
+    "asOf": "2026-06-04",
+    "sentiment": "watch",
+    "excerpt": "Marvell Keep Surging After Nvidia CEO Calls It the Next Trillion-Dollar Company",
+    "postUrl": "https://finnhub.io/api/news?id=1eb2dd7574423b06cf0c92f6695878d475f6b339d785cc68723777beba111e15",
+    "topics": [],
+    "ticker": "MRVL"
+  },
+  {
+    "personId": "jensen",
+    "type": "statement",
+    "asOf": "2026-06-04",
+    "sentiment": "watch",
+    "excerpt": "Nvidia CEO mounts charm push in South Korea with TV talk show, baseball appearances",
+    "postUrl": "https://finnhub.io/api/news?id=70e9e76343a5dfd52c4754122e9a9621995898a8eed964f07b6257fd98579ab2",
+    "topics": [],
+    "ticker": ""
   }
 ]

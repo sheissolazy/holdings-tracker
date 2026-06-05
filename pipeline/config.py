@@ -24,7 +24,10 @@ PEOPLE = [
     {
         "id": "jensen", "name": "黄仁勋 Jensen Huang", "org": "NVIDIA (CEO)",
         "avatarColor": "#f59e0b", "signalTypes": ["statement"],
-        "style": "公开言论 / 背书 · 非交易披露",
+        # Jensen 无个人社媒、不发交易帖；其市场影响经【新闻报道】传导
+        #   （如"Nvidia CEO 称 Marvell 将成下一个万亿公司"）。
+        #   fetch_statements 从 Finnhub 真实新闻里挑「归因到他 + 命中关注标的」的头条产言论信号。
+        "style": "公开言论 / 背书 · 经新闻归因（非交易披露）",
     },
     {
         "id": "trump", "name": "Donald Trump", "org": "Truth Social / @realDonaldTrump",
