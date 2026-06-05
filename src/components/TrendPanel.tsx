@@ -4,11 +4,12 @@ import { cx } from '../lib/format'
 import { dataUrl } from '../data/useJson'
 import type { MarketItem } from '../data/DataProvider'
 
-// 汇率迷你图：读取 public/data/fx/{code}.json（5 年日线），按区间切片展示。
+// 通用迷你图面板：读取 public/data/{dir}/{code}.json（5 年日线），按区间切片展示。
+// 复用于「汇率 / 人民币兑换」(dir=fx) 与「大盘 / 商品」(dir=mkt)。
 // 无假数据原则：抓不到 / 文件缺失 → 静默不渲染该图。
 
-type FxBar = { t: string; c: number }
-type FxFile = { code: string; label: string; sym: string; bars: FxBar[] }
+type Bar = { t: string; c: number }
+type SeriesFile = { code: string; label: string; sym: string; kind?: string; bars: Bar[] }
 
 // 近似交易日数：5日≈5、1月≈22、1年≈252、5年=全部
 const RANGES = [
@@ -19,22 +20,37 @@ const RANGES = [
 ] as const
 type RangeKey = (typeof RANGES)[number]['key']
 
-async function loadFx(code: string): Promise<FxFile | null> {
+async function loadSeries(dir: string, code: string): Promise<SeriesFile | null> {
   try {
-    const r = await fetch(dataUrl(`fx/${code}.json`), { cache: 'no-cache' })
+    const r = await fetch(dataUrl(`${dir}/${code}.json`), { cache: 'no-cache' })
     if (!r.ok) return null
-    return (await r.json()) as FxFile
+    return (await r.json()) as SeriesFile
   } catch {
     return null
   }
 }
 
-function fmtFx(v: number): string {
+// 按 kind 格式化当前值（与 pipeline/fetch_market._fmt_value 对齐）
+function fmtValue(v: number, kind?: string): string {
+  if (kind === 'yield') return `${v.toFixed(2)}%`
+  if (kind === 'usd') return `$${v.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`
+  if (kind === 'index') return v.toFixed(2)
+  // fx：按量级选小数位
   return v >= 100 ? v.toFixed(2) : v.toFixed(4)
 }
 
-// 区间内首尾收盘算涨跌（区间表现，比单日更贴合图表）
-function MiniChart({ bars, w = 200, h = 44 }: { bars: FxBar[]; w?: number; h?: number }) {
+// 区间涨跌：收益率(yield)用 bp，其余用百分比（与单日 chg 口径一致）
+function fmtDelta(first: number, last: number, kind?: string): string {
+  if (kind === 'yield') {
+    const bp = Math.round((last - first) * 100)
+    return `${bp >= 0 ? '+' : ''}${bp}bp`
+  }
+  const pct = first ? ((last - first) / first) * 100 : 0
+  return `${pct >= 0 ? '+' : ''}${pct.toFixed(2)}%`
+}
+
+// 区间内首尾收盘画走势
+function MiniChart({ bars, w = 200, h = 36 }: { bars: Bar[]; w?: number; h?: number }) {
   if (bars.length < 2) return null
   const vals = bars.map((b) => b.c)
   const min = Math.min(...vals), max = Math.max(...vals)
@@ -45,7 +61,7 @@ function MiniChart({ bars, w = 200, h = 44 }: { bars: FxBar[]; w?: number; h?: n
   const up = vals[vals.length - 1] >= vals[0]
   const color = up ? '#16a34a' : '#dc2626'
   const area = `0,${h} ${line} ${w},${h}`
-  const gid = `fx-${Math.round(min * 1e4)}-${bars.length}`
+  const gid = `tr-${Math.round(min * 1e4)}-${bars.length}`
   return (
     <svg viewBox={`0 0 ${w} ${h}`} preserveAspectRatio="none" className="w-full" style={{ height: h }}>
       <defs>
@@ -61,21 +77,24 @@ function MiniChart({ bars, w = 200, h = 44 }: { bars: FxBar[]; w?: number; h?: n
   )
 }
 
-export function FxPanel({ items, title = '汇率' }: { items: MarketItem[]; title?: string }) {
+export function TrendPanel(
+  { items, title, dir = 'fx', gridCols = 'grid-cols-2 lg:grid-cols-3' }:
+  { items: MarketItem[]; title: string; dir?: string; gridCols?: string },
+) {
   const codes = useMemo(() => items.map((m) => m.code).filter(Boolean) as string[], [items])
-  const [files, setFiles] = useState<Record<string, FxFile>>({})
+  const [files, setFiles] = useState<Record<string, SeriesFile>>({})
   const [range, setRange] = useState<RangeKey>('1年')
 
   useEffect(() => {
     let alive = true
-    Promise.all(codes.map((c) => loadFx(c))).then((res) => {
+    Promise.all(codes.map((c) => loadSeries(dir, c))).then((res) => {
       if (!alive) return
-      const map: Record<string, FxFile> = {}
+      const map: Record<string, SeriesFile> = {}
       res.forEach((f) => { if (f) map[f.code] = f })
       setFiles(map)
     })
     return () => { alive = false }
-  }, [codes.join(',')])
+  }, [codes.join(','), dir])
 
   const nBars = RANGES.find((r) => r.key === range)!.n
   const loaded = items.filter((m) => m.code && files[m.code])
@@ -95,24 +114,25 @@ export function FxPanel({ items, title = '汇率' }: { items: MarketItem[]; titl
           ))}
         </div>
       </div>
-      <div className="grid grid-cols-2 lg:grid-cols-3 gap-2">
+      <div className={cx('grid gap-2', gridCols)}>
         {loaded.map((m) => {
-          const all = files[m.code!].bars
+          const file = files[m.code!]
+          const kind = m.kind ?? file.kind
+          const all = file.bars
           const bars = nBars === Infinity ? all : all.slice(-nBars)
           const first = bars[0]?.c ?? 0
           const last = bars[bars.length - 1]?.c ?? 0
-          const pct = first ? ((last - first) / first) * 100 : 0
           const up = last >= first
           return (
             <Card key={m.label} className="p-2.5 hover:border-line/80 transition">
               <div className="flex items-baseline justify-between mb-0.5 gap-1">
                 <span className="text-[11px] text-muted truncate">{m.label}</span>
                 <span className={cx('text-[10px] font-bold tnum shrink-0', up ? 'text-pos' : 'text-neg')}>
-                  {up ? '▲' : '▼'}{Math.abs(pct).toFixed(1)}%
+                  {up ? '▲' : '▼'}{fmtDelta(first, last, kind).replace(/^[+-]/, '')}
                 </span>
               </div>
-              <div className="text-base font-extrabold tnum mb-1 leading-none">{fmtFx(last)}</div>
-              <MiniChart bars={bars} h={36} />
+              <div className="text-base font-extrabold tnum mb-1 leading-none">{fmtValue(last, kind)}</div>
+              <MiniChart bars={bars} />
             </Card>
           )
         })}

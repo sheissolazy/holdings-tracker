@@ -2,7 +2,7 @@ import { useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import { useData } from '../data/DataProvider'
 import { Card, SectionTitle, Avatar, Sparkline, SentPill } from '../components/ui'
-import { FxPanel } from '../components/FxPanel'
+import { TrendPanel } from '../components/TrendPanel'
 import { cx } from '../lib/format'
 import type { Signal } from '../data/types'
 
@@ -213,8 +213,8 @@ export default function Briefing() {
             <>
               <SectionTitle action={<span className="text-[11px] text-muted">实时汇率 · 5年走势</span>}>汇率行情</SectionTitle>
               <Card className="p-3">
-                <FxPanel title="美元 · 主要货币" items={market.filter((m) => (m.group ?? '大盘') === '汇率')} />
-                <FxPanel title="人民币兑换" items={market.filter((m) => m.group === '人民币')} />
+                <TrendPanel dir="fx" title="美元 · 主要货币" items={market.filter((m) => (m.group ?? '大盘') === '汇率')} />
+                <TrendPanel dir="fx" title="人民币兑换" items={market.filter((m) => m.group === '人民币')} />
               </Card>
             </>
           )}
@@ -295,27 +295,13 @@ export default function Briefing() {
             <Link to="/ipos" className="text-brand">查看全部及券商 →</Link>
           </p>
 
-          {market.length > 0 && (
+          {market.some((m) => (m.group ?? '大盘') === '大盘' || m.group === '商品') && (
             <>
-              <SectionTitle>市场背景 · 商品</SectionTitle>
-              {['大盘', '商品'].map((g) => {
-                const items = market.filter((m) => (m.group ?? '大盘') === g)
-                if (!items.length) return null
-                return (
-                  <div key={g} className="mb-3">
-                    <div className="text-[11px] font-bold text-muted mb-1.5">{g}</div>
-                    <div className="grid grid-cols-3 gap-2">
-                      {items.map((m) => (
-                        <Card key={m.label} className="p-2.5 text-center">
-                          <div className="text-[11px] text-muted truncate">{m.label}</div>
-                          <div className="text-sm font-bold tnum mt-0.5">{m.value}</div>
-                          <div className={cx('text-[11px] font-semibold tnum', m.pos ? 'text-pos' : 'text-neg')}>{m.chg}</div>
-                        </Card>
-                      ))}
-                    </div>
-                  </div>
-                )
-              })}
+              <SectionTitle action={<span className="text-[11px] text-muted">5年走势</span>}>市场背景 · 商品</SectionTitle>
+              <Card className="p-3">
+                <TrendPanel dir="mkt" gridCols="grid-cols-2" title="大盘" items={market.filter((m) => (m.group ?? '大盘') === '大盘')} />
+                <TrendPanel dir="mkt" gridCols="grid-cols-2" title="商品" items={market.filter((m) => m.group === '商品')} />
+              </Card>
             </>
           )}
         </div>

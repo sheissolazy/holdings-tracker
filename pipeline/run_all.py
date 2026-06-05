@@ -14,6 +14,7 @@ from lib import write_json, MOCK, TODAY
 from config import PEOPLE, TICKERS, TICKER_META, PEOPLE_BY_ID
 import fetch_13f, fetch_congress, fetch_social, fetch_prices, fetch_market
 import fetch_news, fetch_ipos, fetch_fundamentals, fetch_fx, fetch_statements
+import fetch_market_hist
 import gen_ai
 
 
@@ -46,6 +47,7 @@ def main():
     print("[4/8] 股价…");          prices = fetch_prices.run()
     print("[5/8] 大盘…");          market = fetch_market.run()
     print("[5b] 汇率历史…");        fx = fetch_fx.run()
+    print("[5c] 大盘/商品历史…");   mkt = fetch_market_hist.run()
     print("[6/8] 新闻/公众号…");   news, ticker_news, articles = fetch_news.run()
 
     # 猫笔刀：优先用 X 文章号（mooomoocat，每日同步发文）→ 覆盖 fetch_news 的空 RSS 结果。
@@ -72,6 +74,8 @@ def main():
     write_json("market.json", market)  # 抓不到则为 []，前端隐藏
     for code, payload in fx.items():    # 汇率 5 年日线 → 前端右栏迷你图按区间切片
         write_json(f"fx/{code}.json", payload)
+    for code, payload in mkt.items():   # 大盘/商品 5 年日线 → 同款迷你图
+        write_json(f"mkt/{code}.json", payload)
 
     print("[8/8] AI 分析 + 组装股票…")
     all_news = list(news)   # 全局新闻流（前端 News/Briefing）= 各 ticker 真实新闻汇总
