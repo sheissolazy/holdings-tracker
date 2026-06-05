@@ -47,13 +47,13 @@
   {
     "id": "trump",
     "name": "Donald Trump",
-    "org": "Truth Social",
+    "org": "X / @realDonaldTrump",
     "avatarColor": "#ef4444",
     "signalTypes": [
       "social"
     ],
     "social": {
-      "platform": "truthsocial",
+      "platform": "x",
       "handle": "realDonaldTrump"
     }
   },
