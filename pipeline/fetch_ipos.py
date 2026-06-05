@@ -22,11 +22,16 @@ def fetch():
     for r in data.get("ipoCalendar", []):
         if not r.get("symbol"):
             continue
+        status = (r.get("status") or "").lower()
+        if status == "withdrawn":          # 已撤回 → 无法申购，跳过
+            continue
         lo = float(r.get("price", "0").split("-")[0] or 0) if r.get("price") else 0
         hi = float(r.get("price", "0").split("-")[-1] or 0) if r.get("price") else 0
         out.append({"ticker": r["symbol"], "name": r.get("name", r["symbol"]),
                     "date": r.get("date", ""), "priceRange": [lo, hi],
-                    "sector": "—", "exchange": r.get("exchange", "—")})
+                    "sector": "—", "exchange": r.get("exchange", "—"),
+                    # status: expected（待定价，可申购）/ priced（已定价）/ filed（已申报）
+                    "status": status or "expected"})
     return out
 
 
