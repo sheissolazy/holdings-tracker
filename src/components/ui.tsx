@@ -115,10 +115,10 @@ export function SignalCard({ s, showPerson = true, showTicker = false }: { s: Si
           {s.direction && (() => {
             // 13F 仅披露多头 → put/call 均为「买入（long）」；ptr 为真实买/卖。
             const D: Record<string, { t: string; c: string }> = {
-              put:  { t: '买入看跌', c: 'text-neg' },   // Long Put · 看空
-              call: { t: '买入看涨', c: 'text-pos' },   // Long Call · 看多
-              long: { t: '买入',     c: 'text-pos' },
-              exit: { t: '卖出',     c: 'text-neg' },
+              put:  { t: 'Buy Put',  c: 'text-neg' },   // 13F 多头 PUT · 看空
+              call: { t: 'Buy Call', c: 'text-pos' },   // 13F 多头 CALL · 看多
+              long: { t: 'Buy',      c: 'text-pos' },
+              exit: { t: 'Sell',     c: 'text-neg' },
             }
             const d = D[s.direction] ?? { t: s.direction.toUpperCase(), c: 'text-ink' }
             return <span className={cx('font-bold', d.c)}>{d.t}</span>
