@@ -1,5 +1,97 @@
 [
   {
+    "id": "gen-8026853",
+    "title": "Stocks drop as AI rally pauses, US-Iran peace talks stall - Reuters",
+    "source": "Reuters",
+    "publishedAt": "2026-06-05",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSDZvYjZiMW9PTFBnYWRFYVRVa0hDanhaTmdoRTFtSVJvY1NXMHR0LXMzdm9VZlJXcUVwbkdEbWd2UG9Tb1FCQk1Rdkl5YkNYWEJ6MkhxU1ZaS3A1eUhiOGxiSzZlbkNCUklYLUJhQmFzUFBmY0dPdGU0aEFTa0tDVmpLVQ?oc=5",
+    "tags": [
+      "宏观",
+      "双边关系"
+    ]
+  },
+  {
+    "id": "gen-8026752",
+    "title": "Oil little changed on uncertainty over US-Iran peace deal - Reuters",
+    "source": "Reuters",
+    "publishedAt": "2026-06-05",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTlEyVHU4OGhfS1RSaDItak5sQTZxNEptRjdDemtZdGs1aG5YMjEtV2tnTG1OM2ZxQl9pZGo1cnIyMFNmWElfUmpXcEJJSDRkTHZqdmRWRks4MG5GYUNMNDFaS3RKNUtwYTQtdjNEZGM4eVZjd3FqYlpRSGZHbl9vYTRPTkxWNVF5b0pBV2M1dzgwdk1tOEZHVTRBcEZnX0ZncWZSVWtuOWNrdw?oc=5",
+    "tags": [
+      "宏观",
+      "双边关系"
+    ]
+  },
+  {
+    "id": "NVDA-140532435",
+    "title": "Where Will Tesla Stock Be in 3 Years?",
+    "source": "Yahoo",
+    "publishedAt": "2026-06-05",
+    "url": "https://finnhub.io/api/news?id=13cbf35639e89ccf91f8dee615efd1528e304670e858fae483660fb3f51bd915",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "NVDA-140532436",
+    "title": "Fluence Energy (FLNC) to Collaborate with Siemens and Nvidia to Develop AI Data Centers",
+    "source": "Yahoo",
+    "publishedAt": "2026-06-05",
+    "url": "https://finnhub.io/api/news?id=7239581f6f5f4162950be156fed1d7ad481db49a0b2a1404f16628ffa74b2b1e",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "NVDA-140532437",
+    "title": "Meet the Incredible AI Stock That Has Nearly Tripled in 2026 and Could Go Much Higher",
+    "source": "Yahoo",
+    "publishedAt": "2026-06-05",
+    "url": "https://finnhub.io/api/news?id=f08a68a470b7f02a7db894df91dfd7d2b62d85f826c04e5f23d4226a68423299",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "NVDA-140532438",
+    "title": "Microsoft Held Up as AI Chips Sold Off. Is It the Safer Megacap Bet Now?",
+    "source": "Yahoo",
+    "publishedAt": "2026-06-05",
+    "url": "https://finnhub.io/api/news?id=dcffac7093120b9b282a4b9d5a44d5388e4b15c3b6356b29d0a9527856c28e6d",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "NVDA-140532439",
+    "title": "The $200 Billion Reason Amazon Could Be an Overlooked AI Winner",
+    "source": "Yahoo",
+    "publishedAt": "2026-06-05",
+    "url": "https://finnhub.io/api/news?id=7e8ab8bd645304b38b148078dcd23578e9ce40d30a2517a8b8af6b5b8b8f7d87",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "NVDA-140532440",
+    "title": "2 Tech Stocks I Would Buy Before SpaceX",
+    "source": "Yahoo",
+    "publishedAt": "2026-06-05",
+    "url": "https://finnhub.io/api/news?id=f19a5f0df078f4b597d653abb25da2d391876a3ccb1c4985b3b5efac267e0f01",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "MRVL-140531785",
+    "title": "Applied Optoelectronics (AAOI) Soars 10% as Exec Highlights Growing Optics Technology Role",
+    "source": "Yahoo",
+    "publishedAt": "2026-06-05",
+    "url": "https://finnhub.io/api/news?id=2560fb4def895aaef9884166f5db179b20bf5af2d39dd62c929a015f9a538b93",
+    "tags": [
+      "MRVL"
+    ]
+  },
+  {
     "id": "gen-8026025",
     "title": "Jim Cramer says Thursday's rally shows investors' 'huge appetite' for stocks",
     "source": "CNBC",
@@ -36,17 +128,6 @@
     "source": "Reuters",
     "publishedAt": "2026-06-04",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaC1FUm1UYy1rOVFvcUI1MGY3T1U2VVQtMkVKandMNGZ1WHIxSC00blRhLWhtdDFUellNNXBJTWpMOUV5SmlfbkRmV0FGYkptYnBUZ3pndldld2VvYnF5TGtUN2cxLVhsVG9kcXlLaGRwbThxdTIzS1pOOEZLT2NJTV9WaG9GMG5aWEJTSGhfcXJGeUpic1VQY0Q2bGM0YWQyYVRtYg?oc=5",
-    "tags": [
-      "宏观",
-      "双边关系"
-    ]
-  },
-  {
-    "id": "gen-8022168",
-    "title": "Oil settles lower on hopes for Iran deal following Israel-Lebanon ceasefire - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-06-04",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVjFnWWJPa2JCQmk0aWtNQ0VrdVdDellpTDRJLUk2ckpvcV9GZGdxVEJkNEJmZ25BU3Rwd3NXV0ZmNkNjOEZSdVllSTl1cWx2bVFjVUV0bXBST3RXU01pSGxWb19qVGpsdjFzRHdBYUxablpCZXg2WGdnOUFVN21zRjlzZVBWeUh3YlFzVUdEZEhTanBTNDdFdFZZSV9ubG9qemN1TQ?oc=5",
     "tags": [
       "宏观",
       "双边关系"
@@ -115,76 +196,6 @@
     ]
   },
   {
-    "id": "gen-8024634",
-    "title": "US Supreme Court backs SEC in fight over 'disgorgement' power - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-06-04",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQ1BqZHVHYUVXZHlOb0stcFVUUUd2Y0s5UGYtdktfZEQ1Q254Y1dPRl9aV093S3ZfYVZnM29UMEhqalJzMjlDcGV6dzZ0dFVld1RQN1IyN041Y2wzSXpKVEZKdDJuaXdoM1NXRWgweFBpcGRxOENIMGZyZTRxTnk0elVVVmxMWndjNVhMc0xKWmFYN0ZDc2ZuUHl0cndjX28?oc=5",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "NVDA-140530682",
-    "title": "5 Top Artificial Intelligence (AI) Stocks to Buy With $5,000 Right Now",
-    "source": "Yahoo",
-    "publishedAt": "2026-06-04",
-    "url": "https://finnhub.io/api/news?id=a3c4daadd6208d812e1cf4dff129d90c1e5f2c75847f505fc5f1b8a022c0ebe4",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "NVDA-140530683",
-    "title": "SpaceX IPO Date: What Investors Need to Know Before June 12",
-    "source": "Yahoo",
-    "publishedAt": "2026-06-04",
-    "url": "https://finnhub.io/api/news?id=2fc0dc2858387cf13224d7e01a163f86b23d2f62581812c9639a33ec88fbefaf",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "NVDA-140530684",
-    "title": "Why Rigetti Computing Stock Gained 46.4% In May",
-    "source": "Yahoo",
-    "publishedAt": "2026-06-04",
-    "url": "https://finnhub.io/api/news?id=403d94c2a90cf51d3f6b14638829520d614dcafc0c160f2e1740c8a36bdc5788",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "NVDA-140530685",
-    "title": "Why ePlus (PLUS) Is Down 8.7% After Mixed FY26 Results And New AI AgenticOps Launch",
-    "source": "Yahoo",
-    "publishedAt": "2026-06-04",
-    "url": "https://finnhub.io/api/news?id=81083148177fb9c827c52f85fc9af8ca6751d6ffc32ecc0e3dffd35756b5899c",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "NVDA-140530686",
-    "title": "3 Big Reasons to Love Nvidia (NVDA)",
-    "source": "Yahoo",
-    "publishedAt": "2026-06-04",
-    "url": "https://finnhub.io/api/news?id=623a72cfe0053ddd256cc72a5a5b7ee3dcfe9963e668b3d4dd2cf553addf8694",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "NVDA-140530247",
-    "title": "Poet Technologies Rose Today Despite Pressures for AI Stocks -- Is It a Buy Right Now?",
-    "source": "Yahoo",
-    "publishedAt": "2026-06-04",
-    "url": "https://finnhub.io/api/news?id=97152a3e807dd678c3fb4c78e4490bc3391b10b447383da760bdc901bdad1baa",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
     "id": "MRVL-140529117",
     "title": "Nvidia’s CEO Sees Marvell Becoming the Next $1 Trillion Company. Shares Gained Another 5% Today.",
     "source": "Yahoo",
@@ -230,16 +241,6 @@
     "source": "Yahoo",
     "publishedAt": "2026-06-04",
     "url": "https://finnhub.io/api/news?id=a81ce39f365ac96922bff8123caac7c5e054ed6f320f0591af08eddaa3545cc6",
-    "tags": [
-      "MRVL"
-    ]
-  },
-  {
-    "id": "MRVL-140525788",
-    "title": "Jim Cramer sounds the alarm on Marvell",
-    "source": "Yahoo",
-    "publishedAt": "2026-06-04",
-    "url": "https://finnhub.io/api/news?id=15abb14a8371908069a8bec2492c73ee6647896f20df6a8bcf650ebf6af6e90c",
     "tags": [
       "MRVL"
     ]
