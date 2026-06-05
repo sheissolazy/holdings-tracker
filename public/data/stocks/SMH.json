@@ -3,21 +3,14 @@
   "name": "VanEck Semiconductor ETF",
   "exchange": "NASDAQ",
   "sector": "半导体 ETF",
-  "price": 627.53,
-  "change5dPct": 5.4,
-  "changeYtdPct": 72.2,
+  "price": 569.69,
+  "change5dPct": -4.9,
+  "changeYtdPct": 54.6,
   "marketCap": "—",
   "pe": null,
   "revenue": "—",
   "revenueYoYPct": null,
   "prices": [
-    {
-      "t": "2025-12-05",
-      "o": 364.46,
-      "h": 368.58,
-      "l": 363.54,
-      "c": 364.42
-    },
     {
       "t": "2025-12-08",
       "o": 368.1,
@@ -871,19 +864,110 @@
       "h": 642.77,
       "l": 623.91,
       "c": 637.9
+    },
+    {
+      "t": "2026-06-04",
+      "o": 613.0,
+      "h": 634.78,
+      "l": 604.61,
+      "c": 627.53
+    },
+    {
+      "t": "2026-06-05",
+      "o": 605.07,
+      "h": 607.0,
+      "l": 569.69,
+      "c": 569.69
     }
   ],
   "thesis": {
-    "bull": [],
-    "bear": [],
-    "watch": [],
-    "sections": [],
-    "comparables": [],
-    "model": "（分析暂不可用）",
-    "generatedAt": null,
-    "unavailable": true
+    "bull": [
+      "AI基础设施投资持续扩张，主要云厂商资本开支增速未见明显放缓，为英伟达、博通等ETF核心持仓提供长期需求支撑",
+      "Marvell成功加入S&P 500，验证半导体企业盈利能力改善，有助于提升SMH整体估值预期",
+      "AVGO定制AI芯片（XPU）业务持续放量，市场分析师给出50%上涨空间预测，头部权重股业绩改善可带动ETF净值上行"
+    ],
+    "bear": [
+      "知名机构投资者Leopold新建约20亿美元SMH看跌期权仓位（组合权重14.9%），释放强烈看空信号，空头压力不容忽视",
+      "近期芯片板块遭遇集中抛售行情，拖累纳斯达克单日跌幅达4.2%，博通AI前景指引不及预期引发板块性连锁反应",
+      "AI相关股票整体承压，AI裁员规模已超去年全年总量，市场对AI需求变现节奏的担忧正在累积"
+    ],
+    "watch": [
+      "苹果WWDC（2026年6月）AI Siri功能落地情况，若苹果AI生态加速启动将利好端侧芯片需求，反之或构成预期利空",
+      "全球油价走势及地缘政治风险（伊朗制裁、中东局势持续紧张），宏观成本压力可能传导至半导体供应链及企业资本开支决策",
+      "英特尔股价年内强势反弹逾450%，市场对其转型成果分歧较大，能否持续超预期将影响SMH低权重股整体表现"
+    ],
+    "sections": [
+      {
+        "heading": "基金概览",
+        "body": "SMH（VanEck半导体ETF）追踪MVIS美国上市半导体25指数，集中持有全球头部半导体企业，前十大持仓通常占净资产逾70%。英伟达、台积电、博通、高通等构成核心权重，使该ETF高度暴露于AI算力芯片与先进制程晶圆代工两大赛道，其走势与全球半导体景气周期高度同步。"
+      },
+      {
+        "heading": "核心持仓动态",
+        "body": "英伟达凭借数据中心GPU的压倒性市场份额持续占据最大权重；博通（AVGO）定制AI芯片业务高速增长，但近期指引不及预期引发短期回调，为板块当前最大分歧点；Marvell（MRVL）成功加入S&P 500，反映盈利能力改善；英特尔年内累计涨幅逾450%，持续性存在较大争议。"
+      },
+      {
+        "heading": "AI需求驱动力",
+        "body": "大型云厂商在2025至2026年度维持高强度资本开支，AI训练与推理对高端GPU及定制芯片的需求构成SMH最重要的长期催化剂。与此同时，端侧AI若随苹果WWDC落地加速，将为手机及PC处理器芯片带来增量需求，有望进一步拓宽SMH的受益范围。"
+      },
+      {
+        "heading": "风险因素",
+        "body": "估值层面，半导体板块市盈率处于历史高位区间，对盈利增速的预期已相当充分；周期层面，库存调整与下游需求波动历来是行业固有风险；地缘层面，中美科技管制与出口限制可能影响台积电、英伟达等核心持仓的收入可见性；宏观层面，油价上涨与通胀重燃可能压制整体风险偏好并引发资金再配置。"
+      },
+      {
+        "heading": "机构与大资金动向",
+        "body": "监测数据显示，知名投资者Leopold于2026年3月31日新建SMH看跌期权仓位，名义价值逾20亿美元，占其组合权重约14.9%，属全新建仓行为，方向明确看空。该信号表明至少存在一股重量级力量认为SMH在当前价位存在下行风险，但单一机构动向需结合整体市场持仓结构综合判断，不宜单独用作决策依据。"
+      },
+      {
+        "heading": "市场分歧与板块展望",
+        "body": "当前SMH多空分歧明显：多方认为AI算力投资尚在爬坡期，头部芯片企业护城河深厚，长期逻辑完整；空方则关注估值泡沫风险、盈利指引不及预期的连锁反应，以及AI商业化落地速度可能低于市场预期的隐患。板块内部分化同样突出，头部英伟达与中低权重股表现背离，需警惕「指数掩盖个股风险」的现象。"
+      }
+    ],
+    "comparables": [
+      {
+        "ticker": "SOXX",
+        "name": "iShares半导体ETF",
+        "note": "同类竞品，持仓分散度略高于SMH，前十大权重集中度相对较低，但整体走势与SMH高度相关，可用于对比资金流向差异"
+      },
+      {
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "SMH最大权重股，AI算力芯片绝对龙头，其股价走势对SMH净值影响最为显著，是理解SMH短期波动的核心变量"
+      },
+      {
+        "ticker": "AVGO",
+        "name": "博通",
+        "note": "定制AI芯片（XPU）高速增长，近期AI指引不及预期引发明显回调，为当前SMH内部多空分歧最激烈的标的"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "Marvell科技",
+        "note": "刚入选S&P 500，AI定制芯片及数据中心网络业务增长，多空分歧集中于当前估值溢价是否已充分反映成长预期"
+      }
+    ],
+    "model": "claude-code（订阅）",
+    "generatedAt": "2026-06-05T22:24:14.165397Z"
   },
   "news": [
+    {
+      "id": "SMH-140539209",
+      "title": "The Four Horsemen Of The S&P 500 Are Arriving All At Once",
+      "source": "Benzinga",
+      "publishedAt": "2026-06-05",
+      "url": "https://finnhub.io/api/news?id=ebaa01c7088b4eda8b24bad9fae0f936b8b46af0ff94821c70daf983a85b10d8",
+      "tags": [
+        "SMH"
+      ]
+    },
+    {
+      "id": "SMH-140536288",
+      "title": "Tech And FX: Short-Term Volatility May Cloud Long-Term Trend",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-06-05",
+      "url": "https://finnhub.io/api/news?id=9e9ed3b96218a498b2b61b31bfffe57e92e0239ecc4e4c904a959bc47f86a0eb",
+      "tags": [
+        "SMH"
+      ]
+    },
     {
       "id": "SMH-140529826",
       "title": "Investing In The Most Valuable Firms: The MANGOS",
@@ -920,26 +1004,6 @@
       "source": "SeekingAlpha",
       "publishedAt": "2026-06-04",
       "url": "https://finnhub.io/api/news?id=da1f4f67d95a94980840cafa85ece685b2da31644bd17593447ac863c82ab7e6",
-      "tags": [
-        "SMH"
-      ]
-    },
-    {
-      "id": "SMH-140521350",
-      "title": "5 Dynamics Shaping Today's Investment Landscape",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=f0230a95dbc8bdb6578391c11f65703f9677224f8ade475ca9755467f0e80173",
-      "tags": [
-        "SMH"
-      ]
-    },
-    {
-      "id": "SMH-140511238",
-      "title": "Chart Of The Day: AI. AI. AI. (And A Handful Of Other Stocks, Too)",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-06-03",
-      "url": "https://finnhub.io/api/news?id=4fa079a02057ca59abd55ad1a43f147375a34a34d464a23756160781bf5451c2",
       "tags": [
         "SMH"
       ]

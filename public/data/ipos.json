@@ -1,5 +1,17 @@
 [
   {
+    "ticker": "SPCX",
+    "name": "SPACE EXPLORATION TECHNOLOGIES CORP",
+    "date": "2026-06-12",
+    "priceRange": [
+      135.0,
+      135.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ",
+    "status": "expected"
+  },
+  {
     "ticker": "FRBT",
     "name": "Forbright, Inc.",
     "date": "2026-06-11",
@@ -12,12 +24,36 @@
     "status": "expected"
   },
   {
+    "ticker": "PBLS",
+    "name": "Parabilis Medicines, Inc.",
+    "date": "2026-06-10",
+    "priceRange": [
+      17.0,
+      19.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "EROC",
     "name": "ERock, Inc.",
     "date": "2026-06-10",
     "priceRange": [
       20.0,
       23.0
+    ],
+    "sector": "—",
+    "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
+    "ticker": "FTRAU",
+    "name": "FutureCorp Space Acquisition 1",
+    "date": "2026-06-05",
+    "priceRange": [
+      10.0,
+      10.0
     ],
     "sector": "—",
     "exchange": "NYSE",
@@ -46,113 +82,5 @@
     "sector": "—",
     "exchange": "NASDAQ Global",
     "status": "expected"
-  },
-  {
-    "ticker": "INIO",
-    "name": "INNIO Group Holding B.V.",
-    "date": "2026-06-04",
-    "priceRange": [
-      27.0,
-      27.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global Select",
-    "status": "expected"
-  },
-  {
-    "ticker": "SSMR",
-    "name": "Sunshine Silver Mining & Refining Co",
-    "date": "2026-06-04",
-    "priceRange": [
-      13.5,
-      13.5
-    ],
-    "sector": "—",
-    "exchange": "NYSE",
-    "status": "expected"
-  },
-  {
-    "ticker": "QNT",
-    "name": "Quantinuum Inc.",
-    "date": "2026-06-04",
-    "priceRange": [
-      60.0,
-      60.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global",
-    "status": "expected"
-  },
-  {
-    "ticker": "SFPT",
-    "name": "Safepoint Holdings, Inc.",
-    "date": "2026-06-04",
-    "priceRange": [
-      15.0,
-      17.0
-    ],
-    "sector": "—",
-    "exchange": "NYSE",
-    "status": "expected"
-  },
-  {
-    "ticker": "IPVVU",
-    "name": "InterPrivate Investment Partners V, Inc.",
-    "date": "2026-06-04",
-    "priceRange": [
-      10.0,
-      10.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global",
-    "status": "expected"
-  },
-  {
-    "ticker": "LFTO",
-    "name": "Liftoff Mobile, Inc.",
-    "date": "2026-06-04",
-    "priceRange": [
-      23.0,
-      23.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global Select",
-    "status": "expected"
-  },
-  {
-    "ticker": "LTGRU",
-    "name": "Long Table Growth Corp.",
-    "date": "2026-06-04",
-    "priceRange": [
-      10.0,
-      10.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global",
-    "status": "expected"
-  },
-  {
-    "ticker": "SPCX",
-    "tickerPending": true,
-    "name": "SpaceX",
-    "date": "2026-06-12",
-    "priceRange": [
-      135.0,
-      135.0
-    ],
-    "sector": "航天 / 卫星互联网",
-    "exchange": "Nasdaq",
-    "status": "expected",
-    "valuation": "约 $1.77T",
-    "brokers": [
-      "Robinhood",
-      "Fidelity",
-      "Schwab",
-      "SoFi"
-    ],
-    "note": "保密申报(4/1)，路演固定价 $135；约 30% 配售零售，券商需符合各自资格",
-    "source": "https://fortune.com/2026/06/03/spacex-ipo-share-price-index-funds-valuation-public/",
-    "as_of": "2026-06-03",
-    "curated": true
   }
 ]
