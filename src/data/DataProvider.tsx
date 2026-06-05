@@ -12,7 +12,8 @@ const EMPTY_TRADEPLAN: TradePlan = {
 
 export interface MarketItem { label: string; value: string; chg: string; pos: boolean; group?: string; code?: string }
 export type SourceStatus = 'unconfigured' | 'ok' | 'expired'
-export interface MetaHealth { x: SourceStatus; checkedAt?: string }
+export interface MaobidaoHealth { lastPost?: string | null; daysSince?: number | null; stale?: boolean }
+export interface MetaHealth { x: SourceStatus; checkedAt?: string; maobidao?: MaobidaoHealth }
 export interface StockSummary {
   ticker: string; name: string; exchange: string; sector: string
   price: number; change5dPct: number; changeYtdPct: number

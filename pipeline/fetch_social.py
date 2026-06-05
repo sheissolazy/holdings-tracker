@@ -171,7 +171,8 @@ def _x_user_id(handle):
     return d["data"]["user"]["result"]["rest_id"]
 
 
-def _x_tweets(uid, count=20):
+def _x_tweets_raw(uid, count=20):
+    """拉时间线，产出每条推文的原始 (res, leg)，供上层各取所需（文本 / 文章 / 媒体）。"""
     d = _x_get("E3opETHurmVJflFsUBVuUQ/UserTweets",
                {"userId": uid, "count": count, "includePromotedContent": False,
                 "withQuickPromoteEligibilityTweetFields": True, "withVoice": True,
@@ -189,14 +190,22 @@ def _x_tweets(uid, count=20):
             leg = res.get("legacy", {})
             if not leg:
                 continue
-            text = (leg.get("full_text") or "").strip()
-            note = (res.get("note_tweet", {}).get("note_tweet_results", {})
-                    .get("result", {}).get("text"))
-            if note:
-                text = note.strip()
-            text = html.unescape(text)   # &gt; &amp; → > & 等，避免原文显示转义实体
-            out.append({"id": leg.get("id_str"), "text": text,
-                        "created": leg.get("created_at", "")})
+            out.append({"res": res, "leg": leg})
+    return out
+
+
+def _x_tweets(uid, count=20):
+    out = []
+    for tw in _x_tweets_raw(uid, count):
+        res, leg = tw["res"], tw["leg"]
+        text = (leg.get("full_text") or "").strip()
+        note = (res.get("note_tweet", {}).get("note_tweet_results", {})
+                .get("result", {}).get("text"))
+        if note:
+            text = note.strip()
+        text = html.unescape(text)   # &gt; &amp; → > & 等，避免原文显示转义实体
+        out.append({"id": leg.get("id_str"), "text": text,
+                    "created": leg.get("created_at", "")})
     return out
 
 
@@ -249,6 +258,67 @@ def _x_people():
         soc = p.get("social") or {}
         if soc.get("platform") == "x" and soc.get("handle"):
             out.append((pid, soc["handle"]))
+    return out
+
+
+# ---------------- X 文章流（猫笔刀等「在 X 上每日发文」的来源） ----------------
+
+_TCO = re.compile(r"https://t\.co/\S+")
+
+
+def _clean_post_text(leg, res):
+    """取推文正文（优先 note_tweet 长文），去掉末尾 t.co 短链，解码 HTML 实体。"""
+    text = (leg.get("full_text") or "")
+    note = (res.get("note_tweet", {}).get("note_tweet_results", {})
+            .get("result", {}).get("text"))
+    if note:
+        text = note
+    text = _TCO.sub("", text).strip()
+    return html.unescape(text)
+
+
+def fetch_x_articles(handle, days=21, limit=30):
+    """把某 X 账号的「文章 + 原创短帖」抓成文章流（NewsItem 形状），用于来源页。
+
+    与 fetch_x（产 ticker 信号）不同：这里**不解析 ticker、不产信号**，只做内容流——
+    标题 + 摘要 + 原文链接，对应前端「公众号文章流」区块。
+      - X Article（长文，x.com/i/article/…）→ 标题取文章标题，摘要取 preview_text。
+      - 原创短帖（有正文）→ 标题取首行，摘要取正文。
+      - 转推（RT）/ 纯链接无正文 → 跳过（不是本人内容 / 无可读文本）。
+    """
+    if not (X_AUTH and X_CT0):
+        raise RuntimeError("缺 X_AUTH_TOKEN / X_CT0")
+    uid = _x_user_id(handle)
+    cutoff = dt.date.today() - dt.timedelta(days=days)
+    out = []
+    for tw in _x_tweets_raw(uid, count=40):
+        res, leg = tw["res"], tw["leg"]
+        full = leg.get("full_text") or ""
+        if full.startswith("RT @"):          # 转推不是本人内容
+            continue
+        date = _parse_created(leg.get("created_at", ""))
+        if date and dt.date.fromisoformat(date) < cutoff:
+            continue
+        tid = leg.get("id_str")
+        url = f"https://x.com/{handle}/status/{tid}"
+        art = (res.get("article", {}).get("article_results", {}).get("result", {}))
+        if art and art.get("title"):
+            title = html.unescape(art["title"].strip())
+            summary = html.unescape((art.get("preview_text") or "").strip())[:200]
+        else:
+            text = _clean_post_text(leg, res)
+            if not text:                      # 纯图片/纯链接、无正文 → 跳过
+                continue
+            first = text.split("\n", 1)[0].strip()
+            title = first[:42] + ("…" if len(first) > 42 else "")
+            summary = text[:200]
+        out.append({
+            "id": f"mbd-{tid}", "title": title or "（无标题）",
+            "source": f"猫笔刀 · X @{handle}", "publishedAt": date or "",
+            "url": url, "tags": ["猫笔刀"], "summary": summary,
+        })
+        if len(out) >= limit:
+            break
     return out
 
 

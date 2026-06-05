@@ -112,7 +112,7 @@ export default function Settings() {
         <div className="flex items-center gap-3 p-3">
           <div className="min-w-0 flex-1">
             <div className="text-sm font-semibold">X（Twitter）登录</div>
-            <div className="text-[11px] text-muted">Musk / Serenity 社交信号，依赖浏览器 cookie</div>
+            <div className="text-[11px] text-muted">Musk / Serenity / Trump / 猫笔刀，依赖浏览器 cookie</div>
           </div>
           <span className={cx('text-[11px] font-bold px-2 py-1 rounded', xStatus.cls)}>{xStatus.label}</span>
         </div>
@@ -124,6 +124,18 @@ export default function Settings() {
             <code className="font-mono"> X_CT0</code>）。session cookie 通常 1–3 个月失效一次。
           </div>
         )}
+        <div className="flex items-center gap-3 p-3">
+          <div className="min-w-0 flex-1">
+            <div className="text-sm font-semibold">猫笔刀 · 每日文章</div>
+            <div className="text-[11px] text-muted">经 X @mooomoocat 同步，几乎每日更新；≥2 天无新帖会提醒</div>
+          </div>
+          <span className={cx('text-[11px] font-bold px-2 py-1 rounded',
+            health.maobidao?.stale ? 'bg-neg/10 text-neg' : 'bg-pos/10 text-pos')}>
+            {health.maobidao?.stale
+              ? (health.maobidao?.daysSince != null ? `已 ${health.maobidao.daysSince} 天无更新` : '抓取异常')
+              : (health.maobidao?.lastPost ? `最近 ${health.maobidao.lastPost}` : '正常')}
+          </span>
+        </div>
       </Card>
 
       {/* 关于 */}

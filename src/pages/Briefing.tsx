@@ -95,10 +95,24 @@ export default function Briefing() {
         <div className="mt-3 rounded-xl border border-amber/40 bg-amber-soft px-4 py-2.5 flex items-start gap-2 no-print">
           <span className="text-amber-700 font-bold">⚠️</span>
           <p className="text-[13px] text-amber-700 leading-snug">
-            X（Twitter）登录已过期，<b>社交信号（Musk / Serenity）暂停更新</b>。
+            X（Twitter）登录已过期，<b>社交信号（Musk / Serenity / Trump）暂停更新</b>。
             请在浏览器重新登录 x.com，复制新的 <code className="font-mono">auth_token</code> 与
             <code className="font-mono"> ct0</code> cookie 更新到 GitHub Secrets。
             <Link to="/settings" className="underline ml-1">前往设置查看 →</Link>
+          </p>
+        </div>
+      )}
+
+      {/* 猫笔刀停更提醒：他几乎每天发文，≥2 天无新帖大概率是抓取异常（cookie 失效 / 账号更名 / 停更） */}
+      {health.maobidao?.stale && (
+        <div className="mt-3 rounded-xl border border-coral/40 bg-coral-soft px-4 py-2.5 flex items-start gap-2 no-print">
+          <span className="text-coral font-bold">🐱</span>
+          <p className="text-[13px] text-coral leading-snug">
+            <b>该提醒你了：猫笔刀
+            {health.maobidao.daysSince != null ? ` 已 ${health.maobidao.daysSince} 天没有新文章` : ' 抓取不到文章'}</b>
+            （平时几乎每天更新{health.maobidao.lastPost ? `，最近一篇 ${health.maobidao.lastPost}` : ''}）。
+            可能是 X 登录失效、@mooomoocat 改名/停更，建议检查。
+            <Link to="/person/maobidao" className="underline ml-1">查看猫笔刀 →</Link>
           </p>
         </div>
       )}

@@ -80,7 +80,7 @@ function SourceDetail({ p }: { p: Person }) {
     ['文章数', String(articles.length)],
     ['最近更新', latest?.publishedAt.slice(5) ?? '—'],
     ['类型', '微信公众号'],
-    ['接入', 'Wechat2RSS'],
+    ['接入', 'X 同步'],
   ]
 
   return (
@@ -122,6 +122,7 @@ function SourceDetail({ p }: { p: Person }) {
                 <span className="text-[11px] text-muted">{latest.publishedAt}</span>
               </div>
               <p className="text-base font-semibold leading-snug group-hover:text-brand">{latest.title} <span className="text-muted">↗</span></p>
+              {latest.summary && <p className="text-sm text-muted mt-1 leading-snug line-clamp-3">{latest.summary}</p>}
               <div className="flex flex-wrap gap-1.5 mt-2">
                 {latest.tags.map((t) => (
                   <span key={t} className="text-[10px] font-semibold px-1.5 py-0.5 rounded border bg-canvas text-muted border-line">{t}</span>
@@ -141,6 +142,7 @@ function SourceDetail({ p }: { p: Person }) {
             <div className="w-12 shrink-0 text-[11px] font-semibold tnum text-muted pt-0.5">{n.publishedAt.slice(5)}</div>
             <div className="flex-1 min-w-0">
               <p className="text-sm leading-snug group-hover:text-brand">{n.title} <span className="text-muted">↗</span></p>
+              {n.summary && <p className="text-xs text-muted mt-0.5 leading-snug line-clamp-2">{n.summary}</p>}
               <div className="flex flex-wrap gap-1.5 mt-1">
                 {n.tags.map((t) => (
                   <span key={t} className={cx('text-[10px] font-semibold px-1.5 py-0.5 rounded border bg-canvas text-muted border-line')}>{t}</span>

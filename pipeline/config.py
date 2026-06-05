@@ -44,8 +44,11 @@ PEOPLE = [
     {
         "id": "maobidao", "name": "猫笔刀", "org": "微信公众号 · 每日更新",
         "avatarColor": "#7c5cff", "signalTypes": ["wechat"],
-        "style": "每日复盘 / 市场杂谈 · 经 Wechat2RSS 接入",
-        # 真实接入：把订阅生成的 RSS 地址填到这里
+        "style": "每日复盘 / 市场杂谈 · 经 X 同步接入",
+        # 接入方式优先级：X 文章号（猫笔刀在 X 上每日同步发文）> Wechat2RSS。
+        #   x_handle 走已有的 X cookie 通道，拉「文章流」(标题+摘要+原文链接)，不产 ticker 信号。
+        "x_handle": "mooomoocat",
+        # 备用：若改用微信公众号 RSS（Wechat2RSS / wewe-rss），把地址填这里即可。
         "rss": "",
     },
 ]
