@@ -8,6 +8,9 @@ import type { Signal } from '../data/types'
 
 const IMPACT = { high: 'bg-amber-soft text-amber-700 border-amber/40', med: 'bg-canvas text-muted border-line', low: 'bg-canvas text-muted border-line' }
 
+// 「现在可申购」：尚未定价（非 priced/withdrawn）且定价日 ≥ 今天的 IPO（与 /ipos 页一致）
+const daysTo = (d: string, today: string) => Math.round((Date.parse(d) - Date.parse(today)) / 86400000)
+
 // 真实信号的多空倾向（用于「共识 / 分歧」推导，不编造）
 function bias(s: Signal): 'bull' | 'bear' | null {
   if (s.sentiment === 'bull') return 'bull'
@@ -62,6 +65,11 @@ export default function Briefing() {
     window.print()
     setTimeout(() => { document.title = prev }, 800)
   }
+
+  // 现在可申购的 IPO：尚未定价且定价日未过，按定价日排序（与 /ipos 页同口径）
+  const requestable = [...ipos]
+    .filter((i) => i.status !== 'priced' && i.status !== 'withdrawn' && daysTo(i.date, today) >= 0)
+    .sort((a, b) => a.date.localeCompare(b.date))
 
   // 合并「事件」与「新闻」为一条以今天为中心的时间线（均为真实数据，缺则空）
   const upcoming = [...events].filter((e) => e.date >= today).sort((a, b) => a.date.localeCompare(b.date))
@@ -200,6 +208,17 @@ export default function Briefing() {
             </>
           )}
 
+          {/* 汇率行情：美元主要货币 + 人民币兑换（移到左栏，重新命名与排版） */}
+          {market.some((m) => m.group === '汇率' || m.group === '人民币') && (
+            <>
+              <SectionTitle action={<span className="text-[11px] text-muted">实时汇率 · 5年走势</span>}>汇率行情</SectionTitle>
+              <Card className="p-3">
+                <FxPanel title="美元 · 主要货币" items={market.filter((m) => (m.group ?? '大盘') === '汇率')} />
+                <FxPanel title="人民币兑换" items={market.filter((m) => m.group === '人民币')} />
+              </Card>
+            </>
+          )}
+
           {/* 动态：事件 + 新闻合并时间线 */}
           <SectionTitle action={<Link to="/news" className="text-xs text-brand">全部 →</Link>}>动态 · 事件与新闻</SectionTitle>
           <Card className="px-4 divide-y divide-line">
@@ -243,25 +262,33 @@ export default function Briefing() {
 
         {/* right rail */}
         <div>
-          <SectionTitle action={<Link to="/ipos" className="text-xs text-brand">更多</Link>}>本周打新 IPO</SectionTitle>
+          <SectionTitle action={<Link to="/ipos" className="text-xs text-brand">更多</Link>}>现在可申购</SectionTitle>
           <Card className="p-2 divide-y divide-line">
-            {ipos.length ? ipos.map((ipo) => (
-              <Link key={ipo.ticker} to={`/stock/${ipo.ticker}`} className="flex items-center gap-2 p-2 hover:bg-canvas rounded-lg">
-                <div className="flex-1">
-                  <div className="text-sm font-semibold">{ipo.name}</div>
-                  <div className="text-[11px] text-muted">{ipo.sector} · {ipo.exchange}</div>
-                </div>
-                <div className="text-right">
-                  <div className="text-xs tnum">${ipo.priceRange[0]}–{ipo.priceRange[1]}</div>
-                  <div className="text-[11px] text-muted">{ipo.date.slice(5)}</div>
-                </div>
-              </Link>
-            )) : <p className="text-sm text-muted p-3">近期暂无 IPO。</p>}
+            {requestable.length ? requestable.slice(0, 6).map((ipo) => {
+              const d = daysTo(ipo.date, today)
+              return (
+                <Link key={ipo.ticker} to={`/stock/${ipo.ticker}`} className="flex items-center gap-2 p-2 hover:bg-canvas rounded-lg">
+                  <div className="flex-1 min-w-0">
+                    <div className="text-sm font-semibold truncate">{ipo.name}</div>
+                    <div className="text-[11px] text-muted truncate">{ipo.sector !== '—' ? `${ipo.sector} · ` : ''}{ipo.exchange}</div>
+                  </div>
+                  <div className="text-right shrink-0">
+                    <div className="text-xs tnum">${ipo.priceRange[0]}{ipo.priceRange[1] !== ipo.priceRange[0] ? `–${ipo.priceRange[1]}` : ''}</div>
+                    <div className={cx('text-[11px] font-bold', d <= 3 ? 'text-coral' : 'text-muted')}>
+                      {d <= 0 ? '今日定价' : `${d} 天后`}
+                    </div>
+                  </div>
+                </Link>
+              )
+            }) : <p className="text-sm text-muted p-3">当前暂无可申购的 IPO。</p>}
           </Card>
+          <p className="text-[11px] text-muted px-1 mt-1.5 leading-snug">
+            仅含已向 SEC 递交招股书的标的；SpaceX 等未上市私有公司不在此列表，需在券商（如 Robinhood IPO Access）单独申请。
+          </p>
 
           {market.length > 0 && (
             <>
-              <SectionTitle>市场背景 · 商品 · 汇率</SectionTitle>
+              <SectionTitle>市场背景 · 商品</SectionTitle>
               {['大盘', '商品'].map((g) => {
                 const items = market.filter((m) => (m.group ?? '大盘') === g)
                 if (!items.length) return null
@@ -280,8 +307,6 @@ export default function Briefing() {
                   </div>
                 )
               })}
-              <FxPanel items={market.filter((m) => (m.group ?? '大盘') === '汇率')} />
-              <FxPanel title="人民币兑换" items={market.filter((m) => m.group === '人民币')} />
             </>
           )}
         </div>

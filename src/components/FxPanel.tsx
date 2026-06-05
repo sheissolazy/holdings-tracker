@@ -95,7 +95,7 @@ export function FxPanel({ items, title = '汇率' }: { items: MarketItem[]; titl
           ))}
         </div>
       </div>
-      <div className="grid grid-cols-1 gap-2">
+      <div className="grid grid-cols-2 lg:grid-cols-3 gap-2">
         {loaded.map((m) => {
           const all = files[m.code!].bars
           const bars = nBars === Infinity ? all : all.slice(-nBars)
@@ -104,18 +104,15 @@ export function FxPanel({ items, title = '汇率' }: { items: MarketItem[]; titl
           const pct = first ? ((last - first) / first) * 100 : 0
           const up = last >= first
           return (
-            <Card key={m.label} className="p-2.5">
-              <div className="flex items-baseline justify-between mb-1">
+            <Card key={m.label} className="p-2.5 hover:border-line/80 transition">
+              <div className="flex items-baseline justify-between mb-0.5 gap-1">
                 <span className="text-[11px] text-muted truncate">{m.label}</span>
-                <span className="text-sm font-bold tnum">{fmtFx(last)}</span>
-              </div>
-              <MiniChart bars={bars} />
-              <div className="flex items-center justify-between mt-0.5">
-                <span className="text-[10px] text-muted">{range}</span>
-                <span className={cx('text-[11px] font-semibold tnum', up ? 'text-pos' : 'text-neg')}>
-                  {up ? '+' : ''}{pct.toFixed(2)}%
+                <span className={cx('text-[10px] font-bold tnum shrink-0', up ? 'text-pos' : 'text-neg')}>
+                  {up ? '▲' : '▼'}{Math.abs(pct).toFixed(1)}%
                 </span>
               </div>
+              <div className="text-base font-extrabold tnum mb-1 leading-none">{fmtFx(last)}</div>
+              <MiniChart bars={bars} h={36} />
             </Card>
           )
         })}
