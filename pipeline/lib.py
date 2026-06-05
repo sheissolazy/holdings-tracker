@@ -16,7 +16,7 @@ DATA_DIR = os.path.join(ROOT, "public", "data")
 
 MOCK = "--mock" in sys.argv  # 缺网络/密钥时用占位数据，验证管道结构
 
-TODAY = dt.date(2026, 6, 1)  # 演示用固定“今天”；真实可改成 dt.date.today()
+TODAY = dt.date.today()  # 真实当前日期；freshness/sparkline 日期计算均依赖它
 
 
 def ensure_dirs():

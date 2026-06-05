@@ -15,28 +15,28 @@
   },
   {
     "label": "美元指数",
-    "value": "99.42",
+    "value": "99.41",
     "chg": "-0.1%",
     "pos": false,
     "group": "大盘"
   },
   {
     "label": "黄金",
-    "value": "$4,466.40",
+    "value": "$4,466.30",
     "chg": "-0.2%",
     "pos": false,
     "group": "商品"
   },
   {
     "label": "原油WTI",
-    "value": "$93.05",
+    "value": "$93.08",
     "chg": "+0.0%",
     "pos": true,
     "group": "商品"
   },
   {
     "label": "美元/人民币",
-    "value": "6.7742",
+    "value": "6.7743",
     "chg": "+0.1%",
     "pos": true,
     "group": "汇率",
@@ -44,7 +44,7 @@
   },
   {
     "label": "美元/日元",
-    "value": "159.95",
+    "value": "159.97",
     "chg": "+0.0%",
     "pos": true,
     "group": "汇率",
@@ -52,7 +52,7 @@
   },
   {
     "label": "美元/韩元",
-    "value": "1,543.88",
+    "value": "1,543.28",
     "chg": "+0.9%",
     "pos": true,
     "group": "汇率",
@@ -68,7 +68,7 @@
   },
   {
     "label": "美元/加元",
-    "value": "1.3903",
+    "value": "1.3905",
     "chg": "+0.1%",
     "pos": true,
     "group": "汇率",

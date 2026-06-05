@@ -874,129 +874,72 @@
     }
   ],
   "thesis": {
-    "bull": [
-      "Jensen Huang积极推动生态版图扩张，据报道正与苹果洽谈潜在战略合作，同期发布Nemotron 3 Ultra AI模型，软硬件协同护城河持续加深",
-      "Pelosi于2024年12月至2026年1月间多次申报NVDA多头仓位，政策敏感人士的持续增持信号显示市场对AI算力长期需求的高度认可",
-      "2026年以来NVDA股价接近翻三倍，数据中心扩张周期延续，800G及1.6T光模块等配套基础设施需求旺盛，印证AI算力投入仍处上升通道"
-    ],
-    "bear": [
-      "Leopold于2026年3月31日新开超15.7亿美元名义价值的大规模看跌期权仓位，占其持仓11.5%权重，为近期最显著的机构空头信号",
-      "Broadcom AI业绩预期落空引发板块13%以上急跌，AI芯片整体估值面临重估压力，NVDA高溢价估值存在联动下杀风险",
-      "AI行情阶段性降温叠加美伊地缘政治紧张、宏观不确定性上升，高估值成长股普遍承压，资金或阶段性流出科技板块"
-    ],
-    "watch": [
-      "苹果与NVDA潜在合作协议的实质性进展：若达成，将为NVDA开辟消费级AI硬件新赛道，具有重大业绩弹性",
-      "Pelosi近期操作呈现增持与减持并存的分歧信号，后续申报动向值得持续追踪以判断智慧资金态度变化",
-      "光模块产业链（AAOI、ALAB等）订单可见度能否持续兑现，是验证NVDA数据中心需求景气度的重要先行指标"
-    ],
-    "sections": [
-      {
-        "heading": "公司概览",
-        "body": "NVIDIA Corporation（NVDA）是全球领先的图形处理器及AI加速芯片设计商，总部位于美国加利福尼亚州圣克拉拉。公司业务覆盖数据中心、游戏、专业可视化及汽车四大板块，其中数据中心已成为核心营收来源。NVDA凭借CUDA生态系统构建了强大的软件护城河，在AI训练与推理市场中占据主导地位，并持续向平台化软件公司方向演进。"
-      },
-      {
-        "heading": "业务与竞争格局",
-        "body": "NVDA在AI算力芯片市场享有压倒性份额，H系列与Blackwell架构GPU是当前大模型训练的主流选择。竞争对手包括AMD（MI系列GPU）、英特尔（Gaudi加速卡）及云厂商自研芯片（谷歌TPU、亚马逊Trainium等）。短期内挑战者难以复制CUDA软件生态，但中长期竞争格局演变仍是核心变量。公司通过发布Nemotron 3 Ultra等AI模型向软件与服务层延伸，拓宽变现路径。"
-      },
-      {
-        "heading": "跟踪者动向分析",
-        "body": "跟踪者信号呈现明显多空分化。国会议员Pelosi于2024年12月至2026年1月间多次买入NVDA看涨期权，但期间亦存在部分减仓操作，整体倾向偏多。与之形成对比的是，知名投资者Leopold于2026年3月31日新开约15.7亿美元名义价值的NVDA看跌期权，仓位权重高达11.5%，为重量级机构空头信号。财经博主Serenity的关注点则偏向光模块产业链，对NVDA持中性观察立场，两类信号并存凸显当前市场分歧。"
-      },
-      {
-        "heading": "近期新闻面解读",
-        "body": "近期新闻围绕NVDA的讨论以正面叙事为主，但市场情绪有所分化。正面催化剂包括：NVDA CEO黄仁勋公开表示Marvell有望成为下一个万亿美元公司（彰显其AI生态号召力）、与苹果潜在合作的报道，以及「百倍算力」叙事的持续发酵。负面压力来自Broadcom业绩预期落空引发的AI芯片板块性抛售，以及AI行情阶段性降温。地缘政治（美伊局势）带来的宏观不确定性亦对风险资产整体构成压制。"
-      },
-      {
-        "heading": "多空分歧核心",
-        "body": "多方逻辑聚焦于：AI基础设施投资周期尚未见顶、CUDA生态护城河难以撼动、以及NVDA向软硬件平台公司转型带来的估值重塑空间。空方逻辑则聚焦于：当前估值已充分定价乐观预期、Broadcom事件揭示AI资本开支可能边际放缓、以及大体量机构空头仓位对股价的潜在压制。两种叙事共存之下，短期波动率或维持高位，方向选择有赖于下季度业绩及指引的实际兑现情况。"
-      },
-      {
-        "heading": "风险提示",
-        "body": "主要风险包括：其一，出口管制风险，美国对华AI芯片出口限制进一步收紧或直接压缩NVDA营收规模；其二，估值风险，高市盈率对业绩兑现要求极高，任何指引下调均可能引发剧烈回调；其三，竞争风险，云厂商自研芯片渗透率提升可能中长期侵蚀市场份额；其四，宏观风险，美联储政策走向及中东地缘冲突可能影响科技股整体风险偏好。本分析仅基于公开信息，不构成任何投资建议。"
-      }
-    ],
-    "comparables": [
-      {
-        "ticker": "AMD",
-        "name": "Advanced Micro Devices",
-        "note": "NVDA在GPU及AI加速芯片领域的直接竞争对手，MI系列GPU持续追赶但CUDA生态壁垒仍难逾越"
-      },
-      {
-        "ticker": "AVGO",
-        "name": "Broadcom Inc.",
-        "note": "AI定制芯片赛道的核心玩家，近期业绩预期落空引发估值重估，与NVDA存在云厂商客户的直接竞争"
-      },
-      {
-        "ticker": "TSM",
-        "name": "Taiwan Semiconductor Manufacturing",
-        "note": "NVDA芯片的核心代工伙伴，台积电产能及技术节点进展直接影响NVDA供应链稳定性与出货节奏"
-      },
-      {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "黄仁勋公开看好其成为下一个万亿美元公司，专注AI网络及定制芯片，与NVDA生态高度协同互补"
-      }
-    ],
-    "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-05T04:25:59.314205Z"
+    "bull": [],
+    "bear": [],
+    "watch": [],
+    "sections": [],
+    "comparables": [],
+    "model": "（分析暂不可用）",
+    "generatedAt": null,
+    "unavailable": true
   },
   "news": [
     {
-      "id": "NVDA-140532435",
-      "title": "Where Will Tesla Stock Be in 3 Years?",
+      "id": "NVDA-140530992",
+      "title": "Why PVH Stock Plunged Today",
       "source": "Yahoo",
-      "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=13cbf35639e89ccf91f8dee615efd1528e304670e858fae483660fb3f51bd915",
+      "publishedAt": "2026-06-04",
+      "url": "https://finnhub.io/api/news?id=1c46f74cf7ff250baa74b4d3b62acf21ba1f054f047b335554a312e89f59d1a1",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140532436",
-      "title": "Fluence Energy (FLNC) to Collaborate with Siemens and Nvidia to Develop AI Data Centers",
+      "id": "NVDA-140531792",
+      "title": "Will Broadcom Stock Recover After Its Guidance Disappointment, Or Should You Cut Your Losses?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=7239581f6f5f4162950be156fed1d7ad481db49a0b2a1404f16628ffa74b2b1e",
+      "publishedAt": "2026-06-04",
+      "url": "https://finnhub.io/api/news?id=265f3e61229b84a0e55f5e0ce295d4f3a755a15a85639b69506aff454ca5fe34",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140532437",
-      "title": "Meet the Incredible AI Stock That Has Nearly Tripled in 2026 and Could Go Much Higher",
+      "id": "NVDA-140531793",
+      "title": "Why Visa Stock Topped the Market on Thursday",
       "source": "Yahoo",
-      "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=f08a68a470b7f02a7db894df91dfd7d2b62d85f826c04e5f23d4226a68423299",
+      "publishedAt": "2026-06-04",
+      "url": "https://finnhub.io/api/news?id=db8d28a41f8ab47a207499eed2d880750c7f92b5c4b774abdbe9c62c108c1a36",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140532438",
-      "title": "Microsoft Held Up as AI Chips Sold Off. Is It the Safer Megacap Bet Now?",
+      "id": "NVDA-140530682",
+      "title": "5 Top Artificial Intelligence (AI) Stocks to Buy With $5,000 Right Now",
       "source": "Yahoo",
-      "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=dcffac7093120b9b282a4b9d5a44d5388e4b15c3b6356b29d0a9527856c28e6d",
+      "publishedAt": "2026-06-04",
+      "url": "https://finnhub.io/api/news?id=a3c4daadd6208d812e1cf4dff129d90c1e5f2c75847f505fc5f1b8a022c0ebe4",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140532439",
-      "title": "The $200 Billion Reason Amazon Could Be an Overlooked AI Winner",
+      "id": "NVDA-140530683",
+      "title": "SpaceX IPO Date: What Investors Need to Know Before June 12",
       "source": "Yahoo",
-      "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=7e8ab8bd645304b38b148078dcd23578e9ce40d30a2517a8b8af6b5b8b8f7d87",
+      "publishedAt": "2026-06-04",
+      "url": "https://finnhub.io/api/news?id=2fc0dc2858387cf13224d7e01a163f86b23d2f62581812c9639a33ec88fbefaf",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140532440",
-      "title": "2 Tech Stocks I Would Buy Before SpaceX",
+      "id": "NVDA-140530684",
+      "title": "Why Rigetti Computing Stock Gained 46.4% In May",
       "source": "Yahoo",
-      "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=f19a5f0df078f4b597d653abb25da2d391876a3ccb1c4985b3b5efac267e0f01",
+      "publishedAt": "2026-06-04",
+      "url": "https://finnhub.io/api/news?id=403d94c2a90cf51d3f6b14638829520d614dcafc0c160f2e1740c8a36bdc5788",
       "tags": [
         "NVDA"
       ]
