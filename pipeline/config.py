@@ -27,9 +27,9 @@ PEOPLE = [
         "style": "公开言论 / 背书 · 非交易披露",
     },
     {
-        "id": "trump", "name": "Donald Trump", "org": "Truth Social",
+        "id": "trump", "name": "Donald Trump", "org": "X / @realDonaldTrump",
         "avatarColor": "#ef4444", "signalTypes": ["social"],
-        "social": {"platform": "truthsocial", "handle": "realDonaldTrump"},
+        "social": {"platform": "x", "handle": "realDonaldTrump"},
     },
     {
         "id": "musk", "name": "Elon Musk", "org": "X / Tesla",
