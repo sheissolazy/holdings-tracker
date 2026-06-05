@@ -35,13 +35,19 @@ body {
 .no-sb::-webkit-scrollbar { display: none; }
 .no-sb { scrollbar-width: none; }
 
+/* 仅 PDF 导出时显示（屏幕隐藏）：跟踪对象持仓明细附录 */
+.print-only { display: none; }
+
 /* ---- Print: 导出今日 Briefing 为 PDF（文本可选中，便于喂给 AI） ---- */
 @media print {
   header, nav, .no-print { display: none !important; }
+  .print-only { display: block !important; }
   body { background: #fff; }
   main { max-width: none !important; padding: 0 !important; }
   .rounded-2xl, .rounded-xl, .border { box-shadow: none !important; }
   a { color: inherit !important; text-decoration: none !important; }
   /* 避免卡片被分页切断 */
   .rounded-2xl, .rounded-xl { break-inside: avoid; }
+  /* 卡片背景色在 PDF 中保留，便于区分信号类型 */
+  * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
 }

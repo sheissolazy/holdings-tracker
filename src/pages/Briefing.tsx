@@ -1,7 +1,7 @@
 import { useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import { useData } from '../data/DataProvider'
-import { Card, SectionTitle, Avatar, Sparkline, SentPill } from '../components/ui'
+import { Card, SectionTitle, Avatar, Sparkline, SentPill, SignalCard } from '../components/ui'
 import { TrendPanel } from '../components/TrendPanel'
 import { cx } from '../lib/format'
 import type { Signal } from '../data/types'
@@ -305,6 +305,37 @@ export default function Briefing() {
             </>
           )}
         </div>
+      </div>
+
+      {/* 仅 PDF 导出时附加：跟踪对象持仓 / 信号明细（屏幕隐藏） */}
+      <div className="print-only mt-6">
+        <h2 className="text-lg font-extrabold mb-1">跟踪的人 · 持仓与信号明细</h2>
+        <p className="text-xs text-muted mb-3">{today} · 各跟踪对象本季度 13F 持仓 / 期权 / 言论明细</p>
+        {people.map((p) => {
+          const isSource = p.signalTypes.includes('wechat')
+          const psigs = signalsByPerson(p.id)
+          const arts = isSource ? articlesByPersonId(p.id) : []
+          return (
+            <div key={p.id} className="mb-4" style={{ breakInside: 'avoid' }}>
+              <div className="font-bold text-sm border-b border-line pb-1 mb-2">
+                {p.name}<span className="text-muted font-normal"> · {p.org}</span>
+              </div>
+              {psigs.length > 0 ? (
+                <div className="grid grid-cols-2 gap-2">
+                  {psigs.map((s, i) => <SignalCard key={i} s={s} showPerson={false} showTicker />)}
+                </div>
+              ) : arts.length > 0 ? (
+                <ul className="text-xs list-disc pl-5 space-y-0.5">
+                  {arts.slice(0, 6).map((a) => (
+                    <li key={a.id}>{a.publishedAt?.slice(0, 10)} · {a.title}</li>
+                  ))}
+                </ul>
+              ) : (
+                <div className="text-xs text-muted">暂无持仓 / 信号数据</div>
+              )}
+            </div>
+          )
+        })}
       </div>
     </div>
   )
