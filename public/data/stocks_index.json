@@ -5,7 +5,7 @@
     "exchange": "NASDAQ",
     "sector": "半导体",
     "price": 218.66,
-    "change5dPct": 2.1,
+    "change5dPct": 2.9,
     "changeYtdPct": 19.9
   },
   {
@@ -14,7 +14,7 @@
     "exchange": "NASDAQ",
     "sector": "半导体",
     "price": 316.43,
-    "change5dPct": 54.5,
+    "change5dPct": 59.3,
     "changeYtdPct": 219.9
   },
   {
@@ -23,7 +23,7 @@
     "exchange": "NYSE",
     "sector": "清洁能源",
     "price": 291.37,
-    "change5dPct": 0.5,
+    "change5dPct": -0.8,
     "changeYtdPct": 144.5
   },
   {
@@ -32,7 +32,7 @@
     "exchange": "NASDAQ",
     "sector": "消费电子",
     "price": 311.23,
-    "change5dPct": -0.4,
+    "change5dPct": 0.1,
     "changeYtdPct": 11.6
   },
   {
@@ -41,7 +41,7 @@
     "exchange": "NASDAQ",
     "sector": "半导体 ETF",
     "price": 627.53,
-    "change5dPct": 4.6,
+    "change5dPct": 5.4,
     "changeYtdPct": 72.2
   }
 ]

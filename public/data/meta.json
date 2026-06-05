@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-06-05T01:41:34Z",
+  "generatedAt": "2026-06-05T04:31:20Z",
   "mode": "live",
   "sources": {
     "13f": "SEC EDGAR",
     "congress": "House Clerk 官方披露",
-    "social": "（未接入）",
+    "social": "X 网页版（cookie 登录）",
     "prices": "Yahoo Finance",
     "market": "Yahoo Finance",
-    "news": "Finnhub + Wechat2RSS",
+    "news": "Finnhub + 猫笔刀(X)",
     "ipos": "Finnhub",
     "fundamentals": "Finnhub",
     "ai": "claude-sonnet-4-5"
@@ -21,11 +21,16 @@
   ],
   "health": {
     "x": "ok",
-    "checkedAt": "2026-06-05T01:41:34Z"
+    "checkedAt": "2026-06-05T04:31:20Z",
+    "maobidao": {
+      "lastPost": "2026-06-04",
+      "daysSince": -3,
+      "stale": false
+    }
   },
   "counts": {
     "people": 8,
-    "signals": 69,
+    "signals": 66,
     "news": 41,
     "ipos": 4,
     "stocks": 5
