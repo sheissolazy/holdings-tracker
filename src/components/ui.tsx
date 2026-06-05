@@ -172,6 +172,44 @@ export function NewsRow({ n }: { n: NewsItem }) {
     : <div className="block py-2.5 group">{Inner}</div>
 }
 
+// ---- AI 可信度：基于「支撑该分析的真实信号/新闻数量」确定性评估（非模型自评）----
+const CONF_META: Record<string, { label: string; cls: string; dot: string }> = {
+  high: { label: '可信度 高', cls: 'bg-pos/10 text-pos border-pos/30', dot: 'bg-pos' },
+  med:  { label: '可信度 中', cls: 'bg-amber-soft text-amber-700 border-amber/40', dot: 'bg-amber-500' },
+  low:  { label: '可信度 低', cls: 'bg-coral-soft text-neg border-coral/40', dot: 'bg-neg' },
+}
+
+export function EvidencePanel(
+  { people, signalCount, newsCount, signalTypes }:
+  { people: number; signalCount: number; newsCount: number; signalTypes: string[] },
+) {
+  const conf: 'high' | 'med' | 'low' =
+    people >= 2 && (signalCount >= 3 || newsCount >= 3) ? 'high'
+    : people >= 1 || signalCount >= 1 || newsCount >= 2 ? 'med' : 'low'
+  const m = CONF_META[conf]
+  const TYPE_CN: Record<string, string> = { '13f': '13F 持仓', options: '期权', ptr: '国会交易', social: '社交喊单', statement: '公开言论' }
+  const types = [...new Set(signalTypes)].map((t) => TYPE_CN[t] ?? t)
+  return (
+    <Card className="p-3 mt-3">
+      <div className="flex items-center gap-2 mb-2">
+        <span className="text-xs font-bold text-ink">分析依据 · 真实输入</span>
+        <span className={cx('ml-auto inline-flex items-center gap-1 text-[11px] font-bold px-2 py-0.5 rounded-full border', m.cls)}>
+          <span className={cx('w-1.5 h-1.5 rounded-full', m.dot)} />{m.label}
+        </span>
+      </div>
+      <div className="flex flex-wrap gap-2 text-xs">
+        <span className="rounded-lg bg-canvas border border-line px-2 py-1">跟踪者信号 <b className="tnum text-ink">{signalCount}</b> 条</span>
+        <span className="rounded-lg bg-canvas border border-line px-2 py-1">来自 <b className="tnum text-ink">{people}</b> 人</span>
+        <span className="rounded-lg bg-canvas border border-line px-2 py-1">相关新闻 <b className="tnum text-ink">{newsCount}</b> 条</span>
+        {types.length > 0 && <span className="rounded-lg bg-canvas border border-line px-2 py-1">类型：{types.join(' / ')}</span>}
+      </div>
+      <p className="text-[10px] text-muted mt-2 leading-snug">
+        可信度按<b>支撑该结论的真实信号/新闻数量</b>确定性评估（非模型自评）。下方「跟踪者动向」即这些真实输入，可逐条核对。
+      </p>
+    </Card>
+  )
+}
+
 // ---- 透明风险计：每个输入暴露真实值 + 对总分的贡献（确定性，可核对）----
 const RISK_TONE: Record<string, { dot: string; text: string; bg: string; border: string }> = {
   '低':   { dot: 'bg-pos',     text: 'text-pos',       bg: 'bg-pos/5',    border: 'border-pos/30' },

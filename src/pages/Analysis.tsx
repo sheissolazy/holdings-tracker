@@ -3,7 +3,7 @@ import { useParams, Link } from 'react-router-dom'
 import { useData } from '../data/DataProvider'
 import { useJson } from '../data/useJson'
 import type { Stock } from '../data/types'
-import { Card, SectionTitle, SignalCard } from '../components/ui'
+import { Card, SectionTitle, SignalCard, EvidencePanel } from '../components/ui'
 import { cx } from '../lib/format'
 
 export default function Analysis() {
@@ -46,9 +46,17 @@ export default function Analysis() {
       </div>
 
       {hasThesis ? (
-        <div className="mt-3 rounded-xl bg-amber-soft border border-amber/40 text-amber-700 text-xs px-3 py-2">
-          ⚠️ 由 {t.model} 基于公开数据生成于 {regenAt ?? t.generatedAt?.slice(0, 16).replace('T', ' ')}，非投资建议。静态站「重新生成」为演示；真实重生成在构建时（GitHub Actions）调用 Claude 完成。
-        </div>
+        <>
+          <div className="mt-3 rounded-xl bg-amber-soft border border-amber/40 text-amber-700 text-xs px-3 py-2">
+            ⚠️ 由 {t.model} 基于公开数据生成于 {regenAt ?? t.generatedAt?.slice(0, 16).replace('T', ' ')}，非投资建议。静态站「重新生成」为演示；真实重生成在构建时（GitHub Actions）调用 Claude 完成。
+          </div>
+          <EvidencePanel
+            people={new Set(sigs.map((x) => x.personId)).size}
+            signalCount={sigs.length}
+            newsCount={s.news?.length ?? 0}
+            signalTypes={sigs.map((x) => x.type)}
+          />
+        </>
       ) : (
         <div className="mt-3 rounded-xl bg-canvas border border-line text-muted text-sm px-3 py-3">
           AI 分析暂不可用 —— 下次数据管道运行（GitHub Actions）成功调用 Claude 后会自动生成。
