@@ -11,7 +11,7 @@
 """
 import datetime as dt
 from lib import write_json, MOCK, TODAY
-from config import PEOPLE, TICKERS, TICKER_META
+from config import PEOPLE, TICKERS, TICKER_META, PEOPLE_BY_ID
 import fetch_13f, fetch_congress, fetch_social, fetch_prices, fetch_market
 import fetch_news, fetch_ipos, fetch_fundamentals, fetch_fx
 import gen_ai
@@ -46,6 +46,20 @@ def main():
     print("[5/8] 大盘…");          market = fetch_market.run()
     print("[5b] 汇率历史…");        fx = fetch_fx.run()
     print("[6/8] 新闻/公众号…");   news, ticker_news, articles = fetch_news.run()
+
+    # 猫笔刀：优先用 X 文章号（mooomoocat，每日同步发文）→ 覆盖 fetch_news 的空 RSS 结果。
+    #   走已有 X cookie 通道；鉴权失败则同样置 X_STATUS=expired，触发前端「cookie 过期」提示。
+    mbd_handle = (PEOPLE_BY_ID.get("maobidao") or {}).get("x_handle")
+    if mbd_handle and not MOCK:
+        try:
+            articles["maobidao"] = fetch_social.fetch_x_articles(mbd_handle)
+            print(f"    猫笔刀 X 文章：{len(articles['maobidao'])} 篇", flush=True)
+        except Exception as e:  # noqa
+            if fetch_social._is_auth_error(e):
+                fetch_social.X_STATUS = "expired"
+            print(f"  [warn] 猫笔刀 X 文章抓取失败：{e}", flush=True)
+            articles.setdefault("maobidao", [])
+
     print("[7/8] IPO…");           ipos = fetch_ipos.run()
     print("[7b] 基本面…");          funds = fetch_fundamentals.run()
 
@@ -88,20 +102,29 @@ def main():
         "pendingSignals": [],
         "draftActions": [],
     })
+    # 猫笔刀新鲜度：他几乎每天发文，≥2 天无新帖 → 视为异常（cookie 失效 / 账号更名 / 停更），
+    #   前端据此弹「该提醒你了」横幅。抓不到任何文章也按异常处理。
+    mbd_dates = sorted({a["publishedAt"][:10] for a in articles.get("maobidao", [])
+                        if a.get("publishedAt")}, reverse=True)
+    mbd_last = mbd_dates[0] if mbd_dates else None
+    mbd_days = (TODAY - dt.date.fromisoformat(mbd_last)).days if mbd_last else None
+    mbd_stale = (mbd_days is None) or (mbd_days >= 2)
+
     write_json("meta.json", {
         "generatedAt": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "mode": "mock" if MOCK else "live",
         "sources": {
             "13f": "SEC EDGAR", "congress": "House Clerk 官方披露",
-            "social": "（未接入）", "prices": "Yahoo Finance",
-            "market": "Yahoo Finance", "news": "Finnhub + Wechat2RSS",
+            "social": "X 网页版（cookie 登录）", "prices": "Yahoo Finance",
+            "market": "Yahoo Finance", "news": "Finnhub + 猫笔刀(X)",
             "ipos": "Finnhub", "fundamentals": "Finnhub", "ai": gen_ai.MODEL,
         },
         "tickers": list(TICKERS),
-        # 数据源健康：前端据此提示（如 X 登录 cookie 过期需更新）
+        # 数据源健康：前端据此提示（X 登录 cookie 过期、猫笔刀停更等）
         "health": {
             "x": fetch_social.X_STATUS,   # unconfigured | ok | expired
             "checkedAt": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "maobidao": {"lastPost": mbd_last, "daysSince": mbd_days, "stale": mbd_stale},
         },
         "counts": {"people": len(PEOPLE), "signals": len(signals),
                    "news": len(all_news), "ipos": len(ipos), "stocks": len(TICKERS)},

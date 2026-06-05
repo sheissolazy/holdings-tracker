@@ -79,6 +79,7 @@ export interface NewsItem {
   publishedAt: string
   url: string
   tags: string[]               // 人物 / ticker / 主题
+  summary?: string             // 摘要 / 开头节选（猫笔刀文章流用）
 }
 
 export interface CalendarEvent {
