@@ -19,6 +19,13 @@ PAIRS = [
     ("KRW", "美元/韩元",   "KRW%3DX"),
     ("EUR", "欧元/美元",   "EURUSD%3DX"),
     ("CAD", "美元/加元",   "CAD%3DX"),
+    # 人民币兑各国（1 人民币 = ? 外币），与 fetch_market 的「人民币」组对应
+    ("CNYUSD", "人民币/美元", "CNYUSD%3DX"),
+    ("CNYJPY", "人民币/日元", "CNYJPY%3DX"),
+    # 注：CNYKRW=X 在 Yahoo 几乎无日线历史（仅 1 个点），无法成图，故不收录
+    ("CNYEUR", "人民币/欧元", "CNYEUR%3DX"),
+    ("CNYHKD", "人民币/港元", "CNYHKD%3DX"),
+    ("CNYGBP", "人民币/英镑", "CNYGBP%3DX"),
 ]
 
 

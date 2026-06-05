@@ -281,6 +281,7 @@ export default function Briefing() {
                 )
               })}
               <FxPanel items={market.filter((m) => (m.group ?? '大盘') === '汇率')} />
+              <FxPanel title="人民币兑换" items={market.filter((m) => m.group === '人民币')} />
             </>
           )}
         </div>

@@ -61,7 +61,7 @@ function MiniChart({ bars, w = 200, h = 44 }: { bars: FxBar[]; w?: number; h?: n
   )
 }
 
-export function FxPanel({ items }: { items: MarketItem[] }) {
+export function FxPanel({ items, title = '汇率' }: { items: MarketItem[]; title?: string }) {
   const codes = useMemo(() => items.map((m) => m.code).filter(Boolean) as string[], [items])
   const [files, setFiles] = useState<Record<string, FxFile>>({})
   const [range, setRange] = useState<RangeKey>('1年')
@@ -84,7 +84,7 @@ export function FxPanel({ items }: { items: MarketItem[] }) {
   return (
     <div className="mb-3">
       <div className="flex items-center justify-between mb-1.5">
-        <div className="text-[11px] font-bold text-muted">汇率</div>
+        <div className="text-[11px] font-bold text-muted">{title}</div>
         <div className="flex gap-0.5 rounded-lg bg-canvas border border-line p-0.5">
           {RANGES.map((r) => (
             <button key={r.key} onClick={() => setRange(r.key)}

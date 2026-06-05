@@ -15,28 +15,28 @@
   },
   {
     "label": "美元指数",
-    "value": "99.40",
+    "value": "99.41",
     "chg": "-0.1%",
     "pos": false,
     "group": "大盘"
   },
   {
     "label": "黄金",
-    "value": "$4,472.00",
+    "value": "$4,470.40",
     "chg": "-0.1%",
     "pos": false,
     "group": "商品"
   },
   {
     "label": "原油WTI",
-    "value": "$93.00",
-    "chg": "-0.0%",
-    "pos": false,
+    "value": "$93.15",
+    "chg": "+0.1%",
+    "pos": true,
     "group": "商品"
   },
   {
     "label": "美元/人民币",
-    "value": "6.7738",
+    "value": "6.7733",
     "chg": "+0.1%",
     "pos": true,
     "group": "汇率",
@@ -44,15 +44,15 @@
   },
   {
     "label": "美元/日元",
-    "value": "159.96",
-    "chg": "+0.0%",
-    "pos": true,
+    "value": "159.93",
+    "chg": "-0.0%",
+    "pos": false,
     "group": "汇率",
     "code": "JPY"
   },
   {
     "label": "美元/韩元",
-    "value": "1,542.49",
+    "value": "1,542.33",
     "chg": "+0.8%",
     "pos": true,
     "group": "汇率",
@@ -60,7 +60,7 @@
   },
   {
     "label": "欧元/美元",
-    "value": "1.1618",
+    "value": "1.1620",
     "chg": "+0.1%",
     "pos": true,
     "group": "汇率",
@@ -73,5 +73,45 @@
     "pos": true,
     "group": "汇率",
     "code": "CAD"
+  },
+  {
+    "label": "人民币/美元",
+    "value": "0.1476",
+    "chg": "-0.1%",
+    "pos": false,
+    "group": "人民币",
+    "code": "CNYUSD"
+  },
+  {
+    "label": "人民币/日元",
+    "value": "23.5850",
+    "chg": "-0.2%",
+    "pos": false,
+    "group": "人民币",
+    "code": "CNYJPY"
+  },
+  {
+    "label": "人民币/欧元",
+    "value": "0.1270",
+    "chg": "-0.2%",
+    "pos": false,
+    "group": "人民币",
+    "code": "CNYEUR"
+  },
+  {
+    "label": "人民币/港元",
+    "value": "1.1557",
+    "chg": "-0.1%",
+    "pos": false,
+    "group": "人民币",
+    "code": "CNYHKD"
+  },
+  {
+    "label": "人民币/英镑",
+    "value": "0.1099",
+    "chg": "-0.1%",
+    "pos": false,
+    "group": "人民币",
+    "code": "CNYGBP"
   }
 ]
