@@ -91,8 +91,11 @@ export function SignalCard({ s, showPerson = true, showTicker = false }: { s: Si
               {p?.name}
             </Link>
           )}
-          {showTicker && (
+          {showTicker && s.ticker && (
             <Link to={`/stock/${s.ticker}`} className="font-bold text-sm hover:underline">{s.ticker}</Link>
+          )}
+          {showTicker && !s.ticker && (
+            <span className="font-bold text-sm text-muted">市场评论</span>
           )}
         </div>
         <span className={cx('text-[11px] font-bold px-2 py-0.5 rounded-full bg-white/70', m.text)}>{m.label}</span>
@@ -118,6 +121,13 @@ export function SignalCard({ s, showPerson = true, showTicker = false }: { s: Si
       {(s.type === 'social' || s.type === 'statement') && (
         <div className="text-xs text-muted">
           {s.excerpt && <p className="text-ink/80 italic leading-snug mb-1">“{s.excerpt}”</p>}
+          {s.topics && s.topics.length > 0 && (
+            <div className="flex flex-wrap gap-1 mb-1">
+              {s.topics.map((t) => (
+                <span key={t} className="text-[10px] font-semibold px-1.5 py-0.5 rounded bg-canvas border border-line text-muted">{t}</span>
+              ))}
+            </div>
+          )}
           <div className="flex items-center gap-2">
             {s.sentiment && <SentPill s={s.sentiment} />}
             <span>{s.asOf}</span>
