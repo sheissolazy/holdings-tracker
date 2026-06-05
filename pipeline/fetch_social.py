@@ -24,7 +24,7 @@ import datetime as dt
 import urllib.request
 import urllib.parse
 import urllib.error
-from lib import safe, write_json
+from lib import safe, write_json, http_get
 from config import PEOPLE_BY_ID, TICKERS
 
 MAX_TICKERS_PER_POST = 4   # 一条推文最多产几条信号，防止「11 个 ticker → 11 张卡」刷屏
@@ -55,7 +55,8 @@ TICKER_ALIASES = {
     "GOOGL": ["alphabet"], "MSFT": ["microsoft"], "META": ["meta platforms"],
     "PLTR": ["palantir"], "AMD": ["advanced micro devices"],
     "MSTR": ["microstrategy"], "TSM": ["tsmc", "taiwan semiconductor"],
-    "INTC": ["intel"], "SMCI": ["supermicro", "super micro"], "BA": ["boeing"],
+    "INTC": ["intel corp", "intel corporation"],  # 不用裸 "intel"：易误命中 "intel official"=情报官员
+    "SMCI": ["supermicro", "super micro"], "BA": ["boeing"],
 }
 _CASHTAG = re.compile(r"\$([A-Za-z]{1,5})\b")
 _VALID_CASHTAG = re.compile(r"^[A-Z]{1,5}$")
@@ -251,6 +252,83 @@ def fetch_x(pid, handle, days=30, limit=8):
     return out
 
 
+# ---------------- Truth Social（经 trumpstruth.org 公开 RSS 镜像） ----------------
+
+_HTML_TAG = re.compile(r"<[^>]+>")
+
+
+def _strip_html(s):
+    """RSS description 里的 <p>…</p> → 纯文本（去标签 + 解码实体 + 合并空白）。"""
+    txt = _HTML_TAG.sub(" ", s or "")
+    txt = html.unescape(txt)
+    return re.sub(r"\s+", " ", txt).strip()
+
+
+def _parse_rfc822(s):
+    """RSS pubDate 'Fri, 05 Jun 2026 03:36:12 +0000' → ISO 日期。"""
+    for fmt in ("%a, %d %b %Y %H:%M:%S %z", "%a, %d %b %Y %H:%M:%S %Z"):
+        try:
+            return dt.datetime.strptime(s.strip(), fmt).date().isoformat()
+        except Exception:
+            continue
+    return ""
+
+
+def fetch_truth_rss(pid, url, days=30, limit=8):
+    """从 trumpstruth.org RSS 镜像拉某人的 Truth Social 帖 → social 信号。
+
+    与 fetch_x 同款「字面命中」逻辑：只对命中 ticker / 市场主题的帖产信号，
+    sentiment 一律 'watch'，postUrl 指向 Truth Social 原帖（item.originalUrl）。
+    纯图片 / 无正文 / 不相关的帖直接丢弃（无假数据原则）。
+    """
+    import xml.etree.ElementTree as ET
+    raw = http_get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=20)
+    root = ET.fromstring(raw)
+    cutoff = dt.date.today() - dt.timedelta(days=days)
+    out = []
+    for it in root.findall(".//item"):
+        desc = it.findtext("description") or ""
+        text = _strip_html(desc)
+        if not text:                       # [No Title] 类纯媒体帖，无正文
+            continue
+        date = _parse_rfc822(it.findtext("pubDate") or "")
+        if date and dt.date.fromisoformat(date) < cutoff:
+            continue
+        tickers = _match_tickers(text)
+        topics = _match_topics(text)
+        if not tickers and not topics:     # 既没 ticker 也没市场主题 → 纯政治/八卦，丢弃
+            continue
+        # 原帖永久链接：优先 Truth Social 原文（originalUrl，可能带命名空间），回落到镜像页
+        orig = ""
+        for ch in it:
+            if ch.tag.split("}")[-1] == "originalUrl" and (ch.text or "").strip():
+                orig = ch.text.strip()
+                break
+        if not orig:
+            orig = (it.findtext("link") or "").strip()
+        asof = date or dt.date.today().isoformat()
+        base = {"personId": pid, "type": "social", "asOf": asof,
+                "sentiment": "watch", "excerpt": text[:240], "postUrl": orig}
+        if tickers:
+            for tk in tickers:
+                out.append({**base, "ticker": tk, "topics": topics})
+        else:
+            out.append({**base, "ticker": "", "topics": topics})
+        if len(out) >= limit:
+            break
+    return out
+
+
+def _truth_people():
+    """config 里配了 truth_rss 的跟踪对象 → [(pid, rss_url)]。"""
+    out = []
+    for pid, p in PEOPLE_BY_ID.items():
+        rss = p.get("truth_rss")
+        if rss:
+            out.append((pid, rss))
+    return out
+
+
 def _x_people():
     """config 里所有 social.platform=='x' 且有 handle 的跟踪对象 → [(pid, handle)]。"""
     out = []
@@ -325,12 +403,23 @@ def fetch_x_articles(handle, days=21, limit=30):
 def run():
     global X_STATUS
     sigs = []
+
+    # 1) Truth Social（trumpstruth.org RSS 镜像）—— 无需 cookie，独立于 X 健康
+    for pid, rss in _truth_people():       # Trump
+        try:
+            got = fetch_truth_rss(pid, rss)
+            sigs += got
+            print(f"  Truth Social @{pid}: {len(got)} 条信号", flush=True)
+        except Exception as e:  # noqa
+            print(f"  [warn] Truth RSS ({pid}) 失败：{e} → 跳过", flush=True)
+
+    # 2) X 网页版（cookie 登录）—— Musk / Serenity
     if not (X_AUTH and X_CT0):
         X_STATUS = "unconfigured"
         return sigs
 
     X_STATUS = "ok"  # 乐观初值；遇到鉴权失败则置为 expired
-    for pid, handle in _x_people():   # Musk / Serenity / Trump，均经 X
+    for pid, handle in _x_people():   # Musk / Serenity（Trump 已改走 Truth Social）
         try:
             sigs += fetch_x(pid, handle)
         except Exception as e:  # noqa

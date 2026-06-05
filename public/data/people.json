@@ -47,15 +47,16 @@
   {
     "id": "trump",
     "name": "Donald Trump",
-    "org": "X / @realDonaldTrump",
+    "org": "Truth Social / @realDonaldTrump",
     "avatarColor": "#ef4444",
     "signalTypes": [
       "social"
     ],
     "social": {
-      "platform": "x",
+      "platform": "truthsocial",
       "handle": "realDonaldTrump"
-    }
+    },
+    "truth_rss": "https://trumpstruth.org/feed"
   },
   {
     "id": "musk",
