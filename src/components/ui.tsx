@@ -112,7 +112,17 @@ export function SignalCard({ s, showPerson = true, showTicker = false }: { s: Si
       )}
       {(s.type === 'options' || s.type === 'ptr') && (
         <div className="text-xs text-muted flex flex-wrap gap-x-3 gap-y-0.5 tnum">
-          {s.direction && <span className={cx('font-bold', s.direction === 'put' ? 'text-neg' : 'text-pos')}>{s.direction.toUpperCase()}</span>}
+          {s.direction && (() => {
+            // 13F 仅披露多头 → put/call 均为「买入（long）」；ptr 为真实买/卖。
+            const D: Record<string, { t: string; c: string }> = {
+              put:  { t: '买入看跌', c: 'text-neg' },   // Long Put · 看空
+              call: { t: '买入看涨', c: 'text-pos' },   // Long Call · 看多
+              long: { t: '买入',     c: 'text-pos' },
+              exit: { t: '卖出',     c: 'text-neg' },
+            }
+            const d = D[s.direction] ?? { t: s.direction.toUpperCase(), c: 'text-ink' }
+            return <span className={cx('font-bold', d.c)}>{d.t}</span>
+          })()}
           {s.strike != null && <span>行权 <b className="text-ink">${s.strike}</b></span>}
           {s.expiration && <span>到期 {s.expiration}{s.daysToExp != null ? `（${s.daysToExp}d）` : ''}</span>}
           {s.notional != null && <span>名义 <b className="text-ink">{fmtMoney(s.notional)}</b></span>}
