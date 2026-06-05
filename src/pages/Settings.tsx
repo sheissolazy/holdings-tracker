@@ -143,7 +143,8 @@ export default function Settings() {
       <Card className="p-4 text-xs text-muted space-y-2 leading-relaxed">
         <p>• 13F 持仓：SEC EDGAR（季度，~45 天申报延迟）。Buffett、Leopold/Situational Awareness。</p>
         <p>• Congress 交易：美国众议院书记官（House Clerk）官方披露 PDF，解析真实买卖。Pelosi。</p>
-        <p>• 社交喊单：X 网页版（Musk、Serenity，cookie 登录）/ Truth Social（Trump）；只在推文确实命中 ticker 时产信号，标「关注」，不臆测多空。</p>
+        <p>• 社交喊单：X 网页版（Musk、Serenity，cookie 登录）/ Truth Social（Trump，经 trumpstruth.org 公开镜像）；只在帖文确实命中 ticker / 市场主题时产信号，标「关注」，不臆测多空。</p>
+        <p>• 黄仁勋言论：本人无社媒，其影响经新闻传导。由 Finnhub 真实新闻里「归因到他本人 + 命中关注标的」的头条产「公开言论」信号（如 Nvidia CEO 称 Marvell 将成下一个万亿公司），原文链接为证。</p>
         <p>• 公众号：猫笔刀，经 Wechat2RSS 接入（~6–24h 延迟）。</p>
         <p>• 行情 / 汇率：Yahoo Finance（免费）。新闻 / IPO / 基本面：Finnhub。</p>
         <p>• AI 分析：构建时（GitHub Actions）调用 Claude 生成并缓存，非投资建议。</p>

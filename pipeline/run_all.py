@@ -13,7 +13,7 @@ import datetime as dt
 from lib import write_json, MOCK, TODAY
 from config import PEOPLE, TICKERS, TICKER_META, PEOPLE_BY_ID
 import fetch_13f, fetch_congress, fetch_social, fetch_prices, fetch_market
-import fetch_news, fetch_ipos, fetch_fundamentals, fetch_fx
+import fetch_news, fetch_ipos, fetch_fundamentals, fetch_fx, fetch_statements
 import gen_ai
 
 
@@ -42,6 +42,7 @@ def main():
     print("[1/8] 13F 持仓…");      s13 = fetch_13f.run()
     print("[2/8] Congress…");      sc = fetch_congress.run()
     print("[3/8] 社交/言论…");     ss = fetch_social.run()
+    print("[3b] Jensen 言论…");    sj = fetch_statements.run()
     print("[4/8] 股价…");          prices = fetch_prices.run()
     print("[5/8] 大盘…");          market = fetch_market.run()
     print("[5b] 汇率历史…");        fx = fetch_fx.run()
@@ -63,7 +64,7 @@ def main():
     print("[7/8] IPO…");           ipos = fetch_ipos.run()
     print("[7b] 基本面…");          funds = fetch_fundamentals.run()
 
-    signals = s13 + sc + ss
+    signals = s13 + sc + ss + sj
     write_json("people.json", PEOPLE)
     write_json("signals.json", signals)
     write_json("articles.json", articles)

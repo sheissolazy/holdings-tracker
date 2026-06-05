@@ -9,34 +9,34 @@
   {
     "label": "10年美债",
     "value": "4.48%",
-    "chg": "-1bp",
-    "pos": false,
+    "chg": "+2bp",
+    "pos": true,
     "group": "大盘"
   },
   {
     "label": "美元指数",
-    "value": "99.41",
+    "value": "99.40",
     "chg": "-0.1%",
     "pos": false,
     "group": "大盘"
   },
   {
     "label": "黄金",
-    "value": "$4,467.20",
-    "chg": "-0.2%",
+    "value": "$4,472.00",
+    "chg": "-0.1%",
     "pos": false,
     "group": "商品"
   },
   {
     "label": "原油WTI",
-    "value": "$93.13",
-    "chg": "+0.1%",
-    "pos": true,
+    "value": "$93.00",
+    "chg": "-0.0%",
+    "pos": false,
     "group": "商品"
   },
   {
     "label": "美元/人民币",
-    "value": "6.7740",
+    "value": "6.7738",
     "chg": "+0.1%",
     "pos": true,
     "group": "汇率",
@@ -44,7 +44,7 @@
   },
   {
     "label": "美元/日元",
-    "value": "159.95",
+    "value": "159.96",
     "chg": "+0.0%",
     "pos": true,
     "group": "汇率",
@@ -52,7 +52,7 @@
   },
   {
     "label": "美元/韩元",
-    "value": "1,542.03",
+    "value": "1,542.49",
     "chg": "+0.8%",
     "pos": true,
     "group": "汇率",
@@ -60,7 +60,7 @@
   },
   {
     "label": "欧元/美元",
-    "value": "1.1620",
+    "value": "1.1618",
     "chg": "+0.1%",
     "pos": true,
     "group": "汇率",
@@ -68,7 +68,7 @@
   },
   {
     "label": "美元/加元",
-    "value": "1.3903",
+    "value": "1.3904",
     "chg": "+0.1%",
     "pos": true,
     "group": "汇率",
