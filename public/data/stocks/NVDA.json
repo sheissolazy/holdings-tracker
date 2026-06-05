@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 218.66,
-  "change5dPct": 2.9,
-  "changeYtdPct": 19.9,
-  "marketCap": "$5.29T",
+  "price": 205.1,
+  "change5dPct": -2.9,
+  "changeYtdPct": 10.5,
+  "marketCap": "$5.03T",
   "pe": 32.4,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2025-12-05",
-      "o": 183.89,
-      "h": 184.66,
-      "l": 180.91,
-      "c": 182.41
-    },
     {
       "t": "2025-12-08",
       "o": 182.64,
@@ -871,75 +864,151 @@
       "h": 222.82,
       "l": 214.51,
       "c": 214.75
+    },
+    {
+      "t": "2026-06-04",
+      "o": 213.91,
+      "h": 221.6,
+      "l": 210.97,
+      "c": 218.66
+    },
+    {
+      "t": "2026-06-05",
+      "o": 214.43,
+      "h": 214.87,
+      "l": 204.34,
+      "c": 205.1
     }
   ],
   "thesis": {
-    "bull": [],
-    "bear": [],
-    "watch": [],
-    "sections": [],
-    "comparables": [],
-    "model": "（分析暂不可用）",
-    "generatedAt": null,
-    "unavailable": true
+    "bull": [
+      "AI基础设施建设超周期：全球云厂商与企业持续加码GPU算力投资，NVDA数据中心业务营收连续多季超预期，H系列及即将推出的Blackwell架构保持领先优势",
+      "佩洛西国会披露显示2024年12月至2026年1月间多次增持NVDA看涨仓位，头部政商资金持续入场提供市场信心背书",
+      "NVDA在AI训练与推理芯片领域的软硬件生态（CUDA护城河）短期内难以被替代，竞争对手追赶窗口有限"
+    ],
+    "bear": [
+      "知名做空型基金Leopold于2026年3月新建约15.68亿美元名义规模的NVDA看跌期权仓位，占其组合11.5%，释放明显看空信号",
+      "当日芯片板块遭遇「bloodbath」，纳指跌4.2%，博通（AVGO）AI业绩展望不及预期引发板块共振下杀，NVDA同步下挫4.87%，情绪面承压",
+      "出口管制风险持续悬而未决：美国对华高端AI芯片限制政策若进一步收紧，将直接削减NVDA对全球最大半导体市场的营收贡献"
+    ],
+    "watch": [
+      "美联储利率路径：社交舆论监控（Serenity跟踪者）将本次调整与宏观利率预期挂钩，高贝塔科技股对流动性预期极为敏感，需关注后续议息会议信号",
+      "博通（AVGO）AI展望作为行业领先指标：AVGO季报中客户定制芯片需求数据可作为超大规模云厂商AI支出意愿的前瞻参考",
+      "佩洛西仓位动态：其历史上呈现「买入-持有-逢高减持」轮动节奏，2024年12月曾出现减持记录，需持续监测后续披露文件"
+    ],
+    "sections": [
+      {
+        "heading": "公司概览",
+        "body": "NVIDIA Corporation（纳斯达克：NVDA）是全球领先的GPU设计商，业务涵盖数据中心AI加速芯片、游戏显卡、专业可视化及汽车自动驾驶平台。公司以CUDA生态系统构建起深厚的软件护城河，使其在AI训练与大模型推理领域占据主导地位。近年来数据中心业务占比持续提升，已成为营收增长的核心引擎。"
+      },
+      {
+        "heading": "AI基础设施需求趋势",
+        "body": "全球云计算厂商（微软、亚马逊、谷歌、Meta等）均将AI基础设施建设列为资本支出首要方向，对高性能GPU需求旺盛。NVDA的H100/H200及Blackwell系列产品处于供不应求状态，订单能见度相对较高。然而，博通近期AI业绩展望不及预期引发市场对云厂商订单持续性的担忧，需密切关注下一季度资本支出指引变化。"
+      },
+      {
+        "heading": "跟踪者动向解读",
+        "body": "跟踪者信号呈现明显分歧：佩洛西议员在2024年12月至2026年1月间多次建立看涨仓位，体现对NVDA长期逻辑的认可；与此同时，Leopold基金于2026年3月新建约15.68亿美元名义规模的看跌期权头寸，占其投资组合权重达11.5%，是迄今为止最大规模的机构级看空信号之一。两类资金截然相反的操作，折射出市场对AI估值合理性的深度分歧。"
+      },
+      {
+        "heading": "竞争格局与护城河",
+        "body": "AMD的MI系列GPU持续追赶但市场份额仍远落后于NVDA；英特尔Gaudi加速卡市场渗透有限；博通、Marvell等厂商主攻定制ASIC赛道，服务于头部云厂商的特定场景需求。NVDA的核心竞争壁垒在于CUDA软件生态的十余年积累，大量AI框架、开发者习惯和企业部署已深度绑定，短期内迁移成本极高。Marvell入选标普500亦显示AI芯片赛道整体受资本市场认可。"
+      },
+      {
+        "heading": "主要风险因素",
+        "body": "风险层面，出口管制政策是最大的不确定性来源，美国对华高端芯片限制若升级将直接影响营收；估值层面，当前市盈率处于历史高位，对增长的定价已相当充分，任何业绩不及预期都可能引发剧烈回调；宏观层面，美联储利率预期波动将压制高估值成长股；竞争层面，云厂商自研芯片（如谷歌TPU、亚马逊Trainium）若加速成熟，将分流部分订单需求。"
+      },
+      {
+        "heading": "估值与市场预期",
+        "body": "NVDA当前估值相对传统半导体公司存在显著溢价，市场定价中隐含了对AI算力需求长期高速增长的强烈预期。本次芯片板块回调（NVDA单日跌幅约4.87%）叠加Leopold大规模看跌期权建仓，表明部分机构认为当前估值已过度反映乐观情景。多空双方核心分歧在于：AI资本支出超周期是否可持续，以及NVDA能否将行业地位转化为持续的超额盈利增长。"
+      }
+    ],
+    "comparables": [
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices",
+        "note": "GPU领域直接竞争对手，MI系列加速卡持续抢占数据中心市场份额，但与NVDA差距仍显著"
+      },
+      {
+        "ticker": "AVGO",
+        "name": "Broadcom Inc.",
+        "note": "定制AI ASIC芯片领军企业，服务谷歌等超大规模云厂商，近期AI业绩展望不及预期引发板块共振"
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "note": "传统CPU霸主转型AI加速赛道，Gaudi系列进展迟缓，近期股价曾出现453%反弹后市场关注其持续性"
+      },
+      {
+        "ticker": "TSM",
+        "name": "台积电 TSMC",
+        "note": "NVDA核心晶圆代工伙伴，供应链瓶颈与地缘政治风险是两家公司的共同外部变量"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "专注数据中心网络与定制AI芯片，近期入选标普500，是NVDA在特定云厂商定制化需求场景的潜在替代者"
+      }
+    ],
+    "model": "claude-code（订阅）",
+    "generatedAt": "2026-06-05T22:18:50.181545Z"
   },
   "news": [
     {
-      "id": "NVDA-140530992",
-      "title": "Why PVH Stock Plunged Today",
+      "id": "NVDA-140542465",
+      "title": "Meta Wants AI Agents to Become Its Next Ad Business",
       "source": "Yahoo",
-      "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=1c46f74cf7ff250baa74b4d3b62acf21ba1f054f047b335554a312e89f59d1a1",
+      "publishedAt": "2026-06-05",
+      "url": "https://finnhub.io/api/news?id=db4a35147542d57e9df3a6c7209d89b65153330b9d3fd0a3726f7735a3b3dd70",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140531792",
-      "title": "Will Broadcom Stock Recover After Its Guidance Disappointment, Or Should You Cut Your Losses?",
+      "id": "NVDA-140542466",
+      "title": "Intel Just Experienced a Monster 453% Rally. Is It Time to Sell or Double Down?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=265f3e61229b84a0e55f5e0ce295d4f3a755a15a85639b69506aff454ca5fe34",
+      "publishedAt": "2026-06-05",
+      "url": "https://finnhub.io/api/news?id=078119ca64f6483277191b9d353113b6b1781cfaca1ca5d47b1a1b3ffc03e5ea",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140531793",
-      "title": "Why Visa Stock Topped the Market on Thursday",
+      "id": "NVDA-140542467",
+      "title": "History Says This Unstoppable Dow Juggernaut Is a No-Brainer Buy Right Now",
       "source": "Yahoo",
-      "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=db8d28a41f8ab47a207499eed2d880750c7f92b5c4b774abdbe9c62c108c1a36",
+      "publishedAt": "2026-06-05",
+      "url": "https://finnhub.io/api/news?id=fa1213dc1ae11b5339d3bb99f8c429b5607d28da09db3d60bd3fb372757bee96",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140530682",
-      "title": "5 Top Artificial Intelligence (AI) Stocks to Buy With $5,000 Right Now",
+      "id": "NVDA-140542468",
+      "title": "Decoding AVGO Stock's Premium Valuation",
       "source": "Yahoo",
-      "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=a3c4daadd6208d812e1cf4dff129d90c1e5f2c75847f505fc5f1b8a022c0ebe4",
+      "publishedAt": "2026-06-05",
+      "url": "https://finnhub.io/api/news?id=c472e8d6fca8c0a56b866ebec95afe82b8736f9d0d0773900af5263cf104c947",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140530683",
-      "title": "SpaceX IPO Date: What Investors Need to Know Before June 12",
+      "id": "NVDA-140542469",
+      "title": "Why Navitas Stock Plummeted Today",
       "source": "Yahoo",
-      "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=2fc0dc2858387cf13224d7e01a163f86b23d2f62581812c9639a33ec88fbefaf",
+      "publishedAt": "2026-06-05",
+      "url": "https://finnhub.io/api/news?id=98d5f1017292c41dcb11a99cf93d7f0ce4cf27e8596b24ac44aceb5fef56bdd7",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140530684",
-      "title": "Why Rigetti Computing Stock Gained 46.4% In May",
+      "id": "NVDA-140542470",
+      "title": "Is Dogecoin a Joke Investment -- or a Serious Long-Term Bet?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-04",
-      "url": "https://finnhub.io/api/news?id=403d94c2a90cf51d3f6b14638829520d614dcafc0c160f2e1740c8a36bdc5788",
+      "publishedAt": "2026-06-05",
+      "url": "https://finnhub.io/api/news?id=1e61658d9f2984600ee9c039029fd62a2c8d1b7f9bc79f605b3fe9b57d4b4c22",
       "tags": [
         "NVDA"
       ]

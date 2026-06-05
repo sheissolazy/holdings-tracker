@@ -1,6 +1,6 @@
 {
-  "forDate": "2026-06-05",
-  "generatedAt": "2026-06-05T05:06:39Z",
+  "forDate": "2026-06-06",
+  "generatedAt": "2026-06-05T22:24:14Z",
   "model": "确定性技术位 + 风险计（无 AI、无编造）",
   "catalysts": [],
   "pendingSignals": [],
@@ -15,28 +15,28 @@
       {
         "name": "标普 · 趋势",
         "value": "位于 50/200 日线上方",
-        "detail": "SPX 757.1 · 50DMA 711.9 · 200DMA 683.4",
+        "detail": "SPX 737.5 · 50DMA 713.5 · 200DMA 683.9",
         "contribution": 2,
         "note": "中长期趋势均健康（risk-on）"
       },
       {
         "name": "标普 · 1月动量",
-        "value": "+5.4%",
+        "value": "+1.9%",
         "detail": "近 22 个交易日累计涨跌",
         "contribution": 1,
         "note": "上行动量延续"
       },
       {
         "name": "10年美债 · 1月",
-        "value": "+3bp",
-        "detail": "当前 4.48%",
+        "value": "+12bp",
+        "detail": "当前 4.54%",
         "contribution": 0,
         "note": "利率波动有限"
       },
       {
         "name": "美元指数 · 1月",
-        "value": "+0.9%",
-        "detail": "当前 DXY 99.36",
+        "value": "+1.6%",
+        "detail": "当前 DXY 100.07",
         "contribution": 0,
         "note": "美元区间波动"
       }
@@ -45,21 +45,39 @@
   },
   "suggestions": [
     {
+      "id": "aapl-watch",
+      "kind": "watch",
+      "ticker": "AAPL",
+      "instrument": "stock",
+      "refPrice": 307.34,
+      "addBelow": 281.24,
+      "trimAbove": 316.94,
+      "stop": 251.82,
+      "confidence": "high",
+      "headline": "AAPL · 区间观察",
+      "reason": "现价 $307.34 处于支撑 $265.07 与阻力 $316.94 之间；回踩 $281.24 偏积极，逼近 $316.94 偏谨慎。",
+      "basis": [
+        "2 位跟踪者 13F 持有：Warren Buffett·持平、Nancy Pelosi·新建",
+        "近 30 日支撑 $265.07 / 阻力 $316.94 / 50 日线 $281.24（真实价格历史）",
+        "现价 $307.34，距支撑 +13.8% · 距阻力 +3.1%"
+      ]
+    },
+    {
       "id": "be-watch",
       "kind": "watch",
       "ticker": "BE",
       "instrument": "stock",
-      "refPrice": 287.32,
-      "addBelow": 231.78,
+      "refPrice": 263.61,
+      "addBelow": 236.96,
       "trimAbove": 322.83,
       "stop": 205.24,
       "confidence": "med",
       "headline": "BE · 区间观察",
-      "reason": "现价 $287.32 处于支撑 $216.04 与阻力 $322.83 之间；回踩 $231.78 偏积极，逼近 $322.83 偏谨慎。",
+      "reason": "现价 $263.61 处于支撑 $216.04 与阻力 $322.83 之间；回踩 $236.96 偏积极，逼近 $322.83 偏谨慎。",
       "basis": [
         "1 位跟踪者 13F 持有：Leopold Aschenbrenner·减仓",
-        "近 30 日支撑 $216.04 / 阻力 $322.83 / 50 日线 $231.78（真实价格历史）",
-        "现价 $287.32，距支撑 +24.8% · 距阻力 +12.4%"
+        "近 30 日支撑 $216.04 / 阻力 $322.83 / 50 日线 $236.96（真实价格历史）",
+        "现价 $263.61，距支撑 +18.0% · 距阻力 +22.5%"
       ]
     },
     {
@@ -67,35 +85,17 @@
       "kind": "watch",
       "ticker": "NVDA",
       "instrument": "stock",
-      "refPrice": 214.75,
-      "addBelow": 202.05,
+      "refPrice": 205.1,
+      "addBelow": 203.45,
       "trimAbove": 236.54,
       "stop": 185.0,
       "confidence": "med",
       "headline": "NVDA · 区间观察",
-      "reason": "现价 $214.75 处于支撑 $194.74 与阻力 $236.54 之间；回踩 $202.05 偏积极，逼近 $236.54 偏谨慎。",
+      "reason": "现价 $205.1 处于支撑 $194.74 与阻力 $236.54 之间；回踩 $203.45 偏积极，逼近 $236.54 偏谨慎。",
       "basis": [
         "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
-        "近 30 日支撑 $194.74 / 阻力 $236.54 / 50 日线 $202.05（真实价格历史）",
-        "现价 $214.75，距支撑 +9.3% · 距阻力 +10.1%"
-      ]
-    },
-    {
-      "id": "aapl-trim",
-      "kind": "trim",
-      "ticker": "AAPL",
-      "instrument": "stock",
-      "refPrice": 310.26,
-      "addBelow": null,
-      "trimAbove": 316.94,
-      "stop": 251.82,
-      "confidence": "high",
-      "headline": "AAPL · 逼近阻力减仓参考位",
-      "reason": "现价 $310.26 逼近阻力 $316.94（近 30 日高点）；突破不站稳可考虑分批减仓，回踩 $278.95 再评估。",
-      "basis": [
-        "2 位跟踪者 13F 持有：Warren Buffett·持平、Nancy Pelosi·新建",
-        "近 30 日支撑 $265.07 / 阻力 $316.94 / 50 日线 $278.95（真实价格历史）",
-        "现价 $310.26，距支撑 +14.6% · 距阻力 +2.2%"
+        "近 30 日支撑 $194.74 / 阻力 $236.54 / 50 日线 $203.45（真实价格历史）",
+        "现价 $205.1，距支撑 +5.1% · 距阻力 +15.3%"
       ]
     }
   ],
