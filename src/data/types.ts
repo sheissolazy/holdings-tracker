@@ -113,4 +113,5 @@ export interface IPOItem {
   priceRange: [number, number]
   sector: string
   exchange: string
+  status?: string              // expected（待定价，可申购）/ priced（已定价）/ filed（已申报）
 }
