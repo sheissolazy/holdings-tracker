@@ -18,11 +18,11 @@ UA = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit
 # 类型 kind: usd=美元计价 / index=指数(无$) / yield=收益率(%,bp) / fx=汇率
 # 汇率项带 code，与 fetch_fx.PAIRS 对应，前端据此加载 fx/{code}.json 迷你图。
 ITEMS = [
-    ("标普500",   "SPY",        "大盘", "usd",   None),
-    ("10年美债",  "%5ETNX",     "大盘", "yield", None),
-    ("美元指数",  "DX-Y.NYB",   "大盘", "index", None),
-    ("黄金",      "GC%3DF",     "商品", "usd",   None),
-    ("原油WTI",   "CL%3DF",     "商品", "usd",   None),
+    ("标普500",   "SPY",        "大盘", "usd",   "SPX"),
+    ("10年美债",  "%5ETNX",     "大盘", "yield", "TNX"),
+    ("美元指数",  "DX-Y.NYB",   "大盘", "index", "DXY"),
+    ("黄金",      "GC%3DF",     "商品", "usd",   "GOLD"),
+    ("原油WTI",   "CL%3DF",     "商品", "usd",   "WTI"),
     ("美元/人民币", "CNY%3DX",  "汇率", "fx",    "CNY"),
     ("美元/日元",  "JPY%3DX",   "汇率", "fx",    "JPY"),
     ("美元/韩元",  "KRW%3DX",   "汇率", "fx",    "KRW"),
@@ -82,9 +82,10 @@ def fetch_one(label, sym, group, kind, code=None):
         pctv = diff / prev * 100 if prev else 0
         chg = f"{'+' if pos else ''}{pctv:.1f}%"
     item = {"label": label, "value": _fmt_value(price, kind),
-            "chg": chg, "pos": pos, "group": group}
+            "chg": chg, "pos": pos, "group": group, "kind": kind}
     if code:
-        item["code"] = code   # 前端据此加载 fx/{code}.json 迷你图
+        # 前端据此加载迷你图历史：fx 组 → fx/{code}.json；大盘/商品 → mkt/{code}.json
+        item["code"] = code
     return item
 
 
