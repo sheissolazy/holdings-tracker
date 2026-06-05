@@ -1,9 +1,9 @@
-"""社交喊单 → social 信号（Musk / Serenity via X，Trump via Truth Social）。
+"""社交喊单 → social 信号（Musk / Serenity / Trump 均经 X）。
 
 「第三条路」：非付费 API、非手动。
-  - Musk / Serenity → X 网页版 GraphQL，带【你自己的登录 cookie】(X_AUTH_TOKEN / X_CT0)
+  - X 网页版 GraphQL，带【你自己的登录 cookie】(X_AUTH_TOKEN / X_CT0)
         UserByScreenName 解析 handle→id，再 UserTweets 拉最近推文。零成本、脆弱、有账号风险。
-  - Trump → Truth Social（Mastodon 兼容）公开 API，免登录 lookup + statuses。
+        跟踪对象由 config.PEOPLE 里 social.platform=='x' 决定（Musk / Serenity / Trump）。
   - 黄仁勋 → 不发交易帖，走新闻管道（此处不产 social）。
 
 无假数据原则：
@@ -12,6 +12,7 @@
 """
 import os
 import re
+import html
 import json
 import datetime as dt
 import urllib.request
@@ -153,6 +154,7 @@ def _x_tweets(uid, count=20):
                     .get("result", {}).get("text"))
             if note:
                 text = note.strip()
+            text = html.unescape(text)   # &gt; &amp; → > & 等，避免原文显示转义实体
             out.append({"id": leg.get("id_str"), "text": text,
                         "created": leg.get("created_at", "")})
     return out
@@ -195,58 +197,25 @@ def fetch_x(pid, handle, days=30, limit=8):
     return out
 
 
-# ---------------- Truth Social (Trump) ----------------
-
-def fetch_trump(handle="realDonaldTrump", days=30, limit=8):
-    ua = {"User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
-          "Accept": "application/json"}
-    look = urllib.request.Request(
-        f"https://truthsocial.com/api/v1/accounts/lookup?acct={handle}", headers=ua)
-    with urllib.request.urlopen(look, timeout=25) as r:
-        acct = json.loads(r.read().decode("utf-8", "replace"))
-    aid = acct["id"]
-    st = urllib.request.Request(
-        f"https://truthsocial.com/api/v1/accounts/{aid}/statuses?limit=20&exclude_replies=true",
-        headers=ua)
-    with urllib.request.urlopen(st, timeout=25) as r:
-        posts = json.loads(r.read().decode("utf-8", "replace"))
-    cutoff = dt.date.today() - dt.timedelta(days=days)
+def _x_people():
+    """config 里所有 social.platform=='x' 且有 handle 的跟踪对象 → [(pid, handle)]。"""
     out = []
-    for p in posts:
-        text = re.sub(r"<[^>]+>", " ", p.get("content") or "").strip()
-        text = re.sub(r"\s+", " ", text)
-        date = (p.get("created_at") or "")[:10]
-        if date and dt.date.fromisoformat(date) < cutoff:
-            continue
-        tickers = _match_tickers(text)
-        if not tickers:
-            continue
-        for tk in tickers:  # 已按「跟踪优先」排序并截断
-            out.append({
-                "personId": "trump", "type": "social", "ticker": tk,
-                "asOf": date or dt.date.today().isoformat(), "sentiment": "watch",
-                "excerpt": text[:240], "postUrl": p.get("url") or "",
-            })
-        if len(out) >= limit:
-            break
+    for pid, p in PEOPLE_BY_ID.items():
+        soc = p.get("social") or {}
+        if soc.get("platform") == "x" and soc.get("handle"):
+            out.append((pid, soc["handle"]))
     return out
 
 
 def run():
     global X_STATUS
     sigs = []
-    sigs += safe(fetch_trump, "Truth Social (Trump)", lambda: [])
-
     if not (X_AUTH and X_CT0):
         X_STATUS = "unconfigured"
         return sigs
 
     X_STATUS = "ok"  # 乐观初值；遇到鉴权失败则置为 expired
-    for pid in ("musk", "serenity"):
-        p = PEOPLE_BY_ID.get(pid) or {}
-        handle = (p.get("social") or {}).get("handle")
-        if not handle:
-            continue
+    for pid, handle in _x_people():   # Musk / Serenity / Trump，均经 X
         try:
             sigs += fetch_x(pid, handle)
         except Exception as e:  # noqa
