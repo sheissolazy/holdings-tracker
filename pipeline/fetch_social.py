@@ -36,6 +36,20 @@ X_CT0 = os.environ.get("X_CT0")
 #   unconfigured=未配置 cookie / ok=本次抓取成功 / expired=cookie 失效（需更新）
 X_STATUS = "unconfigured"
 
+# 展示时区：你在西雅图（太平洋时区）。X / Truth 的时间戳是 UTC，
+#   直接对 UTC 取日期会比你在 X 上看到的本地日期差一天（如 7:31 PM PDT Jun 4 = 02:31 UTC Jun 5）。
+#   统一换算到太平洋时区再取日期，确保与你看到的原帖时间一致。
+try:
+    from zoneinfo import ZoneInfo
+    DISPLAY_TZ = ZoneInfo("America/Los_Angeles")
+except Exception:  # noqa  极少数无 tzdata 环境兜底（夏令时 PDT=UTC-7；非完美但好过 UTC）
+    DISPLAY_TZ = dt.timezone(dt.timedelta(hours=-7))
+
+
+def _today_local():
+    """太平洋时区「今天」——与帖子日期同口径，避免跨日 cutoff 误差。"""
+    return dt.datetime.now(DISPLAY_TZ).date()
+
 
 def _is_auth_error(exc):
     """判断异常是否为 X 登录失效（cookie 过期）而非普通网络/解析错误。"""
@@ -211,31 +225,42 @@ def _x_tweets(uid, count=20):
 
 
 def _parse_created(s):
-    """X 时间 'Wed Jun 04 19:14:00 +0000 2026' → ISO 日期。"""
+    """X 时间 'Wed Jun 04 19:14:00 +0000 2026'(UTC) → 太平洋时区日期（与你在 X 上看到的一致）。"""
     try:
-        return dt.datetime.strptime(s, "%a %b %d %H:%M:%S %z %Y").date().isoformat()
+        utc = dt.datetime.strptime(s, "%a %b %d %H:%M:%S %z %Y")
+        return utc.astimezone(DISPLAY_TZ).date().isoformat()
     except Exception:
         return ""
 
 
-def fetch_x(pid, handle, days=30, limit=8):
+def fetch_x(pid, handle, days=7):
+    """拉某 X 账号最近 days 天的【全部原创帖】→ social 信号（不再只保留命中 ticker/主题的）。
+
+    你的要求：像 Serenity 这类影响者，展示其最近 7 天的所有原创发帖（含未命中关注标的的，
+    如 A 股 LeaderDrive 推介），而非只挑 8 条。仍遵守无假数据原则：只用原文，绝不臆测多空
+    （sentiment 一律 'watch'，原文链接为证）。
+      - 命中 ticker：照旧每个 ticker 一条（驱动首页「共识 / 分歧」）。
+      - 仅命中市场主题：打主题标签的「无 ticker」信号。
+      - 两者都没命中：仍产一条「无 ticker」原创帖信号（这就是用户想看到的「全部发帖」）。
+    转推(RT) / 纯图片无正文 → 跳过（非本人内容 / 无可读文本）。
+    """
     if not (X_AUTH and X_CT0):
         raise RuntimeError("缺 X_AUTH_TOKEN / X_CT0")
     uid = _x_user_id(handle)
-    cutoff = dt.date.today() - dt.timedelta(days=days)
+    cutoff = _today_local() - dt.timedelta(days=days)
     out = []
-    for tw in _x_tweets(uid):
+    for tw in _x_tweets(uid, count=40):   # 拉够 7 天的量（无硬性条数上限）
         text = tw["text"]
-        if text.startswith("RT @"):   # 转推不算本人喊单
+        if text.startswith("RT @"):   # 转推不算本人内容
+            continue
+        if not text:                  # 纯图片/纯链接、无正文 → 无可读内容，跳过
             continue
         date = _parse_created(tw["created"])
         if date and dt.date.fromisoformat(date) < cutoff:
             continue
         tickers = _match_tickers(text)
         topics = _match_topics(text)
-        if not tickers and not topics:
-            continue   # 既没命中 ticker 也没命中市场主题 → 纯无关内容，丢弃
-        asof = date or dt.date.today().isoformat()
+        asof = date or _today_local().isoformat()
         post = f"https://x.com/{handle}/status/{tw['id']}"
         base = {"personId": pid, "type": "social", "asOf": asof,
                 "sentiment": "watch",   # 不臆测多空，只标「关注」，原文为证
@@ -245,10 +270,8 @@ def fetch_x(pid, handle, days=30, limit=8):
             for tk in tickers:
                 out.append({**base, "ticker": tk, "topics": topics})
         else:
-            # 只命中市场主题：产一条「无 ticker」的市场评论信号，只打主题标签
+            # 无 ticker（无论是否命中主题）：产一条原创帖信号，附带命中的主题标签（可能为空）
             out.append({**base, "ticker": "", "topics": topics})
-        if len(out) >= limit:
-            break
     return out
 
 
@@ -265,10 +288,11 @@ def _strip_html(s):
 
 
 def _parse_rfc822(s):
-    """RSS pubDate 'Fri, 05 Jun 2026 03:36:12 +0000' → ISO 日期。"""
+    """RSS pubDate 'Fri, 05 Jun 2026 03:36:12 +0000'(UTC) → 太平洋时区日期（与原帖一致）。"""
     for fmt in ("%a, %d %b %Y %H:%M:%S %z", "%a, %d %b %Y %H:%M:%S %Z"):
         try:
-            return dt.datetime.strptime(s.strip(), fmt).date().isoformat()
+            d = dt.datetime.strptime(s.strip(), fmt)
+            return d.astimezone(DISPLAY_TZ).date().isoformat()
         except Exception:
             continue
     return ""
@@ -284,7 +308,7 @@ def fetch_truth_rss(pid, url, days=30, limit=8):
     import xml.etree.ElementTree as ET
     raw = http_get(url, headers={"User-Agent": "Mozilla/5.0"}, timeout=20)
     root = ET.fromstring(raw)
-    cutoff = dt.date.today() - dt.timedelta(days=days)
+    cutoff = _today_local() - dt.timedelta(days=days)
     out = []
     for it in root.findall(".//item"):
         desc = it.findtext("description") or ""
@@ -306,7 +330,7 @@ def fetch_truth_rss(pid, url, days=30, limit=8):
                 break
         if not orig:
             orig = (it.findtext("link") or "").strip()
-        asof = date or dt.date.today().isoformat()
+        asof = date or _today_local().isoformat()
         base = {"personId": pid, "type": "social", "asOf": asof,
                 "sentiment": "watch", "excerpt": text[:240], "postUrl": orig}
         if tickers:
@@ -367,7 +391,7 @@ def fetch_x_articles(handle, days=21, limit=30):
     if not (X_AUTH and X_CT0):
         raise RuntimeError("缺 X_AUTH_TOKEN / X_CT0")
     uid = _x_user_id(handle)
-    cutoff = dt.date.today() - dt.timedelta(days=days)
+    cutoff = _today_local() - dt.timedelta(days=days)
     out = []
     for tw in _x_tweets_raw(uid, count=40):
         res, leg = tw["res"], tw["leg"]
