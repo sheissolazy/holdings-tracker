@@ -21,8 +21,21 @@ function bias(s: Signal): 'bull' | 'bear' | null {
   return null
 }
 
+// 抄作业：哪些是「可跟随的买入」动作
+function isBuy(s: Signal): boolean {
+  return (s.type === '13f' && (s.change === 'new' || s.change === 'add')) ||
+    (s.type === 'ptr' && s.direction === 'long') ||
+    (s.type === 'options' && s.direction === 'call')
+}
+function actLabel(s: Signal): string {
+  if (s.type === '13f') return s.change === 'new' ? '新建' : '加仓'
+  if (s.type === 'ptr') return '国会买入'
+  if (s.type === 'options') return 'Buy Call'
+  return '买入'
+}
+
 export default function Briefing() {
-  const { people, signals, news: allNews, events, ipos, market, health, tradePlan, signalsByPerson, peopleById, articlesByPersonId } = useData()
+  const { people, signals, news: allNews, events, ipos, market, health, tradePlan, signalsByPerson, peopleById, articlesByPersonId, priceFor } = useData()
 
   const today = new Date().toISOString().slice(0, 10)
 
@@ -65,6 +78,20 @@ export default function Briefing() {
     window.print()
     setTimeout(() => { document.title = prev }, 800)
   }
+
+  // 抄作业：跟踪者「最新买入」动作（13F 新建/加仓、国会买入、买 Call）+ 现价对照
+  const copyMoves = useMemo(() => {
+    return signals
+      .filter((s) => s.ticker && isBuy(s))
+      .map((s) => {
+        const cur = priceFor(s.ticker)
+        const mark = s.type === '13f' && s.notional && s.shares ? s.notional / s.shares : undefined
+        const diff = mark && cur ? ((cur - mark) / mark) * 100 : undefined
+        return { s, cur, mark, diff }
+      })
+      .sort((a, b) => b.s.asOf.localeCompare(a.s.asOf))
+      .slice(0, 8)
+  }, [signals, priceFor])
 
   // 现在可申购的 IPO：尚未定价且定价日未过，按定价日排序（与 /ipos 页同口径）
   const requestable = [...ipos]
@@ -137,6 +164,40 @@ export default function Briefing() {
               </Card>
             ))}
           </div>
+        </>
+      )}
+
+      {/* 抄作业：跟踪者最新买入（可跟随）—— 大道至简，放在最显眼处 */}
+      {copyMoves.length > 0 && (
+        <>
+          <SectionTitle action={<span className="text-[11px] text-muted">13F 新建/加仓 · 国会买入 · 买 Call</span>}>
+            抄作业 · 跟踪者最新买入
+          </SectionTitle>
+          <Card className="px-4 divide-y divide-line">
+            {copyMoves.map(({ s, cur, mark, diff }, i) => (
+              <div key={i} className="flex items-center gap-3 py-2.5">
+                <Avatar id={s.personId} size={30} />
+                <div className="min-w-0 flex-1">
+                  <div className="flex flex-wrap items-center gap-1.5">
+                    <Link to={`/person/${s.personId}`} className="text-sm font-semibold hover:underline truncate">{peopleById[s.personId]?.name}</Link>
+                    <span className="text-[10px] font-bold px-1.5 py-0.5 rounded bg-pos/10 text-pos shrink-0">{actLabel(s)}</span>
+                    <Link to={`/stock/${s.ticker}`} className="text-sm font-bold hover:underline">{s.ticker}</Link>
+                    {s.weightPct != null && <span className="text-[11px] text-muted tnum">占比 {s.weightPct}%</span>}
+                  </div>
+                  <div className="text-[11px] text-muted tnum mt-0.5">
+                    {mark != null && <>申报价 ≈${mark.toFixed(0)}（季度末）· </>}
+                    {cur != null ? <>现价 <b className="text-ink">${cur.toFixed(2)}</b></> : <span>现价 —</span>}
+                    {diff != null && <span className="ml-1">（较申报 {diff >= 0 ? '+' : ''}{diff.toFixed(0)}%）</span>}
+                  </div>
+                </div>
+                <span className="text-[11px] text-muted tnum whitespace-nowrap shrink-0">{s.asOf.slice(5)}</span>
+              </div>
+            ))}
+          </Card>
+          <p className="text-[11px] text-muted px-1 mt-1.5 leading-snug">
+            ℹ️ 「申报价」为 13F 季度末市值÷股数（<b>非成本价</b>，13F 不披露成本）；「现价」为最新行情，
+            两者之差表示自申报以来涨跌、即你现在跟随的相对位置。国会/期权类无申报价，仅显示现价。
+          </p>
         </>
       )}
 

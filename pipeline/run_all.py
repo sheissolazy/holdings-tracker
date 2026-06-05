@@ -14,7 +14,7 @@ from lib import write_json, MOCK, TODAY
 from config import PEOPLE, TICKERS, TICKER_META, PEOPLE_BY_ID
 import fetch_13f, fetch_congress, fetch_social, fetch_prices, fetch_market
 import fetch_news, fetch_ipos, fetch_fundamentals, fetch_fx, fetch_statements
-import fetch_market_hist
+import fetch_market_hist, fetch_quotes
 import gen_ai, gen_risk, gen_plan
 
 
@@ -67,6 +67,10 @@ def main():
     print("[7b] 基本面…");          funds = fetch_fundamentals.run()
 
     signals = s13 + sc + ss + sj
+    # 「抄作业」轻量行情：所有信号涉及标的的最新价（不止 5 个关注 ticker）。
+    print("[7c] 抄作业行情…")
+    quotes = fetch_quotes.run({s.get("ticker") for s in signals if s.get("ticker")}) if not MOCK else {}
+    write_json("quotes.json", quotes)
     write_json("people.json", PEOPLE)
     write_json("signals.json", signals)
     write_json("articles.json", articles)

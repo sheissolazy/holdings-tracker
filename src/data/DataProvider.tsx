@@ -11,6 +11,8 @@ const EMPTY_TRADEPLAN: TradePlan = {
 }
 
 export interface MarketItem { label: string; value: string; chg: string; pos: boolean; group?: string; code?: string; kind?: string }
+// 「抄作业」轻量行情：所有信号涉及标的的最新价
+export interface Quote { price: number; prevClose: number; chgPct: number; asOf: string }
 export type SourceStatus = 'unconfigured' | 'ok' | 'expired'
 export interface MaobidaoHealth { lastPost?: string | null; daysSince?: number | null; stale?: boolean }
 export interface MetaHealth { x: SourceStatus; checkedAt?: string; maobidao?: MaobidaoHealth }
@@ -30,6 +32,7 @@ export interface DataSet {
   market: MarketItem[]
   tickers: string[]
   stockIndex: StockSummary[]
+  quotes: Record<string, Quote>
   health: MetaHealth
   // 派生 helper（替代 mock.ts 里的同名导出）
   peopleById: Record<string, Person>
@@ -37,6 +40,7 @@ export interface DataSet {
   signalsByTicker: (t: string) => Signal[]
   signalsByPerson: (id: string) => Signal[]
   articlesByPersonId: (id: string) => NewsItem[]
+  priceFor: (t: string) => number | undefined
   live: boolean
 }
 
@@ -50,7 +54,7 @@ async function getJson<T>(path: string, fallback: T): Promise<{ value: T; ok: bo
   }
 }
 
-type RawData = Omit<DataSet, 'peopleById' | 'stockMetaById' | 'signalsByTicker' | 'signalsByPerson' | 'articlesByPersonId'>
+type RawData = Omit<DataSet, 'peopleById' | 'stockMetaById' | 'signalsByTicker' | 'signalsByPerson' | 'articlesByPersonId' | 'priceFor'>
 
 function derive(d: RawData): DataSet {
   const peopleById = Object.fromEntries(d.people.map((p) => [p.id, p]))
@@ -62,6 +66,8 @@ function derive(d: RawData): DataSet {
     signalsByTicker: (t) => d.signals.filter((s) => s.ticker === t),
     signalsByPerson: (id) => d.signals.filter((s) => s.personId === id),
     articlesByPersonId: (id) => d.articles[id] ?? [],
+    // 最新价优先用轻量 quotes，回落到关注 ticker 的 stockIndex
+    priceFor: (t) => d.quotes[t]?.price ?? stockMetaById[t]?.price,
   }
 }
 
@@ -79,7 +85,7 @@ export function DataProvider({ children }: { children: React.ReactNode }) {
   useEffect(() => {
     let alive = true
     ;(async () => {
-      const [people, signals, news, articles, events, ipos, tradePlan, market, stockIndex, meta] = await Promise.all([
+      const [people, signals, news, articles, events, ipos, tradePlan, market, stockIndex, quotes, meta] = await Promise.all([
         getJson<Person[]>('people.json', []),
         getJson<Signal[]>('signals.json', []),
         getJson<NewsItem[]>('news.json', []),
@@ -89,6 +95,7 @@ export function DataProvider({ children }: { children: React.ReactNode }) {
         getJson<TradePlan>('tradeplan.json', EMPTY_TRADEPLAN),
         getJson<MarketItem[]>('market.json', []),
         getJson<StockSummary[]>('stocks_index.json', []),
+        getJson<Record<string, Quote>>('quotes.json', {}),
         getJson<{ tickers?: string[]; health?: MetaHealth }>('meta.json', { tickers: [] }),
       ])
       if (!alive) return
@@ -104,6 +111,7 @@ export function DataProvider({ children }: { children: React.ReactNode }) {
         tradePlan: tradePlan.value,
         market: market.value,
         stockIndex: stockIndex.value,
+        quotes: quotes.value,
         tickers: meta.value.tickers ?? [],
         health: meta.value.health ?? { x: 'unconfigured' },
         live,
