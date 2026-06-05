@@ -874,78 +874,16 @@
     }
   ],
   "thesis": {
-    "bull": [
-      "英伟达CEO黄仁勋公开表示Marvell有望成为下一个万亿美元市值公司，强力背书提升市场信心，股价当日再涨5%，外部验证其在AI基础设施链条中的战略地位",
-      "超大规模云厂商（Google、Amazon、Microsoft）持续加码定制AI ASIC芯片投入，Marvell作为头部代工设计合作伙伴受益显著，定制硅片需求具备多年能见度",
-      "数据中心网络交换与PAM4光通信市场随AI基础设施扩张而高速增长，Marvell相关产品线具备结构性增长逻辑，非纯AI依赖的多元化布局降低单点风险"
-    ],
-    "bear": [
-      "Broadcom AI业务展望不及预期导致股价单日暴跌13%，引发市场对整个AI定制芯片板块高估值的重新审视，同类标的估值溢价面临压缩风险",
-      "MRVL股价2026年已接近翻三倍，估值透支极为严重，一旦财报或指引出现任何瑕疵将面临剧烈回调，Broadcom案例已提供前车之鉴",
-      "客户集中度风险突出，营收高度依赖少数超大规模云厂商，若任一大客户削减定制芯片订单或转向内部自研，将对业绩产生重大冲击"
-    ],
-    "watch": [
-      "Broadcom季报中AI收入增速及指引：作为最直接可比标的，其表现将影响市场对Marvell估值体系的重新定价",
-      "超大规模云厂商资本开支计划变化：Meta、Google、Amazon、Microsoft的AI基础设施投资力度直接决定定制ASIC需求节奏",
-      "美伊地缘紧张局势与宏观风险偏好：油价波动及全球贸易政策不确定性若压制整体风险偏好，高估值AI芯片股将首当其冲"
-    ],
-    "sections": [
-      {
-        "heading": "公司概览",
-        "body": "Marvell Technology（纳斯达克：MRVL）是一家专注于数据基础设施半导体的无晶圆厂芯片设计企业，产品覆盖数据中心、运营商网络、企业网络及汽车等领域。近年来公司战略重心大幅向AI定制计算芯片转移，确立了以超大规模云厂商为核心客户群的发展路径。截至2026年中，公司已跻身AI芯片供应链核心环节，英伟达CEO黄仁勋的公开背书使其市场关注度和机构持仓意愿持续提升。"
-      },
-      {
-        "heading": "AI定制芯片业务",
-        "body": "Marvell的核心增长引擎来自为超大规模云厂商提供定制AI加速芯片（XPU/ASIC）设计服务。与通用GPU不同，定制ASIC在特定AI工作负载下可实现更优的能效比与总拥有成本，云厂商出于成本控制与供应链自主的双重考量持续加大定制硅片投入。黄仁勋近期公开预测Marvell或将成为下一个万亿市值企业，进一步验证其在AI基础设施分工中的关键地位，并为股价提供了重要的叙事支撑。"
-      },
-      {
-        "heading": "竞争格局",
-        "body": "Marvell在定制AI ASIC领域的最主要竞争对手为Broadcom（AVGO），后者同样深耕超大规模云厂商定制芯片业务。Broadcom近期因AI业务指引未能满足市场高预期而股价重挫逾13%，揭示该赛道估值存在显著的预期透支风险，也为Marvell的估值讨论提供了重要参照。Astera Labs（ALAB）等专注数据中心高速互联的新兴企业在部分细分市场形成竞争。英伟达凭借GPU生态体系在AI训练领域保持主导地位，与Marvell更多形成生态互补而非直接替代关系。"
-      },
-      {
-        "heading": "财务与估值",
-        "body": "2026年MRVL股价已接近翻三倍，市场为其AI相关业务赋予了极高的增长溢价，估值倍数远超半导体行业历史均值。高估值在业绩兑现期往往容错率极低——Broadcom的案例清晰显示，即便绝对数字向好、但增速略低于预期仍可引发双位数跌幅。多空分歧的核心在于：AI相关收入占比的实际提升节奏能否在可预见的几个季度内支撑当前定价，以及利润率能否随规模扩大而持续改善。"
-      },
-      {
-        "heading": "风险因素",
-        "body": "主要风险维度包括：第一，客户集中风险，Marvell的AI ASIC业务与少数超大规模云厂商深度绑定，单一客户决策变化影响显著；第二，技术迭代风险，AI芯片架构演进极快，定制ASIC存在被新一代通用加速器或客户内部自研芯片替代的可能；第三，估值泡沫风险，板块整体高估值叠加AI叙事边际降温，任何宏观或行业层面的负面信号均可能引发连锁抛售；第四，地缘政治与贸易政策风险，美伊局势、油价波动及出口管制政策不确定性可能扰动全球供应链与市场风险偏好。"
-      },
-      {
-        "heading": "催化剂与展望",
-        "body": "短期催化剂包括：超大规模云厂商发布或确认新一轮定制芯片订单、公司财报中AI收入占比超预期提升，以及行业领袖的持续背书。中长期来看，AI基础设施建设浪潮的可持续性、Marvell向更多客户拓展的能力，以及数据中心光互联市场的渗透率提升，将是决定公司价值中枢的核心变量。多空的根本分歧在于：超大规模云厂商AI资本开支能否在高利率、地缘政治等逆风下维持高速增长，以及Marvell是否能将行业红利真正转化为可量化的持续盈利提升而非单纯估值扩张。"
-      }
-    ],
-    "comparables": [
-      {
-        "ticker": "AVGO",
-        "name": "Broadcom",
-        "note": "最直接可比标的，同样深耕超大规模云厂商定制AI ASIC，近期因AI指引未达预期股价重挫逾13%，为高估值AI芯片板块的脆弱性提供警示参照"
-      },
-      {
-        "ticker": "ALAB",
-        "name": "Astera Labs",
-        "note": "专注数据中心高速互联芯片，2026年三个月内已涨逾200%，反映市场对AI基础设施供应链标的的极度热情与高波动特征"
-      },
-      {
-        "ticker": "NVDA",
-        "name": "Nvidia",
-        "note": "AI芯片生态主导者，CEO黄仁勋对Marvell的公开背书具有重要信号意义，两者在AI基础设施链条中更多形成分工互补而非直接竞争关系"
-      }
-    ],
-    "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-05T04:27:18.088944Z"
+    "bull": [],
+    "bear": [],
+    "watch": [],
+    "sections": [],
+    "comparables": [],
+    "model": "（分析暂不可用）",
+    "generatedAt": null,
+    "unavailable": true
   },
   "news": [
-    {
-      "id": "MRVL-140531785",
-      "title": "Applied Optoelectronics (AAOI) Soars 10% as Exec Highlights Growing Optics Technology Role",
-      "source": "Yahoo",
-      "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=2560fb4def895aaef9884166f5db179b20bf5af2d39dd62c929a015f9a538b93",
-      "tags": [
-        "MRVL"
-      ]
-    },
     {
       "id": "MRVL-140529117",
       "title": "Nvidia’s CEO Sees Marvell Becoming the Next $1 Trillion Company. Shares Gained Another 5% Today.",
@@ -992,6 +930,16 @@
       "source": "Yahoo",
       "publishedAt": "2026-06-04",
       "url": "https://finnhub.io/api/news?id=a81ce39f365ac96922bff8123caac7c5e054ed6f320f0591af08eddaa3545cc6",
+      "tags": [
+        "MRVL"
+      ]
+    },
+    {
+      "id": "MRVL-140525788",
+      "title": "Jim Cramer sounds the alarm on Marvell",
+      "source": "Yahoo",
+      "publishedAt": "2026-06-04",
+      "url": "https://finnhub.io/api/news?id=15abb14a8371908069a8bec2492c73ee6647896f20df6a8bcf650ebf6af6e90c",
       "tags": [
         "MRVL"
       ]
