@@ -59,8 +59,8 @@ export default function PersonDetail() {
       {!isSocial && sigs.some((s) => s.type === 'options') && (
         <div className="mb-2 rounded-xl bg-canvas border border-line text-muted text-[11px] leading-snug px-3 py-2">
           ℹ️ 期权均为 <b className="text-ink">13F 申报的多头持仓</b>——13F 只披露多头，卖出/做空期权不在申报范围。
-          所以这里的 <span className="text-neg font-semibold">买入看跌</span>＝用真金白银押注下跌（看空），
-          <span className="text-pos font-semibold">买入看涨</span>＝押注上涨（看多）；不存在「卖出 PUT/CALL」。
+          所以这里的 <span className="text-neg font-semibold">Buy Put</span>＝用真金白银押注下跌（看空），
+          <span className="text-pos font-semibold">Buy Call</span>＝押注上涨（看多）；不存在 Sell Put/Call。
         </div>
       )}
       <div className="grid sm:grid-cols-2 gap-3">
