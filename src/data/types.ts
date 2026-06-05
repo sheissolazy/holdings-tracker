@@ -15,10 +15,12 @@ export interface Person {
 }
 
 // 一条信号 = 某人对某 ticker 的一个动作/持仓/言论
+// 社交信号特例：ticker 可为 ''（空）——表示「无具体标的的市场评论」，仅由 topics 描述主题。
 export interface Signal {
   personId: string
   type: SignalType
-  ticker: string
+  ticker: string               // 社交「市场评论」类可为 ''（无具体标的）
+  topics?: string[]            // 市场主题标签（关税/美联储/IPO…），social 类专用
   // 通用
   asOf: string                 // 日期 ISO
   // 13f / options

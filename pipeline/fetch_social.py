@@ -6,8 +6,14 @@
         跟踪对象由 config.PEOPLE 里 social.platform=='x' 决定（Musk / Serenity / Trump）。
   - 黄仁勋 → 不发交易帖，走新闻管道（此处不产 social）。
 
+产信号的两种命中（均为「字面命中」，绝不臆造）：
+  1) ticker 命中：推文里出现 $现金标签 或公司别名 → 绑定到具体 ticker（可上首页共识/分歧）。
+  2) 市场主题命中：推文谈到关税 / 美联储 / 利率 / 通胀 / IPO / 加密 / 中美贸易等
+     **可能影响股市**的宏观·政策·金融话题 → 产一条「无 ticker」的市场评论信号，
+     只打主题标签（topics），不强行绑定某只股票。
+
 无假数据原则：
-  - 只在推文里**确实命中**某个 ticker（$ 现金标签 或 公司别名）时才产信号，绝不臆造关联。
+  - 只对**字面命中**的 ticker / 主题产信号；纯无关内容（如电影宣传）直接丢弃。
   - 不臆测多空：sentiment 一律 'watch'（关注），原文链接为证。抓不到/缺 cookie → 空。
 """
 import os
@@ -54,6 +60,30 @@ TICKER_ALIASES = {
 _CASHTAG = re.compile(r"\$([A-Za-z]{1,5})\b")
 _VALID_CASHTAG = re.compile(r"^[A-Z]{1,5}$")
 
+# 市场主题命中表：可能影响股市的宏观 / 政策 / 金融话题（字面命中关键词才打标签）。
+#   面向 Trump / Musk 这类「多发宏观·政策、少发具体 ticker」的账号——
+#   既不漏掉影响大盘的发言，又不编造它跟某只股票的因果。
+#   关键词刻意收窄到「有市场含义」的词，避免把纯政治/八卦也算进来。
+MARKET_TOPICS = {
+    "关税/贸易": ["tariff", "tariffs", "trade war", "trade deal", "trade agreement",
+                  "trade deficit", "import tax", "customs duty"],
+    "美联储/利率": ["federal reserve", "the fed", "interest rate", "interest rates",
+                    "rate cut", "rate hike", "jerome powell", "powell", "monetary policy"],
+    "通胀": ["inflation", "cpi", "consumer price"],
+    "大盘/宏观": ["stock market", "stock markets", "s&p 500", "s&p500", "nasdaq",
+                  "dow jones", "all-time high", "record high", "market crash",
+                  "recession", "bear market", "bull market", "soft landing"],
+    "经济数据": ["jobs report", "unemployment rate", "gdp", "nonfarm", "payrolls"],
+    "加密": ["bitcoin", "ethereum", "cryptocurrency", "stablecoin", "btc", "crypto"],
+    "能源/油价": ["oil price", "crude oil", "opec", "gas prices", "gasoline price"],
+    "AI/芯片": ["artificial intelligence", "semiconductor", "chips act", "chip act",
+                "export control", "data center", "a.i."],
+    "财政/税收": ["tax cut", "tax cuts", "corporate tax", "income tax", "stimulus",
+                  "debt ceiling", "government shutdown", "budget deficit"],
+    "IPO/财报": ["ipo", "earnings report", "quarterly earnings"],
+    "中美/制裁": ["china trade", "sanction", "sanctions", "export ban", "chips to china"],
+}
+
 
 def _match_tickers(text):
     """从推文文本里抽取命中的 ticker 集合（现金标签 + 公司别名）。"""
@@ -70,6 +100,16 @@ def _match_tickers(text):
     tracked = set(TICKERS)
     ordered = sorted(found, key=lambda t: (t not in tracked, t))
     return ordered[:MAX_TICKERS_PER_POST]
+
+
+def _match_topics(text):
+    """抽取推文命中的市场主题标签（字面命中关键词），用于无 ticker 的市场评论信号。"""
+    low = text.lower()
+    hits = []
+    for label, kws in MARKET_TOPICS.items():
+        if any(re.search(rf"\b{re.escape(k)}\b", low) for k in kws):
+            hits.append(label)
+    return hits
 
 
 # ---------------- X (Twitter) ----------------
@@ -182,16 +222,21 @@ def fetch_x(pid, handle, days=30, limit=8):
         if date and dt.date.fromisoformat(date) < cutoff:
             continue
         tickers = _match_tickers(text)
-        if not tickers:
-            continue
-        for tk in tickers:  # 已按「跟踪优先」排序并截断
-            out.append({
-                "personId": pid, "type": "social", "ticker": tk,
-                "asOf": date or dt.date.today().isoformat(),
+        topics = _match_topics(text)
+        if not tickers and not topics:
+            continue   # 既没命中 ticker 也没命中市场主题 → 纯无关内容，丢弃
+        asof = date or dt.date.today().isoformat()
+        post = f"https://x.com/{handle}/status/{tw['id']}"
+        base = {"personId": pid, "type": "social", "asOf": asof,
                 "sentiment": "watch",   # 不臆测多空，只标「关注」，原文为证
-                "excerpt": text[:240],
-                "postUrl": f"https://x.com/{handle}/status/{tw['id']}",
-            })
+                "excerpt": text[:240], "postUrl": post}
+        if tickers:
+            # 命中具体 ticker：每个 ticker 一条（已按「跟踪优先」排序并截断）；附带主题供上下文
+            for tk in tickers:
+                out.append({**base, "ticker": tk, "topics": topics})
+        else:
+            # 只命中市场主题：产一条「无 ticker」的市场评论信号，只打主题标签
+            out.append({**base, "ticker": "", "topics": topics})
         if len(out) >= limit:
             break
     return out

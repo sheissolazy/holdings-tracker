@@ -15,7 +15,7 @@ export default function PersonDetail() {
 
   const sigs = signalsByPerson(p.id)
   const isSocial = p.signalTypes.every((t) => t === 'social' || t === 'statement')
-  const tickers = [...new Set(sigs.map((s) => s.ticker))]
+  const tickers = [...new Set(sigs.map((s) => s.ticker).filter(Boolean))]
   const relNews = allNews.filter((n) => n.tags.includes(p.name.split(' ')[0]) || tickers.some((t) => n.tags.includes(t)))
 
   const stats = isSocial
