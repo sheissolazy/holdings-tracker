@@ -1,7 +1,7 @@
 import { useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import { useData } from '../data/DataProvider'
-import { Card, SectionTitle, Avatar, Sparkline, SentPill, SignalCard } from '../components/ui'
+import { Card, SectionTitle, Avatar, Sparkline, SentPill, SignalCard, RiskCard } from '../components/ui'
 import { TrendPanel } from '../components/TrendPanel'
 import { cx } from '../lib/format'
 import type { Signal } from '../data/types'
@@ -22,7 +22,7 @@ function bias(s: Signal): 'bull' | 'bear' | null {
 }
 
 export default function Briefing() {
-  const { people, signals, news: allNews, events, ipos, market, health, signalsByPerson, peopleById, articlesByPersonId } = useData()
+  const { people, signals, news: allNews, events, ipos, market, health, tradePlan, signalsByPerson, peopleById, articlesByPersonId } = useData()
 
   const today = new Date().toISOString().slice(0, 10)
 
@@ -262,6 +262,14 @@ export default function Briefing() {
 
         {/* right rail */}
         <div>
+          {/* 风险体制 + 行动建议入口（确定性，透明输入） */}
+          {tradePlan.risk?.available && (
+            <>
+              <SectionTitle action={<Link to="/plan" className="text-xs text-brand">行动建议 →</Link>}>风险体制</SectionTitle>
+              <RiskCard risk={tradePlan.risk} />
+            </>
+          )}
+
           <SectionTitle action={<Link to="/ipos" className="text-xs text-brand">更多</Link>}>现在可申购</SectionTitle>
           <Card className="p-2 divide-y divide-line">
             {requestable.length ? requestable.slice(0, 6).map((ipo) => {

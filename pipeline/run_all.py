@@ -15,7 +15,7 @@ from config import PEOPLE, TICKERS, TICKER_META, PEOPLE_BY_ID
 import fetch_13f, fetch_congress, fetch_social, fetch_prices, fetch_market
 import fetch_news, fetch_ipos, fetch_fundamentals, fetch_fx, fetch_statements
 import fetch_market_hist
-import gen_ai
+import gen_ai, gen_risk, gen_plan
 
 
 def pct(a, b):
@@ -98,14 +98,23 @@ def main():
     events = []
     write_json("events.json", events)
 
-    # 明日交易计划：催化剂取真实事件（现为空）；待办/草案不编造 → 空，前端显示空状态。
+    # 透明风险计（确定性，仅用真实大盘历史）+ 行动建议（确定性技术位 + 风险计）。
+    #   两者都不调用 AI、不编造数字；抓不到所需序列则降级（risk.available=False / 无建议）。
+    risk = gen_risk.run(mkt, TODAY.isoformat())
+    spx_bars = (mkt.get("SPX") or {}).get("bars") or []
+    plan = gen_plan.run(signals, prices, risk, PEOPLE_BY_ID, spx_bars, TODAY)
+
+    # 明日交易计划：催化剂取真实事件（现为空）；行动建议为确定性技术位/风险计推导（带 basis）。
     write_json("tradeplan.json", {
         "forDate": (TODAY + dt.timedelta(days=1)).isoformat(),
         "generatedAt": dt.datetime.now(dt.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
-        "model": gen_ai.MODEL if not MOCK and gen_ai.active() else "claude-mock",
+        "model": plan["model"],
         "catalysts": events,
         "pendingSignals": [],
         "draftActions": [],
+        "risk": risk,
+        "suggestions": plan["suggestions"],
+        "opex": plan["opex"],
     })
     # 猫笔刀新鲜度：他几乎每天发文，≥2 天无新帖 → 视为异常（cookie 失效 / 账号更名 / 停更），
     #   前端据此弹「该提醒你了」横幅。抓不到任何文章也按异常处理。

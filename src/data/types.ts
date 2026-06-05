@@ -97,13 +97,54 @@ export interface DraftAction {
   reason: string        // 为什么（来自今天的信息）
   done?: boolean
 }
+
+// ---- 透明风险计（确定性，每个输入暴露真实值 + 贡献）----
+export interface RiskInput {
+  name: string
+  value: string
+  detail?: string
+  contribution: number   // 正=risk-on/平静，负=risk-off/风险升高
+  note?: string
+}
+export interface RiskGauge {
+  available: boolean
+  asOf?: string
+  score?: number
+  level?: '低' | '中' | '偏高' | '高'
+  label?: string
+  inputs?: RiskInput[]
+  note?: string
+}
+
+// ---- 行动建议（确定性技术位 + 风险计；每条带 basis 真实依据）----
+export interface ActionSuggestion {
+  id: string
+  kind: 'add' | 'trim' | 'watch' | 'hedge'
+  ticker: string
+  instrument: 'stock' | 'put'
+  refPrice: number
+  addBelow?: number | null     // 加仓参考位（支撑/50日线）
+  trimAbove?: number | null    // 减仓参考位（阻力）
+  stop?: number                // 止损参考
+  strike?: number              // put 行权价（现价下方支撑）
+  expiration?: string          // 到期（月度 OPEX 规则）
+  sizingHint?: string          // 仓位提示（% 组合，不给美元）
+  confidence: 'high' | 'med' | 'low'
+  headline: string
+  reason: string
+  basis: string[]              // 依据的真实数据点（可核对）
+}
+
 export interface TradePlan {
   forDate: string
   generatedAt: string
   model: string
   catalysts: CalendarEvent[]
   pendingSignals: { personId: string; ticker: string; note: string }[]
-  draftActions: DraftAction[]   // AI 用今天的信息起草，用户可改
+  draftActions: DraftAction[]   // 用户可编辑的清单
+  risk?: RiskGauge              // 当日风险体制（确定性）
+  suggestions?: ActionSuggestion[]  // 行动建议（确定性技术位 + 风险计）
+  opex?: string                 // 下一个月度期权到期日
 }
 
 export interface IPOItem {

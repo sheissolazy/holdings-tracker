@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom'
-import type { Signal, NewsItem, SignalType } from '../data/types'
+import type { Signal, NewsItem, SignalType, RiskGauge, ActionSuggestion } from '../data/types'
 import { useData } from '../data/DataProvider'
 import { cx, fmtPct, pctColor, fmtMoney } from '../lib/format'
 
@@ -170,4 +170,110 @@ export function NewsRow({ n }: { n: NewsItem }) {
   return hasUrl
     ? <a href={n.url} target="_blank" rel="noreferrer" className="block py-2.5 group">{Inner}</a>
     : <div className="block py-2.5 group">{Inner}</div>
+}
+
+// ---- 透明风险计：每个输入暴露真实值 + 对总分的贡献（确定性，可核对）----
+const RISK_TONE: Record<string, { dot: string; text: string; bg: string; border: string }> = {
+  '低':   { dot: 'bg-pos',     text: 'text-pos',       bg: 'bg-pos/5',    border: 'border-pos/30' },
+  '中':   { dot: 'bg-slate-400', text: 'text-muted',   bg: 'bg-canvas',   border: 'border-line' },
+  '偏高': { dot: 'bg-amber-500', text: 'text-amber-700', bg: 'bg-amber-soft', border: 'border-amber/40' },
+  '高':   { dot: 'bg-neg',     text: 'text-neg',       bg: 'bg-coral-soft', border: 'border-coral/50' },
+}
+
+export function RiskCard({ risk, compact = false }: { risk?: RiskGauge; compact?: boolean }) {
+  if (!risk?.available) return null
+  const tone = RISK_TONE[risk.level ?? '中'] ?? RISK_TONE['中']
+  return (
+    <div className={cx('rounded-2xl border p-3', tone.bg, tone.border)}>
+      <div className="flex items-center gap-2">
+        <span className={cx('w-2.5 h-2.5 rounded-full', tone.dot)} />
+        <div className="flex-1 min-w-0">
+          <div className={cx('text-sm font-bold', tone.text)}>{risk.label}</div>
+          <div className="text-[11px] text-muted">市场风险体制 · {risk.asOf}</div>
+        </div>
+        <div className={cx('text-2xl font-extrabold tnum', tone.text)}>{risk.level}</div>
+      </div>
+      {!compact && (
+        <>
+          <div className="mt-2.5 space-y-1.5">
+            {(risk.inputs ?? []).map((inp) => (
+              <div key={inp.name} className="flex items-center gap-2 text-xs">
+                <span className={cx('w-1.5 h-1.5 rounded-full shrink-0',
+                  inp.contribution > 0 ? 'bg-pos' : inp.contribution < 0 ? 'bg-neg' : 'bg-slate-300')} />
+                <span className="font-semibold text-ink shrink-0">{inp.name}</span>
+                <span className="tnum text-muted">{inp.value}</span>
+                <span className="text-muted truncate hidden sm:inline">· {inp.note}</span>
+                <span className={cx('ml-auto tnum font-bold shrink-0',
+                  inp.contribution > 0 ? 'text-pos' : inp.contribution < 0 ? 'text-neg' : 'text-muted')}>
+                  {inp.contribution > 0 ? `+${inp.contribution}` : inp.contribution}
+                </span>
+              </div>
+            ))}
+          </div>
+          {risk.note && <p className="text-[10px] text-muted mt-2 leading-snug">{risk.note}</p>}
+        </>
+      )}
+    </div>
+  )
+}
+
+// ---- 行动建议卡：技术位/风险计推导，每条带「依据」真实数据点 + 可加入清单 ----
+const KIND_META: Record<string, { label: string; border: string; chip: string }> = {
+  add:   { label: '加仓参考', border: 'border-l-pos',   chip: 'bg-pos/10 text-pos' },
+  trim:  { label: '减仓参考', border: 'border-l-amber', chip: 'bg-amber-soft text-amber-700' },
+  watch: { label: '观察',     border: 'border-l-slate-300', chip: 'bg-canvas text-muted' },
+  hedge: { label: '对冲',     border: 'border-l-neg',   chip: 'bg-coral-soft text-neg' },
+}
+const CONF_CN: Record<string, string> = { high: '高', med: '中', low: '低' }
+
+function Level({ label, value, tone }: { label: string; value: string; tone?: string }) {
+  return (
+    <div className="rounded-lg bg-white/70 border border-line/70 px-2 py-1">
+      <div className="text-[10px] text-muted">{label}</div>
+      <div className={cx('text-sm font-bold tnum', tone)}>{value}</div>
+    </div>
+  )
+}
+
+export function ActionCard({ s, onAdopt }: { s: ActionSuggestion; onAdopt?: (s: ActionSuggestion) => void }) {
+  const m = KIND_META[s.kind] ?? KIND_META.watch
+  return (
+    <div className={cx('rounded-xl border border-l-4 bg-white p-3', m.border, 'border-line')}>
+      <div className="flex items-center gap-2 mb-1.5">
+        <span className={cx('text-[11px] font-bold px-2 py-0.5 rounded-full', m.chip)}>{m.label}</span>
+        <Link to={`/stock/${s.ticker}`} className="font-bold text-sm hover:underline">{s.ticker}</Link>
+        <span className="text-[11px] text-muted">现价 <b className="tnum text-ink">${s.refPrice}</b></span>
+        <span className="ml-auto text-[10px] text-muted">置信度 {CONF_CN[s.confidence] ?? s.confidence}</span>
+      </div>
+
+      {/* 关键位（全部来自真实价格历史 / 日历规则） */}
+      <div className="flex flex-wrap gap-1.5 mb-2">
+        {s.addBelow != null && <Level label="加仓位 ≤" value={`$${s.addBelow}`} tone="text-pos" />}
+        {s.trimAbove != null && <Level label="减仓位 ≥" value={`$${s.trimAbove}`} tone="text-amber-700" />}
+        {s.strike != null && <Level label="行权价" value={`$${s.strike}`} tone="text-neg" />}
+        {s.expiration && <Level label="到期" value={s.expiration} />}
+        {s.stop != null && s.instrument === 'stock' && <Level label="止损" value={`$${s.stop}`} tone="text-neg" />}
+        {s.sizingHint && <Level label="仓位" value={s.sizingHint} />}
+      </div>
+
+      <p className="text-xs text-ink/80 leading-snug">{s.reason}</p>
+
+      {/* 依据：真实数据点 */}
+      <div className="mt-2 rounded-lg bg-canvas border border-line px-2.5 py-1.5">
+        <div className="text-[10px] font-bold text-muted mb-0.5">依据（真实数据）</div>
+        <ul className="space-y-0.5">
+          {s.basis.map((b, i) => (
+            <li key={i} className="text-[11px] text-muted leading-snug flex gap-1.5">
+              <span className="text-brand shrink-0">·</span><span>{b}</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      {onAdopt && (
+        <button onClick={() => onAdopt(s)}
+          className="mt-2 text-xs font-semibold text-brand hover:underline">+ 加入明日清单</button>
+      )}
+    </div>
+  )
 }
