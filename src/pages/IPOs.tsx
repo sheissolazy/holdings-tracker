@@ -35,8 +35,8 @@ export default function IPOs() {
         {open.map((ipo) => {
           const d = daysTo(ipo.date)
           const soon = d <= 3
-          return (
-            <Link key={ipo.ticker} to={`/stock/${ipo.ticker}`} className="flex items-center gap-3 p-3 hover:bg-canvas rounded-lg">
+          const head = (
+            <>
               <div className="w-14 shrink-0 text-center">
                 <div className="text-[11px] text-muted">{ipo.date.slice(5)}</div>
                 <div className={cx('text-[10px] font-bold', soon ? 'text-coral' : 'text-muted')}>
@@ -44,13 +44,44 @@ export default function IPOs() {
                 </div>
               </div>
               <div className="flex-1 min-w-0">
-                <div className="text-sm font-semibold truncate">{ipo.name} <span className="text-muted font-mono text-xs">{ipo.ticker}</span></div>
+                <div className="text-sm font-semibold truncate">
+                  {ipo.name}{' '}
+                  <span className="text-muted font-mono text-xs">{ipo.ticker}{ipo.tickerPending ? '（拟用）' : ''}</span>
+                  {ipo.curated && <span className="ml-1.5 text-[9px] font-bold px-1 py-0.5 rounded bg-detail-soft text-detail align-middle">补录</span>}
+                </div>
                 <div className="text-[11px] text-muted">{ipo.sector !== '—' ? `${ipo.sector} · ` : ''}{ipo.exchange}</div>
               </div>
               <div className="text-right shrink-0">
                 <div className="text-sm font-bold tnum">${ipo.priceRange[0]}{ipo.priceRange[1] !== ipo.priceRange[0] ? `–${ipo.priceRange[1]}` : ''}</div>
-                <div className="text-[11px] text-muted">定价区间</div>
+                <div className="text-[11px] text-muted">{ipo.valuation ? `估值 ${ipo.valuation}` : '定价区间'}</div>
               </div>
+            </>
+          )
+          // 补录条目（如 SpaceX）：尚无股票详情页 → 不跳转，改为展开券商 + 数据出处
+          if (ipo.curated) {
+            return (
+              <div key={ipo.ticker} className="p-3">
+                <div className="flex items-center gap-3">{head}</div>
+                <div className="pl-[3.75rem] mt-1.5 space-y-1">
+                  {ipo.brokers?.length ? (
+                    <div className="flex flex-wrap items-center gap-1">
+                      <span className="text-[10px] text-muted">可申购：</span>
+                      {ipo.brokers.map((b) => (
+                        <span key={b} className="text-[10px] font-semibold px-1.5 py-0.5 rounded bg-canvas border border-line text-ink">{b}</span>
+                      ))}
+                    </div>
+                  ) : null}
+                  {ipo.note && <div className="text-[11px] text-muted leading-snug">{ipo.note}</div>}
+                  {ipo.source && (
+                    <a href={ipo.source} target="_blank" rel="noreferrer" className="text-[11px] text-brand hover:underline">数据来源 ↗</a>
+                  )}
+                </div>
+              </div>
+            )
+          }
+          return (
+            <Link key={ipo.ticker} to={`/stock/${ipo.ticker}`} className="flex items-center gap-3 p-3 hover:bg-canvas rounded-lg">
+              {head}
             </Link>
           )
         })}

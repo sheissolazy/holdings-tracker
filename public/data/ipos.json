@@ -130,5 +130,29 @@
     "sector": "—",
     "exchange": "NASDAQ Global",
     "status": "expected"
+  },
+  {
+    "ticker": "SPCX",
+    "tickerPending": true,
+    "name": "SpaceX",
+    "date": "2026-06-12",
+    "priceRange": [
+      135.0,
+      135.0
+    ],
+    "sector": "航天 / 卫星互联网",
+    "exchange": "Nasdaq",
+    "status": "expected",
+    "valuation": "约 $1.77T",
+    "brokers": [
+      "Robinhood",
+      "Fidelity",
+      "Schwab",
+      "SoFi"
+    ],
+    "note": "保密申报(4/1)，路演固定价 $135；约 30% 配售零售，券商需符合各自资格",
+    "source": "https://fortune.com/2026/06/03/spacex-ipo-share-price-index-funds-valuation-public/",
+    "as_of": "2026-06-03",
+    "curated": true
   }
 ]

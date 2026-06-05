@@ -266,24 +266,33 @@ export default function Briefing() {
           <Card className="p-2 divide-y divide-line">
             {requestable.length ? requestable.slice(0, 6).map((ipo) => {
               const d = daysTo(ipo.date, today)
-              return (
-                <Link key={ipo.ticker} to={`/stock/${ipo.ticker}`} className="flex items-center gap-2 p-2 hover:bg-canvas rounded-lg">
+              const body = (
+                <>
                   <div className="flex-1 min-w-0">
-                    <div className="text-sm font-semibold truncate">{ipo.name}</div>
+                    <div className="text-sm font-semibold truncate">
+                      {ipo.name}
+                      {ipo.curated && <span className="ml-1 text-[9px] font-bold px-1 py-0.5 rounded bg-detail-soft text-detail align-middle">补录</span>}
+                    </div>
                     <div className="text-[11px] text-muted truncate">{ipo.sector !== '—' ? `${ipo.sector} · ` : ''}{ipo.exchange}</div>
                   </div>
                   <div className="text-right shrink-0">
-                    <div className="text-xs tnum">${ipo.priceRange[0]}{ipo.priceRange[1] !== ipo.priceRange[0] ? `–${ipo.priceRange[1]}` : ''}</div>
+                    <div className="text-xs tnum">{ipo.valuation ?? `$${ipo.priceRange[0]}${ipo.priceRange[1] !== ipo.priceRange[0] ? `–${ipo.priceRange[1]}` : ''}`}</div>
                     <div className={cx('text-[11px] font-bold', d <= 3 ? 'text-coral' : 'text-muted')}>
                       {d <= 0 ? '今日定价' : `${d} 天后`}
                     </div>
                   </div>
-                </Link>
+                </>
+              )
+              return ipo.curated ? (
+                <div key={ipo.ticker} className="flex items-center gap-2 p-2">{body}</div>
+              ) : (
+                <Link key={ipo.ticker} to={`/stock/${ipo.ticker}`} className="flex items-center gap-2 p-2 hover:bg-canvas rounded-lg">{body}</Link>
               )
             }) : <p className="text-sm text-muted p-3">当前暂无可申购的 IPO。</p>}
           </Card>
           <p className="text-[11px] text-muted px-1 mt-1.5 leading-snug">
-            仅含已向 SEC 递交招股书的标的；SpaceX 等未上市私有公司不在此列表，需在券商（如 Robinhood IPO Access）单独申请。
+            含自动 IPO 日历 + 人工补录的大型标的（标「补录」者，如 SpaceX，均带数据来源）。
+            <Link to="/ipos" className="text-brand">查看全部及券商 →</Link>
           </p>
 
           {market.length > 0 && (

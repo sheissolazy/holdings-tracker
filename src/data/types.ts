@@ -114,4 +114,11 @@ export interface IPOItem {
   sector: string
   exchange: string
   status?: string              // expected（待定价，可申购）/ priced（已定价）/ filed（已申报）
+  // ---- 人工维护的大型/保密申报标的（如 SpaceX）专用，均带 source 引用 ----
+  curated?: boolean            // true=人工补录（免费 IPO 日历未覆盖），前端标注来源
+  valuation?: string           // 路演/最新估值，如 "约 $1.77T"
+  brokers?: string[]           // 可申购券商：Robinhood / Fidelity / Schwab / SoFi
+  note?: string                // 简短说明（保密申报、配额等）
+  source?: string              // 数据出处 URL（可点击核实）
+  tickerPending?: boolean      // ticker 为拟用/未官宣
 }
