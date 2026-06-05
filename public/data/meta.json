@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T01:19:19Z",
+  "generatedAt": "2026-06-05T01:41:34Z",
   "mode": "live",
   "sources": {
     "13f": "SEC EDGAR",
@@ -21,11 +21,11 @@
   ],
   "health": {
     "x": "ok",
-    "checkedAt": "2026-06-05T01:19:19Z"
+    "checkedAt": "2026-06-05T01:41:34Z"
   },
   "counts": {
     "people": 8,
-    "signals": 68,
+    "signals": 69,
     "news": 41,
     "ipos": 4,
     "stocks": 5
