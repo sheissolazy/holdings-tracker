@@ -65,10 +65,22 @@
     "chgPct": -3.86,
     "asOf": "2026-06-05"
   },
+  "COIN": {
+    "price": 152.4,
+    "prevClose": 189.03,
+    "chgPct": -19.38,
+    "asOf": "2026-06-05"
+  },
   "CORZ": {
     "price": 25.85,
     "prevClose": 26.85,
     "chgPct": -3.72,
+    "asOf": "2026-06-05"
+  },
+  "CRCL": {
+    "price": 80.28,
+    "prevClose": 113.0,
+    "chgPct": -28.96,
     "asOf": "2026-06-05"
   },
   "CRWV": {
@@ -101,9 +113,27 @@
     "chgPct": -1.13,
     "asOf": "2026-06-05"
   },
+  "GFS": {
+    "price": 75.53,
+    "prevClose": 79.97,
+    "chgPct": -5.55,
+    "asOf": "2026-06-05"
+  },
   "GOOGL": {
     "price": 368.53,
     "prevClose": 380.34,
+    "chgPct": -3.11,
+    "asOf": "2026-06-05"
+  },
+  "HOOD": {
+    "price": 82.47,
+    "prevClose": 94.3,
+    "chgPct": -12.55,
+    "asOf": "2026-06-05"
+  },
+  "JBL": {
+    "price": 353.24,
+    "prevClose": 364.56,
     "chgPct": -3.11,
     "asOf": "2026-06-05"
   },
@@ -135,6 +165,12 @@
     "price": 451.35,
     "prevClose": 453.25,
     "chgPct": -0.42,
+    "asOf": "2026-06-05"
+  },
+  "META": {
+    "price": 593.0,
+    "prevClose": 632.51,
+    "chgPct": -6.25,
     "asOf": "2026-06-05"
   },
   "MRVL": {
