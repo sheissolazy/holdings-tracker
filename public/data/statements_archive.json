@@ -1,0 +1,22 @@
+[
+  {
+    "personId": "jensen",
+    "type": "statement",
+    "asOf": "2026-06-04",
+    "sentiment": "watch",
+    "excerpt": "Marvell Keep Surging After Nvidia CEO Calls It the Next Trillion-Dollar Company",
+    "postUrl": "https://finnhub.io/api/news?id=1eb2dd7574423b06cf0c92f6695878d475f6b339d785cc68723777beba111e15",
+    "topics": [],
+    "ticker": "MRVL"
+  },
+  {
+    "personId": "jensen",
+    "type": "statement",
+    "asOf": "2026-06-04",
+    "sentiment": "watch",
+    "excerpt": "Jensen Huang's $70 Billion Endorsement Didn't Eliminate Marvell's Risks",
+    "postUrl": "https://finnhub.io/api/news?id=a906626103b426bce655d4284ffc75f96c393b6295030bbc87be4ebb82386cdf",
+    "topics": [],
+    "ticker": "MRVL"
+  }
+]

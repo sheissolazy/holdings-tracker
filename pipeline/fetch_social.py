@@ -220,7 +220,10 @@ def _x_tweets(uid, count=20):
             text = note.strip()
         text = html.unescape(text)   # &gt; &amp; → > & 等，避免原文显示转义实体
         out.append({"id": leg.get("id_str"), "text": text,
-                    "created": leg.get("created_at", "")})
+                    "created": leg.get("created_at", ""),
+                    # 用于过滤「掐头去尾」的只言片语：回复别人 / 引用推（缺被引上下文）
+                    "reply_to_uid": leg.get("in_reply_to_user_id_str"),
+                    "is_quote": bool(leg.get("is_quote_status"))})
     return out
 
 
@@ -242,7 +245,11 @@ def fetch_x(pid, handle, days=7):
       - 命中 ticker：照旧每个 ticker 一条（驱动首页「共识 / 分歧」）。
       - 仅命中市场主题：打主题标签的「无 ticker」信号。
       - 两者都没命中：仍产一条「无 ticker」原创帖信号（这就是用户想看到的「全部发帖」）。
-    转推(RT) / 纯图片无正文 → 跳过（非本人内容 / 无可读文本）。
+    过滤噪音（掐头去尾、无意义的只言片语）：
+      - 转推(RT) / 纯图片无正文 → 跳过（非本人内容 / 无可读文本）。
+      - 回复别人的推 → 跳过（缺被回复的上下文，如 "Yes" / "Starlink"）；自串(thread)保留。
+      - 引用推(QT) 且未命中 ticker/主题 → 跳过（缺被引用内容、易误读）。
+      - 未命中 ticker/主题 且正文 <30 字 → 跳过（吐槽 / 单词回应）。
     """
     if not (X_AUTH and X_CT0):
         raise RuntimeError("缺 X_AUTH_TOKEN / X_CT0")
@@ -255,11 +262,21 @@ def fetch_x(pid, handle, days=7):
             continue
         if not text:                  # 纯图片/纯链接、无正文 → 无可读内容，跳过
             continue
+        # 回复别人的推 = 缺上下文的「掐头去尾」只言片语（如 "Yes" / "Starlink"）→ 跳过；
+        #   自串（thread，回复自己）保留，因为它是完整论述的一部分。
+        if tw.get("reply_to_uid") and tw["reply_to_uid"] != uid:
+            continue
         date = _parse_created(tw["created"])
         if date and dt.date.fromisoformat(date) < cutoff:
             continue
         tickers = _match_tickers(text)
         topics = _match_topics(text)
+        # 引用推（QT）若没命中 ticker/主题 → 缺被引用的上下文、易误读 → 跳过
+        if tw.get("is_quote") and not tickers and not topics:
+            continue
+        # 既没命中 ticker/主题、又是极短发言（吐槽 / 单词回应）→ 噪音 → 跳过
+        if not tickers and not topics and len(text) < 30:
+            continue
         asof = date or _today_local().isoformat()
         post = f"https://x.com/{handle}/status/{tw['id']}"
         base = {"personId": pid, "type": "social", "asOf": asof,
