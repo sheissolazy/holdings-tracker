@@ -874,7 +874,7 @@
     },
     {
       "t": "2026-06-05",
-      "o": 312.99,
+      "o": 312.86,
       "h": 315.17,
       "l": 307.15,
       "c": 307.34
@@ -882,72 +882,107 @@
   ],
   "thesis": {
     "bull": [
-      "巴菲特旗下伯克希尔哈撒韦截至2026年一季度末持有约2.28亿股AAPL，仓位占比约22%且未减持，体现长线价值投资者对苹果基本面的持续高度认可。",
-      "苹果全球开发者大会（WWDC 2026）在即，市场预期AI升级版Siri及「Apple Intelligence」重大迭代将发布，有望成为催化换机周期的重要事件驱动因素。",
-      "服务业务（App Store、iCloud、Apple TV+等）持续贡献高毛利率收入，有效对冲硬件销售的周期性波动，盈利质量长期处于行业前列。"
+      "巴菲特旗下伯克希尔截至2026年3月底持有约2.28亿股苹果，仓位占比22%且持仓不变，长期价值投资者对苹果护城河持续认可",
+      "WWDC催化剂预期强烈：顶级投行分析师（如Dan Ives）预计苹果将在WWDC发布重大AI功能，或触发新一轮iPhone换机周期并推动AI生态估值重塑",
+      "服务业务（App Store、Apple Music、iCloud等）占比持续提升，高毛利率与强现金流特征降低对硬件销售周期的依赖，股票回购计划持续为股东创造回报"
     ],
     "bear": [
-      "国会议员佩洛西自2024年底至2025年底多次减持AAPL仓位，短短一年内累计四笔「trim」操作，显示部分资金选择在高位持续落袋，信号偏空。",
-      "博通（Broadcom）最新财报AI业务指引低于市场预期，拖累AI板块整体情绪，苹果作为AI概念的重要成分股难免受到板块联动压制。",
-      "美伊地缘局势升温推高全球油价，通胀压力或抑制消费者可支配收入，对高端消费电子品类形成需求端压制，苹果海外供应链成本亦面临不确定性。"
+      "南希·佩洛西自2024年底至2026年初累计四次披露减持苹果，聪明钱连续流出值得警惕",
+      "AI竞争格局严峻：英伟达、谷歌等在大模型与AI芯片领域明显领先，苹果AI布局相对滞后，若WWDC交付不及高预期，恐引发「买预期卖事实」式回调",
+      "AI营销诉讼和解带来品牌声誉及合规成本压力，叠加市场人士已警示某关键财务指标显示估值存在高估风险，多空分歧显著加大"
     ],
     "watch": [
-      "WWDC AI发布成色：若Apple Intelligence与AI版Siri功能超预期，有望触发新一轮升级周期；若功能平庸或关键特性推迟落地，当前较高估值将承压。",
-      "中国市场销售动态：中美贸易摩擦背景下华为等国产品牌加速替代，需追踪苹果大中华区季度营收及市场份额变化趋势。",
-      "美联储利率路径与市场流动性：高利率环境对高市盈率科技股估值形成系统性压制，宏观数据及联储前瞻指引将直接影响AAPL合理估值区间。"
+      "WWDC发布内容落地情况：AI功能深度与用户体验能否匹配市场高预期，是股价短期催化剂还是炒作兑现的卖点",
+      "中东地缘政治升级（美伊无人机冲突、霍尔木兹海峡紧张局势）可能推高油价并扰动全球供应链，苹果亚洲代工体系面临间接传导风险",
+      "广泛AI概念板块集体回调风险：近期英伟达、英特尔、Marvell等AI股同步下跌，市场情绪波动可能带动苹果估值被动压缩"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果公司（AAPL）是全球市值最高的科技企业之一，核心业务涵盖iPhone、Mac、iPad、可穿戴设备及服务五大板块。公司以硬件、软件与服务深度整合的生态体系著称，全球活跃设备用户逾十亿。近年来服务业务占营收比重持续攀升，成为对抗硬件周期的重要支柱，公司整体战略正从「硬件驱动」向「平台生态」加速转型。"
+        "body": "苹果公司（AAPL）是全球市值最高的科技企业之一，主营iPhone、Mac、iPad等硬件产品，并通过App Store、Apple Music、iCloud、Apple Pay等服务业务构建高粘性生态闭环。公司以设计美学、供应链管理和品牌溢价著称，在全球高端消费电子市场占据领导地位，活跃设备基数逾20亿台。"
       },
       {
-        "heading": "财务状况",
-        "body": "苹果长期维持强劲自由现金流，并通过持续的股票回购与分红向股东大规模返还资本。服务业务毛利率显著高于硬件，推动整体盈利质量稳步提升。当前需关注的核心变量包括：iPhone在全球智能手机市场增速放缓背景下的出货量天花板，以及在华销售承压对整体营收增长斜率的影响。"
+        "heading": "基本面分析",
+        "body": "苹果近年持续推进业务结构转型，服务业务收入占比与毛利率均高于硬件部门，有助于平滑硬件销售周期波动。公司现金流充沛，长期执行大规模股票回购与股息计划，为股东创造持续回报。然而，已有分析人士指出某项关键财务指标发出谨慎信号，提示当前估值可能已充分定价利好，上行空间有限。"
       },
       {
-        "heading": "AI战略与竞争",
-        "body": "苹果于2025年推出「Apple Intelligence」框架，主打端侧隐私计算与云端协同的差异化路径。即将举行的WWDC 2026被市场视为AI能力重大升级的关键节点，外界普遍预期AI Siri将大幅提升自然语言理解与任务执行能力。然而与谷歌Gemini、微软Copilot相比，部分分析师认为苹果在AI功能落地速度与广度上仍存在差距，竞争压力不容小觑。"
+        "heading": "AI战略与催化剂",
+        "body": "AI是当前市场对苹果最核心的分歧点。乐观派认为，苹果庞大的活跃设备基础一旦深度整合AI功能，将形成难以复制的端侧AI护城河并驱动换机潮；悲观派则担忧苹果在大模型自研和AI算力方面与英伟达、谷歌存在明显差距，AI叙事能否转化为实质业绩尚待验证。即将召开的WWDC是近期最关键的观察窗口。"
       },
       {
-        "heading": "宏观与地缘风险",
-        "body": "当前宏观环境不确定性显著上升：美伊军事冲突风险及霍尔木兹海峡紧张局势推高国际油价，通胀预期升温可能压缩消费者购买力；中美贸易摩擦尚未完全缓和，关税政策对苹果在华生产成本及销售均构成潜在威胁。全球供应链重构加速也要求苹果持续加大印度、越南等地产能迁移的资本投入。"
+        "heading": "机构投资者动向",
+        "body": "巴菲特截至2026年3月底维持约2.28亿股持仓不变，占伯克希尔组合权重约22%，为市场提供重要的长期价值背书。佩洛西方面信号分化：2025年12月曾新建多头头寸，但同期及此后多次披露减持退出，2024年底至2026年初累计出现四次减持记录，显示聪明钱对短期风险回报存在顾虑，多空信号并存。"
       },
       {
-        "heading": "机构动向分析",
-        "body": "持仓层面出现明显分歧：巴菲特旗下伯克希尔持有苹果22%仓位且按兵不动，代表长线价值资金的坚定信心；而政治人物佩洛西在2024至2025年间多次分批减仓，显示部分资金选择高位逐步退出。两方向动向并存，折射出市场参与者对苹果中短期走势存在实质性分歧，投资者需结合自身持仓周期审慎判断。"
+        "heading": "风险因素",
+        "body": "主要风险包括：AI功能交付不及预期导致的估值回调；AI营销诉讼和解带来的品牌声誉与合规成本压力；中东地缘政治冲突升级可能影响全球供应链及消费者信心；整体AI概念股回调情绪向大盘权重股蔓延；高油价对全球消费支出形成抑制，影响高端设备需求。"
       },
       {
-        "heading": "近期催化剂",
-        "body": "短期最重要的事件驱动因素为WWDC 2026，期权市场隐含波动率已反映出投资者对公告前后较大波幅的预期。中期看，下半年iPhone新品发布周期与Apple Intelligence功能的实际用户渗透率将是决定营收增速的关键变量。此外，SpaceX IPO等重大市场事件可能短期内虹吸资金，对AAPL形成流动性层面的干扰。"
+        "heading": "市场环境",
+        "body": "当前市场处于AI主题轮动期，英伟达、Marvell等AI硬件股近期出现集体回调，市场对AI估值泡沫化保持警惕。美伊冲突加剧地缘政治不确定性，油价上行压力干扰通胀预期。苹果作为大盘核心权重股，短期受宏观情绪与WWDC事件驱动明显，中长期走势取决于AI变现路径的可信度与消费复苏节奏。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
-        "name": "微软",
-        "note": "同为万亿美元科技巨头，Azure云计算与Copilot AI整合进展领先行业，服务收入占比更高，常被视为苹果AI竞争力的重要对标参照。"
+        "name": "微软公司",
+        "note": "同为万亿美元科技巨头，AI整合（Copilot）落地较苹果更激进，云业务Azure提供更直接的AI营收敞口，估值溢价相近但AI变现路径已更具体"
       },
       {
         "ticker": "GOOGL",
-        "name": "谷歌（Alphabet）",
-        "note": "Android生态与苹果iOS直接竞争，AI助手Gemini与Apple Intelligence正面交锋；伯克希尔近期承诺向Alphabet注资百亿美元参与AI基础设施建设，引发市场高度关注。"
+        "name": "Alphabet",
+        "note": "大模型（Gemini）与AI基础设施布局领先，广告与云双引擎驱动，安卓生态与iOS形成直接竞争，AI助手能力是苹果的重要参照系"
       },
       {
-        "ticker": "005930.KS",
+        "ticker": "SAMSUNG",
         "name": "三星电子",
-        "note": "全球智能手机市场份额最大竞争对手，Galaxy AI系列在中低端市场对苹果形成替代压力，尤其在中国及新兴市场渗透率持续提升。"
-      },
-      {
-        "ticker": "META",
-        "name": "Meta Platforms",
-        "note": "同属大盘科技核心成分，AI基础设施投入积极，其AR眼镜产品线与苹果Vision Pro在空间计算领域存在潜在正面竞争关系。"
+        "note": "全球最大安卓手机厂商，已率先在Galaxy系列推出端侧AI功能，是苹果AI手机叙事的直接竞争参照，但品牌溢价与生态粘性弱于苹果"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-06T00:28:49.059795Z"
+    "generatedAt": "2026-06-06T04:41:45.714556Z"
   },
   "news": [
+    {
+      "id": "AAPL-140546141",
+      "title": "Apple's Stock Could Be On The Verge Of A Major AI Breakout After WWDC, Says Top Investment Bank— But One Key Challenge Remains",
+      "source": "Yahoo",
+      "publishedAt": "2026-06-06",
+      "url": "https://finnhub.io/api/news?id=e26962b931c7c8b81ed53d5fe5b66d1939913f061ef4e5ca4273d3df6704d877",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-140545260",
+      "title": "Apple AI Lawsuit Settlement Puts Spotlight On iPhone Marketing And Risk",
+      "source": "Yahoo",
+      "publishedAt": "2026-06-06",
+      "url": "https://finnhub.io/api/news?id=142ec6d45b9001081847d764a895d3249adabcddf80d9c768341cfa41d91c4fd",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-140545261",
+      "title": "Apple Stock Looks Strong. One Number Says Be Careful.",
+      "source": "Yahoo",
+      "publishedAt": "2026-06-06",
+      "url": "https://finnhub.io/api/news?id=6e84a3bde83b5198b4c114ba9b0f282fe9e3d9c0747f70b8af344f2186868d46",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-140545262",
+      "title": "Why Dan Ives Sees Apple WWDC As A Major AI Catalyst for AAPL",
+      "source": "Yahoo",
+      "publishedAt": "2026-06-05",
+      "url": "https://finnhub.io/api/news?id=927c21b003aa25b0cd2674e2f6da5d482c75048662f5b813082eb11254848546",
+      "tags": [
+        "AAPL"
+      ]
+    },
     {
       "id": "AAPL-140544072",
       "title": "Apple (AAPL) Stock Moves -1.18%: What You Should Know",
@@ -964,46 +999,6 @@
       "source": "Yahoo",
       "publishedAt": "2026-06-05",
       "url": "https://finnhub.io/api/news?id=ccdbc2588262cc9729c28b65fe8800fa630c306eca838662c30fdd2f2540306b",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-140544073",
-      "title": "What investors can expect from Apple's WWDC",
-      "source": "Yahoo",
-      "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=cbe51cebeb5f36631efc69f3c7d76a3af4e97021ca520b35a7ee96a9d502465a",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-140542486",
-      "title": "Apple Has a Big Week Ahead With AI Siri Expected at WWDC. Here's How Much Traders See The Stock Moving",
-      "source": "Yahoo",
-      "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=1b586e35d118e342738278f93e3f8c6576c448f825940db7c46e0cb782d56dcb",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-140542487",
-      "title": "What Is The Biggest Threat To Google Stock?",
-      "source": "Yahoo",
-      "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=13dc952f639f742251766518dd5a237a7fdbbe92a2d8bb51c859766af9e24652",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-140540355",
-      "title": "AI Layoffs Already Have Surpassed Last Year’s Total. Tech Workers Are Being Cut First.",
-      "source": "Yahoo",
-      "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=25784f6155675cba4be302db17f529ddabcc13be5bf245b8f756b63d7a9ed268",
       "tags": [
         "AAPL"
       ]
