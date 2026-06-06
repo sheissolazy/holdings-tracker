@@ -1,7 +1,26 @@
 import { useParams, Link } from 'react-router-dom'
 import { useData } from '../data/DataProvider'
+import type { Signal } from '../data/types'
 import { Card, SectionTitle, Avatar, Sparkline, SignalCard, NewsRow } from '../components/ui'
 import { cx } from '../lib/format'
+
+// 同一条帖子（同 postUrl）若提及多只股票，会被拆成多条信号（用于首页共识）。
+//   在「个人动态」里把它们合并回一张卡，tickers 收集全部提及标的，避免重复刷屏。
+function groupByPost(sigs: Signal[]): { sig: Signal; tickers: string[] }[] {
+  const groups: { sig: Signal; tickers: string[] }[] = []
+  const idx = new Map<string, number>()
+  for (const s of sigs) {
+    const key = (s.type === 'social' || s.type === 'statement') && s.postUrl ? s.postUrl : null
+    if (key && idx.has(key)) {
+      const g = groups[idx.get(key)!]
+      if (s.ticker && !g.tickers.includes(s.ticker)) g.tickers.push(s.ticker)
+      continue
+    }
+    if (key) idx.set(key, groups.length)
+    groups.push({ sig: s, tickers: s.ticker ? [s.ticker] : [] })
+  }
+  return groups
+}
 
 export default function PersonDetail() {
   const { id } = useParams()
@@ -14,12 +33,13 @@ export default function PersonDetail() {
   if (isSource) return <SourceDetail p={p} />
 
   const sigs = signalsByPerson(p.id)
+  const grouped = groupByPost(sigs)   // 合并同帖多 ticker → 一卡
   const isSocial = p.signalTypes.every((t) => t === 'social' || t === 'statement')
   const tickers = [...new Set(sigs.map((s) => s.ticker).filter(Boolean))]
   const relNews = allNews.filter((n) => n.tags.includes(p.name.split(' ')[0]) || tickers.some((t) => n.tags.includes(t)))
 
   const stats = isSocial
-    ? [['喊单/言论', String(sigs.length)], ['提及标的', String(tickers.length)], ['平台', p.social?.platform.toUpperCase() ?? '—'], ['最近', sigs[0]?.asOf.slice(5) ?? '—']]
+    ? [['喊单/言论', String(grouped.length)], ['提及标的', String(tickers.length)], ['平台', p.social?.platform.toUpperCase() ?? '—'], ['最近', sigs[0]?.asOf.slice(5) ?? '—']]
     : [['持仓/信号', String(sigs.length)], ['涉及标的', String(tickers.length)], ['CIK', p.cik ?? '—'], ['最近申报', sigs[0]?.asOf ?? '—']]
 
   return (
@@ -64,7 +84,7 @@ export default function PersonDetail() {
         </div>
       )}
       <div className="grid sm:grid-cols-2 gap-3">
-        {sigs.map((s, i) => <SignalCard key={i} s={s} showPerson={false} showTicker />)}
+        {grouped.map((g, i) => <SignalCard key={i} s={g.sig} showPerson={false} showTicker tickers={g.tickers} />)}
       </div>
 
       {/* news */}
