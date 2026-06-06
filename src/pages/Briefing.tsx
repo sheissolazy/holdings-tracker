@@ -102,14 +102,6 @@ export default function Briefing() {
   const upcoming = [...events].filter((e) => e.date >= today).sort((a, b) => a.date.localeCompare(b.date))
   const recent = [...allNews].sort((a, b) => b.publishedAt.localeCompare(a.publishedAt)).slice(0, 8)
 
-  // 今日要点：从真实数据派生（无数据则不显示该卡）
-  const highlights: { t: string; d: string; c: string }[] = []
-  if (consensus) highlights.push({ t: '共识持仓', d: `${consensus.people} 位跟踪者持有 ${consensus.ticker}`, c: 'amber' })
-  if (divergence) highlights.push({ t: '多空分歧', d: `${divergence.ticker} 多空并存`, c: 'coral' })
-  if (upcoming[0]) highlights.push({ t: '即将事件', d: `${upcoming[0].date.slice(5)} ${upcoming[0].label}`, c: 'brand' })
-  if (recent[0]) highlights.push({ t: '最新动态', d: recent[0].title, c: 'detail' })
-  const cards = highlights.slice(0, 4)
-
   return (
     <div>
       <div className="flex items-end justify-between">
@@ -152,20 +144,6 @@ export default function Briefing() {
         </div>
       )}
 
-      {/* 今日要点（真实派生，空则隐藏） */}
-      {cards.length > 0 && (
-        <>
-          <SectionTitle>今日要点</SectionTitle>
-          <div className="grid grid-cols-2 lg:grid-cols-4 gap-3">
-            {cards.map((k) => (
-              <Card key={k.t} className={cx('p-3 border-l-4', k.c === 'detail' && 'border-l-detail', k.c === 'coral' && 'border-l-coral', k.c === 'amber' && 'border-l-amber', k.c === 'brand' && 'border-l-brand')}>
-                <div className="text-[11px] font-bold text-muted">{k.t}</div>
-                <div className="text-sm font-medium mt-1 leading-snug line-clamp-2">{k.d}</div>
-              </Card>
-            ))}
-          </div>
-        </>
-      )}
 
       {/* 抄作业：跟踪者最新买入（可跟随）—— 大道至简，放在最显眼处 */}
       {copyMoves.length > 0 && (

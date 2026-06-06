@@ -77,10 +77,12 @@ const TYPE_META: Record<SignalType, { label: string; ring: string; bg: string; t
 const CHANGE_LABEL: Record<string, string> = { new: '新建', add: '加仓', trim: '减仓', exit: '清仓', hold: '不变' }
 
 // 核心：按 signal.type 差异化展示「谁对这只票做了什么」
-export function SignalCard({ s, showPerson = true, showTicker = false }: { s: Signal; showPerson?: boolean; showTicker?: boolean }) {
+export function SignalCard({ s, showPerson = true, showTicker = false, tickers }: { s: Signal; showPerson?: boolean; showTicker?: boolean; tickers?: string[] }) {
   const { peopleById } = useData()
   const m = TYPE_META[s.type]
   const p = peopleById[s.personId]
+  // 同一条帖子若提及多只股票，合并为一张卡：展示全部 ticker（而非每只一张重复卡）
+  const tk = tickers && tickers.length > 0 ? tickers : (s.ticker ? [s.ticker] : [])
   return (
     <div className={cx('rounded-xl border p-3', m.ring, m.bg)}>
       <div className="flex items-center gap-2 mb-1.5">
@@ -91,10 +93,14 @@ export function SignalCard({ s, showPerson = true, showTicker = false }: { s: Si
               {p?.name}
             </Link>
           )}
-          {showTicker && s.ticker && (
-            <Link to={`/stock/${s.ticker}`} className="font-bold text-sm hover:underline">{s.ticker}</Link>
+          {showTicker && tk.length > 0 && (
+            <div className="flex flex-wrap items-center gap-x-2 gap-y-0.5">
+              {tk.map((t) => (
+                <Link key={t} to={`/stock/${t}`} className="font-bold text-sm text-brand hover:underline">{t}</Link>
+              ))}
+            </div>
           )}
-          {showTicker && !s.ticker && (
+          {showTicker && tk.length === 0 && (
             <span className="font-bold text-sm text-muted">市场评论</span>
           )}
         </div>

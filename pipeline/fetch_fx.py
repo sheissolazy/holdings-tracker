@@ -17,7 +17,7 @@ PAIRS = [
     ("CNY", "美元/人民币", "CNY%3DX"),
     ("JPY", "美元/日元",   "JPY%3DX"),
     ("KRW", "美元/韩元",   "KRW%3DX"),
-    ("EUR", "欧元/美元",   "EURUSD%3DX"),
+    ("EUR", "美元/欧元",   "EUR%3DX"),   # USD/EUR（统一美元在前），Yahoo EUR=X≈0.86
     ("CAD", "美元/加元",   "CAD%3DX"),
     # 人民币兑各国（1 人民币 = ? 外币），与 fetch_market 的「人民币」组对应
     ("CNYUSD", "人民币/美元", "CNYUSD%3DX"),
