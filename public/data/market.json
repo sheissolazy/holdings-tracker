@@ -72,10 +72,10 @@
     "code": "KRW"
   },
   {
-    "label": "欧元/美元",
-    "value": "1.1527",
-    "chg": "-0.7%",
-    "pos": false,
+    "label": "美元/欧元",
+    "value": "0.8675",
+    "chg": "+0.7%",
+    "pos": true,
     "group": "汇率",
     "kind": "fx",
     "code": "EUR"

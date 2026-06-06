@@ -6,7 +6,7 @@
   "price": 263.47,
   "change5dPct": 28.5,
   "changeYtdPct": 186.4,
-  "marketCap": "$247.4B",
+  "marketCap": "$230.5B",
   "pe": 101.0,
   "revenue": "—",
   "revenueYoYPct": 34,
@@ -882,123 +882,133 @@
   ],
   "thesis": {
     "bull": [
-      "纳入标普500指数：MRVL因AI景气推动盈利改善，通过标普500盈利资格测试并获正式纳入，将触发规模可观的被动基金强制建仓买盘，显著提升流动性与机构持仓占比。",
-      "定制ASIC与AI数据中心深度绑定：公司为亚马逊AWS、谷歌等超大规模云厂商提供定制AI加速芯片与高速网络互联方案，受益于超大规模数据中心资本开支持续扩张，营收成长能见度较高。",
-      "行业领袖万亿估值背书：NVIDIA CEO黄仁勋公开表示MRVL具备万亿美元市值潜力，显示其在AI供应链中的战略地位获业界高度认可，有助于强化市场对成长叙事的信心。"
+      "标普500纳入确认：2026年季度再平衡将MRVL纳入S&P 500，指数基金与ETF被动买盘形成结构性需求，短期内可吸收大量浮筹并提升机构持股比例。",
+      "CPO关键节点地位：社交信息显示MRVL在共封装光学（CPO）领域被视为「瓶颈与卡口」，其DSP芯片在下一代超大规模数据中心光互联方案中具备难以替代的技术壁垒。",
+      "NVIDIA CEO背书与万亿市值预期：有信息引用Jensen Huang曾公开提及MRVL具备万亿美元公司潜力，意味着AI定制芯片（ASIC）业务若持续渗透主要超大规模云厂商，长期TAM空间可观。"
     ],
     "bear": [
-      "芯片板块系统性抛售压力：近期纳斯达克指数单日跌幅达4.2%，AVGO财测指引未达市场预期引发AI芯片股集体估值重估，高溢价的MRVL在板块情绪逆转时面临较大的相对下行风险。",
-      "CPO供应链存在关键瓶颈：共封装光学（CPO）所需的连续波（CW）激光器供货受限，相关上游厂商财报已发出产能警示，可能实质性延迟MRVL光互联业务的规模化收入兑现节点。",
-      "客户集中度与自研芯片替代风险：MRVL定制ASIC收入高度依赖少数云厂商，若主要客户调整自研芯片策略或延后采购节奏，将对营收造成不成比例的冲击，长期竞争护城河存在争议。"
+      "竞争对手业绩给出警示信号：Broadcom（AVGO）2027年营收目标未上调引发市场失望，股价大跌，暗示AI资本支出预期或有边际降温，MRVL作为同类AI基础设施供应商难免受传导影响。",
+      "CW激光器供应链瓶颈：社交信息引用Lumentum（LITE）财报信号显示连续波激光器出现供应紧张，若上游光源持续受限，MRVL所主导的CPO方案量产时程将面临推迟风险。",
+      "纳入S&P 500后「卖消息」效应：MRVL股价在公告后盘后即大涨，同时有新闻显示次日股价下挫，市场已提前定价利好，后续若业绩或指引未及预期，回调空间较大。"
     ],
     "watch": [
-      "标普500纳入后的资金流向节奏：观察被动指数基金完成建仓的规模与时间窗口，以及主动型机构是否借机增持或在「利好兑现」时段减仓，将直接影响短期股价走势。",
-      "CPO与CW激光器供应改善时间表：关注上游激光器产能扩张节点及MRVL自身光电共封装产品的量产里程碑，此为下一阶段增长逻辑能否按时兑现的核心观测指标。",
-      "超大规模云厂商AI资本开支指引变化：亚马逊、谷歌、微软等主要客户的AI基础设施投资规划若出现上调或下修，将直接传导至MRVL的订单能见度与管理层业绩指引。"
+      "CPO量产节奏：密切跟踪Lumentum等CW激光器厂商的产能爬坡进度，以判断MRVL CPO方案能否在2027年前实现规模收入贡献。",
+      "超大规模云厂商定制芯片采购动态：AVGO与MRVL均在竞争Google、亚马逊、微软等客户的ASIC设计单，任何客户集中度变化或新项目公告均可能大幅重估公司估值。",
+      "中东地缘局势与油价走势：伊朗相关紧张态势升级可能推高油价，进而压制宏观风险偏好，对估值倍数偏高的半导体成长股构成外部压力，需关注事态演变。"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Marvell Technology（纳斯达克：MRVL）是一家专注于数据基础设施半导体的无晶圆厂芯片设计公司，产品线涵盖定制AI加速芯片、云端网络互联DSP、运营商网络及汽车存储等领域。近年来公司战略重心加速向AI数据中心倾斜，与超大规模云厂商深度合作开发定制ASIC，在通用GPU之外形成差异化定位。2026年MRVL成功通过标普500盈利资格测试并获纳入，标志着其从周期性半导体公司向AI基础设施核心供应商的转型在市场层面获得重要认可。"
+        "body": "Marvell Technology（MRVL）是一家专注于数据基础设施的半导体公司，产品线涵盖以太网交换芯片、PAM4 DSP、存储控制器及定制ASIC，主要服务于云数据中心、电信及汽车市场。近年来公司战略重心持续向AI与光互联基础设施倾斜，并于2026年6月确认被纳入标普500指数，标志着其市值与流动性已达到大型指数成分股门槛。"
       },
       {
-        "heading": "AI与数据中心业务",
-        "body": "MRVL的AI收入主要来自两大支柱：一是为云厂商量身定制的ASIC训练及推理芯片，二是高速数据中心互联芯片组（包括PAM4 DSP与相干光模块驱动）。随着大模型参数规模持续扩张，推理集群对低延迟、高带宽互联的需求推动网络芯片组单机架附加值不断提升。NVIDIA CEO黄仁勋曾公开将MRVL列为具备万亿美元潜力的企业，反映出其在AI硬件生态中被业界视为不可替代的配套角色。"
+        "heading": "AI定制芯片业务",
+        "body": "MRVL在为超大规模云厂商设计定制AI训练与推理芯片（ASIC）方面积累了一定先发优势，与Broadcom并列为该赛道的主要非英伟达选项。据市场人士援引NVIDIA CEO言论，MRVL被认为具备成为万亿美元市值公司的潜力，核心逻辑在于云厂商为降低对NVIDIA GPU的依赖而持续加大ASIC投入，MRVL有望承接多个大客户的长期设计量产订单。"
       },
       {
-        "heading": "标普500纳入的市场影响",
-        "body": "MRVL被纳入标普500是近期最具催化意义的结构性事件。追踪该指数的被动基金规模庞大，纳入将带来可量化的强制性机构买盘；与此同时，分析师覆盖广度与股票流动性的提升有助于压缩中小市值折价。历史数据显示，新成分股在宣布日至正式生效日期间往往录得超额回报，但生效后短期存在「利好兑现」卖压规律，投资者需关注具体建仓时间窗口与市场整体风险偏好的配合程度。"
+        "heading": "CPO与光互联机遇",
+        "body": "共封装光学（CPO）被认为是下一代超高速数据中心互联的关键技术，MRVL的DSP芯片在CPO模组中扮演「信号处理核心」角色，市场观察人士将其定性为该技术路径上的卡口供应商。然而，CW（连续波）激光器的供应瓶颈（已由Lumentum等厂商财报信号所印证）可能延缓整个CPO生态的量产时程，进而影响MRVL相关收入的兑现节奏。"
       },
       {
-        "heading": "CPO与光互联技术机遇",
-        "body": "共封装光学（CPO）被业界视为下一代超高速数据中心交换架构的核心技术，MRVL在该领域布局较早，拥有硅光子与DSP整合方案。然而，驱动CPO的连续波激光器（CW Laser）供应目前仍是整体供应链的瓶颈，上游厂商财报已对产能受限发出明确信号。若激光器供给无法在2027年前大幅扩张，CPO规模化落地将面临时间延迟风险，进而推后MRVL在该赛道的收入兑现节点，这一供应链约束是当前社区研究者持续追踪的关键变量。"
+        "heading": "标普500纳入效应",
+        "body": "2026年二季度末的指数季度再平衡将MRVL正式纳入S&P 500，短期内追踪该指数的被动基金须按市值权重强制买入，提供额外的购买力支撑。纳入指数通常也带来更高的分析师覆盖率与机构认知度，有助于长期估值提升。但历史经验表明，纳入公告日至正式生效日之间股价往往已充分反应利好，实际生效后出现回调的案例不在少数。"
       },
       {
-        "heading": "财务状况与估值",
-        "body": "MRVL当前估值处于高成长半导体公司典型的溢价区间，市场定价已部分反映未来AI营收的高增速预期。公司盈利改善是纳入标普500的前提，但相较于同业AVGO，MRVL的自由现金流转化率与股息政策尚不突出。在利率仍处相对高位的环境下，高市盈率成长股对宏观预期敏感度较高；同期AVGO财测未达预期引发的板块联动抛售表明，AI芯片需求叙事的任何预期差都可能导致估值快速收缩，这对MRVL的溢价估值构成双向压力。"
+        "heading": "竞争格局",
+        "body": "MRVL在核心战场上面临多方竞争：Broadcom（AVGO）在定制ASIC与交换芯片领域是最直接的对手；英特尔与Coherent在部分光互联环节形成交叉竞争；NVIDIA则通过自研网络芯片（如Spectrum-X）向下游延伸。AVGO近期业绩电话会虽重申2027年百亿美元营收目标但未上调，市场反应冷淡，显示AI基础设施竞争格局的激烈程度已让投资者对单一公司的增长确定性持更审慎态度。"
       },
       {
-        "heading": "风险与展望",
-        "body": "主要风险维度包括：宏观层面，中东地缘紧张局势推升油价，可能加剧通胀预期并压制高估值科技股；竞争层面，超大规模云厂商持续加大自研芯片投入，长期存在替代定制ASIC需求的可能；供应链层面，CPO上游激光器瓶颈若持续将对管理层指引形成下行压力。展望而言，若CW激光器供给在2027年得到释放、主要云厂商资本开支指引上调，MRVL有望迎来业绩与估值的双重修复；反之，若AI投资节奏整体放缓或客户自研加速，当前高估值将面临较大均值回归压力。多空分歧的核心在于：AI定制芯片需求的持续性以及MRVL能否将技术领先转化为可持续的定价权。"
+        "heading": "风险提示",
+        "body": "主要风险包括：第一，客户集中度风险，若一家或两家超大规模云厂商调整ASIC采购策略，对MRVL收入冲击将较为显著；第二，技术路线风险，CPO相对于传统可插拔光模块的商业化进程若不及预期，相关投资回报将延后；第三，宏观与地缘风险，中东局势持续紧张推高油价可能压制市场风险偏好，进而拖累高估值成长股；第四，估值风险，在S&P 500纳入带来的股价抬升后，MRVL当前估值已包含较多乐观预期，容错空间收窄。"
       }
     ],
     "comparables": [
       {
         "ticker": "AVGO",
-        "name": "Broadcom Inc.",
-        "note": "定制ASIC与AI网络芯片最直接可比对象，同样服务于超大规模云厂商，近期AI收入指引未达市场预期引发板块联动下跌，是观察MRVL相对估值与需求景气的重要参照系。"
+        "name": "Broadcom",
+        "note": "AI定制芯片与以太网交换芯片最直接的竞争对手，2027年营收目标百亿美元级别，是判断超大规模云厂商ASIC需求景气度的重要参照。"
+      },
+      {
+        "ticker": "LITE",
+        "name": "Lumentum",
+        "note": "CW激光器关键上游供应商，其产能与财报指引是CPO量产节奏的先行指标，对MRVL光互联业务时程具有直接传导影响。"
       },
       {
         "ticker": "NVDA",
-        "name": "NVIDIA Corporation",
-        "note": "AI芯片生态领导者，黄仁勋曾公开看好MRVL万亿估值潜力，NVDA数据中心收入增速走势对整个AI芯片板块情绪具有领先指示作用，其资本开支生态也是MRVL客户网络的核心组成部分。"
+        "name": "NVIDIA",
+        "note": "GPU生态主导者，MRVL定制ASIC业务的成长逻辑部分依赖于云厂商寻求替代或补充NVIDIA解决方案的意愿，两者呈现竞合关系。"
       },
       {
         "ticker": "ANET",
         "name": "Arista Networks",
-        "note": "高速数据中心网络设备龙头，与MRVL在交换机ASIC及光互联领域形成上下游协同关系，其企业与云端客户的资本开支展望可折射AI组网需求的真实温度，具有交叉验证价值。"
+        "note": "数据中心网络设备厂商，与MRVL在以太网交换芯片及AI集群网络方案上形成局部竞争，亦是观察AI数据中心资本支出景气的同类参照。"
+      },
+      {
+        "ticker": "MCHP",
+        "name": "Microchip Technology",
+        "note": "半导体行业估值横向参照，两者均为非GPU半导体公司，可用于比较景气周期敏感度与估值溢价差异。"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-05T23:56:54.530209Z"
+    "generatedAt": "2026-06-06T00:26:26.191875Z"
   },
   "news": [
     {
-      "id": "MRVL-140542918",
-      "title": "Chips sector bloodbath drags Nasdaq down 4.2%",
+      "id": "MRVL-140544082",
+      "title": "Marvell Technology and IPG Photonics Shares Are Falling, What You Need To Know",
       "source": "Yahoo",
       "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=dc39565c4f3b2861b1efd8eeef4f78ef9dba4cbae97a075df51d1cac6764a458",
+      "url": "https://finnhub.io/api/news?id=958cc2ff048de03b1536817f01104d05dfe8acf106a21c36c0b5b0e8df09a97d",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140542468",
-      "title": "Decoding AVGO Stock's Premium Valuation",
+      "id": "MRVL-140544215",
+      "title": "Marvell Technology and Flex Set to Join S&P 500; Others to Join S&P MidCap 400 and S&P SmallCap 600",
       "source": "Yahoo",
       "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=c472e8d6fca8c0a56b866ebec95afe82b8736f9d0d0773900af5263cf104c947",
+      "url": "https://finnhub.io/api/news?id=ce8ca14fb9e7396edeaa2b67edaac0ce941777779c6899d1d17ace81b221cad2",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140542471",
-      "title": "Marvell to join S&P 500 after AI boom helps chipmaker pass profitability test",
+      "id": "MRVL-140544361",
+      "title": "MRVL Stock Jumps After-Hours On S&P 500 Inclusion",
       "source": "Yahoo",
       "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=79d074e9980e5eb8c4f0989e98374f9fab33be2a6315aea7298ac8977e251c8a",
+      "url": "https://finnhub.io/api/news?id=92bf489d942043311761606e2589fcd78e14dbaa9ed7c5498bb7238edea7ac1a",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140542477",
-      "title": "50% Upside For AVGO Stock?",
+      "id": "MRVL-140544062",
+      "title": "Marvell stock pops after S&P 500 inclusion announcement",
       "source": "Yahoo",
       "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=b3aaed6023aeae7978432a07c32c64f49ea67880fa343a585e43961412d953f0",
+      "url": "https://finnhub.io/api/news?id=171d0ee958e94fae2e6863a562a78bddf68758efde14553949afd8946842a492",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140542922",
-      "title": "2 Reasons to Like MRVL (and 1 Not So Much)",
+      "id": "MRVL-140544362",
+      "title": "Marvell Technology, Flex To Join S&P 500 Index In Quarterly Rebalance",
       "source": "Yahoo",
       "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=0645be64aee1ad6f8403a77bcc1a144ba21739751a38fee44dd68113d421b616",
+      "url": "https://finnhub.io/api/news?id=ab248fa20d8287152496942db2ae8a08e744878f42e386fcfcec45bd79198234",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140542481",
-      "title": "The Tech Stock Sell-Off Isn't Worrying Some Stock-Market Experts. Is a 'Bubble' About to Pop?",
+      "id": "MRVL-140544066",
+      "title": "Marvell Stock Was Just Added to S&P 500. Here’s Who Else Was Included and Bumped.",
       "source": "Yahoo",
       "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=30c96a1ef01ed1ccabd2316d7d26601df99b5bee8b27d510972755d66b099acc",
+      "url": "https://finnhub.io/api/news?id=3ed33964844b41ae673193fe221cb4d18cf6da205b3fd23ee86ecb62a6a480cf",
       "tags": [
         "MRVL"
       ]

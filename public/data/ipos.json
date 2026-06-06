@@ -46,41 +46,5 @@
     "sector": "—",
     "exchange": "NYSE",
     "status": "expected"
-  },
-  {
-    "ticker": "FTRAU",
-    "name": "FutureCorp Space Acquisition 1",
-    "date": "2026-06-05",
-    "priceRange": [
-      10.0,
-      10.0
-    ],
-    "sector": "—",
-    "exchange": "NYSE",
-    "status": "expected"
-  },
-  {
-    "ticker": "WHK",
-    "name": "WhiteHawk Income Corp",
-    "date": "2026-06-05",
-    "priceRange": [
-      25.0,
-      27.0
-    ],
-    "sector": "—",
-    "exchange": "NYSE",
-    "status": "expected"
-  },
-  {
-    "ticker": "IDIAU",
-    "name": "Innovative Digital Investors Acquisition Corp.",
-    "date": "2026-06-05",
-    "priceRange": [
-      10.0,
-      10.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global",
-    "status": "expected"
   }
 ]
