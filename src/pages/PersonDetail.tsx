@@ -39,7 +39,7 @@ export default function PersonDetail() {
   const relNews = allNews.filter((n) => n.tags.includes(p.name.split(' ')[0]) || tickers.some((t) => n.tags.includes(t)))
 
   const stats = isSocial
-    ? [['喊单/言论', String(grouped.length)], ['提及标的', String(tickers.length)], ['平台', p.social?.platform.toUpperCase() ?? '—'], ['最近', sigs[0]?.asOf.slice(5) ?? '—']]
+    ? [['动态/言论', String(grouped.length)], ['提及标的', String(tickers.length)], ['平台', p.social?.platform.toUpperCase() ?? '—'], ['最近', sigs[0]?.asOf.slice(5) ?? '—']]
     : [['持仓/信号', String(sigs.length)], ['涉及标的', String(tickers.length)], ['CIK', p.cik ?? '—'], ['最近申报', sigs[0]?.asOf ?? '—']]
 
   return (
@@ -74,7 +74,7 @@ export default function PersonDetail() {
 
       {/* signals */}
       <SectionTitle action={!isSocial && sigs.length > 0 ? <Link to={`/holdings/${p.id}`} className="text-xs text-brand">完整持仓 →</Link> : undefined}>
-        {isSocial ? '近期喊单 / 言论' : '本季度操作 / 持仓'}
+        {isSocial ? '近期动态 / 言论' : '本季度操作 / 持仓'}
       </SectionTitle>
       {!isSocial && sigs.some((s) => s.type === 'options') && (
         <div className="mb-2 rounded-xl bg-canvas border border-line text-muted text-[11px] leading-snug px-3 py-2">

@@ -69,7 +69,7 @@ const TYPE_META: Record<SignalType, { label: string; ring: string; bg: string; t
   '13f':       { label: '13F 持仓', ring: 'border-detail/40', bg: 'bg-detail-soft', text: 'text-detail' },
   options:     { label: '期权',     ring: 'border-amber/40',  bg: 'bg-amber-soft',  text: 'text-amber-700' },
   ptr:         { label: 'Congress', ring: 'border-coral/50',  bg: 'bg-coral-soft',  text: 'text-coral' },
-  social:      { label: '社交喊单', ring: 'border-brand/40',  bg: 'bg-brand-soft',  text: 'text-brand' },
+  social:      { label: '社交动态', ring: 'border-brand/40',  bg: 'bg-brand-soft',  text: 'text-brand' },
   statement:   { label: '公开言论', ring: 'border-amber/40',  bg: 'bg-amber-soft',  text: 'text-amber-700' },
   wechat:      { label: '公众号',   ring: 'border-detail/40', bg: 'bg-detail-soft', text: 'text-detail' },
 }
@@ -193,7 +193,7 @@ export function EvidencePanel(
     people >= 2 && (signalCount >= 3 || newsCount >= 3) ? 'high'
     : people >= 1 || signalCount >= 1 || newsCount >= 2 ? 'med' : 'low'
   const m = CONF_META[conf]
-  const TYPE_CN: Record<string, string> = { '13f': '13F 持仓', options: '期权', ptr: '国会交易', social: '社交喊单', statement: '公开言论' }
+  const TYPE_CN: Record<string, string> = { '13f': '13F 持仓', options: '期权', ptr: '国会交易', social: '社交动态', statement: '公开言论' }
   const types = [...new Set(signalTypes)].map((t) => TYPE_CN[t] ?? t)
   return (
     <Card className="p-3 mt-3">
