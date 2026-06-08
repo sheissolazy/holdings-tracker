@@ -1,272 +1,290 @@
 {
   "AAOI": {
-    "price": 177.0,
-    "prevClose": 158.41,
-    "chgPct": 11.74,
-    "asOf": "2026-06-06"
+    "price": 196.64,
+    "prevClose": 185.67,
+    "chgPct": 5.91,
+    "asOf": "2026-06-08"
   },
   "AAPL": {
-    "price": 307.34,
-    "prevClose": 312.06,
-    "chgPct": -1.51,
-    "asOf": "2026-06-06"
+    "price": 301.54,
+    "prevClose": 306.31,
+    "chgPct": -1.56,
+    "asOf": "2026-06-08"
   },
   "AB": {
-    "price": 37.26,
-    "prevClose": 37.14,
-    "chgPct": 0.32,
-    "asOf": "2026-06-06"
+    "price": 36.65,
+    "prevClose": 37.25,
+    "chgPct": -1.61,
+    "asOf": "2026-06-08"
+  },
+  "AEHR": {
+    "price": 95.58,
+    "prevClose": 93.62,
+    "chgPct": 2.09,
+    "asOf": "2026-06-08"
+  },
+  "AMAT": {
+    "price": 492.17,
+    "prevClose": 458.17,
+    "chgPct": 7.42,
+    "asOf": "2026-06-08"
   },
   "AMD": {
-    "price": 466.38,
-    "prevClose": 516.1,
-    "chgPct": -9.63,
-    "asOf": "2026-06-06"
+    "price": 490.33,
+    "prevClose": 510.13,
+    "chgPct": -3.88,
+    "asOf": "2026-06-08"
+  },
+  "AMSC": {
+    "price": 43.34,
+    "prevClose": 51.15,
+    "chgPct": -15.27,
+    "asOf": "2026-06-08"
   },
   "AMZN": {
-    "price": 246.03,
-    "prevClose": 270.64,
-    "chgPct": -9.09,
-    "asOf": "2026-06-06"
+    "price": 245.22,
+    "prevClose": 261.26,
+    "chgPct": -6.14,
+    "asOf": "2026-06-08"
+  },
+  "AOSL": {
+    "price": 44.2,
+    "prevClose": 43.88,
+    "chgPct": 0.73,
+    "asOf": "2026-06-08"
   },
   "APLD": {
-    "price": 39.62,
-    "prevClose": 47.28,
-    "chgPct": -16.2,
-    "asOf": "2026-06-06"
+    "price": 40.95,
+    "prevClose": 47.94,
+    "chgPct": -14.59,
+    "asOf": "2026-06-08"
+  },
+  "ARM": {
+    "price": 346.39,
+    "prevClose": 408.85,
+    "chgPct": -15.28,
+    "asOf": "2026-06-08"
+  },
+  "ASYS": {
+    "price": 19.71,
+    "prevClose": 20.65,
+    "chgPct": -4.55,
+    "asOf": "2026-06-08"
   },
   "AVGO": {
-    "price": 385.73,
-    "prevClose": 446.77,
-    "chgPct": -13.66,
-    "asOf": "2026-06-06"
+    "price": 396.6,
+    "prevClose": 459.97,
+    "chgPct": -13.78,
+    "asOf": "2026-06-08"
   },
   "AXP": {
-    "price": 310.66,
-    "prevClose": 316.47,
-    "chgPct": -1.84,
-    "asOf": "2026-06-06"
+    "price": 312.3,
+    "prevClose": 313.54,
+    "chgPct": -0.4,
+    "asOf": "2026-06-08"
   },
   "BAC": {
-    "price": 53.83,
-    "prevClose": 51.6,
-    "chgPct": 4.32,
-    "asOf": "2026-06-06"
+    "price": 53.63,
+    "prevClose": 51.51,
+    "chgPct": 4.12,
+    "asOf": "2026-06-08"
   },
   "BE": {
-    "price": 263.61,
-    "prevClose": 285.0,
-    "chgPct": -7.51,
-    "asOf": "2026-06-06"
+    "price": 253.57,
+    "prevClose": 273.51,
+    "chgPct": -7.29,
+    "asOf": "2026-06-08"
+  },
+  "BKKT": {
+    "price": 8.11,
+    "prevClose": 10.5,
+    "chgPct": -22.76,
+    "asOf": "2026-06-08"
   },
   "COF": {
-    "price": 180.67,
-    "prevClose": 187.93,
-    "chgPct": -3.86,
-    "asOf": "2026-06-06"
-  },
-  "COIN": {
-    "price": 152.4,
-    "prevClose": 189.03,
-    "chgPct": -19.38,
-    "asOf": "2026-06-06"
+    "price": 180.39,
+    "prevClose": 184.56,
+    "chgPct": -2.26,
+    "asOf": "2026-06-08"
   },
   "CORZ": {
-    "price": 25.85,
-    "prevClose": 26.85,
-    "chgPct": -3.72,
-    "asOf": "2026-06-06"
-  },
-  "CRCL": {
-    "price": 80.28,
-    "prevClose": 113.0,
-    "chgPct": -28.96,
-    "asOf": "2026-06-06"
+    "price": 27.15,
+    "prevClose": 28.55,
+    "chgPct": -4.9,
+    "asOf": "2026-06-08"
   },
   "CRWV": {
-    "price": 100.39,
-    "prevClose": 109.53,
-    "chgPct": -8.34,
-    "asOf": "2026-06-06"
+    "price": 102.37,
+    "prevClose": 124.82,
+    "chgPct": -17.99,
+    "asOf": "2026-06-08"
   },
   "CVX": {
-    "price": 187.31,
-    "prevClose": 182.46,
-    "chgPct": 2.66,
-    "asOf": "2026-06-06"
+    "price": 189.24,
+    "prevClose": 185.83,
+    "chgPct": 1.84,
+    "asOf": "2026-06-08"
   },
   "DAL": {
-    "price": 79.42,
-    "prevClose": 82.48,
-    "chgPct": -3.71,
-    "asOf": "2026-06-06"
+    "price": 78.21,
+    "prevClose": 81.47,
+    "chgPct": -4.0,
+    "asOf": "2026-06-08"
   },
   "DIS": {
-    "price": 99.71,
-    "prevClose": 101.83,
-    "chgPct": -2.08,
-    "asOf": "2026-06-06"
+    "price": 98.87,
+    "prevClose": 102.85,
+    "chgPct": -3.87,
+    "asOf": "2026-06-08"
   },
   "DVA": {
-    "price": 192.16,
-    "prevClose": 194.36,
-    "chgPct": -1.13,
-    "asOf": "2026-06-06"
+    "price": 192.08,
+    "prevClose": 189.81,
+    "chgPct": 1.2,
+    "asOf": "2026-06-08"
   },
-  "GFS": {
-    "price": 75.53,
-    "prevClose": 79.97,
-    "chgPct": -5.55,
-    "asOf": "2026-06-06"
+  "EWY": {
+    "price": 185.64,
+    "prevClose": 216.7,
+    "chgPct": -14.33,
+    "asOf": "2026-06-08"
   },
   "GOOGL": {
-    "price": 368.53,
-    "prevClose": 380.34,
-    "chgPct": -3.11,
-    "asOf": "2026-06-06"
+    "price": 363.31,
+    "prevClose": 376.37,
+    "chgPct": -3.47,
+    "asOf": "2026-06-08"
   },
-  "HOOD": {
-    "price": 82.47,
-    "prevClose": 94.3,
-    "chgPct": -12.55,
-    "asOf": "2026-06-06"
+  "INTC": {
+    "price": 110.27,
+    "prevClose": 109.33,
+    "chgPct": 0.86,
+    "asOf": "2026-06-08"
   },
-  "JBL": {
-    "price": 353.24,
-    "prevClose": 364.56,
-    "chgPct": -3.11,
-    "asOf": "2026-06-06"
+  "IREN": {
+    "price": 59.19,
+    "prevClose": 65.33,
+    "chgPct": -9.4,
+    "asOf": "2026-06-08"
   },
   "KHC": {
-    "price": 22.58,
-    "prevClose": 24.01,
-    "chgPct": -5.96,
-    "asOf": "2026-06-06"
+    "price": 23.35,
+    "prevClose": 23.63,
+    "chgPct": -1.18,
+    "asOf": "2026-06-08"
   },
   "KO": {
-    "price": 79.48,
-    "prevClose": 79.01,
-    "chgPct": 0.59,
-    "asOf": "2026-06-06"
+    "price": 79.54,
+    "prevClose": 78.64,
+    "chgPct": 1.14,
+    "asOf": "2026-06-08"
   },
   "KR": {
-    "price": 63.57,
-    "prevClose": 62.15,
-    "chgPct": 2.28,
-    "asOf": "2026-06-06"
-  },
-  "LITE": {
-    "price": 863.66,
-    "prevClose": 854.96,
-    "chgPct": 1.02,
-    "asOf": "2026-06-06"
+    "price": 62.96,
+    "prevClose": 61.52,
+    "chgPct": 2.34,
+    "asOf": "2026-06-08"
   },
   "MCO": {
-    "price": 451.35,
-    "prevClose": 453.25,
-    "chgPct": -0.42,
-    "asOf": "2026-06-06"
-  },
-  "META": {
-    "price": 593.0,
-    "prevClose": 632.51,
-    "chgPct": -6.25,
-    "asOf": "2026-06-06"
+    "price": 443.76,
+    "prevClose": 464.2,
+    "chgPct": -4.4,
+    "asOf": "2026-06-08"
   },
   "MRVL": {
-    "price": 263.47,
-    "prevClose": 205.0,
-    "chgPct": 28.52,
-    "asOf": "2026-06-06"
+    "price": 288.85,
+    "prevClose": 219.43,
+    "chgPct": 31.64,
+    "asOf": "2026-06-08"
   },
   "MU": {
-    "price": 864.01,
-    "prevClose": 971.0,
-    "chgPct": -11.02,
-    "asOf": "2026-06-06"
+    "price": 949.28,
+    "prevClose": 1035.5,
+    "chgPct": -8.33,
+    "asOf": "2026-06-08"
   },
   "NVDA": {
-    "price": 205.1,
-    "prevClose": 211.14,
-    "chgPct": -2.86,
-    "asOf": "2026-06-06"
+    "price": 208.64,
+    "prevClose": 224.36,
+    "chgPct": -7.01,
+    "asOf": "2026-06-08"
   },
   "ORCL": {
-    "price": 213.68,
-    "prevClose": 225.78,
-    "chgPct": -5.36,
-    "asOf": "2026-06-06"
+    "price": 211.82,
+    "prevClose": 248.15,
+    "chgPct": -14.64,
+    "asOf": "2026-06-08"
   },
   "OXY": {
-    "price": 56.93,
-    "prevClose": 56.63,
-    "chgPct": 0.53,
-    "asOf": "2026-06-06"
+    "price": 57.48,
+    "prevClose": 58.92,
+    "chgPct": -2.44,
+    "asOf": "2026-06-08"
   },
   "PANW": {
-    "price": 272.05,
-    "prevClose": 281.69,
-    "chgPct": -3.42,
-    "asOf": "2026-06-06"
+    "price": 266.33,
+    "prevClose": 300.48,
+    "chgPct": -11.37,
+    "asOf": "2026-06-08"
   },
   "PYPL": {
-    "price": 41.29,
-    "prevClose": 44.75,
-    "chgPct": -7.73,
-    "asOf": "2026-06-06"
-  },
-  "RDDT": {
-    "price": 173.45,
-    "prevClose": 176.0,
-    "chgPct": -1.45,
-    "asOf": "2026-06-06"
+    "price": 41.26,
+    "prevClose": 45.19,
+    "chgPct": -8.7,
+    "asOf": "2026-06-08"
   },
   "SIRI": {
-    "price": 27.01,
-    "prevClose": 29.52,
-    "chgPct": -8.5,
-    "asOf": "2026-06-06"
+    "price": 27.44,
+    "prevClose": 29.04,
+    "chgPct": -5.51,
+    "asOf": "2026-06-08"
   },
   "SMH": {
-    "price": 569.69,
-    "prevClose": 598.93,
-    "chgPct": -4.88,
-    "asOf": "2026-06-06"
+    "price": 598.16,
+    "prevClose": 607.81,
+    "chgPct": -1.59,
+    "asOf": "2026-06-08"
   },
   "SNDK": {
-    "price": 1559.32,
-    "prevClose": 1694.98,
-    "chgPct": -8.0,
-    "asOf": "2026-06-06"
+    "price": 1642.0,
+    "prevClose": 1761.43,
+    "chgPct": -6.78,
+    "asOf": "2026-06-08"
   },
   "TEM": {
-    "price": 46.43,
-    "prevClose": 50.47,
-    "chgPct": -8.0,
-    "asOf": "2026-06-06"
+    "price": 48.59,
+    "prevClose": 52.8,
+    "chgPct": -7.97,
+    "asOf": "2026-06-08"
   },
   "TSLA": {
-    "price": 391.0,
-    "prevClose": 435.79,
-    "chgPct": -10.28,
-    "asOf": "2026-06-06"
+    "price": 408.95,
+    "prevClose": 415.88,
+    "chgPct": -1.67,
+    "asOf": "2026-06-08"
   },
   "TSM": {
-    "price": 415.17,
-    "prevClose": 418.45,
-    "chgPct": -0.78,
-    "asOf": "2026-06-06"
+    "price": 426.8,
+    "prevClose": 435.63,
+    "chgPct": -2.03,
+    "asOf": "2026-06-08"
+  },
+  "VPG": {
+    "price": 119.96,
+    "prevClose": 126.24,
+    "chgPct": -4.97,
+    "asOf": "2026-06-08"
   },
   "VRSN": {
-    "price": 294.92,
-    "prevClose": 285.38,
-    "chgPct": 3.34,
-    "asOf": "2026-06-06"
+    "price": 283.41,
+    "prevClose": 296.59,
+    "chgPct": -4.44,
+    "asOf": "2026-06-08"
   },
   "VST": {
-    "price": 148.76,
-    "prevClose": 160.23,
-    "chgPct": -7.16,
-    "asOf": "2026-06-06"
+    "price": 146.9,
+    "prevClose": 154.76,
+    "chgPct": -5.08,
+    "asOf": "2026-06-08"
   }
 }
