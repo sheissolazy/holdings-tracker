@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 307.34,
-  "change5dPct": -1.5,
-  "changeYtdPct": 10.6,
-  "marketCap": "$4.51T",
-  "pe": 37.3,
+  "price": 301.54,
+  "change5dPct": -1.6,
+  "changeYtdPct": 8.8,
+  "marketCap": "$4.57T",
+  "pe": 37.1,
   "revenue": "—",
   "revenueYoYPct": 13,
   "prices": [
-    {
-      "t": "2025-12-08",
-      "o": 278.13,
-      "h": 279.67,
-      "l": 276.15,
-      "c": 277.89
-    },
     {
       "t": "2025-12-09",
       "o": 278.16,
@@ -878,127 +871,139 @@
       "h": 315.17,
       "l": 307.15,
       "c": 307.34
+    },
+    {
+      "t": "2026-06-08",
+      "o": 308.74,
+      "h": 317.4,
+      "l": 301.17,
+      "c": 301.54
     }
   ],
   "thesis": {
     "bull": [
-      "巴菲特旗下伯克希尔截至2026年3月底持有约2.28亿股苹果，仓位占比22%且持仓不变，长期价值投资者对苹果护城河持续认可",
-      "WWDC催化剂预期强烈：顶级投行分析师（如Dan Ives）预计苹果将在WWDC发布重大AI功能，或触发新一轮iPhone换机周期并推动AI生态估值重塑",
-      "服务业务（App Store、Apple Music、iCloud等）占比持续提升，高毛利率与强现金流特征降低对硬件销售周期的依赖，股票回购计划持续为股东创造回报"
+      "巴菲特持仓不变：截至2026年一季度，伯克希尔持有约2.28亿股AAPL，占其组合22%，本季度零变动，体现大型长线投资者对苹果价值的持续高度信任。",
+      "WWDC 2026 AI框架升级：苹果发布更具个性化的Siri及Apple Intelligence新能力，并推出面向开发者的智能框架，若AI驱动换机周期兑现，将直接拉动iPhone及服务收入增长。",
+      "黄仁勋公开背书：英伟达CEO于2026年6月8日明确表达对Apple AI的高度期待，AI产业链核心人物的认可有助于提升市场对苹果AI生态长期竞争力的信心。"
     ],
     "bear": [
-      "南希·佩洛西自2024年底至2026年初累计四次披露减持苹果，聪明钱连续流出值得警惕",
-      "AI竞争格局严峻：英伟达、谷歌等在大模型与AI芯片领域明显领先，苹果AI布局相对滞后，若WWDC交付不及高预期，恐引发「买预期卖事实」式回调",
-      "AI营销诉讼和解带来品牌声誉及合规成本压力，叠加市场人士已警示某关键财务指标显示估值存在高估风险，多空分歧显著加大"
+      "Siri无明确上线时间表：WWDC发布后AAPL当日股价下跌，市场担忧AI落地节奏明显滞后谷歌和微软，执行力兑现的不确定性压制短期估值。",
+      "佩洛西持续减持：自2024年底至2026年初多次披露减仓或退出记录，虽属合规披露而非内幕，但高知名度人士的持续减持对市场情绪形成一定负面信号。",
+      "供应链地缘风险：霍尔木兹海峡紧张局势加剧、伊朗制裁持续及全球制造成本上行压力，对深度依赖亚洲精密供应链的苹果构成潜在扰动。"
     ],
     "watch": [
-      "WWDC发布内容落地情况：AI功能深度与用户体验能否匹配市场高预期，是股价短期催化剂还是炒作兑现的卖点",
-      "中东地缘政治升级（美伊无人机冲突、霍尔木兹海峡紧张局势）可能推高油价并扰动全球供应链，苹果亚洲代工体系面临间接传导风险",
-      "广泛AI概念板块集体回调风险：近期英伟达、英特尔、Marvell等AI股同步下跌，市场情绪波动可能带动苹果估值被动压缩"
+      "Siri AI正式量产时间窗口：WWDC未给出明确消费端上线时间表，后续开发者活动或季度财报中的产品路线图披露将是关键确认节点。",
+      "玻璃基板封装进展：行业信息显示苹果相关玻璃基板技术预计2027年下半年落地，有望驱动自研芯片算力密度跃升，是中长期硬件竞争力的重要观察指标。",
+      "中国市场与汇率动向：人民币兑美元汇率波动及中美贸易关系走向，直接影响苹果大中华区收入折算及供应链成本结构，需持续关注政策与汇率双重变量。"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果公司（AAPL）是全球市值最高的科技企业之一，主营iPhone、Mac、iPad等硬件产品，并通过App Store、Apple Music、iCloud、Apple Pay等服务业务构建高粘性生态闭环。公司以设计美学、供应链管理和品牌溢价著称，在全球高端消费电子市场占据领导地位，活跃设备基数逾20亿台。"
+        "body": "苹果公司是全球市值最大的科技企业之一，核心业务涵盖iPhone、Mac、iPad、可穿戴设备及服务生态。服务业务（App Store、Apple Music、iCloud、Apple Pay等）持续贡献高毛利率收入，已成为对冲硬件周期波动的重要利润支柱。截至2026年初，苹果生态活跃设备规模超过20亿台，形成强大的平台护城河与用户黏性，为长期营收可见度提供基础支撑。"
       },
       {
-        "heading": "基本面分析",
-        "body": "苹果近年持续推进业务结构转型，服务业务收入占比与毛利率均高于硬件部门，有助于平滑硬件销售周期波动。公司现金流充沛，长期执行大规模股票回购与股息计划，为股东创造持续回报。然而，已有分析人士指出某项关键财务指标发出谨慎信号，提示当前估值可能已充分定价利好，上行空间有限。"
+        "heading": "近期催化剂",
+        "body": "2026年WWDC上，苹果发布了更具个性化的Siri AI与Apple Intelligence新框架，并推出面向开发者的智能开发工具集。然而市场反应偏谨慎——由于苹果未给出Siri AI面向消费者全面上线的明确时间表，当日股价小幅下跌，反映投资者对AI落地节奏的关切。与此同时，英伟达CEO黄仁勋同日公开看好Apple AI，为苹果AI叙事提供了来自产业链上游的外部背书，形成一定对冲。"
       },
       {
-        "heading": "AI战略与催化剂",
-        "body": "AI是当前市场对苹果最核心的分歧点。乐观派认为，苹果庞大的活跃设备基础一旦深度整合AI功能，将形成难以复制的端侧AI护城河并驱动换机潮；悲观派则担忧苹果在大模型自研和AI算力方面与英伟达、谷歌存在明显差距，AI叙事能否转化为实质业绩尚待验证。即将召开的WWDC是近期最关键的观察窗口。"
+        "heading": "机构与知名投资者动向",
+        "body": "巴菲特旗下伯克希尔·哈撒韦截至2026年一季度仍持有约2.28亿股，占其13F组合约22%，为第一大重仓股且本季度零变动，显示长期持有意志坚定。众议员佩洛西方面信号混杂：2025年12月底新建多头头寸的同时也有退出记录，加之2024年以来数次减持披露，整体呈现高位逐步兑现的态势，可作为情绪参考但非决定性基本面信号。"
       },
       {
-        "heading": "机构投资者动向",
-        "body": "巴菲特截至2026年3月底维持约2.28亿股持仓不变，占伯克希尔组合权重约22%，为市场提供重要的长期价值背书。佩洛西方面信号分化：2025年12月曾新建多头头寸，但同期及此后多次披露减持退出，2024年底至2026年初累计出现四次减持记录，显示聪明钱对短期风险回报存在顾虑，多空信号并存。"
+        "heading": "AI战略与竞争格局",
+        "body": "苹果的AI战略围绕设备端推理与隐私保护展开，区别于谷歌、微软依赖云端算力的主流路径。Apple Intelligence已集成于iOS与macOS生态，但在生成式AI功能丰富度上仍落后于主要竞争对手。若玻璃基板封装技术在2027年下半年量产落地，有望大幅提升自研芯片算力密度，进一步拉开与安卓阵营的硬件性能差距。生态封闭性既是护城河，也在欧美监管压力下持续面临开放互操作性的挑战。"
       },
       {
-        "heading": "风险因素",
-        "body": "主要风险包括：AI功能交付不及预期导致的估值回调；AI营销诉讼和解带来的品牌声誉与合规成本压力；中东地缘政治冲突升级可能影响全球供应链及消费者信心；整体AI概念股回调情绪向大盘权重股蔓延；高油价对全球消费支出形成抑制，影响高端设备需求。"
+        "heading": "主要风险因素",
+        "body": "地缘政治层面，霍尔木兹海峡航运紧张与伊朗制裁持续，叠加全球大宗商品成本压力，可能通过供应链传导至元器件采购成本。中国市场既是重要收入来源，也是竞争最激烈的战场，华为中高端产品的回归对iPhone市场份额构成直接冲击。AI功能落地节奏若持续慢于市场预期，可能导致换机周期延迟，进而影响近期营收指引的可见度。欧盟及美国对App Store的反垄断调查可能压缩服务业务的高毛利空间。"
       },
       {
-        "heading": "市场环境",
-        "body": "当前市场处于AI主题轮动期，英伟达、Marvell等AI硬件股近期出现集体回调，市场对AI估值泡沫化保持警惕。美伊冲突加剧地缘政治不确定性，油价上行压力干扰通胀预期。苹果作为大盘核心权重股，短期受宏观情绪与WWDC事件驱动明显，中长期走势取决于AI变现路径的可信度与消费复苏节奏。"
+        "heading": "估值与市场情绪",
+        "body": "AAPL当前估值处于科技股较高分位，市场为其生态黏性、持续回购能力及AI升级预期支付溢价。巴菲特持仓稳定为长线投资者提供价值锚点，但佩洛西多次减持与WWDC后股价当日走弱共同揭示短期情绪的脆弱性。多空核心分歧在于：AI能否在2026至2027年内实质驱动新一轮换机潮——若时间表进一步推迟，估值溢价将面临重估压力；若AI功能超预期落地，则可能触发新一轮上行行情。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
-        "name": "微软公司",
-        "note": "同为万亿美元科技巨头，AI整合（Copilot）落地较苹果更激进，云业务Azure提供更直接的AI营收敞口，估值溢价相近但AI变现路径已更具体"
+        "name": "微软",
+        "note": "同为万亿美元级科技巨头，Azure AI与Copilot商业化进展领先，是衡量苹果AI变现时间差的重要参照"
       },
       {
         "ticker": "GOOGL",
         "name": "Alphabet",
-        "note": "大模型（Gemini）与AI基础设施布局领先，广告与云双引擎驱动，安卓生态与iOS形成直接竞争，AI助手能力是苹果的重要参照系"
+        "note": "安卓生态直接竞争对手，Gemini AI部署速度较快，可对比苹果Siri在功能深度与上线节奏上的差距"
       },
       {
-        "ticker": "SAMSUNG",
+        "ticker": "005930.KS",
         "name": "三星电子",
-        "note": "全球最大安卓手机厂商，已率先在Galaxy系列推出端侧AI功能，是苹果AI手机叙事的直接竞争参照，但品牌溢价与生态粘性弱于苹果"
+        "note": "硬件层面主要对手，Galaxy AI系列已量产，可对比苹果AI功能交付节奏与消费端市场响应速度"
+      },
+      {
+        "ticker": "META",
+        "name": "Meta平台",
+        "note": "开源Llama模型路径与苹果封闭AI战略形成鲜明对比，社交入口与苹果服务生态存在用户时长竞争关系"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-06T04:41:45.714556Z"
+    "generatedAt": "2026-06-08T22:47:34.663278Z"
   },
   "news": [
     {
-      "id": "AAPL-140546141",
-      "title": "Apple's Stock Could Be On The Verge Of A Major AI Breakout After WWDC, Says Top Investment Bank— But One Key Challenge Remains",
+      "id": "AAPL-140574138",
+      "title": "Stock Market Today, June 8: Apple Falls After Unveiling AI Siri and Apple Intelligence at WWDC",
       "source": "Yahoo",
-      "publishedAt": "2026-06-06",
-      "url": "https://finnhub.io/api/news?id=e26962b931c7c8b81ed53d5fe5b66d1939913f061ef4e5ca4273d3df6704d877",
+      "publishedAt": "2026-06-08",
+      "url": "https://finnhub.io/api/news?id=3251b1bde0f16a4ce4914d6b0fc742647ea0626aca82783c795fa9bdf5a846b9",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140545260",
-      "title": "Apple AI Lawsuit Settlement Puts Spotlight On iPhone Marketing And Risk",
+      "id": "AAPL-140574139",
+      "title": "Apple unveils a more personal kind of Siri AI: WWDC takeaways",
       "source": "Yahoo",
-      "publishedAt": "2026-06-06",
-      "url": "https://finnhub.io/api/news?id=142ec6d45b9001081847d764a895d3249adabcddf80d9c768341cfa41d91c4fd",
+      "publishedAt": "2026-06-08",
+      "url": "https://finnhub.io/api/news?id=186f3ec442e6d80ba3f5d25e4d5236b610789a58ccb5b2d8ae861fd2b08eb3c4",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140545261",
-      "title": "Apple Stock Looks Strong. One Number Says Be Careful.",
+      "id": "AAPL-140574123",
+      "title": "Stock Market Today, June 8: Marvell, Intel, and Micron Lead Tech Stock Rebound",
       "source": "Yahoo",
-      "publishedAt": "2026-06-06",
-      "url": "https://finnhub.io/api/news?id=6e84a3bde83b5198b4c114ba9b0f282fe9e3d9c0747f70b8af344f2186868d46",
+      "publishedAt": "2026-06-08",
+      "url": "https://finnhub.io/api/news?id=57fe35c4c3017c208681335866fcc352b9e1db1be78fadae9687ee42123b91ef",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140545262",
-      "title": "Why Dan Ives Sees Apple WWDC As A Major AI Catalyst for AAPL",
+      "id": "AAPL-140574127",
+      "title": "Dow Jones Futures: Trump, Iran Comments Spark Tech Rebound; Apple, Micron, Nvidia, Sandisk, Tesla Are Big Movers",
       "source": "Yahoo",
-      "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=927c21b003aa25b0cd2674e2f6da5d482c75048662f5b813082eb11254848546",
+      "publishedAt": "2026-06-08",
+      "url": "https://finnhub.io/api/news?id=6c3fe0429fb798eee0f4de5fea5d92ccf0516eff705497606522a269999846e3",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140544072",
-      "title": "Apple (AAPL) Stock Moves -1.18%: What You Should Know",
+      "id": "AAPL-140574142",
+      "title": "Apple accelerates app development with new intelligence frameworks and advanced tools",
       "source": "Yahoo",
-      "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=8fe298875e88a3351189538684397f4299e935bea199fe814233c77ca6c42bb5",
+      "publishedAt": "2026-06-08",
+      "url": "https://finnhub.io/api/news?id=517643c061c4fcd51ac2d79496eca81f1671d16906f288abafc59fb4e085e7fd",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140542484",
-      "title": "Dow Jones Futures: What To Do As Market Rally Faces First Real Test; SpaceX IPO, Apple, Oracle Loom",
+      "id": "AAPL-140574143",
+      "title": "Apple WWDC 2026: AAPL Stock Slips As Lack Of Launch Deadline For Siri AI Spooks Retail Investors",
       "source": "Yahoo",
-      "publishedAt": "2026-06-05",
-      "url": "https://finnhub.io/api/news?id=ccdbc2588262cc9729c28b65fe8800fa630c306eca838662c30fdd2f2540306b",
+      "publishedAt": "2026-06-08",
+      "url": "https://finnhub.io/api/news?id=cb2dbe481209ef0f1784d8d7ee45c551200672691c2e28854262d1d305a9a7e0",
       "tags": [
         "AAPL"
       ]

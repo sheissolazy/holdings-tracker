@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 205.1,
-  "change5dPct": -2.9,
-  "changeYtdPct": 10.5,
-  "marketCap": "$4.96T",
-  "pe": 32.4,
+  "price": 208.64,
+  "change5dPct": -7.0,
+  "changeYtdPct": 12.8,
+  "marketCap": "$5.06T",
+  "pe": 31.7,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2025-12-08",
-      "o": 182.64,
-      "h": 188.0,
-      "l": 182.4,
-      "c": 185.55
-    },
     {
       "t": "2025-12-09",
       "o": 185.56,
@@ -878,127 +871,144 @@
       "h": 214.87,
       "l": 204.33,
       "c": 205.1
+    },
+    {
+      "t": "2026-06-08",
+      "o": 210.18,
+      "h": 210.46,
+      "l": 206.0,
+      "c": 208.64
     }
   ],
   "thesis": {
     "bull": [
-      "AI数据中心资本支出周期持续扩张，云厂商与超大规模企业对H100/B200等高端GPU的采购需求居高不下，NVDA凭借CUDA生态形成极高切换成本，短期内难以被替代",
-      "裴洛西在2025年12月至2026年1月间多次新建NVDA多头仓位，显示部分具备政策信息优势的投资者仍看好其中长期增长逻辑",
-      "黄仁勋公开为AI芯片生态伙伴背书，并与游戏文化IP（英雄联盟职业选手Faker）互动，强化NVDA在AI+游戏双轮驱动叙事中的品牌声量"
+      "AI基础设施投资浪潮持续加速，黄仁勋CEO公开表示「买入回调」，管理层对长期需求高度自信，数据中心GPU订单能见度维持在结构性高位",
+      "CEO警示HBM内存短缺将持续数年，并点名硅光子学光互连需求量「超乎想象」，体现NVDA在AI算力生态链中的核心枢纽与不可替代地位",
+      "裴洛西议员在2024年底至2026年初多次建仓做多NVDA，显示具备信息优势的机构投资者持续看好公司长期价值，且每次减持后仍重新加仓"
     ],
     "bear": [
-      "Leopold以约15.68亿美元名义价值持有NVDA认沽期权（占其组合11.5%），系新建仓位，显示专业衍生品交易者对股价下行存在显著对冲需求",
-      "Broadcom近期AI营收展望不及预期，引发市场对整体AI资本支出是否见顶的担忧，NVDA、INTC、MRVL等AI相关股票同日集体下跌，板块情绪承压",
-      "美伊冲突升级（美军打击伊朗雷达站、无人机事件频发）推升地缘风险溢价，油价波动加剧宏观不确定性，可能压制科技成长股估值中枢"
+      "Leopold Aschenbrenner于2026年3月底新建名义价值逾15.6亿美元的看跌期权头寸，组合权重11.5%，是迄今已知规模最大的单笔公开做空性披露之一，显示部分AI深度研究者对短期估值存在重大分歧",
+      "裴洛西阵营多次「exit/trim」减持操作夹杂于加仓之间，反映高净值持仓者主动在阶段性高位锁定利润，说明股价波动风险不容忽视",
+      "Neocloud客户群面临融资结构脆弱与持续股权稀释困境，若终端GPU租用方资金链恶化，可能侵蚀NVDA大客户订单的可持续性"
     ],
     "watch": [
-      "裴洛西在新建多头的同时亦有减持（2024年12月24日、2024年12月31日均有退出记录），买卖交替模式需持续跟踪，判断其整体仓位方向",
-      "自定义ASIC（Broadcom、Marvell等）对通用GPU市场份额的侵蚀速度，是评估NVDA护城河能否维持的核心变量",
-      "美联储利率路径与宏观流动性环境——高贝塔属性使NVDA股价对利率预期变动高度敏感，需关注通胀及就业数据"
+      "HBM及广义内存供应瓶颈：CEO预警短缺将延续多年，需持续跟踪Micron、SK Hynix、三星产能扩张进度及议价走势对NVDA毛利率的传导",
+      "硅光子学供应链成熟度：NVDA已将光互连纳入战略布局，关注上游标的量产能力是否能匹配NVDA的采购节奏，亦是判断下一代系统架构时间表的先行指标",
+      "地缘政治与出口管制演变：霍尔木兹海峡局势紧张叠加美国对伊制裁持续升级，可能干扰亚洲供应链及航运成本；美国对华芯片出口限制政策走向亦直接影响NVDA可寻址市场规模"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA Corporation（纳斯达克：NVDA）是全球领先的图形处理器及AI加速计算平台厂商，总部位于美国加利福尼亚州圣克拉拉。公司业务涵盖数据中心（Hopper/Blackwell架构GPU）、游戏（GeForce系列）、专业可视化、汽车自动驾驶及OEM等板块。数据中心已成为营收绝对主力，占比持续提升。CUDA软件生态与硬件协同构成其核心竞争壁垒。"
+        "body": "NVIDIA Corporation（NVDA）是全球领先的GPU及AI加速计算芯片设计商，总部位于美国加利福尼亚州圣克拉拉。产品线涵盖数据中心AI加速卡（Hopper、Blackwell架构）、专业图形工作站、自动驾驶平台DRIVE及游戏GPU GeForce，并通过CUDA软件生态构建深厚技术护城河。随着大模型训练与推理需求爆发，数据中心业务已成为第一大营收来源，市值跻身全球前三大上市公司行列。公司当前正推进Blackwell Ultra及下一代Rubin架构的产品迭代，同时将硅光子学与光互连纳入战略布局。"
       },
       {
-        "heading": "AI基础设施需求",
-        "body": "全球超大规模云厂商（AWS、Azure、GCP）及新兴AI独角兽对高性能GPU的需求仍处于多年建设周期的中前段。黄仁勋近期公开表态，暗示AI芯片供应链中的特定伙伴有望成为下一个万亿美元公司，折射出NVDA对整个AI基础设施生态的辐射带动效应。然而Broadcom财报显示定制ASIC需求同样强劲，通用GPU与专用芯片之间的市场份额博弈值得持续关注。"
+        "heading": "行业地位与竞争格局",
+        "body": "NVDA在AI训练芯片市场占据主导地位，市场份额估计超过80%，竞争对手包括AMD（MI系列GPU）、Intel（Gaudi加速卡）以及谷歌（TPU）、亚马逊（Trainium）、微软等云厂商自研芯片。CUDA生态的先发优势使软件迁移成本极高，短期难以被替代；但AMD正逐步提升ROCm软件栈成熟度，云厂商自研路线长期亦构成结构性压力。在推理市场，定制ASIC方案的性价比优势日益显现，Broadcom、Marvell等玩家深度服务云巨头，是NVDA需要重点应对的竞争维度。"
       },
       {
-        "heading": "竞争格局",
-        "body": "AMD在GPU市场持续追赶，MI300X系列已获部分大客户采纳；Broadcom、Marvell、Google TPU等自定义ASIC方案正在蚕食特定训练与推理场景；英特尔Gaudi系列虽未能大规模突破，但政策支持下仍保持存在感。NVDA的护城河来自CUDA生态的网络效应、NVLink互联架构及完整的软件框架（cuDNN、TensorRT、NeMo等），竞争对手短期内难以复制完整技术栈。"
-      },
-      {
-        "heading": "财务表现",
-        "body": "NVDA近财年营收和利润均实现爆发式增长，数据中心收入同比大幅扩张。毛利率维持在约70%以上的高位，体现出其定价权与产品稀缺性。研发投入持续加码以维持技术领先。需注意的是，高增长基数将使未来同比增速自然放缓，市场对「增速拐点」的定价敏感度较高。"
+        "heading": "成长驱动因素",
+        "body": "其一，AI基础设施资本开支超级周期：全球科技巨头均大幅上调AI数据中心投资预算，谷歌签署向SpaceX孟菲斯数据中心支付每月9.2亿美元AI算力合同即为最新例证，GPU集群采购需求持续超出供给能力。其二，Blackwell及下一代架构迭代驱动客户加速升级换代。其三，推理市场渗透：随大模型部署规模扩张，推理侧算力需求形成持续且分散的长尾市场。其四，光互连与硅光子学：CEO明确点名该赛道，NVDA在计算与网络融合方面的布局有助于在数据中心内扩大产品覆盖范围与系统级价值。"
       },
       {
         "heading": "风险因素",
-        "body": "主要风险包括：美国对华出口管制升级可能进一步限制H20等降规产品销售；地缘政治冲突（当前美伊局势）干扰全球供应链及风险偏好；客户资本支出周期若转向收缩将直接冲击订单；竞争对手ASIC渗透加速及开源AI框架降低对专有硬件依赖；以及当前高估值隐含的增长预期兑现压力。"
+        "body": "其一，估值压力：高增长预期已充分反映在股价中，业绩指引任何下修或宏观利率上行均可能引发显著回调，Leopold的大额看跌期权头寸即反映这一担忧。其二，供应链集中：HBM内存高度依赖三星、SK Hynix少数厂商，供给短缺既制约出货量亦推高成本。其三，出口管制与地缘政治：美国对华芯片限制持续演变，中东局势影响全球航运，均为不确定性来源。其四，客户集中风险：少数超大规模云客户贡献主要营收，若其资本开支节奏放缓将产生放大效应。其五，竞争与自研替代：云厂商加速自研芯片可能在中长期侵蚀市场份额。"
       },
       {
-        "heading": "智慧资金动向",
-        "body": "跟踪者信号呈现明显分歧：裴洛西在近两个报告期内多次新建NVDA多头头寸，但也伴随阶段性减持，整体仍偏多头；Leopold则建立了名义价值超15亿美元、占组合11.5%的大额认沽期权仓位，立场鲜明偏空。社交媒体观察者（Serenity）关注市场波动中的领跌现象及光互联等供应链细节，整体持中性观望态度。多空资金同台博弈，显示市场对NVDA短中期走势存在实质性分歧。"
+        "heading": "跟踪者动向解读",
+        "body": "裴洛西阵营的操作呈现「波段加仓后逢高兑现」模式——2024年底至2026年初多次买入，同时穿插数次exit/trim减持，反映其将NVDA作为核心持仓但也主动管理仓位波动。与此形成鲜明对比的是，Leopold于2026年3月底新建逾15.6亿美元名义价值的看跌期权，权重11.5%，市场普遍将其解读为对短期估值或AI叙事某一节点过热的对冲表态，两者方向性分歧值得关注。社交媒体追踪账号「Serenity」则聚焦供应链层面，持续跟踪内存短缺、硅光子上游标的等细分议题，整体处于观察立场，尚未形成明确方向性结论。"
+      },
+      {
+        "heading": "近期市场动态",
+        "body": "6月8日科技板块出现反弹，Micron、Marvell、Intel领涨，NVDA随大盘修复。Apple WWDC 2026发布新一代AI Siri框架，但因缺乏明确上线时间表令市场失望，股价小幅下跌，此事件间接凸显NVDA在AI推理端基础设施的相对价值。谷歌与SpaceX的AI算力合同进一步印证超大规模基础设施投资仍在加速。Marvell获纳入S&P 500指数，引发市场对AI芯片赛道整体关注度的提升。地缘政治方面，霍尔木兹海峡局势持续紧张，需关注对全球供应链成本的传导效应。"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
-        "name": "超威半导体",
-        "note": "GPU市场直接竞争对手，MI300X系列加速追赶，但CUDA生态差距仍大；估值相对NVDA有折价"
+        "name": "Advanced Micro Devices",
+        "note": "GPU领域最直接竞争对手，MI系列数据中心加速卡持续迭代，ROCm生态成熟度提升，但与CUDA的生态差距仍是市场份额扩张的核心障碍"
       },
       {
         "ticker": "AVGO",
-        "name": "博通",
-        "note": "自定义ASIC（XPU）方案代表，与谷歌、Meta深度合作；近期AI展望不及预期引发板块联动下跌"
+        "name": "Broadcom",
+        "note": "定制AI ASIC（XPU）领域深度服务谷歌、Meta等云巨头，代表「自研替代」路线的核心受益者，与NVDA在超大规模客户侧存在长期竞争关系"
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology",
+        "note": "NVDA关键上游供应商，HBM内存主要供货方之一，CEO明确指出内存短缺将持续数年，两者命运高度绑定，Micron产能与定价走势直接影响NVDA的出货节奏与成本结构"
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "note": "Gaudi系列AI加速卡市场表现疲软，但凭借晶圆厂战略及x86生态仍保有结构性地位，是观察AI芯片竞争格局演变的重要参照"
       },
       {
         "ticker": "MRVL",
-        "name": "迈威尔科技",
-        "note": "数据中心定制芯片及光互联布局，刚获纳入S&P 500，AI基础设施需求受益标的，与NVDA形成部分互补竞争关系"
+        "name": "Marvell Technology",
+        "note": "光互连与定制AI ASIC新兴玩家，刚获纳入S&P 500，在硅光子学领域与NVDA形成上下游协同与局部竞争的复杂关系，其量产进度是判断NVDA光互连战略落地时间表的重要先行指标"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-06T04:37:52.959554Z"
+    "generatedAt": "2026-06-08T22:44:10.292969Z"
   },
   "news": [
     {
-      "id": "NVDA-140546133",
-      "title": "Meta Stock Is Getting Hit Hard. But Where Will It Be in 3 Years?",
+      "id": "NVDA-140574116",
+      "title": "Account Minimums Are Being Lowered to Participate in the SpaceX IPO. Is This a Win or a Trap for Retail Investors?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-06",
-      "url": "https://finnhub.io/api/news?id=55f7fba17cd71b17f4ad99234b20b4981b469b74661a286ba52e3a4a846bf352",
+      "publishedAt": "2026-06-08",
+      "url": "https://finnhub.io/api/news?id=3a65f1a1d5736d9e1e4951c3bf9f289c8d8924b107b827fd862b5f013acb684a",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140546134",
-      "title": "The SEC Just Scrapped a 25-Year-Old Day-Trading Rule. Here's What It Means for Interactive Brokers and Robinhood.",
+      "id": "NVDA-140574117",
+      "title": "Lilly Just Announced 3 Infectious Disease Acquisitions in 1 Day. Is This the Beginning of Its Post-Obesity Growth Strategy?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-06",
-      "url": "https://finnhub.io/api/news?id=790751192924cddb47835ccf70687c333eba443fabc3c4ce62c733c59ca74589",
+      "publishedAt": "2026-06-08",
+      "url": "https://finnhub.io/api/news?id=3cca580078d7fc4e6302d7e84dd260531b7f469e253226bbbfe9b4db1a95fd82",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140546135",
-      "title": "Is XRP About to Make Its Biggest Move Yet?",
+      "id": "NVDA-140574118",
+      "title": "After Skyrocketing 340% in Just 12 Months, Is Marvell Technology Stock Still a Good Buy?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-06",
-      "url": "https://finnhub.io/api/news?id=90b1a149a1f91aa860d7152c7f0fc564f999f475fa0c668711ef0e8f4f0b2634",
+      "publishedAt": "2026-06-08",
+      "url": "https://finnhub.io/api/news?id=d4212a9c489f8c4e420e20fc17852dc3a45f61b776eac0553e16b0ae96194925",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140546136",
-      "title": "Jensen Huang Just Said This AI Chip Stock Could Be the Next $1 Trillion Company (Hint: It's Not AMD or Sandisk)",
+      "id": "NVDA-140574119",
+      "title": "Google to pay SpaceX $920 million a month for AI compute at Memphis campus: Video",
       "source": "Yahoo",
-      "publishedAt": "2026-06-06",
-      "url": "https://finnhub.io/api/news?id=600e873c046050fe83d1507519224d1839754aae472da89f6a4d362c0c5581d6",
+      "publishedAt": "2026-06-08",
+      "url": "https://finnhub.io/api/news?id=3d48bdf18587090fd9f0622b7bf22316b3edba0f8063b95e285a267accf4077d",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140546137",
-      "title": "Why Joby Aviation Stock Plummeted Today",
+      "id": "NVDA-140574120",
+      "title": "Why Chewy Stock Got Mashed in May",
       "source": "Yahoo",
-      "publishedAt": "2026-06-06",
-      "url": "https://finnhub.io/api/news?id=e5febdba7aea7c609e0680379ee8beb140723b658d7a31298d6590de5f3685fd",
+      "publishedAt": "2026-06-08",
+      "url": "https://finnhub.io/api/news?id=77f3c2b14ab8dc3914aabe7d11ab59602d2573a4f7491639c048a270f4b59129",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140546138",
-      "title": "Why Nvidia, Intel, Marvell, and Other AI Stocks Plunged Today",
+      "id": "NVDA-140574121",
+      "title": "3 Space Stocks That Could Double When SpaceX Starts Trading",
       "source": "Yahoo",
-      "publishedAt": "2026-06-06",
-      "url": "https://finnhub.io/api/news?id=e68654367e6f119d11b638b6f2738b50fe98bb091ba6e0ac4712c268a533c1c6",
+      "publishedAt": "2026-06-08",
+      "url": "https://finnhub.io/api/news?id=bc7e1f7d25548694eadd90fec3ed8dcd982e08b6cbeee32e3ecd3064725d7a05",
       "tags": [
         "NVDA"
       ]
