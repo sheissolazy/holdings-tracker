@@ -3,21 +3,14 @@
   "name": "Marvell Technology",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 288.85,
-  "change5dPct": 31.6,
-  "changeYtdPct": 224.9,
-  "marketCap": "$253.5B",
-  "pe": 100.3,
+  "price": 266.88,
+  "change5dPct": -8.2,
+  "changeYtdPct": 188.6,
+  "marketCap": "$252.7B",
+  "pe": 100.6,
   "revenue": "—",
   "revenueYoYPct": 34,
   "prices": [
-    {
-      "t": "2025-12-09",
-      "o": 91.59,
-      "h": 91.69,
-      "l": 88.04,
-      "c": 88.9
-    },
     {
       "t": "2025-12-10",
       "o": 91.33,
@@ -878,137 +871,144 @@
       "h": 304.96,
       "l": 281.36,
       "c": 288.85
+    },
+    {
+      "t": "2026-06-09",
+      "o": 299.76,
+      "h": 302.37,
+      "l": 244.12,
+      "c": 266.88
     }
   ],
   "thesis": {
     "bull": [
-      "英伟达CEO黄仁勋公开称MRVL有望成为下一家万亿美元公司，超级背书效应显著提升市场对其AI定制芯片（ASIC）业务的长期信心",
-      "S&P 500纳入确认，被动指数基金及ETF被动买盘即将涌入，短期供需结构对股价形成技术性支撑",
-      "云计算巨头持续加大定制AI芯片采购力度，MRVL凭借先进封装与互联技术在CoPackaged Optics及定制ASIC赛道占据差异化优势"
+      "英伟达CEO黄仁勋公开背书，称MRVL有望成为万亿美元市值公司，极大提升市场对其AI定制芯片战略的认可度与品牌影响力",
+      "即将正式纳入标普500指数，将触发大规模被动指数基金强制买入，为股价提供结构性筹码支撑",
+      "超大规模云厂商（Google、Amazon、Microsoft）对定制AI ASIC的长期需求持续扩大，MRVL作为核心供应商订单能见度较高"
     ],
     "bear": [
-      "过去12个月股价累计涨幅逾340%，估值已大幅透支近期基本面，市盈率远超传统半导体同行，回调风险不容忽视",
-      "客户集中度偏高，定制ASIC收入高度依赖少数超大规模云厂商，若其削减CapEx或转向自研芯片将直接冲击营收",
-      "黄仁勋的「万亿公司」表态尚无量化依据支撑，市场情绪驱动成分较重；S&P 500纳入利好历史上常见「买预期、卖事实」走势"
+      "股价在黄仁勋背书后大幅拉升，当前估值已包含较多乐观预期，近期单日暴跌约12%充分暴露高估值下的流动性脆弱性",
+      "客户集中度风险显著，定制芯片业务高度依赖少数超大规模云厂商，一旦单一客户削减订单或转向自研将严重冲击营收",
+      "宏观环境恶化（美伊军事冲突升级、通胀数据待定、科技股整体抛售潮）短期内压制风险偏好，高贝塔值成长股首当其冲"
     ],
     "watch": [
-      "S&P 500正式纳入后实际ETF净流入规模及持续时长，决定短期技术性买盘能否对冲获利回吐压力",
-      "下季度财报中数据中心及AI定制芯片收入占比变化，以及来自谷歌、亚马逊等大客户的订单指引",
-      "宏观环境变量：美元指数（DXY）走势、科技股整体估值重定价风险，以及地缘局势对供应链的潜在干扰"
+      "6月CPI通胀数据：若通胀超预期导致降息预期回落，将进一步打压高估值科技成长股的折现估值",
+      "标普500正式纳入时间节点及被动资金实际买入规模，决定短期筹码结构能否获得实质改善",
+      "下季度财报中AI定制芯片（XPU）收入占比及新客户拓展进展，验证「万亿市值叙事」的基本面支撑是否成立"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Marvell Technology（纳斯达克：MRVL）是一家总部位于圣克拉拉的半导体设计公司，专注于数据基础设施芯片，产品覆盖数据中心、运营商网络、企业网络及汽车等领域。公司近年战略重心已明显向AI相关定制ASIC及光互连芯片倾斜，借助台积电先进制程实现差异化竞争。截至2026年6月，公司已确认将被纳入标普500指数，成为近期市场关注焦点。"
+        "body": "Marvell Technology（纳斯达克：MRVL）是一家总部位于美国的半导体设计公司，专注于数据基础设施领域，核心产品涵盖定制AI加速芯片（XPU）、以太网交换与PHY芯片、光互联及存储控制器。近年来公司战略重心已从传统存储与有线网络向AI数据中心基础设施大幅转移，为Google、Amazon、Microsoft等超大规模云厂商提供定制硅解决方案，逐步确立其在云端AI算力基础设施生态中的关键供应商地位。"
       },
       {
-        "heading": "AI定制芯片业务",
-        "body": "MRVL在AI定制芯片（ASIC）领域的布局是近期股价大幅上涨的核心驱动力。公司为谷歌、亚马逊等超大规模云厂商提供专用AI加速芯片设计服务，与英伟达通用GPU路线形成互补。黄仁勋公开表示希望看到MRVL成长为「万亿美元竞争对手」，侧面印证其在AI算力生态中的战略价值。CoPackaged Optics（CPO）技术亦被视为下一代数据中心互联的重要方向。"
+        "heading": "近期重大事件",
+        "body": "2026年6月初，英伟达CEO黄仁勋在公开场合将MRVL定义为「下一个万亿美元公司」，消息引发股价剧烈波动，短期大幅拉升后随科技股整体回调单日下跌约12%。与此同时，MRVL宣布即将纳入标普500指数，市场预期将带来可观的被动资金强制买入。两大事件叠加，令MRVL成为近期市场焦点，但也使估值争议进一步加剧，多空分歧明显扩大。"
       },
       {
-        "heading": "S&P 500纳入影响",
-        "body": "S&P 500纳入确认是2026年6月8日股价大涨的直接催化剂。历史规律显示，被纳入指数的个股在正式生效前后通常经历被动买盘驱动的短期溢价，随后可能出现「卖事实」回调。分析师指出，尽管ETF强制买盘可提供短期支撑，但若当前估值已充分反映这一利好，实际净流入规模与市场预期的落差将决定后续走势方向。"
+        "heading": "AI定制芯片战略",
+        "body": "MRVL核心增长引擎是为超大规模云厂商定制的AI推理与训练专用ASIC。相较于英伟达通用GPU，定制ASIC在特定工作负载下具备更高能效比与成本优势，云厂商出于降低对单一供应商依赖及优化总体拥有成本的考量，持续加大定制芯片投入。MRVL已与多家头部云厂商签订长期合作协议，收入能见度较高。值得关注的是，黄仁勋的公开背书一方面验证了MRVL的技术实力，另一方面也令部分分析师思考英伟达背后的战略考量。"
       },
       {
-        "heading": "竞争格局",
-        "body": "MRVL在AI芯片赛道面临多维度竞争：英伟达主导通用GPU市场，博通（AVGO）同样深耕超大规模云厂商定制ASIC，AMD持续扩大数据中心GPU份额，英特尔则在网络处理器领域与MRVL存在直接重叠。MRVL的差异化优势在于深度客户定制能力与光互连技术积累，但客户自研芯片趋势（如谷歌TPU、亚马逊Trainium）长期仍构成潜在威胁。"
+        "heading": "估值与市场表现",
+        "body": "受AI叙事持续驱动，MRVL股价过去一年累计涨幅显著，当前市盈率与市销率均处于历史高位，远超传统半导体同行均值。近期单日12%的大幅下跌揭示高估值标的在市场情绪逆转时的波动风险——「买预期卖事实」的规律在高溢价成长股中尤为明显。标普500纳入所带来的被动资金买入效应虽构成短期利好，但纳入落地后能否维持估值溢价仍存疑问。"
       },
       {
-        "heading": "财务与估值",
-        "body": "过去12个月MRVL股价涨幅逾340%，估值水平已显著超出传统半导体行业均值。当前市场对其AI业务未来几年的高速增长给予了较高的预期溢价。公司营收增长主要来自数据中心部门，但消费电子及运营商业务的周期性波动仍会对整体利润率形成扰动。投资者需关注未来几个季度AI定制芯片收入能否持续超预期，以支撑当前估值体系。"
+        "heading": "风险因素",
+        "body": "主要风险包括以下四个维度：一是客户集中度风险，少数超大规模云厂商贡献大部分定制芯片营收，任一客户技术路线调整将直接冲击业绩；二是宏观与地缘政治风险，美伊军事冲突持续推高能源与通胀预期，科技板块整体承压；三是竞争风险，Broadcom同样深耕定制ASIC赛道，英特尔、Alchip等亦在争夺相关订单份额；四是估值风险，当前股价已充分定价乐观情景，若AI资本开支节奏放缓或客户推迟交付，估值重估压力较大。"
       },
       {
-        "heading": "主要风险",
-        "body": "核心风险包括：第一，超大规模云厂商削减资本开支或加速自研芯片导致订单萎缩；第二，市场情绪反转引发高估值品种集中抛售；第三，地缘政治风险（如霍尔木兹海峡局势）对全球供应链的潜在冲击；第四，S&P 500纳入后「卖事实」效应导致短期技术性压力。此外，黄仁勋的公开背书属于非官方表态，不构成任何商业承诺，其持续性与可兑现程度存在不确定性。"
+        "heading": "多空分歧与展望",
+        "body": "多方认为MRVL正处于AI定制硅浪潮的核心受益位置，超大规模云厂商持续加码定制ASIC的长期趋势不变，标普500纳入与黄仁勋背书形成双重催化，当前回调提供了相对更好的介入窗口。空方则认为估值已透支未来增长，高客户集中度与宏观不确定性构成实质下行风险，「万亿市值叙事」存在被情绪放大的可能，近期大幅下跌或是更深调整的前兆。短期内，CPI数据、财报指引与标普500纳入节点将是关键观察窗口；中长期而言，定制芯片收入占比能否持续提升、新客户拓展进展将决定当前估值是否具备基本面支撑。"
       }
     ],
     "comparables": [
       {
         "ticker": "AVGO",
-        "name": "博通",
-        "note": "AI定制ASIC最直接对标，同样深度绑定超大规模云厂商，估值与增长预期均处于高位"
+        "name": "Broadcom",
+        "note": "定制ASIC最直接的竞争对手，同样为Google、Meta等提供AI专用芯片，营收规模更大且多元化程度更高，常被用作MRVL估值参照基准"
       },
       {
         "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "AI算力绝对龙头，黄仁勋背书MRVL体现其对定制芯片生态的战略认可，两者竞合关系值得持续追踪"
+        "name": "Nvidia",
+        "note": "GPU龙头与AI算力最大受益者，与MRVL既存在定制与通用GPU的路线竞争，又有生态互补关系，黄仁勋背书使两者关系颇受市场关注"
       },
       {
         "ticker": "AMD",
-        "name": "超微半导体",
-        "note": "数据中心GPU份额持续扩张，与MRVL在云计算客户侧存在间接竞争"
+        "name": "Advanced Micro Devices",
+        "note": "GPU与CPU双线布局，同样争夺AI数据中心份额，与MRVL在部分细分市场存在间接竞争，估值体系可作横向对比"
       },
       {
         "ticker": "INTC",
-        "name": "英特尔",
-        "note": "网络处理器领域直接竞争对手，自身转型压力较大，短期对MRVL构成的竞争威胁相对有限"
+        "name": "Intel",
+        "note": "传统半导体巨头，正经历战略转型期，被部分跟踪者与MRVL并列为看好的美股标的，但基本面复苏不确定性更高"
       },
       {
-        "ticker": "MCHP",
-        "name": "微芯科技",
-        "note": "同属半导体设计赛道，但更侧重嵌入式与工业控制，可作为观察传统半导体估值中枢的参照基准"
+        "ticker": "ARM",
+        "name": "Arm Holdings",
+        "note": "提供芯片IP架构，MRVL多款定制ASIC基于ARM架构，两者具有上下游产业链关联，同被市场视为AI基础设施生态受益标的"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-08T22:44:58.385731Z"
+    "generatedAt": "2026-06-09T22:29:21.381763Z"
   },
   "news": [
     {
-      "id": "MRVL-140574118",
-      "title": "After Skyrocketing 340% in Just 12 Months, Is Marvell Technology Stock Still a Good Buy?",
+      "id": "MRVL-140586705",
+      "title": "What Could Go Wrong For Broadcom Stock?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-08",
-      "url": "https://finnhub.io/api/news?id=d4212a9c489f8c4e420e20fc17852dc3a45f61b776eac0553e16b0ae96194925",
+      "publishedAt": "2026-06-09",
+      "url": "https://finnhub.io/api/news?id=ecef43121cf2a4dabbf673ee6d34204a556dde67042d4549a7d8791b939992bd",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140574123",
-      "title": "Stock Market Today, June 8: Marvell, Intel, and Micron Lead Tech Stock Rebound",
+      "id": "MRVL-140586727",
+      "title": "US Equity Indexes Decline as Technology Comes Under Selling Pressure",
       "source": "Yahoo",
-      "publishedAt": "2026-06-08",
-      "url": "https://finnhub.io/api/news?id=57fe35c4c3017c208681335866fcc352b9e1db1be78fadae9687ee42123b91ef",
+      "publishedAt": "2026-06-09",
+      "url": "https://finnhub.io/api/news?id=001b242407ec44936aade159dabe0b0b9a2e0401af1b83f821e96e2ed9879fcc",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140574414",
-      "title": "Stock Market Today, June 8: Marvell Technology Surges After S&P 500 Inclusion Confirmed",
+      "id": "MRVL-140586712",
+      "title": "Broadcom Stock And The Ninety-Billion-Dollar Roadmap",
       "source": "Yahoo",
-      "publishedAt": "2026-06-08",
-      "url": "https://finnhub.io/api/news?id=2e6ee656f74f8e0446e556953d2e765a98f9c38ca25d27ba177616100087c02b",
+      "publishedAt": "2026-06-09",
+      "url": "https://finnhub.io/api/news?id=3aeaf466b6b57e4599b2fa686104f02449e0f0f67a0913d1ab5dd74ad086b95c",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140574227",
-      "title": "GraniteShares Announces Forward Splits",
+      "id": "MRVL-140586878",
+      "title": "US Equity Markets End Lower Amid Tech Stock Sell-Off",
       "source": "Yahoo",
-      "publishedAt": "2026-06-08",
-      "url": "https://finnhub.io/api/news?id=0d92877d587f1baad7e9ecfc37515b8ff80596a8af11bd29221eef449cb808e2",
+      "publishedAt": "2026-06-09",
+      "url": "https://finnhub.io/api/news?id=83938c1230081c21cb6a40883ed2bcfd3f8aa1321d6758c0ea0954e952971ad8",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140572915",
-      "title": "What history tells us about Marvell's upcoming S&P 500 inclusion",
+      "id": "MRVL-140585176",
+      "title": "Stocks making big moves yesterday: Marvell Technology, Intel, Teradyne, JFrog, and Tesla",
       "source": "Yahoo",
-      "publishedAt": "2026-06-08",
-      "url": "https://finnhub.io/api/news?id=cbcfc9f8b0013be90b9132ec15aef078d59f603718f84e686b1c6c3f2a114665",
+      "publishedAt": "2026-06-09",
+      "url": "https://finnhub.io/api/news?id=71430d303846db4d135d6e2f51519cbfd63689959b4289ad4a0ce9366c1daedd",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140572427",
-      "title": "Why Marvell Technology Stock Popped Today",
+      "id": "MRVL-140585019",
+      "title": "Technology Pushes US Equity Indexes Lower",
       "source": "Yahoo",
-      "publishedAt": "2026-06-08",
-      "url": "https://finnhub.io/api/news?id=8fbaa0fa98dbd7fc2cd9d5cafb2fd44488c97ad7d81dd269b1b4f18ed0ca513c",
+      "publishedAt": "2026-06-09",
+      "url": "https://finnhub.io/api/news?id=21db26d877d7582af7b3ce4726522ee242d77d7a21b597240260091fe54ef339",
       "tags": [
         "MRVL"
       ]
