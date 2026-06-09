@@ -1,5 +1,17 @@
 [
   {
+    "ticker": "FCBM",
+    "name": "First Carolina Financial Services, Inc.",
+    "date": "2026-06-18",
+    "priceRange": [
+      14.0,
+      16.0
+    ],
+    "sector": "—",
+    "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
     "ticker": "SPCX",
     "name": "SPACE EXPLORATION TECHNOLOGIES CORP",
     "date": "2026-06-12",
@@ -36,6 +48,18 @@
     "status": "expected"
   },
   {
+    "ticker": "JABU",
+    "name": "JAB Acquisition Corp I",
+    "date": "2026-06-10",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "EROC",
     "name": "ERock, Inc.",
     "date": "2026-06-10",
@@ -48,12 +72,36 @@
     "status": "expected"
   },
   {
+    "ticker": "ISNRU",
+    "name": "Snow Rothschild Acquisition Corp.",
+    "date": "2026-06-09",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "WHK",
     "name": "WhiteHawk Income Corp",
     "date": "2026-06-09",
     "priceRange": [
-      25.0,
-      27.0
+      26.0,
+      26.0
+    ],
+    "sector": "—",
+    "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
+    "ticker": "OCACU",
+    "name": "Ocean Capital Acquisition Corp",
+    "date": "2026-06-09",
+    "priceRange": [
+      10.0,
+      10.0
     ],
     "sector": "—",
     "exchange": "NYSE",
