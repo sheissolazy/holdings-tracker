@@ -2,6 +2,16 @@
   {
     "personId": "jensen",
     "type": "statement",
+    "asOf": "2026-06-10",
+    "sentiment": "watch",
+    "excerpt": "Jensen Huang Just Delivered Fantastic News to Marvell Stock Investors",
+    "postUrl": "https://finnhub.io/api/news?id=617ac2b3aa83d9a83af74157a962864e1084441d739225c90715757cfa445506",
+    "topics": [],
+    "ticker": "MRVL"
+  },
+  {
+    "personId": "jensen",
+    "type": "statement",
     "asOf": "2026-06-09",
     "sentiment": "watch",
     "excerpt": "Nvidia CEO Jensen Huang Believes That Marvell Technology Could Become a $1 Trillion Company. Here's Why He Is Right",

@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 290.55,
-  "change5dPct": -7.8,
-  "changeYtdPct": 4.2,
-  "marketCap": "$4.43T",
-  "pe": 34.8,
+  "price": 291.58,
+  "change5dPct": -6.0,
+  "changeYtdPct": 4.9,
+  "marketCap": "$4.30T",
+  "pe": 35.1,
   "revenue": "—",
   "revenueYoYPct": 13,
   "prices": [
-    {
-      "t": "2025-12-10",
-      "o": 277.75,
-      "h": 279.75,
-      "l": 276.44,
-      "c": 278.78
-    },
     {
       "t": "2025-12-11",
       "o": 279.1,
@@ -874,136 +867,138 @@
     },
     {
       "t": "2026-06-09",
-      "o": 300.27,
-      "h": 300.72,
+      "o": 300.28,
+      "h": 300.75,
       "l": 287.78,
       "c": 290.55
+    },
+    {
+      "t": "2026-06-10",
+      "o": 290.77,
+      "h": 294.74,
+      "l": 287.38,
+      "c": 291.58
     }
   ],
   "thesis": {
     "bull": [
-      "巴菲特截至2026年3月持有约2.28亿股，市值逾578亿美元，占伯克希尔持仓约22%，维持不动，显示长线大资金对基本面的高度信心。",
-      "英伟达CEO黄仁勋公开表达对「Apple AI」的高度期待，AI硬件与生态协同叙事有望重燃市场对iPhone超级升级周期的预期。",
-      "iOS 27泄露可折叠iPhone（售价或达2000美元）线索，若新品类成功落地将打开全新增长曲线，并有效提升平均售价与服务生态黏性。"
+      "巴菲特旗下伯克希尔截至2026年一季度持有约2.28亿股AAPL，仓位占比高达22%且保持不变，体现长期价值投资者对苹果护城河的高度认可。",
+      "英伟达CEO黄仁勋于2026年6月发表积极评论，对苹果AI前景「寄予厚望」，AI浪潮有望重新激活全球换机周期。",
+      "服务业务（App Store、iCloud、Apple TV+等）持续贡献高毛利率收入，生态系统锁定效应强，现金流充沛，持续股票回购为股价提供长期支撑。"
     ],
     "bear": [
-      "近期新闻直指「Siri AI更新引发iPhone升级需求质疑」，AI功能实际落地体验若持续低于预期，将动摇超级周期叙事的核心逻辑。",
-      "佩洛西家族自2024年底至2025年多次减仓Apple（至少四次披露Exit/Trim），头部政治关联资金持续出逃是不可忽视的负面信号。",
-      "纳斯达克100单日暴跌逾3%，中东地缘冲突（美伊军事对峙）叠加CPI数据悬而未决，宏观风险情绪恶化直接压制高估值科技股。"
+      "媒体报道「投资者不买账」苹果Siri AI战略，市场对其AI执行力存疑，担忧与谷歌、微软的差距持续拉大。",
+      "苹果耗费数十亿美元的自动驾驶汽车项目以放弃告终，测试基地以2.2亿美元售予Waymo，暴露重大新业务拓展中的战略失误风险。",
+      "美众议员佩洛西自2024年末至2025年底连续多次减持AAPL，聪明钱持续离场方向偏空，形成与巴菲特的明显分歧。"
     ],
     "watch": [
-      "摩根士丹利围绕WWDC催化剂调整目标价，需持续跟踪分析师共识方向，WWDC实际发布内容将是短期最重要的价格驱动因子。",
-      "CPI通胀数据（6月周三公布）将直接影响联储降息路径预期；若数据超预期，高持续期科技股估值将面临重新定价压力。",
-      "佩洛西最新PTR同时出现「new long」与「exit/trim」记录，持仓方向存在矛盾，需等待后续披露确认净头寸变化方向。"
+      "美伊战争导致美国消费者通胀突破4%、能源价格飙升，需持续跟踪其对高端消费电子换机需求的传导影响。",
+      "纳斯达克100指数近期单日跌幅超3%，科技板块整体风险偏好收缩，AAPL当前估值是否充分消化宏观逆风需密切关注。",
+      "Apple Intelligence核心功能（下一代Siri及第三方AI集成）的实际用户采用率与商业化变现进展，是判断AI估值溢价能否成立的关键指标。"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Apple Inc.（AAPL）是全球市值最大的消费科技公司，核心业务涵盖iPhone、Mac、iPad、可穿戴设备及日益壮大的服务生态（App Store、Apple Music、iCloud、Apple TV+等）。截至2026年中，公司正处于「Apple Intelligence」AI战略落地的关键窗口期，即将举办的WWDC开发者大会被市场视为近期最重要的催化剂事件。"
+        "body": "苹果公司（Apple Inc.，AAPL）是全球市值最大的科技公司之一，核心业务涵盖iPhone、Mac、iPad、可穿戴设备及持续高速增长的服务板块。公司以垂直整合的硬件-软件-服务生态著称，拥有逾20亿台活跃设备与庞大忠实用户群。近年来服务业务收入占比持续提升，成为抵御硬件销售周期波动的重要收入缓冲。"
       },
       {
-        "heading": "核心投资逻辑（多头视角）",
-        "body": "多头逻辑围绕三条主线展开：一是AI驱动的换机超级周期，若Apple Intelligence功能实质性领先竞品，将催化全球约10亿台旧款iPhone用户加速升级；二是服务收入的高利润率与强黏性持续提升整体盈利质量，平滑硬件周期波动；三是巴菲特长持不动提供了强烈的「价值锚」信号，叠加回购计划，支撑每股收益持续增长。"
+        "heading": "AI战略与竞争格局",
+        "body": "苹果于2024年推出Apple Intelligence战略，聚焦设备端AI能力与Siri深度升级。然而市场对其执行进度普遍持保留意见，认为与谷歌、微软在AI功能集成上的差距尚未显著缩小。英伟达CEO黄仁勋近期积极评价苹果AI潜力，为市场注入一定信心，但实质性落地效果仍待后续财报与产品发布检验。"
       },
       {
-        "heading": "主要风险（空头视角）",
-        "body": "空头核心质疑在于AI执行力：Siri长期被诟病落后于Google Assistant与ChatGPT，市场担忧Apple Intelligence是否仅为「包装升级」而非真正突破性体验，这将直接削弱换机动力。此外，苹果高度依赖中国市场（营收约17-18%），中美关税博弈及华为国内竞争的持续挑战构成地缘政治风险敞口。高估值（市盈率远高于同行均值）在利率上行或风险情绪收紧时提供的保护垫有限。"
+        "heading": "机构投资者动向",
+        "body": "巴菲特旗下伯克希尔·哈撒韦截至2026年一季度持有约2.28亿股，市值约578亿美元，占组合22%且持仓不变，是市场上最受关注的长期多头信号之一。与之形成对比的是，美众议员佩洛西自2024年末至2025年底连续减持，操作方向持续偏空，两者信号分歧值得关注。"
       },
       {
-        "heading": "机构与知名投资者动向",
-        "body": "巴菲特的伯克希尔哈撒韦截至2026年3月仍维持约2.28亿股持仓零变动，象征意义重大。相比之下，佩洛西家族自2024年四季度起多次提交减仓或清仓披露，方向与巴菲特相反，形成明显分歧。英伟达CEO黄仁勋公开表态对Apple AI前景乐观，其在AI生态中的影响力使该表态具有一定的行业信号价值，但属于中立观察者意见，并非直接持仓信号。"
+        "heading": "宏观环境与市场情绪",
+        "body": "当前宏观背景复杂：美伊军事冲突推动油价大幅走高，美国消费者通胀已突破4%，全球集装箱运费大幅攀升，风险资产整体承压。纳斯达克100指数近期单日最大跌幅超3%，科技股估值面临重新定价压力。高通胀环境可能延缓美联储降息节奏，对高估值成长股构成系统性利空。"
       },
       {
-        "heading": "宏观与市场环境",
-        "body": "当前宏观环境对高估值科技股构成双重压力：一是美国与伊朗军事冲突升级推动避险情绪，导致纳斯达克100单日跌幅超3%，科技板块整体承压；二是CPI通胀数据尚未发布，市场对联储降息路径预期存在不确定性，利率敏感型长久期资产（如高PE科技股）估值易受冲击。纳斯达克综指已跌至5周低位，技术面承压。"
+        "heading": "业务风险与战略调整",
+        "body": "苹果放弃历时近十年、耗资数十亿美元的自动驾驶汽车项目，并将测试基地以2.2亿美元出售给Waymo，标志着一次重大战略收缩。此举虽有助于资源聚焦，但引发外界对苹果能否在下一代计算平台（自动驾驶、扩展现实）占据先机的质疑，同时带来一定声誉成本与研发效率方面的追问。"
       },
       {
-        "heading": "近期催化剂与关注事项",
-        "body": "短期内有三大事件值得密切跟踪：其一，WWDC大会上Apple Intelligence新功能的实际演示内容及市场反应——摩根士丹利已将其列为目标价调整的核心依据；其二，周三发布的CPI数据将为利率预期定调，直接影响科技板块估值模型；其三，可折叠iPhone的更多细节若获确认，将重新激活硬件产品线创新叙事，但产品量产时间表尚不明朗，短期为概念催化而非基本面支撑。"
+        "heading": "投资分歧与关注焦点",
+        "body": "多空双方核心分歧在于：苹果能否凭借Apple Intelligence重新激活全球换机潮，并将AI能力有效转化为服务业务收入增量。乐观者认为苹果独特的隐私优势与端侧AI将形成差异化护城河；悲观者则担忧AI功能延迟、竞争对手先发优势扩大，以及高通胀环境下消费降级对高端硬件需求的压制。上述分歧将在未来数个季度的财报与产品发布中逐步得到检验。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
         "name": "微软",
-        "note": "同为万亿美元科技巨头，Azure AI落地进度与Copilot商业化明显领先，AI执行力对比是多空分歧的关键参照"
+        "note": "同为「科技巨头+AI转型」叙事，Azure AI商业化进展领先于苹果，估值溢价相近但AI落地成熟度更高"
       },
       {
         "ticker": "GOOGL",
         "name": "Alphabet",
-        "note": "Android生态直接竞争对手，Gemini AI已深度集成手机端，Siri与Gemini的能力差距是苹果AI叙事的最直接压力来源"
+        "note": "安卓生态与iOS直接竞争，Gemini AI整合进度被市场视为苹果AI战略的重要对标参照"
       },
       {
-        "ticker": "SSNLF",
+        "ticker": "005930.KS",
         "name": "三星电子",
-        "note": "全球智能手机市占率第一，已率先推出Galaxy Z Fold系列，是苹果可折叠iPhone最直接的可比参照，定价策略与市场反应具参考意义"
-      },
-      {
-        "ticker": "META",
-        "name": "Meta Platforms",
-        "note": "同属「高PE成长+AI转型」框架，近期股价走势与苹果高度相关，可用于判断当前下跌是个股逻辑还是板块系统性调整"
+        "note": "Galaxy AI系列率先将生成式AI功能商业化落地，对苹果iPhone在AI高端市场份额构成直接挑战"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-09T22:32:00.156091Z"
+    "generatedAt": "2026-06-10T22:58:25.189298Z"
   },
   "news": [
     {
-      "id": "AAPL-140586720",
-      "title": "Stock Market Today, June 9: Apple Falls as Siri AI Update Raises iPhone Upgrade Questions",
+      "id": "AAPL-140599152",
+      "title": "Stock Market Today, June 10: Super Micro Computer, Nvidia, Micron Fall as Risk-Off Mood Intensifies",
       "source": "Yahoo",
-      "publishedAt": "2026-06-09",
-      "url": "https://finnhub.io/api/news?id=86a5b5323f902cb27188c45f9d70d86898bada13092e4fbfce56406a6e08fffd",
+      "publishedAt": "2026-06-10",
+      "url": "https://finnhub.io/api/news?id=f848519ad1389d4f9661758b1d5e37d2cdc045ed23156e2cd531fbdd148645fe",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140586721",
-      "title": "Stock Market Today, June 9: Risk-Off Sentiment Pressures Nasdaq",
+      "id": "AAPL-140599170",
+      "title": "Apple Spent Billions Chasing A Self-Driving Car, Then Walked Away—Waymo Now Bought The Test Site For $220 Million",
       "source": "Yahoo",
-      "publishedAt": "2026-06-09",
-      "url": "https://finnhub.io/api/news?id=d4cad48e832ed4dd1914e9bbd6dc3803d143676a14a0978e0b24391d7ebeb6a5",
+      "publishedAt": "2026-06-10",
+      "url": "https://finnhub.io/api/news?id=65119bdd681caf77ef57914801fdacf5a4bb4dbcf089097ef3c616e5ebe1cfe4",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140586722",
-      "title": "Nasdaq Composite Falls to 5-Week Low Amid Tech Pullback",
+      "id": "AAPL-140597334",
+      "title": "Apple Bets Big on Siri AI. Investors Aren’t Buying It.",
       "source": "Yahoo",
-      "publishedAt": "2026-06-09",
-      "url": "https://finnhub.io/api/news?id=e95b812179ab657c92a0007fc5d77bc1021ba58bf548a4879e7a9dc9d42b6d5c",
+      "publishedAt": "2026-06-10",
+      "url": "https://finnhub.io/api/news?id=ad0fe46a96c4cb73abadd4bb1ff2f9091a0c503ec2c06df57a13814b8ae0ee6c",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140586723",
-      "title": "Apple's iOS 27 Reveals New Clues About $2,000 Foldable iPhone",
-      "source": "Yahoo",
-      "publishedAt": "2026-06-09",
-      "url": "https://finnhub.io/api/news?id=c4c61d1da8b861213aab3830975355daaebe6d4f3d5afb146445bbc47f574368",
+      "id": "AAPL-140596961",
+      "title": "Which dow jones stocks are moving on Wednesday?",
+      "source": "ChartMill",
+      "publishedAt": "2026-06-10",
+      "url": "https://finnhub.io/api/news?id=053fea32457bdc9084abf1e7ae1bf00fdcae9db1ccd65bd722c43edaaedad38c",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140584864",
-      "title": "Rubrik Releases Next Season of Acclaimed \"To Catch a Thief\" by Nicole Perlroth, Podcast Documentary Details Current Threats from North Korea",
+      "id": "AAPL-140597329",
+      "title": "XMAG vs. MAGS: Betting Against or All-In on the Magnificent 7?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-09",
-      "url": "https://finnhub.io/api/news?id=4ffb77e665e6e453b3cbb88ce3c9d9738014a2f0166aa058b13c395aaded4774",
+      "publishedAt": "2026-06-10",
+      "url": "https://finnhub.io/api/news?id=efedfb49a9c64b277831f459f32bb44ee6fce06ad91c1afe928fc42bd1ae0fbf",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140584865",
-      "title": "Morgan Stanley Revises Apple Stock Price Target on WWDC Catalyst",
+      "id": "AAPL-140597336",
+      "title": "RSP vs. SPY: Does Equal Weight Beat the Cap-Weighted S&P 500?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-09",
-      "url": "https://finnhub.io/api/news?id=a6716e51191f85906d86b16b52b16b71374467ba6ed76333d35b904bb8aa50eb",
+      "publishedAt": "2026-06-10",
+      "url": "https://finnhub.io/api/news?id=be39dde876d271e652a29d48d11632d2b8dadb1dc2d1847fd12119671d50e427",
       "tags": [
         "AAPL"
       ]
