@@ -1,101 +1,101 @@
 {
-  "forDate": "2026-06-11",
-  "generatedAt": "2026-06-10T22:59:21Z",
+  "forDate": "2026-06-12",
+  "generatedAt": "2026-06-11T22:58:56Z",
   "model": "确定性技术位 + 风险计（无 AI、无编造）",
   "catalysts": [],
   "pendingSignals": [],
   "draftActions": [],
   "risk": {
     "available": true,
-    "asOf": "2026-06-10",
-    "score": 1,
+    "asOf": "2026-06-11",
+    "score": 2,
     "level": "中",
     "label": "风险中性",
     "inputs": [
       {
         "name": "标普 · 趋势",
         "value": "位于 50/200 日线上方",
-        "detail": "SPX 725.4 · 50DMA 719.3 · 200DMA 685.3",
+        "detail": "SPX 737.8 · 50DMA 721.1 · 200DMA 685.8",
         "contribution": 2,
         "note": "中长期趋势均健康（risk-on）"
       },
       {
         "name": "标普 · 1月动量",
-        "value": "-1.7%",
+        "value": "-0.2%",
         "detail": "近 22 个交易日累计涨跌",
         "contribution": 0,
         "note": "区间震荡"
       },
       {
         "name": "10年美债 · 1月",
-        "value": "+18bp",
-        "detail": "当前 4.54%",
+        "value": "+5bp",
+        "detail": "当前 4.46%",
         "contribution": 0,
         "note": "利率波动有限"
       },
       {
         "name": "美元指数 · 1月",
-        "value": "+2.3%",
-        "detail": "当前 DXY 100.08",
-        "contribution": -1,
-        "note": "美元走强、抽流动性"
+        "value": "+1.8%",
+        "detail": "当前 DXY 99.67",
+        "contribution": 0,
+        "note": "美元区间波动"
       }
     ],
     "note": "确定性规则，仅用真实大盘历史计算；为体制参考、非买卖指令。"
   },
   "suggestions": [
     {
-      "id": "be-add",
-      "kind": "add",
-      "ticker": "BE",
-      "instrument": "stock",
-      "refPrice": 234.23,
-      "addBelow": 234.23,
-      "trimAbove": null,
-      "stop": 219.08,
-      "confidence": "med",
-      "headline": "BE · 回踩加仓参考位",
-      "reason": "现价 $234.23 已靠近支撑带 $230.61（近 30 日低点）/ 50 日线 $244.18；如回踩 $234.23 附近可分批考虑。止损参考跌破 $219.08。",
-      "basis": [
-        "1 位跟踪者 13F 持有：Leopold Aschenbrenner·减仓",
-        "近 30 日支撑 $230.61 / 阻力 $322.83 / 50 日线 $244.18（真实价格历史）",
-        "现价 $234.23，距支撑 +1.5% · 距阻力 +37.8%"
-      ]
-    },
-    {
-      "id": "nvda-add",
-      "kind": "add",
-      "ticker": "NVDA",
-      "instrument": "stock",
-      "refPrice": 200.42,
-      "addBelow": 200.42,
-      "trimAbove": null,
-      "stop": 185.0,
-      "confidence": "med",
-      "headline": "NVDA · 回踩加仓参考位",
-      "reason": "现价 $200.42 已靠近支撑带 $194.74（近 30 日低点）/ 50 日线 $205.71；如回踩 $200.42 附近可分批考虑。止损参考跌破 $185.0。",
-      "basis": [
-        "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
-        "近 30 日支撑 $194.74 / 阻力 $236.54 / 50 日线 $205.71（真实价格历史）",
-        "现价 $200.42，距支撑 +2.8% · 距阻力 +18.0%"
-      ]
-    },
-    {
       "id": "aapl-watch",
       "kind": "watch",
       "ticker": "AAPL",
       "instrument": "stock",
-      "refPrice": 291.58,
-      "addBelow": 283.94,
+      "refPrice": 295.63,
+      "addBelow": 284.78,
       "trimAbove": 317.4,
-      "stop": 253.69,
+      "stop": 254.73,
       "confidence": "high",
       "headline": "AAPL · 区间观察",
-      "reason": "现价 $291.58 处于支撑 $267.04 与阻力 $317.4 之间；回踩 $283.94 偏积极，逼近 $317.4 偏谨慎。",
+      "reason": "现价 $295.63 处于支撑 $268.14 与阻力 $317.4 之间；回踩 $284.78 偏积极，逼近 $317.4 偏谨慎。",
       "basis": [
         "2 位跟踪者 13F 持有：Warren Buffett·持平、Nancy Pelosi·新建",
-        "近 30 日支撑 $267.04 / 阻力 $317.4 / 50 日线 $283.94（真实价格历史）",
-        "现价 $291.58，距支撑 +8.4% · 距阻力 +8.9%"
+        "近 30 日支撑 $268.14 / 阻力 $317.4 / 50 日线 $284.78（真实价格历史）",
+        "现价 $295.63，距支撑 +9.3% · 距阻力 +7.4%"
+      ]
+    },
+    {
+      "id": "be-watch",
+      "kind": "watch",
+      "ticker": "BE",
+      "instrument": "stock",
+      "refPrice": 248.88,
+      "addBelow": 246.45,
+      "trimAbove": 322.83,
+      "stop": 219.07,
+      "confidence": "med",
+      "headline": "BE · 区间观察",
+      "reason": "现价 $248.88 处于支撑 $230.6 与阻力 $322.83 之间；回踩 $246.45 偏积极，逼近 $322.83 偏谨慎。",
+      "basis": [
+        "1 位跟踪者 13F 持有：Leopold Aschenbrenner·减仓",
+        "近 30 日支撑 $230.6 / 阻力 $322.83 / 50 日线 $246.45（真实价格历史）",
+        "现价 $248.88，距支撑 +7.3% · 距阻力 +29.7%"
+      ]
+    },
+    {
+      "id": "nvda-watch",
+      "kind": "watch",
+      "ticker": "NVDA",
+      "instrument": "stock",
+      "refPrice": 204.87,
+      "addBelow": 204.87,
+      "trimAbove": 236.54,
+      "stop": 185.0,
+      "confidence": "med",
+      "headline": "NVDA · 区间观察",
+      "reason": "现价 $204.87 处于支撑 $194.74 与阻力 $236.54 之间；回踩 $204.87 偏积极，逼近 $236.54 偏谨慎。",
+      "basis": [
+        "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
+        "近 30 日支撑 $194.74 / 阻力 $236.54 / 50 日线 $206.32（真实价格历史）",
+        "现价 $204.87，距支撑 +4.9% · 距阻力 +15.5%"
       ]
     }
   ],
