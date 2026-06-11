@@ -3,21 +3,14 @@
   "name": "Marvell Technology",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 252.59,
-  "change5dPct": -16.3,
-  "changeYtdPct": 182.4,
-  "marketCap": "$224.0B",
-  "pe": 91.9,
+  "price": 280.71,
+  "change5dPct": -11.3,
+  "changeYtdPct": 232.5,
+  "marketCap": "$221.0B",
+  "pe": 90.0,
   "revenue": "—",
   "revenueYoYPct": 34,
   "prices": [
-    {
-      "t": "2025-12-11",
-      "o": 90.98,
-      "h": 91.74,
-      "l": 87.51,
-      "c": 89.43
-    },
     {
       "t": "2025-12-12",
       "o": 87.63,
@@ -874,131 +867,148 @@
     },
     {
       "t": "2026-06-10",
-      "o": 263.26,
-      "h": 272.44,
+      "o": 263.5,
+      "h": 272.47,
       "l": 252.26,
       "c": 252.59
+    },
+    {
+      "t": "2026-06-11",
+      "o": 260.54,
+      "h": 282.32,
+      "l": 258.43,
+      "c": 280.71
     }
   ],
   "thesis": {
     "bull": [
-      "英伟达CEO黄仁勋多次公开背书，称MRVL有望成为下一个万亿美元公司，为其定制ASIC业务提供极高可信度认可，并可能带来更深层战略合作机遇",
-      "超大规模云厂商持续加大AI基础设施资本开支，MRVL凭借面向谷歌、亚马逊等客户的定制推理芯片（XPU）处于产业链核心位置，订单能见度相对较高",
-      "市场资金正从「Magnificent 7」向「MANGOS」等AI基础设施标的轮动，MRVL作为AI芯片二线成长龙头，有望承接机构增配资金的阶段性流入"
+      "英伟达CEO黄仁勋公开背书，称MRVL具备成长为万亿美元公司的潜力，为其AI定制芯片战略提供顶级行业背书，有望加速超大规模云厂商订单落地",
+      "公司将于2026年6月22日正式纳入标普500指数，届时将触发大规模被动资金流入，据估算被动买盘规模可能超过70亿美元",
+      "AI定制ASIC赛道高速扩张，MRVL凭借与谷歌、亚马逊等超大规模客户的深度合作，营收可见度持续提升，有望充分分享AI资本开支浪潮红利"
     ],
     "bear": [
-      "近期单日跌幅高达12%，美伊军事冲突叠加通胀突破4%引发的风险规避情绪，对高估值成长股形成系统性压力，短期波动率显著放大",
-      "黄仁勋背书带来的乐观预期已在股价中有所反映，市场人士明确指出「背书并未消除MRVL的实质经营风险」，估值透支后兑现压力不容忽视",
-      "博通（Broadcom）在定制AI芯片领域与MRVL直接竞争，若博通继续扩大超大规模客户合作份额，MRVL的增长路径可能受到结构性挤压"
+      "股价一个月内已飙升约57%，估值透支明显，标普500纳入日存在「利好兑现即卖出」风险，历史上指数纳入后短期往往出现回调压力",
+      "黄仁勋的背书并未消除MRVL自身的执行风险：AI定制芯片项目开发周期长、客户集中度高，若任一主力客户削减订单或延期，营收将受到显著冲击",
+      "近期市场曾出现单日暴跌12%的走势，显示筹码浮动、情绪脆弱；宏观层面通胀升温与美联储政策不确定性叠加地缘风险，可能放大高估值成长股的下行波动"
     ],
     "watch": [
-      "美伊冲突进展与油价走势：能源价格飙升持续推高通胀预期，美联储政策路径若收紧将系统性压制高PE科技股估值中枢",
-      "超大规模云厂商资本开支指引：微软、谷歌、亚马逊下半年AI芯片采购计划是否维持高增速，直接决定MRVL定制ASIC收入能见度与市场预期",
-      "黄仁勋「具体利好消息」细节落地情况：市场正等待背书背后潜在合作协议或订单信息的实质披露，任何进展不及预期均可能引发二次回调"
+      "6月22日标普500正式纳入时点：机构再平衡与散户情绪能否承接被动资金流入后的抛压，是短期股价走向的关键变量",
+      "中东地缘局势（伊朗与美国谈判进展）：近期市场因「特朗普取消对伊空袭」而反弹，若局势再度升温将压制科技股整体风险偏好",
+      "下一季度财报及管理层业绩指引：AI芯片营收占比提升节奏、毛利率趋势以及2027财年订单能见度，将直接检验当前高估值的合理性"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Marvell Technology（MRVL）是一家专注于数据基础设施半导体的无晶圆厂芯片设计公司，核心业务涵盖定制AI加速芯片（ASIC/XPU）、以太网交换与PHY芯片、光模块驱动IC及存储控制器。公司近年来战略重心大幅向AI数据中心侧倾斜，与谷歌、亚马逊等超大规模云厂商建立深度定制合作关系，正从传统网络芯片供应商向AI基础设施核心供应商加速转型。"
+        "body": "Marvell Technology（MRVL）是一家聚焦数据基础设施的半导体公司，产品覆盖定制AI加速芯片（ASIC）、高速网络互联、存储控制器及光模块驱动等领域。公司从传统以太网和存储芯片起家，近年战略性地转向AI数据中心基础设施，成为谷歌TPU等超大规模客户定制芯片的核心供应商之一。截至2026年6月，公司市值约在700至800亿美元区间，并即将于6月22日正式加入标普500指数，标志着其在资本市场地位的重要跃升。"
       },
       {
-        "heading": "AI定制芯片业务",
-        "body": "定制ASIC业务是MRVL当前最受市场关注的增长引擎。相较于英伟达GPU的通用计算路线，MRVL为特定超大规模客户定制专用推理芯片，在特定工作负载下具备更优的能效比与单位算力成本。随着AI推理端需求持续爆发，各大云厂商加大自研芯片力度，MRVL凭借其芯片架构设计能力与台积电先进制程合作，在这一赛道处于有利卡位。此外，其面向AI集群的高速互联芯片（PAM4相干光驱动）亦构成差异化竞争壁垒。"
+        "heading": "AI战略定位",
+        "body": "MRVL在AI基础设施领域的核心差异化在于「定制ASIC加先进封装加高速互联」的一体化能力。相较于通用GPU，定制ASIC在特定工作负载下具有更优的能效比与成本优势，吸引超大规模云厂商将其纳入下一代AI训练与推理集群。英伟达CEO黄仁勋多次公开表达对MRVL的认可，认为其定制芯片路线与英伟达并非零和竞争，而是共同壮大整体AI基础设施市场的协同关系，这一表态显著提升了市场对MRVL长期增长空间的预期。"
       },
       {
-        "heading": "黄仁勋背书的意义与局限",
-        "body": "英伟达CEO黄仁勋近期多次公开表态，称MRVL有潜力成为下一个万亿美元市值公司，此言论引发市场强烈反响并推动股价阶段性大幅上涨。值得注意的是，英伟达与MRVL在部分细分市场存在竞争关系，黄仁勋的背书或折射出其对AI生态系统整体壮大的战略考量，而非单纯的商业背书。市场分析人士同时明确警示，背书并未消除MRVL的实质经营风险，投资者需审慎区分情绪催化与基本面的实质改善。"
+        "heading": "增长驱动因素",
+        "body": "短期催化剂包括：标普500纳入带来的被动资金买盘、以及AI资本开支持续高增长背景下大客户定制芯片订单的加速落地。中期来看，公司在光互联驱动IC（PAM4与相干光）领域的布局有望受益于数据中心400G及800G升级浪潮。长期而言，若其能复制并扩展与谷歌类似的合作模式至更多超大规模客户，营收多样化将实质性降低客户集中度风险，为估值扩张提供基础。"
       },
       {
-        "heading": "宏观与地缘政治风险",
-        "body": "2026年6月，美国对伊朗发动军事打击，导致全球油价急涨、美国消费通胀率突破4%，全球市场风险偏好显著下降。纳斯达克100指数单日跌逾3%，MRVL同期下跌约12%，显示高估值科技股在宏观冲击下的高度脆弱性。若美伊冲突持续升级，能源价格进一步动荡，美联储加息预期升温将通过折现率上升机制系统性压制成长股估值，MRVL所处的高倍数定价区间首当其冲。"
+        "heading": "估值与市场表现",
+        "body": "MRVL股价在过去一个月内累计上涨约57%，同期显著跑赢费城半导体指数。在此涨幅之后，市盈率（基于远期EPS）已处于行业较高区间，市销率亦大幅溢价于传统半导体可比公司。支持高估值的逻辑在于AI业务的高速增长预期；质疑高估值的声音则指出，定制芯片收入的规模化存在时间与技术双重不确定性。近期单日曾出现12%的大幅回落，提示市场对负面信息的敏感程度较高，高弹性双向波动是当前价位的显著特征。"
       },
       {
-        "heading": "竞争格局",
-        "body": "MRVL在定制AI芯片领域面临博通（Broadcom）的最直接竞争，两者均深度绑定超大规模云客户的自研芯片项目。博通已与谷歌TPU项目深度合作多年，具备先发优势；MRVL则主要服务其他头部云厂商的定制项目。此外，AMD在AI加速器领域持续发力，英特尔Gaudi系列亦构成潜在竞争压力。MRVL的协同优势在于其网络互联芯片与AI加速芯片的一体化供应能力，有助于提升大客户的切换成本。"
+        "heading": "风险因素",
+        "body": "主要风险包括以下几个维度：其一，客户集中度风险——AI芯片营收高度依赖少数超大规模客户，任何订单推迟或削减将直接冲击业绩；其二，执行风险——先进制程定制芯片开发周期长、良率爬坡存在不确定性；其三，竞争风险——博通同样在定制AI ASIC领域深耕，而英伟达的GPU生态壁垒依然强大；其四，宏观风险——美联储利率路径、通胀数据及中东地缘局势均可能引发高估值成长股的剧烈波动；其五，「纳入效应」退潮风险——指数纳入带来的技术性买盘为一次性事件，之后能否维持需基本面持续兑现。"
       },
       {
-        "heading": "估值与风险展望",
-        "body": "MRVL当前处于高速增长预期定价阶段，市场给予其显著估值溢价。多空分歧集中于三个核心问题：其一，AI资本开支能否在宏观压力下维持高增速；其二，定制ASIC收入能否在2026至2027年实质性放量以兑现估值假设；其三，黄仁勋背书所代表的战略合作是否具有可持续的商业落地路径。在当前风险规避情绪主导的市场环境下，MRVL的短期波动或持续放大，催化剂落地节奏与宏观环境变化将是决定中期走势的关键变量。"
+        "heading": "近期催化剂与市场动态",
+        "body": "近一周内，市场受两条主线驱动：一是黄仁勋持续为MRVL「站台」，相关报道在财经媒体大量传播，情绪面利好明显；二是特朗普宣布取消对伊朗空袭计划，避险情绪降温，科技股普涨，MRVL随大盘反弹。值得关注的是，「标普500纳入是否会成为卖点」已成为市场热议话题，部分分析师认为纳入日前后的供需结构将决定短期方向。投资者需密切跟踪6月22日前后的成交量与机构持仓变化，以判断增量资金的实际承接能力。"
       }
     ],
     "comparables": [
       {
         "ticker": "AVGO",
-        "name": "Broadcom",
-        "note": "定制AI ASIC领域最直接竞争对手，深度绑定谷歌TPU项目，市值规模与AI收入能见度均领先MRVL，是最重要的横向估值参照基准"
+        "name": "博通",
+        "note": "MRVL在定制AI ASIC领域的最直接竞争对手，已深度绑定谷歌与Meta的定制芯片项目，体量更大但估值同样处于高位，是衡量MRVL相对定价合理性的核心参照"
       },
       {
         "ticker": "NVDA",
-        "name": "Nvidia",
-        "note": "AI芯片绝对龙头，黄仁勋背书使其与MRVL形成微妙竞合关系；GPU通用计算路线与MRVL定制ASIC路线代表AI芯片供给侧两大主流方向"
+        "name": "英伟达",
+        "note": "AI芯片市场的绝对领导者，黄仁勋为MRVL背书意在强调定制ASIC与GPU的互补性，但其强大的软件生态壁垒对MRVL的客户拓展构成潜在天花板"
       },
       {
-        "ticker": "AMD",
-        "name": "Advanced Micro Devices",
-        "note": "在AI加速器及数据中心CPU领域同属AI基础设施受益标的，估值倍数与业绩增长路径可作横向对比，亦是资金轮动参照系"
+        "ticker": "MCHP",
+        "name": "Microchip Technology",
+        "note": "同属数据基础设施半导体，但更多聚焦工业和汽车市场，AI敞口较低，可作为MRVL估值溢价合理性的传统半导体参照基准"
+      },
+      {
+        "ticker": "LITE",
+        "name": "Lumentum",
+        "note": "光模块与光互联领域的重要玩家，与MRVL在光驱动IC市场存在交集，近期同样受益于AI数据中心高速升级需求，值得横向比较成长路径"
+      },
+      {
+        "ticker": "ALAB",
+        "name": "Astera Labs",
+        "note": "专注AI机架连接芯片，被称为「AI机架的神经系统」，与MRVL在AI基础设施互联层存在竞争与互补，估值逻辑相近，可作为新兴AI芯片公司的估值参照"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-10T22:56:19.511116Z"
+    "generatedAt": "2026-06-11T22:54:40.797146Z"
   },
   "news": [
     {
-      "id": "MRVL-140599148",
-      "title": "The Spill: Is Broadcom (AVGO) the Other AI Trade?",
+      "id": "MRVL-140610900",
+      "title": "Beyond Micron: 2 AI Stocks That Could Deliver Explosive Returns",
       "source": "Yahoo",
-      "publishedAt": "2026-06-10",
-      "url": "https://finnhub.io/api/news?id=24f0b57e6c6fb2433d376413723c0d4f5036cc9fe55212a313e03d5215f664d0",
+      "publishedAt": "2026-06-11",
+      "url": "https://finnhub.io/api/news?id=9b0d8ad5ed37580fb1f6cddbdb9726a2814fcfa98f6a9979e16f268fd29f8222",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140597420",
-      "title": "ALAB Rides on Strong AI Infrastructure Demand: A Sign for More Upside?",
+      "id": "MRVL-140610432",
+      "title": "Marvell Just Ripped 57% in a Month. Will the June 22 S&P 500 Listing Be a Sell-the-News Event?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-10",
-      "url": "https://finnhub.io/api/news?id=c36cc985e17d8bca84dccc2432db10281675082a2a7da513ff37e76621e84470",
+      "publishedAt": "2026-06-11",
+      "url": "https://finnhub.io/api/news?id=b581f02cd771532b734eae7a9dc6d48388996ce4c6403fc9ecdb70fe51a6da1d",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140595641",
-      "title": "Investors Are Ditching the Magnificent 7 For a New Group of Stocks: The MANGOS",
+      "id": "MRVL-140608851",
+      "title": "Marvell vs. Micron: One Stands to Gain More From AI Demand",
       "source": "Yahoo",
-      "publishedAt": "2026-06-10",
-      "url": "https://finnhub.io/api/news?id=603e7485e276fe82cc06abf0f942f4ac213273fbac4d3db21437493d0937749a",
+      "publishedAt": "2026-06-11",
+      "url": "https://finnhub.io/api/news?id=7305686160a0d75ee121eb66d2acf66a9875643cff5703ce8dec2188358ac467",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140593770",
-      "title": "Jensen Huang Just Delivered Fantastic News to Marvell Stock Investors",
+      "id": "MRVL-140608905",
+      "title": "Credo's Diversification Push: Can It Cut Customer Concentration Risk?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-10",
-      "url": "https://finnhub.io/api/news?id=617ac2b3aa83d9a83af74157a962864e1084441d739225c90715757cfa445506",
+      "publishedAt": "2026-06-11",
+      "url": "https://finnhub.io/api/news?id=53d30b891df1e47c4c416568448829057da89c6b4a33deed660cea93386e165c",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140599115",
-      "title": "Stocks Resume Decline as Chipmakers and AI Companies Fall",
-      "source": "Yahoo",
-      "publishedAt": "2026-06-10",
-      "url": "https://finnhub.io/api/news?id=f621a51d7baea8b40197b513cbbaf1c2e0bdd381848d30e7f50c0e117a39a429",
+      "id": "MRVL-140610486",
+      "title": "Astera Labs Is Building The Nervous System Of AI Racks, And The Market Is Just Starting To Notice",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-06-11",
+      "url": "https://finnhub.io/api/news?id=44f36e901eb99f274b80b0a2d2af2233741c3dc4944167e96a354d1a94fe223c",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140593821",
-      "title": "Can Credo Technology Maintain Revenue Growth Amid the AI Boom?",
+      "id": "MRVL-140607092",
+      "title": "Is NVIDIA Stock's New CPU Story Big Enough to Cover Its China Silence?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-10",
-      "url": "https://finnhub.io/api/news?id=67d2f3b6a31fbad32b92d1cba899a6f24a8e0043565e5094172cfba3c9d9f9c6",
+      "publishedAt": "2026-06-11",
+      "url": "https://finnhub.io/api/news?id=42c1a97218318774fb71aefdde86a69bd85a1d51f63a00902767f763e002c473",
       "tags": [
         "MRVL"
       ]

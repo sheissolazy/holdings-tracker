@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 200.42,
-  "change5dPct": -6.7,
-  "changeYtdPct": 10.8,
-  "marketCap": "$4.89T",
-  "pe": 31.3,
+  "price": 204.87,
+  "change5dPct": -6.3,
+  "changeYtdPct": 17.1,
+  "marketCap": "$4.85T",
+  "pe": 30.7,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2025-12-11",
-      "o": 180.28,
-      "h": 181.32,
-      "l": 176.62,
-      "c": 180.93
-    },
     {
       "t": "2025-12-12",
       "o": 181.11,
@@ -878,132 +871,144 @@
       "h": 207.22,
       "l": 199.92,
       "c": 200.42
+    },
+    {
+      "t": "2026-06-11",
+      "o": 201.4,
+      "h": 205.66,
+      "l": 199.54,
+      "c": 204.87
     }
   ],
   "thesis": {
     "bull": [
-      "Pelosi在2025年12月至2026年1月持续增持NVDA期权，反映政商关联人士对公司长期前景的持续看多立场",
-      "NVDA网络业务高级副总裁在Computex明确否认CPO（共封装光学）和800V DC延迟报告，Foxconn数据显示CPO scale-out出货时间甚至早于预期，供应链验证与官方口径一致",
-      "AI数据中心基础设施需求持续扩张，Jensen Huang向Marvell等合作伙伴释放积极信号，超大规模云厂商资本开支尚未见顶"
+      "AI基础设施投资热潮持续，NVDA作为GPU市场绝对龙头，数据中心业务需求强劲，超微电脑披露390亿美元AI服务器订单印证下游拉货态势未见明显放缓",
+      "裴洛西家族于2026年1月连续买入NVDA，整体呈现多次加仓态势，反映政策敏感投资者对其中长期成长逻辑仍保有信心；摩根士丹利在Computex实地调研后否认800V DC方案延期，认为此前抛售属过度反应",
+      "新CPU产品线拓展潜在市值空间，NVDA从单一GPU向CPU延伸，有望开辟数据中心算力新战场，叠加CUDA软件生态构建深厚护城河"
     ],
     "bear": [
-      "对冲基金经理Leopold以高达15.7亿美元名义价值建立NVDA put期权新仓位（持仓权重11.5%），显示机构层面存在重大下行对冲需求",
-      "SemiAnalysis分析师报告与公司官方说法存在明显分歧，市场对CPO和800V DC量产时间线真实性持怀疑态度，不确定性引发短期抛售",
-      "美伊战争推升能源价格、美国CPI突破4%，科技股普遍承压，风险规避情绪下高估值成长股首当其冲，纳斯达克100指数单日跌幅超3%"
+      "知名投资人Leopold于2026年3月底新建约15.7亿美元名义规模的NVDA看跌期权头寸（占持仓约11.5%），构成重量级机构空头信号，市场需关注其对NVDA估值或基本面的具体担忧",
+      "中国出口管制持续收紧，「中国沉默」话题持续发酵，华为昇腾等本土替代方案加速追赶，长期存在潜在市场份额流失风险",
+      "宏观层面通胀数据偏热、美联储议息会议临近、中东地缘局势反复波动，高估值成长股估值中枢面临系统性压制风险"
     ],
     "watch": [
-      "CPO进展节点：Lumentum管理层确认CPO Scale-Up产品预计2027年下半年开始出货、2028年正式量产，需持续追踪季度进展是否符合此时间线",
-      "宏观地缘政治：伊朗战争、霍尔木兹海峡油运中断风险持续升温，若油价与通胀进一步走高，美联储降息路径收窄将持续压制科技股估值",
-      "机构动向分歧：Pelosi增持与Leopold大规模做空并存，后续需观察Leopold是否平仓或加仓，以及Pelosi是否继续执行止盈操作"
+      "800V DC与CPO技术路线进展：Morgan Stanley与SemiAnalysis报告存在明显分歧，若供应链延期传言获证实将直接影响下一代产品出货时间表与市场预期",
+      "硅光子供应链替代：XFAB正建设硅光子Foundry并已进入NVDA评估流程，预计2026年10月完成开发，若通过验证将对现有供应商格局产生影响",
+      "美联储下周议息会议（FOMC）：利率路径决议将影响整体科技股估值中枢，需关注高PE标的在利率不确定性下的回调幅度"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA Corporation（NVDA）是全球领先的图形处理器（GPU）及加速计算平台提供商，业务涵盖数据中心、游戏、专业可视化及汽车等领域。公司凭借CUDA生态系统构建起深厚的软件护城河，在生成式AI浪潮中确立了核心算力基础设施供应商的战略地位。当前市值约5万亿美元，是全球市值最高的半导体公司。"
+        "body": "NVIDIA Corporation（NVDA）是全球领先的GPU设计商，业务涵盖数据中心AI加速、游戏显卡、专业可视化及汽车计算平台。过去两年受益于生成式AI浪潮，数据中心部门营收占比大幅提升，已成为公司核心增长引擎。公司积极拓展CPU产品线，并深度布局AI软件生态（CUDA平台），形成软硬件一体化的竞争护城河，被部分分析人士视为「美国AI国家冠军」。"
       },
       {
-        "heading": "增长驱动因素",
-        "body": "超大规模云厂商（微软、谷歌、亚马逊、Meta）对AI训练与推理基础设施的持续高强度资本开支是核心驱动力。下一代Blackwell架构平台需求旺盛，CPO（共封装光学）技术路线若按时落地将进一步提升数据中心互联带宽效率。此外，企业级AI部署从概念验证向规模化生产转变，推理芯片需求有望形成第二增长曲线。"
+        "heading": "多头逻辑",
+        "body": "AI基础设施支出维持高增速，主要云厂商资本开支指引持续上调；超微电脑披露390亿美元AI服务器订单，显示终端需求未见明显放缓。裴洛西家族于2025至2026年间多次买入，最近买入发生在2026年1月16日，反映政策敏感投资者对NVDA中长期逻辑仍保有信心。摩根士丹利在Computex实地调研后否认800V DC方案延期，认为此前因SemiAnalysis报告引发的抛售属过度反应，为潜在买入机会提供论据。"
       },
       {
-        "heading": "技术竞争格局",
-        "body": "AMD持续以MI系列GPU挑战NVDA的数据中心市场份额，谷歌TPU、亚马逊Trainium等自研芯片也在侵蚀部分工作负载。然而CUDA生态的软件粘性和开发者社区规模形成显著壁垒，短期内竞争对手难以完全替代。CPO和800V DC是下一代网络互联的关键技术，NVDA能否按时量产将决定其在超高速互联领域的竞争优势。"
+        "heading": "空头逻辑",
+        "body": "知名投资人Leopold于2026年3月底新建约15.7亿美元名义规模的NVDA看跌期权头寸（方向：put，占持仓约11.5%），构成重量级机构空头信号，值得高度关注。中国出口管制环境日趋严峻，市场持续追问NVDA对「中国沉默」的态度，华为昇腾加速追赶，存在潜在份额侵蚀风险。宏观层面，美国通胀数据偏热、中东地缘局势反复，令高估值成长股承压，Nasdaq 100曾单日跌幅超3%，印证市场脆弱性。"
       },
       {
-        "heading": "财务状况",
-        "body": "NVDA近年营收与利润实现跨越式增长，数据中心业务占比已超过总营收的八成。毛利率维持在70%以上的高水平，净利率亦远超行业平均。公司现金储备充裕，持续回购股票并小幅派息。当前估值处于历史高位，市场已隐含对未来数年高速增长的预期，估值消化需要持续的业绩兑现。"
+        "heading": "跟踪者动向",
+        "body": "本期追踪三类信号来源。Leopold方面：2026年3月新建大型看跌期权，名义价值约15.7亿美元，情绪明确偏空，属新建仓位。裴洛西方面：2026年1月16日及2025年12月30日各有买入操作，同期2025年12月24日存在部分退出，整体呈现「边买边修剪」的动态管理模式，净方向偏多。社交媒体追踪者Serenity持观察态度，关注800V DC卖出是否过度、硅光子供应链替代方案进展，以及NVDA作为「美国AI国家冠军」叙事的可持续性。"
       },
       {
-        "heading": "风险因素",
-        "body": "主要风险包括：一、地缘政治风险，美国对华芯片出口管制持续收紧，中国市场收入面临长期结构性压缩；二、技术路线风险，CPO和800V DC若出现量产延迟，将引发市场对技术领先地位的重新评估；三、宏观风险，伊朗战争推升通胀，美联储货币政策转向受阻，高估值成长股面临系统性重估压力；四、客户集中风险，少数超大规模云厂商贡献大比例营收，其资本开支周期性波动将直接影响NVDA订单。"
+        "heading": "行业与宏观背景",
+        "body": "当前半导体板块分化明显：Marvell单月涨幅达57%后遭遇单日跌超12%，Intel获美银双重上调评级大涨，Oracle财报不及预期但被视为AI芯片股的「银边」。AI服务器供应链持续深化，Astera Labs被视为AI机架神经系统，Credo正努力分散客户集中度风险。中东局势（伊朗问题）短期引发油价波动，但特朗普宣布取消空袭后市场企稳，整体风险偏好有所修复，对AI主题股形成短期支撑。"
       },
       {
-        "heading": "市场情绪与机构动向",
-        "body": "当前市场情绪呈现明显分歧。政商关联人士Pelosi在2025至2026年间多次增持NVDA期权，整体倾向于看多；而对冲基金经理Leopold则于2026年一季度以15.7亿美元名义价值建立大规模put期权新仓，释放强烈做空信号。社交媒体上围绕CPO延迟报告真实性的争论持续发酵，Morgan Stanley和NVDA高管的否认声明与SemiAnalysis等第三方研究机构的结论存在正面冲突，市场尚未形成统一预期。"
+        "heading": "主要风险提示",
+        "body": "①出口管制风险：美国对华芯片出口限制若进一步收紧，将直接影响NVDA中国市场营收；②竞争加剧风险：AMD、Intel及华为昇腾在AI加速器领域持续追赶，CUDA生态护城河面临长期挑战；③估值风险：当前股价隐含较高增长预期，若AI资本支出节奏放缓或宏观利率上行，估值压缩幅度可能超出预期；④技术路线风险：800V DC与CPO方案进展若低于预期，可能影响下一代产品竞争力及出货时间表，供应链验证结果需持续跟踪。"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "NVDA数据中心GPU的直接竞争对手，MI系列加速卡持续追赶，但CUDA生态壁垒短期难以逾越"
+        "note": "GPU与CPU双线竞争者，MI系列AI加速卡持续迭代，是NVDA在数据中心AI加速市场最直接的对标"
       },
       {
-        "ticker": "AVGO",
-        "name": "Broadcom",
-        "note": "AI定制芯片（ASIC）领域的重要玩家，同时受益于AI网络交换机需求，被市场视为「另一条AI主线」"
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "note": "近期获美银双重上调评级，Gaudi AI加速器布局追赶，CPU基本盘提供差异化比较基准，近期股价强势"
       },
       {
         "ticker": "MRVL",
         "name": "Marvell Technology",
-        "note": "受益于NVDA生态扩张，在数据中心互联和定制硅领域与NVDA形成互补关系，Jensen Huang近期表态积极"
+        "note": "专注定制化AI芯片与网络互联，月涨幅57%后遭遇单日大跌，折射AI芯片板块高波动特征，即将加入S&P 500"
+      },
+      {
+        "ticker": "AVGO",
+        "name": "Broadcom",
+        "note": "超大规模云客户定制AI芯片重要供应商，与NVDA在定制算力市场形成竞争，估值相对稳健"
       },
       {
         "ticker": "TSM",
-        "name": "Taiwan Semiconductor",
-        "note": "NVDA芯片的独家晶圆代工伙伴，台积电产能与良率直接影响NVDA供货能力与成本结构"
+        "name": "台积电 TSMC",
+        "note": "NVDA芯片核心制造伙伴，台积电先进制程产能与良率直接影响NVDA出货能力与成本结构，是关键上游变量"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-10T22:54:54.718382Z"
+    "generatedAt": "2026-06-11T22:53:11.791426Z"
   },
   "news": [
     {
-      "id": "NVDA-140599148",
-      "title": "The Spill: Is Broadcom (AVGO) the Other AI Trade?",
+      "id": "NVDA-140610418",
+      "title": "Down 33% From Its 52-Week High, Is It Time to Buy the Dip on AST SpaceMobile?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-10",
-      "url": "https://finnhub.io/api/news?id=24f0b57e6c6fb2433d376413723c0d4f5036cc9fe55212a313e03d5215f664d0",
+      "publishedAt": "2026-06-11",
+      "url": "https://finnhub.io/api/news?id=b11916666fab9435551c775b27727bab2963939b7ca79966e266a609df1cf5d6",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140599149",
-      "title": "Should You Buy the Dip on Broadcom Stock?",
+      "id": "NVDA-140610419",
+      "title": "Got $1,500? This Invisible Megatrend Makes 1 Serial Compounder a Clear Buy Right Now",
       "source": "Yahoo",
-      "publishedAt": "2026-06-10",
-      "url": "https://finnhub.io/api/news?id=411bec21898cc6160f56dfc89a0acc0165202bad8b764be20b90d245716c0537",
+      "publishedAt": "2026-06-11",
+      "url": "https://finnhub.io/api/news?id=04fd7c09b94bdeea68c60d9728675e3ee9689ff88167e98a2ec5acdd273bb037",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140599150",
-      "title": "Why Newmont Stock Slumped on Wednesday",
+      "id": "NVDA-140610420",
+      "title": "Debt Collectors Shadow Spain’s National Team at the World Cup",
       "source": "Yahoo",
-      "publishedAt": "2026-06-10",
-      "url": "https://finnhub.io/api/news?id=5dcba7d08558a4ca76a950281e1a281f2e39ad24c556d5e63cdeeb1905b13043",
+      "publishedAt": "2026-06-11",
+      "url": "https://finnhub.io/api/news?id=3e947369cdd19019c216cba42cb941a496e664bd4520c76807cc7a83f1d31a19",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140599151",
-      "title": "The Smartest Dividend ETF to Buy With $2,000 Right Now",
+      "id": "NVDA-140610421",
+      "title": "Here's What History Says Could Come Next for Bitcoin in July",
       "source": "Yahoo",
-      "publishedAt": "2026-06-10",
-      "url": "https://finnhub.io/api/news?id=ff368eeb0914d713dfe1550be409b50e2c909c21a3344390c54e0854805be8ce",
+      "publishedAt": "2026-06-11",
+      "url": "https://finnhub.io/api/news?id=accf088911cb06f25c42462aff548dc5c96a93a34527d8abf7c1465c7c40dcf2",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140599152",
-      "title": "Stock Market Today, June 10: Super Micro Computer, Nvidia, Micron Fall as Risk-Off Mood Intensifies",
+      "id": "NVDA-140610422",
+      "title": "Ripple's XRP Is About to Get a New Upgrade. Here's What That Means for the Price of XRP",
       "source": "Yahoo",
-      "publishedAt": "2026-06-10",
-      "url": "https://finnhub.io/api/news?id=f848519ad1389d4f9661758b1d5e37d2cdc045ed23156e2cd531fbdd148645fe",
+      "publishedAt": "2026-06-11",
+      "url": "https://finnhub.io/api/news?id=a78807a2c651b17380ac59a410a09fc74236400b19a36944a535a3b3e70634c4",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140599153",
-      "title": "AMD TensorWave Bet Ties AI Cloud Growth To Rich Valuation",
+      "id": "NVDA-140610423",
+      "title": "Super Micro Has $39 Billion in AI Server Orders, Yet Shares Fell on the News. Time to Buy the Stock?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-10",
-      "url": "https://finnhub.io/api/news?id=be48f69991212165a80f3e0c885ec92fa26673f7a0db6ff0265525f14b624645",
+      "publishedAt": "2026-06-11",
+      "url": "https://finnhub.io/api/news?id=39e0214386b2baa70686b81a95baf9e59541013818efe3b636d3ed23d7a43bf0",
       "tags": [
         "NVDA"
       ]
