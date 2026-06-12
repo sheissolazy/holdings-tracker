@@ -750,12 +750,162 @@
   {
     "personId": "musk",
     "type": "social",
+    "asOf": "2026-06-12",
+    "sentiment": "watch",
+    "excerpt": "Looking forward to taking our exciting partnership with Nvidia to the next-level",
+    "postUrl": "https://x.com/elonmusk/status/2065547393974636647",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-06-12",
+    "sentiment": "watch",
+    "excerpt": "I love the incredible people of SpaceX beyond words",
+    "postUrl": "https://x.com/elonmusk/status/2065485963120328945",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-12",
+    "sentiment": "watch",
+    "excerpt": "$SPCX is now trading! \n\nAnd it’s now over $2.15T+ MC. https://t.co/HLQ8ZkbBvi",
+    "postUrl": "https://x.com/aleabitoreddit/status/2065462946785030506",
+    "ticker": "SPCX",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-12",
+    "sentiment": "watch",
+    "excerpt": "All the $SNDK short sellers went extinct.\n\nCan’t believe it’s almost $2000 now?\n\nThat aside feels like everyone is just waiting for the $SPCX IPO in a few hours. https://t.co/EahzuEy1KE",
+    "postUrl": "https://x.com/aleabitoreddit/status/2065434058474307866",
+    "ticker": "SNDK",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-12",
+    "sentiment": "watch",
+    "excerpt": "All the $SNDK short sellers went extinct.\n\nCan’t believe it’s almost $2000 now?\n\nThat aside feels like everyone is just waiting for the $SPCX IPO in a few hours. https://t.co/EahzuEy1KE",
+    "postUrl": "https://x.com/aleabitoreddit/status/2065434058474307866",
+    "ticker": "SPCX",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-12",
+    "sentiment": "watch",
+    "excerpt": "Bro I still can't believe Japan's WF6 supply chain got shut down from China export controls.\n\nWhich affects $TSM, Samsung, and SK Hynix. \n\nAre we really playing global supply chain warfare and game theory over AI supremacy? \n\nJapan probably",
+    "postUrl": "https://x.com/aleabitoreddit/status/2065351180314955924",
+    "ticker": "TSM",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-12",
+    "sentiment": "watch",
+    "excerpt": "VPEC new price hikes on Epiwafers today. \n\nPositive bottleneck read through on companies like $IQE and Landmark (3081) in terms of pricing power/demand for epiwafers.\n\nThis follows $MTSI investment into IQE to secure capacity, and shows how",
+    "postUrl": "https://x.com/aleabitoreddit/status/2065333919252418913",
+    "ticker": "IQE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-12",
+    "sentiment": "watch",
+    "excerpt": "VPEC new price hikes on Epiwafers today. \n\nPositive bottleneck read through on companies like $IQE and Landmark (3081) in terms of pricing power/demand for epiwafers.\n\nThis follows $MTSI investment into IQE to secure capacity, and shows how",
+    "postUrl": "https://x.com/aleabitoreddit/status/2065333919252418913",
+    "ticker": "MTSI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
     "asOf": "2026-06-11",
     "sentiment": "watch",
-    "excerpt": "Tesla FSD 14.3.4 rolling out now https://t.co/Lbtx2Yeo6i",
-    "postUrl": "https://x.com/elonmusk/status/2065202249282768915",
-    "ticker": "TSLA",
+    "excerpt": "Just some reflection, my core high conviction ideas from 2025 aged super well!\n\nFrom \n$ALAB: $97-> $372\n$LITE: $330 -> $904\n$AAOI: $30 -> $175\n\nAnd others like $NBIS, $RKLB, and $TSM!\n\nThis was back when I had close to no followers! \n\nI got",
+    "postUrl": "https://x.com/aleabitoreddit/status/2065289672356745561",
+    "ticker": "AAOI",
     "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-11",
+    "sentiment": "watch",
+    "excerpt": "Just some reflection, my core high conviction ideas from 2025 aged super well!\n\nFrom \n$ALAB: $97-> $372\n$LITE: $330 -> $904\n$AAOI: $30 -> $175\n\nAnd others like $NBIS, $RKLB, and $TSM!\n\nThis was back when I had close to no followers! \n\nI got",
+    "postUrl": "https://x.com/aleabitoreddit/status/2065289672356745561",
+    "ticker": "ALAB",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-11",
+    "sentiment": "watch",
+    "excerpt": "Just some reflection, my core high conviction ideas from 2025 aged super well!\n\nFrom \n$ALAB: $97-> $372\n$LITE: $330 -> $904\n$AAOI: $30 -> $175\n\nAnd others like $NBIS, $RKLB, and $TSM!\n\nThis was back when I had close to no followers! \n\nI got",
+    "postUrl": "https://x.com/aleabitoreddit/status/2065289672356745561",
+    "ticker": "AXTI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-11",
+    "sentiment": "watch",
+    "excerpt": "Just some reflection, my core high conviction ideas from 2025 aged super well!\n\nFrom \n$ALAB: $97-> $372\n$LITE: $330 -> $904\n$AAOI: $30 -> $175\n\nAnd others like $NBIS, $RKLB, and $TSM!\n\nThis was back when I had close to no followers! \n\nI got",
+    "postUrl": "https://x.com/aleabitoreddit/status/2065289672356745561",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-11",
+    "sentiment": "watch",
+    "excerpt": "Woah, $NBIS, $ALAB, and $RKLB got added to Nasdaq 100!\n\nFun to see both Astera, Rocketlab and Weebius grow up from being small companies…\n\nInto the largest ones on Nasdaq https://t.co/ntqBmkri6T",
+    "postUrl": "https://x.com/aleabitoreddit/status/2065262802328293497",
+    "ticker": "ALAB",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-11",
+    "sentiment": "watch",
+    "excerpt": "Woah, $NBIS, $ALAB, and $RKLB got added to Nasdaq 100!\n\nFun to see both Astera, Rocketlab and Weebius grow up from being small companies…\n\nInto the largest ones on Nasdaq https://t.co/ntqBmkri6T",
+    "postUrl": "https://x.com/aleabitoreddit/status/2065262802328293497",
+    "ticker": "NBIS",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-11",
+    "sentiment": "watch",
+    "excerpt": "Woah, $NBIS, $ALAB, and $RKLB got added to Nasdaq 100!\n\nFun to see both Astera, Rocketlab and Weebius grow up from being small companies…\n\nInto the largest ones on Nasdaq https://t.co/ntqBmkri6T",
+    "postUrl": "https://x.com/aleabitoreddit/status/2065262802328293497",
+    "ticker": "RKLB",
+    "topics": [
+      "大盘/宏观"
+    ]
   },
   {
     "personId": "serenity",
@@ -1024,146 +1174,6 @@
     "sentiment": "watch",
     "excerpt": "I like $SIVE",
     "postUrl": "https://x.com/aleabitoreddit/status/2064983882802565169",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-10",
-    "sentiment": "watch",
-    "excerpt": "Oh look… a new report by Reuters shows China’s control over InP threatens the AI DC buildout.\n\nWho could have guessed $AXTI would have been a major point of failure? https://t.co/mu9sOWGHN6",
-    "postUrl": "https://x.com/aleabitoreddit/status/2064942505553170886",
-    "ticker": "AXTI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-10",
-    "sentiment": "watch",
-    "excerpt": "这周我自己的投资组合表现令人失望。\n\n目前今年迄今（YTD）仅上涨了 +3,612.10%。\n\n我在获利时会分享，但我也同样会经历大幅回撤！\n\n比如像 Foci/Shunsin $SOI, $AAOI 以及其他 CPO 相关标的。\n\n如果 Alpha 足够强，不管宏观大环境如何，这些股票都应该继续涨才对…\n\n所以对我来说，这也是一个学习的过程，需要不断微调我自己的思路，以及理解市场是如何对不同主题/供应链的各个环节进行定价的。\n\n我只是边走边分享而已！",
-    "postUrl": "https://x.com/aleabitoreddit/status/2064910057767309551",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-10",
-    "sentiment": "watch",
-    "excerpt": "这周我自己的投资组合表现令人失望。\n\n目前今年迄今（YTD）仅上涨了 +3,612.10%。\n\n我在获利时会分享，但我也同样会经历大幅回撤！\n\n比如像 Foci/Shunsin $SOI, $AAOI 以及其他 CPO 相关标的。\n\n如果 Alpha 足够强，不管宏观大环境如何，这些股票都应该继续涨才对…\n\n所以对我来说，这也是一个学习的过程，需要不断微调我自己的思路，以及理解市场是如何对不同主题/供应链的各个环节进行定价的。\n\n我只是边走边分享而已！",
-    "postUrl": "https://x.com/aleabitoreddit/status/2064910057767309551",
-    "ticker": "SOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-10",
-    "sentiment": "watch",
-    "excerpt": "Basically this… and it’s how cycles work.\n\nRetail was early and completely frontran institutions on next architectural shifts.\n\nThere was close to 0 US institutional ownership on $SIVE.\n\nAnd now you see active institutions like JP Morgan, F",
-    "postUrl": "https://x.com/aleabitoreddit/status/2064884912667439129",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-10",
-    "sentiment": "watch",
-    "excerpt": "Basically this… and it’s how cycles work.\n\nRetail was early and completely frontran institutions on next architectural shifts.\n\nThere was close to 0 US institutional ownership on $SIVE.\n\nAnd now you see active institutions like JP Morgan, F",
-    "postUrl": "https://x.com/aleabitoreddit/status/2064884912667439129",
-    "ticker": "HIMX",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-10",
-    "sentiment": "watch",
-    "excerpt": "Basically this… and it’s how cycles work.\n\nRetail was early and completely frontran institutions on next architectural shifts.\n\nThere was close to 0 US institutional ownership on $SIVE.\n\nAnd now you see active institutions like JP Morgan, F",
-    "postUrl": "https://x.com/aleabitoreddit/status/2064884912667439129",
-    "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-10",
-    "sentiment": "watch",
-    "excerpt": "Basically this… and it’s how cycles work.\n\nRetail was early and completely frontran institutions on next architectural shifts.\n\nThere was close to 0 US institutional ownership on $SIVE.\n\nAnd now you see active institutions like JP Morgan, F",
-    "postUrl": "https://x.com/aleabitoreddit/status/2064884912667439129",
-    "ticker": "RKLB",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-10",
-    "sentiment": "watch",
-    "excerpt": "Just in case you weren’t aware…\n\nThe broader index is down a significant -3-4%.\n\nStocks don’t move in a straight lineup unless you’re $SNDK. \n\nAnd are largely affected by wider selloffs. \n\nCurious what my follower portfolios look like you’r",
-    "postUrl": "https://x.com/aleabitoreddit/status/2064741308460351493",
-    "ticker": "SNDK",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-10",
-    "sentiment": "watch",
-    "excerpt": "Glad optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should.\n\nThe initial selloff was just stupid. https://t.co/DsOdQAWf9i",
-    "postUrl": "https://x.com/aleabitoreddit/status/2064705380933074945",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-10",
-    "sentiment": "watch",
-    "excerpt": "Glad optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should.\n\nThe initial selloff was just stupid. https://t.co/DsOdQAWf9i",
-    "postUrl": "https://x.com/aleabitoreddit/status/2064705380933074945",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-10",
-    "sentiment": "watch",
-    "excerpt": "Glad optical players from $LITE to $AAOI and $SIVE are slightly recovering as they should.\n\nThe initial selloff was just stupid. https://t.co/DsOdQAWf9i",
-    "postUrl": "https://x.com/aleabitoreddit/status/2064705380933074945",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-10",
-    "sentiment": "watch",
-    "excerpt": "Morgan Stanley: $NVDA has denied the reports 800V DC has been pushed back.\n\nRecent SemiAnalysis reports run contrary to our own checks at Computex.\n\nBro this has gotta be the dumbest CPO/800V selloff I’ve seen.\n\nSince the selloff from their",
-    "postUrl": "https://x.com/aleabitoreddit/status/2064660831405805648",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-10",
-    "sentiment": "watch",
-    "excerpt": "Morgan Stanley: $NVDA has denied the reports 800V DC has been pushed back.\n\nRecent SemiAnalysis reports run contrary to our own checks at Computex.\n\nBro this has gotta be the dumbest CPO/800V selloff I’ve seen.\n\nSince the selloff from their",
-    "postUrl": "https://x.com/aleabitoreddit/status/2064660831405805648",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-10",
-    "sentiment": "watch",
-    "excerpt": "Yep, Blackrock has now entered $SIVE positions as passive owners following index listing.\n\nFidelity Research has shown up as starting direct positions of Sivers too.\n\nRemember when JP Morgan showed up last month with small positions…\n\nThen ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2064608597343125931",
     "ticker": "SIVE",
     "topics": []
   },

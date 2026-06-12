@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 295.63,
-  "change5dPct": -5.0,
+  "price": 291.13,
+  "change5dPct": -5.3,
   "changeYtdPct": 6.2,
-  "marketCap": "$4.28T",
-  "pe": 35.6,
+  "marketCap": "$4.29T",
+  "pe": 34.8,
   "revenue": "—",
   "revenueYoYPct": 13,
   "prices": [
-    {
-      "t": "2025-12-12",
-      "o": 277.9,
-      "h": 279.22,
-      "l": 276.82,
-      "c": 278.28
-    },
     {
       "t": "2025-12-15",
       "o": 280.15,
@@ -876,129 +869,141 @@
       "t": "2026-06-11",
       "o": 293.72,
       "h": 297.0,
-      "l": 289.6,
+      "l": 289.59,
       "c": 295.63
+    },
+    {
+      "t": "2026-06-12",
+      "o": 296.08,
+      "h": 297.14,
+      "l": 289.62,
+      "c": 291.13
     }
   ],
   "thesis": {
     "bull": [
-      "巴菲特旗下伯克希尔截至2026年一季度持有苹果约2.279亿股（账面价值约578亿美元，仓位权重22%），持仓维持不变，彰显价值投资者对其长期商业模式的高度认可。",
-      "苹果已联合谷歌重构Siri底层AI能力，标志着「Apple Intelligence」在生成式AI领域的实质性战略推进，有望激活下一轮iPhone换机周期。",
-      "英伟达CEO黄仁勋于2026年6月公开表达对苹果AI前景的乐观看法，其带动效应已引发市场对苹果AI概念的阶段性买入情绪。"
+      "巴菲特旗下伯克希尔哈撒韦截至2026年一季度末持有约2.28亿股苹果，市值约578亿美元，占其股票组合22%权重，连续多个季度维持不动，彰显对苹果长期商业模式的高度信心",
+      "英伟达CEO黄仁勋于2026年6月公开表达「对苹果AI寄予厚望」，Apple Intelligence端侧AI生态有望成为新一轮iPhone升级周期的核心叙事催化剂",
+      "苹果放弃Project Titan自动驾驶项目，将资本与研发资源重新聚焦于设备与服务双轮驱动，服务业务高毛利属性持续优化整体盈利结构与自由现金流质量"
     ],
     "bear": [
-      "南希·佩洛西在过去数个季度（2024年12月、2025年10月、2025年12月）多次减持苹果相关仓位，持续的退出操作显示部分资金对短期估值存有疑虑。",
-      "苹果Siri的AI重构高度依赖谷歌外部模型，自主大模型研发能力相对薄弱，若合作关系生变或监管反垄断介入，将形成潜在战略风险。",
-      "中东地缘局势紧张及潜在关税政策波动可能扰乱亚洲供应链，对以制造外包为主的硬件成本结构形成持续压力。"
+      "佩洛西家族自2024年底至2025年末累计多次减持苹果仓位，获利了结信号持续，与其同期新建多头操作并存，内部人士态度存在明显分歧",
+      "市场分析指出苹果面临「两难定价困境」——提价抑制消费者需求，不提价则面临利润率压缩，关税及供应链成本上升使这一矛盾短期难以化解",
+      "美联储维持高利率环境叠加近期科技股抛售压力，苹果当前市盈率处于历史高位区间，若AI商业化未能及时兑现，估值倍数存在收缩风险"
     ],
     "watch": [
-      "「Apple Intelligence」落地节奏与用户渗透率：AI功能能否真正驱动iPhone新机型的换机需求，是判断未来营收弹性的核心变量。",
-      "佩洛西仓位信号需结合背景审慎解读：其同期既有新建多头又有连续减仓记录，或属组合再平衡而非单纯看空，宜区分结构性减仓与战术调整。",
-      "英伟达等AI算力巨头估值持续扩张，市场资金在AI赛道内部的轮动可能阶段性影响苹果相对表现，须关注其在AI叙事中的定价权变化。"
+      "Apple Intelligence商业化进展：AI功能对用户留存、App Store生态及服务收入的实际拉动效果尚待后续财报数据验证",
+      "中美贸易关税政策走向：苹果供应链深度依赖中国制造，关税政策变化将直接影响iPhone成本结构与全球定价策略",
+      "SpaceX IPO及AI概念新股对科技板块资金的分流效应，可能在短期内压制苹果等传统科技巨头的相对估值溢价"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果公司（Apple Inc.）是全球市值领先的科技企业，业务涵盖iPhone、Mac、iPad等硬件产品，以及App Store、Apple Music、iCloud、Apple Pay等服务生态。公司凭借高度整合的软硬件体系与逾22亿台的活跃设备基础，构筑起显著的生态护城河。近年来服务业务收入占比持续提升，为整体利润结构提供更强韧性，但iPhone销售额仍占总营收约半数，单一产品线的周期波动是重要的财务变量。"
+        "body": "Apple Inc.（AAPL）是全球市值最大的上市公司之一，核心业务涵盖iPhone、Mac、iPad、可穿戴设备及服务平台。近年来，服务业务（App Store、iCloud、Apple Music、Apple Pay等）已成为第二大收入支柱，凭借高毛利率特性持续优化公司整体盈利结构。苹果在全球拥有约22亿台活跃设备，构筑了强大的生态壁垒与用户黏性，形成难以复制的护城河。"
       },
       {
-        "heading": "AI战略进展",
-        "body": "据近期报道，苹果已与谷歌深度合作，以谷歌Gemini模型为底座重构Siri的核心对话与推理能力，标志着「Apple Intelligence」从概念走向实质落地。这一战略选择在短期内加快了AI能力部署速度，但也意味着苹果在大模型自研方面存在差距，外部依赖度偏高。英伟达CEO黄仁勋公开看好苹果AI前景，进一步提升市场对相关主题的预期，多空双方对AI能否驱动新一轮换机潮仍存分歧。"
+        "heading": "核心驱动因素",
+        "body": "Apple Intelligence的推出标志着苹果正式进入端侧AI竞争赛道。英伟达CEO黄仁勋于2026年6月公开表达对苹果AI的高度期待，市场对AI功能驱动下一轮iPhone升级周期的预期持续升温。与此同时，苹果放弃Project Titan自动驾驶项目，将相关资源重新投入设备与服务核心业务，被部分分析师解读为聚焦战略的积极信号，有助于提升资本配置效率与长期股东回报。"
       },
       {
-        "heading": "机构与知名投资者动向",
-        "body": "伯克希尔·哈撒韦截至2026年一季度持有苹果约2.279亿股，市值约578亿美元，仓位权重达22%，持仓维持不变，巴菲特的长期持有被市场视为对苹果基本面的强力背书。与此形成对比的是，南希·佩洛西在过去五个季度内多次对苹果相关仓位进行减持操作，尽管同期亦有新建多头记录，信号解读存在明显分歧，需结合其整体组合背景综合判断。"
+        "heading": "风险因素",
+        "body": "苹果当前面临多重风险交织：其一，定价两难困境持续，关税成本上升与消费者价格敏感度之间的矛盾难以短期化解；其二，佩洛西家族多次减持显示市场存在获利了结压力；其三，美联储高利率环境对高估值股票构成系统性压制；其四，苹果服务业务的监管风险（包括反垄断调查与App Store政策合规要求）尚未完全消除，潜在罚款或政策调整可能影响服务收入增速。"
       },
       {
-        "heading": "财务特征与盈利质量",
-        "body": "苹果长期保持强劲的自由现金流生成能力，服务业务的高毛利率结构对整体盈利质量形成正向支撑。公司持续通过股票回购和分红向股东返还资本，是美股回购规模最大的企业之一，资本配置效率受市场广泛认可。然而，全球宏观需求放缓与消费电子周期下行压力，仍对收入增长的持续性构成潜在制约。"
+        "heading": "机构动向解读",
+        "body": "巴菲特旗下伯克希尔哈撒韦截至2026年一季度末持仓约2.28亿股，为其第一大重仓股，连续多个季度保持稳定，传递出强烈的长期持有信号。与此形成对比的是，佩洛西家族在2024年底至2025年末期间累计多次减持，偏空信号持续出现。值得注意的是，其2025年底亦有新建多头操作记录，多空并存，解读需保持审慎，不宜过度解读单一方向。"
       },
       {
-        "heading": "竞争格局与行业地位",
-        "body": "在智能手机市场，苹果与三星形成双寡头格局，在高端机型中占据主导地位。在操作系统与开发者生态方面，iOS平台的封闭性赋予其强大的用户粘性与变现能力。在AI赛道，苹果面临来自微软、谷歌、Meta等科技巨头的激烈竞争，后者在大模型自研与AI应用落地方面具有先发优势，苹果的AI差异化叙事尚待市场用时间验证。"
+        "heading": "估值与市场环境",
+        "body": "当前苹果市盈率处于历史相对高位，市场已在股价中定价了较高的AI增长预期。宏观层面，美联储政策维持紧缩基调，科技板块整体承压。SpaceX IPO及AI概念新股的持续涌现对科技板块资金形成分流，短期内可能压制苹果的相对表现。另一方面，伊朗和平协议进展改善全球风险偏好，对大型科技股整体情绪具有一定支撑作用。"
       },
       {
-        "heading": "主要风险因素",
-        "body": "宏观层面，美联储货币政策路径及全球经济放缓预期均可能压制消费电子需求。地缘政治层面，美伊局势紧张及潜在关税升级对亚洲代工供应链构成威胁。监管层面，欧盟《数字市场法》对App Store的执法力度以及苹果与谷歌搜索分成协议的司法审查，均存在影响服务业务收入的潜在风险，需持续跟踪监管进展。"
+        "heading": "多空分歧总结",
+        "body": "多方逻辑集中于：巴菲特长期持有背书、AI驱动新升级周期预期以及服务业务高质量增长；空方逻辑集中于：内部人士持续减持、定价困境与利润率压力、高利率高估值组合下的回调风险。当前多空分歧的核心变量在于Apple Intelligence能否在未来一至两个财季内兑现可量化的收入增量，以及美中关税政策的实际落地情况，这两个变量的演变将在很大程度上决定股价的中期走向。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
         "name": "微软",
-        "note": "同为全球顶级科技平台企业，Azure云与Copilot AI生态提供直接对标参照，但苹果服务模式更依赖硬件生态锁定，两者盈利结构存在本质差异。"
+        "note": "同为科技巨头，Azure云与Copilot AI产品形成直接竞争，服务业务高毛利模式与苹果相近，但AI商业化落地进度普遍被认为领先苹果约一个周期，估值亦处于高位"
       },
       {
         "ticker": "GOOGL",
         "name": "Alphabet",
-        "note": "既是苹果搜索分成的核心合作方，又是Siri AI重构的底层模型提供者，双方在搜索与AI领域既深度合作又正面竞争，关系格局复杂。"
+        "note": "安卓生态与iOS形成移动端双寡头格局，Gemini AI整合进度与Apple Intelligence构成正面竞争，广告与云业务形成不同盈利结构，整体估值低于苹果"
       },
       {
         "ticker": "META",
         "name": "Meta Platforms",
-        "note": "在生成式AI与混合现实领域与苹果Vision Pro形成直接竞争，开源AI策略与苹果封闭生态路线形成鲜明对比，代表不同的AI商业化逻辑。"
+        "note": "社交与AR/VR硬件生态与苹果Vision Pro存在潜在竞争，AI基础设施投入规模庞大，估值相对苹果更低，但营收集中度风险较高"
+      },
+      {
+        "ticker": "AMZN",
+        "name": "亚马逊",
+        "note": "AWS云服务与苹果服务生态存在部分交叉竞争，Alexa与Siri同处语音AI赛道，电商与硬件业务构成另一维度的消费者场景争夺，商业模式多元化程度更高"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-11T22:57:22.459070Z"
+    "generatedAt": "2026-06-12T22:31:30.997809Z"
   },
   "news": [
     {
-      "id": "AAPL-140610438",
-      "title": "How Apple rebuilt Siri with Google's AI",
+      "id": "AAPL-140622991",
+      "title": "Alphabet Deepens AI Bets With Waymo Testing Site And Anthropic Backing",
       "source": "Yahoo",
-      "publishedAt": "2026-06-11",
-      "url": "https://finnhub.io/api/news?id=729d9a95f4b09fc4204e3126489ee84086cd888909a05c3e4ac2e7c5493d31b6",
+      "publishedAt": "2026-06-12",
+      "url": "https://finnhub.io/api/news?id=c0b36f89772399823e8a4fcbad8307fc09a8a9eebce16938f76f9eb9a8b27f08",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140610435",
-      "title": "Investors Awoke to 'A Dip Buyer's Dream' Today. But Next Week's Fed Meeting Looms Large",
+      "id": "AAPL-140621600",
+      "title": "SpaceX IPO: Here's How to Buy SPCX Stock Right Now",
       "source": "Yahoo",
-      "publishedAt": "2026-06-11",
-      "url": "https://finnhub.io/api/news?id=3144f135da41a344b685d62af2ed72b44e251142b626cbea506b721affdeed89",
+      "publishedAt": "2026-06-12",
+      "url": "https://finnhub.io/api/news?id=123ad4409b409bea7e01612a110a3e10f6a39967826c9c9e0e4c3d0f0b9331ad",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140612395",
-      "title": "SpaceX IPO Preview: Placing It In Context",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-06-11",
-      "url": "https://finnhub.io/api/news?id=3e602479ffe5388c2d30d2c5874746e97a77827b1d2a4b133292adf42e99ed28",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-140609352",
-      "title": "Thursday's session: most active stock in the S&P500 index",
+      "id": "AAPL-140621316",
+      "title": "Stay informed with the top movers within the dow jones index on Friday.",
       "source": "ChartMill",
-      "publishedAt": "2026-06-11",
-      "url": "https://finnhub.io/api/news?id=d99dc5527dca6141cf46f97f4d0845958c0c9d60a8d680fbe00a26d60bbced37",
+      "publishedAt": "2026-06-12",
+      "url": "https://finnhub.io/api/news?id=7799b4943b4070490c4c31469f624b75e45753e95bef0bca85f5be0499429bf9",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140610440",
-      "title": "Is Affirm Holdings, Inc. (AFRM) A Good Stock To Buy Now?",
+      "id": "AAPL-140621607",
+      "title": "Apple Faces a No-Win Pricing Dilemma. Should Investors Be Worried?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-11",
-      "url": "https://finnhub.io/api/news?id=bbf4434e20e556f7ac01d5813020a860cce80724a08ee9b95243d391397c08ce",
+      "publishedAt": "2026-06-12",
+      "url": "https://finnhub.io/api/news?id=c9329ac33f717c533ed0b2f7965018892ba2095cad08f0bd65d60063eddd6a6e",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140610441",
-      "title": "Intel Just Got a Rare Double Upgrade From Bank of America. The Stock Is Surging",
+      "id": "AAPL-140620129",
+      "title": "Stock Market Today, June 12: SpaceX Mega IPO Soars, Testing Tech Stocks at Midday",
       "source": "Yahoo",
-      "publishedAt": "2026-06-11",
-      "url": "https://finnhub.io/api/news?id=186899557b75ebd836ea3c60b758fa27465627d12697f3e8aa43f1def7d878a9",
+      "publishedAt": "2026-06-12",
+      "url": "https://finnhub.io/api/news?id=9723eaee0dc6995ba1af5981f8ebbaf4bd154066cc2e744b6ca30a12a1d4928c",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-140620152",
+      "title": "Apple’s Project Titan Exit Refocuses Investment Story On Devices And Services",
+      "source": "Yahoo",
+      "publishedAt": "2026-06-12",
+      "url": "https://finnhub.io/api/news?id=d4980365c9df327c36bb43015c60a83fd75fa64beb7dc15122064c96cbf7dbdc",
       "tags": [
         "AAPL"
       ]
