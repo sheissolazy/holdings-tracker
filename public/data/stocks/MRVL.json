@@ -3,21 +3,14 @@
   "name": "Marvell Technology",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 279.7,
-  "change5dPct": 6.2,
-  "changeYtdPct": 231.9,
-  "marketCap": "$248.1B",
-  "pe": 98.2,
+  "price": 308.88,
+  "change5dPct": 6.9,
+  "changeYtdPct": 267.4,
+  "marketCap": "$258.5B",
+  "pe": 101.8,
   "revenue": "—",
   "revenueYoYPct": 34,
   "prices": [
-    {
-      "t": "2025-12-15",
-      "o": 84.87,
-      "h": 85.85,
-      "l": 83.67,
-      "c": 84.26
-    },
     {
       "t": "2025-12-16",
       "o": 83.58,
@@ -874,131 +867,138 @@
     },
     {
       "t": "2026-06-12",
-      "o": 269.88,
+      "o": 270.07,
       "h": 287.98,
       "l": 267.31,
       "c": 279.7
+    },
+    {
+      "t": "2026-06-15",
+      "o": 296.71,
+      "h": 312.98,
+      "l": 288.09,
+      "c": 308.88
     }
   ],
   "thesis": {
     "bull": [
-      "英伟达CEO黄仁勋公开背书，称MRVL有潜力成为下一个万亿美元公司，大幅提升市场关注度与机构信心，短期内形成强烈催化效应。",
-      "定制AI ASIC芯片需求爆发：超大规模云厂商（如谷歌TPU、亚马逊Trainium）持续加大自研芯片投入，MRVL凭借芯片代工设计能力深度受益，AI数据中心业务占比持续提升。",
-      "数据中心光互联与以太网交换芯片布局完善，随AI集群规模扩张，高速网络互联需求激增，MRVL在400G/800G领域具备先发优势。"
+      "英伟达CEO黄仁勋在2026年6月多次公开背书，称马维尔将成为「下一个万亿美元公司」，为其AI定制芯片业务带来强烈的行业验证信号，显著提升市场关注度与机构投资者信心",
+      "AI基础设施建设浪潮持续加速，超大规模云厂商对定制ASIC芯片需求急剧扩张，马维尔凭借与Google、Amazon等头部客户的深度合作，有望在AI算力投资高峰期持续获取超额份额",
+      "公司展现出突破「大数法则」的增长能力，AI数据中心营收占比持续攀升，高附加值定制芯片产品组合推动毛利率结构性改善，盈利质量优化趋势明确"
     ],
     "bear": [
-      "估值已大幅透支预期：股价在黄仁勋背书后连续大涨，市销率与市盈率均处于历史高位，若AI资本开支增速放缓或客户延迟采购，回调风险显著。",
-      "客户集中度风险突出：收入高度依赖少数超大规模云厂商，一旦某一客户自研能力提升或转换供应商，将对营收造成结构性冲击。",
-      "宏观与地缘政治波动加剧不确定性：伊朗局势、美联储政策转向、中美科技摩擦等外部因素短期内可引发半导体板块剧烈震荡，MRVL作为高贝塔标的首当其冲。"
+      "黄仁勋背书虽引发市场热情，但明确指出「并未消除马维尔的风险」，当前估值已大幅计入未来高增长预期，股价对业绩低于预期的容错空间极为有限",
+      "定制ASIC业务高度依赖少数超大规模云厂商，客户集中度风险突出，一旦主要客户削减资本开支、加速芯片自研或转换供应商，将对营收产生重大冲击",
+      "博通等同业竞争对手在AI定制芯片领域积累深厚且同样深度绑定头部云厂商，竞争格局持续加剧；传统业务线（企业网络、运营商5G）景气度相对疲软，对整体增速形成拖累"
     ],
     "watch": [
-      "黄仁勋「万亿公司」言论的后续落地：需观察英伟达与MRVL的合作深度是否实质性扩大，还是仅为舆论层面背书，避免市场预期与基本面脱节。",
-      "超大规模云厂商资本开支指引：谷歌、亚马逊、微软下季度的数据中心投资计划将直接决定ASIC定制芯片订单可见度，是验证AI叙事能否兑现的核心指标。",
-      "季度财报中AI营收占比与毛利率变化：当前市场以「AI成长股」定价，若AI相关收入增速低于预期或毛利率因产品组合变化承压，估值逻辑将面临重估压力。"
+      "超大规模云厂商新一轮定制ASIC采购合同进展，尤其是与Google、Amazon等主要客户的续约及扩单动态，是验证AI营收增长可持续性的核心指标",
+      "公司达成万亿美元市值的具体路径与时间表，需关注季度营收指引能否维持在支撑当前估值倍数的增速区间",
+      "宏观环境变化对云厂商资本开支周期的传导效应，包括美联储政策走向、美伊和谈落地后地缘政治风险缓解对全球科技需求景气度的影响"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Marvell Technology（纳斯达克：MRVL）是一家专注于数据基础设施半导体的芯片设计公司，总部位于美国加利福尼亚州圣克拉拉。核心业务涵盖数据中心互联芯片、定制AI ASIC、运营商网络及企业网络解决方案。近年来公司战略重心加速向AI数据中心倾斜，剥离非核心业务，聚焦高附加值的定制芯片设计与光互联领域。截至2026年中，公司市值在千亿美元级别区间波动，是半导体AI赛道中受到机构高度关注的核心标的之一。"
+        "body": "马维尔科技（Marvell Technology，纳斯达克：MRVL）是一家专注于数据基础设施半导体解决方案的无晶圆厂芯片设计公司，总部位于美国加利福尼亚州圣塔克拉拉。公司产品线覆盖数据中心、5G运营商网络、企业网络及消费电子等领域，近年来战略重心持续向AI驱动的云端数据中心业务倾斜。马维尔为超大规模云厂商提供定制AI加速芯片及高速光互联产品，已跻身AI基础设施供应链核心环节，成为当前AI投资主题下半导体板块的重要标的之一。"
       },
       {
-        "heading": "AI定制芯片（ASIC）业务",
-        "body": "MRVL的核心增长引擎来自为超大规模云厂商提供定制AI加速芯片（ASIC）设计服务。区别于英伟达的通用GPU路线，定制ASIC在特定AI推理/训练任务中可实现更优的能效比与总体拥有成本（TCO）。谷歌的TPU系列、亚马逊的Trainium及Inferentia均采用类似思路，MRVL作为重要的芯片设计合作伙伴深度参与其中。随着超大规模云厂商持续加大AI基础设施投入，MRVL的ASIC收入占比有望持续提升，成为中长期估值重塑的核心驱动力。"
+        "heading": "核心业务与AI战略",
+        "body": "马维尔的核心增长引擎是面向超大规模云厂商的定制AI ASIC芯片与云端光互联产品。公司与Google、Amazon等顶级云厂商建立了深度合作关系，协助其开发专用AI训练与推理芯片，以降低对通用GPU的依赖并优化能效比与总拥有成本。此外，马维尔在高速以太网交换机芯片及PAM4光模块驱动芯片领域亦具备较强竞争力，可持续受益于AI数据中心网络带宽升级的结构性需求。"
       },
       {
-        "heading": "黄仁勋背书事件解读",
-        "body": "2026年6月上旬，英伟达CEO黄仁勋多次公开表态，认为MRVL有潜力成为下一个万亿美元市值公司，引发市场广泛关注并推动股价显著上行。值得注意的是，英伟达与MRVL既存在合作关系（网络芯片互补），又在定制AI ASIC领域存在潜在竞争——超大规模云厂商加码ASIC一定程度上是在降低对英伟达GPU的依赖。黄仁勋此举或有借MRVL壮大AI生态、间接证明AI算力需求庞大的战略意图，投资者需区分「情绪催化」与「基本面变化」，避免在高位追入纯情绪驱动的行情。"
+        "heading": "行业背书与市场催化剂",
+        "body": "2026年6月，英伟达CEO黄仁勋在多个公开场合将马维尔点名为「下一个万亿美元公司」，引发市场高度关注并推动股价持续上涨。黄仁勋的背书逻辑在于：超大规模云厂商持续加大定制AI芯片投入，而马维尔在ASIC设计协同与先进封装整合方面具备独特优势，有望在AI算力需求爆发背景下实现非线性增长。值得注意的是，该背书来自马维尔的潜在竞争对手，市场对其动机解读存在分歧，部分分析认为此举有助于推动整个AI芯片生态扩张，而非单纯利他。"
       },
       {
-        "heading": "竞争格局与差异化优势",
-        "body": "MRVL在定制ASIC领域的主要竞争对手为博通（AVGO），后者同样深度绑定超大规模云厂商并在AI定制芯片市场占据重要份额。与博通相比，MRVL在光互联（PAM4/相干光模块驱动芯片）及以太网交换芯片领域具备差异化布局，有助于切入AI集群高速互联这一快速增长的细分赛道。此外，台积电先进制程产能的可获得性以及IP积累深度，是决定MRVL能否维持技术领先的关键变量。"
+        "heading": "财务表现与增长动能",
+        "body": "马维尔近期展现出突破「大数法则」的增长能力，即便在营收基数持续扩大的背景下仍维持较高增速。AI数据中心业务收入占比快速提升，成为拉动整体营收超预期的主要驱动力，毛利率水平随高附加值定制芯片产品组合占比提升而逐步改善。然而，受非AI传统业务景气度相对低迷影响，公司整体增速呈现明显的结构性分化，AI业务的强劲增长与传统业务的温和复苏形成鲜明对比。"
       },
       {
-        "heading": "财务状况与估值分析",
-        "body": "MRVL近年来营收增速受AI业务带动明显加速，但公司整体仍处于盈利能力爬坡阶段，研发投入占比较高，自由现金流转化率受制于定制芯片项目的前期投入周期。当前股价对应的前瞻市盈率（NTM P/E）与市销率（P/S）均已处于历史偏高区间，定价中隐含了对AI ASIC收入未来数年高速增长的强烈预期。若实际增速或毛利率改善节奏不及预期，估值修复压力不可忽视。多空分歧的核心正在于：当前股价究竟是合理反映AI长期空间，还是阶段性情绪溢价。"
+        "heading": "主要风险因素",
+        "body": "马维尔面临的核心风险包括：客户集中度高，头部云厂商议价能力强且存在自研芯片的潜在替代风险；估值水平偏高，当前股价已大幅定价未来增长预期，对业绩低于预期的容错空间有限；竞争压力加剧，博通等同业在AI ASIC领域同样深度布局；先进制程产能依赖台积电等代工合作伙伴，地缘政治因素可能影响供应链稳定性；以及AI资本开支周期若出现超预期放缓，将对整体需求景气度产生连锁冲击。"
       },
       {
-        "heading": "主要风险与近期催化剂",
-        "body": "短期风险包括：宏观经济走弱导致云厂商资本开支削减、地缘政治冲突（如中东局势或中美科技摩擦）引发的市场情绪骤变，以及半导体周期性需求波动。中长期风险在于客户自研能力不断增强可能挤压MRVL的订单空间，以及台积电先进制程产能争夺加剧。近期主要催化剂为：季度业绩发布中AI相关收入的量化披露、超大规模云厂商资本开支指引更新，以及黄仁勋背书效应能否在基本面层面得到验证。投资者应密切跟踪上述信号以判断当前估值的可持续性。"
+        "heading": "估值与市场展望",
+        "body": "黄仁勋「万亿美元公司」预言折射出市场对马维尔长期潜力的高度期待，但达成该目标需要公司在未来数年内实现营收与利润的大幅跃升。多空分歧的核心在于AI资本开支周期的持续性及马维尔能够获取的市场份额上限。乐观派认为定制ASIC将持续蚕食通用GPU市场，马维尔有望获得超额受益；悲观派则警示当前估值已透支未来，且头部云厂商在定价权博弈中占据主导。投资者需密切跟踪季度业绩中AI数据中心收入指引及主要客户合同动态，以验证增长逻辑的兑现节奏。"
       }
     ],
     "comparables": [
       {
         "ticker": "AVGO",
         "name": "博通",
-        "note": "定制AI ASIC领域最直接的竞争对手，同样深度绑定谷歌、Meta等超大规模客户，体量更大、盈利能力更强，常被用作MRVL的估值参照基准"
+        "note": "AI定制ASIC领域的直接竞争对手，同样深度服务超大规模云厂商，估值与增长逻辑高度可比，是评估马维尔相对价值的首要参照标的"
       },
       {
-        "ticker": "ANET",
-        "name": "Arista Networks",
-        "note": "AI数据中心高速以太网交换机龙头，与MRVL在网络互联赛道存在上下游协同与局部竞争关系，近期股价同步受益于AI基础设施投资热潮"
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "AI算力绝对龙头，马维尔定制ASIC在部分应用场景与其GPU形成竞争替代关系；黄仁勋对马维尔的公开背书凸显两者之间复杂的竞合关系"
       },
       {
-        "ticker": "MCHP",
-        "name": "Microchip Technology",
-        "note": "半导体行业周期性对照标的，侧重工业与汽车领域，与MRVL业务重叠度低，可作为评估MRVL AI溢价的参照坐标"
+        "ticker": "AMD",
+        "name": "超微半导体",
+        "note": "AI芯片市场重要参与者，与马维尔共享AI数据中心扩张的宏观主题，可作为半导体行业整体估值水平与景气周期判断的参照基准"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-12T22:28:50.921489Z"
+    "generatedAt": "2026-06-15T23:07:21.716739Z"
   },
   "news": [
     {
-      "id": "MRVL-140623036",
-      "title": "GraniteShares Announces Forward Splits",
+      "id": "MRVL-140640368",
+      "title": "Stock Market Today: Dow Pops On Trump-Iran Deal; Elon Musk's SpaceX Rockets, Tesla Does This",
       "source": "Yahoo",
-      "publishedAt": "2026-06-12",
-      "url": "https://finnhub.io/api/news?id=c8fade6ea7153c62b30ac90934d11f3375b30dd45c479d943491f70bd68e0b86",
+      "publishedAt": "2026-06-15",
+      "url": "https://finnhub.io/api/news?id=b1b6117176c91dc26e6f2fe139c6c0d96914ae426428325606c68dfec307464f",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140621673",
-      "title": "Investing.com’s stocks of the week",
+      "id": "MRVL-140640396",
+      "title": "How Marvell Broke The Law Of Large Numbers",
       "source": "Yahoo",
-      "publishedAt": "2026-06-12",
-      "url": "https://finnhub.io/api/news?id=59fd9c741617986b3b1d723a59b25ad5c61fac24a003bb220e948ea57e614efb",
+      "publishedAt": "2026-06-15",
+      "url": "https://finnhub.io/api/news?id=95e99785c58383609dc7e644801ed17dcc930bb51d41f2e94480f057d57c021f",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140621759",
-      "title": "Adobe CFO Heads to a Chip Firm. It’s All You Need to Know About Software’s Downfall.",
+      "id": "MRVL-140638800",
+      "title": "The Console Cycle That Could Test Advanced Micro Stock",
       "source": "Yahoo",
-      "publishedAt": "2026-06-12",
-      "url": "https://finnhub.io/api/news?id=f102d870e46dac7cf329eb0b6fc6f744b125d1010cddd47d6f54829fbd57f451",
+      "publishedAt": "2026-06-15",
+      "url": "https://finnhub.io/api/news?id=e0d3f311c00e115f013c934b4c68f34651482e98b267cadc3cf22f7537833662",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140620305",
-      "title": "Adobe trades revenue for reach as AI monetization stays elusive",
+      "id": "MRVL-140637841",
+      "title": "Jensen Huang Says Marvell Technology Is the Next Trillion-Dollar Company. How Quickly Can It Get There?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-12",
-      "url": "https://finnhub.io/api/news?id=1916a069da66bb522d5c493b38fa8787116b0166f943b918dbfc0d7ee9d129d2",
+      "publishedAt": "2026-06-15",
+      "url": "https://finnhub.io/api/news?id=59a96d39ed2c545ea44b630cdfdfcebebcfd8cc650c72fd3f95e0a569a75460b",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140623152",
-      "title": "Adobe CFO’s exit leaves leadership gap",
+      "id": "MRVL-140638873",
+      "title": "Marvell Technology CEO Matt Murphy Believes This Is The 'Most Beautiful Thing' One Person Can Do For Another And It Can 'Change Their Life'",
       "source": "Yahoo",
-      "publishedAt": "2026-06-12",
-      "url": "https://finnhub.io/api/news?id=92bcedc8ce457b311dc8e7f6ffdf1c37eeb5e2559d891bf9e51fe7a6a5934f15",
+      "publishedAt": "2026-06-15",
+      "url": "https://finnhub.io/api/news?id=7c71ca5953b1e23ffa499a35b23039816ef06adff7d71dca47ff2fba6ca06fd1",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-140618853",
-      "title": "Adobe's Strong Quarter Overshadowed by CFO Exit, Growth Uncertainty, RBC Says",
+      "id": "MRVL-140637905",
+      "title": "Nvidia, Micron, Intel Lead Chip Stock Rally After Breakthrough U.S.-Iran Agreement",
       "source": "Yahoo",
-      "publishedAt": "2026-06-12",
-      "url": "https://finnhub.io/api/news?id=9c15b4f6eae6d2d66246548ea1e6c22a6c5ada24a88720f6f32bba657b93e55c",
+      "publishedAt": "2026-06-15",
+      "url": "https://finnhub.io/api/news?id=485b03a732175a3453ccea6930a56fd650787bc4669b256bf9563cd6d5211aaa",
       "tags": [
         "MRVL"
       ]
