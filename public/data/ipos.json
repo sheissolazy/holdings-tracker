@@ -1,5 +1,29 @@
 [
   {
+    "ticker": "DPC",
+    "name": "DPC Holdings Ltd",
+    "date": "2026-06-25",
+    "priceRange": [
+      28.0,
+      32.0
+    ],
+    "sector": "—",
+    "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
+    "ticker": "KARD",
+    "name": "Kardigan, Inc.",
+    "date": "2026-06-18",
+    "priceRange": [
+      14.0,
+      16.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "FCBM",
     "name": "First Carolina Financial Services, Inc.",
     "date": "2026-06-18",
@@ -9,6 +33,30 @@
     ],
     "sector": "—",
     "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
+    "ticker": "TVIVU",
+    "name": "Texas Ventures Acquisition IV Corp",
+    "date": "2026-06-18",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
+    "ticker": "YICCU",
+    "name": "Yorkville International Capital Corp.",
+    "date": "2026-06-16",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
     "status": "expected"
   }
 ]
