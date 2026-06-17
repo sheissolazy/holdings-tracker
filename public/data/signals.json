@@ -678,6 +678,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-06-17",
+    "sentiment": "watch",
+    "excerpt": "I will be doing a Press Conference in 45 minutes from France. I’ll then be heading to Versailles for Dinner with French and other European Leaders, and then back home tonight! The trip was a Great Success but, mostly what people wanted to t",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/116765811260304660",
+    "ticker": "",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-06-15",
     "sentiment": "watch",
     "excerpt": "RT @ realDonaldTrump Eric Metaxas, a great guy, has written an incredible new book, “Revolution: The Birth of the Greatest Nation in the History of the World.” As we celebrate our Nation’s 250th Birthday, Eric honors the Faith, Wisdom, and ",
@@ -726,55 +738,193 @@
     ]
   },
   {
-    "personId": "trump",
-    "type": "social",
-    "asOf": "2026-06-10",
-    "sentiment": "watch",
-    "excerpt": "No other President has ever been more committed to both REBUILDING our Great Military and SAVING our Great Country — And NOW is the time to make it happen, for Generations to come. I am hereby calling on Republicans in Congress to IMMEDIATE",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/116728850395743386",
-    "ticker": "",
-    "topics": [
-      "通胀"
-    ]
-  },
-  {
     "personId": "musk",
     "type": "social",
-    "asOf": "2026-06-16",
+    "asOf": "2026-06-17",
     "sentiment": "watch",
-    "excerpt": "Censorship always comes with a “protect the children” lie https://t.co/Chhr7dNrlU",
-    "postUrl": "https://x.com/elonmusk/status/2066925445699002662",
+    "excerpt": "Grok Imagine 1.5 https://t.co/05qu8zFMrF",
+    "postUrl": "https://x.com/elonmusk/status/2067291949317673361",
     "ticker": "",
     "topics": []
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-17",
+    "sentiment": "watch",
+    "excerpt": "Jim Cramer gave $SPCX his blessing. https://t.co/DSbyBt9f0D",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067272647545930045",
+    "ticker": "SPCX",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-17",
+    "sentiment": "watch",
+    "excerpt": "$AEHR receives follow up production order from major Silicon Photonics Customer for wafer level burn in systems.\n\nNow up 11.29% today to $116. \n\nOnly 2 months ago it was in the $30's, good times. https://t.co/It24lVLmBe",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067267047781015579",
+    "ticker": "AEHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-17",
+    "sentiment": "watch",
+    "excerpt": "And 7 months later... $NBIS is all time highs. \n\nWhile $IREN bagholders are still funding the $6,000,000,000 ATM and stuck at the same price back in November. \n\nGuess this settles the debate? https://t.co/wYvbhw4xK3",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067260268166713561",
+    "ticker": "IREN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-17",
+    "sentiment": "watch",
+    "excerpt": "And 7 months later... $NBIS is all time highs. \n\nWhile $IREN bagholders are still funding the $6,000,000,000 ATM and stuck at the same price back in November. \n\nGuess this settles the debate? https://t.co/wYvbhw4xK3",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067260268166713561",
+    "ticker": "NBIS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-17",
+    "sentiment": "watch",
+    "excerpt": "Don’t think there’s any new news from $XFAB. \n\nTheir company needs to do a better job with marketing materials though.\n\nSince nobody thinks they’re optical ai dc or power semi adjacent exposure apparently.\n\nHowever, I would have thought tha",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067235336842097124",
+    "ticker": "XFAB",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-17",
+    "sentiment": "watch",
+    "excerpt": "I mean... if i had to guess, $LPK did claim \"80% of customers among major global players have selected LPKF equipment\".\n\nKinda clear glass substrates is the next packaging shift! \n\nFrom est. timelines, major players like Absolics is ramping",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067216066905088237",
+    "ticker": "LPK",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-17",
+    "sentiment": "watch",
+    "excerpt": "Trendforce reports that $AMD is actively trying to secure CW laser supply with multiple major procurement orders...\n\nIs probably just the start of the bottleneck?  \n\nThere's not much independent capacity in Western supply chains left other ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067206734427697196",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-17",
+    "sentiment": "watch",
+    "excerpt": "Trendforce reports that $AMD is actively trying to secure CW laser supply with multiple major procurement orders...\n\nIs probably just the start of the bottleneck?  \n\nThere's not much independent capacity in Western supply chains left other ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067206734427697196",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-17",
+    "sentiment": "watch",
+    "excerpt": "Trendforce reports that $AMD is actively trying to secure CW laser supply with multiple major procurement orders...\n\nIs probably just the start of the bottleneck?  \n\nThere's not much independent capacity in Western supply chains left other ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067206734427697196",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-17",
+    "sentiment": "watch",
+    "excerpt": "Trendforce reports that $AMD is actively trying to secure CW laser supply with multiple major procurement orders...\n\nIs probably just the start of the bottleneck?  \n\nThere's not much independent capacity in Western supply chains left other ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067206734427697196",
+    "ticker": "AMZN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-06-16",
     "sentiment": "watch",
-    "excerpt": "The politicians who turned a blind eye to the Rape of Britain must go to prison https://t.co/JFfHZSwiDc",
-    "postUrl": "https://x.com/elonmusk/status/2066925294238519531",
+    "excerpt": "European Media HATES this one trick:\n\nThe same ideas, just behind $2000 paywalls. https://t.co/RJGHTvIywU",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067135190640845161",
     "ticker": "",
     "topics": []
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-06-16",
     "sentiment": "watch",
-    "excerpt": "It is humbling to consider that if we harness just 1 millionth of the Sun’s power for AI, that will be much more than a million times the intelligence of all of humanity",
-    "postUrl": "https://x.com/elonmusk/status/2066891067899944993",
-    "ticker": "",
+    "excerpt": "Bernstein is legit the dumbest analyst firm I’ve seen calling for a 50% crash in Kioxia.\n\nThey gave $INTC a $36 PT back in Jan and now it’s $118.\n\nGood lesson to ignore institutional reports that get published for retail consumption. \n\nThey",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067117980656533764",
+    "ticker": "INTC",
     "topics": []
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-06-16",
     "sentiment": "watch",
-    "excerpt": "Made with Grok Imagine https://t.co/EMJdtFPYpo",
-    "postUrl": "https://x.com/elonmusk/status/2066887006068834541",
-    "ticker": "",
+    "excerpt": "I’m not sure why many folks are super bearish on my high conviction $AAOI long… \n\nEver since $30, then on the way up to $170. (Yes I do think every bear is wrong, we’ll see who’s right).\n\nThey have scarce laser capacity that $AMD and other ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067071462360666165",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-16",
+    "sentiment": "watch",
+    "excerpt": "I’m not sure why many folks are super bearish on my high conviction $AAOI long… \n\nEver since $30, then on the way up to $170. (Yes I do think every bear is wrong, we’ll see who’s right).\n\nThey have scarce laser capacity that $AMD and other ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067071462360666165",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-16",
+    "sentiment": "watch",
+    "excerpt": "I’m not sure why many folks are super bearish on my high conviction $AAOI long… \n\nEver since $30, then on the way up to $170. (Yes I do think every bear is wrong, we’ll see who’s right).\n\nThey have scarce laser capacity that $AMD and other ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067071462360666165",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-16",
+    "sentiment": "watch",
+    "excerpt": "I’m not sure why many folks are super bearish on my high conviction $AAOI long… \n\nEver since $30, then on the way up to $170. (Yes I do think every bear is wrong, we’ll see who’s right).\n\nThey have scarce laser capacity that $AMD and other ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067071462360666165",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-16",
+    "sentiment": "watch",
+    "excerpt": "Mizuho Research: No delays on CPO or 800v dc. \n\nRevised up optical engine projections from $NVDA demand ramp.  \n\n- Next phase in CPO for long term, believes InP DFB lasers remains the focus (hello $SIVE). VSCEL and microLED remain \"unproven",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067033934194696469",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-16",
+    "sentiment": "watch",
+    "excerpt": "Mizuho Research: No delays on CPO or 800v dc. \n\nRevised up optical engine projections from $NVDA demand ramp.  \n\n- Next phase in CPO for long term, believes InP DFB lasers remains the focus (hello $SIVE). VSCEL and microLED remain \"unproven",
+    "postUrl": "https://x.com/aleabitoreddit/status/2067033934194696469",
+    "ticker": "SIVE",
     "topics": []
   },
   {
@@ -992,342 +1142,6 @@
     "postUrl": "https://x.com/aleabitoreddit/status/2066676986324648239",
     "ticker": "SPCX",
     "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "Just as a recap, these were all my core European longs:\n\n1. $SIVE\n2. $LPK\n3. $SOI\n4. $RPI \n5. $IQE\n6. $ALRIB\n7. $XFAB\n\nSivers: As you know by now, core laser chokepoint over next generation photonics, from 1.6T pluggables to CPO.\n\nEmbedded ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066535221554733278",
-    "ticker": "NVDA",
-    "topics": [
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "Just as a recap, these were all my core European longs:\n\n1. $SIVE\n2. $LPK\n3. $SOI\n4. $RPI \n5. $IQE\n6. $ALRIB\n7. $XFAB\n\nSivers: As you know by now, core laser chokepoint over next generation photonics, from 1.6T pluggables to CPO.\n\nEmbedded ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066535221554733278",
-    "ticker": "ALRIB",
-    "topics": [
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "Just as a recap, these were all my core European longs:\n\n1. $SIVE\n2. $LPK\n3. $SOI\n4. $RPI \n5. $IQE\n6. $ALRIB\n7. $XFAB\n\nSivers: As you know by now, core laser chokepoint over next generation photonics, from 1.6T pluggables to CPO.\n\nEmbedded ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066535221554733278",
-    "ticker": "IQE",
-    "topics": [
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "Just as a recap, these were all my core European longs:\n\n1. $SIVE\n2. $LPK\n3. $SOI\n4. $RPI \n5. $IQE\n6. $ALRIB\n7. $XFAB\n\nSivers: As you know by now, core laser chokepoint over next generation photonics, from 1.6T pluggables to CPO.\n\nEmbedded ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066535221554733278",
-    "ticker": "LPK",
-    "topics": [
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "I’ve written a thesis on these 3 themes early on:\n\nNeoclouds, Photonics, and Memory.\n\nNow, it’s fun to sit back and watch all my thesis ideas play out from $AAOI to $EWY to $NBIS. \n\nEven got my warnings right too, $IREN is still stagnant du",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066521694836330618",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "I’ve written a thesis on these 3 themes early on:\n\nNeoclouds, Photonics, and Memory.\n\nNow, it’s fun to sit back and watch all my thesis ideas play out from $AAOI to $EWY to $NBIS. \n\nEven got my warnings right too, $IREN is still stagnant du",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066521694836330618",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "I’ve written a thesis on these 3 themes early on:\n\nNeoclouds, Photonics, and Memory.\n\nNow, it’s fun to sit back and watch all my thesis ideas play out from $AAOI to $EWY to $NBIS. \n\nEven got my warnings right too, $IREN is still stagnant du",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066521694836330618",
-    "ticker": "EWY",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "I’ve written a thesis on these 3 themes early on:\n\nNeoclouds, Photonics, and Memory.\n\nNow, it’s fun to sit back and watch all my thesis ideas play out from $AAOI to $EWY to $NBIS. \n\nEven got my warnings right too, $IREN is still stagnant du",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066521694836330618",
-    "ticker": "IREN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "$SIVE is the next SIVE.\n\nDon’t think you’ll find another company.\n\nThat’s qualified and likely primary/sole source with:\n\n- $JBL and other pluggable hyperscaler suppliers \n- Ayar and the $NVDA NVLink CPO ecosystems\n\nWhile being the foundati",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066498742942159288",
-    "ticker": "NVDA",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "$SIVE is the next SIVE.\n\nDon’t think you’ll find another company.\n\nThat’s qualified and likely primary/sole source with:\n\n- $JBL and other pluggable hyperscaler suppliers \n- Ayar and the $NVDA NVLink CPO ecosystems\n\nWhile being the foundati",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066498742942159288",
-    "ticker": "AMD",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "$SIVE is the next SIVE.\n\nDon’t think you’ll find another company.\n\nThat’s qualified and likely primary/sole source with:\n\n- $JBL and other pluggable hyperscaler suppliers \n- Ayar and the $NVDA NVLink CPO ecosystems\n\nWhile being the foundati",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066498742942159288",
-    "ticker": "GFS",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "$SIVE is the next SIVE.\n\nDon’t think you’ll find another company.\n\nThat’s qualified and likely primary/sole source with:\n\n- $JBL and other pluggable hyperscaler suppliers \n- Ayar and the $NVDA NVLink CPO ecosystems\n\nWhile being the foundati",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066498742942159288",
-    "ticker": "JBL",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "Ur welcome with $IQE https://t.co/dn7XDgZ4FE",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066435132471513578",
-    "ticker": "IQE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal.\n\nRemember I told you all IQE was important to Western optical supply chains back at $12?\n\n$MTSI had to go out of their way to secure their supply with IQE.\n\nNow there’s another critic",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066421816793714938",
-    "ticker": "IQE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal.\n\nRemember I told you all IQE was important to Western optical supply chains back at $12?\n\n$MTSI had to go out of their way to secure their supply with IQE.\n\nNow there’s another critic",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066421816793714938",
-    "ticker": "MTSI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-15",
-    "sentiment": "watch",
-    "excerpt": "Wow, $IQE and $TSEM sign a multi year InP epiwafer deal.\n\nRemember I told you all IQE was important to Western optical supply chains back at $12?\n\n$MTSI had to go out of their way to secure their supply with IQE.\n\nNow there’s another critic",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066421816793714938",
-    "ticker": "TSEM",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-14",
-    "sentiment": "watch",
-    "excerpt": "Yep, very stupid to be a bear.\n\nWhen Trump is doing everything to boost markets before Midterms. \n\nOn top, your $WOLF power semi basket should go brrr from 800 VDC acceleration.\n\n$LITE optical basket should go brrr from InP easing.  \n\n$SPCX",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066360345774764496",
-    "ticker": "LITE",
-    "topics": [
-      "美联储/利率",
-      "能源/油价",
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-14",
-    "sentiment": "watch",
-    "excerpt": "Yep, very stupid to be a bear.\n\nWhen Trump is doing everything to boost markets before Midterms. \n\nOn top, your $WOLF power semi basket should go brrr from 800 VDC acceleration.\n\n$LITE optical basket should go brrr from InP easing.  \n\n$SPCX",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066360345774764496",
-    "ticker": "SPCX",
-    "topics": [
-      "美联储/利率",
-      "能源/油价",
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-14",
-    "sentiment": "watch",
-    "excerpt": "Yep, very stupid to be a bear.\n\nWhen Trump is doing everything to boost markets before Midterms. \n\nOn top, your $WOLF power semi basket should go brrr from 800 VDC acceleration.\n\n$LITE optical basket should go brrr from InP easing.  \n\n$SPCX",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066360345774764496",
-    "ticker": "WOLF",
-    "topics": [
-      "美联储/利率",
-      "能源/油价",
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-14",
-    "sentiment": "watch",
-    "excerpt": "Today, there's a new report that China eased InP substrate exports. \n\nWhich is expected to relieve mass production bottlenecks in the photonics market (source: Digitimes)\n\nMy optical positions are very happy to hear this:\n\nFrom $AXTI (subst",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066340661633372452",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-14",
-    "sentiment": "watch",
-    "excerpt": "Today, there's a new report that China eased InP substrate exports. \n\nWhich is expected to relieve mass production bottlenecks in the photonics market (source: Digitimes)\n\nMy optical positions are very happy to hear this:\n\nFrom $AXTI (subst",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066340661633372452",
-    "ticker": "AXTI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-14",
-    "sentiment": "watch",
-    "excerpt": "Today, there's a new report that China eased InP substrate exports. \n\nWhich is expected to relieve mass production bottlenecks in the photonics market (source: Digitimes)\n\nMy optical positions are very happy to hear this:\n\nFrom $AXTI (subst",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066340661633372452",
-    "ticker": "IQE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-14",
-    "sentiment": "watch",
-    "excerpt": "Today, there's a new report that China eased InP substrate exports. \n\nWhich is expected to relieve mass production bottlenecks in the photonics market (source: Digitimes)\n\nMy optical positions are very happy to hear this:\n\nFrom $AXTI (subst",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066340661633372452",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-14",
-    "sentiment": "watch",
-    "excerpt": "$NVDA and $GOOGL lead 800V DC ahead of schedule. \n\n\"Ahead of schedule\", pulled up to Q3 2026 with small volume shipments starting . \n\n- Delta Electronics (2308), $VRT\n- Song Chuan Precision (7788)\n- Schneider Electric, Eaton, Siemens.\n\nAll ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066331049605627951",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-14",
-    "sentiment": "watch",
-    "excerpt": "$NVDA and $GOOGL lead 800V DC ahead of schedule. \n\n\"Ahead of schedule\", pulled up to Q3 2026 with small volume shipments starting . \n\n- Delta Electronics (2308), $VRT\n- Song Chuan Precision (7788)\n- Schneider Electric, Eaton, Siemens.\n\nAll ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066331049605627951",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-14",
-    "sentiment": "watch",
-    "excerpt": "$NVDA and $GOOGL lead 800V DC ahead of schedule. \n\n\"Ahead of schedule\", pulled up to Q3 2026 with small volume shipments starting . \n\n- Delta Electronics (2308), $VRT\n- Song Chuan Precision (7788)\n- Schneider Electric, Eaton, Siemens.\n\nAll ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066331049605627951",
-    "ticker": "VRT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-14",
-    "sentiment": "watch",
-    "excerpt": "This is gonna upset a lot of people: \n\nBut TA is astrology for traders.\n\nIt's confirmation bias + trading human psychology about entries. \n\nKinda like how people frontran $SPCE from $SPCX IPO expecting retail to mess up tickers by trading p",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066180704661356593",
-    "ticker": "AAOI",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-14",
-    "sentiment": "watch",
-    "excerpt": "This is gonna upset a lot of people: \n\nBut TA is astrology for traders.\n\nIt's confirmation bias + trading human psychology about entries. \n\nKinda like how people frontran $SPCE from $SPCX IPO expecting retail to mess up tickers by trading p",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066180704661356593",
-    "ticker": "AXTI",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-14",
-    "sentiment": "watch",
-    "excerpt": "This is gonna upset a lot of people: \n\nBut TA is astrology for traders.\n\nIt's confirmation bias + trading human psychology about entries. \n\nKinda like how people frontran $SPCE from $SPCX IPO expecting retail to mess up tickers by trading p",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066180704661356593",
-    "ticker": "GFS",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-14",
-    "sentiment": "watch",
-    "excerpt": "This is gonna upset a lot of people: \n\nBut TA is astrology for traders.\n\nIt's confirmation bias + trading human psychology about entries. \n\nKinda like how people frontran $SPCE from $SPCX IPO expecting retail to mess up tickers by trading p",
-    "postUrl": "https://x.com/aleabitoreddit/status/2066180704661356593",
-    "ticker": "IREN",
-    "topics": [
-      "IPO/财报"
-    ]
   },
   {
     "personId": "jensen",

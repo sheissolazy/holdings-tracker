@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 299.24,
-  "change5dPct": 3.0,
-  "changeYtdPct": 10.1,
-  "marketCap": "$4.38T",
-  "pe": 35.8,
+  "price": 295.95,
+  "change5dPct": 1.5,
+  "changeYtdPct": 8.7,
+  "marketCap": "$4.40T",
+  "pe": 35.6,
   "revenue": "—",
   "revenueYoYPct": 13,
   "prices": [
-    {
-      "t": "2025-12-17",
-      "o": 275.01,
-      "h": 276.16,
-      "l": 271.64,
-      "c": 271.84
-    },
     {
       "t": "2025-12-18",
       "o": 273.61,
@@ -874,131 +867,138 @@
     },
     {
       "t": "2026-06-16",
-      "o": 295.24,
+      "o": 295.25,
       "h": 300.48,
       "l": 293.97,
       "c": 299.24
+    },
+    {
+      "t": "2026-06-17",
+      "o": 300.85,
+      "h": 302.07,
+      "l": 294.38,
+      "c": 295.95
     }
   ],
   "thesis": {
     "bull": [
-      "巴菲特持仓稳定：截至2026年3月，伯克希尔哈撒韦持有约2.28亿股AAPL，市值约578亿美元，占投资组合22%，长期持有未减仓，体现对苹果品牌与现金流的高度信心。",
-      "AI产品线催化：市场传出AI AirPods及可折叠iPhone研发进展的正面报道，英伟达CEO黄仁勋于2026年6月公开表达对Apple AI的高度期待，若产品落地将驱动新一轮换机潮。",
-      "服务业务护城河：App Store、iCloud、Apple Music等服务板块毛利率远高于硬件，持续贡献高质量现金流，强化股东回报能力与估值支撑。"
+      "巴菲特持续重仓：伯克希尔·哈撒韦截至2026年3月仍持有约2.28亿股，仓位占组合22%、市值约578亿美元，期间持仓量零变化，体现顶级价值投资者对苹果长期竞争壁垒的高度认可。",
+      "AI整合预期升温：英伟达CEO黄仁勋于2026年6月公开表达对Apple AI的高度期待，设备端推理与隐私保护的差异化定位或为苹果在AI生态中开辟独特增长空间，带动市场情绪短期回暖。",
+      "产品线持续迭代：苹果已规划2027年春季推出第二代iPhone Air，轻薄旗舰形态产品线的延续彰显硬件创新节奏，叠加服务收入占比持续提升，中长期盈利结构仍在优化。"
     ],
     "bear": [
-      "欧洲监管压力升级：意大利监管机构已就云服务互操作性启动DMA合规调查，欧盟数字市场法合规成本及潜在罚款将侵蚀服务业务利润率，并可能倒逼App Store商业模式调整。",
-      "佩洛西持续减持：众议员南希·佩洛西家族账户自2024年底至2026年1月多次申报减持AAPL，连续减仓信号在市场中受到高度关注，与巴菲特持有形成分歧。",
-      "科技板块整体承压：近期纳斯达克走弱，AI相关科技股普遍回调，市场资金向工业与金融板块轮动，高估值科技股面临利率维持高位下的重估压力。"
+      "价格上调压制需求：CEO蒂姆·库克证实因内存芯片短缺及关税压力将提高产品售价，在中国及新兴市场与本土品牌竞争白热化的背景下，涨价或加速份额流失并拖累出货量预期。",
+      "涨幅显著落后大市：2026年以来苹果股价仅上涨约10%，纳斯达克同期涨幅高达19%，「AI疲劳」叙事令市场对其AI变现节奏产生疑虑，资金持续向AI受益更直接的标的轮动。",
+      "佩洛西多次减持：2024年末至2026年初，该众议员家庭账户多次披露对苹果持仓的削减与退出操作，系统性降低敞口的方向性动作引发部分投资者对短期基本面预期的关注。"
     ],
     "watch": [
-      "Apple Intelligence落地节奏：Apple AI功能在全球iPhone用户群中的实际渗透率与体验口碑，是判断下一轮超级换机周期能否启动的核心指标，需持续跟踪季度活跃用户数据。",
-      "DMA监管进展：意大利及欧盟其他成员国对苹果云互操作性要求的执行力度与处罚尺度，可能对App Store收费模式和iCloud服务在欧营收产生实质影响。",
-      "可折叠iPhone时间表：可折叠iPhone若能在2026至2027年内量产上市，将开辟全新品类并刺激换机需求，但供应链成熟度、定价策略及市场接受度仍存在不确定性。"
+      "估值是否已充分定价：市场评论明确指出「多头逻辑已被价格反映」，当前估值隐含较高增长预期，若Apple Intelligence商业化落地节奏低于预期则存在显著回调风险。",
+      "美联储政策路径不确定性：新任主席凯文·沃什打破14年惯例，货币政策转向信号尚不明朗，利率敏感性较高的大市值科技股估值体系面临重新定价压力。",
+      "AI战略执行进度：Apple Intelligence能否在闭环生态内形成差异化竞争力、推动软件服务收入加速增长，是决定中期基本面能否支撑当前估值的核心观察变量。"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果公司（Apple Inc.，AAPL）是全球市值最大的科技企业之一，核心业务涵盖iPhone、Mac、iPad、Apple Watch等硬件产品，以及App Store、iCloud、Apple Music、Apple TV+等数字服务。公司以高度封闭的生态系统著称，用户黏性极强，全球活跃设备数量超过20亿台，形成强大的网络效应与品牌护城河。近年来服务板块占比持续提升，已成为利润增长的核心引擎。"
+        "body": "苹果公司（AAPL）是全球市值最大的科技企业之一，核心业务涵盖iPhone、Mac、iPad等硬件产品及App Store、iCloud、Apple Music等软件与服务。公司凭借高度整合的软硬件生态与全球逾10亿活跃设备，构建了强大的用户黏性与定价权。在CEO蒂姆·库克主导下，高毛利率的服务业务占营收比重持续提升，是公司利润率改善与估值支撑的重要驱动力。"
       },
       {
-        "heading": "AI战略与产品创新",
-        "body": "苹果于2024年发布Apple Intelligence框架，将生成式AI能力整合至Siri及系统级功能中。2026年6月，英伟达CEO黄仁勋公开表达对Apple AI发展潜力的高度期待，市场亦传出AI AirPods和可折叠iPhone正在推进的消息，股价因此获得阶段性支撑。苹果的AI战略强调本地化推理与隐私保护，差异化路线清晰，但当前功能深度仍不及部分竞争对手，能否实现用户可感知的体验跃升是关键变量。"
+        "heading": "近期催化剂",
+        "body": "2026年中，库克向《华尔街日报》确认因内存芯片供应紧张及关税影响将上调产品售价，成为近期最直接的盈利预期扰动因素。与此同时，公司披露正筹备2027年春季推出第二代iPhone Air，延续轻薄旗舰布局。英伟达CEO黄仁勋于2026年6月公开表达对Apple AI的高度期望，为AI叙事提供外部背书，带动AI概念下苹果股价短期获得市场关注与资金流入。"
       },
       {
-        "heading": "监管风险",
-        "body": "苹果在全球面临日趋收紧的监管环境。意大利监管机构近期就云服务互操作性问题启动DMA调查，此前欧盟已就App Store、浏览器选择等议题多次处罚苹果。若监管机构要求强制开放侧载或降低平台佣金，服务板块收入将受直接冲击。此外，美国国内反垄断诉讼持续推进，各国数字税政策亦构成长期合规成本压力，需持续跟踪裁决进展。"
+        "heading": "机构与知名投资者动向",
+        "body": "伯克希尔·哈撒韦截至2026年3月持有苹果约2.28亿股，市值约578亿美元，占投资组合22%，期间持仓量无变化，巴菲特维持长期重仓姿态不动摇。众议员南希·佩洛西的国会交易披露则呈现分歧信号：其家庭账户于2025年12月下旬新建仓的同时，亦有多笔减持与退出记录，自2024年末以来多次系统性削减苹果敞口，整体方向偏向空头情绪。"
       },
       {
-        "heading": "机构持仓与知名投资者动向",
-        "body": "伯克希尔哈撒韦截至2026年3月持有约2.28亿股，市值约578亿美元，占巴菲特投资组合22%，持仓保持不变，体现长期价值投资视角下对苹果商业模式的认可。相比之下，众议员南希·佩洛西家族账户自2024年下半年至2026年1月记录了多笔减持申报，但同期亦有新建仓记录，信号较为复杂。多空主力持仓分歧显著，投资者需综合研判而非单一跟随。"
+        "heading": "宏观环境",
+        "body": "2026年中期宏观背景复杂交织：美伊协议的达成暂时缓解地缘冲突溢价，美国零售销售数据显示消费韧性尚存，但新任美联储主席凯文·沃什打破14年惯例，市场对其政策立场仍存较大不确定性。关税博弈背景下，苹果供应链中国制造环节持续承压，内存芯片短缺问题在需求复苏周期中进一步加剧了成本管控难度，对毛利率构成潜在下行压力。"
       },
       {
-        "heading": "市场竞争格局",
-        "body": "苹果在智能手机市场与三星、谷歌Pixel竞争，在PC领域与微软生态形成对立，在AR领域与Meta（Ray-Ban智能眼镜与Quest系列）及Snap（2195美元AR眼镜）展开竞争，在AI助手层面则面临谷歌Gemini、微软Copilot的正面挑战。苹果Vision Pro目前在空间计算领域占据先发地位，但高定价限制了大众渗透率，后续迭代节奏与生态内容丰富度将决定其长期竞争力。"
+        "heading": "风险分析",
+        "body": "核心风险集中于三个维度：其一，价格上调或削弱中端市场需求，在中国、印度等新兴市场与本土品牌竞争加剧的背景下，份额侵蚀风险不容忽视；其二，AI变现路径尚不清晰，Apple Intelligence推出以来市场对其短期商业化贡献存在较大分歧，股价相对滞后于AI受益板块印证了这一判断；其三，估值处于历史相对高位，若宏观流动性收紧或季度业绩不及预期，当前估值溢价提供的安全边际有限。"
       },
       {
-        "heading": "估值与风险提示",
-        "body": "苹果当前市盈率处于历史较高分位，反映市场对服务板块持续高增长及AI催化剂的乐观预期。多空分歧的核心在于：苹果能否将20亿台活跃设备基础成功转化为AI变现能力，以支撑当前估值溢价。若AI产品升级不及预期、欧盟监管重罚落地或宏观利率维持高位导致科技股承压，则存在估值回调风险。本报告仅基于公开信息整理，客观呈现多空分歧，不构成任何投资建议。"
+        "heading": "技术与创新展望",
+        "body": "苹果AI战略以设备端推理与隐私保护为核心差异点，区别于云端大模型路线，与OpenAI的合作整合进一步丰富了生态能力边界。Apple Intelligence在iOS生态中的持续铺开，以及第二代iPhone Air产品线的硬件创新，构成中短期内拉动换机需求的潜在催化剂。服务业务在高毛利率区间的持续扩张，叠加AI功能对用户黏性与付费意愿的潜在提升，是苹果中长期估值修复的核心逻辑支撑。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
         "name": "微软",
-        "note": "同为超大市值科技平台，软件加云服务收入结构相似，AI Copilot商业化落地进度领先，可作为AI变现能力与服务毛利率的对标参照。"
+        "note": "同为万亿美元科技巨头，AI Copilot商业化落地进度与云业务增速领先，估值水平相近但AI变现路径更为清晰，常作为苹果AI叙事效率的直接对标参照。"
       },
       {
         "ticker": "GOOGL",
         "name": "Alphabet",
-        "note": "移动操作系统层面的直接竞争对手，Android与iOS形成双寡头格局，同样面临DMA监管压力，Gemini AI布局对Siri及苹果搜索分成收入构成威胁。"
+        "note": "搜索与移动广告护城河深厚，Android生态与苹果iOS构成全球智能手机双寡头格局，Gemini大模型布局积极，双方在移动端AI入口与广告主预算争夺上存在直接竞争。"
       },
       {
-        "ticker": "META",
-        "name": "Meta Platforms",
-        "note": "AR硬件与AI眼镜领域的新兴竞争者，Ray-Ban智能眼镜及Quest系列与苹果Vision Pro形成正面竞争，其硬件加社交生态变现模式可与苹果服务板块作横向比较。"
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "AI算力基础设施核心供应商，黄仁勋对Apple AI的公开背书使两者形成生态联动预期，但英伟达在AI受益叙事上的弹性远超苹果，资金轮动方向值得持续追踪。"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-16T22:59:43.206219Z"
+    "generatedAt": "2026-06-17T22:52:00.883807Z"
   },
   "news": [
     {
-      "id": "AAPL-140648797",
-      "title": "Dow Hits Record High On Strong Banks And Industrial Stocks, Nasdaq And S&P 500 Slip On Tech Weakness — SPCX, YUM, HOOD, RIVN, AAPL, SNAP In Focus",
+      "id": "AAPL-140657190",
+      "title": "Here’s Why Apple CEO Tim Cook Says Prices Will Have to Increase",
       "source": "Yahoo",
-      "publishedAt": "2026-06-16",
-      "url": "https://finnhub.io/api/news?id=06818dd8c2df152c48f01e48f872b3d1286d9611560a629c935eafd348cf16f6",
+      "publishedAt": "2026-06-17",
+      "url": "https://finnhub.io/api/news?id=0919729c0da02d402adaa08afab6b4f430b27f68542f8177608d68367912e213",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140648798",
-      "title": "Apple (AAPL) Faces Italy DMA Probe Over Cloud Interoperability",
+      "id": "AAPL-140657191",
+      "title": "Apple to raise prices due to memory chip shortage, CEO tells WSJ",
       "source": "Yahoo",
-      "publishedAt": "2026-06-16",
-      "url": "https://finnhub.io/api/news?id=076bcfe10d77abb27a77aa73e71af4b421c5c4a6b0ff7cd3f62a0ffdf07ce2eb",
+      "publishedAt": "2026-06-17",
+      "url": "https://finnhub.io/api/news?id=b152078981aa5cd12e45b4f744f0009c253b667be13b246ddeabc7a4a7f8a73f",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140648799",
-      "title": "Snap unveils its $2,195 augmented reality glasses as rivalry with Meta heats up",
+      "id": "AAPL-140657192",
+      "title": "ADT Joins Board of Directors of the Connectivity Standards Alliance, Reinforcing Its Role in Shaping the Future of the Connected Home",
       "source": "Yahoo",
-      "publishedAt": "2026-06-16",
-      "url": "https://finnhub.io/api/news?id=d951bee0c740eaad614fb9920bc77b3d54402685bdd795b98ced7ad88a0cea6e",
+      "publishedAt": "2026-06-17",
+      "url": "https://finnhub.io/api/news?id=3fe36575ae59c7ec1cd65601339b5419728ec3919e1c9e3eb84d730367ade031",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140648800",
-      "title": "What Trump's clamp down on Anthropic is signaling to rest of the world",
+      "id": "AAPL-140657193",
+      "title": "Apple Prepares Second-Generation iPhone Air for Spring 2027",
       "source": "Yahoo",
-      "publishedAt": "2026-06-16",
-      "url": "https://finnhub.io/api/news?id=d0c8973041d5262c94149de5e3e3765829c8c3dc098046e5a557298df565333b",
+      "publishedAt": "2026-06-17",
+      "url": "https://finnhub.io/api/news?id=ec4588f714a448ce2ab99f2ec0a26de83d0b521c1352b58ae6bbe39304af63cf",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140647802",
-      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "id": "AAPL-140656109",
+      "title": "Apple Faces AI Fatigue as Stock's 10% Gain Trails Nasdaq's 19%",
       "source": "Yahoo",
-      "publishedAt": "2026-06-16",
-      "url": "https://finnhub.io/api/news?id=07ee9d81c64d34a9637fa3cd19487bbf0ce142b341d3e6cba2e870bb8ed569f3",
+      "publishedAt": "2026-06-17",
+      "url": "https://finnhub.io/api/news?id=56313439283ed0369947bfbae9b59e24146800deef82b211dfcbcd0571a03167",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140647803",
-      "title": "Apple Stock Rises on AI AirPods and Foldable iPhone Report",
+      "id": "AAPL-140656090",
+      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
       "source": "Yahoo",
-      "publishedAt": "2026-06-16",
-      "url": "https://finnhub.io/api/news?id=ec1740783f7d691c375e5e50c9146da6d0e9c8eaf1dd20bd397ff3c969450192",
+      "publishedAt": "2026-06-17",
+      "url": "https://finnhub.io/api/news?id=221ddf7d65c76fceeb808e8ce0cf2e785e51a4b80da096423b76e573d379dcd0",
       "tags": [
         "AAPL"
       ]
