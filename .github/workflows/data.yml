@@ -32,6 +32,8 @@ jobs:
           FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
           X_AUTH_TOKEN: ${{ secrets.X_AUTH_TOKEN }}
           X_CT0: ${{ secrets.X_CT0 }}
+          # 可选：设了就用你的真实 SEC 联系方式；不设则用 config.py 里的 no-reply 默认（不暴露隐私）
+          SEC_UA: ${{ secrets.SEC_UA }}
         run: |
           cd pipeline
           python run_all.py || python run_all.py --mock

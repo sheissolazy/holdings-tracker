@@ -3,6 +3,7 @@
 与前端 src/data/types.ts 的 Person / Signal / Stock 结构对应。
 新增一个跟踪对象，只改这里。
 """
+import os
 
 # 跟踪的人物 / 源（统一抽象；signalTypes 决定详情页区块）
 PEOPLE = [
@@ -81,4 +82,8 @@ NEWS_FEEDS = [
     # 微信公众号「猫笔刀」经 Wechat2RSS：订阅后把 RSS 地址填到 PEOPLE[maobidao].rss
 ]
 
-SEC_UA = "holdings-tracker self-use contact: 27716237+sheissolazy@users.noreply.github.com"  # SEC 要求 UA 带联系方式
+# SEC 要求 User-Agent 带联系方式。真实邮箱别写进公开仓库——用 env/secret 注入；
+# 默认回落到不暴露隐私的 GitHub no-reply 地址（格式合法、可作联系方式）。
+# 用 `or` 而非 get 的默认值：未设的 secret 会传空串，需回落而非用空 UA。
+SEC_UA = (os.environ.get("SEC_UA") or
+          "holdings-tracker self-use contact: 27716237+sheissolazy@users.noreply.github.com")
