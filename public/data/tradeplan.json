@@ -1,42 +1,42 @@
 {
-  "forDate": "2026-06-18",
-  "generatedAt": "2026-06-17T22:53:18Z",
+  "forDate": "2026-06-19",
+  "generatedAt": "2026-06-18T23:03:14Z",
   "model": "确定性技术位 + 风险计（无 AI、无编造）",
   "catalysts": [],
   "pendingSignals": [],
   "draftActions": [],
   "risk": {
     "available": true,
-    "asOf": "2026-06-17",
-    "score": 2,
-    "level": "中",
-    "label": "风险中性",
+    "asOf": "2026-06-18",
+    "score": 3,
+    "level": "低",
+    "label": "风险偏低 · 趋势健康",
     "inputs": [
       {
         "name": "标普 · 趋势",
         "value": "位于 50/200 日线上方",
-        "detail": "SPX 741.0 · 50DMA 728.2 · 200DMA 687.8",
+        "detail": "SPX 746.7 · 50DMA 729.7 · 200DMA 688.4",
         "contribution": 2,
         "note": "中长期趋势均健康（risk-on）"
       },
       {
         "name": "标普 · 1月动量",
-        "value": "+0.2%",
+        "value": "+1.1%",
         "detail": "近 22 个交易日累计涨跌",
-        "contribution": 0,
-        "note": "区间震荡"
+        "contribution": 1,
+        "note": "上行动量延续"
       },
       {
         "name": "10年美债 · 1月",
-        "value": "-2bp",
-        "detail": "当前 4.46%",
+        "value": "-3bp",
+        "detail": "当前 4.45%",
         "contribution": 0,
         "note": "利率波动有限"
       },
       {
         "name": "美元指数 · 1月",
-        "value": "+1.1%",
-        "detail": "当前 DXY 100.39",
+        "value": "+1.9%",
+        "detail": "当前 DXY 100.81",
         "contribution": 0,
         "note": "美元区间波动"
       }
@@ -45,57 +45,39 @@
   },
   "suggestions": [
     {
-      "id": "nvda-add",
+      "id": "aapl-add",
       "kind": "add",
-      "ticker": "NVDA",
-      "instrument": "stock",
-      "refPrice": 204.65,
-      "addBelow": 204.65,
-      "trimAbove": null,
-      "stop": 188.68,
-      "confidence": "med",
-      "headline": "NVDA · 回踩加仓参考位",
-      "reason": "现价 $204.65 已靠近支撑带 $198.61（近 30 日低点）/ 50 日线 $208.74；如回踩 $204.65 附近可分批考虑。止损参考跌破 $188.68。",
-      "basis": [
-        "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
-        "近 30 日支撑 $198.61 / 阻力 $236.54 / 50 日线 $208.74（真实价格历史）",
-        "现价 $204.65，距支撑 +3.0% · 距阻力 +15.6%"
-      ]
-    },
-    {
-      "id": "aapl-watch",
-      "kind": "watch",
       "ticker": "AAPL",
       "instrument": "stock",
-      "refPrice": 295.95,
-      "addBelow": 287.96,
-      "trimAbove": 317.4,
-      "stop": 267.02,
-      "confidence": "high",
-      "headline": "AAPL · 区间观察",
-      "reason": "现价 $295.95 处于支撑 $281.07 与阻力 $317.4 之间；回踩 $287.96 偏积极，逼近 $317.4 偏谨慎。",
+      "refPrice": 298.01,
+      "addBelow": 288.74,
+      "trimAbove": null,
+      "stop": 271.49,
+      "confidence": "med",
+      "headline": "AAPL · 回踩加仓参考位",
+      "reason": "现价 $298.01 已靠近支撑带 $285.78（近 30 日低点）/ 50 日线 $288.74；如回踩 $288.74 附近可分批考虑。止损参考跌破 $271.49。",
       "basis": [
-        "2 位跟踪者 13F 持有：Warren Buffett·持平、Nancy Pelosi·新建",
-        "近 30 日支撑 $281.07 / 阻力 $317.4 / 50 日线 $287.96（真实价格历史）",
-        "现价 $295.95，距支撑 +5.0% · 距阻力 +7.2%"
+        "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
+        "近 30 日支撑 $285.78 / 阻力 $317.4 / 50 日线 $288.74（真实价格历史）",
+        "现价 $298.01，距支撑 +4.1% · 距阻力 +6.5%"
       ]
     },
     {
-      "id": "be-watch",
+      "id": "nvda-watch",
       "kind": "watch",
-      "ticker": "BE",
+      "ticker": "NVDA",
       "instrument": "stock",
-      "refPrice": 284.99,
-      "addBelow": 257.68,
-      "trimAbove": 322.83,
-      "stop": 219.07,
+      "refPrice": 210.69,
+      "addBelow": 209.31,
+      "trimAbove": 236.54,
+      "stop": 189.37,
       "confidence": "med",
-      "headline": "BE · 区间观察",
-      "reason": "现价 $284.99 处于支撑 $230.6 与阻力 $322.83 之间；回踩 $257.68 偏积极，逼近 $322.83 偏谨慎。",
+      "headline": "NVDA · 区间观察",
+      "reason": "现价 $210.69 处于支撑 $199.34 与阻力 $236.54 之间；回踩 $209.31 偏积极，逼近 $236.54 偏谨慎。",
       "basis": [
-        "1 位跟踪者 13F 持有：Leopold Aschenbrenner·减仓",
-        "近 30 日支撑 $230.6 / 阻力 $322.83 / 50 日线 $257.68（真实价格历史）",
-        "现价 $284.99，距支撑 +19.1% · 距阻力 +13.3%"
+        "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
+        "近 30 日支撑 $199.34 / 阻力 $236.54 / 50 日线 $209.31（真实价格历史）",
+        "现价 $210.69，距支撑 +5.4% · 距阻力 +12.3%"
       ]
     }
   ],

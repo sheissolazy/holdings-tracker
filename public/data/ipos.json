@@ -12,11 +12,23 @@
     "status": "expected"
   },
   {
+    "ticker": "WLCOU",
+    "name": "Wilco 63 Corp",
+    "date": "2026-06-18",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "KARD",
     "name": "Kardigan, Inc.",
     "date": "2026-06-18",
     "priceRange": [
-      14.0,
+      16.0,
       16.0
     ],
     "sector": "—",
@@ -28,29 +40,29 @@
     "name": "First Carolina Financial Services, Inc.",
     "date": "2026-06-18",
     "priceRange": [
-      14.0,
-      16.0
+      12.5,
+      12.5
     ],
     "sector": "—",
     "exchange": "NYSE",
     "status": "expected"
   },
   {
-    "ticker": "TVIVU",
-    "name": "Texas Ventures Acquisition IV Corp",
+    "ticker": "FISN",
+    "name": "DEEP FISSION, INC.",
     "date": "2026-06-18",
     "priceRange": [
-      10.0,
-      10.0
+      16.0,
+      16.0
     ],
     "sector": "—",
     "exchange": "NASDAQ Global",
     "status": "expected"
   },
   {
-    "ticker": "CAES",
-    "name": "Cantor Equity Partners VII, Inc.",
-    "date": "2026-06-17",
+    "ticker": "TVIVU",
+    "name": "Texas Ventures Acquisition IV Corp",
+    "date": "2026-06-18",
     "priceRange": [
       10.0,
       10.0
