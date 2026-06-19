@@ -6,8 +6,8 @@
   "price": 210.69,
   "change5dPct": 2.8,
   "changeYtdPct": 16.4,
-  "marketCap": "$4.95T",
-  "pe": 31.5,
+  "marketCap": "$5.10T",
+  "pe": 31.9,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
@@ -874,7 +874,7 @@
     },
     {
       "t": "2026-06-18",
-      "o": 207.27,
+      "o": 207.33,
       "h": 211.39,
       "l": 206.5,
       "c": 210.69
@@ -882,123 +882,128 @@
   ],
   "thesis": {
     "bull": [
-      "佩洛西在2026年1月16日及2025年12月30日连续新建NVDA多头头寸，显示具有内部信息优势的知情资金对股价仍有信心",
-      "Mizuho研究上调了来自NVDA需求拉动的光学引擎出货预测，CPO/800V DC均未出现延误，供应链持续配合算力扩张节奏",
-      "美伊签署霍尔木兹协议后宏观风险情绪改善，芯片板块整体大涨，NVDA被多家媒体列为接近买入区间的领头个股"
+      "佩洛西在2025年12月至2026年1月间多次新建NVDA多头仓位，显示知名政治人物对AI算力龙头的持续看好，尽管同期亦有部分减仓操作，整体呈现「逢低加仓、阶段兑现」特征；",
+      "本周美国科技基金录得创纪录周度净流入，地缘风险（伊朗和谈、中东停火）阶段性缓释后机构资金加速回流，NVDA作为AI基础设施核心标的有望持续享受资金溢价；",
+      "分析师明确建议以NVDA替代Intel，认为英特尔估值「不合逻辑」，进一步强化市场对NVIDIA在GPU与AI加速计算领域龙头地位的认知。"
     ],
     "bear": [
-      "AMD正积极争购CW激光器产能，揭示光互连供应链出现新瓶颈，若NVDA同类需求持续增长，上游短缺可能推高成本或影响出货",
-      "分析文章指出AI赛道TAM重叠问题加剧，云厂商自研芯片（如亚马逊Trainium对外销售）长期可能侵蚀NVDA在推理端的市场份额",
-      "佩洛西于2024年12月24日及2024年12月31日均有减持记录，显示其操作模式为逢高修剪仓位，当前股价若再度拉升或引发类似获利了结"
+      "头条「多头逻辑已被定价」暗示当前估值已充分反映AI增长预期，高估值背景下若业绩或需求出现任何边际放缓，均可能引发较大幅度的估值回调；",
+      "ASML再度面临中国出口审查压力，若管制范围扩大将进一步抬高先进制程产能成本，对NVDA供应链的交付节奏与成本结构构成潜在扰动；",
+      "佩洛西在同期同样存在减仓（trim/exit）操作，提示即使认可长期逻辑的聪明资金也在阶段性兑现收益，短期获利盘压力不容忽视。"
     ],
     "watch": [
-      "特朗普发文强调半导体回流美国制造，并已促成苹果与英特尔协议，政策走向可能重塑代工格局，需关注NVDA对台积电的依赖是否受新政策干扰",
-      "AMD大规模采购CW激光器被市场视为光互连瓶颈的先行信号，若NVDA下一代NVLink/CPO方案面临同类组件短缺，产品上市节奏将受考验",
-      "英特尔股价因特朗普背书大涨，若政府以补贴或订单形式持续扶持英特尔，其在数据中心GPU及AI加速器领域的潜在竞争力值得跟踪"
+      "特朗普发文批评历届政府未能保护半导体产业并暗示将重振本土芯片制造，相关贸易关税与出口许可政策走向将直接影响NVDA的供应链布局及中国市场销售安排；",
+      "苹果供应链价格预警推动存储芯片价格创历史新高，需持续跟踪AI训练与推理侧HBM及DRAM需求能否支撑，以及上游成本上涨对数据中心客户采购节奏的传导效应；",
+      "知名投资人Serenity点出「新云算力能源、存储、光子」三大核心主题，光子互联技术若加速商用或重塑AI集群架构，需跟踪NVDA在该领域的研发进展与潜在竞争压力。"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA Corporation（纳斯达克：NVDA）是全球领先的GPU设计商，业务覆盖数据中心AI加速、专业可视化、游戏及汽车自动驾驶。公司凭借CUDA生态系统构建了深厚的软件护城河，使其硬件替代成本极高。截至2026年中，数据中心业务已成为营收主引擎，AI大模型训练与推理需求持续驱动出货量增长。"
+        "body": "NVIDIA Corporation（NVDA）是全球GPU设计领域的绝对龙头，产品线覆盖数据中心AI加速、专业可视化、游戏及汽车自动驾驶四大业务。公司凭借CUDA软件生态的深厚护城河，在大模型训练与推理芯片市场占据主导地位。Hopper及新一代Blackwell架构GPU被全球主要云厂商和超大规模数据中心大规模采购，数据中心收入占比持续提升，已成为公司营收与利润的核心驱动力。"
       },
       {
-        "heading": "行业地位与竞争格局",
-        "body": "在AI加速芯片市场，NVDA占据主导地位，但竞争格局正在演变。AMD持续迭代MI系列GPU并争取云厂商份额；亚马逊Trainium芯片开始对外销售，谷歌、微软等超大规模云厂商的自研ASIC也在加速落地。英特尔获得政策背书后重新进入视野。尽管如此，NVDA的CUDA生态、NVLink互联架构及完整的系统级解决方案（DGX/HGX）目前仍难以被快速替代。"
+        "heading": "AI算力需求",
+        "body": "生成式AI浪潮持续驱动全球算力投资加速，各大云服务商资本开支指引维持高位。本周科技基金录得创纪录周度净流入，折射出机构资金对AI基础设施赛道的持续押注。市场观察人士将「新云能源算力」列为核心配置主题之一，印证市场对AI长周期需求的高度认可。然而，超额需求能否在未来数个季度持续兑现，仍是最关键的观察变量。"
       },
       {
-        "heading": "近期催化剂",
-        "body": "2026年6月美伊霍尔木兹协议签署，能源市场风险溢价下降，宏观情绪转暖，科技和芯片板块受益。与此同时，Mizuho上调了NVDA驱动的光学引擎出货预期，Marvell因亚马逊Trainium外售消息大涨亦间接反映AI基础设施整体需求旺盛。多家媒体将NVDA列于技术面接近买入区间的芯片股之首。"
+        "heading": "竞争格局",
+        "body": "AMD在GPU加速卡领域持续追赶，MI系列产品在部分云厂商场景已具备可替代性；Broadcom凭借定制ASIC方案在谷歌、Meta等超大规模客户中获得推理侧份额，构成结构性竞争；Intel因估值逻辑受到分析师质疑，当前市场定位较为被动。NVDA的核心护城河在于CUDA软件生态的先发优势，以及Blackwell到Rubin路线图的持续技术领先。"
       },
       {
-        "heading": "供应链分析",
-        "body": "光互连是当前最值得关注的供应链变量。Trendforce及Serenity分析师披露AMD正大量采购CW激光器，意味着整个AI芯片行业的光学互连需求正从潜在转向现实瓶颈。NVDA下一代产品依赖CPO（共封装光学）技术，而InP DFB激光器产能高度集中，一旦供给跟不上需求爬坡，可能延缓新品量产节奏并推高物料成本。"
+        "heading": "政策与地缘风险",
+        "body": "地缘与政策层面风险不容低估。ASML再度被中国出口管制审查，若管制范围扩大可能扰动全球先进制程产能供给。特朗普公开批评历届政府未保护半导体产业，贸易关税与出口许可政策存在较大不确定性，对NVDA向中国市场销售受限芯片的商业安排构成潜在压力。中东局势虽有缓和信号，但能源成本走势仍将影响数据中心运营成本预期。"
       },
       {
-        "heading": "机构与政治人物动向解读",
-        "body": "佩洛西的交易记录呈现出「逢低建仓、逢高修剪」的规律性操作：2025年12月至2026年1月间多次新建多头，同时在年末节点有过减持。这一模式表明其对NVDA中期前景持正面看法，但也会主动管理账面盈利。特朗普发文强调芯片制造回流，并促成苹果-英特尔协议，政策倾向对整个半导体行业是双刃剑——既可能带来补贴红利，也可能通过出口管制或关税制造不确定性。"
+        "heading": "机构与聪明钱动向",
+        "body": "佩洛西在2024年12月至2026年1月间多次新建NVDA多头期权仓位，同时在年末节点有部分减仓操作，国会议员持仓披露具有时间滞后性，须审慎解读而非直接视为操作信号。本周科技基金历史性净流入反映机构资金在地缘风险阶段性缓释后加速回流AI相关资产，NVDA作为板块核心标的有望持续受益于增量资金流入。"
       },
       {
-        "heading": "主要风险因素",
-        "body": "核心风险包括：一、地缘政治与出口管制——美国对华AI芯片出口限制若收紧，将直接压缩可寻址市场；二、自研ASIC替代加速——超大规模云厂商持续加码自研芯片，长期可能分流推理端订单；三、供应链瓶颈——光互连组件短缺可能延缓出货；四、估值压力——市场对AI需求高增长已充分定价，若季报指引低于预期则下行空间较大；五、竞争格局变化——AMD、英特尔及新兴ASIC厂商均在加速迭代。"
+        "heading": "估值与主要分歧",
+        "body": "当前NVDA估值处于历史高位，市场已在较大程度上定价AI增长预期，「多头逻辑已被定价」的市场评论揭示了当前最核心的多空分歧：乐观方认为Blackwell超级周期将推动业绩持续超预期；悲观方则担忧需求前置透支、竞争替代加剧与监管风险共振引发估值重估。存储芯片价格走高构成双面效应——既是AI需求旺盛的印证，亦是供应链成本上行的潜在压力。投资者须持续跟踪季度业绩指引与主要数据中心客户采购动态。"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "最直接的GPU竞争对手，MI系列持续迭代，正积极争取云厂商份额，同时也在抢购光互连关键组件"
+        "note": "GPU加速卡领域最直接竞争对手，MI系列在部分云厂商场景获得采购份额，CUDA生态仍是NVDA核心护城河"
+      },
+      {
+        "ticker": "AVGO",
+        "name": "Broadcom Inc.",
+        "note": "定制ASIC方案提供商，与超大规模客户深度合作，在推理侧对通用GPU构成结构性竞争"
       },
       {
         "ticker": "INTC",
         "name": "Intel Corporation",
-        "note": "获特朗普政府背书并达成苹果协议后股价大涨，若半导体制造回流政策落地，英特尔晶圆代工业务或受益，同时其Gaudi AI加速器是潜在竞品"
+        "note": "传统竞争对手，当前处于战略转型阵痛期，分析师认为其估值逻辑不合理并建议以NVDA等替代"
       },
       {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "AI网络芯片及定制ASIC供应商，亚马逊Trainium外售消息推动其股价单日涨逾7%，是观察AI基础设施需求广度的重要参照标的"
+        "ticker": "TSM",
+        "name": "台积电 TSMC",
+        "note": "NVDA芯片独家先进制程代工商，ASML出口管制及地缘风险变化将直接影响其产能供给与NVDA交付节奏"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-18T22:58:33.690280Z"
+    "generatedAt": "2026-06-19T22:08:48.678475Z"
   },
   "news": [
     {
-      "id": "NVDA-140665907",
-      "title": "Dow Jones Futures: Nvidia Leads 5 Chips Near Buy Points; SpaceX Stock Needs This",
+      "id": "NVDA-140672998",
+      "title": "Buy These 3 Growth Stocks Now, Ignore the Noise, and Thank Yourself Later",
       "source": "Yahoo",
-      "publishedAt": "2026-06-18",
-      "url": "https://finnhub.io/api/news?id=e2204aa41595a7c08a7a73945249a8d8af4dd39bb87ab8c55393eb9c4ecfbafe",
+      "publishedAt": "2026-06-19",
+      "url": "https://finnhub.io/api/news?id=98738545987a0f600eed4c30fb3a345c67626cd280f5bc111ce823d0e4be1e3d",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140665908",
-      "title": "Prediction: These Will Be Micron's and Sandisk's Stock Prices by the End of 2027",
+      "id": "NVDA-140672999",
+      "title": "AppLovin Could Hit $600+ With 28% Upside as AI Ad-Tech Story Rebounds",
       "source": "Yahoo",
-      "publishedAt": "2026-06-18",
-      "url": "https://finnhub.io/api/news?id=c1946963f4ccac87a4f298ec69454b710d59d1874745cd2c5c90145364993124",
+      "publishedAt": "2026-06-19",
+      "url": "https://finnhub.io/api/news?id=a3678efeb1325757ea7e590f578668f46e926a232ba4ff7d898bcd21b9f944ed",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140665909",
-      "title": "Nebius Is Up 210% This Year. Here's Why There's Still Room for More Upside in 2026.",
+      "id": "NVDA-140673000",
+      "title": "1 Dividend King Stock Down 25% to Buy Right Now",
       "source": "Yahoo",
-      "publishedAt": "2026-06-18",
-      "url": "https://finnhub.io/api/news?id=822f04e70e75308e9393786ee3f169cd09dd095f83f39f79852cbff28627b7e0",
+      "publishedAt": "2026-06-19",
+      "url": "https://finnhub.io/api/news?id=251c3497c8dae7ff10182f29fb31d618cc4968ba09c66054dc6d10deef508d39",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140665910",
-      "title": "JPMorgan's Latest Forecasts Are Bullish for Gold: Buy the Dip",
+      "id": "NVDA-140673001",
+      "title": "Prediction: Eli Lilly Will Trade at $1,200 on This Date",
       "source": "Yahoo",
-      "publishedAt": "2026-06-18",
-      "url": "https://finnhub.io/api/news?id=3382c829b2d7e4db5f4b5c87ae4b278694f92c9c79d106cb37b6742ccf9c7ca7",
+      "publishedAt": "2026-06-19",
+      "url": "https://finnhub.io/api/news?id=e3e16aa7f24416a0493777b2da0e4f86f257a000ea41b00b60a8b5c1989b5fd5",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140665911",
-      "title": "Wolfe Research Reaffirms Bullish View on Arista Networks (ANET) With $175 Price Target",
+      "id": "NVDA-140673002",
+      "title": "Archer Aviation Stock: Buy, Sell, or Hold?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-18",
-      "url": "https://finnhub.io/api/news?id=b5de2df274632e3462988fd94c8fe704a3054d067f3108fa81b093186c6357be",
+      "publishedAt": "2026-06-19",
+      "url": "https://finnhub.io/api/news?id=11beb075b52d043731b800d5a1a3055fd9082e49fa6207f5c5df0d4b8916e03f",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140665912",
-      "title": "Index Investors: Here's How Much SpaceX Stock You're About to Own",
+      "id": "NVDA-140673003",
+      "title": "SpaceX stock joins AI bond frenzy",
       "source": "Yahoo",
-      "publishedAt": "2026-06-18",
-      "url": "https://finnhub.io/api/news?id=9a57fdc33b0477070d352a50f18a304619255a915e2fcb525ea860b7c59a1e26",
+      "publishedAt": "2026-06-19",
+      "url": "https://finnhub.io/api/news?id=773da44d54d110b7ad818a794c8785dffed431b9d33af9d031297108d324ddd3",
       "tags": [
         "NVDA"
       ]

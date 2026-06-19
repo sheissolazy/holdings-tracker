@@ -1,13 +1,13 @@
 {
-  "forDate": "2026-06-19",
-  "generatedAt": "2026-06-18T23:03:14Z",
+  "forDate": "2026-06-20",
+  "generatedAt": "2026-06-19T22:13:35Z",
   "model": "确定性技术位 + 风险计（无 AI、无编造）",
   "catalysts": [],
   "pendingSignals": [],
   "draftActions": [],
   "risk": {
     "available": true,
-    "asOf": "2026-06-18",
+    "asOf": "2026-06-19",
     "score": 3,
     "level": "低",
     "label": "风险偏低 · 趋势健康",
@@ -28,15 +28,15 @@
       },
       {
         "name": "10年美债 · 1月",
-        "value": "-3bp",
-        "detail": "当前 4.45%",
+        "value": "+2bp",
+        "detail": "当前 4.49%",
         "contribution": 0,
         "note": "利率波动有限"
       },
       {
         "name": "美元指数 · 1月",
-        "value": "+1.9%",
-        "detail": "当前 DXY 100.81",
+        "value": "+1.6%",
+        "detail": "当前 DXY 100.85",
         "contribution": 0,
         "note": "美元区间波动"
       }

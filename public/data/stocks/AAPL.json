@@ -6,7 +6,7 @@
   "price": 298.01,
   "change5dPct": 0.8,
   "changeYtdPct": 8.9,
-  "marketCap": "$4.35T",
+  "marketCap": "$4.38T",
   "pe": 35.7,
   "revenue": "—",
   "revenueYoYPct": 13,
@@ -874,7 +874,7 @@
     },
     {
       "t": "2026-06-18",
-      "o": 298.44,
+      "o": 298.11,
       "h": 300.57,
       "l": 295.62,
       "c": 298.01
@@ -882,123 +882,123 @@
   ],
   "thesis": {
     "bull": [
-      "特朗普公开背书苹果与英特尔的战略合作，将苹果定位为美国制造业复兴的旗帜性企业，短期内提振市场情绪，同时有助于缓解潜在关税压力。",
-      "英伟达CEO黄仁勋对苹果AI前景表示高度期待，AI应用落地有望驱动新一轮硬件换机周期，iPhone与Mac系列的AI功能升级将成为中长期营收增长引擎。",
-      "佩洛西在2025年12月30日同日既有减持又新开多仓，显示部分机构对苹果仍保有结构性多头配置意愿，并非单纯清仓。"
+      "特朗普公开宣布苹果与英特尔战略合作，若落地将为苹果本土芯片供应链提供保障，有助于分散台湾制造依赖、降低地缘政治风险溢价。",
+      "英伟达CEO黄仁勋积极展望苹果AI前景，叠加美国科技基金当周录得创纪录净流入，机构资金对AI赋能苹果生态的预期持续升温。",
+      "伊朗停火协议推动全球风险偏好回升，纳斯达克100指数走强，避险情绪缓解利好高估值科技股估值修复。"
     ],
     "bear": [
-      "佩洛西自2024年底至2026年初持续多次减持苹果仓位，累计减持跨越多个季度，系统性出售行为值得警惕，可能反映对估值或增长前景的审慎判断。",
-      "苹果已发出涨价预警，将AI成本压力向消费者转移，在宏观消费力承压背景下存在需求弹性风险，高端市场份额或受冲击。",
-      "特朗普关于半导体制造回流美国的言论以及潜在关税政策，令苹果高度依赖台湾及亚洲供应链的商业模式面临长期结构性不确定性。"
+      "裴洛西夫妇自2024年底至2026年初连续多次减持苹果期权仓位，内部知情人士持续出货，显示股价上行空间或已受限。",
+      "苹果发出内存价格上涨预警，揭示AI硬件成本正向产业链传导，毛利率承压风险加剧，Bank of America同步预警重大定价转变。",
+      "美国对华关税政策持续收紧，苹果约九成产能仍集中于中国大陆及亚洲地区，供应链迁移成本高昂且周期漫长，短期盈利能见度下降。"
     ],
     "watch": [
-      "苹果与英特尔合作的实质内容尚不明朗——英特尔高管据报道对特朗普的公开声明感到意外，需关注后续官方披露以判断合作深度与商业价值。",
-      "苹果AI商业化节奏：黄仁勋的乐观表态能否转化为实际的付费用户增长与服务收入，是验证AI投资叙事成立与否的关键指标。",
-      "美伊协议落地后霍尔木兹海峡恢复通航，油价回落有望降低全球物流成本，需观察这一宏观利好能否实质性改善苹果的供应链成本结构。"
+      "特朗普宣布苹果与英特尔合作时，英特尔高管据报对此感到意外，合作实质性内容尚未明确，需持续跟踪官方披露与资本开支计划。",
+      "苹果Intelligence功能在中国市场因监管原因推进迟缓，若AI本地化实现突破或遭遇失败，将对最大单一市场营收产生截然不同的影响。",
+      "美联储官员表态与地缘政治事件交替主导市场节奏，利率走势对高估值科技股定价影响显著，需密切关注通胀数据与联储议息会议信号。"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Apple Inc.（AAPL）是全球市值领先的消费电子与服务科技公司，核心业务涵盖iPhone、Mac、iPad、可穿戴设备及服务生态（App Store、iCloud、Apple Pay等）。公司凭借强大的品牌溢价、高粘性用户群与封闭式生态系统，长期维持行业领先的毛利率水平。当前苹果正处于从纯硬件制造商向AI驱动服务平台转型的关键节点，软件与服务业务占营收比重持续上升，是估值逻辑的重要支撑。"
+        "body": "苹果公司（AAPL）是全球市值最大的科技企业之一，核心业务涵盖iPhone、Mac、iPad等硬件产品，以及App Store、Apple Music、iCloud、Apple TV+等服务生态。凭借高度垂直整合的软硬件体系与全球逾十亿活跃设备基础，苹果构建了极强的用户粘性与生态壁垒。近期公司战略重心向「苹果智能」AI功能转型，试图在生成式AI浪潮中强化差异化竞争力。"
       },
       {
-        "heading": "近期催化剂",
-        "body": "2026年6月18日，特朗普在Truth Social宣布苹果与英特尔达成合作，英特尔股价当日大涨逾8%，苹果亦受到市场关注。值得注意的是，英特尔高管据报道对此声明感到意外，合作细节尚未经双方官方确认。与此同时，英伟达CEO黄仁勋于6月8日发表对苹果AI的乐观展望，带动AI概念股买盘涌入。美伊协议推动霍尔木兹海峡重新通航，全球能源与供应链成本预期改善，为科技板块整体情绪提供支撑。"
+        "heading": "AI战略进展",
+        "body": "苹果将AI能力深度融入iOS系统层，通过端侧推理与Private Cloud Compute双轨架构保障用户隐私，并与OpenAI合作拓展第三方AI服务入口。英伟达CEO黄仁勋近期对苹果AI前景表达高度期待，带动市场对苹果AI变现路径的预期升温。然而苹果AI功能在中国市场推进受阻，当地竞争对手在本土AI能力上持续领先，这是苹果AI叙事中最大的不确定因素之一。"
       },
       {
-        "heading": "AI战略与布局",
-        "body": "苹果在AI领域采取「端侧优先，隐私为本」的差异化路线，将AI功能深度整合至操作系统与自研芯片（Apple Silicon）中。黄仁勋等业界领袖对苹果AI寄予厚望，认为其庞大的设备安装基数是AI应用落地的天然渠道优势。然而，苹果AI商业化进程相对谷歌、微软更为保守，变现路径仍以带动硬件换机和服务订阅为主，直接AI付费收入尚不明确。与英特尔的潜在合作若属实，或涉及AI芯片或数据中心层面的协作，值得持续追踪。"
+        "heading": "供应链与地缘政治风险",
+        "body": "苹果绝大部分产品在台湾、中国大陆及东南亚制造，长期面临中美贸易摩擦带来的关税与断供风险。特朗普近期公开推动美国制造并宣布苹果与英特尔合作，但英特尔高管对此表示意外，合作细节尚待厘清。苹果已加速将部分iPhone产能迁至印度，但规模扩张面临人才、基础设施和成本的多重约束，短期难以实质性降低对中国产能的依赖。"
       },
       {
-        "heading": "供应链与关税风险",
-        "body": "苹果约90%以上的iPhone组装依赖富士康等台湾系代工商在中国大陆的工厂，对中美贸易政策高度敏感。特朗普近期公开批评半导体产业外流并推动制造业回美，在为苹果创造政治友好环境的同时，也隐含对现有供应链模式施压的长期风险。苹果已就关税成本发出涨价预警，表明其对供应链重组成本的消化空间有限，若贸易摩擦升级，利润率承压风险不可低估。印度产能爬坡虽为供应链多元化提供缓冲，但规模与效率仍与中国存在较大差距。"
+        "heading": "财务表现与定价压力",
+        "body": "苹果服务业务毛利率显著高于硬件，是近年利润率持续扩张的主要驱动力。然而苹果近期发出内存价格上涨预警，AI相关硬件组件成本上行，叠加关税压力可能向终端定价传导，影响消费者需求弹性。Bank of America预警苹果面临重大定价转变，市场担忧iPhone高端市场饱和叠加成本上升将挤压短期盈利增长空间。"
       },
       {
-        "heading": "机构动向与内部人士行为",
-        "body": "美国众议院议员南希·佩洛西在过去约18个月内对苹果持仓进行了多轮减持，记录时间点涵盖2024年12月、2025年10月及2025年12月，累计呈系统性减少趋势。2025年12月30日同日出现新开多头记录，但与当日同步披露的减持记录并列，性质上更接近仓位结构调整而非看多信号。需注意国会议员披露存在法定延迟，实际交易时机与市场信息不完全对称，不宜直接推断为前瞻性判断。"
+        "heading": "机构与政治动向",
+        "body": "前众议院议长裴洛西夫妇自2024年底至2026年初，多次通过期权行权后减持苹果仓位，虽同期亦有新增多头记录，但整体呈现持续减仓态势，被市场部分人士视为谨慎信号。另一方面，科技类基金当周录得创纪录资金净流入，机构整体对科技板块仍保持高配偏好，两者之间的分歧值得关注。"
       },
       {
-        "heading": "估值与市场情绪",
-        "body": "苹果目前以较高的市盈率倍数交易，体现市场对其生态系统护城河与服务业务成长性的溢价定价。当前市场情绪受到AI叙事、特朗普政策声明及芯片板块整体走强的多重提振，科技股估值整体处于历史较高分位。多空分歧主要集中在两点：其一，AI功能能否实质性拉动换机需求并提升服务ARPU；其二，潜在关税与供应链重组成本能否被服务业务高毛利所对冲。市场共识倾向乐观，但「牛市逻辑已被充分定价」的反向观点同样存在市场声音，投资者需审慎评估风险收益比。"
+        "heading": "风险提示与多空分歧",
+        "body": "多方认为苹果AI生态变现潜力巨大、服务业务增长韧性强、全球品牌溢价难以复制；空方则关注高估值下的增长预期透支、中国市场竞争恶化、AI功能落地速度低于预期，以及持续的供应链迁移成本压力。当前市场对苹果的定价已充分反映乐观情景，任何季度业绩或前瞻指引低于预期，均可能引发估值重估。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
         "name": "微软",
-        "note": "同为万亿美元级科技巨头，AI商业化（Copilot系列）进展更为激进且已形成明确付费路径，云业务Azure增速构成与苹果服务收入模式的直接对比参照。"
+        "note": "AI Copilot深度整合Office生态，企业端AI变现路径更清晰，云业务Azure增速优于苹果服务业务，但缺乏苹果在消费端硬件生态上的护城河。"
       },
       {
         "ticker": "GOOGL",
         "name": "Alphabet（谷歌）",
-        "note": "Android生态系统与苹果iOS形成移动端双寡头竞争格局，Gemini AI布局与Apple Intelligence形成直接对标，搜索广告依赖度是其有别于苹果硬件护城河的结构性差异。"
+        "note": "搜索广告与Android生态构成基本盘，Gemini AI模型能力强劲，但面临搜索被AI替代的结构性威胁，与苹果在移动流量分成上存在关键合作与竞争关系。"
       },
       {
         "ticker": "INTC",
         "name": "英特尔",
-        "note": "特朗普公开背书的苹果潜在合作方，股价因此消息单日大涨逾8%。若合作落实，或涉及AI芯片、PC处理器或数据中心领域，与苹果自研芯片战略的协同空间与竞争关系值得关注。"
+        "note": "特朗普宣布苹果与英特尔合作后股价单日涨逾8%，但合作细节不明朗，英特尔自身晶圆代工业务转型仍存在较大执行风险，与苹果的协同效应尚难量化。"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-18T23:01:51.927449Z"
+    "generatedAt": "2026-06-19T22:12:15.813725Z"
   },
   "news": [
     {
-      "id": "AAPL-140665926",
-      "title": "Apple’s Latest Reveal Proves That Micron Has “More Room To Run”",
+      "id": "AAPL-140672034",
+      "title": "ASML Faces Fresh China Export Scrutiny",
       "source": "Yahoo",
-      "publishedAt": "2026-06-18",
-      "url": "https://finnhub.io/api/news?id=b6bdce3ade06e21793ab3d3df8f376332a5b41e6a03a79df65aa9c79e220d242",
+      "publishedAt": "2026-06-19",
+      "url": "https://finnhub.io/api/news?id=60b10ec83d43271a11485fe3c1a5dc61217a2e4ff92e4d051a5fd87703839245",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140665927",
-      "title": "Intel shares surge after Trump touts deal with Apple",
+      "id": "AAPL-140672038",
+      "title": "Analyst Warns Intel Valuation ‘Doesn’t Make Sense.’ Suggests NVIDIA, AMD, Micron, and Broadcom as Alternatives.",
       "source": "Yahoo",
-      "publishedAt": "2026-06-18",
-      "url": "https://finnhub.io/api/news?id=16b479d9033b5b06b7cf6de2f8f94cd663bae133a52b52d41fc9bdbe479e2725",
+      "publishedAt": "2026-06-19",
+      "url": "https://finnhub.io/api/news?id=e61fa8b9cabf2e4cfb49932d05846263010f08de9a703866353785144ac52659",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140665928",
-      "title": "Update: Equities Rise, Oil Little Changed as Focus Shifts to Further US-Iran Talks",
+      "id": "AAPL-140672049",
+      "title": "ASML Draws Fresh China Scrutiny",
       "source": "Yahoo",
-      "publishedAt": "2026-06-18",
-      "url": "https://finnhub.io/api/news?id=73a77e9cd9c53c3712fe8909a21abed89607bc557549fb8805c9cad44ed27795",
+      "publishedAt": "2026-06-19",
+      "url": "https://finnhub.io/api/news?id=32521b48eec3f17a9da5908ffda65950b96b6565718618b2bc40d24e21cadd83",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140665929",
-      "title": "Update: US Equity Indexes Rise as Washington Lifts Blockade of Iran's Ports, Deal Sets Up Hormuz Chokepoint for Reopening",
+      "id": "AAPL-140672058",
+      "title": "Lloyds (LYG) Launches “Lloyds Rewards” In-App Hub to Replace Everyday Offers",
       "source": "Yahoo",
-      "publishedAt": "2026-06-18",
-      "url": "https://finnhub.io/api/news?id=9dc47a2f52fa6912fe0d788e9fc1efcf2eb54d2313b43294087767f8d9796c2e",
+      "publishedAt": "2026-06-19",
+      "url": "https://finnhub.io/api/news?id=3ba17e9595326a7245b8ba8c923220800f5fda3a20afbe9a0ba89ac1cb4511dd",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140665930",
-      "title": "Why Is Intel (INTC) Stock Rocketing Higher Today",
+      "id": "AAPL-140672059",
+      "title": "1 Consumer Stock with Solid Fundamentals and 2 We Question",
       "source": "Yahoo",
-      "publishedAt": "2026-06-18",
-      "url": "https://finnhub.io/api/news?id=23a810ac1148cd41c33e8e100a3a44cd734adedace7e37788cf9b54c83310e85",
+      "publishedAt": "2026-06-19",
+      "url": "https://finnhub.io/api/news?id=38919c62aa4232dd11d268bc65c515f598e94f195d32a5ddb280a39b19452bec",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140665931",
-      "title": "US Equity Markets Close Higher as Chipmakers Surge; US and Iran Sign Hormuz Deal",
+      "id": "AAPL-140672060",
+      "title": "Bank of America predicts a major pricing shift for Apple",
       "source": "Yahoo",
-      "publishedAt": "2026-06-18",
-      "url": "https://finnhub.io/api/news?id=73e74fa8f51d41de57cc0fe0f9ed96226091fbcc2b154415ed15e9703e106d0c",
+      "publishedAt": "2026-06-19",
+      "url": "https://finnhub.io/api/news?id=80341e0537bd5efe74dbbc1439238a011e10f9b14ea30f12366ca52d76f0c737",
       "tags": [
         "AAPL"
       ]
