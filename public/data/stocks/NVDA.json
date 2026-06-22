@@ -3,28 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 210.69,
-  "change5dPct": 2.8,
-  "changeYtdPct": 16.4,
+  "price": 208.65,
+  "change5dPct": 1.7,
+  "changeYtdPct": 10.3,
   "marketCap": "$5.10T",
-  "pe": 31.9,
+  "pe": 32.2,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2025-12-19",
-      "o": 176.67,
-      "h": 181.45,
-      "l": 176.34,
-      "c": 180.99
-    },
-    {
-      "t": "2025-12-22",
-      "o": 183.92,
-      "h": 184.16,
-      "l": 182.35,
-      "c": 183.69
-    },
     {
       "t": "2025-12-23",
       "o": 182.97,
@@ -878,132 +864,144 @@
       "h": 211.39,
       "l": 206.5,
       "c": 210.69
+    },
+    {
+      "t": "2026-06-22",
+      "o": 211.45,
+      "h": 213.99,
+      "l": 207.72,
+      "c": 208.65
     }
   ],
   "thesis": {
     "bull": [
-      "佩洛西在2025年12月至2026年1月间多次新建NVDA多头仓位，显示知名政治人物对AI算力龙头的持续看好，尽管同期亦有部分减仓操作，整体呈现「逢低加仓、阶段兑现」特征；",
-      "本周美国科技基金录得创纪录周度净流入，地缘风险（伊朗和谈、中东停火）阶段性缓释后机构资金加速回流，NVDA作为AI基础设施核心标的有望持续享受资金溢价；",
-      "分析师明确建议以NVDA替代Intel，认为英特尔估值「不合逻辑」，进一步强化市场对NVIDIA在GPU与AI加速计算领域龙头地位的认知。"
+      "数据中心GPU霸主地位稳固：NVDA在AI训练与推理芯片市场占据主导份额，H100/H200/Blackwell系列需求持续旺盛，超大规模云厂商资本开支持续向AI算力倾斜，CUDA软件生态形成高黏性壁垒难以被短期替代",
+      "SpaceX IPO催生增量需求：市场分析指出NVDA是SpaceX 850亿美元IPO潜在受益者之一，星链及星舰项目对边缘AI算力的长期需求有望拉动数据中心GPU持续采购",
+      "聪明钱持续建仓：众议员佩洛西于2026年1月16日及2025年12月30日多次新增NVDA看涨期权仓位，传递出对公司中长期成长的正向信号"
     ],
     "bear": [
-      "头条「多头逻辑已被定价」暗示当前估值已充分反映AI增长预期，高估值背景下若业绩或需求出现任何边际放缓，均可能引发较大幅度的估值回调；",
-      "ASML再度面临中国出口审查压力，若管制范围扩大将进一步抬高先进制程产能成本，对NVDA供应链的交付节奏与成本结构构成潜在扰动；",
-      "佩洛西在同期同样存在减仓（trim/exit）操作，提示即使认可长期逻辑的聪明资金也在阶段性兑现收益，短期获利盘压力不容忽视。"
+      "科技股整体承压：本周纳斯达克指数走低，NVDA随Alphabet、亚马逊等巨头集体回调，SpaceX股价单日暴跌10%引发市场避险情绪，高估值科技股面临系统性重估压力",
+      "ASIC竞争格局加剧：Broadcom AI芯片季度营收有望三倍至160亿美元，Marvell Technology年内涨幅超247%，定制化ASIC方案持续蚕食通用GPU市场空间，主要云厂商自研芯片战略或长期降低对NVDA依赖程度",
+      "高位减持信号显现：佩洛西在2024年12月及2025年12月均有NVDA减持记录，显示部分机构选择在阶段性高位兑现收益，叠加美国对华芯片出口管制持续收紧，中国市场营收缺口难以在短期内得到弥补"
     ],
     "watch": [
-      "特朗普发文批评历届政府未能保护半导体产业并暗示将重振本土芯片制造，相关贸易关税与出口许可政策走向将直接影响NVDA的供应链布局及中国市场销售安排；",
-      "苹果供应链价格预警推动存储芯片价格创历史新高，需持续跟踪AI训练与推理侧HBM及DRAM需求能否支撑，以及上游成本上涨对数据中心客户采购节奏的传导效应；",
-      "知名投资人Serenity点出「新云算力能源、存储、光子」三大核心主题，光子互联技术若加速商用或重塑AI集群架构，需跟踪NVDA在该领域的研发进展与潜在竞争压力。"
+      "伊朗局势与宏观风险偏好：美伊核协议谈判进展左右油价与地缘局势，若谈判破裂将压制整体市场风险偏好，高估值科技股首当其冲；目前霍尔木兹海峡油轮流量回升，谈判尚存不确定性",
+      "光互连与CPO供应链演变：社交媒体跟踪者关注CPO与NPO光学方案加速落地，激光芯片供应商受益于下一代AI架构，需持续跟踪NVDA生态链整合进度及配套成本变化对整体算力经济性的影响",
+      "内存价格走势及AI服务器成本结构：内存价格飙升正威胁AI服务器经济性，上游存储成本上涨或压缩AI基础设施整体利润空间，进而影响云厂商GPU采购节奏与NVDA订单能见度"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA Corporation（NVDA）是全球GPU设计领域的绝对龙头，产品线覆盖数据中心AI加速、专业可视化、游戏及汽车自动驾驶四大业务。公司凭借CUDA软件生态的深厚护城河，在大模型训练与推理芯片市场占据主导地位。Hopper及新一代Blackwell架构GPU被全球主要云厂商和超大规模数据中心大规模采购，数据中心收入占比持续提升，已成为公司营收与利润的核心驱动力。"
+        "body": "NVIDIA Corporation（纳斯达克：NVDA）是全球领先的图形处理器与AI加速计算芯片设计商，总部位于加利福尼亚州圣克拉拉。公司产品覆盖数据中心GPU、游戏显卡、专业可视化及汽车自动驾驶计算平台，其中数据中心业务已成为营收核心引擎。在生成式AI浪潮推动下，NVDA的Hopper与Blackwell系列GPU成为全球AI模型训练与推理的关键基础设施，市值一度跻身全球前三大上市公司之列，在AI算力生态中具有不可忽视的战略地位。"
       },
       {
-        "heading": "AI算力需求",
-        "body": "生成式AI浪潮持续驱动全球算力投资加速，各大云服务商资本开支指引维持高位。本周科技基金录得创纪录周度净流入，折射出机构资金对AI基础设施赛道的持续押注。市场观察人士将「新云能源算力」列为核心配置主题之一，印证市场对AI长周期需求的高度认可。然而，超额需求能否在未来数个季度持续兑现，仍是最关键的观察变量。"
+        "heading": "市场地位与竞争格局",
+        "body": "NVDA在AI训练芯片市场拥有估算超过80%的市场份额，CUDA软件生态系经过十余年积累形成高度黏性壁垒。然而竞争压力持续升温：Broadcom定制ASIC季度AI营收增速有望达三倍，AMD MI300系列持续放量，Google TPU、亚马逊Trainium、微软Maia等自研芯片正在侵蚀通用GPU市场。Marvell Technology 2026年以来股价涨幅逾247%，折射出AI芯片供应链向多元化演进的结构性趋势，NVDA的垄断溢价面临长期稀释风险，但短期内替代方案尚未形成规模化挑战。"
       },
       {
-        "heading": "竞争格局",
-        "body": "AMD在GPU加速卡领域持续追赶，MI系列产品在部分云厂商场景已具备可替代性；Broadcom凭借定制ASIC方案在谷歌、Meta等超大规模客户中获得推理侧份额，构成结构性竞争；Intel因估值逻辑受到分析师质疑，当前市场定位较为被动。NVDA的核心护城河在于CUDA软件生态的先发优势，以及Blackwell到Rubin路线图的持续技术领先。"
+        "heading": "财务表现与增长驱动",
+        "body": "NVDA近年营收和净利润实现爆炸式增长，数据中心部门已占总营收80%以上。H系列与Blackwell GPU长期供不应求推动毛利率维持在70%以上高位。SpaceX完成债券融资并披露逾1000亿美元现金储备，市场预期其大规模扩张将催生可观的AI算力需求，分析师认为NVDA是SpaceX IPO生态的重要受益方之一。与此同时，内存价格上涨可能推高AI服务器整机成本，下游客户采购决策节奏及预算分配值得持续关注。"
       },
       {
         "heading": "政策与地缘风险",
-        "body": "地缘与政策层面风险不容低估。ASML再度被中国出口管制审查，若管制范围扩大可能扰动全球先进制程产能供给。特朗普公开批评历届政府未保护半导体产业，贸易关税与出口许可政策存在较大不确定性，对NVDA向中国市场销售受限芯片的商业安排构成潜在压力。中东局势虽有缓和信号，但能源成本走势仍将影响数据中心运营成本预期。"
+        "body": "美国对华芯片出口管制政策持续收紧，包括H20等降规格产品也相继受到限制，中国市场营收占比的下滑构成潜在收入缺口。伊朗核协议谈判及中东地缘局势目前主导短期市场情绪，若局势恶化导致油价大幅上行，将打压整体风险偏好并对高估值科技股形成压制。此外，台海局势持续影响台积电产能供给，间接构成NVDA先进制程GPU供应链的尾部风险，投资者需纳入情景分析。"
       },
       {
-        "heading": "机构与聪明钱动向",
-        "body": "佩洛西在2024年12月至2026年1月间多次新建NVDA多头期权仓位，同时在年末节点有部分减仓操作，国会议员持仓披露具有时间滞后性，须审慎解读而非直接视为操作信号。本周科技基金历史性净流入反映机构资金在地缘风险阶段性缓释后加速回流AI相关资产，NVDA作为板块核心标的有望持续受益于增量资金流入。"
+        "heading": "资金流向与聪明钱动向",
+        "body": "根据国会议员公开交易披露，前众议院议长南希·佩洛西于2026年1月16日及2025年12月30日两度新增NVDA看涨期权仓位，被部分市场观察者解读为积极信号；但同期在2024年12月及2025年12月亦有减持记录，显示其操作策略具有明显的波段性，并非单方向持续加仓。需提示：国会议员交易信息披露存在法定延迟，且单一跟踪者的操作不能作为投资决策的充分依据，应结合基本面与市场环境综合研判。"
       },
       {
-        "heading": "估值与主要分歧",
-        "body": "当前NVDA估值处于历史高位，市场已在较大程度上定价AI增长预期，「多头逻辑已被定价」的市场评论揭示了当前最核心的多空分歧：乐观方认为Blackwell超级周期将推动业绩持续超预期；悲观方则担忧需求前置透支、竞争替代加剧与监管风险共振引发估值重估。存储芯片价格走高构成双面效应——既是AI需求旺盛的印证，亦是供应链成本上行的潜在压力。投资者须持续跟踪季度业绩指引与主要数据中心客户采购动态。"
+        "heading": "估值与市场情绪",
+        "body": "NVDA当前估值处于历史高位，远期市盈率显著溢价于费城半导体指数均值，反映市场对其AI超级周期的高度预期。本周纳斯达克指数在SpaceX股价暴跌10%及Alphabet大跌6%的拖累下走低，「七巨头」整体承压。部分分析师将此轮调整定性为「罕见买入机会」，另一方面也有观点认为不盈利AI概念股的异军突起及「市场奖励AI暴露而非盈利能力」的现象预示着风险偏好走向非理性，多空分歧明显，估值弹性与下行风险并存。"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
-        "name": "Advanced Micro Devices",
-        "note": "GPU加速卡领域最直接竞争对手，MI系列在部分云厂商场景获得采购份额，CUDA生态仍是NVDA核心护城河"
+        "name": "超微半导体",
+        "note": "NVDA在AI GPU市场的直接竞争对手，MI300X系列持续蚕食推理市场份额，估值相对NVDA更具吸引力，但软件生态完整度仍有差距"
       },
       {
         "ticker": "AVGO",
-        "name": "Broadcom Inc.",
-        "note": "定制ASIC方案提供商，与超大规模客户深度合作，在推理侧对通用GPU构成结构性竞争"
+        "name": "博通",
+        "note": "定制AI ASIC龙头，与谷歌、Meta深度合作，AI营收有望单季三倍，与NVDA形成「通用GPU vs 定制ASIC」路线的核心竞争分歧，近期股价回调提供对比参考"
       },
       {
-        "ticker": "INTC",
-        "name": "Intel Corporation",
-        "note": "传统竞争对手，当前处于战略转型阵痛期，分析师认为其估值逻辑不合理并建议以NVDA等替代"
+        "ticker": "MRVL",
+        "name": "迈威尔科技",
+        "note": "2026年以来涨幅超247%，光互连与定制ASIC双轮驱动，受益于AI基础设施多元化供应链布局，可作为NVDA替代路线的市场验证标的"
       },
       {
         "ticker": "TSM",
-        "name": "台积电 TSMC",
-        "note": "NVDA芯片独家先进制程代工商，ASML出口管制及地缘风险变化将直接影响其产能供给与NVDA交付节奏"
+        "name": "台积电",
+        "note": "NVDA最先进制程GPU的核心代工伙伴，产能瓶颈与台海地缘风险直接影响NVDA供应链稳定性，两者命运高度绑定"
+      },
+      {
+        "ticker": "INTC",
+        "name": "英特尔",
+        "note": "传统数据中心CPU巨头转型AI加速，近期因苹果芯片代工传闻股价大涨，长期与NVDA在服务器算力市场形成间接竞争，可观察AI算力市场格局演变的对照视角"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-19T22:08:48.678475Z"
+    "generatedAt": "2026-06-22T22:51:18.405169Z"
   },
   "news": [
     {
-      "id": "NVDA-140672998",
-      "title": "Buy These 3 Growth Stocks Now, Ignore the Noise, and Thank Yourself Later",
+      "id": "NVDA-140696078",
+      "title": "Buying SpaceX Stock Isn't the Same as Buying Tesla's IPO Back in 2010. There's One Massive Difference",
       "source": "Yahoo",
-      "publishedAt": "2026-06-19",
-      "url": "https://finnhub.io/api/news?id=98738545987a0f600eed4c30fb3a345c67626cd280f5bc111ce823d0e4be1e3d",
+      "publishedAt": "2026-06-22",
+      "url": "https://finnhub.io/api/news?id=98161482f204d9546368a8c331e296488d61e9008b8339c0b83be7173b79c383",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140672999",
-      "title": "AppLovin Could Hit $600+ With 28% Upside as AI Ad-Tech Story Rebounds",
+      "id": "NVDA-140696079",
+      "title": "Stock Market Today, June 22: Super Micro Computer Jumps After Introducing New Platform Accelerating AI Server Backlog Growth",
       "source": "Yahoo",
-      "publishedAt": "2026-06-19",
-      "url": "https://finnhub.io/api/news?id=a3678efeb1325757ea7e590f578668f46e926a232ba4ff7d898bcd21b9f944ed",
+      "publishedAt": "2026-06-22",
+      "url": "https://finnhub.io/api/news?id=47d1107ba7335f72e31669ba97f43b0722d6996bd97745d05d62d61f8ce85e93",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140673000",
-      "title": "1 Dividend King Stock Down 25% to Buy Right Now",
+      "id": "NVDA-140696080",
+      "title": "SpaceX Stock Is All Over the Place. 3 Dividend Stocks to Buy Instead That Will Let You Sleep Well at Night",
       "source": "Yahoo",
-      "publishedAt": "2026-06-19",
-      "url": "https://finnhub.io/api/news?id=251c3497c8dae7ff10182f29fb31d618cc4968ba09c66054dc6d10deef508d39",
+      "publishedAt": "2026-06-22",
+      "url": "https://finnhub.io/api/news?id=e67fa71b589c8370c1593352bd77e0ced818016f2ca813b480b5f5a62df61b82",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140673001",
-      "title": "Prediction: Eli Lilly Will Trade at $1,200 on This Date",
+      "id": "NVDA-140696081",
+      "title": "Broadcom's AI Revenue Is on Pace to Triple to $16 Billion in a Single Quarter, but the Stock Just Dipped 17%. Is This an Opportunity to Buy the Dip?",
       "source": "Yahoo",
-      "publishedAt": "2026-06-19",
-      "url": "https://finnhub.io/api/news?id=e3e16aa7f24416a0493777b2da0e4f86f257a000ea41b00b60a8b5c1989b5fd5",
+      "publishedAt": "2026-06-22",
+      "url": "https://finnhub.io/api/news?id=660a402b56dae407427945a9fa0d5908306c790678a618e2e5a4608f20669fc0",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140673002",
-      "title": "Archer Aviation Stock: Buy, Sell, or Hold?",
+      "id": "NVDA-140696082",
+      "title": "Gambling Creator Bluffin Bob Rejected a $30M+ Casino Deal and Never Looked Back",
       "source": "Yahoo",
-      "publishedAt": "2026-06-19",
-      "url": "https://finnhub.io/api/news?id=11beb075b52d043731b800d5a1a3055fd9082e49fa6207f5c5df0d4b8916e03f",
+      "publishedAt": "2026-06-22",
+      "url": "https://finnhub.io/api/news?id=a0af67d57497e5fa8dfb3de1496b79a3ed8bd51d3a31a5ee982dd7f100bf9638",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140673003",
-      "title": "SpaceX stock joins AI bond frenzy",
+      "id": "NVDA-140696083",
+      "title": "Dow Jones Futures: Tech Stocks Tumble As SpaceX Plunges; Amazon, Alphabet, Nvidia Sell Off",
       "source": "Yahoo",
-      "publishedAt": "2026-06-19",
-      "url": "https://finnhub.io/api/news?id=773da44d54d110b7ad818a794c8785dffed431b9d33af9d031297108d324ddd3",
+      "publishedAt": "2026-06-22",
+      "url": "https://finnhub.io/api/news?id=1ed29dddf604cdae46d801701ecd45101459d1bb7f8061d058b2a14dd327f982",
       "tags": [
         "NVDA"
       ]
