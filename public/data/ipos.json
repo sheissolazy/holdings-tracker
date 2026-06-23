@@ -1,5 +1,29 @@
 [
   {
+    "ticker": "ITG",
+    "name": "ITG, Inc./DE/",
+    "date": "2026-07-01",
+    "priceRange": [
+      19.0,
+      22.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global Select",
+    "status": "expected"
+  },
+  {
+    "ticker": "LIME",
+    "name": "Neutron Holdings, Inc.",
+    "date": "2026-07-01",
+    "priceRange": [
+      24.0,
+      26.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global Select",
+    "status": "expected"
+  },
+  {
     "ticker": "DPC",
     "name": "DPC Holdings Ltd",
     "date": "2026-06-25",
@@ -12,9 +36,33 @@
     "status": "expected"
   },
   {
+    "ticker": "DSC",
+    "name": "DSC Holdings Ltd.",
+    "date": "2026-06-25",
+    "priceRange": [
+      16.0,
+      18.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "ALPXU",
     "name": "Alpex Acquisition Corp",
     "date": "2026-06-24",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
+    "ticker": "GHXIU",
+    "name": "Gores Holdings XI, Inc.",
+    "date": "2026-06-23",
     "priceRange": [
       10.0,
       10.0
