@@ -2,6 +2,28 @@
   {
     "personId": "pelosi",
     "type": "ptr",
+    "ticker": "INTC",
+    "asOf": "2026-06-23",
+    "txnDate": "2026-05-29",
+    "direction": "long",
+    "sentiment": "bull",
+    "change": "new",
+    "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034836.pdf"
+  },
+  {
+    "personId": "pelosi",
+    "type": "ptr",
+    "ticker": "UBER",
+    "asOf": "2026-06-23",
+    "txnDate": "2026-05-29",
+    "direction": "long",
+    "sentiment": "bull",
+    "change": "new",
+    "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20034836.pdf"
+  },
+  {
+    "personId": "pelosi",
+    "type": "ptr",
     "ticker": "AB",
     "asOf": "2026-01-23",
     "txnDate": "2026-01-16",
@@ -299,6 +321,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "The Elizabeth “Pocahontas” Warren centric housing bill, which is of minor importance compared to lower interest rates, and even FISA, pales in comparison to passing THE SAVE AMERICA ACT. That is what Americans, both Dumocrats, Republicans, ",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/116805400052068772",
+    "ticker": "",
+    "topics": [
+      "美联储/利率"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-06-23",
     "sentiment": "watch",
     "excerpt": "Despite their protestations and false statements to the contrary, coupled with the drumbeat of the Fake News, which is doing everything possible to make the U.S. Victory as small and insignificant as possible, Iran has fully and completely ",
@@ -346,16 +380,174 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-06-21",
+    "asOf": "2026-06-24",
     "sentiment": "watch",
-    "excerpt": "Happy Father’s Day! Our Country is doing GREAT. Record Jobs Numbers and Stock Market, BEST ECONOMY EVER! Greatest Military in the World, by far. We are WINNING on all fronts, WINNING LIKE NEVER BEFORE. GOD BLESS YOU ALL!!! President DONALD ",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/116787911354917242",
-    "ticker": "",
-    "topics": [
-      "大盘/宏观"
-    ]
+    "excerpt": "Always amazing looking at $MU earnings: \n\nRevenue: $41.46B vs. $35.8B est.\nEPS: $25.11 vs. $20.78 est.\n\nForecasts:\n\nRevenue: $49B to $51B, vs $43.24B est \nEPS: $30.00 to $32.00, vs. $25.31.\n\n“Micron said on Wednesday that it has signed 16 l",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069892511406100716",
+    "ticker": "MU",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "Nancy Pelosi just disclosed: \n\n- $1 million - $5 million of $INTC March 2027 calls\n- 200 $UBER March 19, 2027 call option contracts with a $50 strike price\n\nThis was done last month May 29th. (her husband is the active trader executing this",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069780882018459851",
+    "ticker": "INTC",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "Nancy Pelosi just disclosed: \n\n- $1 million - $5 million of $INTC March 2027 calls\n- 200 $UBER March 19, 2027 call option contracts with a $50 strike price\n\nThis was done last month May 29th. (her husband is the active trader executing this",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069780882018459851",
+    "ticker": "UBER",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "Fun new information discovery from Poet OSINT community:\n\nSeems likely that $POET / $SIVE are going to power a Top-3 hyperscaler (either Amazon, Microsoft, Google). \n\nGiven a Linkedin update from Ankur Singla (CEO of Lumilens). \n\nWho stated",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069775271562289299",
+    "ticker": "AMZN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "Fun new information discovery from Poet OSINT community:\n\nSeems likely that $POET / $SIVE are going to power a Top-3 hyperscaler (either Amazon, Microsoft, Google). \n\nGiven a Linkedin update from Ankur Singla (CEO of Lumilens). \n\nWho stated",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069775271562289299",
+    "ticker": "MSFT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "Fun new information discovery from Poet OSINT community:\n\nSeems likely that $POET / $SIVE are going to power a Top-3 hyperscaler (either Amazon, Microsoft, Google). \n\nGiven a Linkedin update from Ankur Singla (CEO of Lumilens). \n\nWho stated",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069775271562289299",
+    "ticker": "POET",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "Fun new information discovery from Poet OSINT community:\n\nSeems likely that $POET / $SIVE are going to power a Top-3 hyperscaler (either Amazon, Microsoft, Google). \n\nGiven a Linkedin update from Ankur Singla (CEO of Lumilens). \n\nWho stated",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069775271562289299",
+    "ticker": "SIVE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-23",
+    "sentiment": "watch",
+    "excerpt": "OpenLight (private) seems to get bigger and bigger every time I look at it.\n\nIf you’re curious about their public ecosystem outside of Advantest:\n\n$JBL ( $SIVE partner ) for scaling PICs\n$MRVL and $MXL for DSPs\n$TSEM for the foundry.\n$30039",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069675057300082728",
+    "ticker": "MRVL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-23",
+    "sentiment": "watch",
+    "excerpt": "OpenLight (private) seems to get bigger and bigger every time I look at it.\n\nIf you’re curious about their public ecosystem outside of Advantest:\n\n$JBL ( $SIVE partner ) for scaling PICs\n$MRVL and $MXL for DSPs\n$TSEM for the foundry.\n$30039",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069675057300082728",
+    "ticker": "JBL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-23",
+    "sentiment": "watch",
+    "excerpt": "OpenLight (private) seems to get bigger and bigger every time I look at it.\n\nIf you’re curious about their public ecosystem outside of Advantest:\n\n$JBL ( $SIVE partner ) for scaling PICs\n$MRVL and $MXL for DSPs\n$TSEM for the foundry.\n$30039",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069675057300082728",
+    "ticker": "MXL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-23",
+    "sentiment": "watch",
+    "excerpt": "OpenLight (private) seems to get bigger and bigger every time I look at it.\n\nIf you’re curious about their public ecosystem outside of Advantest:\n\n$JBL ( $SIVE partner ) for scaling PICs\n$MRVL and $MXL for DSPs\n$TSEM for the foundry.\n$30039",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069675057300082728",
+    "ticker": "SIVE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-23",
+    "sentiment": "watch",
+    "excerpt": "Don’t quite think “siphoned off” is the correct term. \n\nIt’s capex for massive revenue increase or margin increase down the line.\n\n$AMZN is probably my favorite hyperscaler right now and example to give.\n\nAmazon’s headcount is absurd, like ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069655980456149142",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-23",
+    "sentiment": "watch",
+    "excerpt": "Don’t quite think “siphoned off” is the correct term. \n\nIt’s capex for massive revenue increase or margin increase down the line.\n\n$AMZN is probably my favorite hyperscaler right now and example to give.\n\nAmazon’s headcount is absurd, like ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069655980456149142",
+    "ticker": "AMZN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-23",
+    "sentiment": "watch",
+    "excerpt": "Don’t quite think “siphoned off” is the correct term. \n\nIt’s capex for massive revenue increase or margin increase down the line.\n\n$AMZN is probably my favorite hyperscaler right now and example to give.\n\nAmazon’s headcount is absurd, like ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069655980456149142",
+    "ticker": "GOOGL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-23",
+    "sentiment": "watch",
+    "excerpt": "Don’t quite think “siphoned off” is the correct term. \n\nIt’s capex for massive revenue increase or margin increase down the line.\n\n$AMZN is probably my favorite hyperscaler right now and example to give.\n\nAmazon’s headcount is absurd, like ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069655980456149142",
+    "ticker": "MSFT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-23",
+    "sentiment": "watch",
+    "excerpt": "I find it interesting that the degens on $RDDT are starting a viral campaign to save Wendy’s ( $WEN ).\n\nThe US fast food burger chain.\n\nAnd the stock price is now up 20% overnight. \n\nJust for background: Wendy’s is a popular community meme,",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069633445903675865",
+    "ticker": "RDDT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-23",
+    "sentiment": "watch",
+    "excerpt": "I find it interesting that the degens on $RDDT are starting a viral campaign to save Wendy’s ( $WEN ).\n\nThe US fast food burger chain.\n\nAnd the stock price is now up 20% overnight. \n\nJust for background: Wendy’s is a popular community meme,",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069633445903675865",
+    "ticker": "WEN",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -593,116 +785,6 @@
     "excerpt": "Best time to long CXL for memory pooling was 4 months ago.\n\n$ALAB up 276% from $117 -> $440\n\n$MRVL up 291% from $79 -> $309 https://t.co/7XmXHyXgb1",
     "postUrl": "https://x.com/aleabitoreddit/status/2069246038935065076",
     "ticker": "ALAB",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "I wonder how it feels to miss out on the AI supercycle run…\n\nWith photonics, memory,\nand even Neoclouds like $NBIS.\n\nBecause you’re busy bagholding into the endless $6,000,000,000 active ATMs with $IREN. https://t.co/AFEr84Dezd",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069214132415652048",
-    "ticker": "IREN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "I wonder how it feels to miss out on the AI supercycle run…\n\nWith photonics, memory,\nand even Neoclouds like $NBIS.\n\nBecause you’re busy bagholding into the endless $6,000,000,000 active ATMs with $IREN. https://t.co/AFEr84Dezd",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069214132415652048",
-    "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "Wow, $TSEM up 10%+ today.\n\nGood times, should have made this one of my largest positions in hindsight back in March.\n\nFoundries like $GFS and $INTC have been going brrr lately. https://t.co/m5KVJ8vOAS",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069188398825566318",
-    "ticker": "GFS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "Wow, $TSEM up 10%+ today.\n\nGood times, should have made this one of my largest positions in hindsight back in March.\n\nFoundries like $GFS and $INTC have been going brrr lately. https://t.co/m5KVJ8vOAS",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069188398825566318",
-    "ticker": "INTC",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "Wow, $TSEM up 10%+ today.\n\nGood times, should have made this one of my largest positions in hindsight back in March.\n\nFoundries like $GFS and $INTC have been going brrr lately. https://t.co/m5KVJ8vOAS",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069188398825566318",
-    "ticker": "TSEM",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "Wow, $SPCX is now down over $583B in MC...\n\nSince Jim Cramer gave a bullish call at $210. Pretty amazing to witness tbh. \n\nInverse Cramer would have returned ~21% in 3 trading days, outperforming a year in your largest indexes? https://t.co",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069068801329774691",
-    "ticker": "SPCX",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "That’s for you to decide.\n\nBut just throwing this out there:\n\nIf $AAOI hits projections, that’s over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC.\n\nMy guess is that the $471m/month will keep going up as demand seems to scale",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069062745308254434",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "That’s for you to decide.\n\nBut just throwing this out there:\n\nIf $AAOI hits projections, that’s over 800%+ Y/Y growth, and $5.6B revenue annualized off $12.8B MC.\n\nMy guess is that the $471m/month will keep going up as demand seems to scale",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069062745308254434",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "As for $LPK: Maybe $3B-$5B seems reasonable when they fully volume ramp if I had to guess. \n\nFeels more asymmetrical to me personally since it's just a waiting game and they have the customers for glass substrates. \n\nSmall machine supplier ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069005921318281566",
-    "ticker": "AEHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "As for $LPK: Maybe $3B-$5B seems reasonable when they fully volume ramp if I had to guess. \n\nFeels more asymmetrical to me personally since it's just a waiting game and they have the customers for glass substrates. \n\nSmall machine supplier ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069005921318281566",
-    "ticker": "LPK",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-21",
-    "sentiment": "watch",
-    "excerpt": "I expect Japan to mog Sweden in the World Cup tomorrow. \n\nProbably another 4-0 after Japan's soccer players saw how Swedish media treated $SIVE. https://t.co/YwSdlYZpxZ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2068880324202008964",
-    "ticker": "SIVE",
     "topics": []
   },
   {
