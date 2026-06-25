@@ -60,6 +60,18 @@
     "status": "expected"
   },
   {
+    "ticker": "CGCFU",
+    "name": "Cartesian Growth Corp IV",
+    "date": "2026-06-25",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "DPC",
     "name": "DPC Holdings Ltd",
     "date": "2026-06-25",
@@ -84,9 +96,21 @@
     "status": "expected"
   },
   {
+    "ticker": "FWACU",
+    "name": "Futurewave Acquisition Corp",
+    "date": "2026-06-25",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Capital",
+    "status": "expected"
+  },
+  {
     "ticker": "ALPXU",
     "name": "Alpex Acquisition Corp",
-    "date": "2026-06-24",
+    "date": "2026-06-25",
     "priceRange": [
       10.0,
       10.0

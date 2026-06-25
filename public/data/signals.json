@@ -355,29 +355,250 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-06-22",
+    "asOf": "2026-06-25",
     "sentiment": "watch",
-    "excerpt": "It is my Great Honor to endorse Peter Oberacker, an incredible Candidate who is running to represent the fantastic people of New York’s 19th Congressional District. He is running against Josh Riley, a true Radical Left Extremist who does no",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/116794878683037090",
+    "excerpt": "Tim Cook, who told The Wall Street Journal that the jump in costs was unlike anything he had seen “in any area in over 40 years.”\n\nBiggest price jump in anything I’ve ever seen too.  https://t.co/aypJGgssnN",
+    "postUrl": "https://x.com/elonmusk/status/2070187969453949298",
     "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-25",
+    "sentiment": "watch",
+    "excerpt": "Nah, gonna fill out the job application for $WEN and set up camp behind the dumpsters. \n\nEven $MU and $SNDK ridiculous performance today couldn't save my port.\n\nCheering on Japan though, hoping Sweden gets mogged with a 2-0 to represent the",
+    "postUrl": "https://x.com/aleabitoreddit/status/2070189253573890167",
+    "ticker": "MU",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-25",
+    "sentiment": "watch",
+    "excerpt": "Nah, gonna fill out the job application for $WEN and set up camp behind the dumpsters. \n\nEven $MU and $SNDK ridiculous performance today couldn't save my port.\n\nCheering on Japan though, hoping Sweden gets mogged with a 2-0 to represent the",
+    "postUrl": "https://x.com/aleabitoreddit/status/2070189253573890167",
+    "ticker": "SNDK",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-25",
+    "sentiment": "watch",
+    "excerpt": "Nah, gonna fill out the job application for $WEN and set up camp behind the dumpsters. \n\nEven $MU and $SNDK ridiculous performance today couldn't save my port.\n\nCheering on Japan though, hoping Sweden gets mogged with a 2-0 to represent the",
+    "postUrl": "https://x.com/aleabitoreddit/status/2070189253573890167",
+    "ticker": "WEN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-25",
+    "sentiment": "watch",
+    "excerpt": "oh i think u misunderstand... I'm actually more bullish than ever as prices go down. \n\n$SIVE at ~$1.9B MC you have:\n\n- $GFS reference laser \n- laser for Ayar and others in $NVDA NVLink ecosystem for CPO scale up\n- $POET and others for CPO s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2070179074048409662",
+    "ticker": "NVDA",
     "topics": [
-      "财政/税收"
+      "大盘/宏观"
     ]
   },
   {
-    "personId": "trump",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-06-21",
+    "asOf": "2026-06-25",
     "sentiment": "watch",
-    "excerpt": "The headline in the Corrupt and Failing New York Times: “What Changed After Almost 4 Months of War? Analysts Say Not Much.” REALLY? Their Military is DONE, their Navy is GONE, their Air Force is GONE, their Launching Pads, Missiles, Drones ",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/116790096457517049",
-    "ticker": "",
+    "excerpt": "oh i think u misunderstand... I'm actually more bullish than ever as prices go down. \n\n$SIVE at ~$1.9B MC you have:\n\n- $GFS reference laser \n- laser for Ayar and others in $NVDA NVLink ecosystem for CPO scale up\n- $POET and others for CPO s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2070179074048409662",
+    "ticker": "AAOI",
     "topics": [
-      "通胀",
       "大盘/宏观"
     ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-25",
+    "sentiment": "watch",
+    "excerpt": "oh i think u misunderstand... I'm actually more bullish than ever as prices go down. \n\n$SIVE at ~$1.9B MC you have:\n\n- $GFS reference laser \n- laser for Ayar and others in $NVDA NVLink ecosystem for CPO scale up\n- $POET and others for CPO s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2070179074048409662",
+    "ticker": "AMD",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-25",
+    "sentiment": "watch",
+    "excerpt": "oh i think u misunderstand... I'm actually more bullish than ever as prices go down. \n\n$SIVE at ~$1.9B MC you have:\n\n- $GFS reference laser \n- laser for Ayar and others in $NVDA NVLink ecosystem for CPO scale up\n- $POET and others for CPO s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2070179074048409662",
+    "ticker": "GFS",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-25",
+    "sentiment": "watch",
+    "excerpt": "Feels like the only thing that hasn’t crashed…\n\nIs memory like $MU, indexes, or large cap semis like Intel so far.\n\n- Photonics from $AXTI to $SIVE down 40%.\n\n- Space from $ASTS and $RKLB down 40% 1M. \n\n- Popular AI names like $PLTR is down",
+    "postUrl": "https://x.com/aleabitoreddit/status/2070157835137434015",
+    "ticker": "ASTS",
+    "topics": [
+      "加密"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-25",
+    "sentiment": "watch",
+    "excerpt": "Feels like the only thing that hasn’t crashed…\n\nIs memory like $MU, indexes, or large cap semis like Intel so far.\n\n- Photonics from $AXTI to $SIVE down 40%.\n\n- Space from $ASTS and $RKLB down 40% 1M. \n\n- Popular AI names like $PLTR is down",
+    "postUrl": "https://x.com/aleabitoreddit/status/2070157835137434015",
+    "ticker": "AXTI",
+    "topics": [
+      "加密"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-25",
+    "sentiment": "watch",
+    "excerpt": "Feels like the only thing that hasn’t crashed…\n\nIs memory like $MU, indexes, or large cap semis like Intel so far.\n\n- Photonics from $AXTI to $SIVE down 40%.\n\n- Space from $ASTS and $RKLB down 40% 1M. \n\n- Popular AI names like $PLTR is down",
+    "postUrl": "https://x.com/aleabitoreddit/status/2070157835137434015",
+    "ticker": "CRM",
+    "topics": [
+      "加密"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-25",
+    "sentiment": "watch",
+    "excerpt": "Feels like the only thing that hasn’t crashed…\n\nIs memory like $MU, indexes, or large cap semis like Intel so far.\n\n- Photonics from $AXTI to $SIVE down 40%.\n\n- Space from $ASTS and $RKLB down 40% 1M. \n\n- Popular AI names like $PLTR is down",
+    "postUrl": "https://x.com/aleabitoreddit/status/2070157835137434015",
+    "ticker": "MU",
+    "topics": [
+      "加密"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "The $WEN meme traders made it to Global Media from Japan to US!\n\nThe burger fast food chain is now up ~50%, which is pretty impressive.\n\nFeels bad to be sidelined and see my AI memory/optical portfolio perform worse than a $RDDT memestock t",
+    "postUrl": "https://x.com/aleabitoreddit/status/2070020727441621026",
+    "ticker": "RDDT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "The $WEN meme traders made it to Global Media from Japan to US!\n\nThe burger fast food chain is now up ~50%, which is pretty impressive.\n\nFeels bad to be sidelined and see my AI memory/optical portfolio perform worse than a $RDDT memestock t",
+    "postUrl": "https://x.com/aleabitoreddit/status/2070020727441621026",
+    "ticker": "WEN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "Global markets in a nutshell:\n\nJapanese Company: Active monopoly over random chokepoints in the hyperscaler AI buildout. \n\nValuation: $150m-$350M\n\nSilicon Valley: Here's a $200m for a \"Seed Round\". https://t.co/O99br8y1yr",
+    "postUrl": "https://x.com/aleabitoreddit/status/2070008157892751624",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots.\n\n\"Humanoid robots, he says, will require roughly ten times more memory than today’s Level 2+ autonomous vehicles.\"\n\n\"And that d",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069990311296975133",
+    "ticker": "AAPL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots.\n\n\"Humanoid robots, he says, will require roughly ten times more memory than today’s Level 2+ autonomous vehicles.\"\n\n\"And that d",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069990311296975133",
+    "ticker": "MU",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots.\n\n\"Humanoid robots, he says, will require roughly ten times more memory than today’s Level 2+ autonomous vehicles.\"\n\n\"And that d",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069990311296975133",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "Very interesting statement today: $MU CEO predicts a multi-decade memory demand cycle driven by humanoid robots.\n\n\"Humanoid robots, he says, will require roughly ten times more memory than today’s Level 2+ autonomous vehicles.\"\n\n\"And that d",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069990311296975133",
+    "ticker": "TSM",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "Think so. But in the meantime, I call my strategy: Diversified Losses.\n\nWith $AXTI, $SOI, $AAOI, and many others.\n\nHad a massive drawdown recently, \nCPO exposure was hit the hardest (Foci, Msscorp, etc) and adjacent names, feels bad.\n\nProba",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069967746377662587",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "Think so. But in the meantime, I call my strategy: Diversified Losses.\n\nWith $AXTI, $SOI, $AAOI, and many others.\n\nHad a massive drawdown recently, \nCPO exposure was hit the hardest (Foci, Msscorp, etc) and adjacent names, feels bad.\n\nProba",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069967746377662587",
+    "ticker": "AXTI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "Think so. But in the meantime, I call my strategy: Diversified Losses.\n\nWith $AXTI, $SOI, $AAOI, and many others.\n\nHad a massive drawdown recently, \nCPO exposure was hit the hardest (Foci, Msscorp, etc) and adjacent names, feels bad.\n\nProba",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069967746377662587",
+    "ticker": "SOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-24",
+    "sentiment": "watch",
+    "excerpt": "Today, Anthropic has directly accused the $BABA Qwen AI lab of distilling its frontier AI models.\n\nBy creating thousands of fake accounts and over 28.8 million exchanges. \n\nFeels like this is kind of known by now... but there's been no real",
+    "postUrl": "https://x.com/aleabitoreddit/status/2069938631817699588",
+    "ticker": "BABA",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -606,42 +827,6 @@
     "type": "social",
     "asOf": "2026-06-23",
     "sentiment": "watch",
-    "excerpt": "Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to $TSM. \n\nSince we got a massive drop off BS narratives like 3 rate hikes off no newly material macroeconomic data (which comes out Thursday). \n\nIf institutions r",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069422448345518346",
-    "ticker": "INTC",
-    "topics": [
-      "美联储/利率"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-23",
-    "sentiment": "watch",
-    "excerpt": "Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to $TSM. \n\nSince we got a massive drop off BS narratives like 3 rate hikes off no newly material macroeconomic data (which comes out Thursday). \n\nIf institutions r",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069422448345518346",
-    "ticker": "MU",
-    "topics": [
-      "美联储/利率"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-23",
-    "sentiment": "watch",
-    "excerpt": "Dip looks like a clear buying opportunity for me personally from $MU, $INTC, to $TSM. \n\nSince we got a massive drop off BS narratives like 3 rate hikes off no newly material macroeconomic data (which comes out Thursday). \n\nIf institutions r",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069422448345518346",
-    "ticker": "TSM",
-    "topics": [
-      "美联储/利率"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-23",
-    "sentiment": "watch",
     "excerpt": "Nothing is more stupid than Bloomberg copying BofA playbook with KOSPI back in March.\n\nAnd framing Taiwan’s $TSM ~23.6x forward p/e and $NVDA upstream supply chain as a “bubble”.\n\nThen using the words going into “debt” instead of “margin” +",
     "postUrl": "https://x.com/aleabitoreddit/status/2069399639154213281",
     "ticker": "NVDA",
@@ -655,136 +840,6 @@
     "excerpt": "Nothing is more stupid than Bloomberg copying BofA playbook with KOSPI back in March.\n\nAnd framing Taiwan’s $TSM ~23.6x forward p/e and $NVDA upstream supply chain as a “bubble”.\n\nThen using the words going into “debt” instead of “margin” +",
     "postUrl": "https://x.com/aleabitoreddit/status/2069399639154213281",
     "ticker": "TSM",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-23",
-    "sentiment": "watch",
-    "excerpt": "$SIVE + Aeva likely coded from the new PR today and SIVE + Apple.\n\nFor Sivers lasers powering robotics / physical AI.\n\n-> Sivers lasers powering Boston Dynamics Atlas via. LG Innotek for robotics\n-> Nvidia Hyperion ecosystem w/ Sivers laser",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069388279355756826",
-    "ticker": "AAPL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-23",
-    "sentiment": "watch",
-    "excerpt": "$SIVE + Aeva likely coded from the new PR today and SIVE + Apple.\n\nFor Sivers lasers powering robotics / physical AI.\n\n-> Sivers lasers powering Boston Dynamics Atlas via. LG Innotek for robotics\n-> Nvidia Hyperion ecosystem w/ Sivers laser",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069388279355756826",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-23",
-    "sentiment": "watch",
-    "excerpt": "$SIVE + Aeva likely coded from the new PR today and SIVE + Apple.\n\nFor Sivers lasers powering robotics / physical AI.\n\n-> Sivers lasers powering Boston Dynamics Atlas via. LG Innotek for robotics\n-> Nvidia Hyperion ecosystem w/ Sivers laser",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069388279355756826",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-23",
-    "sentiment": "watch",
-    "excerpt": "$XFAB upgraded to outperform with a PT of €12.8 by Bernstein, up from €5.\n\nOkay I forgive you Bernstein for Kioxia and Intel.\n\nI still think that’s just reactive PTs off automotive recovery, SiC/power semi ramp up.\n\nAnd undershooting potent",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069373894398743000",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-23",
-    "sentiment": "watch",
-    "excerpt": "$XFAB upgraded to outperform with a PT of €12.8 by Bernstein, up from €5.\n\nOkay I forgive you Bernstein for Kioxia and Intel.\n\nI still think that’s just reactive PTs off automotive recovery, SiC/power semi ramp up.\n\nAnd undershooting potent",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069373894398743000",
-    "ticker": "XFAB",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "Bank of America looks like the malicious equivalent of Bernstein/Jim Cramer to retail.\n\n- said $KOSPI / $EWY was an extreme bubble, compared it to Silver crash back in March, causing retail to sell positions.\n\nThe index proceeded to close t",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069271973402931511",
-    "ticker": "EWY",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "Bank of America looks like the malicious equivalent of Bernstein/Jim Cramer to retail.\n\n- said $KOSPI / $EWY was an extreme bubble, compared it to Silver crash back in March, causing retail to sell positions.\n\nThe index proceeded to close t",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069271973402931511",
-    "ticker": "KOSPI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "IMO photonics theme + CW laser chokepoint is goated. \n\nIt's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.\n\nBecause $NVDA caused EML bottlenecks, and forced architectural changes",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069258326505140653",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "IMO photonics theme + CW laser chokepoint is goated. \n\nIt's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.\n\nBecause $NVDA caused EML bottlenecks, and forced architectural changes",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069258326505140653",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "IMO photonics theme + CW laser chokepoint is goated. \n\nIt's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.\n\nBecause $NVDA caused EML bottlenecks, and forced architectural changes",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069258326505140653",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "IMO photonics theme + CW laser chokepoint is goated. \n\nIt's legit like markets have short term memory loss and forgot how $LITE went from $3B -> $65B+ from 2024 to now.\n\nBecause $NVDA caused EML bottlenecks, and forced architectural changes",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069258326505140653",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "Best time to long CXL for memory pooling was 4 months ago.\n\n$ALAB up 276% from $117 -> $440\n\n$MRVL up 291% from $79 -> $309 https://t.co/7XmXHyXgb1",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069246038935065076",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-22",
-    "sentiment": "watch",
-    "excerpt": "Best time to long CXL for memory pooling was 4 months ago.\n\n$ALAB up 276% from $117 -> $440\n\n$MRVL up 291% from $79 -> $309 https://t.co/7XmXHyXgb1",
-    "postUrl": "https://x.com/aleabitoreddit/status/2069246038935065076",
-    "ticker": "ALAB",
     "topics": []
   },
   {
