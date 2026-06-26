@@ -3,21 +3,14 @@
   "name": "VanEck Semiconductor ETF",
   "exchange": "NASDAQ",
   "sector": "半导体 ETF",
-  "price": 636.88,
-  "change5dPct": 2.1,
-  "changeYtdPct": 74.1,
+  "price": 611.61,
+  "change5dPct": -7.3,
+  "changeYtdPct": 67.9,
   "marketCap": "—",
   "pe": null,
   "revenue": "—",
   "revenueYoYPct": null,
   "prices": [
-    {
-      "t": "2025-12-26",
-      "o": 366.07,
-      "h": 367.35,
-      "l": 364.49,
-      "c": 365.86
-    },
     {
       "t": "2025-12-29",
       "o": 362.66,
@@ -874,141 +867,86 @@
     },
     {
       "t": "2026-06-25",
-      "o": 649.48,
+      "o": 649.37,
       "h": 650.03,
       "l": 613.93,
       "c": 636.88
+    },
+    {
+      "t": "2026-06-26",
+      "o": 617.12,
+      "h": 621.67,
+      "l": 609.19,
+      "c": 611.61
     }
   ],
   "thesis": {
-    "bull": [
-      "美光科技季度业绩大幅超预期，单日暴涨15%，印证AI驱动的高带宽内存需求正进入加速兑现阶段，SMH前十大持仓直接受益。",
-      "美光CEO公开表示AI内存短缺可能持续至2028年之后，意味着供给约束将为持仓中内存及存储芯片企业提供多年定价权与高利润率支撑。",
-      "马维尔、英伟达、博通等SMH核心权重股均被分析师视为AI基础设施核心受益标的，算力军备竞赛带来的资本开支浪潮持续为整个半导体生态输送订单。"
-    ],
-    "bear": [
-      "OpenAI自研芯片项目旨在削减对英伟达GPU的依赖，若超大规模云厂商普遍跟进垂直整合，英伟达作为SMH第一大权重股的长期护城河将面临侵蚀。",
-      "苹果因内存成本上涨大幅提价后股价单日重挫6%，暴露出上游芯片涨价向终端消费电子传导的通胀摩擦，可能压制下游需求并引发芯片补库放缓。",
-      "CoreWeave本周股价下跌逾12%，叠加霍尔木兹海峡船只遭袭导致地缘风险上升，显示AI算力基础设施估值泡沫与供应链中断风险同时存在，情绪面脆弱。"
-    ],
-    "watch": [
-      "持续跟踪美光后续季度指引：作为DRAM与NAND价格风向标，其定价走势将直接影响SMH内存相关持仓的盈利预期修正方向。",
-      "VanEck同步推出中国半导体ETF，标志中国本土芯片替代进程加速；需关注中美科技脱钩是否进一步升级，影响台积电、SK海力士等跨境供应商在SMH中的风险溢价。",
-      "霍尔木兹海峡紧张局势及全球航运中断风险：半导体制造依赖特种化学品与稀有气体跨海运输，若局势持续恶化可能触发成本冲击与交货延误预警。"
-    ],
-    "sections": [
-      {
-        "heading": "基金概览",
-        "body": "SMH为VanEck旗下追踪MVIS美国上市半导体指数的ETF，持有约25只美国上市半导体企业股票，权重向市值最大的龙头集中，英伟达、台积电ADR、博通等通常位列前三。基金费率低廉，流动性充裕，是机构与个人投资者获取半导体板块贝塔暴露的主流工具之一。"
-      },
-      {
-        "heading": "近期市场表现",
-        "body": "本周半导体板块分化明显：美光单日大涨15%带动内存相关个股集体走强，首尔股市科技股随之大幅跳涨；但苹果因内存涨价转嫁引发消费电子需求担忧而重挫约6%，CoreWeave跌逾12%，纳斯达克延续跌势。SMH整体表现受权重股涨跌相互对冲，波动率仍处于高位。"
-      },
-      {
-        "heading": "行业核心驱动力",
-        "body": "AI大模型训练与推理对高带宽内存、先进逻辑芯片的需求持续超出市场预期。美光CEO明确表示AI内存短缺可能延续至2028年后，该判断若成立，将为整个存储及先进封装产业链提供多年量价齐升的窗口期。与此同时，马维尔等定制ASIC供应商因超大规模云厂商争相采购AI加速芯片而订单激增，估值空间被持续打开。"
-      },
-      {
-        "heading": "主要竞争格局与风险分歧",
-        "body": "多空两方对AI芯片超级周期的持续性存在根本分歧。看多方引用Micron业绩超预期与HBM供不应求；看空方则指出OpenAI等客户加速自研芯片以降低对英伟达的依赖，若垂直整合趋势蔓延，SMH最大权重股的长期定价权将受到结构性削弱。博通、AMD与英伟达之间的竞争分析文章持续涌现，市场尚未形成共识。"
-      },
-      {
-        "heading": "宏观与地缘政治风险",
-        "body": "霍尔木兹海峡紧张局势加剧，伊朗被指炮击货船导致航运风险上升，而当前通过该海峡的原油运量已升至伊战以来最高水平。半导体供应链对特种气体、晶圆化学品及成品运输高度依赖跨境物流，地缘冲突升级可能引发成本与交期的双重冲击。此外，通胀数据对市场情绪造成压制，美联储政策路径不确定性仍悬而未决。"
-      },
-      {
-        "heading": "估值与结构性关注点",
-        "body": "SMH因高度集中于少数权重股而存在单一标的风险放大效应；英伟达一股的涨跌对整体净值影响显著。当前半导体板块估值普遍高于历史中枢，部分标的已反映乐观的多年增长预期。VanEck同期推出中国半导体ETF，意味着中国本土替代供应链正在形成独立投资标的，若中国芯片实现突破将对SMH权重企业的市场份额构成中长期压力。投资者应留意集中度风险、估值回撤空间及技术迭代速度超预期的可能性。"
-      }
-    ],
-    "comparables": [
-      {
-        "ticker": "SOXX",
-        "name": "iShares Semiconductor ETF",
-        "note": "同类最大竞争产品，追踪ICE半导体指数，持仓约30只，权重分散度略高于SMH，费率相近，适合对比权重差异对业绩的影响。"
-      },
-      {
-        "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "SMH第一大权重股，AI算力芯片绝对龙头，其单股走势对SMH净值影响最为直接，是判断SMH方向性的核心变量。"
-      },
-      {
-        "ticker": "MRVL",
-        "name": "马维尔科技",
-        "note": "定制ASIC与网络芯片代表，近期被多家机构视为「万亿美元潜力」标的，同时刚宣布季度股息，是SMH中兼具成长与分红属性的观察窗口。"
-      },
-      {
-        "ticker": "MU",
-        "name": "美光科技",
-        "note": "本周业绩催化剂来源，HBM与DRAM定价风向标，其季度指引对SMH内存板块持仓具有领先指示意义。"
-      },
-      {
-        "ticker": "AMD",
-        "name": "超威半导体",
-        "note": "与英伟达、博通、马维尔同台竞技AI计算市场，市场持续讨论四者间的相对胜算，AMD份额变化将影响SMH内部权重的相对收益分布。"
-      }
-    ],
-    "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-25T22:29:26.115650Z"
+    "bull": [],
+    "bear": [],
+    "watch": [],
+    "sections": [],
+    "comparables": [],
+    "model": "（分析暂不可用）",
+    "generatedAt": null,
+    "unavailable": true
   },
   "news": [
     {
-      "id": "SMH-140727779",
-      "title": "Micron Rallies 15%, Apple Sinks 6% On Memory Costs: Stock Market Today",
-      "source": "Benzinga",
-      "publishedAt": "2026-06-25",
-      "url": "https://finnhub.io/api/news?id=f3d73e8d49f8ce7911e8041dfb490949f3a5634904d6a14bfd3eeaf0fd249a43",
-      "tags": [
-        "SMH"
-      ]
-    },
-    {
-      "id": "SMH-140724242",
-      "title": "This Week's Plunge In Chip Stocks Is More Ammo For Bulls",
+      "id": "SMH-140738889",
+      "title": "Thematic Equity Investing In A World Of Disruption And Realignment",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-06-25",
-      "url": "https://finnhub.io/api/news?id=0447f813c36104107dbc71c7c5db872234986c02990708df3d68ff60d00733ba",
+      "publishedAt": "2026-06-26",
+      "url": "https://finnhub.io/api/news?id=b2abb7fcf553953ba03969a40a57fd0c4a99016fd9c0070106fd038e80fce5a0",
       "tags": [
         "SMH"
       ]
     },
     {
-      "id": "SMH-140725428",
-      "title": "Micron CEO Says AI Memory Shortage Could Last Beyond 2028: These ETFs Are Positioned To Profit",
+      "id": "SMH-140739274",
+      "title": "Software ETFs Are Finally Catching An AI Tailwind",
       "source": "Benzinga",
-      "publishedAt": "2026-06-25",
-      "url": "https://finnhub.io/api/news?id=f4f0736be59bddaf7519fbdac902a8aa1347c0a935752b0c63f8a54959214509",
+      "publishedAt": "2026-06-26",
+      "url": "https://finnhub.io/api/news?id=2b094fea0e30031906b58075ee1df7bc4c4d945ae0699eff4f44f4954864f59c",
       "tags": [
         "SMH"
       ]
     },
     {
-      "id": "SMH-140717947",
-      "title": "Debunking The Bulls' Main Arguments On AI",
+      "id": "SMH-140738750",
+      "title": "Best-Performing ETFs Of June Have Nothing To Do With AI",
+      "source": "Benzinga",
+      "publishedAt": "2026-06-26",
+      "url": "https://finnhub.io/api/news?id=0e391164e0e429894bb30395ce7230292855f8980a6611620f18a443b2ab3335",
+      "tags": [
+        "SMH"
+      ]
+    },
+    {
+      "id": "SMH-140738751",
+      "title": "Micron Rally Sparks Triple-Digit Fortunes, These ETFs Near 800% Gains In H1 2026",
+      "source": "Benzinga",
+      "publishedAt": "2026-06-26",
+      "url": "https://finnhub.io/api/news?id=6da27fb4a6c5acf19bb21f30389dbaec6d0befdfffcffd99f56b87e5865fd80b",
+      "tags": [
+        "SMH"
+      ]
+    },
+    {
+      "id": "SMH-140737119",
+      "title": "Chip Rout Drags Nasdaq 100, Oil Sinks Below $69: Stock Market Today",
+      "source": "Benzinga",
+      "publishedAt": "2026-06-26",
+      "url": "https://finnhub.io/api/news?id=56f9e46e1432152fa65c931fe9cde8e8b6df6fab68663c198a15d7480f5b37f5",
+      "tags": [
+        "SMH"
+      ]
+    },
+    {
+      "id": "SMH-140735916",
+      "title": "OpenAI IPO Delay: A Symptom Of A Tech Bubble?",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-06-24",
-      "url": "https://finnhub.io/api/news?id=b4c55fae16addefb1ae51b1b10e5d29c701baeef67191108a739543ee0d28135",
-      "tags": [
-        "SMH"
-      ]
-    },
-    {
-      "id": "SMH-140718984",
-      "title": "VanEck Launches China Semiconductor ETF As Beijing’s $98 Billion Chip Push Gains Steam",
-      "source": "Benzinga",
-      "publishedAt": "2026-06-24",
-      "url": "https://finnhub.io/api/news?id=adcc4cb8c643f403833f5fb9a560ac78ef8fe2a35a72482e8aab31a61f1518f2",
-      "tags": [
-        "SMH"
-      ]
-    },
-    {
-      "id": "SMH-140715170",
-      "title": "Cathie Wood Is Rebuilding The Magnificent 7 Trade: ARK ETFs Buy Amazon, Alphabet, Tesla During AI Pullback",
-      "source": "Benzinga",
-      "publishedAt": "2026-06-24",
-      "url": "https://finnhub.io/api/news?id=676954f577e4d83571ba3cdae468679c851e6c257a303c874a58b736d83a1961",
+      "publishedAt": "2026-06-26",
+      "url": "https://finnhub.io/api/news?id=5085a76b59833a38b5fcc12f9829f947a107950246caeed54285d236338cf5a3",
       "tags": [
         "SMH"
       ]
