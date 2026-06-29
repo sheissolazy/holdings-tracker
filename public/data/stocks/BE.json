@@ -3,21 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 252.02,
-  "change5dPct": -23.4,
-  "changeYtdPct": 185.1,
-  "marketCap": "$87.9B",
-  "pe": 12780.4,
+  "price": 275.01,
+  "change5dPct": -20.5,
+  "changeYtdPct": 215.2,
+  "marketCap": "$71.7B",
+  "pe": 12927.0,
   "revenue": "—",
   "revenueYoYPct": 57,
   "prices": [
-    {
-      "t": "2025-12-29",
-      "o": 87.0,
-      "h": 92.53,
-      "l": 85.63,
-      "c": 88.41
-    },
     {
       "t": "2025-12-30",
       "o": 88.92,
@@ -875,135 +868,147 @@
     {
       "t": "2026-06-26",
       "o": 294.52,
-      "h": 298.18,
+      "h": 298.53,
       "l": 247.74,
       "c": 252.02
+    },
+    {
+      "t": "2026-06-29",
+      "o": 272.45,
+      "h": 283.62,
+      "l": 261.33,
+      "c": 275.01
     }
   ],
   "thesis": {
     "bull": [
-      "AI数据中心电力需求激增，Bloom Energy的分布式固态氧化物燃料电池（SOFC）可在现场提供高可靠、低延迟的洁净电力，直接契合科技巨头绕开电网的选址需求",
-      "近期新闻披露CEO KR Sridhar从石油、NASA到燃料电池的跨界履历，市场对其战略执行力的认可度提升，有助于维持机构持仓信心",
-      "公司加速推进氢燃料电池路线图，若绿氢成本持续下降，其SOFC平台可实现「天然气今天、氢气明天」的燃料无缝切换，长期减碳叙事空间较大"
+      "AI数据中心电力需求激增：Bloom Energy固态氧化物燃料电池可为超大规模数据中心提供高密度、高可靠性的分布式电力，与当前AI基础设施建设热潮直接受益，多篇报道印证「AI基础设施投资仍处上升周期」。",
+      "近期股价大幅回调后出现战略性买点：新闻标题「以逾两成折价买入Bloom Energy」及「此价位是我的唯一买点」显示部分投资者认为短期超卖创造了风险收益比改善的机会。",
+      "分布式能源政策顺风：美国能源安全、电网现代化及脱碳政策持续推进，燃料电池作为可靠备用与基荷电源，监管层面的正面预期为中长期订单提供支撑。"
     ],
     "bear": [
-      "股价近期出现大幅波动（「Bloom Energy Stock Is Volatile Thursday」），显示市场对短期业绩与高估值之间的分歧尚未弥合，情绪驱动成分偏高",
-      "产品高度依赖天然气作为主燃料，Oracle因「高资本密集型天然气依赖型公用事业」属性遭分析师下调评级，同类担忧同样适用于BE，ESG资金存在撤离压力",
-      "长期以来自由现金流为负、依赖股权融资扩张，若利率中枢维持高位或资本市场情绪收紧，再融资成本将显著侵蚀股东价值"
+      "动能衰退信号明显：「Bloom Energy Momentum Fatigue Plays Out」直接点出技术面和情绪面的疲态，短期内市场热情消退可能导致估值压缩，AI主题轮动亦加剧资金流出压力。",
+      "盈利能力长期存疑：Bloom历史上持续亏损，高资本支出与低毛利率构成结构性压力；在利率偏高环境下，高现金消耗型公司的融资成本与股权稀释风险不容忽视。",
+      "竞争格局日趋激烈：传统电网扩容、大规模电池储能及氢能技术加速落地，多条技术路线与Bloom形成正面竞争；Plug Power、FuelCell Energy等同类公司亦面临同样叙事，行业整体估值天花板受压。"
     ],
     "watch": [
-      "持续跟踪大型数据中心及公用事业客户的新签合同与装机量，订单增速是验证AI算力需求转化为实际营收的关键指标",
-      "美伊局势升级导致天然气与油价波动（多条路透新闻提示中东风险），需观察燃料成本传导对BE产品经济性及客户采购意愿的影响",
-      "氢能业务商业化进度与绿氢供应链成熟度，若时间表持续推迟，市场可能重新给「氢能溢价」估值打折"
+      "数据中心签约动态：是否有新的超大规模云厂商（微软、亚马逊、谷歌）或主机代管商签署长期购电协议，将是验证AI叙事能否转化为实际订单的关键指标。",
+      "季度毛利率与现金流拐点：若毛利率能突破30%并实现经营性现金流转正，将显著改变市场对其商业模式可行性的判断；反之则维持高估值承压态势。",
+      "天然气价格与政策风险：Bloom现有系统主要以天然气为燃料，气价大幅波动将直接影响客户运营成本及产品竞争力；同时需关注美国清洁能源税收抵免政策（IRA）的执行延续性。"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy（NYSE: BE）成立于2001年，总部位于加利福尼亚州圣何塞，由KR Sridhar（前NASA项目科学家）创立并担任CEO。公司设计、制造并销售固态氧化物燃料电池（SOFC）系统「Energy Server」，能够在现场将天然气或氢气直接转化为电力，发电效率高于传统电厂，且几乎不产生氮氧化物排放。公司于2018年上市，股价历史波动较大，近年随AI数据中心电力需求主题获得资本市场重新关注。"
+        "body": "Bloom Energy（纽交所：BE）是一家清洁能源科技公司，总部位于加利福尼亚州圣何塞，核心产品为「能源服务器」——基于固态氧化物燃料电池（SOFC）技术的分布式发电系统。公司成立于2001年，2018年上市，主要客户涵盖科技企业、医疗机构、工业用户及公用事业公司。当前市值处于中小盘区间，属于清洁能源工业股的典型代表。"
       },
       {
         "heading": "核心技术与产品",
-        "body": "BE的SOFC技术在约800°C高温下运行，通过电化学而非燃烧发电，电效率可达65%以上，联合热电后综合效率更高。「Energy Server」模块化设计支持从数十千瓦到数十兆瓦的灵活部署，适合数据中心、医院、制造业等对电力稳定性要求极高的场景。公司同时推进「Bloom Electrolyzer」制氢业务，意图在清洁氢供应链中占据制备端地位，但该业务尚处早期商业化阶段。"
+        "body": "Bloom的固态氧化物燃料电池通过电化学反应将天然气、生物气或氢气直接转化为电能，效率高于传统燃气轮机，且无燃烧过程，碳排放相对较低。能源服务器可模块化部署，适合园区级分布式发电场景。公司近年亦在推进电解槽产品线，布局绿氢生产，试图拓宽市场边界。技术壁垒较高，但规模化量产成本下降速度慢于预期是长期挑战。"
       },
       {
-        "heading": "增长催化剂",
-        "body": "当前最显著的增长驱动力来自AI算力基础设施建设浪潮。超大型数据中心选址面临电网接入周期长（数年）、可靠性要求严苛的双重约束，BE的现场分布式电源方案可大幅压缩电力部署时间并提供99.9999%可用率保障。此外，美国各州针对分布式清洁能源的补贴政策（包括《通胀削减法案》相关税收抵免）持续降低BE系统的有效装机成本，有望改善销售周期与项目经济性。"
+        "heading": "增长驱动因素",
+        "body": "人工智能浪潮引发数据中心用电量指数级增长，传统电网扩容周期长达数年，分布式燃料电池可在几个月内完成部署并提供稳定基荷电力，因此成为超大规模数据中心运营商解决「电力饥渴」的备选方案之一。此外，美国「通胀削减法案」（IRA）对清洁能源制造及部署的税收激励仍在持续落地，为公司订单和利润率提供政策支撑。国际市场（尤其是韩国SK Group合作）亦是重要营收来源。"
       },
       {
-        "heading": "主要风险",
-        "body": "天然气价格与供应稳定性是最直接的运营风险：中东局势持续紧张（美军对伊朗实施打击、霍尔木兹海峡货轮遭袭等地缘事件）可能推高能源成本，间接影响BE产品的全生命周期经济性与客户意愿。另一层风险是估值：公司目前市销率/市净率均高于传统能源设备制造商，若季度交付数据或指引低于预期，市场情绪的快速逆转可能造成股价非线性下跌，近期单日剧烈波动已显露这一脆弱性。"
+        "heading": "主要风险因素",
+        "body": "第一，盈利路径不清晰：公司多年来处于净亏损状态，高运营费用和债务压力在高利率环境下进一步放大财务风险。第二，动能与估值风险：近期新闻明确指出「动能疲态」，市场情绪驱动的高估值在缺乏业绩支撑时容易快速回调。第三，技术替代风险：随着电池储能成本快速下降以及电网投资加速，Bloom的竞争优势窗口可能比预期更短。第四，客户集中度风险：少数大客户贡献较高比例营收，订单波动对财报影响显著。"
       },
       {
-        "heading": "财务状况",
-        "body": "BE近年营收保持增长，但盈利能力仍处于改善路途中——毛利率逐步提升，GAAP净利润仍处于亏损或微盈区间。公司资产负债表负债率偏高，历史上依赖可转换票据与增发融资支撑扩张。正面信号是经营活动现金流在近期季报中出现改善迹象，若数据中心大订单持续落地，规模效应有望进一步压缩单位成本。投资者需密切关注毛利率趋势与资本支出节奏，这是判断BE何时实现稳定自由现金流的核心指标。"
+        "heading": "财务状况概述",
+        "body": "Bloom Energy近年营收保持增长态势，但毛利率受制于原材料成本与规模效应不足，长期徘徊在较低水平。公司现金储备及信贷安排为短期运营提供缓冲，但持续的资本支出需求意味着外部融资依赖度较高。分析师普遍关注其实现经营性现金流转正的时间节点，视为估值重估的核心催化剂。当前估值相对于营收及资产具有一定溢价，反映市场对其长期潜力的预期而非当期盈利能力。"
       },
       {
-        "heading": "估值与市场情绪",
-        "body": "从市场情绪看，近期新闻中出现「Whale Activity（机构大单）」追踪工业股票的报道，BE可能在其中。整体市场对AI电力基础设施主题仍具高度热情，但「Chip Rout Drags Nasdaq 100」等标题提示科技板块短期存在回调压力，可能连带影响BE等高beta清洁能源概念股。当前多空分歧的核心在于：支持者认为数据中心订单将推动营收加速；质疑者则指出盈利路径不清晰、天然气依赖与长期ESG叙事存在矛盾。投资者应以半年至一年维度观察季度订单积压变化，而非单纯依赖股价波动判断基本面方向。"
+        "heading": "市场定位与竞争格局",
+        "body": "Bloom Energy在固态氧化物燃料电池细分领域全球领先，差异化优势明显，但整体清洁能源赛道竞争持续加剧。直接竞争对手包括FuelCell Energy（质子交换膜技术路线）和Plug Power（氢燃料电池）；间接竞争者涵盖大型储能系统供应商及传统备用柴油发电机市场。在AI数据中心电力叙事下，公司受到更多机构关注，但能否将叙事转化为规模订单并兑现盈利，是决定其长期估值中枢的核心变量。"
       }
     ],
     "comparables": [
       {
-        "ticker": "PLUG",
-        "name": "Plug Power",
-        "note": "同为氢能与燃料电池赛道，主攻叉车及氢气制备，亏损幅度更深，但氢能基础设施布局更激进，与BE形成燃料电池技术路径对比参照"
-      },
-      {
         "ticker": "FCEL",
         "name": "FuelCell Energy",
-        "note": "熔融碳酸盐燃料电池技术路线，规模更小，长期亏损，与BE同处分布式发电市场，可作为燃料电池行业商业化难度的参考基准"
+        "note": "同为燃料电池发电企业，主攻质子交换膜技术路线，规模更小，亏损更深，市场将其视为高风险对标标的"
       },
       {
-        "ticker": "CEG",
-        "name": "Constellation Energy",
-        "note": "核电主导的清洁稳定电力供应商，近年受益于AI数据中心电力协议（PPA）热潮，是BE在「可靠清洁基荷电力」需求侧的主要竞争性解决方案"
+        "ticker": "PLUG",
+        "name": "Plug Power",
+        "note": "氢燃料电池龙头，聚焦叉车及绿氢基础设施，股价经历大幅回调，与BE同属清洁能源高波动板块"
       },
       {
         "ticker": "NEE",
         "name": "NextEra Energy",
-        "note": "全球最大可再生能源公用事业，估值稳健、现金流正向，与BE估值体系形成鲜明对比，可衡量资本市场对不同成熟度清洁能源资产的定价差异"
+        "note": "北美最大清洁能源公用事业公司，体量与稳定性远超BE，可作为行业估值锚定参考"
+      },
+      {
+        "ticker": "CLNE",
+        "name": "Clean Energy Fuels",
+        "note": "天然气加气站运营商，与BE共享能源转型叙事但商业模式差异大，适合作为行业情绪横向对比"
+      },
+      {
+        "ticker": "BE.KS",
+        "name": "SK E&S（韩国合作方）",
+        "note": "Bloom在韩国市场的核心战略合作伙伴，其采购动向直接影响BE国际营收，需持续追踪"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-26T22:20:08.182487Z"
+    "generatedAt": "2026-06-29T22:15:06.145161Z"
   },
   "news": [
     {
-      "id": "BE-140736187",
-      "title": "Russell 2000's 'Graduating Class' Just Turned Into Mid-Caps",
-      "source": "Benzinga",
-      "publishedAt": "2026-06-26",
-      "url": "https://finnhub.io/api/news?id=6c6274a2ce8009ed35cd88c770d7331e56d677562f5ea6b5f88ed7abbb927b9f",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-140729108",
-      "title": "Bloom Energy CEO Went From Oil To NASA To Fuel Cells, Now He’s A Billionaire",
-      "source": "Benzinga",
-      "publishedAt": "2026-06-25",
-      "url": "https://finnhub.io/api/news?id=5c6168ef7b0127d00451e81e770dcf8c91473ad874ca6416adc3423c32e040c2",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-140729176",
-      "title": "Bloom Energy Stock Is Volatile Thursday: What's Driving The Action?",
-      "source": "Benzinga",
-      "publishedAt": "2026-06-25",
-      "url": "https://finnhub.io/api/news?id=fe8fa29354e4990906a3475496cd114a724ef1d917ff9e2f6600fcf1b2684586",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-140721928",
-      "title": "Oracle: Becoming A Highly Capital-Intensive NG-Dependent Wholesale Colocation Utility (Rating Downgrade)",
+      "id": "BE-140764885",
+      "title": "Bloom Energy: The Only Level I Buy At",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-06-25",
-      "url": "https://finnhub.io/api/news?id=c5a3ef02ca39760b7f523fffadfac8eed9b91e104428436907715803c6ea983e",
+      "publishedAt": "2026-06-29",
+      "url": "https://finnhub.io/api/news?id=072dbae9410c0a6d8102ccd134451f9c6b6451555683ea99a639d835042c5e2d",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-140716077",
-      "title": "10 Industrials Stocks Whale Activity In Today’s Session",
+      "id": "BE-140764560",
+      "title": "10 Industrials Stocks With Whale Alerts In Today’s Session",
       "source": "Benzinga",
-      "publishedAt": "2026-06-24",
-      "url": "https://finnhub.io/api/news?id=9793bc39844351c2ac66fc617f1c10f7e75e39414500b0c796d0f08b1ec3e69b",
+      "publishedAt": "2026-06-29",
+      "url": "https://finnhub.io/api/news?id=49c6e388c05a38867cedbba0000a2b53ef2f0a2969fa2369555018d2fe8ec7cf",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-140706491",
-      "title": "Tuesday's after hours session: top gainers and losers",
-      "source": "ChartMill",
-      "publishedAt": "2026-06-23",
-      "url": "https://finnhub.io/api/news?id=ee75d57bf125298443d7f2573cfc827a4166bd7a948f13a91f2f360fa8bf7ff2",
+      "id": "BE-140763566",
+      "title": "Small Caps Are Beating S&P 500 By The Widest Margin Since 2003: Here’s Why",
+      "source": "Benzinga",
+      "publishedAt": "2026-06-29",
+      "url": "https://finnhub.io/api/news?id=b6cebf4c724f577c3195bc97338d6214a799f8eb61975dda9c7ed53c21d90db9",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-140761938",
+      "title": "Bloom Energy's Momentum Fatigue Plays Out, AI Trade Too Hot To Handle",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-06-29",
+      "url": "https://finnhub.io/api/news?id=8550e1d339ca483645408b325a76fa716564691f84f9159766c5d64a3d26f6eb",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-140762066",
+      "title": "Iridium Communications, FuelCell Energy, Rocket Lab And Other Big Stocks Moving Higher On Monday",
+      "source": "Benzinga",
+      "publishedAt": "2026-06-29",
+      "url": "https://finnhub.io/api/news?id=6a1330f4329d49678510d99f503c5863c5109abb1f2579c06add7ebe541471a4",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-140758647",
+      "title": "Bought Bloom Energy, Credo At A +20% Discount, But Also Hedged",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-06-29",
+      "url": "https://finnhub.io/api/news?id=c438d70818ddcd74de445616da9babd1ed4459dfb40d42815fc06705c6c8fae9",
       "tags": [
         "BE"
       ]

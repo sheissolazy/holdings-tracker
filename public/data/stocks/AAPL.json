@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 283.78,
-  "change5dPct": -4.8,
-  "changeYtdPct": 3.7,
-  "marketCap": "$4.04T",
-  "pe": 33.5,
+  "price": 281.74,
+  "change5dPct": -5.1,
+  "changeYtdPct": 3.2,
+  "marketCap": "$4.17T",
+  "pe": 33.7,
   "revenue": "—",
   "revenueYoYPct": 13,
   "prices": [
-    {
-      "t": "2025-12-29",
-      "o": 272.69,
-      "h": 274.36,
-      "l": 272.35,
-      "c": 273.76
-    },
     {
       "t": "2025-12-30",
       "o": 272.81,
@@ -878,127 +871,134 @@
       "h": 285.95,
       "l": 274.21,
       "c": 283.78
+    },
+    {
+      "t": "2026-06-29",
+      "o": 286.86,
+      "h": 288.37,
+      "l": 279.85,
+      "c": 281.74
     }
   ],
   "thesis": {
     "bull": [
-      "苹果人工智能（Apple Intelligence）加速落地，英伟达CEO黄仁勋公开表达对苹果AI前景的高度期待，市场对其AI生态货币化潜力重新定价，有望驱动新一轮换机周期",
-      "服务业务持续高速扩张，App Store、Apple TV+、Apple Pay等构成高毛利率收入护城河，对冲硬件周期波动，盈利结构持续改善",
-      "封闭生态系统与逾10亿活跃设备基数构成无可比拟的AI分发优势，设备端推理与隐私保护定位形成差异化竞争壁垒"
+      "苹果智能（Apple Intelligence）AI功能持续推进，英伟达CEO黄仁勋于2026年6月公开发表「对苹果AI寄予厚望」的正面评论，催化AI概念板块普涨，市场预期苹果AI生态有望驱动新一轮换机升级周期。",
+      "华尔街分析师（如Dan Ives）将近期科技股大幅回调定性为战略性买入机会，「华丽七股」整体修复行情中苹果跟随反弹，机构配置需求兼具防御性与成长性双重属性。",
+      "美伊地缘紧张局势缓和叠加风险偏好回升，半导体板块止跌反弹，宏观情绪边际改善为高市值科技股提供短期支撑。"
     ],
     "bear": [
-      "南希·佩洛西在2025年10月至2026年1月间多次减持AAPL，合计至少四笔卖出交易，政治关联人士持续套现释放明显空头信号",
-      "Vision Pro硬件总监跳槽OpenAI，高端产品线关键人才流失，空间计算战略执行风险上升，苹果在顶尖AI人才争夺战中面临结构性压力",
-      "近期「苹果卖出潮是否结束」的市场讨论暗示股价承压，Mag-7板块整体落后大盘，AI叙事能否支撑当前估值仍存争议"
+      "南希·佩洛西自2024年12月至2025年12月累计披露至少四笔AAPL减仓交易，减持方向持续偏空，时间跨度长达一年，显示部分知情机构对中短期估值存在顾虑。",
+      "「苹果在华存储芯片采购策略遭到审查」的报道显示，公司中国供应链策略正面临监管层关注；叠加本土竞争对手（华为、小米）高端机型份额持续蚕食，中国市场（约占营收17%）存在结构性压力。",
+      "芯片板块（美光、英特尔）引领半导体阶段性抛售，若供应链成本上升传导至台积电等核心代工商，苹果硬件毛利率可能承压；当前高估值隐含AI换机乐观预期，一旦落地不及预期则面临估值收缩风险。"
     ],
     "watch": [
-      "Apple Intelligence在iPhone升级周期中的实际渗透率与付费转化数据，是验证AI货币化叙事能否支撑估值的核心观察指标",
-      "美伊地缘冲突及霍尔木兹海峡局势持续演变，可能影响亚洲代工供应链稳定性，需关注富士康等合作方的产能预警信号",
-      "AI时代硬件定价逻辑出现反转迹象（「小工具价格因AI上涨」），需甄别苹果能否将AI功能成本有效转嫁消费者，维持历史毛利率水平"
+      "苹果智能功能实际渗透率与用户留存数据：这是验证「AI换机叙事」能否兑现为可量化营收增量的核心指标，需重点跟踪季度设备激活及服务收入增速。",
+      "中国监管与市场动态后续走向：存储采购审查事件的进展、中美科技博弈升温可能波及制造端（代工依赖）与市场准入端的双重风险需持续评估。",
+      "佩洛西持仓信号的双向解读：同一批披露中同时出现新建多头与多次减仓操作，性质尚不明确（仓位再平衡 vs. 实质减仓），需结合后续季度披露判断趋势方向。"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果公司（AAPL）是全球市值最大的科技企业之一，业务涵盖iPhone、Mac、iPad、可穿戴设备及服务平台。公司以封闭生态系统著称，硬件、软件与服务深度整合形成高用户黏性与品牌溢价。截至2026年中，苹果正处于将人工智能能力全面嵌入产品线的战略转型关键期，Apple Intelligence是当前核心叙事主线，市场高度关注其AI战略落地节奏与商业化路径。"
+        "body": "苹果公司（AAPL）是全球市值最大的科技企业之一，主营iPhone、Mac、iPad、可穿戴设备及软件服务。公司长期深化「硬件+服务+生态」飞轮战略，服务业务（App Store、iCloud、Apple Music等）毛利率显著高于硬件端，已成为核心利润驱动力。凭借强大的品牌忠诚度与封闭软硬件生态，苹果维持对竞争对手的持续性护城河，但高估值也意味着市场对其业绩连续增长的容错空间较低。"
       },
       {
-        "heading": "近期股价与市场动态",
-        "body": "近期市场出现「苹果卖出潮是否结束」的讨论，暗示股价经历了一轮明显调整。Mag-7板块在近期整体落后于大盘，苹果作为其中重要成员受到拖累。地缘政治扰动（美伊冲突、中东局势升级）以及宏观不确定性共同构成短期压力，投资者情绪较为谨慎，但英伟达CEO等AI领袖的积极表态为市场提供了阶段性情绪支撑。"
+        "heading": "AI战略与苹果智能",
+        "body": "苹果于2025年正式推出「Apple Intelligence」系列AI功能，涵盖写作助手、图像生成、Siri深度整合及第三方应用接入框架。英伟达CEO黄仁勋于2026年6月公开表达对苹果AI的高度期待，带动市场情绪升温。市场普遍预期Apple Intelligence将催生显著的换机升级周期，但当前用户渗透率及功能覆盖范围（部分地区受限）尚未充分支撑这一假设，AI功能商业化节奏与实际用户行为之间存在落差风险。"
       },
       {
-        "heading": "人工智能战略",
-        "body": "英伟达CEO黄仁勋的公开表态为苹果AI前景注入信心，市场对Apple Intelligence在iOS生态中的落地抱有较高预期。苹果AI战略的核心差异化在于设备端推理与用户隐私保护，区别于云端AI竞争对手的路线。然而Vision Pro硬件总监跳槽OpenAI一事提示，苹果在顶尖AI人才争夺战中面临持续压力，AI能力迭代速度受到人才流失的潜在制约。"
+        "heading": "中国市场风险",
+        "body": "中国市场贡献苹果约17%的营收，是不可忽视的单一市场敞口。近期「苹果在华存储芯片采购策略遭到审查」的新闻显示，公司供应链本土化路径正受到监管关注。与此同时，华为Mate系列等国产高端旗舰竞争力持续提升，苹果在华高端市场份额面临压力。若中美科技博弈进一步升温，可能同时波及生产制造（高度依赖中国代工）与消费市场准入两个维度，形成双重冲击。"
       },
       {
-        "heading": "财务基本面",
-        "body": "苹果服务板块毛利率显著高于硬件，持续扩张为整体盈利结构提供支撑。iPhone仍是最大收入来源，换机周期与AI功能普及速度密切相关。公司现金储备充裕，长期坚持大规模股票回购，为每股盈利增长提供机械性支撑。AI时代硬件定价逻辑若出现反转，有望进一步改善历史上承压的硬件毛利率，但具体数据需以官方季报披露为准。"
+        "heading": "机构与知情人持仓动向",
+        "body": "国会议员南希·佩洛西通过PTR（个人交易报告）披露，自2024年12月至2025年12月期间多次减持AAPL，减持记录时间跨度长、方向一致。值得注意的是，2025年12月30日的同一批披露中同时出现了一笔「新建多头」操作，或反映仓位结构调整而非单纯看空信号。英伟达CEO黄仁勋则于2026年6月发表正面评论，形成一定的舆论层面多头背书。整体而言，单一持仓人操作不应直接等同于基本面判断，需结合机构整体仓位变化综合研判。"
       },
       {
-        "heading": "风险因素",
-        "body": "多空分歧较为突出：空方关注佩洛西等人士的持续减持行为、硬件AI人才流失、AI货币化时间表不确定性，以及Mag-7整体动能放缓；多方则寄望于服务收入扩张、AI超级周期驱动的换机需求以及品牌护城河的长期防御价值。地缘政治风险（霍尔木兹海峡、中美贸易关系）可能干扰供应链稳定性，是不可忽视的外部变量。"
+        "heading": "竞争格局与行业背景",
+        "body": "当前「华丽七股」板块在经历大幅市值蒸发后进入修复行情，苹果与微软、谷歌、亚马逊等同步反弹。半导体供应链方面，美光、英特尔等芯片股出现阶段性抛售，若蔓延至台积电等核心代工商，可能向苹果硬件成本端传导。Salesforce等AI软件公司激进并购显示企业端AI竞争烈度上升，苹果在企业市场的AI布局相对滞后，存在生态边界被蚕食的潜在风险。同时，谷歌Gemini与苹果智能在移动端形成直接竞争，安卓生态AI能力追赶速度值得关注。"
       },
       {
-        "heading": "可比公司与行业背景",
-        "body": "在Mag-7框架下，微软、谷歌、英伟达等竞争对手均在AI军备竞赛中加速投入，AI商业化节奏分化明显。苹果的AI落地速度被部分市场参与者认为相对保守，但其逾10亿级活跃设备基数提供了无可比拟的终端分发优势。行业背景方面，内存需求因人形机器人等新兴场景持续爆发，AI基础设施投资潮对苹果供应链上下游形成复杂影响，需结合具体合作方动向综合研判。"
+        "heading": "估值与市场情绪",
+        "body": "苹果当前估值处于历史较高分位区间，市场定价隐含了Apple Intelligence带动换机周期的乐观情景。短期来看，地缘风险缓和与科技股情绪修复提供支撑；中期来看，多空双方核心分歧在于：其一，Apple Intelligence能否在未来12至18个月内实现可量化的收入增量；其二，中国市场风险是否会实质化并影响盈利预测。若上述两个变量均向不利方向演化，当前估值存在明显回调空间；反之，若AI功能渗透率超预期，则存在向上重估可能。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
         "name": "微软",
-        "note": "同为Mag-7成员，AI Copilot商业化进度领先，云服务与AI订阅模式提供可参考的货币化路径，估值体系对苹果具有参照意义"
+        "note": "同为「华丽七股」核心成员，Copilot AI商业化落地节奏领先苹果，企业端AI营收已可量化，高服务占比结构与苹果形成直接估值对标参考。"
       },
       {
         "ticker": "GOOGL",
         "name": "Alphabet",
-        "note": "移动操作系统Android与苹果iOS直接竞争，Gemini AI能力部署速度形成压力，广告与云收入结构与苹果服务模式形成对比"
+        "note": "安卓生态与苹果iOS形成直接竞争，Gemini AI功能在移动端与苹果智能正面博弈；近期加入道琼斯指数，广告+云计算+AI三轮驱动提供差异化比较视角。"
       },
       {
-        "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "AI算力基础设施核心受益者，CEO黄仁勋言论直接影响苹果AI市场预期，两者在AI叙事上形成联动效应，同时也是苹果自研芯片战略的潜在竞争参照"
+        "ticker": "SSNLF",
+        "name": "三星电子",
+        "note": "全球智能手机市占率第一的直接竞争对手，Galaxy AI系列在亚洲市场对苹果高端机型形成压力；同时作为重要零部件供应商，兼具竞争与供应链双重联动效应。"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-06-26T22:21:21.347275Z"
+    "generatedAt": "2026-06-29T22:16:42.555409Z"
   },
   "news": [
     {
-      "id": "AAPL-140740400",
-      "title": "Update: Equity Markets Fall as Trump Says Iran Violated Ceasefire",
+      "id": "AAPL-140766657",
+      "title": "Amazon Stock Climbs During Strong Day For Magnificent Seven",
       "source": "Yahoo",
-      "publishedAt": "2026-06-26",
-      "url": "https://finnhub.io/api/news?id=6dbc80f38bf983dd888805faaad1d836b263836d9615c8cb86acb2520fe96d67",
+      "publishedAt": "2026-06-29",
+      "url": "https://finnhub.io/api/news?id=f8debf5d0c706c3ab4356cdbab3b489dc23e4930aea040f0f0b8c5c9ba6d8d20",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140740401",
-      "title": "US Equity Indexes Mixed, Mag-7 Lags Amid Micron Technology's Blockbuster Quarterly Results This Week",
+      "id": "AAPL-140766665",
+      "title": "Tesla Leads Magnificent Seven Recovery, Analysts Chime In On Deliveries",
       "source": "Yahoo",
-      "publishedAt": "2026-06-26",
-      "url": "https://finnhub.io/api/news?id=6570a3fe4efe720cb8bd120020a7dcbb9d9340ca70662b4621174249e9de9fad",
+      "publishedAt": "2026-06-29",
+      "url": "https://finnhub.io/api/news?id=8ed597f8fad937afb48910262150467a6e4659273acfc952739f00ba13fc78b6",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140740402",
-      "title": "Stock Of The Day: Is The Apple Sell-Off Over?",
+      "id": "AAPL-140765350",
+      "title": "Apple's China Memory Push Draws Scrutiny",
       "source": "Yahoo",
-      "publishedAt": "2026-06-26",
-      "url": "https://finnhub.io/api/news?id=0eae4e947b04acdb8d9e6439e8be8e9b99defc02f10f4fa2144a98a3064965ab",
+      "publishedAt": "2026-06-29",
+      "url": "https://finnhub.io/api/news?id=7621eb6136d5d8b1bdd41c98d89754801e8532d6c131ef4dfbc742dfa3da526d",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140740403",
-      "title": "Gadget prices have fallen for decades. Then AI happened.",
+      "id": "AAPL-140765340",
+      "title": "Dan Ives Says the $3 Trillion Tech Wipeout Is a Buying Opportunity. Here’s His Case",
       "source": "Yahoo",
-      "publishedAt": "2026-06-26",
-      "url": "https://finnhub.io/api/news?id=d8e735d601544a0c6ba16745ee8a2cd4cd1f58567ec9af64646bf74cbb4f2efa",
+      "publishedAt": "2026-06-29",
+      "url": "https://finnhub.io/api/news?id=ab3ccb7badd315208d64b5b9120247a27378ef61773f5c639a5fc85c1de76f1b",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140740398",
-      "title": "How To Invest: 5 Tips For Dealing With This Stock Market",
-      "source": "Yahoo",
-      "publishedAt": "2026-06-26",
-      "url": "https://finnhub.io/api/news?id=9ac88fa9f4a5b635fc9f2080ea3b22d301b510a369a5cae66805502fa8407294",
+      "id": "AAPL-140765065",
+      "title": "Top dow jones movers in Monday's session",
+      "source": "ChartMill",
+      "publishedAt": "2026-06-29",
+      "url": "https://finnhub.io/api/news?id=04dfbfc3a348d784f5dc4b540503d0f6154f4bf64ee5d9afed4850a5a3abe063",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140740405",
-      "title": "Apple’s Vision Pro hardware chief defects to OpenAI",
+      "id": "AAPL-140765344",
+      "title": "Alphabet shares rise on Dow debut, Verizon falls after index exit",
       "source": "Yahoo",
-      "publishedAt": "2026-06-26",
-      "url": "https://finnhub.io/api/news?id=84012dcc120dfaf041d6275df9339c61d7193c7c12c40abf25c18c6106865850",
+      "publishedAt": "2026-06-29",
+      "url": "https://finnhub.io/api/news?id=a4a6dcd79f584642f65b32fcb8bc13e2a4a1393ded4e085413bc8fb520ff17cb",
       "tags": [
         "AAPL"
       ]
