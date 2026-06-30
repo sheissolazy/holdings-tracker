@@ -367,25 +367,190 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-06-26",
+    "asOf": "2026-06-30",
     "sentiment": "watch",
-    "excerpt": "Numerous European Countries have been discussing the imminent implementation of a Digital Services Tax on American Companies. Some of these Countries are close to actually doing this. Please let this statement serve to represent that any Co",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/116817320899062447",
+    "excerpt": "I will take that as a compliment https://t.co/kTZqkuPqMf",
+    "postUrl": "https://x.com/elonmusk/status/2071984597311557807",
     "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-30",
+    "sentiment": "watch",
+    "excerpt": "$SIVE is raising ~$61M (600M SEK) to expand manufacturing capacity for InP lasers and optical amplifiers.\n\nSivers operates as a fab-lite model so this is likely hinting at foundry allocation/scaling for CW DFB laser ramp across Jabil, and t",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072007692684837039",
+    "ticker": "GFS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-30",
+    "sentiment": "watch",
+    "excerpt": "$SIVE is raising ~$61M (600M SEK) to expand manufacturing capacity for InP lasers and optical amplifiers.\n\nSivers operates as a fab-lite model so this is likely hinting at foundry allocation/scaling for CW DFB laser ramp across Jabil, and t",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072007692684837039",
+    "ticker": "SIVE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-30",
+    "sentiment": "watch",
+    "excerpt": "Yep! Agility Robotics is currently my favorite humanoid/robotics position.\n\nThey're set to be listed on NASDAQ via $CCXI as early as September (per Digitimes).\n\nJust for informational purposes: Their V4 humanoid robot is already operating i",
+    "postUrl": "https://x.com/aleabitoreddit/status/2071995924172394695",
+    "ticker": "NVDA",
+    "topics": [
+      "大盘/宏观",
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-30",
+    "sentiment": "watch",
+    "excerpt": "Yep! Agility Robotics is currently my favorite humanoid/robotics position.\n\nThey're set to be listed on NASDAQ via $CCXI as early as September (per Digitimes).\n\nJust for informational purposes: Their V4 humanoid robot is already operating i",
+    "postUrl": "https://x.com/aleabitoreddit/status/2071995924172394695",
+    "ticker": "AMZN",
+    "topics": [
+      "大盘/宏观",
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-30",
+    "sentiment": "watch",
+    "excerpt": "Yep! Agility Robotics is currently my favorite humanoid/robotics position.\n\nThey're set to be listed on NASDAQ via $CCXI as early as September (per Digitimes).\n\nJust for informational purposes: Their V4 humanoid robot is already operating i",
+    "postUrl": "https://x.com/aleabitoreddit/status/2071995924172394695",
+    "ticker": "CCXI",
+    "topics": [
+      "大盘/宏观",
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-30",
+    "sentiment": "watch",
+    "excerpt": "I wonder if humanoids is going to spark a new bottleneck/industry for robot cosmetics.\n\nLike a skin bottleneck. Or Aespa KPOP robot makeover as a service.\n\nSo if $TSLA Optimus makes tens of millions of humanoids:\n\nWho’s going to make them a",
+    "postUrl": "https://x.com/aleabitoreddit/status/2071977219002613768",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-30",
+    "sentiment": "watch",
+    "excerpt": "There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit.\n\nOn $CBRS + OpenAI:\n\n- Needs 1-2K tokens/sec so tries to use Cerebras.\n\n- Claims OpenAI reserved all capacity, making waitlist infinite for everyone els",
+    "postUrl": "https://x.com/aleabitoreddit/status/2071961279380791729",
+    "ticker": "CBRS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-30",
+    "sentiment": "watch",
+    "excerpt": "There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit.\n\nOn $CBRS + OpenAI:\n\n- Needs 1-2K tokens/sec so tries to use Cerebras.\n\n- Claims OpenAI reserved all capacity, making waitlist infinite for everyone els",
+    "postUrl": "https://x.com/aleabitoreddit/status/2071961279380791729",
+    "ticker": "RDDT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-30",
+    "sentiment": "watch",
+    "excerpt": "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META.\n\nWhen China entities like 360 go and claim:\n\nThey now have a \"AI cyber nuclear weapon\" that can hack Western companies and governments.\n\n(Zhou claime",
+    "postUrl": "https://x.com/aleabitoreddit/status/2071903552608362500",
+    "ticker": "NVDA",
     "topics": [
       "关税/贸易"
     ]
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-30",
+    "sentiment": "watch",
+    "excerpt": "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META.\n\nWhen China entities like 360 go and claim:\n\nThey now have a \"AI cyber nuclear weapon\" that can hack Western companies and governments.\n\n(Zhou claime",
+    "postUrl": "https://x.com/aleabitoreddit/status/2071903552608362500",
+    "ticker": "ASML",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-30",
+    "sentiment": "watch",
+    "excerpt": "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META.\n\nWhen China entities like 360 go and claim:\n\nThey now have a \"AI cyber nuclear weapon\" that can hack Western companies and governments.\n\n(Zhou claime",
+    "postUrl": "https://x.com/aleabitoreddit/status/2071903552608362500",
+    "ticker": "GOOGL",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-30",
+    "sentiment": "watch",
+    "excerpt": "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META.\n\nWhen China entities like 360 go and claim:\n\nThey now have a \"AI cyber nuclear weapon\" that can hack Western companies and governments.\n\n(Zhou claime",
+    "postUrl": "https://x.com/aleabitoreddit/status/2071903552608362500",
+    "ticker": "META",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-06-29",
     "sentiment": "watch",
-    "excerpt": "I love optimizing machines \n\nIt’s like a beautiful puzzle\n\nThat also achieves true usefulness",
-    "postUrl": "https://x.com/elonmusk/status/2071651728202543557",
-    "ticker": "",
+    "excerpt": "I've reached 900k followers, thank you everyone!\n\nJust some reflection, it's actually a nightmare at higher counts...\n\nWhich is new to me, since I started at almost nothing earlier this year.\n\n1. Threats of safety, which I don't enjoy.\n\n- R",
+    "postUrl": "https://x.com/aleabitoreddit/status/2071763387948859506",
+    "ticker": "ALAB",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-29",
+    "sentiment": "watch",
+    "excerpt": "I've reached 900k followers, thank you everyone!\n\nJust some reflection, it's actually a nightmare at higher counts...\n\nWhich is new to me, since I started at almost nothing earlier this year.\n\n1. Threats of safety, which I don't enjoy.\n\n- R",
+    "postUrl": "https://x.com/aleabitoreddit/status/2071763387948859506",
+    "ticker": "AXTI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-29",
+    "sentiment": "watch",
+    "excerpt": "I've reached 900k followers, thank you everyone!\n\nJust some reflection, it's actually a nightmare at higher counts...\n\nWhich is new to me, since I started at almost nothing earlier this year.\n\n1. Threats of safety, which I don't enjoy.\n\n- R",
+    "postUrl": "https://x.com/aleabitoreddit/status/2071763387948859506",
+    "ticker": "CBRS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-06-29",
+    "sentiment": "watch",
+    "excerpt": "I've reached 900k followers, thank you everyone!\n\nJust some reflection, it's actually a nightmare at higher counts...\n\nWhich is new to me, since I started at almost nothing earlier this year.\n\n1. Threats of safety, which I don't enjoy.\n\n- R",
+    "postUrl": "https://x.com/aleabitoreddit/status/2071763387948859506",
+    "ticker": "GFS",
     "topics": []
   },
   {
@@ -615,158 +780,6 @@
     "topics": [
       "IPO/财报"
     ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-26",
-    "sentiment": "watch",
-    "excerpt": "$SPCX / Elon Musk acquires Mesh, an optical networking startup.\n\nWhich is working on 1.6T OSFP (pluggable).\n\nIt’s seems they own the optical engine/packaging side of things, but likely sources CW DFB lasers off merchant companies. \n\n$SIVE i",
-    "postUrl": "https://x.com/aleabitoreddit/status/2070691462354993543",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-26",
-    "sentiment": "watch",
-    "excerpt": "$SPCX / Elon Musk acquires Mesh, an optical networking startup.\n\nWhich is working on 1.6T OSFP (pluggable).\n\nIt’s seems they own the optical engine/packaging side of things, but likely sources CW DFB lasers off merchant companies. \n\n$SIVE i",
-    "postUrl": "https://x.com/aleabitoreddit/status/2070691462354993543",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-26",
-    "sentiment": "watch",
-    "excerpt": "$SPCX / Elon Musk acquires Mesh, an optical networking startup.\n\nWhich is working on 1.6T OSFP (pluggable).\n\nIt’s seems they own the optical engine/packaging side of things, but likely sources CW DFB lasers off merchant companies. \n\n$SIVE i",
-    "postUrl": "https://x.com/aleabitoreddit/status/2070691462354993543",
-    "ticker": "MTSI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-26",
-    "sentiment": "watch",
-    "excerpt": "$SPCX / Elon Musk acquires Mesh, an optical networking startup.\n\nWhich is working on 1.6T OSFP (pluggable).\n\nIt’s seems they own the optical engine/packaging side of things, but likely sources CW DFB lasers off merchant companies. \n\n$SIVE i",
-    "postUrl": "https://x.com/aleabitoreddit/status/2070691462354993543",
-    "ticker": "POET",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-26",
-    "sentiment": "watch",
-    "excerpt": "Brooo, OpenAI is back and they're releasing their new model GPT-5.6 Sol. \n\nWith their benchmarks, OpenAI claims: \n\n- Sol Ultra beats Mythos 5 and mogs it for coding/workflow. \n\n- And is better for bio/cybersecurity too.  \n\nPretty bullish on",
-    "postUrl": "https://x.com/aleabitoreddit/status/2070559154352353724",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-26",
-    "sentiment": "watch",
-    "excerpt": "Morgan Stanley: Retained its forecast for the Federal Reserve to hold interest rates through year-end (no rate hikes). \n\nMichael Gapen said incoming data since the June FOMC meeting has made it \"marginally more comfortable\" in its no-hike b",
-    "postUrl": "https://x.com/aleabitoreddit/status/2070536700519178493",
-    "ticker": "",
-    "topics": [
-      "美联储/利率"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-26",
-    "sentiment": "watch",
-    "excerpt": "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. \n\nAnd yes, I still have my million+ share position.\n\nNot sure if people realize this: but I'm only here to share m",
-    "postUrl": "https://x.com/aleabitoreddit/status/2070444675337503166",
-    "ticker": "EWY",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-26",
-    "sentiment": "watch",
-    "excerpt": "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. \n\nAnd yes, I still have my million+ share position.\n\nNot sure if people realize this: but I'm only here to share m",
-    "postUrl": "https://x.com/aleabitoreddit/status/2070444675337503166",
-    "ticker": "IREN",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-26",
-    "sentiment": "watch",
-    "excerpt": "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. \n\nAnd yes, I still have my million+ share position.\n\nNot sure if people realize this: but I'm only here to share m",
-    "postUrl": "https://x.com/aleabitoreddit/status/2070444675337503166",
-    "ticker": "LITE",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-26",
-    "sentiment": "watch",
-    "excerpt": "OFC I'm aware. But I'm personally sleeping comfortably since I have conviction in my hyperscaler mapping research with $SIVE. \n\nAnd yes, I still have my million+ share position.\n\nNot sure if people realize this: but I'm only here to share m",
-    "postUrl": "https://x.com/aleabitoreddit/status/2070444675337503166",
-    "ticker": "NBIS",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-26",
-    "sentiment": "watch",
-    "excerpt": "Just Elon Musk casually sounding the alarm.\n\nOn the massive demand + price hikes for $MU / SK Hynix / Samsung memory relative to supply.\n\nHe probably has higher visibility into the memory bottleneck than others… https://t.co/iszX0YJHuS",
-    "postUrl": "https://x.com/aleabitoreddit/status/2070413682996347069",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-25",
-    "sentiment": "watch",
-    "excerpt": "“What matters is not the eggs, it is the Goose itself”\n\nSoftBank probably down -13.5% today\nafter markets saw this investor presentation today.\n\nAlso the OpenAI IPO possible 2027 delay cause Altman wanted a $1T valuation might have been a s",
-    "postUrl": "https://x.com/aleabitoreddit/status/2070373235452162540",
-    "ticker": "",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-25",
-    "sentiment": "watch",
-    "excerpt": "There's a global correction right now, no clue when it stops. \n\nKospi is down -8.18% (Sk hynix/Samsung)\nNikkei is down -4.8%\nTWSE Index is down -3.82%\n\nAs you've seen with $SOI or $RKLB dropping 30-40%. \n\nFrom personal experience, high beta",
-    "postUrl": "https://x.com/aleabitoreddit/status/2070354308965728519",
-    "ticker": "RKLB",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-25",
-    "sentiment": "watch",
-    "excerpt": "There's a global correction right now, no clue when it stops. \n\nKospi is down -8.18% (Sk hynix/Samsung)\nNikkei is down -4.8%\nTWSE Index is down -3.82%\n\nAs you've seen with $SOI or $RKLB dropping 30-40%. \n\nFrom personal experience, high beta",
-    "postUrl": "https://x.com/aleabitoreddit/status/2070354308965728519",
-    "ticker": "SOI",
-    "topics": []
   },
   {
     "personId": "jensen",

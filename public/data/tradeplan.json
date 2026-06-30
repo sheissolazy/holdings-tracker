@@ -1,83 +1,83 @@
 {
-  "forDate": "2026-06-30",
-  "generatedAt": "2026-06-29T22:17:59Z",
+  "forDate": "2026-07-01",
+  "generatedAt": "2026-06-30T22:21:26Z",
   "model": "确定性技术位 + 风险计（无 AI、无编造）",
   "catalysts": [],
   "pendingSignals": [],
   "draftActions": [],
   "risk": {
     "available": true,
-    "asOf": "2026-06-29",
-    "score": 2,
+    "asOf": "2026-06-30",
+    "score": 1,
     "level": "中",
     "label": "风险中性",
     "inputs": [
       {
         "name": "标普 · 趋势",
         "value": "位于 50/200 日线上方",
-        "detail": "SPX 741.0 · 50DMA 735.1 · 200DMA 691.0",
+        "detail": "SPX 746.8 · 50DMA 735.9 · 200DMA 691.4",
         "contribution": 2,
         "note": "中长期趋势均健康（risk-on）"
       },
       {
         "name": "标普 · 1月动量",
-        "value": "-1.3%",
+        "value": "-1.0%",
         "detail": "近 22 个交易日累计涨跌",
         "contribution": 0,
         "note": "区间震荡"
       },
       {
         "name": "10年美债 · 1月",
-        "value": "-11bp",
-        "detail": "当前 4.37%",
+        "value": "-6bp",
+        "detail": "当前 4.42%",
         "contribution": 0,
         "note": "利率波动有限"
       },
       {
         "name": "美元指数 · 1月",
-        "value": "+1.9%",
-        "detail": "当前 DXY 101.11",
-        "contribution": 0,
-        "note": "美元区间波动"
+        "value": "+2.2%",
+        "detail": "当前 DXY 101.17",
+        "contribution": -1,
+        "note": "美元走强、抽流动性"
       }
     ],
     "note": "确定性规则，仅用真实大盘历史计算；为体制参考、非买卖指令。"
   },
   "suggestions": [
     {
-      "id": "aapl-add",
-      "kind": "add",
+      "id": "aapl-watch",
+      "kind": "watch",
       "ticker": "AAPL",
       "instrument": "stock",
-      "refPrice": 281.74,
-      "addBelow": 281.74,
-      "trimAbove": null,
+      "refPrice": 289.36,
+      "addBelow": 289.36,
+      "trimAbove": 317.4,
       "stop": 260.06,
       "confidence": "med",
-      "headline": "AAPL · 回踩加仓参考位",
-      "reason": "现价 $281.74 已靠近支撑带 $273.75（近 30 日低点）/ 50 日线 $291.86；如回踩 $281.74 附近可分批考虑。止损参考跌破 $260.06。",
+      "headline": "AAPL · 区间观察",
+      "reason": "现价 $289.36 处于支撑 $273.75 与阻力 $317.4 之间；回踩 $289.36 偏积极，逼近 $317.4 偏谨慎。",
       "basis": [
         "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
-        "近 30 日支撑 $273.75 / 阻力 $317.4 / 50 日线 $291.86（真实价格历史）",
-        "现价 $281.74，距支撑 +2.8% · 距阻力 +12.7%"
+        "近 30 日支撑 $273.75 / 阻力 $317.4 / 50 日线 $292.25（真实价格历史）",
+        "现价 $289.36，距支撑 +5.4% · 距阻力 +9.7%"
       ]
     },
     {
-      "id": "nvda-add",
-      "kind": "add",
+      "id": "nvda-watch",
+      "kind": "watch",
       "ticker": "NVDA",
       "instrument": "stock",
-      "refPrice": 194.97,
-      "addBelow": 194.97,
-      "trimAbove": null,
+      "refPrice": 200.09,
+      "addBelow": 200.09,
+      "trimAbove": 232.28,
       "stop": 180.31,
       "confidence": "med",
-      "headline": "NVDA · 回踩加仓参考位",
-      "reason": "现价 $194.97 已靠近支撑带 $189.8（近 30 日低点）/ 50 日线 $210.02；如回踩 $194.97 附近可分批考虑。止损参考跌破 $180.31。",
+      "headline": "NVDA · 区间观察",
+      "reason": "现价 $200.09 处于支撑 $189.8 与阻力 $232.28 之间；回踩 $200.09 偏积极，逼近 $232.28 偏谨慎。",
       "basis": [
         "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
-        "近 30 日支撑 $189.8 / 阻力 $232.28 / 50 日线 $210.02（真实价格历史）",
-        "现价 $194.97，距支撑 +2.7% · 距阻力 +19.1%"
+        "近 30 日支撑 $189.8 / 阻力 $232.28 / 50 日线 $209.99（真实价格历史）",
+        "现价 $200.09，距支撑 +5.1% · 距阻力 +16.1%"
       ]
     }
   ],
