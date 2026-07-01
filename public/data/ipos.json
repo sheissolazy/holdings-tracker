@@ -1,11 +1,23 @@
 [
   {
+    "ticker": "OSPRU",
+    "name": "Osprey Acquisition Corp. III",
+    "date": "2026-07-01",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "BSP",
     "name": "Bending Spoons S.p.A.",
     "date": "2026-07-01",
     "priceRange": [
-      26.0,
-      28.0
+      29.0,
+      29.0
     ],
     "sector": "—",
     "exchange": "NASDAQ Global Select",
@@ -16,23 +28,11 @@
     "name": "ITG, Inc./DE/",
     "date": "2026-07-01",
     "priceRange": [
-      19.0,
-      22.0
+      16.0,
+      16.0
     ],
     "sector": "—",
     "exchange": "NASDAQ Global Select",
-    "status": "expected"
-  },
-  {
-    "ticker": "CUX",
-    "name": "CopperTech Metals Inc.",
-    "date": "2026-07-01",
-    "priceRange": [
-      16.0,
-      18.0
-    ],
-    "sector": "—",
-    "exchange": "NYSE",
     "status": "expected"
   },
   {
@@ -40,8 +40,8 @@
     "name": "Neutron Holdings, Inc.",
     "date": "2026-07-01",
     "priceRange": [
-      24.0,
-      26.0
+      25.0,
+      25.0
     ],
     "sector": "—",
     "exchange": "NASDAQ Global Select",

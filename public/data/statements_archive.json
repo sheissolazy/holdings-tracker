@@ -2,6 +2,16 @@
   {
     "personId": "jensen",
     "type": "statement",
+    "asOf": "2026-07-01",
+    "sentiment": "watch",
+    "excerpt": "Nvidia's CEO Jensen Huang Just Called Marvell Technology The Next Trillion-Dollar Company. But Is It the Better Stock to Buy?",
+    "postUrl": "https://finnhub.io/api/news?id=dd22f8b926fae6c54b8123a239409a6a7ee1af47f0e98aa4b4a184986eeacfb8",
+    "topics": [],
+    "ticker": "MRVL"
+  },
+  {
+    "personId": "jensen",
+    "type": "statement",
     "asOf": "2026-06-15",
     "sentiment": "watch",
     "excerpt": "Jensen Huang Says Marvell Technology Is the Next Trillion-Dollar Company. How Quickly Can It Get There?",

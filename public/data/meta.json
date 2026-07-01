@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-30T22:21:26Z",
+  "generatedAt": "2026-07-01T22:24:07Z",
   "mode": "live",
   "sources": {
     "13f": "SEC EDGAR",
@@ -10,7 +10,8 @@
     "news": "Finnhub + 猫笔刀(X)",
     "ipos": "Finnhub",
     "fundamentals": "Finnhub",
-    "ai": "claude-sonnet-4-5"
+    "ai": "claude-sonnet-4-5",
+    "options": "Cboe 延迟行情（15 分钟）"
   },
   "tickers": [
     "NVDA",
@@ -21,17 +22,17 @@
   ],
   "health": {
     "x": "ok",
-    "checkedAt": "2026-06-30T22:21:26Z",
+    "checkedAt": "2026-07-01T22:24:07Z",
     "maobidao": {
-      "lastPost": "2026-06-30",
+      "lastPost": "2026-07-01",
       "daysSince": 0,
       "stale": false
     }
   },
   "counts": {
     "people": 8,
-    "signals": 79,
-    "news": 41,
+    "signals": 80,
+    "news": 42,
     "ipos": 4,
     "stocks": 5
   },
