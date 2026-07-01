@@ -8,6 +8,7 @@ import Holdings from './pages/Holdings'
 import Analysis from './pages/Analysis'
 import News from './pages/News'
 import IPOs from './pages/IPOs'
+import OptionsIncome from './pages/OptionsIncome'
 import Settings from './pages/Settings'
 import Stub from './pages/Stub'
 
@@ -24,6 +25,7 @@ export const router = createHashRouter([
       { path: 'analysis/:ticker', element: <Analysis /> },
       { path: 'news', element: <News /> },
       { path: 'ipos', element: <IPOs /> },
+      { path: 'options', element: <OptionsIncome /> },
       { path: 'settings', element: <Settings /> },
       { path: '*', element: <Stub title="404" note="页面不存在" /> },
     ],

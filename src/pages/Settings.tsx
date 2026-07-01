@@ -147,6 +147,7 @@ export default function Settings() {
         <p>• 黄仁勋言论：本人无社媒，其影响经新闻传导。由 Finnhub 真实新闻里「归因到他本人 + 命中关注标的」的头条产「公开言论」信号（如 Nvidia CEO 称 Marvell 将成下一个万亿公司），原文链接为证。</p>
         <p>• 公众号：猫笔刀，经 Wechat2RSS 接入（~6–24h 延迟）。</p>
         <p>• 行情 / 汇率：Yahoo Finance（免费）。新闻 / IPO / 基本面：Finnhub。</p>
+        <p>• 期权收租：Cboe 官方延迟行情（15 分钟），希腊值由交易所计算；每日管道快照，非实时盘口。</p>
         <p>• AI 分析：构建时（GitHub Actions）调用 Claude 生成并缓存，非投资建议。</p>
         <p className="pt-1 text-muted/70">无假数据原则：任何源抓不到一律留空，绝不编造。数据由定时管道生成。</p>
       </Card>

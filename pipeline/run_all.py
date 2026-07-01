@@ -14,7 +14,7 @@ from lib import write_json, MOCK, TODAY
 from config import PEOPLE, TICKERS, TICKER_META, PEOPLE_BY_ID
 import fetch_13f, fetch_congress, fetch_social, fetch_prices, fetch_market
 import fetch_news, fetch_ipos, fetch_fundamentals, fetch_fx, fetch_statements
-import fetch_market_hist, fetch_quotes
+import fetch_market_hist, fetch_quotes, fetch_options
 import gen_ai, gen_risk, gen_plan
 
 
@@ -65,6 +65,7 @@ def main():
 
     print("[7/8] IPO…");           ipos = fetch_ipos.run()
     print("[7b] 基本面…");          funds = fetch_fundamentals.run()
+    print("[7d] 期权链…");          write_json("options.json", fetch_options.run())
 
     signals = s13 + sc + ss + sj
     # 「抄作业」轻量行情：所有信号涉及标的的最新价（不止 5 个关注 ticker）。
@@ -136,6 +137,7 @@ def main():
             "social": "X 网页版（cookie 登录）", "prices": "Yahoo Finance",
             "market": "Yahoo Finance", "news": "Finnhub + 猫笔刀(X)",
             "ipos": "Finnhub", "fundamentals": "Finnhub", "ai": gen_ai.MODEL,
+            "options": "Cboe 延迟行情（15 分钟）",
         },
         "tickers": list(TICKERS),
         # 数据源健康：前端据此提示（X 登录 cookie 过期、猫笔刀停更等）

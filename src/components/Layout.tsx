@@ -8,6 +8,7 @@ const NAV = [
   { to: '/', label: '首页', icon: '◫', end: true },
   { to: '/plan', label: '明日计划', icon: '◷' },
   { to: '/news', label: '新闻', icon: '☰' },
+  { to: '/options', label: '收租', icon: '⛁' },
   { to: '/ipos', label: 'IPO', icon: '🚀' },
   { to: '/settings', label: '设置', icon: '⚙' },
 ]
