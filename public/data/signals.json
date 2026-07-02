@@ -321,6 +321,30 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-07-01",
+    "sentiment": "watch",
+    "excerpt": "S&P 500 closes with strongest quarter since 2020: https:// justthenews.com/politics-polic y/finance/sp-500-closes-strongest-quarter-2020",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/116847906594604040",
+    "ticker": "",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-07-01",
+    "sentiment": "watch",
+    "excerpt": "Just as I promised, Oil Prices are plummeting FAST, and Gas Prices at the pump are dropping too, but not as fast as they should be. As we approach America’s 250th Birthday, I am pleased to announce that a VERY smart Retailer, located throug",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/116847413162359390",
+    "ticker": "",
+    "topics": [
+      "能源/油价"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-06-29",
     "sentiment": "watch",
     "excerpt": "The Cook Lawsuit, having to do with her suitability in sitting on the Board of the Federal Reserve, was sent back by the Supreme Court on a strictly procedural basis, we will take appropriate action immediately to make sure that someone who",
@@ -355,25 +379,223 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-06-27",
+    "asOf": "2026-07-02",
     "sentiment": "watch",
-    "excerpt": "RT @ realDonaldTrump Numerous European Countries have been discussing the imminent implementation of a Digital Services Tax on American Companies. Some of these Countries are close to actually doing this. Please let this statement serve to ",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/116821499250670683",
+    "excerpt": "Good analysis of rent control  https://t.co/vu4iReeoH3",
+    "postUrl": "https://x.com/elonmusk/status/2072702987915415887",
     "ticker": "",
-    "topics": [
-      "关税/贸易"
-    ]
+    "topics": []
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "$AXTI signs 3-year wafer deal with $COHR.\n\n\"Coherent will make a prepayment of $22,288,500 to AXT-Tongmei in exchange for a committed supply capacity.\" https://t.co/nTkyJSMo96",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072795186263187831",
+    "ticker": "AXTI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "$AXTI signs 3-year wafer deal with $COHR.\n\n\"Coherent will make a prepayment of $22,288,500 to AXT-Tongmei in exchange for a committed supply capacity.\" https://t.co/nTkyJSMo96",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072795186263187831",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Does anyone else have this annoying seed planted in their mind too?\n\nWhenever I see $MRVL drop, I get reminded of Jensen’s comment “The next $1T company”.",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072781715916169660",
+    "ticker": "MRVL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Just this hour:\n\nBlueCrest Capital Management and its Billionaire Michael Platt crossed the threshold and disclosed a 5.6% stake in $CCXI.\n\nI knew Agility Robotics would be popular… https://t.co/n7bqpmCykd",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072765527764971642",
+    "ticker": "CCXI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Always a fun time seeing semi markets crash from Bloomberg report framing once again…\n\nUBS analyst on $META report: “this is not new news”.\n\nRegardless:\n\n$AEHR down -18.3%\n$AAOI down -17.13%\n$SIVEF down -15.4%\n$SNDK down -14.8%\n$TER down -1",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072760446617280650",
+    "ticker": "MRVL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Always a fun time seeing semi markets crash from Bloomberg report framing once again…\n\nUBS analyst on $META report: “this is not new news”.\n\nRegardless:\n\n$AEHR down -18.3%\n$AAOI down -17.13%\n$SIVEF down -15.4%\n$SNDK down -14.8%\n$TER down -1",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072760446617280650",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Always a fun time seeing semi markets crash from Bloomberg report framing once again…\n\nUBS analyst on $META report: “this is not new news”.\n\nRegardless:\n\n$AEHR down -18.3%\n$AAOI down -17.13%\n$SIVEF down -15.4%\n$SNDK down -14.8%\n$TER down -1",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072760446617280650",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Always a fun time seeing semi markets crash from Bloomberg report framing once again…\n\nUBS analyst on $META report: “this is not new news”.\n\nRegardless:\n\n$AEHR down -18.3%\n$AAOI down -17.13%\n$SIVEF down -15.4%\n$SNDK down -14.8%\n$TER down -1",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072760446617280650",
+    "ticker": "AEHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. \n\nPersonal Rankings:\n\n1. Agility Robotics via $CCXI \n2. $TSLA Optimus ($1T+ company)\n3. Figure at $39B from 2025, likely higher now.\n\nWi",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072741541404406008",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. \n\nPersonal Rankings:\n\n1. Agility Robotics via $CCXI \n2. $TSLA Optimus ($1T+ company)\n3. Figure at $39B from 2025, likely higher now.\n\nWi",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072741541404406008",
+    "ticker": "AMZN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. \n\nPersonal Rankings:\n\n1. Agility Robotics via $CCXI \n2. $TSLA Optimus ($1T+ company)\n3. Figure at $39B from 2025, likely higher now.\n\nWi",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072741541404406008",
+    "ticker": "CCXI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Agility Robotics is literally the #1 humanoid player in the US in terms of commercialization today imo. \n\nPersonal Rankings:\n\n1. Agility Robotics via $CCXI \n2. $TSLA Optimus ($1T+ company)\n3. Figure at $39B from 2025, likely higher now.\n\nWi",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072741541404406008",
+    "ticker": "MELI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA.\n\nQuantum barely has any revenue.\n\n$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029. Lumentum is so",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072726120706007465",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA.\n\nQuantum barely has any revenue.\n\n$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029. Lumentum is so",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072726120706007465",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA.\n\nQuantum barely has any revenue.\n\n$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029. Lumentum is so",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072726120706007465",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Photonics is backed by actual revenue numbers and it's an architectural shift championed by $NVDA.\n\nQuantum barely has any revenue.\n\n$LITE is completely sold out for the next 2 years (per $POET AGM) likely starting into 2029. Lumentum is so",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072726120706007465",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "I just realized Boston Dynamics CEO shared the same sentiment:\n\n“Robotics is next. America’s next 250 years will be built by robots”.\n\nHowever, currently China accounts for 54%+ of all global robotics deployments.\n\n- calls for Internet scal",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072630036600103340",
+    "ticker": "CCXI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "I just realized Boston Dynamics CEO shared the same sentiment:\n\n“Robotics is next. America’s next 250 years will be built by robots”.\n\nHowever, currently China accounts for 54%+ of all global robotics deployments.\n\n- calls for Internet scal",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072630036600103340",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "$IREN founders award themselves $1.14B+ of stock based compensation.\n\nVesting over 4 years timeframe. This is amid their active $6,000,000,000 ATM.\n\nI’m not going to say anything but I think it speaks for itself. https://t.co/IoCHVxVIXs",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072610437817078056",
+    "ticker": "IREN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-07-01",
     "sentiment": "watch",
-    "excerpt": "Walking the Optimus production line in Fremont https://t.co/ABS0tuRibW",
-    "postUrl": "https://x.com/elonmusk/status/2072214077372518657",
-    "ticker": "",
+    "excerpt": "Wells Fargo: $META intent to sell excess compute is a positive signal around underlying demand and unit economics of AI.\n\n“Despite this shift, we don’t expect a pullback in Meta’s capex or that overall compute needs are lower”\n\nRegarding Ne",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072574465763111166",
+    "ticker": "META",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-01",
+    "sentiment": "watch",
+    "excerpt": "I feel like Trump is probably going to like this idea:\n\nOpenAI discussed giving the US gov a 5% stake in its company per FT.\n\nIf this turns into an $INTC type situation, would be interesting if the US government becomes a soft backstop for ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072570681586553112",
+    "ticker": "INTC",
     "topics": []
   },
   {
@@ -575,213 +797,6 @@
     "topics": [
       "AI/芯片"
     ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "Congrats to $SIVE, they have now raised an upside round of 700m SEK from institutional investors.\n\nThe round was “Multiple Times Oversubscribed” and slightly upsided.\n\nValidating immense institutional demand around current market prices.\n\nT",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072152226169331776",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "$SIVE is raising ~$61M (600M SEK) to expand manufacturing capacity for InP lasers and optical amplifiers.\n\nSivers operates as a fab-lite model so this is likely hinting at foundry allocation/scaling for CW DFB laser ramp across Jabil, and t",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072007692684837039",
-    "ticker": "GFS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "$SIVE is raising ~$61M (600M SEK) to expand manufacturing capacity for InP lasers and optical amplifiers.\n\nSivers operates as a fab-lite model so this is likely hinting at foundry allocation/scaling for CW DFB laser ramp across Jabil, and t",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072007692684837039",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "Yep! Agility Robotics is currently my favorite humanoid/robotics position.\n\nThey're set to be listed on NASDAQ via $CCXI as early as September (per Digitimes).\n\nJust for informational purposes: Their V4 humanoid robot is already operating i",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071995924172394695",
-    "ticker": "NVDA",
-    "topics": [
-      "大盘/宏观",
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "Yep! Agility Robotics is currently my favorite humanoid/robotics position.\n\nThey're set to be listed on NASDAQ via $CCXI as early as September (per Digitimes).\n\nJust for informational purposes: Their V4 humanoid robot is already operating i",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071995924172394695",
-    "ticker": "AMZN",
-    "topics": [
-      "大盘/宏观",
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "Yep! Agility Robotics is currently my favorite humanoid/robotics position.\n\nThey're set to be listed on NASDAQ via $CCXI as early as September (per Digitimes).\n\nJust for informational purposes: Their V4 humanoid robot is already operating i",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071995924172394695",
-    "ticker": "CCXI",
-    "topics": [
-      "大盘/宏观",
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "I wonder if humanoids is going to spark a new bottleneck/industry for robot cosmetics.\n\nLike a skin bottleneck. Or Aespa KPOP robot makeover as a service.\n\nSo if $TSLA Optimus makes tens of millions of humanoids:\n\nWho’s going to make them a",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071977219002613768",
-    "ticker": "TSLA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit.\n\nOn $CBRS + OpenAI:\n\n- Needs 1-2K tokens/sec so tries to use Cerebras.\n\n- Claims OpenAI reserved all capacity, making waitlist infinite for everyone els",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071961279380791729",
-    "ticker": "CBRS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "There was a pretty funny anecdotal complaint from the Machine Learning $RDDT subreddit.\n\nOn $CBRS + OpenAI:\n\n- Needs 1-2K tokens/sec so tries to use Cerebras.\n\n- Claims OpenAI reserved all capacity, making waitlist infinite for everyone els",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071961279380791729",
-    "ticker": "RDDT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META.\n\nWhen China entities like 360 go and claim:\n\nThey now have a \"AI cyber nuclear weapon\" that can hack Western companies and governments.\n\n(Zhou claime",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071903552608362500",
-    "ticker": "NVDA",
-    "topics": [
-      "关税/贸易"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META.\n\nWhen China entities like 360 go and claim:\n\nThey now have a \"AI cyber nuclear weapon\" that can hack Western companies and governments.\n\n(Zhou claime",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071903552608362500",
-    "ticker": "ASML",
-    "topics": [
-      "关税/贸易"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META.\n\nWhen China entities like 360 go and claim:\n\nThey now have a \"AI cyber nuclear weapon\" that can hack Western companies and governments.\n\n(Zhou claime",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071903552608362500",
-    "ticker": "GOOGL",
-    "topics": [
-      "关税/贸易"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "Hard to see a world where US AI hyperscaler capex drops dramatically from $GOOGL to $META.\n\nWhen China entities like 360 go and claim:\n\nThey now have a \"AI cyber nuclear weapon\" that can hack Western companies and governments.\n\n(Zhou claime",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071903552608362500",
-    "ticker": "META",
-    "topics": [
-      "关税/贸易"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-29",
-    "sentiment": "watch",
-    "excerpt": "I've reached 900k followers, thank you everyone!\n\nJust some reflection, it's actually a nightmare at higher counts...\n\nWhich is new to me, since I started at almost nothing earlier this year.\n\n1. Threats of safety, which I don't enjoy.\n\n- R",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071763387948859506",
-    "ticker": "ALAB",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-29",
-    "sentiment": "watch",
-    "excerpt": "I've reached 900k followers, thank you everyone!\n\nJust some reflection, it's actually a nightmare at higher counts...\n\nWhich is new to me, since I started at almost nothing earlier this year.\n\n1. Threats of safety, which I don't enjoy.\n\n- R",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071763387948859506",
-    "ticker": "AXTI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-29",
-    "sentiment": "watch",
-    "excerpt": "I've reached 900k followers, thank you everyone!\n\nJust some reflection, it's actually a nightmare at higher counts...\n\nWhich is new to me, since I started at almost nothing earlier this year.\n\n1. Threats of safety, which I don't enjoy.\n\n- R",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071763387948859506",
-    "ticker": "CBRS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-29",
-    "sentiment": "watch",
-    "excerpt": "I've reached 900k followers, thank you everyone!\n\nJust some reflection, it's actually a nightmare at higher counts...\n\nWhich is new to me, since I started at almost nothing earlier this year.\n\n1. Threats of safety, which I don't enjoy.\n\n- R",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071763387948859506",
-    "ticker": "GFS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-29",
-    "sentiment": "watch",
-    "excerpt": "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan per Digitimes/Nikkei. \n\n\"The move is widely viewed as a strategic response to the growing influence of $SPCX Starlink in Japan\" https://t.co",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071545016007467486",
-    "ticker": "ASTS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-29",
-    "sentiment": "watch",
-    "excerpt": "Japan's Rakuten to establish joint venture with $ASTS to build out LEO satellite networks for Japan per Digitimes/Nikkei. \n\n\"The move is widely viewed as a strategic response to the growing influence of $SPCX Starlink in Japan\" https://t.co",
-    "postUrl": "https://x.com/aleabitoreddit/status/2071545016007467486",
-    "ticker": "SPCX",
-    "topics": []
   },
   {
     "personId": "jensen",

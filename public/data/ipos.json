@@ -1,50 +1,38 @@
 [
   {
-    "ticker": "OSPRU",
-    "name": "Osprey Acquisition Corp. III",
-    "date": "2026-07-01",
+    "ticker": "TARX",
+    "name": "Tarsier Pharma Ltd.",
+    "date": "2026-07-09",
+    "priceRange": [
+      8.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
+    "ticker": "VIIU",
+    "name": "Viking Acquisition Corp. II",
+    "date": "2026-07-02",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
+    "ticker": "MIACU",
+    "name": "Meridian3 Industrials Acquisition Corp",
+    "date": "2026-07-02",
     "priceRange": [
       10.0,
       10.0
     ],
     "sector": "—",
     "exchange": "NASDAQ Global",
-    "status": "expected"
-  },
-  {
-    "ticker": "BSP",
-    "name": "Bending Spoons S.p.A.",
-    "date": "2026-07-01",
-    "priceRange": [
-      29.0,
-      29.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global Select",
-    "status": "expected"
-  },
-  {
-    "ticker": "ITG",
-    "name": "ITG, Inc./DE/",
-    "date": "2026-07-01",
-    "priceRange": [
-      16.0,
-      16.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global Select",
-    "status": "expected"
-  },
-  {
-    "ticker": "LIME",
-    "name": "Neutron Holdings, Inc.",
-    "date": "2026-07-01",
-    "priceRange": [
-      25.0,
-      25.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global Select",
     "status": "expected"
   }
 ]
