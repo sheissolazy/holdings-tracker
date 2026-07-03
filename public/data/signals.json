@@ -391,6 +391,88 @@
   {
     "personId": "serenity",
     "type": "social",
+    "asOf": "2026-07-03",
+    "sentiment": "watch",
+    "excerpt": "Just some public market read through from Chinese private VC markets:\n\nInstitutions are pouring funds into physical AI and world models. \n\n1. Large models / LLMs: ~$23.56B\n2. AI infrastructure + technical layer: ~$15.74B\n3. Embodied intelli",
+    "postUrl": "https://x.com/aleabitoreddit/status/2073044119287722024",
+    "ticker": "AEVA",
+    "topics": [
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-03",
+    "sentiment": "watch",
+    "excerpt": "So positive readthrough on the upstream glass substrate supply chain:\n\n- Sumitomo Chemical and Samsung Electro-Mechanics formally establish JV in Korea within the year to handle the glass core substrate business (GlaSSEM).\n\nMain thing was t",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072986020640076052",
+    "ticker": "LPK",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Be SemiAnalysis:\n\n- Post a scathing piece on CPO delays + optical company valuations, causing a crash.\n\nWhich $NVDA, analyst desks, and major optical companies refuted\n\n- Launch an institutional photonics ETF after optical names dropped 40-",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072936659369517341",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "SemiAnalysis on $META “overcapacity” and market reactions with $NBIS and others:\n\n“We believe Meta’s datacenter and compute will accelerate”.\n\n“Capex in 2027 will be shockingly high”.\n\nRecent global crash, especially in the photonics sector",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072922974345445511",
+    "ticker": "META",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "SemiAnalysis on $META “overcapacity” and market reactions with $NBIS and others:\n\n“We believe Meta’s datacenter and compute will accelerate”.\n\n“Capex in 2027 will be shockingly high”.\n\nRecent global crash, especially in the photonics sector",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072922974345445511",
+    "ticker": "NBIS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "LeaderDrive (688017) is now at all time highs after hitting a 20% limit up today. \n\nLooks like robotics sector excitement is palpable…\n\nLargely driven by US and China’s frontier humanoid companies with $CCXI / Agility Robotics\n\nAs well as U",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072913865458004014",
+    "ticker": "CCXI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "Lot of misinformation recently about $META.\n\nRecently major journals have been stating \n\n“AI AGENT DEVELOPMENT OVER THE LAST FOUR MONTHS HASN'T 'ACCELERATED IN THE WAY WE EXPECTED”\n\nTo push some narrative about Meta dropping out of the race",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072906728853881251",
+    "ticker": "META",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-02",
+    "sentiment": "watch",
+    "excerpt": "$META: upcoming AI model “Watermelon”  has caught up to OpenAI’s GPT 5.5.\n\nWang noted it uses an \"order of magnitude\" more compute than its predecessor “Avocado”.\n\nWho said they were out of the AI race again? https://t.co/X2sOgMRTuw",
+    "postUrl": "https://x.com/aleabitoreddit/status/2072902886712094919",
+    "ticker": "META",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
     "asOf": "2026-07-02",
     "sentiment": "watch",
     "excerpt": "$AXTI signs 3-year wafer deal with $COHR.\n\n\"Coherent will make a prepayment of $22,288,500 to AXT-Tongmei in exchange for a committed supply capacity.\" https://t.co/nTkyJSMo96",
@@ -579,224 +661,14 @@
     "topics": []
   },
   {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
+    "personId": "jensen",
+    "type": "statement",
+    "asOf": "2026-07-03",
     "sentiment": "watch",
-    "excerpt": "Wells Fargo: $META intent to sell excess compute is a positive signal around underlying demand and unit economics of AI.\n\n“Despite this shift, we don’t expect a pullback in Meta’s capex or that overall compute needs are lower”\n\nRegarding Ne",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072574465763111166",
-    "ticker": "META",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "I feel like Trump is probably going to like this idea:\n\nOpenAI discussed giving the US gov a 5% stake in its company per FT.\n\nIf this turns into an $INTC type situation, would be interesting if the US government becomes a soft backstop for ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072570681586553112",
-    "ticker": "INTC",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations.\n\nFor the US robotic program doomposters:\n\n1. “75% of parts” - sourced from the USA\n\n2. Just eyeballing the graph, looks like <$30k BOM mass production.\n\nPeople were",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072367082248040621",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations.\n\nFor the US robotic program doomposters:\n\n1. “75% of parts” - sourced from the USA\n\n2. Just eyeballing the graph, looks like <$30k BOM mass production.\n\nPeople were",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072367082248040621",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations.\n\nFor the US robotic program doomposters:\n\n1. “75% of parts” - sourced from the USA\n\n2. Just eyeballing the graph, looks like <$30k BOM mass production.\n\nPeople were",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072367082248040621",
-    "ticker": "CCXI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "Just dropping these 3 slides from Agility Robotics ( $CCXI ) presentations.\n\nFor the US robotic program doomposters:\n\n1. “75% of parts” - sourced from the USA\n\n2. Just eyeballing the graph, looks like <$30k BOM mass production.\n\nPeople were",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072367082248040621",
-    "ticker": "TSLA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "There’s a lot of disinformation going around about $META “cutting capex” because they “overbuilt”.\n\nThis is an “if” they have excess capacity.\n\nAnd it looks like the opposite right now:\n\nHyperscalers like $GOOGL are so compute constrained t",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072314906729455876",
-    "ticker": "CRWV",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "There’s a lot of disinformation going around about $META “cutting capex” because they “overbuilt”.\n\nThis is an “if” they have excess capacity.\n\nAnd it looks like the opposite right now:\n\nHyperscalers like $GOOGL are so compute constrained t",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072314906729455876",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "There’s a lot of disinformation going around about $META “cutting capex” because they “overbuilt”.\n\nThis is an “if” they have excess capacity.\n\nAnd it looks like the opposite right now:\n\nHyperscalers like $GOOGL are so compute constrained t",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072314906729455876",
-    "ticker": "META",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "There’s a lot of disinformation going around about $META “cutting capex” because they “overbuilt”.\n\nThis is an “if” they have excess capacity.\n\nAnd it looks like the opposite right now:\n\nHyperscalers like $GOOGL are so compute constrained t",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072314906729455876",
-    "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "Basically pre-market right now with the Neoclouds like $NBIS in simpler terms.\n\nCostco: sells $5 chickens.\n\nWalmart: mass buys those rotisserie chickens and sells excess as “Walmart Chickens”.\n\nStock Market: sells off Costco.",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072307910223532245",
-    "ticker": "NBIS",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "Finally, $META to build a Cloud Business to sell excess AI compute per Bloomberg.\n\nThought Meta should go up against GCP, Azure, and AWS eventually to increase revenue streams. \n\nMeta up 6.65% premarket. https://t.co/UUolnwtYJY",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072301677211009426",
-    "ticker": "META",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "Just a random thought, leading US humanoid players strangely me of the current LLM dynamics:\n\nAgility ( $CCXI ) kinda feels like Anthropic for robotics.\n\nWith $AMZN and $NVDA heavily backing it, ingrained with $GOOGL Deepmind (like TPUs). A",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072275805330362648",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "Just a random thought, leading US humanoid players strangely me of the current LLM dynamics:\n\nAgility ( $CCXI ) kinda feels like Anthropic for robotics.\n\nWith $AMZN and $NVDA heavily backing it, ingrained with $GOOGL Deepmind (like TPUs). A",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072275805330362648",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "Just a random thought, leading US humanoid players strangely me of the current LLM dynamics:\n\nAgility ( $CCXI ) kinda feels like Anthropic for robotics.\n\nWith $AMZN and $NVDA heavily backing it, ingrained with $GOOGL Deepmind (like TPUs). A",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072275805330362648",
-    "ticker": "CCXI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "Just a random thought, leading US humanoid players strangely me of the current LLM dynamics:\n\nAgility ( $CCXI ) kinda feels like Anthropic for robotics.\n\nWith $AMZN and $NVDA heavily backing it, ingrained with $GOOGL Deepmind (like TPUs). A",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072275805330362648",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "This market feels like an ADHD goldfish with a 5 second attention span, trading popular themes. \n\nIt's like markets only care about physical AI and energy right now?\n\nAnd sold off memory and photonics that are bottlenecked past 2028?",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072242322688057579",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-01",
-    "sentiment": "watch",
-    "excerpt": "$SIVE: \"Intent to complete the [NASDAQ] listing process over the next few quarters\"\n\nThis statement was largely missed by many screeners.\n\nVery material improvement from evaluation, to formal confirmation of timelines. https://t.co/iOceCgJT",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072219315760488615",
-    "ticker": "SIVE",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "Just some of the more interesting news I came across recently:\n\n1. MS: Revised China humanoid shipments to reach 50,000 in 2026 from 14,000u and 28,000u earlier this year.\n\n2. MS: Probe cards and test sockets likely to be priced hike (preci",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072178393878290789",
-    "ticker": "BE",
-    "topics": [
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "Just some of the more interesting news I came across recently:\n\n1. MS: Revised China humanoid shipments to reach 50,000 in 2026 from 14,000u and 28,000u earlier this year.\n\n2. MS: Probe cards and test sockets likely to be priced hike (preci",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072178393878290789",
-    "ticker": "ASX",
-    "topics": [
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-06-30",
-    "sentiment": "watch",
-    "excerpt": "Just some of the more interesting news I came across recently:\n\n1. MS: Revised China humanoid shipments to reach 50,000 in 2026 from 14,000u and 28,000u earlier this year.\n\n2. MS: Probe cards and test sockets likely to be priced hike (preci",
-    "postUrl": "https://x.com/aleabitoreddit/status/2072178393878290789",
-    "ticker": "META",
-    "topics": [
-      "AI/芯片"
-    ]
+    "excerpt": "Jim Cramer Says If Jensen Huang Is Right, Marvell Has “A Lot More Upside”",
+    "postUrl": "https://finnhub.io/api/news?id=d04f1b3ab0420168ca768601f6be090c37e6eb3044622665149649bb0ec83149",
+    "topics": [],
+    "ticker": "MRVL"
   },
   {
     "personId": "jensen",

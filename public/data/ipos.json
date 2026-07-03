@@ -10,29 +10,5 @@
     "sector": "—",
     "exchange": "NYSE",
     "status": "expected"
-  },
-  {
-    "ticker": "VIIU",
-    "name": "Viking Acquisition Corp. II",
-    "date": "2026-07-02",
-    "priceRange": [
-      10.0,
-      10.0
-    ],
-    "sector": "—",
-    "exchange": "NYSE",
-    "status": "expected"
-  },
-  {
-    "ticker": "MIACU",
-    "name": "Meridian3 Industrials Acquisition Corp",
-    "date": "2026-07-02",
-    "priceRange": [
-      10.0,
-      10.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global",
-    "status": "expected"
   }
 ]

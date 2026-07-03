@@ -6,8 +6,8 @@
   "price": 194.83,
   "change5dPct": -0.5,
   "changeYtdPct": 3.6,
-  "marketCap": "$4.78T",
-  "pe": 30.0,
+  "marketCap": "$4.71T",
+  "pe": 29.5,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
@@ -874,131 +874,131 @@
     },
     {
       "t": "2026-07-02",
-      "o": 197.15,
-      "h": 200.05,
+      "o": 197.14,
+      "h": 200.06,
       "l": 192.35,
       "c": 194.83
     }
   ],
   "thesis": {
     "bull": [
-      "AI数据中心资本开支仍处于扩张周期，NVDA在训练与推理加速卡市场保持结构性主导地位，GE Vernova等电力设备商也在受益于AI用电需求侧面印证下游建设热度未减",
-      "光子互联被市场描述为由NVDA主导推动的架构转型，若该技术路线获得验证，将强化NVDA在下一代数据中心平台中的话语权，相关光学供应链公司订单能见度较高可作为佐证",
-      "人形机器人与物理AI被视为潜在第二增长曲线，产业观察者将NVDA列为该领域重要算力与生态支持方，若商业化进度超预期可能带来估值重估空间"
+      "英伟达在AI加速计算平台上的架构优势持续扩大，公司积极推进光子互连（CPO）等下一代互联技术，被部分市场人士视为架构性变革的引领者，相关光模块供应商如Lumentum产能已被预订至2029年附近，显示下游需求依然旺盛",
+      "美国国会议员如佩洛西在2025年底至2026年初多次新建NVDA多头仓位，反映部分政治圈及机构投资者对公司中长期成长逻辑仍保持信心",
+      "主要云计算巨头资本开支预期维持高位，市场分析仍普遍认为AI算力需求的长期趋势未变，短期回调被部分评论解读为「板块轮动」而非「趋势逆转」"
     ],
     "bear": [
-      "近期科技股出现明显回调，Meta表态存在过剩算力容量，叠加彭博社相关报道引发市场对AI资本开支可持续性的担忧，光学与半导体设备股跌幅显著，情绪面承压",
-      "知名做空者Michael Burry被报道对NVDA等AI相关股建立空头仓位，反映部分专业投资者认为当前AI链估值已计入过度乐观预期，存在均值回归风险",
-      "跟踪的国会议员交易记录显示方向并不一致，同一时间窗口内既有新建多头仓位也有减持行为，说明即便是知情交易者对NVDA后市也未形成一致共识"
+      "近期SemiAnalysis等第三方研究机构发布关于CPO延迟及光学元件公司估值过高的批评性报告，引发相关产业链股票大幅下挫，市场对英伟达生态内供应商的执行风险产生担忧",
+      "Meta等大型云厂商的资本开支及AI回报预期变化被部分评论视为「可能刺破AI泡沫」的信号，若下游客户放缓资本开支，将直接影响英伟达订单能见度",
+      "跟踪数据显示佩洛西在建立新多头仓位的同时，也存在同期减持记录，说明即便看多方也在部分获利了结，仓位并非单边持续加仓，市场情绪存在分歧"
     ],
     "watch": [
-      "关注下一轮云计算与社交媒体巨头资本开支指引及电话会措辞变化，尤其是关于算力过剩或需求放缓的表述，将直接影响市场对NVDA订单能见度的预期",
-      "关注光学联接、CPO等供应链公司（如相关光模块与激光器厂商）的产能利用率与新订单情况，作为NVDA新架构渗透速度的先行指标",
-      "关注人形机器人商业化进度（如Agility Robotics等公司量产与成本下降节奏）以及科技股整体估值波动率，观察AI叙事是否从数据中心扩散或收窄"
+      "光子互连及CPO技术的商业化进度、良率与交付节奏，以及相关供应链公司（如Lumentum、POET等）业绩兑现情况",
+      "国会及机构投资者关于NVDA的最新交易披露，观察是否出现更多新建仓位或集中减持信号",
+      "AI资本开支预期的边际变化，尤其是超大规模云厂商季度指引是否下修，以及由此引发的半导体板块估值重定价风险"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA Corporation是全球领先的图形处理器与加速计算平台提供商，业务已从传统游戏显卡扩展至数据中心AI训练与推理芯片、网络互联方案及软件生态，是当前生成式AI基础设施建设中的核心供应商之一。公司近年来营收增长主要由数据中心业务驱动，客户涵盖各大云计算厂商与企业客户。"
+        "body": "英伟达是全球领先的图形处理器与AI加速计算平台提供商，产品覆盖数据中心GPU、网络互联、软件生态（如CUDA）等，是当前生成式AI基础设施建设的核心受益者之一。公司市值长期位居全球前列，其季度业绩与前瞻指引被视为观察全球AI资本开支周期的重要风向标"
       },
       {
-        "heading": "基本面与业务驱动",
-        "body": "数据中心资本开支仍是NVDA营收的核心驱动力，市场持续关注各大云厂商的AI基础设施投入节奏。同时，公司在光子互联等新架构方向被市场视为行业推动者，相关技术若落地将进一步巩固其平台型地位。人形机器人与物理AI被部分行业观察者列为潜在的新增长点，但目前商业化规模仍处于早期阶段，对整体营收贡献有限。"
+        "heading": "业务与技术进展",
+        "body": "公司正推动从传统电互联向光子互连（CPO，共封装光学）等下一代技术演进，被部分产业分析人士视为架构性变革，直接带动上游光模块与光学元件供应商订单可见度提升。同时，机器人与具身智能等新兴应用场景也被市场视为英伟达平台生态的潜在增量方向"
       },
       {
-        "heading": "多空观点分歧",
-        "body": "多头观点认为AI算力需求的长期增长逻辑未变，NVDA在GPU与互联生态上的领先地位短期内难以被撼动，且新兴应用场景（机器人、物理AI）提供额外期权价值。空头观点则担忧AI资本开支可能已阶段性透支，部分大型云厂商已表态存在算力过剩迹象，叠加知名投资者公开做空相关标的，市场对估值的容忍度正在下降。两种观点的分歧核心在于AI需求是持续加速还是进入消化期。"
+        "heading": "财务与估值",
+        "body": "市场评论中既有观点认为在AI板块近期回调后英伟达估值已具备吸引力（如相关报道称「不会长期保持如此便宜」），也有观点提示AI相关标的整体估值已透支较多乐观预期，安全边际有限。整体而言，市场对其估值合理性存在分歧，需结合后续季度业绩与资本开支指引进一步验证"
       },
       {
-        "heading": "跟踪者/机构动向解读",
-        "body": "公开披露的国会议员交易记录显示对NVDA的操作方向并不统一，同一批次披露中既包含新建多头头寸，也包含减持行为，难以从中提炼出明确的一致性信号，投资者不宜单纯依据此类披露做出判断。社交媒体上的行业观察者近期讨论集中在光学联接、人形机器人等主题，对NVDA的提及多为生态角色描述而非直接价格判断，整体基调偏观察而非明确多空表态。"
+        "heading": "多空观点",
+        "body": "多头观点强调英伟达在AI算力生态中的架构主导地位、技术代际领先以及下游云厂商资本开支的持续性；空头观点则聚焦于近期光学供应链估值质疑引发的板块抛售、AI资本回报率是否可持续的疑问，以及部分资金获利了结的迹象。两种观点在近期新闻与跟踪者动向中均有体现，反映当前市场处于多空交织的阶段"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "近期新闻显示半导体与光学板块出现集中抛售，反映投资者对AI硬件链条景气度的担忧有所升温，Meta等下游大客户关于算力容量的表态成为市场关注焦点。同时行业内其他公司（如AMD、博通等）也在AI计算与网络芯片领域形成竞争或互补关系，整体AI硬件生态的资本开支节奏将持续影响NVDA相关标的的市场表现。"
+        "heading": "政策与地缘因素",
+        "body": "近期国际地缘局势（如中东地区紧张局势、伊朗相关事件、NATO峰会等）总体上对全球风险偏好和大宗商品价格产生扰动，但与英伟达核心业务的直接关联度有限，更多是通过整体市场风险情绪间接影响科技股估值中枢。半导体出口管制等政策因素仍是长期需要持续关注的外部变量"
       },
       {
-        "heading": "风险与关注点",
-        "body": "主要风险包括：下游大客户资本开支放缓或结构性调整导致订单能见度下降；市场对AI叙事过热的担忧引发估值波动加大，做空力量增加可能放大短期股价波动；新技术路线（如光子互联）的实际落地节奏存在不确定性；地缘政治与出口管制等宏观因素也可能对全球半导体供应链产生扰动，需持续跟踪相关政策与企业财报电话会表态。"
+        "heading": "风险提示",
+        "body": "主要风险包括：AI资本开支周期出现拐点导致订单不及预期；光子互连等新技术商业化进度不及预期或供应链交付出现瓶颈；行业估值在经历前期大幅上涨后对负面消息更为敏感，容易引发板块性剧烈波动；此外，跟踪者持仓变化仅反映特定主体行为，不构成对未来股价走势的直接指引"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "数据中心GPU与AI加速卡领域的主要竞争对手，被市场用于对比AI硬件份额争夺态势"
+        "note": "数据中心GPU及AI加速芯片领域的主要竞争者之一，与英伟达在高端AI计算市场份额上存在直接竞争关系"
       },
       {
         "ticker": "AVGO",
         "name": "Broadcom Inc",
-        "note": "在定制AI芯片（ASIC）与网络互联领域与NVDA形成竞争或互补关系，是AI基础设施链条的重要参与者"
+        "note": "在定制化AI芯片（ASIC）与高速网络互联领域布局深厚，是云厂商自研芯片趋势下英伟达平台型模式的重要替代路径"
       },
       {
-        "ticker": "TSM",
-        "name": "台湾积体电路制造公司",
-        "note": "NVDA核心晶圆代工合作伙伴，其产能与制程进展直接影响NVDA新产品交付节奏"
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "专注于AI基础设施相关的互联与定制芯片业务，近期市场热议其AI增长能否抵消毛利率压力，与英伟达生态存在部分协作与竞争关系"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-02T22:11:32.080228Z"
+    "generatedAt": "2026-07-03T22:08:40.100276Z"
   },
   "news": [
     {
-      "id": "NVDA-140793924",
-      "title": "AI-fueled leverage is increasing market risk, expert cautions",
+      "id": "NVDA-140802814",
+      "title": "Prediction: This Oil Stock Will Beat the S&P 500 in the Second Half of 2026",
       "source": "Yahoo",
-      "publishedAt": "2026-07-02",
-      "url": "https://finnhub.io/api/news?id=9afb635130c1081c1575be89948602f3c1719fcbd25a5755ec3fbaa6b6f2a446",
+      "publishedAt": "2026-07-03",
+      "url": "https://finnhub.io/api/news?id=8d868ee102df33d2874d34707e17e20b0f6d96f31ac984ce648fabdb55fe1714",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140793925",
-      "title": "An Analyst Called SpaceX’s Valuation ‘Catastrophic.’ Options Traders Are Betting the Other Way",
+      "id": "NVDA-140802816",
+      "title": "All Eyes Are on Social Security's Financial Woes. But Medicare Is in Trouble, Too.",
       "source": "Yahoo",
-      "publishedAt": "2026-07-02",
-      "url": "https://finnhub.io/api/news?id=092e1aafe1090bb956614f1ce50f450370239ec86434998c77e8c847ec240f02",
+      "publishedAt": "2026-07-03",
+      "url": "https://finnhub.io/api/news?id=fe8351a049285ad6ae66b676e94bae5fbf5f1ac45b46903dfd5d906bc3541219",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140793926",
-      "title": "Palantir upgraded to Buy, Rivian lifts delivery outlook, Robinhood's new product",
+      "id": "NVDA-140802815",
+      "title": "3 Things I Wish I Knew About Retirement Savings When I Started Working",
       "source": "Yahoo",
-      "publishedAt": "2026-07-02",
-      "url": "https://finnhub.io/api/news?id=a2937e4664572cd0017ac5558bcd2f10a79f843e2ac0ef41bd213b1d57656dfe",
+      "publishedAt": "2026-07-03",
+      "url": "https://finnhub.io/api/news?id=c85047fa21af7ae2e1c5776051a10966d9e28ea31ec6f5dbf60311b975fe4b36",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140793927",
-      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "id": "NVDA-140802817",
+      "title": "Travelers Is Quietly Trading Near a Record High While Tech Grabs the Headlines. Can the Rally Last?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-02",
-      "url": "https://finnhub.io/api/news?id=6bea8d5ea8e9e81edb279598dd78a3d9121417ec6dffb7605ddacdfe14d13563",
+      "publishedAt": "2026-07-03",
+      "url": "https://finnhub.io/api/news?id=3a892bec681e9b2f1601f634c31dcc469c7f3070a1e84dbae2bdc44094fdc050",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140793928",
-      "title": "Palantir CEO Has a Stark Message for OpenAI and Anthropic",
+      "id": "NVDA-140802818",
+      "title": "Better Artificial Intelligence (AI) Stock: Alphabet vs. Micron Technology (the Winner May Surprise You)",
       "source": "Yahoo",
-      "publishedAt": "2026-07-02",
-      "url": "https://finnhub.io/api/news?id=5786227473c789079426f1a36151633124b3d8555ad40c6486b2a97f81112136",
+      "publishedAt": "2026-07-03",
+      "url": "https://finnhub.io/api/news?id=1e0f26b9deda69b525c629fca5e4b703cf852d0f9f3f12b7123de6168ef9f4af",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140793929",
-      "title": "Plug Power Expects to Reach Profitability by the End of 2028. Here's What Could Go Wrong.",
+      "id": "NVDA-140802819",
+      "title": "Top Invesco Analyst: The AI Trade That “Lifted All Boats” Is Over. Now Profitability Decides Winners As “Capacity Will Catch Up”",
       "source": "Yahoo",
-      "publishedAt": "2026-07-02",
-      "url": "https://finnhub.io/api/news?id=27f5822288b114241056fd11c38863ba1b8ed324ff163ed926a40c6d53517c6c",
+      "publishedAt": "2026-07-03",
+      "url": "https://finnhub.io/api/news?id=0e747eda1ce757109ad3627b6fcac3db5afaf34274031044a18d2038aefc534f",
       "tags": [
         "NVDA"
       ]
