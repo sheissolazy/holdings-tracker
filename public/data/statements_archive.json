@@ -2,6 +2,16 @@
   {
     "personId": "jensen",
     "type": "statement",
+    "asOf": "2026-07-06",
+    "sentiment": "watch",
+    "excerpt": "Jensen Huang Just Named Marvell the Next $1 Trillion Stock. Is the Stock a Buy Following a 129% Surge?",
+    "postUrl": "https://finnhub.io/api/news?id=71cf70687e550869dc2e0102f2724a13f7cbb3ee0a04ee011b44b83f959aeba0",
+    "topics": [],
+    "ticker": "MRVL"
+  },
+  {
+    "personId": "jensen",
+    "type": "statement",
     "asOf": "2026-07-03",
     "sentiment": "watch",
     "excerpt": "Jim Cramer Says If Jensen Huang Is Right, Marvell Has “A Lot More Upside”",
