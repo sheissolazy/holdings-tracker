@@ -1,5 +1,29 @@
 [
   {
+    "ticker": "CSQR",
+    "name": "Csquare, Inc.",
+    "date": "2026-07-16",
+    "priceRange": [
+      23.0,
+      27.0
+    ],
+    "sector": "—",
+    "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
+    "ticker": "SKHY",
+    "name": "SK hynix Inc.",
+    "date": "2026-07-10",
+    "priceRange": [
+      158.14,
+      158.14
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global Select",
+    "status": "expected"
+  },
+  {
     "ticker": "TARX",
     "name": "Tarsier Pharma Ltd.",
     "date": "2026-07-09",
@@ -9,6 +33,18 @@
     ],
     "sector": "—",
     "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
+    "ticker": "BCCQU",
+    "name": "Bleichroeder Acquisition Corp. III",
+    "date": "2026-07-07",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
     "status": "expected"
   }
 ]

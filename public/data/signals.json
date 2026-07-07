@@ -321,6 +321,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "Toyota is moving from Mexico to the United States (Texas!). A really big deal. Tariffs at work! President DONALD J. TRUMP",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/116878664308977613",
+    "ticker": "",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-07-06",
     "sentiment": "watch",
     "excerpt": "Great news! I have just been informed that one of the biggest, best, and smartest Retailers in America, Walmart, will be lowering prices, by a lot, at my Administration's request to celebrate our great Country's 250th birthday. Walmart will",
@@ -330,6 +342,226 @@
       "通胀",
       "能源/油价"
     ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. \n\nFor $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out.\n\nSince t",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074581698604593367",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. \n\nFor $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out.\n\nSince t",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074581698604593367",
+    "ticker": "AEVA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. \n\nFor $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out.\n\nSince t",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074581698604593367",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. \n\nFor $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out.\n\nSince t",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074581698604593367",
+    "ticker": "OUST",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "Just Bloomberg and $META doing damage control after crashing the market with Meta Compute framing:\n\nSpokesperson: \"Meta is still hungry for even more computing power. \n\nIt is still moving forward with plans for expensive new data centers an",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074568161299771394",
+    "ticker": "CRVW",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "Just Bloomberg and $META doing damage control after crashing the market with Meta Compute framing:\n\nSpokesperson: \"Meta is still hungry for even more computing power. \n\nIt is still moving forward with plans for expensive new data centers an",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074568161299771394",
+    "ticker": "META",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "Just Bloomberg and $META doing damage control after crashing the market with Meta Compute framing:\n\nSpokesperson: \"Meta is still hungry for even more computing power. \n\nIt is still moving forward with plans for expensive new data centers an",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074568161299771394",
+    "ticker": "ORCL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "How is the US so far behind?\n\nXinhua: China's output of humanoids are expected to hit 100,000+ this year. \n\nEven Morgan Stanley originally projected 14,000 for 2026... \n\nReally need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to ca",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074548850996707412",
+    "ticker": "CCXI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "How is the US so far behind?\n\nXinhua: China's output of humanoids are expected to hit 100,000+ this year. \n\nEven Morgan Stanley originally projected 14,000 for 2026... \n\nReally need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to ca",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074548850996707412",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "This is the average visual TA bro, takes a 50% 50% coinflip: \n\nIf it goes the other way, they say \"ABC Pattern Invalidated\", should have known... \n\nIf they get the coinflip right, they promote their $40/month chart. \n\n-> People drawing swig",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074533565505876218",
+    "ticker": "AEHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "This is the average visual TA bro, takes a 50% 50% coinflip: \n\nIf it goes the other way, they say \"ABC Pattern Invalidated\", should have known... \n\nIf they get the coinflip right, they promote their $40/month chart. \n\n-> People drawing swig",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074533565505876218",
+    "ticker": "AXTI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "This is the average visual TA bro, takes a 50% 50% coinflip: \n\nIf it goes the other way, they say \"ABC Pattern Invalidated\", should have known... \n\nIf they get the coinflip right, they promote their $40/month chart. \n\n-> People drawing swig",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074533565505876218",
+    "ticker": "SIVE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "Just putting it out there:\n\nIf everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... \n\nWhich are all down -4% to -10%+ today so far. \n\nProbably doesn't have anything to do with individual fundam",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074494514061017508",
+    "ticker": "MRVL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "Just putting it out there:\n\nIf everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... \n\nWhich are all down -4% to -10%+ today so far. \n\nProbably doesn't have anything to do with individual fundam",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074494514061017508",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "Just putting it out there:\n\nIf everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... \n\nWhich are all down -4% to -10%+ today so far. \n\nProbably doesn't have anything to do with individual fundam",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074494514061017508",
+    "ticker": "INTC",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "Just putting it out there:\n\nIf everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... \n\nWhich are all down -4% to -10%+ today so far. \n\nProbably doesn't have anything to do with individual fundam",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074494514061017508",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "Raymond James initiated coverage of $SPCX with “Strong Buy”.\n\nGiving it a $800 PT, valuing SpaceX at a ~$10T valuation.\n\nNo words. Jokes about “institutional” notes for retail write themselves. https://t.co/B0uRojaNJZ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074466925263061100",
+    "ticker": "SPCX",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "Be Samsung at $1.24T:\n\n> market: we don’t think you can keep hiking memory prices\n> proceeds to hikes dram by 20%\n> releases earnings\n> most profitable company in the world beating $NVDA and $AAPL\n> operating profits growing 1803% Y/Y  \n\nma",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074416685843612031",
+    "ticker": "AAPL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "Be Samsung at $1.24T:\n\n> market: we don’t think you can keep hiking memory prices\n> proceeds to hikes dram by 20%\n> releases earnings\n> most profitable company in the world beating $NVDA and $AAPL\n> operating profits growing 1803% Y/Y  \n\nma",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074416685843612031",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "One of the dumbest thematic selloffs I’ve seen to to date off:\n\n- $META compute news that’s not new\n- CPO delay report 1, that got refuted by $NVDA\n- CPO delay report 2, that got refuted by $NVDA\n\nHigh confidence, institutions will end up g",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074405723816304743",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-07",
+    "sentiment": "watch",
+    "excerpt": "One of the dumbest thematic selloffs I’ve seen to to date off:\n\n- $META compute news that’s not new\n- CPO delay report 1, that got refuted by $NVDA\n- CPO delay report 2, that got refuted by $NVDA\n\nHigh confidence, institutions will end up g",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074405723816304743",
+    "ticker": "META",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-06",
+    "sentiment": "watch",
+    "excerpt": "Trump: “You have a couple of guys who went short. Those poor ******* they’re in big trouble.\n\nThey’re being wiped out. The short guys. \n\nI never liked short guys because they’re betting against the country”. https://t.co/6RW2KuzDoW",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074381029146837207",
+    "ticker": "",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -528,262 +760,6 @@
     "topics": [
       "大盘/宏观"
     ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Nomura’s report cites $AXTI and $IQE as the leading players. \n\nThen regarding ASP updates:\n\n- 2in InP substrate price hike 42-76%\n- 3in InP substrates price hike 78%\n- 2in EML Epiwafer price hike 50-75%\n- 3in CW Epiwafer price hike ~40%+\n- ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074007618046345249",
-    "ticker": "AXTI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Nomura’s report cites $AXTI and $IQE as the leading players. \n\nThen regarding ASP updates:\n\n- 2in InP substrate price hike 42-76%\n- 3in InP substrates price hike 78%\n- 2in EML Epiwafer price hike 50-75%\n- 3in CW Epiwafer price hike ~40%+\n- ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074007618046345249",
-    "ticker": "IQE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Nomura’s report cites $AXTI and $IQE as the leading players. \n\nThen regarding ASP updates:\n\n- 2in InP substrate price hike 42-76%\n- 3in InP substrates price hike 78%\n- 2in EML Epiwafer price hike 50-75%\n- 3in CW Epiwafer price hike ~40%+\n- ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074007618046345249",
-    "ticker": "SNDK",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Came across an interesting report from SVRC Research called \"State of Robotics 2026\", published in April. \n\nWhich listed:\n\n1. Figure AI \n2. Agility Robotics $CCXI\n3. Apptronik \n4. $TSLA \n5. Boston Dynamics\n6. Physical Intelligence \n7. 1X Te",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073867745243127973",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Came across an interesting report from SVRC Research called \"State of Robotics 2026\", published in April. \n\nWhich listed:\n\n1. Figure AI \n2. Agility Robotics $CCXI\n3. Apptronik \n4. $TSLA \n5. Boston Dynamics\n6. Physical Intelligence \n7. 1X Te",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073867745243127973",
-    "ticker": "CCXI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Came across an interesting report from SVRC Research called \"State of Robotics 2026\", published in April. \n\nWhich listed:\n\n1. Figure AI \n2. Agility Robotics $CCXI\n3. Apptronik \n4. $TSLA \n5. Boston Dynamics\n6. Physical Intelligence \n7. 1X Te",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073867745243127973",
-    "ticker": "FDX",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Came across an interesting report from SVRC Research called \"State of Robotics 2026\", published in April. \n\nWhich listed:\n\n1. Figure AI \n2. Agility Robotics $CCXI\n3. Apptronik \n4. $TSLA \n5. Boston Dynamics\n6. Physical Intelligence \n7. 1X Te",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073867745243127973",
-    "ticker": "FORD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Just some consolidated updates on memory: \n\n-  $MU leads new 1.5T Yen investment in Hiroshima ~$9.3B. (bullish read through for Disco, Advantest, Resonac, Towa) since capex is localized.\n\n- Morgan Stanley pointed out NAND will continue to b",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073793206408667392",
-    "ticker": "MU",
-    "topics": [
-      "通胀"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Just some consolidated updates on memory: \n\n-  $MU leads new 1.5T Yen investment in Hiroshima ~$9.3B. (bullish read through for Disco, Advantest, Resonac, Towa) since capex is localized.\n\n- Morgan Stanley pointed out NAND will continue to b",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073793206408667392",
-    "ticker": "SIMO",
-    "topics": [
-      "通胀"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Just some consolidated updates on memory: \n\n-  $MU leads new 1.5T Yen investment in Hiroshima ~$9.3B. (bullish read through for Disco, Advantest, Resonac, Towa) since capex is localized.\n\n- Morgan Stanley pointed out NAND will continue to b",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073793206408667392",
-    "ticker": "SNDK",
-    "topics": [
-      "通胀"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Looks like there's a high power cylindrical cell / BBU cell shortage (aka: bottleneck):\n\n- Samsung SDI supplies the cells to Simplo, which assembles them into BBUs for $META to $AMZN. \n- As demand from data centers has increased, production",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073763512216899825",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Looks like there's a high power cylindrical cell / BBU cell shortage (aka: bottleneck):\n\n- Samsung SDI supplies the cells to Simplo, which assembles them into BBUs for $META to $AMZN. \n- As demand from data centers has increased, production",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073763512216899825",
-    "ticker": "BWA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Looks like there's a high power cylindrical cell / BBU cell shortage (aka: bottleneck):\n\n- Samsung SDI supplies the cells to Simplo, which assembles them into BBUs for $META to $AMZN. \n- As demand from data centers has increased, production",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073763512216899825",
-    "ticker": "ENS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Looks like there's a high power cylindrical cell / BBU cell shortage (aka: bottleneck):\n\n- Samsung SDI supplies the cells to Simplo, which assembles them into BBUs for $META to $AMZN. \n- As demand from data centers has increased, production",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073763512216899825",
-    "ticker": "ETN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Leaked Anthropic docs show plans to secure 1.4GW capacity from Australia, amounting to ~$21.6B.\n\nRecently $IREN, $SHAZ, and other Neoclouds have been building sovereign DCs in Australia.\n\nGuess like a lot of things are stating to make more ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073704784398528599",
-    "ticker": "IREN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-05",
-    "sentiment": "watch",
-    "excerpt": "Leaked Anthropic docs show plans to secure 1.4GW capacity from Australia, amounting to ~$21.6B.\n\nRecently $IREN, $SHAZ, and other Neoclouds have been building sovereign DCs in Australia.\n\nGuess like a lot of things are stating to make more ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073704784398528599",
-    "ticker": "SHAZ",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-04",
-    "sentiment": "watch",
-    "excerpt": "Nikkei - $JD E-Commerce Giant CEO warns \"Robots Will Replace 700,000 Delivery Workers\". \n\nPer FT's earlier piece last month: The 700,000 delivery personnel working for the firm will be replaced by robots, highlighting how rapid automation h",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073523410643366242",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-04",
-    "sentiment": "watch",
-    "excerpt": "Nikkei - $JD E-Commerce Giant CEO warns \"Robots Will Replace 700,000 Delivery Workers\". \n\nPer FT's earlier piece last month: The 700,000 delivery personnel working for the firm will be replaced by robots, highlighting how rapid automation h",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073523410643366242",
-    "ticker": "DASH",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-04",
-    "sentiment": "watch",
-    "excerpt": "Nikkei - $JD E-Commerce Giant CEO warns \"Robots Will Replace 700,000 Delivery Workers\". \n\nPer FT's earlier piece last month: The 700,000 delivery personnel working for the firm will be replaced by robots, highlighting how rapid automation h",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073523410643366242",
-    "ticker": "JD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-04",
-    "sentiment": "watch",
-    "excerpt": "Nikkei - $JD E-Commerce Giant CEO warns \"Robots Will Replace 700,000 Delivery Workers\". \n\nPer FT's earlier piece last month: The 700,000 delivery personnel working for the firm will be replaced by robots, highlighting how rapid automation h",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073523410643366242",
-    "ticker": "MELI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-04",
-    "sentiment": "watch",
-    "excerpt": "an apple a day keeps the bottleneck away",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073486870315745406",
-    "ticker": "AAPL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-04",
-    "sentiment": "watch",
-    "excerpt": "UDN Money report \"殺翻光通訊後 SemiAnalysis 惹議 業界揭其劣跡 許多公司慘遭魔手\":\n\n- SemiAnalysis, released a report in June, questioning the timing of the launch of the CPO on the grounds of low yield and delay, which caused the photonics sector to collapse. \n\n-",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073467493998555192",
-    "ticker": "HIMX",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-04",
-    "sentiment": "watch",
-    "excerpt": "UDN Money report \"殺翻光通訊後 SemiAnalysis 惹議 業界揭其劣跡 許多公司慘遭魔手\":\n\n- SemiAnalysis, released a report in June, questioning the timing of the launch of the CPO on the grounds of low yield and delay, which caused the photonics sector to collapse. \n\n-",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073467493998555192",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-04",
-    "sentiment": "watch",
-    "excerpt": "Bruh, when I first tried out ChatGPT around 2023, I thought it LLMs were garbage at coding. \n\n3Y later, Mythos is considered a modern day “nuke” for cybersecurity. \n\nPeople keep saying humanoids can’t do X or Y task today like plumbing or D",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073351980131754203",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-04",
-    "sentiment": "watch",
-    "excerpt": "Bruh, when I first tried out ChatGPT around 2023, I thought it LLMs were garbage at coding. \n\n3Y later, Mythos is considered a modern day “nuke” for cybersecurity. \n\nPeople keep saying humanoids can’t do X or Y task today like plumbing or D",
-    "postUrl": "https://x.com/aleabitoreddit/status/2073351980131754203",
-    "ticker": "CCXI",
-    "topics": []
   },
   {
     "personId": "jensen",
