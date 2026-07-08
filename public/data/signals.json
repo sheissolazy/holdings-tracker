@@ -344,6 +344,116 @@
     ]
   },
   {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-07-08",
+    "sentiment": "watch",
+    "excerpt": "Grok groks engineering. \n\nNext month’s release will be another step-change improvement, as we close the loop on solving real-world engineering problems at Tesla, SpaceX, Neuralink and Boring Company.",
+    "postUrl": "https://x.com/elonmusk/status/2074955486441492823",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-08",
+    "sentiment": "watch",
+    "excerpt": "Wow, looks like Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5.\n\nThat’s much more cost efficient as well… \n\nKinda emulating what Chinese vendors have been doing to compete on pricing + adoption. (Which is an ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074979055410266452",
+    "ticker": "SPCX",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-08",
+    "sentiment": "watch",
+    "excerpt": "$META to build a new $10B DC in Canada to expand AI capacity.\n\nSo much for the media framing of “Meta Compute”as overbuilding and cutting capex. https://t.co/0QgSls0s9o",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074965761345642660",
+    "ticker": "META",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-08",
+    "sentiment": "watch",
+    "excerpt": "Let’s put it this way:\n\nRetail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. \n\nAnd they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes.\n\nI see it as lon",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074951295027568736",
+    "ticker": "AXTI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-08",
+    "sentiment": "watch",
+    "excerpt": "Let’s put it this way:\n\nRetail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. \n\nAnd they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes.\n\nI see it as lon",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074951295027568736",
+    "ticker": "CCXI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-08",
+    "sentiment": "watch",
+    "excerpt": "Let’s put it this way:\n\nRetail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. \n\nAnd they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes.\n\nI see it as lon",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074951295027568736",
+    "ticker": "NBIS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-08",
+    "sentiment": "watch",
+    "excerpt": "Let’s put it this way:\n\nRetail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. \n\nAnd they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes.\n\nI see it as lon",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074951295027568736",
+    "ticker": "SIVE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-08",
+    "sentiment": "watch",
+    "excerpt": "Blue Origin reportedly raising $10B at a $130B valuation per NYT.\n\nSeems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring. \n\nIf SpaceX and Blue Origin is able to set such high valuations. http",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074838397341065516",
+    "ticker": "ASTS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-08",
+    "sentiment": "watch",
+    "excerpt": "Blue Origin reportedly raising $10B at a $130B valuation per NYT.\n\nSeems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring. \n\nIf SpaceX and Blue Origin is able to set such high valuations. http",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074838397341065516",
+    "ticker": "RKLB",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-08",
+    "sentiment": "watch",
+    "excerpt": "Trump: “Spain is a terrible partner in NATO. \n\nThey don't participate. They don't pay. \n\nCut off all trade with Spain”\n\nTbh no clue what’s going on anymore… https://t.co/F1n0m6gcPa",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074799339680202869",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-08",
+    "sentiment": "watch",
+    "excerpt": "Trump: Memorandum of Understanding with Iran “is over”\n\n“It’s a waste of time dealing with them,” Trump said at the NATO summit.\n\nAlways an exciting time with markets. https://t.co/S3UisD75Kc",
+    "postUrl": "https://x.com/aleabitoreddit/status/2074776109074583565",
+    "ticker": "",
+    "topics": []
+  },
+  {
     "personId": "serenity",
     "type": "social",
     "asOf": "2026-07-07",
@@ -652,114 +762,6 @@
     "postUrl": "https://x.com/aleabitoreddit/status/2074170197486039524",
     "ticker": "NVDA",
     "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "I’d like to give a special thank you to Bloomberg’s piece on $META compute.\n\nAs well as the 2 back to back bear posts on CPO delays.\n\nBut I believe thematically photonics, memory, energy, and physical AI will outperform in the long run. htt",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074143469015281953",
-    "ticker": "META",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "Wow, $WULF signs a $19B DC lease with Anthropic today. \n\nProbably a very positive tailwind for the Neocloud/Colo sector. https://t.co/82tncsG3us",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074109998544846954",
-    "ticker": "WULF",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "I find it hard for any bears to defend against this humanoid bull case. https://t.co/aWWPYAvSIa",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074075634851340779",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "Kelper upgrades $XFAB to \"Buy\" citing:\n\n- Melexis demand strengthening “week-after-week, day-after-day” (their lead customer). \n- AI giving XFAB a structural growth leg with SiC, GaN, and photonics offsetting auto cyclicality. \n- Scarce Wes",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074063175293809150",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "Kelper upgrades $XFAB to \"Buy\" citing:\n\n- Melexis demand strengthening “week-after-week, day-after-day” (their lead customer). \n- AI giving XFAB a structural growth leg with SiC, GaN, and photonics offsetting auto cyclicality. \n- Scarce Wes",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074063175293809150",
-    "ticker": "SILEX",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "Kelper upgrades $XFAB to \"Buy\" citing:\n\n- Melexis demand strengthening “week-after-week, day-after-day” (their lead customer). \n- AI giving XFAB a structural growth leg with SiC, GaN, and photonics offsetting auto cyclicality. \n- Scarce Wes",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074063175293809150",
-    "ticker": "XFAB",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "I personally think $SIVE can be the next $LITE. \n\nIn the past few months alone, we've seen:\n\n1. Partnerships with O-Net pushing ELS into mass production\n2. $JBL 1.6T LRO mass production signals with \"relatively dramatic moats\" for pluggable",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074046947434860971",
-    "ticker": "MRVL",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "I personally think $SIVE can be the next $LITE. \n\nIn the past few months alone, we've seen:\n\n1. Partnerships with O-Net pushing ELS into mass production\n2. $JBL 1.6T LRO mass production signals with \"relatively dramatic moats\" for pluggable",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074046947434860971",
-    "ticker": "NVDA",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "I personally think $SIVE can be the next $LITE. \n\nIn the past few months alone, we've seen:\n\n1. Partnerships with O-Net pushing ELS into mass production\n2. $JBL 1.6T LRO mass production signals with \"relatively dramatic moats\" for pluggable",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074046947434860971",
-    "ticker": "AAOI",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "I personally think $SIVE can be the next $LITE. \n\nIn the past few months alone, we've seen:\n\n1. Partnerships with O-Net pushing ELS into mass production\n2. $JBL 1.6T LRO mass production signals with \"relatively dramatic moats\" for pluggable",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074046947434860971",
-    "ticker": "AEVA",
-    "topics": [
-      "大盘/宏观"
-    ]
   },
   {
     "personId": "jensen",

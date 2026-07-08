@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 196.93,
-  "change5dPct": 1.0,
-  "changeYtdPct": 6.4,
-  "marketCap": "$4.73T",
-  "pe": 29.2,
+  "price": 204.12,
+  "change5dPct": 2.0,
+  "changeYtdPct": 10.4,
+  "marketCap": "$4.74T",
+  "pe": 30.1,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-01-08",
-      "o": 189.11,
-      "h": 189.55,
-      "l": 183.71,
-      "c": 185.04
-    },
     {
       "t": "2026-01-09",
       "o": 185.08,
@@ -869,129 +862,141 @@
       "t": "2026-07-07",
       "o": 192.37,
       "h": 198.41,
-      "l": 191.15,
+      "l": 191.14,
       "c": 196.93
+    },
+    {
+      "t": "2026-07-08",
+      "o": 195.13,
+      "h": 205.15,
+      "l": 195.1,
+      "c": 204.12
     }
   ],
   "thesis": {
     "bull": [
-      "数据中心业务仍是核心增长引擎，尽管近期出现CPO（共封装光学）路线图延迟的传闻，但公司已两次公开否认相关报道，强调其路线图保持不变，显示管理层对产能与技术节奏有较强信心",
-      "国会议员配偶账户在2025年末至2026年初出现多次NVDA新建多头仓位的披露，尽管同期也存在部分减持，整体交易记录显示机构与政治关联资金对该股仍保持关注和参与意愿",
-      "部分市场评论认为近期半导体板块的整体抛售更多源于对Meta等超大规模云厂商资本开支节奏、CPO延迟等未经证实传闻的过度反应，而非公司基本面恶化，存在估值修复和反弹的交易性机会"
+      "数据中心与AI芯片需求依旧强劲，尽管市场流传CPO（共封装光学）路线图延迟的传闻，公司已两次公开反驳称路线图完好，显示管理层对产能与技术进度有信心",
+      "近期财经媒体指出，英伟达自本轮AI热潮启动以来估值处于相对低位，在成长性未明显恶化的情况下，估值消化为潜在买盘提供支撑",
+      "在中东局势升级导致大盘及多只芯片股大跌的交易日中，英伟达被财经媒体列为为数不多表现相对抗跌的亮点之一，显示部分资金仍愿意逢低吸纳核心AI资产"
     ],
     "bear": [
-      "台湾、日本、韩国等地相关供应链股票因所谓Kyber延迟报道出现大幅下跌，即便公司随后否认，市场情绪与供应链信任已受到实质性冲击，短期内可能持续压制估值倍数",
-      "三星等存储厂商大幅上调DRAM价格并录得远超NVDA和苹果的利润增速，显示AI硬件产业链上游议价能力正在此消彼长，若关键存储与先进封装成本持续攀升，可能侵蚀NVDA客户端及自身毛利空间",
-      "公司在传感器领域的合作伙伴（如禾赛科技）面临美国国家安全层面的审查，反映出中美科技监管摩擦仍是悬而未决的尾部风险，可能影响特定业务线的供应链与市场准入"
+      "供应链与地缘政治风险上升：其激光雷达合作伙伴禾赛科技（Hesai）因中国背景遭到美国国家安全层面的审查，若审查扩大，可能波及英伟达相关生态合作与出口合规",
+      "竞争格局明显恶化：博通获得苹果300亿美元定制芯片订单、Marvell被视为下一家万亿美元AI公司、三星凭借DRAM提价实现利润同比暴增，定制芯片（ASIC）与存储厂商正在多线蚕食英伟达的叙事独占性",
+      "宏观与地缘政治风险外溢：美国对伊朗采取军事行动、加沙/霍尔木兹海峡局势升级推高油价并引发通胀担忧，市场风险偏好下降，芯片股在近期多个交易日中领跌大盘"
     ],
     "watch": [
-      "持续跟踪CPO与Kyber相关路线图传闻的后续官方澄清或产品发布节奏，判断这是单纯市场情绪错杀还是确有技术延迟迹象",
-      "关注禾赛科技等雷达/激光雷达合作伙伴的监管审查进展，评估其对NVDA自动驾驶与机器人业务生态的潜在外溢影响",
-      "观察存储芯片（如三星DRAM提价）与先进封装产能对NVDA成本结构和毛利率的传导效应，以及是否体现在下一季度财报指引中"
+      "CPO延迟传闻的真实性与后续验证：尽管英伟达已公开否认，但相关传闻已导致台湾、日本、韩国等地供应链股票出现明显下跌，需关注后续财报或供应商披露是否印证或证伪",
+      "国会议员交易信号出现分歧：佩洛西在2026年1月申报中显示对英伟达新建多笔多头头寸，但同时期也有部分仓位被清仓获利了结，反映即使是知情投资者内部对短期走势也未形成一致看法",
+      "地缘政治局势演变：伊朗与美国的军事冲突及霍尔木兹海峡航运风险若持续升级，可能通过油价、通胀预期及避险情绪对包括英伟达在内的成长股估值产生持续压制"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA是全球领先的图形处理器与加速计算平台供应商，业务已从传统游戏显卡扩展至数据中心AI芯片、网络互联、软件与机器人平台等多元领域，数据中心业务目前是公司营收与利润的主要驱动力，客户涵盖各大云计算与超大规模数据中心运营商"
+        "body": "英伟达（NVDA）是全球领先的GPU与AI加速计算平台提供商，产品覆盖数据中心训练与推理芯片、网络互联（如NVLink、InfiniBand）、软件生态（CUDA）以及汽车、机器人等新兴场景。公司当前营收与利润的主要驱动力是超大规模云厂商及企业客户对AI基础设施的持续资本开支，数据中心业务已成为绝对核心收入来源。"
       },
       {
-        "heading": "近期股价与情绪",
-        "body": "近期整个半导体板块出现明显回调，市场对Meta等云厂商资本开支变化、CPO共封装光学技术延迟等传闻反应剧烈，带动费城半导体指数成分股普遍下跌，部分交易者押注NVDA存在超跌反弹机会，但整体情绪偏谨慎观望"
+        "heading": "行业与竞争格局",
+        "body": "AI芯片赛道竞争正在从单一GPU路线转向多元化：博通与Marvell代表的定制ASIC路线获得苹果、Meta等大客户青睐，博通近期获苹果300亿美元美国产芯片订单即为一例；同时存储厂商三星凭借DRAM大幅提价实现创纪录利润，反映AI硬件价值链上下游议价权正在发生再分配。英伟达仍在通用GPU与生态锁定（CUDA）方面占据优势，但客户自研芯片与光通信（CPO）等新技术路线的进展将持续影响其长期市场份额。"
       },
       {
-        "heading": "供应链与技术路线图",
-        "body": "市场围绕NVDA下一代产品（涉及Kyber相关命名的路线图）出现延迟传闻，两次被公司公开否认，但传闻已实质性打击了台湾、日本、韩国相关供应链股票的股价，反映出市场对NVDA执行力的敏感度极高，任何路线图不确定性都可能被放大解读"
+        "heading": "基本面与近期动态",
+        "body": "近期市场围绕英伟达CPO（共封装光学）技术路线是否存在延迟出现两轮传闻，均被公司公开否认，但传闻已实际导致亚洲供应链相关股票（尤其台湾、日本、韩国）出现明显抛售，显示市场对供应链细节高度敏感，即便官方澄清也难以完全消除短期波动。同时有媒体将当前估值与AI热潮启动以来的历史区间对比，认为估值处于相对低位。"
       },
       {
-        "heading": "上游成本与利润分配",
-        "body": "存储芯片厂商三星近期大幅提高DRAM价格并录得远超预期的利润增长，表明AI硬件产业链上游议价能力正在增强，这类成本压力若持续存在，可能挤压包括NVDA在内的下游硬件企业及其客户的整体利润空间，值得关注后续财报中毛利率的变化"
+        "heading": "跟踪者与资金动向",
+        "body": "国会议员交易记录显示，佩洛西在2025年末至2026年初对英伟达进行了多笔新建多头交易，同时期也存在部分仓位的减持获利了结，交易方向并不完全一致，需结合具体申报细节谨慎解读。社交媒体分析人士（如所引用的评论者）则普遍将近期围绕CPO延迟、Meta算力新闻等引发的抛售视为反应过度，并认为供应链股票的下跌可能与英伟达基本面存在错位，但此类观点带有较强主观色彩，不构成事实结论。"
       },
       {
-        "heading": "监管与地缘政治",
-        "body": "NVDA的合作伙伴禾赛科技因与其扩大的雷达传感器合作而受到美国国家安全层面审查，凸显中美科技供应链摩擦仍未消退，此类审查可能影响特定细分业务的合作模式，同时也为西方本土雷达厂商创造相对受益的竞争格局"
+        "heading": "风险因素",
+        "body": "主要风险包括：其一，地缘政治与出口管制风险，涉华供应链伙伴（如禾赛科技）面临美国国家安全审查，可能间接影响英伟达相关业务安排；其二，宏观风险，中东冲突升级推高油价与通胀预期，压制全球风险资产估值，芯片股对流动性与利率环境高度敏感；其三，竞争风险，客户自研芯片（ASIC）与存储成本上升可能挤压英伟达在AI硬件价值链中的份额与定价能力；其四，技术执行风险，若CPO等下一代互联技术路线出现实质性延迟，可能影响未来产品周期节奏。"
       },
       {
-        "heading": "跟踪者与市场信号",
-        "body": "公开披露显示，国会议员配偶账户在过去一年多次建仓和部分减持NVDA，交易节奏与公司财报及行业新闻周期存在一定关联，同时社交媒体上专业投资者对近期抛售的合理性存在明显分歧，一部分认为是过度反应，另一部分则担忧供应链信任受损的持续性影响"
+        "heading": "估值与展望",
+        "body": "市场对英伟达的多空分歧主要集中在两点：一是短期传闻（CPO延迟、竞品订单）是否会演变为趋势性利空，还是如部分评论者所言属于过度反应；二是在定制芯片与存储成本上升的背景下，英伟达能否维持其在AI基础设施中的核心地位。综合公开信息看，公司基本面叙事未发生根本性变化，但外部竞争与宏观地缘政治的不确定性正在上升，估值消化与波动性可能在短期内并存。"
       }
     ],
     "comparables": [
       {
         "ticker": "AVGO",
         "name": "博通",
-        "note": "在定制AI芯片与网络互联领域与NVDA形成部分竞争与合作关系，可作为AI基础设施支出的另一观察维度"
+        "note": "通过定制ASIC芯片业务与苹果达成300亿美元订单，被视为英伟达在专用芯片领域的主要竞争者之一"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "迈威尔科技",
+        "note": "专注定制AI芯片，近期被部分媒体称为下一个万亿美元级AI公司，与英伟达存在潜在市场份额竞争"
       },
       {
         "ticker": "AMD",
         "name": "超威半导体",
-        "note": "GPU与数据中心加速卡领域最直接的竞争对手之一，其产品发布节奏可与NVDA路线图传闻互相印证"
+        "note": "通用GPU与数据中心加速卡领域的传统竞争对手，产品线与英伟达在训练推理市场直接对标"
       },
       {
-        "ticker": "ASML",
-        "name": "阿斯麦",
-        "note": "作为先进制程光刻设备核心供应商，近期股价下跌反映出整个半导体资本开支链条对AI需求预期的敏感度"
+        "ticker": "INTC",
+        "name": "英特尔",
+        "note": "在数据中心与AI加速芯片领域寻求追赶，近期市场关注其临近财报节点的股价表现"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-07T22:13:11.286841Z"
+    "generatedAt": "2026-07-08T22:11:42.823430Z"
   },
   "news": [
     {
-      "id": "NVDA-140834098",
-      "title": "Semtech, Power Integrations, Amkor, Entegris, and Kulicke and Soffa Stocks Trade Down, What You Need To Know",
+      "id": "NVDA-140844346",
+      "title": "Bitmine Immersion Technologies Stock Is Down 46% This Year: Is It Time to Switch to Strategy or Circle Internet Group?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-07",
-      "url": "https://finnhub.io/api/news?id=0411c41b342896910d2b5473c2fda5c71024ddd2da5e7cbaddf15ba9784c3ee7",
+      "publishedAt": "2026-07-08",
+      "url": "https://finnhub.io/api/news?id=1436a2c7e3e166cab1e184856b80b960854feaa6e154f3325cc78c8073d710f2",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140834099",
-      "title": "DeepSeek's chip effort inevitable amid AI race, market expert says",
+      "id": "NVDA-140844347",
+      "title": "Should You Buy Intel Stock Before July 23?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-07",
-      "url": "https://finnhub.io/api/news?id=7d8b4414b12761f5570ffacd12b9b3a3b333370bc74221196e3abcbb5030f921",
+      "publishedAt": "2026-07-08",
+      "url": "https://finnhub.io/api/news?id=68a9e1bd7642bdc432621e59ede5e98e70d8532578d40723c793cd83b9b4ebfe",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140834100",
-      "title": "Jensen Huang’s Worst Nightmare is Becoming a Reality",
+      "id": "NVDA-140844348",
+      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
       "source": "Yahoo",
-      "publishedAt": "2026-07-07",
-      "url": "https://finnhub.io/api/news?id=0391c60fc9b10073fd4da2ca6eae15d99d78e972d173fdb39330f52dabfb6fc3",
+      "publishedAt": "2026-07-08",
+      "url": "https://finnhub.io/api/news?id=b22625090f17156869da489a833d613aa7d6dfb75311dd0baee976ce77a90f6c",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140834101",
-      "title": "FormFactor, Penguin Solutions, Western Digital, Applied Materials, and KLA Corporation Shares Plummet, What You Need To Know",
+      "id": "NVDA-140844349",
+      "title": "Nvidia Stock Slides. DeepSeek Develops Its Own AI Chip",
       "source": "Yahoo",
-      "publishedAt": "2026-07-07",
-      "url": "https://finnhub.io/api/news?id=82b4168b412b3ebbeb69995fb7daefd3f85e88b7b6893233c19887ac6795a0c1",
+      "publishedAt": "2026-07-08",
+      "url": "https://finnhub.io/api/news?id=ef3eedb51ba7c333f4883b02a29f59e375b74d019c5f8060b1cbdca69a5c9b9a",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140834102",
-      "title": "Why ASML Stock Dropped Today",
+      "id": "NVDA-140844350",
+      "title": "The MediaTek Ghost Story Just Dropped the World’s Most Powerful Custom-Silicon Juggernaut Into a 25% Discount Zone",
       "source": "Yahoo",
-      "publishedAt": "2026-07-07",
-      "url": "https://finnhub.io/api/news?id=557f6993551dcf445d31c65ab3c1f96d2a6dcbb7903127982bfc324bca655a60",
+      "publishedAt": "2026-07-08",
+      "url": "https://finnhub.io/api/news?id=6e599170732999198fc4a241637c6412d7c81197b65c0c68ead133ac046a499d",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140834103",
-      "title": "Chip Stocks Just Flashed a Warning Even Wall Street’s Bulls Can’t Ignore",
+      "id": "NVDA-140844351",
+      "title": "Nvidia Stock Is Cheaper Than It's Been Since the AI Boom Began",
       "source": "Yahoo",
-      "publishedAt": "2026-07-07",
-      "url": "https://finnhub.io/api/news?id=8167ee2619a1ca9060d98bc5c7ee9a7ded588bbabf1d5d4157dab3f01d5638f5",
+      "publishedAt": "2026-07-08",
+      "url": "https://finnhub.io/api/news?id=bbb38537c01d8be774edc057405a3b07ac23398707f31c59814c3e28df11e818",
       "tags": [
         "NVDA"
       ]

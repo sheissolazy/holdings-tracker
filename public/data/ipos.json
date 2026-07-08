@@ -1,5 +1,17 @@
 [
   {
+    "ticker": "STDN",
+    "name": "Standard Nuclear, Inc.",
+    "date": "2026-07-16",
+    "priceRange": [
+      18.0,
+      21.0
+    ],
+    "sector": "—",
+    "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
     "ticker": "CSQR",
     "name": "Csquare, Inc.",
     "date": "2026-07-16",
@@ -36,9 +48,9 @@
     "status": "expected"
   },
   {
-    "ticker": "BCCQU",
-    "name": "Bleichroeder Acquisition Corp. III",
-    "date": "2026-07-07",
+    "ticker": "FDMMU",
+    "name": "Freedom Metals Acquisition Corp.",
+    "date": "2026-07-08",
     "priceRange": [
       10.0,
       10.0
