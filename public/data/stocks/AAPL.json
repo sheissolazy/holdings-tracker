@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 313.39,
-  "change5dPct": 8.3,
-  "changeYtdPct": 20.8,
-  "marketCap": "$4.58T",
+  "price": 316.22,
+  "change5dPct": 7.4,
+  "changeYtdPct": 21.5,
+  "marketCap": "$4.60T",
   "pe": 37.7,
   "revenue": "—",
   "revenueYoYPct": 13,
   "prices": [
-    {
-      "t": "2026-01-09",
-      "o": 259.08,
-      "h": 260.21,
-      "l": 256.22,
-      "c": 259.37
-    },
     {
       "t": "2026-01-12",
       "o": 259.16,
@@ -867,136 +860,143 @@
     },
     {
       "t": "2026-07-08",
-      "o": 311.66,
-      "h": 314.81,
+      "o": 311.91,
+      "h": 314.82,
       "l": 307.05,
       "c": 313.39
+    },
+    {
+      "t": "2026-07-09",
+      "o": 310.45,
+      "h": 316.53,
+      "l": 308.16,
+      "c": 316.22
     }
   ],
   "thesis": {
     "bull": [
-      "苹果与博通达成300亿美元美国本土芯片采购协议，显示公司在AI基础设施和供应链自主可控方面加大投入，有望强化长期硬件议价能力与产能保障",
-      "英伟达CEO黄仁勋近期公开表态对苹果AI布局表示看好，带动市场对苹果生成式AI功能落地的预期升温，相关消息带动博通等合作方股价上涨",
-      "佩洛西2025年12月30日申报中出现对AAPL的新建多头仓位，显示部分对产业与政策信息敏感的投资者仍在建仓"
+      "英伟达CEO黄仁勋近期公开表态提振了市场对Apple在AI功能上的预期，带动一批AI相关个股走强，Apple作为消费电子龙头有望受益于AI叙事的外溢效应",
+      "库克关于博通合作的表态被市场解读为利好信号，暗示Apple在自研芯片与供应链布局上持续深化，产业链地位稳固",
+      "近期纳斯达克在芯片股带动下走强，市场风险偏好回暖，资金对科技权重股的配置意愿上升，为Apple提供估值支撑"
     ],
     "bear": [
-      "同一份申报文件中佩洛西对AAPL存在多次减持记录，2025年10月与12月均有清仓性质交易，显示知情投资者内部对苹果后市看法并不一致",
-      "有报道指出苹果在中国市场大幅降价促销iPhone，但销量仍然下滑，反映中国需求疲软及本土品牌竞争压力持续存在",
-      "近期中东地缘政治冲突升级（伊朗局势反复、美国军事行动、原油价格走高）叠加IMF下调全球增长预期，可能通过通胀与利率渠道压制包括苹果在内的大盘科技股估值"
+      "佩洛西在2026年1月23日披露的交易记录显示多笔AAPL减持与清仓操作，且此前2025年10月、2024年底亦有类似减持记录，显示部分知情投资者对短期上行空间趋于谨慎",
+      "三星宣布DRAM价格上调约20%，若存储芯片成本持续走高，可能对iPhone等硬件产品的毛利率形成压力，尤其在竞争激烈的消费电子市场",
+      "科技股波动率处于23年来高位，叠加伊朗地缘冲突与油价不确定性，宏观风险因素可能放大AAPL股价的短期波动"
     ],
     "watch": [
-      "博通300亿美元芯片订单的落地节奏及其对苹果毛利率与自研芯片战略的实际影响",
-      "中国市场iPhone销量与价格策略的后续数据，观察降价促销能否扭转份额下滑趋势",
-      "中东地缘政治风险演变（冲突局势、油价、通胀预期）及其对科技股整体风险偏好的传导"
+      "同一披露文件中出现新建多头与减持指令并存的情况，方向并不一致，需持续关注后续披露以确认真实持仓变化及其信号意义",
+      "存储芯片供应格局变化，尤其三星、SK海力士等厂商提价行为，对Apple硬件成本结构及未来产品定价策略的传导效果",
+      "Apple AI功能落地进展及其对iPhone换机周期的实际拉动作用，以及与博通等合作伙伴具体细节的后续披露"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值领先的消费电子与服务企业，核心业务涵盖iPhone、Mac、iPad、可穿戴设备及不断扩大的服务生态（App Store、云服务、订阅业务等）。公司近年持续加大在人工智能与自研芯片领域的投入，试图通过软硬件一体化维持产品差异化与利润率优势"
+        "body": "Apple Inc.是全球市值最大的消费电子与科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品线及服务生态，近期市场关注点集中在其AI功能路线图、供应链芯片合作以及宏观经济环境对消费电子需求的潜在影响"
       },
       {
-        "heading": "近期动态与产业链变化",
-        "body": "市场消息显示苹果与博通达成约300亿美元的美国本土芯片采购协议，用于支持其AI相关硬件与基础设施建设，该消息带动博通股价上涨，同时也被解读为苹果在自研芯片与供应链本土化上的战略推进。此外，英伟达CEO近期公开表态看好苹果在AI领域的潜力，进一步提振了市场对苹果AI叙事的关注度"
+        "heading": "基本面与业务动态",
+        "body": "近期新闻显示库克就与博通的合作发表评论，被解读为对芯片供应链布局的积极信号，同时英伟达CEO关于AI的表态也带动市场对Apple AI功能的期待升温，但具体产品落地细节仍待观察"
       },
       {
-        "heading": "财务与增长驱动",
-        "body": "苹果的增长驱动仍主要来自iPhone换机周期、服务业务的持续扩张以及潜在的AI功能对产品粘性的提升。不过近期报道显示，在中国这一关键市场，苹果尽管提供了较大幅度的价格折扣，但iPhone销量依然出现下滑，反映出本土品牌竞争加剧与消费者需求结构变化对苹果传统硬件增长模式构成挑战"
+        "heading": "跟踪者与机构动向解读",
+        "body": "公开披露信息显示，佩洛西在2025年末至2026年初的多笔交易记录中，既有新建AAPL多头头寸，也有多次减持与清仓操作，方向并不完全一致，反映出知情投资者对该股态度存在分歧或仓位调整的复杂性，不宜单一解读为看多或看空信号"
       },
       {
-        "heading": "主要风险",
-        "body": "主要风险包括：中国市场份额被本土厂商侵蚀、全球宏观与地缘政治不确定性（中东冲突、油价与通胀压力）对消费电子需求与科技股估值的双重冲击，以及AI领域竞争加剧（英伟达、三星等公司在AI芯片与存储领域的强劲表现）可能削弱市场对苹果AI战略差异化程度的信心"
+        "heading": "行业与宏观环境",
+        "body": "半导体与存储芯片行业出现价格上行趋势，三星大幅上调DRAM价格并公布强劲盈利，反映存储芯片供应偏紧，可能间接影响包括Apple在内的下游硬件厂商成本结构；同时宏观层面伊朗地缘冲突、油价波动及美联储官员言论持续扰动市场情绪，纳斯达克在芯片股带动下总体呈现结构性走强"
       },
       {
-        "heading": "跟踪者与市场情绪解读",
-        "body": "公开披露信息显示，同一申报人（佩洛西）在不同时间点对AAPL既有新建仓位也有多次减持，交易方向并不一致，说明即便是被市场高度关注的知情交易者，对苹果的中短期走势也存在分歧，不宜简单解读为单一方向的强烈信号。社交媒体与高管言论层面的关注点则更多集中在AI叙事与同业竞争格局（如三星存储芯片提价、英伟达表态）上"
+        "heading": "多空分歧",
+        "body": "多头逻辑集中于AI叙事升温、芯片合作深化及科技股整体风险偏好回暖；空头逻辑则聚焦于知情投资者的减持动作、存储芯片成本上行压力以及地缘政治与市场波动率高企带来的不确定性，两方观点在近期公开信息中均有体现，尚无明确一致结论"
       },
       {
-        "heading": "综合展望",
-        "body": "综合来看，苹果在AI基础设施与自研芯片布局上正加快落子，但中国市场需求疲软与宏观地缘政治风险构成不可忽视的逆风。市场对苹果的看法呈现多空交织的格局，短期股价可能更多受宏观风险偏好与AI板块轮动影响，而非单一基本面因素主导，投资者需持续关注中国销售数据与AI产品落地进展"
+        "heading": "风险与关注点",
+        "body": "需持续跟踪佩洛西等公开披露交易者后续动向以判断持仓变化趋势，同时关注存储芯片价格走势对硬件毛利率的实际影响，以及地缘政治局势演变对整体市场风险偏好和消费电子需求的潜在冲击"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "note": "在云计算与企业级AI布局上与苹果的消费级AI战略形成对比，可用于观察AI变现路径的差异"
+        "note": "同为大型科技权重股，AI布局对比常被市场用作参照"
       },
       {
-        "ticker": "GOOGL",
-        "name": "Alphabet Inc.",
-        "note": "同为消费级AI与硬件生态的潜在竞争者，其AI模型与终端整合进展可作为苹果AI战略的参照"
+        "ticker": "NVDA",
+        "name": "NVIDIA Corporation",
+        "note": "AI芯片龙头，其表态与业绩常影响市场对Apple AI功能预期的解读"
       },
       {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "定制芯片与数据中心业务与苹果供应链及博通合作动态存在关联，可观察AI芯片产业链景气度"
+        "ticker": "AVGO",
+        "name": "Broadcom Inc",
+        "note": "近期与Apple芯片合作消息受关注，供应链关联度高"
       },
       {
         "ticker": "005930.KS",
         "name": "Samsung Electronics",
-        "note": "存储芯片提价及自身AI相关业绩表现，对苹果硬件成本与终端竞争格局均有间接影响"
+        "note": "存储芯片提价及消费电子竞争关系密切，成本传导需关注"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-08T22:14:03.362118Z"
+    "generatedAt": "2026-07-09T22:28:09.913228Z"
   },
   "news": [
     {
-      "id": "AAPL-140844400",
-      "title": "Micron, Broadcom, Palantir, Delta, SpaceX, and More Stocks That Explain Today’s Market",
+      "id": "AAPL-140855699",
+      "title": "Broadcom Stock Investors Just Got Incredible News from Apple CEO Tim Cook",
       "source": "Yahoo",
-      "publishedAt": "2026-07-08",
-      "url": "https://finnhub.io/api/news?id=45854c77af1654d14b7b09b1adeb3222998018077d44d2110fb62f8e56cb0224",
+      "publishedAt": "2026-07-09",
+      "url": "https://finnhub.io/api/news?id=33b5b89fecee64047b66935a2da8d2eb2e734e0085c95cb7f4bc798f011d6f23",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140845441",
-      "title": "Update: Dow Logs Worst Day in 4 Weeks Amid Renewed US-Iran Tensions",
+      "id": "AAPL-140855717",
+      "title": "Top Stock Reports for Apple, KLA Corp. & Western Digital",
       "source": "Yahoo",
-      "publishedAt": "2026-07-08",
-      "url": "https://finnhub.io/api/news?id=da22802b2eda457620ba1411857f52798b7b1503ccfea26b9b639dc0951b3b84",
+      "publishedAt": "2026-07-09",
+      "url": "https://finnhub.io/api/news?id=1fb793d9e0f2dde6ed19d182678726222dd039aecb06006da47b4c0a7fee108a",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140845453",
-      "title": "Broadcom stock jumps on Apple AI chip deal, while Nvidia's relative stock price drops",
+      "id": "AAPL-140855718",
+      "title": "'Because I Could' — Mark Cuban Holds the Guinness World Record for the Largest Single E-Commerce Transaction. He Spent $40M in One Email",
       "source": "Yahoo",
-      "publishedAt": "2026-07-08",
-      "url": "https://finnhub.io/api/news?id=f0118fede7a2e20dcf8284193f51ccd70916a15c570d071eb54655a51d5a3d5b",
+      "publishedAt": "2026-07-09",
+      "url": "https://finnhub.io/api/news?id=ce4a3de60c204339fd117ffa6a57887972eb5a8d4dd19c22d93a1685168c0a5c",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140845460",
-      "title": "Apple to spend $30 billion on US-made chips from Broadcom",
+      "id": "AAPL-140855710",
+      "title": "Forget BTS. South Korea’s Biggest Export Might Be Memory.",
       "source": "Yahoo",
-      "publishedAt": "2026-07-08",
-      "url": "https://finnhub.io/api/news?id=d9d0397805658d563e9366150d08dc429c693efe56815a7e6af71173c402f718",
+      "publishedAt": "2026-07-09",
+      "url": "https://finnhub.io/api/news?id=e4f92157ff838b80fb32beab067ad9a66747a7c34ae18426330c2e9cf770b5be",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140844348",
-      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "id": "AAPL-140855720",
+      "title": "The 2 Tech Giants Ready to Resurrect the Magnificent Seven",
       "source": "Yahoo",
-      "publishedAt": "2026-07-08",
-      "url": "https://finnhub.io/api/news?id=b22625090f17156869da489a833d613aa7d6dfb75311dd0baee976ce77a90f6c",
+      "publishedAt": "2026-07-09",
+      "url": "https://finnhub.io/api/news?id=dfca058022ddebdeba5f563fcdcccdcc1ed50b9027f28c09af5ad7aa6933f873",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140845461",
-      "title": "Apple Offered Big iPhone Discounts—Why Sales Still Fell in China",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-08",
-      "url": "https://finnhub.io/api/news?id=b83d36aa94ba73a02cf5668b90eff270adb020cd3df8645617ed604ac2e37946",
+      "id": "AAPL-140854393",
+      "title": "Exploring the top movers within the dow jones index during today's session.",
+      "source": "ChartMill",
+      "publishedAt": "2026-07-09",
+      "url": "https://finnhub.io/api/news?id=8aa183e4eb382bb57aaedb6480970e58abb6cea03f36efc9ca36b62b299e7a58",
       "tags": [
         "AAPL"
       ]

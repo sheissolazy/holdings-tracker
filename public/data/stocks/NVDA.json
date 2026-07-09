@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 204.12,
-  "change5dPct": 2.0,
-  "changeYtdPct": 10.4,
-  "marketCap": "$4.74T",
-  "pe": 30.1,
+  "price": 202.78,
+  "change5dPct": 2.6,
+  "changeYtdPct": 9.6,
+  "marketCap": "$4.94T",
+  "pe": 30.6,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-01-09",
-      "o": 185.08,
-      "h": 186.34,
-      "l": 183.67,
-      "c": 184.86
-    },
     {
       "t": "2026-01-12",
       "o": 183.22,
@@ -867,136 +860,161 @@
     },
     {
       "t": "2026-07-08",
-      "o": 195.13,
-      "h": 205.15,
-      "l": 195.1,
+      "o": 195.18,
+      "h": 205.16,
+      "l": 195.06,
       "c": 204.12
+    },
+    {
+      "t": "2026-07-09",
+      "o": 204.46,
+      "h": 204.58,
+      "l": 198.97,
+      "c": 202.78
     }
   ],
   "thesis": {
     "bull": [
-      "数据中心与AI芯片需求依旧强劲，尽管市场流传CPO（共封装光学）路线图延迟的传闻，公司已两次公开反驳称路线图完好，显示管理层对产能与技术进度有信心",
-      "近期财经媒体指出，英伟达自本轮AI热潮启动以来估值处于相对低位，在成长性未明显恶化的情况下，估值消化为潜在买盘提供支撑",
-      "在中东局势升级导致大盘及多只芯片股大跌的交易日中，英伟达被财经媒体列为为数不多表现相对抗跌的亮点之一，显示部分资金仍愿意逢低吸纳核心AI资产"
+      {
+        "point": "AI算力需求持续强劲，纳斯达克芯片股近期整体大涨，云厂商与大型科技公司资本开支加码，NVDA作为GPU与AI基础设施核心供应商直接受益"
+      },
+      {
+        "point": "市场围绕Meta计算支出与CPO（共封装光学）路线的两次延迟传闻均被NVDA官方反驳，显示公司在关键技术叙事上具备较强话语权和执行力，部分机构认为此轮抛售属于过度反应"
+      },
+      {
+        "point": "国会议员佩洛西在2025年末至2026年初多次新建NVDA多头头寸，显示部分政治圈内部人士对公司中长期前景仍持乐观态度"
+      }
     ],
     "bear": [
-      "供应链与地缘政治风险上升：其激光雷达合作伙伴禾赛科技（Hesai）因中国背景遭到美国国家安全层面的审查，若审查扩大，可能波及英伟达相关生态合作与出口合规",
-      "竞争格局明显恶化：博通获得苹果300亿美元定制芯片订单、Marvell被视为下一家万亿美元AI公司、三星凭借DRAM提价实现利润同比暴增，定制芯片（ASIC）与存储厂商正在多线蚕食英伟达的叙事独占性",
-      "宏观与地缘政治风险外溢：美国对伊朗采取军事行动、加沙/霍尔木兹海峡局势升级推高油价并引发通胀担忧，市场风险偏好下降，芯片股在近期多个交易日中领跌大盘"
+      {
+        "point": "三星等存储厂商大幅上调DRAM报价（单次上调约20%），若HBM等相关存储成本持续走高，可能挤压NVDA显卡产品的毛利空间"
+      },
+      {
+        "point": "Palo Alto Networks首席执行官公开表示AI推理定价需下降约90%才能匹配token成本，反映下游AI应用商业化和变现路径仍不成熟，一旦终端AI服务定价大幅走低，可能延缓客户资本开支扩张的节奏"
+      },
+      {
+        "point": "科技股波动率已升至23年新高，纳斯达克100波动幅度明显超过标普500，叠加佩洛西同期披露中也存在减持记录，显示市场对以NVDA为代表的AI龙头股估值分歧加大，获利了结压力上升"
+      }
     ],
     "watch": [
-      "CPO延迟传闻的真实性与后续验证：尽管英伟达已公开否认，但相关传闻已导致台湾、日本、韩国等地供应链股票出现明显下跌，需关注后续财报或供应商披露是否印证或证伪",
-      "国会议员交易信号出现分歧：佩洛西在2026年1月申报中显示对英伟达新建多笔多头头寸，但同时期也有部分仓位被清仓获利了结，反映即使是知情投资者内部对短期走势也未形成一致看法",
-      "地缘政治局势演变：伊朗与美国的军事冲突及霍尔木兹海峡航运风险若持续升级，可能通过油价、通胀预期及避险情绪对包括英伟达在内的成长股估值产生持续压制"
+      {
+        "point": "中国激光雷达厂商禾赛科技（Hesai）与NVDA合作扩大引发美国国家安全审查，需持续关注该事项是否升级为出口管制或其他供应链限制措施"
+      },
+      {
+        "point": "伊朗与美国军事冲突持续发酵，需关注中东地缘局势升级对能源价格及全球风险偏好的传导，进而通过宏观流动性渠道影响NVDA等成长股估值"
+      },
+      {
+        "point": "市场围绕Meta资本开支及CPO技术路线的传闻反复出现且被NVDA多次澄清，需持续跟踪相关传闻真实性及其对光模块、互联等供应链个股与NVDA自身产品路线图的实际影响"
+      }
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达（NVDA）是全球领先的GPU与AI加速计算平台提供商，产品覆盖数据中心训练与推理芯片、网络互联（如NVLink、InfiniBand）、软件生态（CUDA）以及汽车、机器人等新兴场景。公司当前营收与利润的主要驱动力是超大规模云厂商及企业客户对AI基础设施的持续资本开支，数据中心业务已成为绝对核心收入来源。"
+        "body": "NVIDIA（NVDA）是全球领先的GPU与AI计算平台供应商，产品覆盖数据中心加速卡、网络互联、软件生态（CUDA）及面向汽车、机器人等领域的边缘计算方案。当前公司业绩与市场关注焦点高度集中于数据中心AI算力需求，是本轮AI资本开支周期中最核心的受益标的之一，同时也因估值高企而成为市场情绪波动的敏感风向标"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "AI芯片赛道竞争正在从单一GPU路线转向多元化：博通与Marvell代表的定制ASIC路线获得苹果、Meta等大客户青睐，博通近期获苹果300亿美元美国产芯片订单即为一例；同时存储厂商三星凭借DRAM大幅提价实现创纪录利润，反映AI硬件价值链上下游议价权正在发生再分配。英伟达仍在通用GPU与生态锁定（CUDA）方面占据优势，但客户自研芯片与光通信（CPO）等新技术路线的进展将持续影响其长期市场份额。"
+        "heading": "行业与需求端",
+        "body": "近期纳斯达克芯片股整体走强，市场对云厂商与大型科技公司持续加码AI基础设施投资保持信心，Micron、Sandisk等存储和芯片相关个股同步上涨，反映AI供应链景气度仍处于扩张阶段。但围绕Meta计算支出节奏、CPO互联技术路线是否延期等传闻反复出现，虽被NVDA官方澄清，仍显示市场对下游资本开支可持续性存在疑虑"
       },
       {
-        "heading": "基本面与近期动态",
-        "body": "近期市场围绕英伟达CPO（共封装光学）技术路线是否存在延迟出现两轮传闻，均被公司公开否认，但传闻已实际导致亚洲供应链相关股票（尤其台湾、日本、韩国）出现明显抛售，显示市场对供应链细节高度敏感，即便官方澄清也难以完全消除短期波动。同时有媒体将当前估值与AI热潮启动以来的历史区间对比，认为估值处于相对低位。"
+        "heading": "供应链与成本结构",
+        "body": "三星等存储厂商大幅上调DRAM报价，带动Samsung单季营业利润同比大增，反映存储环节议价能力增强。这一趋势若延续，可能推高NVDA产品中HBM等关键物料的采购成本，对毛利率形成一定压力，是需要持续跟踪的成本端变量"
       },
       {
-        "heading": "跟踪者与资金动向",
-        "body": "国会议员交易记录显示，佩洛西在2025年末至2026年初对英伟达进行了多笔新建多头交易，同时期也存在部分仓位的减持获利了结，交易方向并不完全一致，需结合具体申报细节谨慎解读。社交媒体分析人士（如所引用的评论者）则普遍将近期围绕CPO延迟、Meta算力新闻等引发的抛售视为反应过度，并认为供应链股票的下跌可能与英伟达基本面存在错位，但此类观点带有较强主观色彩，不构成事实结论。"
+        "heading": "竞争与技术路线",
+        "body": "在互联与光通信技术路线上，市场围绕CPO（共封装光学）是否延期出现多次传闻，均被NVDA反驳，显示公司在这一关键技术方向上的自主性和话语权较强。同时，Broadcom、Marvell、MACOM等光模块与互联相关厂商股价近期同步走高，表明AI算力扩张对整个互联生态均有拉动，NVDA与产业链上下游厂商既存在合作也存在一定的技术路线竞争"
       },
       {
-        "heading": "风险因素",
-        "body": "主要风险包括：其一，地缘政治与出口管制风险，涉华供应链伙伴（如禾赛科技）面临美国国家安全审查，可能间接影响英伟达相关业务安排；其二，宏观风险，中东冲突升级推高油价与通胀预期，压制全球风险资产估值，芯片股对流动性与利率环境高度敏感；其三，竞争风险，客户自研芯片（ASIC）与存储成本上升可能挤压英伟达在AI硬件价值链中的份额与定价能力；其四，技术执行风险，若CPO等下一代互联技术路线出现实质性延迟，可能影响未来产品周期节奏。"
+        "heading": "地缘政治与监管风险",
+        "body": "一方面，中国激光雷达厂商禾赛与NVDA合作扩大引发美国国家安全审查，可能预示对华相关技术合作面临更严格监管；另一方面，伊朗与美国军事冲突持续升级，中东地缘局势的不确定性可能通过能源价格和整体风险偏好渠道，间接影响包括NVDA在内的成长股估值中枢"
       },
       {
-        "heading": "估值与展望",
-        "body": "市场对英伟达的多空分歧主要集中在两点：一是短期传闻（CPO延迟、竞品订单）是否会演变为趋势性利空，还是如部分评论者所言属于过度反应；二是在定制芯片与存储成本上升的背景下，英伟达能否维持其在AI基础设施中的核心地位。综合公开信息看，公司基本面叙事未发生根本性变化，但外部竞争与宏观地缘政治的不确定性正在上升，估值消化与波动性可能在短期内并存。"
+        "heading": "市场情绪与资金流向",
+        "body": "科技股波动率已达23年新高，纳斯达克100指数波动幅度明显超过标普500，显示市场对AI龙头股的定价分歧正在扩大。与此同时，ETF资金流入在上半年创下历史新高，反映被动配置资金仍在持续流入科技与AI主题，但个人投资者与部分机构在具体择时和仓位上的观点出现分化，佩洛西同期披露中新建与减持并存即为一例"
       }
     ],
     "comparables": [
       {
-        "ticker": "AVGO",
-        "name": "博通",
-        "note": "通过定制ASIC芯片业务与苹果达成300亿美元订单，被视为英伟达在专用芯片领域的主要竞争者之一"
-      },
-      {
-        "ticker": "MRVL",
-        "name": "迈威尔科技",
-        "note": "专注定制AI芯片，近期被部分媒体称为下一个万亿美元级AI公司，与英伟达存在潜在市场份额竞争"
-      },
-      {
         "ticker": "AMD",
-        "name": "超威半导体",
-        "note": "通用GPU与数据中心加速卡领域的传统竞争对手，产品线与英伟达在训练推理市场直接对标"
+        "name": "Advanced Micro Devices",
+        "note": "数据中心GPU领域最主要的直接竞争对手，产品与定价策略变化会直接影响市场对NVDA份额与议价能力的预期"
       },
       {
-        "ticker": "INTC",
-        "name": "英特尔",
-        "note": "在数据中心与AI加速芯片领域寻求追赶，近期市场关注其临近财报节点的股价表现"
+        "ticker": "AVGO",
+        "name": "Broadcom",
+        "note": "在定制AI芯片（ASIC）与网络互联领域与NVDA既竞争又合作，近期在光通信与互联方案上的进展被市场视为NVDA CPO路线的重要参照"
+      },
+      {
+        "ticker": "TSM",
+        "name": "台积电",
+        "note": "NVDA先进制程芯片的核心代工厂，其产能与定价直接影响NVDA的供应链成本与出货节奏"
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology",
+        "note": "HBM等存储产品的主要供应商之一，存储价格走势直接影响NVDA的物料成本与毛利率"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-08T22:11:42.823430Z"
+    "generatedAt": "2026-07-09T22:26:18.172671Z"
   },
   "news": [
     {
-      "id": "NVDA-140844346",
-      "title": "Bitmine Immersion Technologies Stock Is Down 46% This Year: Is It Time to Switch to Strategy or Circle Internet Group?",
+      "id": "NVDA-140855699",
+      "title": "Broadcom Stock Investors Just Got Incredible News from Apple CEO Tim Cook",
       "source": "Yahoo",
-      "publishedAt": "2026-07-08",
-      "url": "https://finnhub.io/api/news?id=1436a2c7e3e166cab1e184856b80b960854feaa6e154f3325cc78c8073d710f2",
+      "publishedAt": "2026-07-09",
+      "url": "https://finnhub.io/api/news?id=33b5b89fecee64047b66935a2da8d2eb2e734e0085c95cb7f4bc798f011d6f23",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140844347",
-      "title": "Should You Buy Intel Stock Before July 23?",
+      "id": "NVDA-140855700",
+      "title": "Dow Jones Futures: Micron, Sandisk Jump As Nasdaq Tops Key Level; Delta, Taiwan Semi, SK Hynix Due",
       "source": "Yahoo",
-      "publishedAt": "2026-07-08",
-      "url": "https://finnhub.io/api/news?id=68a9e1bd7642bdc432621e59ede5e98e70d8532578d40723c793cd83b9b4ebfe",
+      "publishedAt": "2026-07-09",
+      "url": "https://finnhub.io/api/news?id=767e61f5555b96ab1e3a5ec38f5be7b82be89aa70feba30bd1f201eef2c9a1bb",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140844348",
-      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "id": "NVDA-140855701",
+      "title": "Want $1,000 in Annual Passive Income? Invest This Much in This Ultra-High-Yield Energy Stock.",
       "source": "Yahoo",
-      "publishedAt": "2026-07-08",
-      "url": "https://finnhub.io/api/news?id=b22625090f17156869da489a833d613aa7d6dfb75311dd0baee976ce77a90f6c",
+      "publishedAt": "2026-07-09",
+      "url": "https://finnhub.io/api/news?id=8404ff82ac52edc3756012837187f307db53ec6d3079c5037b807b4921c861b2",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140844349",
-      "title": "Nvidia Stock Slides. DeepSeek Develops Its Own AI Chip",
+      "id": "NVDA-140855702",
+      "title": "This Small-Cap Growth ETF Is Beating the \"Magnificent Seven\" in 2026. Should You Buy It?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-08",
-      "url": "https://finnhub.io/api/news?id=ef3eedb51ba7c333f4883b02a29f59e375b74d019c5f8060b1cbdca69a5c9b9a",
+      "publishedAt": "2026-07-09",
+      "url": "https://finnhub.io/api/news?id=e9376d4897ad7ad4c93e93d42eb311ce1c7edea32683cb642d3fd1c1ed2c9ff9",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140844350",
-      "title": "The MediaTek Ghost Story Just Dropped the World’s Most Powerful Custom-Silicon Juggernaut Into a 25% Discount Zone",
+      "id": "NVDA-140855703",
+      "title": "Are AI Agents SoFi Stock's Next Big Catalyst?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-08",
-      "url": "https://finnhub.io/api/news?id=6e599170732999198fc4a241637c6412d7c81197b65c0c68ead133ac046a499d",
+      "publishedAt": "2026-07-09",
+      "url": "https://finnhub.io/api/news?id=ac2228cadf9e8b459d4caf0a7e4babe106dc0eea1bf79b095ddb9d3762358b03",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140844351",
-      "title": "Nvidia Stock Is Cheaper Than It's Been Since the AI Boom Began",
+      "id": "NVDA-140855704",
+      "title": "Entegris, onsemi, and Power Integrations Shares Are Soaring, What You Need To Know",
       "source": "Yahoo",
-      "publishedAt": "2026-07-08",
-      "url": "https://finnhub.io/api/news?id=bbb38537c01d8be774edc057405a3b07ac23398707f31c59814c3e28df11e818",
+      "publishedAt": "2026-07-09",
+      "url": "https://finnhub.io/api/news?id=98b0412a1d815bf8957f5223067f32918babb27b8b63833b6ab657dbf15b3544",
       "tags": [
         "NVDA"
       ]

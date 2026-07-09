@@ -346,11 +346,139 @@
   {
     "personId": "musk",
     "type": "social",
-    "asOf": "2026-07-08",
+    "asOf": "2026-07-09",
     "sentiment": "watch",
-    "excerpt": "Grok groks engineering. \n\nNext month’s release will be another step-change improvement, as we close the loop on solving real-world engineering problems at Tesla, SpaceX, Neuralink and Boring Company.",
-    "postUrl": "https://x.com/elonmusk/status/2074955486441492823",
+    "excerpt": "Consistent with the simulation hypothesis. \n\nLike a video game, objects are randomly generated, with positional certainty only when  observed.  https://t.co/8SUIqjJ8oC",
+    "postUrl": "https://x.com/elonmusk/status/2075259819154341957",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-07-09",
+    "sentiment": "watch",
+    "excerpt": "California has legalized election fraud https://t.co/pt8pmdfxnl",
+    "postUrl": "https://x.com/elonmusk/status/2075255448714805440",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-07-09",
+    "sentiment": "watch",
+    "excerpt": "Interesting comparison of Grok & Opus\n\n1M+ context window coming soon https://t.co/GJ5oBsk3xS",
+    "postUrl": "https://x.com/elonmusk/status/2075254074224623692",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-07-09",
+    "sentiment": "watch",
+    "excerpt": "Good review of Grok 4.5 https://t.co/Y40sMIgeHu",
+    "postUrl": "https://x.com/elonmusk/status/2075130137817825315",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-09",
+    "sentiment": "watch",
+    "excerpt": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\"\n\nElon's comment: \"For now\"\n\nMeanwhile, 1X today posts a video of the most advanced humanoid hand.\n\nLooks like the inflection point for American hum",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075302956581449892",
+    "ticker": "AMZN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-09",
+    "sentiment": "watch",
+    "excerpt": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\"\n\nElon's comment: \"For now\"\n\nMeanwhile, 1X today posts a video of the most advanced humanoid hand.\n\nLooks like the inflection point for American hum",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075302956581449892",
+    "ticker": "CCXI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-09",
+    "sentiment": "watch",
+    "excerpt": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\"\n\nElon's comment: \"For now\"\n\nMeanwhile, 1X today posts a video of the most advanced humanoid hand.\n\nLooks like the inflection point for American hum",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075302956581449892",
     "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-09",
+    "sentiment": "watch",
+    "excerpt": "Three new $SIVE insider purchases today. \n\nMost notably: $SIVEF CEO Vikram bought 1,000,000 SEK worth of shares on the open market today. \n\nThis is following the massive drop on Sivers stock following 2 misleading CPO delay reports, Meta Co",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075289915697553697",
+    "ticker": "GFS",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-09",
+    "sentiment": "watch",
+    "excerpt": "Three new $SIVE insider purchases today. \n\nMost notably: $SIVEF CEO Vikram bought 1,000,000 SEK worth of shares on the open market today. \n\nThis is following the massive drop on Sivers stock following 2 misleading CPO delay reports, Meta Co",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075289915697553697",
+    "ticker": "JBL",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-09",
+    "sentiment": "watch",
+    "excerpt": "Three new $SIVE insider purchases today. \n\nMost notably: $SIVEF CEO Vikram bought 1,000,000 SEK worth of shares on the open market today. \n\nThis is following the massive drop on Sivers stock following 2 misleading CPO delay reports, Meta Co",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075289915697553697",
+    "ticker": "SIVE",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-09",
+    "sentiment": "watch",
+    "excerpt": "Three new $SIVE insider purchases today. \n\nMost notably: $SIVEF CEO Vikram bought 1,000,000 SEK worth of shares on the open market today. \n\nThis is following the massive drop on Sivers stock following 2 misleading CPO delay reports, Meta Co",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075289915697553697",
+    "ticker": "SIVEF",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-09",
+    "sentiment": "watch",
+    "excerpt": "Nothing like an internal $META memo getting published.\n\nShowing AI ramping as usual:\n\n- LTAs signed with Samsung and $SNDK for memory\n- LTAs signed with Sumitomo Electric for fiber optics\n- Expected to deploy 7GW compute infra this year, an",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075199849507762279",
+    "ticker": "META",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-09",
+    "sentiment": "watch",
+    "excerpt": "Nothing like an internal $META memo getting published.\n\nShowing AI ramping as usual:\n\n- LTAs signed with Samsung and $SNDK for memory\n- LTAs signed with Sumitomo Electric for fiber optics\n- Expected to deploy 7GW compute infra this year, an",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075199849507762279",
+    "ticker": "SNDK",
     "topics": []
   },
   {
@@ -661,106 +789,6 @@
     "excerpt": "One of the dumbest thematic selloffs I’ve seen to to date off:\n\n- $META compute news that’s not new\n- CPO delay report 1, that got refuted by $NVDA\n- CPO delay report 2, that got refuted by $NVDA\n\nHigh confidence, institutions will end up g",
     "postUrl": "https://x.com/aleabitoreddit/status/2074405723816304743",
     "ticker": "META",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "Trump: “You have a couple of guys who went short. Those poor ******* they’re in big trouble.\n\nThey’re being wiped out. The short guys. \n\nI never liked short guys because they’re betting against the country”. https://t.co/6RW2KuzDoW",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074381029146837207",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "Was a sad few months for $RDDT. But glad it's finally back above $200. \n\nReddit was doing:\n- $663M revenue w/ 91.5% gross margins\n- $204M GAAP net income\n- 45%+ fwd Y/Y growth after 69%+ growth.\n- Net profit is ~30.7% of revenue\n\nFelt very ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074240512593481955",
-    "ticker": "HIMS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "Was a sad few months for $RDDT. But glad it's finally back above $200. \n\nReddit was doing:\n- $663M revenue w/ 91.5% gross margins\n- $204M GAAP net income\n- 45%+ fwd Y/Y growth after 69%+ growth.\n- Net profit is ~30.7% of revenue\n\nFelt very ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074240512593481955",
-    "ticker": "HOOD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "Was a sad few months for $RDDT. But glad it's finally back above $200. \n\nReddit was doing:\n- $663M revenue w/ 91.5% gross margins\n- $204M GAAP net income\n- 45%+ fwd Y/Y growth after 69%+ growth.\n- Net profit is ~30.7% of revenue\n\nFelt very ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074240512593481955",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "Was a sad few months for $RDDT. But glad it's finally back above $200. \n\nReddit was doing:\n- $663M revenue w/ 91.5% gross margins\n- $204M GAAP net income\n- 45%+ fwd Y/Y growth after 69%+ growth.\n- Net profit is ~30.7% of revenue\n\nFelt very ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074240512593481955",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "It’s interesting to witness psychology around valuation anchoring + scarcity.\n\nRetail, for example, are buying Figure, last valued at ~$39B through CEFs…\n\nAt $158B, since it’s private, round 4x valuations. \n\nThen Agility Robotics $CCXI, whi",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074214669808717906",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "It’s interesting to witness psychology around valuation anchoring + scarcity.\n\nRetail, for example, are buying Figure, last valued at ~$39B through CEFs…\n\nAt $158B, since it’s private, round 4x valuations. \n\nThen Agility Robotics $CCXI, whi",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074214669808717906",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "It’s interesting to witness psychology around valuation anchoring + scarcity.\n\nRetail, for example, are buying Figure, last valued at ~$39B through CEFs…\n\nAt $158B, since it’s private, round 4x valuations. \n\nThen Agility Robotics $CCXI, whi",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074214669808717906",
-    "ticker": "CCXI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "It’s interesting to witness psychology around valuation anchoring + scarcity.\n\nRetail, for example, are buying Figure, last valued at ~$39B through CEFs…\n\nAt $158B, since it’s private, round 4x valuations. \n\nThen Agility Robotics $CCXI, whi",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074214669808717906",
-    "ticker": "SPCX",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-06",
-    "sentiment": "watch",
-    "excerpt": "$NVDA refuting recent Kyber delay claims:\n\n“Our roadmap is intact”.\n\nlol, damage has already been done with stocks in many markets (esp. in Taiwan/Japan/Soutj Korea) crashing after the “report” https://t.co/ijHggRm1fu",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074170197486039524",
-    "ticker": "NVDA",
     "topics": []
   },
   {
