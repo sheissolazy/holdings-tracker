@@ -321,6 +321,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "I will not sign the Housing Bill, which has been fully approved by Congress and sent to the White House, in PROTEST over the fact that the United States Senate is not capable of passing THE SAVE AMERICA ACT, which is polling at 97% with the",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/116895869064122989",
+    "ticker": "",
+    "topics": [
+      "财政/税收"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-07-07",
     "sentiment": "watch",
     "excerpt": "Toyota is moving from Mexico to the United States (Texas!). A really big deal. Tariffs at work! President DONALD J. TRUMP",
@@ -346,41 +358,193 @@
   {
     "personId": "musk",
     "type": "social",
-    "asOf": "2026-07-09",
+    "asOf": "2026-07-10",
     "sentiment": "watch",
-    "excerpt": "Consistent with the simulation hypothesis. \n\nLike a video game, objects are randomly generated, with positional certainty only when  observed.  https://t.co/8SUIqjJ8oC",
-    "postUrl": "https://x.com/elonmusk/status/2075259819154341957",
+    "excerpt": "Grok Imagine https://t.co/bKYXdNnAvT",
+    "postUrl": "https://x.com/elonmusk/status/2075482008440930315",
     "ticker": "",
     "topics": []
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-07-09",
+    "asOf": "2026-07-10",
     "sentiment": "watch",
-    "excerpt": "California has legalized election fraud https://t.co/pt8pmdfxnl",
-    "postUrl": "https://x.com/elonmusk/status/2075255448714805440",
-    "ticker": "",
+    "excerpt": "Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. \n\nIn what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that \"flattens networks and cuts transceiver TAM 40-50%\".\n\nRosenblatt TLDR: They've already ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075645547978084371",
+    "ticker": "AAOI",
     "topics": []
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-07-09",
+    "asOf": "2026-07-10",
     "sentiment": "watch",
-    "excerpt": "Interesting comparison of Grok & Opus\n\n1M+ context window coming soon https://t.co/GJ5oBsk3xS",
-    "postUrl": "https://x.com/elonmusk/status/2075254074224623692",
-    "ticker": "",
+    "excerpt": "Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. \n\nIn what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that \"flattens networks and cuts transceiver TAM 40-50%\".\n\nRosenblatt TLDR: They've already ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075645547978084371",
+    "ticker": "AMZN",
     "topics": []
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-07-09",
+    "asOf": "2026-07-10",
     "sentiment": "watch",
-    "excerpt": "Good review of Grok 4.5 https://t.co/Y40sMIgeHu",
-    "postUrl": "https://x.com/elonmusk/status/2075130137817825315",
+    "excerpt": "Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. \n\nIn what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that \"flattens networks and cuts transceiver TAM 40-50%\".\n\nRosenblatt TLDR: They've already ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075645547978084371",
+    "ticker": "AVGO",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. \n\nIn what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that \"flattens networks and cuts transceiver TAM 40-50%\".\n\nRosenblatt TLDR: They've already ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075645547978084371",
+    "ticker": "SIVE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE:\n\n\"Stocks in the Optical sector have traded poorly for the last 1-2 months\" due to CPO delay reports and China capacity scares.\n\n\"We think short sellers... do not actually str",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075634064518955297",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE:\n\n\"Stocks in the Optical sector have traded poorly for the last 1-2 months\" due to CPO delay reports and China capacity scares.\n\n\"We think short sellers... do not actually str",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075634064518955297",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE:\n\n\"Stocks in the Optical sector have traded poorly for the last 1-2 months\" due to CPO delay reports and China capacity scares.\n\n\"We think short sellers... do not actually str",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075634064518955297",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE:\n\n\"Stocks in the Optical sector have traded poorly for the last 1-2 months\" due to CPO delay reports and China capacity scares.\n\n\"We think short sellers... do not actually str",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075634064518955297",
+    "ticker": "SIVEF",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "Sk Hynix is now trading under $SKHYV!\n\nIt's now up an insane 16%.\n\nI wonder how Sk Hynix over in Korea is going to react on Monday. https://t.co/Mmqdu0poVY",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075611260771852590",
+    "ticker": "SKHYV",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "Why do I have this weird feeling the main reason retail is excited SK Hynix NASDAQ listing.\n\nIs because they can do degen option calls instead of individual stock purchases. https://t.co/vXmrncXQOm",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075590371531493729",
     "ticker": "",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "Mitsubishi Motors joins robotics race to deploy humanoid workers by 2027. \n\nPairing with Highlanders, a Japanese robotics company.\n\n- Agility $CCXI x Foxconn, Toyota\n- Apptronik x $JBL, Mercedes\n- Highlanders x Mitsubishi\n- Figure × BMW\n- B",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075557588159058076",
+    "ticker": "CCXI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "Mitsubishi Motors joins robotics race to deploy humanoid workers by 2027. \n\nPairing with Highlanders, a Japanese robotics company.\n\n- Agility $CCXI x Foxconn, Toyota\n- Apptronik x $JBL, Mercedes\n- Highlanders x Mitsubishi\n- Figure × BMW\n- B",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075557588159058076",
+    "ticker": "JBL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "Mitsubishi Motors joins robotics race to deploy humanoid workers by 2027. \n\nPairing with Highlanders, a Japanese robotics company.\n\n- Agility $CCXI x Foxconn, Toyota\n- Apptronik x $JBL, Mercedes\n- Highlanders x Mitsubishi\n- Figure × BMW\n- B",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075557588159058076",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "The \"Mythical Golden Egg Dragon Candle\" predicted the $SIVE rally today. \n\nIf you look at the Golden Egg hatching indicator I drew, you can tell it predicts Sivers CEO buying on the open market a day later. \n\nDo you guys think it's time I s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075539824589860866",
+    "ticker": "SIVE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "Yep, it’s interesting to witness retail capitulation.\n\nAfter we got Bloomberg Meta compute article cleared up by their internal memo. \n\nAnd the 2 reports on delays were denied by Nvidia. \n\nBoth of which caused the selloff in the first place",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075496116481884524",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "Yep, it’s interesting to witness retail capitulation.\n\nAfter we got Bloomberg Meta compute article cleared up by their internal memo. \n\nAnd the 2 reports on delays were denied by Nvidia. \n\nBoth of which caused the selloff in the first place",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075496116481884524",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "Yep, it’s interesting to witness retail capitulation.\n\nAfter we got Bloomberg Meta compute article cleared up by their internal memo. \n\nAnd the 2 reports on delays were denied by Nvidia. \n\nBoth of which caused the selloff in the first place",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075496116481884524",
+    "ticker": "AXTI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-10",
+    "sentiment": "watch",
+    "excerpt": "Yep, it’s interesting to witness retail capitulation.\n\nAfter we got Bloomberg Meta compute article cleared up by their internal memo. \n\nAnd the 2 reports on delays were denied by Nvidia. \n\nBoth of which caused the selloff in the first place",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075496116481884524",
+    "ticker": "IQE",
     "topics": []
   },
   {
@@ -619,176 +783,6 @@
     "excerpt": "Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. \n\nFor $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out.\n\nSince t",
     "postUrl": "https://x.com/aleabitoreddit/status/2074581698604593367",
     "ticker": "OUST",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "Just Bloomberg and $META doing damage control after crashing the market with Meta Compute framing:\n\nSpokesperson: \"Meta is still hungry for even more computing power. \n\nIt is still moving forward with plans for expensive new data centers an",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074568161299771394",
-    "ticker": "CRVW",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "Just Bloomberg and $META doing damage control after crashing the market with Meta Compute framing:\n\nSpokesperson: \"Meta is still hungry for even more computing power. \n\nIt is still moving forward with plans for expensive new data centers an",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074568161299771394",
-    "ticker": "META",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "Just Bloomberg and $META doing damage control after crashing the market with Meta Compute framing:\n\nSpokesperson: \"Meta is still hungry for even more computing power. \n\nIt is still moving forward with plans for expensive new data centers an",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074568161299771394",
-    "ticker": "ORCL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "How is the US so far behind?\n\nXinhua: China's output of humanoids are expected to hit 100,000+ this year. \n\nEven Morgan Stanley originally projected 14,000 for 2026... \n\nReally need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to ca",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074548850996707412",
-    "ticker": "CCXI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "How is the US so far behind?\n\nXinhua: China's output of humanoids are expected to hit 100,000+ this year. \n\nEven Morgan Stanley originally projected 14,000 for 2026... \n\nReally need Elon's $TSLA, $CCXI (Agility), Apptronik, and Figure to ca",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074548850996707412",
-    "ticker": "TSLA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "This is the average visual TA bro, takes a 50% 50% coinflip: \n\nIf it goes the other way, they say \"ABC Pattern Invalidated\", should have known... \n\nIf they get the coinflip right, they promote their $40/month chart. \n\n-> People drawing swig",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074533565505876218",
-    "ticker": "AEHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "This is the average visual TA bro, takes a 50% 50% coinflip: \n\nIf it goes the other way, they say \"ABC Pattern Invalidated\", should have known... \n\nIf they get the coinflip right, they promote their $40/month chart. \n\n-> People drawing swig",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074533565505876218",
-    "ticker": "AXTI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "This is the average visual TA bro, takes a 50% 50% coinflip: \n\nIf it goes the other way, they say \"ABC Pattern Invalidated\", should have known... \n\nIf they get the coinflip right, they promote their $40/month chart. \n\n-> People drawing swig",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074533565505876218",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "Just putting it out there:\n\nIf everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... \n\nWhich are all down -4% to -10%+ today so far. \n\nProbably doesn't have anything to do with individual fundam",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074494514061017508",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "Just putting it out there:\n\nIf everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... \n\nWhich are all down -4% to -10%+ today so far. \n\nProbably doesn't have anything to do with individual fundam",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074494514061017508",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "Just putting it out there:\n\nIf everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... \n\nWhich are all down -4% to -10%+ today so far. \n\nProbably doesn't have anything to do with individual fundam",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074494514061017508",
-    "ticker": "INTC",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "Just putting it out there:\n\nIf everything crashes together from $NBIS, $MRVL, $INTC, $SNDK, $AMD, $SIVE, $MU, $LITE, and others... \n\nWhich are all down -4% to -10%+ today so far. \n\nProbably doesn't have anything to do with individual fundam",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074494514061017508",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "Raymond James initiated coverage of $SPCX with “Strong Buy”.\n\nGiving it a $800 PT, valuing SpaceX at a ~$10T valuation.\n\nNo words. Jokes about “institutional” notes for retail write themselves. https://t.co/B0uRojaNJZ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074466925263061100",
-    "ticker": "SPCX",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "Be Samsung at $1.24T:\n\n> market: we don’t think you can keep hiking memory prices\n> proceeds to hikes dram by 20%\n> releases earnings\n> most profitable company in the world beating $NVDA and $AAPL\n> operating profits growing 1803% Y/Y  \n\nma",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074416685843612031",
-    "ticker": "AAPL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "Be Samsung at $1.24T:\n\n> market: we don’t think you can keep hiking memory prices\n> proceeds to hikes dram by 20%\n> releases earnings\n> most profitable company in the world beating $NVDA and $AAPL\n> operating profits growing 1803% Y/Y  \n\nma",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074416685843612031",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "One of the dumbest thematic selloffs I’ve seen to to date off:\n\n- $META compute news that’s not new\n- CPO delay report 1, that got refuted by $NVDA\n- CPO delay report 2, that got refuted by $NVDA\n\nHigh confidence, institutions will end up g",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074405723816304743",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "One of the dumbest thematic selloffs I’ve seen to to date off:\n\n- $META compute news that’s not new\n- CPO delay report 1, that got refuted by $NVDA\n- CPO delay report 2, that got refuted by $NVDA\n\nHigh confidence, institutions will end up g",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074405723816304743",
-    "ticker": "META",
     "topics": []
   },
   {

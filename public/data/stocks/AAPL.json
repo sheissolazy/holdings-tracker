@@ -3,11 +3,11 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 316.22,
-  "change5dPct": 7.4,
-  "changeYtdPct": 21.5,
-  "marketCap": "$4.60T",
-  "pe": 37.7,
+  "price": 315.32,
+  "change5dPct": 2.2,
+  "changeYtdPct": 21.2,
+  "marketCap": "$4.64T",
+  "pe": 37.6,
   "revenue": "—",
   "revenueYoYPct": 13,
   "prices": [
@@ -867,136 +867,138 @@
     },
     {
       "t": "2026-07-09",
-      "o": 310.45,
+      "o": 310.51,
       "h": 316.53,
       "l": 308.16,
       "c": 316.22
+    },
+    {
+      "t": "2026-07-10",
+      "o": 314.72,
+      "h": 316.91,
+      "l": 312.17,
+      "c": 315.32
     }
   ],
   "thesis": {
     "bull": [
-      "英伟达CEO黄仁勋近期公开表态提振了市场对Apple在AI功能上的预期，带动一批AI相关个股走强，Apple作为消费电子龙头有望受益于AI叙事的外溢效应",
-      "库克关于博通合作的表态被市场解读为利好信号，暗示Apple在自研芯片与供应链布局上持续深化，产业链地位稳固",
-      "近期纳斯达克在芯片股带动下走强，市场风险偏好回暖，资金对科技权重股的配置意愿上升，为Apple提供估值支撑"
+      "黄仁勋近期公开言论提振市场对AI硬件生态的乐观预期，并被财经媒体解读为对苹果AI布局「寄予厚望」，带动相关AI概念股买盘",
+      "苹果拥有超过25亿台活跃设备的庞大生态基础，若「苹果智能」等AI功能逐步落地，理论上具备拉动换机周期与服务订阅收入的杠杆效应",
+      "近期半导体与科技板块资金流入强劲（半导体类ETF单周吸金约71亿美元），显示市场对AI产业链整体情绪偏乐观，苹果作为消费电子终端龙头具备受益于板块共振的可能"
     ],
     "bear": [
-      "佩洛西在2026年1月23日披露的交易记录显示多笔AAPL减持与清仓操作，且此前2025年10月、2024年底亦有类似减持记录，显示部分知情投资者对短期上行空间趋于谨慎",
-      "三星宣布DRAM价格上调约20%，若存储芯片成本持续走高，可能对iPhone等硬件产品的毛利率形成压力，尤其在竞争激烈的消费电子市场",
-      "科技股波动率处于23年来高位，叠加伊朗地缘冲突与油价不确定性，宏观风险因素可能放大AAPL股价的短期波动"
+      "公开披露信息显示，佩洛西相关账户在2025年10月至2026年1月期间对苹果持仓多次减持（trim/exit），仅2025年12月30日出现一笔新建仓记录，整体交易信号偏空且存在矛盾信号并存的情况",
+      "美联储相关报告提及关税、地缘冲突与AI基建投入叠加正推升通胀压力，可能压制消费电子终端需求并挤压硬件业务毛利率",
+      "纳斯达克指数波动率升至23年高位，叠加中东局势（伊朗、霍尔木兹海峡相关风险）尚未完全平息，科技股估值切换与风险偏好存在较大不确定性"
     ],
     "watch": [
-      "同一披露文件中出现新建多头与减持指令并存的情况，方向并不一致，需持续关注后续披露以确认真实持仓变化及其信号意义",
-      "存储芯片供应格局变化，尤其三星、SK海力士等厂商提价行为，对Apple硬件成本结构及未来产品定价策略的传导效果",
-      "Apple AI功能落地进展及其对iPhone换机周期的实际拉动作用，以及与博通等合作伙伴具体细节的后续披露"
+      "即将到来的财报季与CPI数据将是检验苹果及科技板块估值锚的关键节点，需关注管理层对AI相关资本支出、产品指引及需求端表态",
+      "伊朗局势演变（美伊谈判进展、制裁松绑、原油供应及霍尔木兹海峡通行风险）对全球风险偏好与消费电子供应链成本的潜在传导",
+      "苹果AI功能的实际落地节奏与其对硬件换机周期的真实拉动效果，是判断当前乐观叙事能否兑现的核心变量，也是多空分歧的焦点"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Apple Inc.是全球市值最大的消费电子与科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品线及服务生态，近期市场关注点集中在其AI功能路线图、供应链芯片合作以及宏观经济环境对消费电子需求的潜在影响"
+        "body": "苹果（AAPL）是全球领先的消费电子与服务公司，核心产品包括iPhone、Mac、iPad及可穿戴设备，并持续拓展App Store、云服务、广告及订阅等高毛利服务业务。公司拥有超过25亿台活跃设备的庞大生态系统，是市场衡量消费电子与AI终端落地情况的重要风向标之一"
       },
       {
         "heading": "基本面与业务动态",
-        "body": "近期新闻显示库克就与博通的合作发表评论，被解读为对芯片供应链布局的积极信号，同时英伟达CEO关于AI的表态也带动市场对Apple AI功能的期待升温，但具体产品落地细节仍待观察"
+        "body": "近期市场关注焦点集中在苹果AI功能（「苹果智能」）的推进节奏及其对硬件换机周期的拉动作用。英伟达CEO黄仁勋的公开言论被媒体解读为对苹果AI前景的正面背书，一定程度上提振了市场情绪，但目前尚缺乏更具体的产品或财务数据验证这一乐观预期能否转化为实际业绩"
       },
       {
-        "heading": "跟踪者与机构动向解读",
-        "body": "公开披露信息显示，佩洛西在2025年末至2026年初的多笔交易记录中，既有新建AAPL多头头寸，也有多次减持与清仓操作，方向并不完全一致，反映出知情投资者对该股态度存在分歧或仓位调整的复杂性，不宜单一解读为看多或看空信号"
+        "heading": "估值与资金流向",
+        "body": "近期半导体与AI相关ETF资金流入创纪录水平，反映市场风险偏好整体回暖，但资金更多集中于芯片制造与设备端（如英伟达、SK海力士等），苹果作为终端应用层公司能否同步受益仍待观察。同时纳斯达克整体波动率处于23年高位，显示市场对科技股估值的分歧仍在扩大"
       },
       {
-        "heading": "行业与宏观环境",
-        "body": "半导体与存储芯片行业出现价格上行趋势，三星大幅上调DRAM价格并公布强劲盈利，反映存储芯片供应偏紧，可能间接影响包括Apple在内的下游硬件厂商成本结构；同时宏观层面伊朗地缘冲突、油价波动及美联储官员言论持续扰动市场情绪，纳斯达克在芯片股带动下总体呈现结构性走强"
+        "heading": "跟踪者与机构动向",
+        "body": "公开披露的国会交易记录显示，与佩洛西相关的账户在过去数月对苹果持仓呈现减持为主的趋势，2025年10月、12月分别有多笔trim/exit记录，仅2025年12月30日出现一笔标记为「new」的多头建仓记录，整体信号偏空但存在内部矛盾，反映出即便是同一时间窗口内的操作也可能包含分批调仓而非单一方向判断"
       },
       {
-        "heading": "多空分歧",
-        "body": "多头逻辑集中于AI叙事升温、芯片合作深化及科技股整体风险偏好回暖；空头逻辑则聚焦于知情投资者的减持动作、存储芯片成本上行压力以及地缘政治与市场波动率高企带来的不确定性，两方观点在近期公开信息中均有体现，尚无明确一致结论"
+        "heading": "宏观与行业环境",
+        "body": "当前宏观环境复杂：一方面美联储报告指出关税、伊朗局势及AI基建投入共同推高通胀压力；另一方面中东地缘政治风险尚未完全解除（伊朗核谈判、原油供应、制裁问题等仍在演变），叠加即将到来的财报季与CPI数据，市场对科技股及消费电子板块的短期走向存在较大不确定性"
       },
       {
-        "heading": "风险与关注点",
-        "body": "需持续跟踪佩洛西等公开披露交易者后续动向以判断持仓变化趋势，同时关注存储芯片价格走势对硬件毛利率的实际影响，以及地缘政治局势演变对整体市场风险偏好和消费电子需求的潜在冲击"
+        "heading": "风险与分歧",
+        "body": "多空分歧主要体现在：乐观方认为AI功能落地与庞大设备生态有望驱动新一轮换机与服务收入增长；谨慎方则指出跟踪者持仓多次减持、宏观通胀压力及地缘政治风险可能压制消费电子需求与估值弹性。此外，资金流入AI板块更多集中于上游芯片端而非终端应用层，苹果能否充分受益于本轮AI叙事仍是市场分歧焦点"
       }
     ],
     "comparables": [
       {
-        "ticker": "MSFT",
-        "name": "Microsoft Corporation",
-        "note": "同为大型科技权重股，AI布局对比常被市场用作参照"
-      },
-      {
         "ticker": "NVDA",
-        "name": "NVIDIA Corporation",
-        "note": "AI芯片龙头，其表态与业绩常影响市场对Apple AI功能预期的解读"
+        "name": "英伟达",
+        "note": "AI芯片龙头，其CEO言论直接影响市场对苹果AI前景的预期，是本轮AI叙事的资金集中流向标的"
       },
       {
-        "ticker": "AVGO",
-        "name": "Broadcom Inc",
-        "note": "近期与Apple芯片合作消息受关注，供应链关联度高"
+        "ticker": "MSFT",
+        "name": "微软",
+        "note": "同为大型科技与AI生态布局公司，可作为苹果在AI商业化路径与资本开支节奏上的对比参照"
       },
       {
-        "ticker": "005930.KS",
-        "name": "Samsung Electronics",
-        "note": "存储芯片提价及消费电子竞争关系密切，成本传导需关注"
+        "ticker": "GOOGL",
+        "name": "谷歌母公司Alphabet",
+        "note": "近期有市场评论指其AI能力可能对苹果庞大设备生态形成竞争或合作关系，是观察AI生态博弈的重要参照对象"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-09T22:28:09.913228Z"
+    "generatedAt": "2026-07-10T22:10:40.938590Z"
   },
   "news": [
     {
-      "id": "AAPL-140855699",
-      "title": "Broadcom Stock Investors Just Got Incredible News from Apple CEO Tim Cook",
+      "id": "AAPL-140865233",
+      "title": "How To Invest In Stocks Using History — And Unique Analysis From Bill O'Neil",
       "source": "Yahoo",
-      "publishedAt": "2026-07-09",
-      "url": "https://finnhub.io/api/news?id=33b5b89fecee64047b66935a2da8d2eb2e734e0085c95cb7f4bc798f011d6f23",
+      "publishedAt": "2026-07-10",
+      "url": "https://finnhub.io/api/news?id=a003972ff0b4e0b29dcc8c08fdbbc7fa83708ee5681d11d552606221fd88402c",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140855717",
-      "title": "Top Stock Reports for Apple, KLA Corp. & Western Digital",
+      "id": "AAPL-140865209",
+      "title": "How SK Hynix picked the 'perfect time' to list in the US",
       "source": "Yahoo",
-      "publishedAt": "2026-07-09",
-      "url": "https://finnhub.io/api/news?id=1fb793d9e0f2dde6ed19d182678726222dd039aecb06006da47b4c0a7fee108a",
+      "publishedAt": "2026-07-10",
+      "url": "https://finnhub.io/api/news?id=a9a5aeb7f8d48747feaf89eae981b1a29683b4f9676c61c6a13dcb772947bdb9",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140855718",
-      "title": "'Because I Could' — Mark Cuban Holds the Guinness World Record for the Largest Single E-Commerce Transaction. He Spent $40M in One Email",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-09",
-      "url": "https://finnhub.io/api/news?id=ce4a3de60c204339fd117ffa6a57887972eb5a8d4dd19c22d93a1685168c0a5c",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-140855710",
-      "title": "Forget BTS. South Korea’s Biggest Export Might Be Memory.",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-09",
-      "url": "https://finnhub.io/api/news?id=e4f92157ff838b80fb32beab067ad9a66747a7c34ae18426330c2e9cf770b5be",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-140855720",
-      "title": "The 2 Tech Giants Ready to Resurrect the Magnificent Seven",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-09",
-      "url": "https://finnhub.io/api/news?id=dfca058022ddebdeba5f563fcdcccdcc1ed50b9027f28c09af5ad7aa6933f873",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-140854393",
-      "title": "Exploring the top movers within the dow jones index during today's session.",
+      "id": "AAPL-140865011",
+      "title": "Top dow jones movers in Friday's session",
       "source": "ChartMill",
-      "publishedAt": "2026-07-09",
-      "url": "https://finnhub.io/api/news?id=8aa183e4eb382bb57aaedb6480970e58abb6cea03f36efc9ca36b62b299e7a58",
+      "publishedAt": "2026-07-10",
+      "url": "https://finnhub.io/api/news?id=da214c6fd8d23b4dd37c80c7d483172cf970e4a98b72e72eb896b08e27b9522a",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-140865212",
+      "title": "SK Hynix Shares Jump 14% in Nasdaq Debut",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-10",
+      "url": "https://finnhub.io/api/news?id=b9a2d223dd3802da55c055b9728674ac49337fcf2fb51088db0a8e36e998b13b",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-140865221",
+      "title": "Investing.com’s stocks of the week",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-10",
+      "url": "https://finnhub.io/api/news?id=c47bca3c6a214a71c20f5d31f4637a84debbd548b14f24cbd30ef46345ca6bf8",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-140864130",
+      "title": "Jim Cramer Says Google Could Win the Entire AI War: The 2.5 Billion Apple Devices Behind It Are Why",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-10",
+      "url": "https://finnhub.io/api/news?id=5fb6e41c7234cee517eae3b0db3dcdb77871d27094849c9fe5f096beeb11efe5",
       "tags": [
         "AAPL"
       ]
