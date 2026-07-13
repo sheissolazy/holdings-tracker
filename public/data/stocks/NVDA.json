@@ -3,28 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 210.96,
-  "change5dPct": 8.3,
-  "changeYtdPct": 14.1,
-  "marketCap": "$4.91T",
-  "pe": 31.1,
+  "price": 203.53,
+  "change5dPct": 4.1,
+  "changeYtdPct": 11.1,
+  "marketCap": "$5.11T",
+  "pe": 31.5,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-01-12",
-      "o": 183.22,
-      "h": 187.12,
-      "l": 183.02,
-      "c": 184.94
-    },
-    {
-      "t": "2026-01-13",
-      "o": 185.0,
-      "h": 188.11,
-      "l": 183.4,
-      "c": 185.81
-    },
     {
       "t": "2026-01-14",
       "o": 184.32,
@@ -874,149 +860,148 @@
     },
     {
       "t": "2026-07-10",
-      "o": 201.92,
+      "o": 202.0,
       "h": 211.0,
       "l": 201.92,
       "c": 210.96
+    },
+    {
+      "t": "2026-07-13",
+      "o": 208.54,
+      "h": 210.57,
+      "l": 203.35,
+      "c": 203.53
     }
   ],
   "thesis": {
     "bull": [
-      {
-        "text": "美国政府放宽对阿联酋出口Nvidia AI芯片及相关军事装备的限制，显示地缘政治管制边际放松，有望打开中东主权AI基建这一新增量市场"
-      },
-      {
-        "text": "Vera CPU等新产品线扩大Nvidia在数据中心计算平台的覆盖范围，叠加半导体板块ETF资金单周流入达71亿美元创纪录，显示机构与散户对AI算力主题仍有较强配置意愿"
-      },
-      {
-        "text": "此前引发抛售的Meta算力削减传闻及Nvidia供货延迟报道均被公司及相关方否认或澄清，短期利空出尽后估值压力有所缓解"
-      }
+      "Jensen Huang在股东大会上公开抨击25亿美元规模的芯片走私案，显示公司在合规与出口管制上态度强硬，有助于维护对华合规叙事并降低监管风险",
+      "市场普遍认为近期关于Meta算力项目及产能延迟的负面报道已被公司及内部备忘录澄清，说明部分抛售源于误读而非基本面恶化，AI需求主线仍未被证伪",
+      "国会议员Pelosi在2025年末至2026年初持续新建NVDA多头仓位，反映部分市场参与者对公司中期前景仍保持信心，尽管同期也存在减仓动作"
     ],
     "bear": [
-      {
-        "text": "关于Meta云端算力需求及Nvidia产品交付节奏的负面传闻虽被否认，但反映市场对AI资本开支能否持续维持高增速存在深层疑虑，若后续财报或大客户指引不及预期，情绪可能再度恶化"
-      },
-      {
-        "text": "科技股波动率已升至23年来高位，纳斯达克摆动幅度明显超过标普500，说明当前市场对AI龙头股的预期已高度拥挤，任何利空都可能被放大交易"
-      },
-      {
-        "text": "Hesai等中国供应链合作伙伴面临美国国家安全审查，若审查升级或扩大至更多对华合作环节，可能影响Nvidia在自动驾驶及机器人相关生态布局的稳定性"
-      }
+      "Citi等华尔街机构近期对NVDA发出偏谨慎的警示信号，叠加大盘科技股在中东局势升级背景下普遍回调，短期估值与情绪面承压",
+      "Google等云厂商正加速自研TPU等定制芯片并深化与Neocloud的合作，长期可能侵蚀NVDA在数据中心训练与推理市场的份额与议价能力",
+      "光通信与互连（CPO/光引擎）产业链格局生变，Broadcom等竞争对手在交换平台领域与NVDA形成正面竞争，产业链重心分散可能压缩NVDA在系统级方案中的独占性"
     ],
     "watch": [
-      {
-        "text": "即将到来的财报季及美联储关于关税、伊朗局势与AI资本开支相互作用的报告，将是检验AI资本开支叙事是否降温的关键窗口"
-      },
-      {
-        "text": "中东局势（伊朗与霍尔木兹海峡相关消息）持续演变，虽非直接冲击半导体基本面，但可能通过能源价格与整体风险偏好间接影响成长股估值"
-      },
-      {
-        "text": "国会议员佩洛西在2026年1月披露的NVDA新建仓交易及此前多次买入卖出记录，可作为观察政策圈对该股信心变化的参考指标，但不构成投资建议依据"
-      }
+      "Morgan Stanley关于CPO（共封装光学）产业链的研报，涉及Coherent、Lumentum等激光供应商、Broadcom与NVDA的交换平台之争，以及Lightmatter、Ayar Labs、Marvell/Celestial、POET等光子学新势力的竞争动态，需持续跟踪其对NVDA系统方案议价权的影响",
+      "地缘政治与红海/霍尔木兹海峡局势升级（美国对伊朗实施海上封锁、也门胡塞武装袭击沙特）带来的宏观风险偏好回落，可能持续压制半导体等高贝塔科技板块估值",
+      "市场上出现针对NVDA、台积电等万亿市值公司的看空叙事，倾向放大个别技术细节并推断整体项目延迟，需甄别是真实基本面风险还是情绪化做空叙事"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Nvidia是全球领先的GPU与AI加速计算平台提供商，产品线覆盖数据中心训练与推理芯片、Vera等新一代CPU平台、以及面向自动驾驶与机器人的传感与计算方案。公司深度绑定超大规模云厂商与主权AI基建需求，是当前全球AI资本开支周期的核心受益者之一。"
+        "body": "NVIDIA是全球领先的GPU与AI加速计算平台提供商，产品覆盖数据中心训练与推理芯片、网络互联（如NVLink、InfiniBand）、软件生态CUDA以及面向企业与主权AI的整体解决方案。公司近年营收增长高度依赖数据中心业务，客户集中在超大规模云厂商与AI实验室，是当前全球AI资本开支周期的核心受益者之一"
       },
       {
-        "heading": "近期动态",
-        "body": "美国政府放宽对阿联酋出口Nvidia AI芯片及军事装备的限制，被视为对中东主权AI项目的潜在利好。市场此前因彭博社关于Meta云端算力削减的报道及两则关于产品交付延迟的报道出现抛售，但相关传闻已被公司内部备忘录及Nvidia方面否认，社交媒体上出现散户投降式抛售后企稳的观察。同时Hesai等中国激光雷达供应商与Nvidia的合作被曝面临美国国家安全审查。"
+        "heading": "业务与技术动态",
+        "body": "公司在CPO（共封装光学）与高速互联领域持续演进，行业研报显示交换平台层面NVIDIA与Broadcom处于正面竞争，而激光器、光引擎等上游环节则由Coherent、Lumentum、Lightmatter、Ayar Labs、Marvell/Celestial AI、POET等厂商共同参与，产业链呈现多点竞争格局。与此同时，管理层公开强调对出口管制与芯片走私的零容忍态度，显示合规议题在公司战略中的权重上升"
       },
       {
-        "heading": "多空分歧",
-        "body": "多头观点认为AI算力需求的长期增长逻辑未变，半导体板块ETF资金流入创纪录印证机构与散户仍在加仓，出口管制边际放松打开增量市场。空头观点则担忧AI资本开支能否持续处于当前斜率存在不确定性，大客户云厂商的资本开支节奏传闻虽被否认，但反映市场对高估值AI龙头股的脆弱性担忧，叠加科技股波动率处于多年高位，情绪面容易被放大。"
+        "heading": "多空分歧观察",
+        "body": "市场对NVDA的分歧集中在两方面：一是近期关于Meta等大客户算力项目可能延迟的报道是否属实，公司及相关内部沟通已对此进行澄清，部分投资者认为这是错杀后的修复机会；另一方面，Citi等机构仍对估值与竞争格局持谨慎态度，叠加Google TPU等自研芯片对NVDA市场份额的潜在侵蚀，构成中长期结构性担忧"
       },
       {
-        "heading": "资金与政策信号",
-        "body": "国会议员佩洛西在2025年末至2026年初多次披露NVDA相关期权与股票交易，包含新建仓与部分获利了结记录，反映部分政策圈人士对该股保持关注，但个人交易披露不应被解读为对普通投资者的操作建议。同期出口管制政策出现边际松动，显示监管层在AI芯片出口议题上的立场存在动态调整空间。"
+        "heading": "跟踪者动向解读",
+        "body": "公开披露显示，国会议员Pelosi在2024年末至2026年初的多个时间窗口对NVDA进行了新建多头仓位的操作，同时也存在部分减仓（trim）记录，呈现分批建仓与阶段性获利了结并存的模式，并不构成单一方向的强烈信号，需结合披露的时间滞后性谨慎解读"
       },
       {
-        "heading": "宏观与行业背景",
-        "body": "当前宏观环境叠加关税、伊朗地缘冲突及AI资本开支三重因素对通胀产生上行压力，美联储相关报告已明确提及。半导体行业整体呈现分化，SK海力士等存储芯片厂商上市与股价表现强劲，反映AI基建上游需求依然旺盛，但科技股整体波动率处于23年高位，显示市场对板块估值分歧加大。"
+        "heading": "宏观与情绪面",
+        "body": "近期市场受伊朗局势、霍尔木兹海峡通行费及美国海上封锁等地缘政治事件影响，风险偏好整体回落，科技与半导体板块跟随大盘走弱。此外，社交媒体上出现针对NVDA、台积电等公司的系统性看空叙事，倾向于放大局部技术细节并推断整体延迟，投资者需区分情绪化叙事与真实基本面变化"
       },
       {
         "heading": "风险提示",
-        "body": "主要风险包括：AI资本开支增速不及预期导致的估值重估风险、对华供应链合作伙伴面临的美国监管审查风险、中东地缘政治局势演变对全球风险偏好的扰动，以及科技股高波动环境下短期情绪驱动的大幅回撤风险。以上分析基于公开信息整理，不构成任何买卖建议。"
+        "body": "需持续关注的风险包括：出口管制与芯片走私相关的监管与声誉风险、云厂商自研芯片对份额的中长期侵蚀、光通信与互连产业链竞争格局演变、以及地缘政治紧张局势对全球风险偏好和供应链的潜在冲击。本分析仅基于公开信息整理，不构成任何买卖建议"
       }
     ],
     "comparables": [
       {
+        "ticker": "AVGO",
+        "name": "Broadcom",
+        "note": "在交换平台与网络互联领域与NVIDIA形成直接竞争，同时也是AI基础设施关键供应商"
+      },
+      {
+        "ticker": "GOOGL",
+        "name": "Alphabet/Google",
+        "note": "通过自研TPU并深化与Neocloud合作，是NVIDIA在数据中心加速计算领域的潜在长期竞争者"
+      },
+      {
+        "ticker": "TSM",
+        "name": "台积电",
+        "note": "NVIDIA核心晶圆代工合作伙伴，近期同样受到看空叙事与地缘政治风险关注"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "通过Celestial AI等合作在光子学与互连领域布局，与NVIDIA存在部分产业链竞合关系"
+      },
+      {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "数据中心GPU及CPU领域主要竞争对手，AI加速卡市场份额持续追赶"
-      },
-      {
-        "ticker": "HXSCF",
-        "name": "SK Hynix",
-        "note": "AI服务器所需高带宽内存HBM主要供应商，近期在纳斯达克上市首日大涨，反映AI存储需求景气"
-      },
-      {
-        "ticker": "INTC",
-        "name": "Intel Corporation",
-        "note": "传统CPU龙头及潜在AI芯片竞争者，近期股价波动较大，转型进展受关注"
+        "note": "数据中心GPU领域的主要直接竞争对手，产品线与NVIDIA形成正面竞争"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-10T22:08:31.595403Z"
+    "generatedAt": "2026-07-13T22:00:31.714683Z"
   },
   "news": [
     {
-      "id": "NVDA-140865205",
-      "title": "Nvidia Vera CPU Expands Market Reach",
+      "id": "NVDA-140889901",
+      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
       "source": "Yahoo",
-      "publishedAt": "2026-07-10",
-      "url": "https://finnhub.io/api/news?id=172c0e9a42650d1eb43a9f2eeef65c0d4b871875248a58e5687404ffcbc031f4",
+      "publishedAt": "2026-07-13",
+      "url": "https://finnhub.io/api/news?id=d3927ad54ef25f09ff2a8f43ecda858078566e0b5bbae035ea2c3d6088df6690",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140865206",
-      "title": "AI cash flow is booming for chipmakers & plummeting for Big Tech: Charts of the Day",
+      "id": "NVDA-140889902",
+      "title": "Citi Has a Stark Message for Nvidia Stock Fans",
       "source": "Yahoo",
-      "publishedAt": "2026-07-10",
-      "url": "https://finnhub.io/api/news?id=de53554ea57ac0d12f382046916d0f30cefe256eb3174c3202707cb6f7c55942",
+      "publishedAt": "2026-07-13",
+      "url": "https://finnhub.io/api/news?id=8e47f9d600300fd872551dcba2ded3243f223ffebefbfc7b71f52bf6da532141",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140865207",
-      "title": "Ionis Pharmaceuticals Drops Another 9% as Bad News Piles Up",
+      "id": "NVDA-140889903",
+      "title": "Why AI Investors Can Finally Buy the World's Top HBM Maker Directly",
       "source": "Yahoo",
-      "publishedAt": "2026-07-10",
-      "url": "https://finnhub.io/api/news?id=9604213b42f7aaf1d99a512e44898a5460795c6fe001db0655b9872a4f7dc48b",
+      "publishedAt": "2026-07-13",
+      "url": "https://finnhub.io/api/news?id=ad05a47ef83e1268953774bf1c23fe26145ddcb6f76b067e9aea758338d103f7",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140865208",
-      "title": "Why Sandisk Stock Popped Again Today",
+      "id": "NVDA-140889904",
+      "title": "Google Takes Aim at Nvidia's AI Chip Market",
       "source": "Yahoo",
-      "publishedAt": "2026-07-10",
-      "url": "https://finnhub.io/api/news?id=9257babff8bf39e4e60f80921c9ade304bee991303a2891323c3619e2b33a305",
+      "publishedAt": "2026-07-13",
+      "url": "https://finnhub.io/api/news?id=1c47fd978ef50b1d7f48cbd8ba7fd12125e7ecb8088533e5f061528a165b88d4",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140865209",
-      "title": "How SK Hynix picked the 'perfect time' to list in the US",
+      "id": "NVDA-140889905",
+      "title": "Jensen Huang Slammed a $2.5 Billion Chip-Smuggling Scheme at Nvidia's Stockholder Meeting",
       "source": "Yahoo",
-      "publishedAt": "2026-07-10",
-      "url": "https://finnhub.io/api/news?id=a9a5aeb7f8d48747feaf89eae981b1a29683b4f9676c61c6a13dcb772947bdb9",
+      "publishedAt": "2026-07-13",
+      "url": "https://finnhub.io/api/news?id=f4eb5206f2995f5dbb86c5e90d43f9a2baab3e3e596b5c77cf0175092f8b0b50",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140865210",
-      "title": "Rackspace Technology (RXT) Rebounds 22% After Brutal Week",
+      "id": "NVDA-140889906",
+      "title": "AppLovin Stock Tumbles 12% Amid Broader Selloff",
       "source": "Yahoo",
-      "publishedAt": "2026-07-10",
-      "url": "https://finnhub.io/api/news?id=50ea9e8789941fd5ea83f483d8923d6effa5450006baef0879db3ef347df07de",
+      "publishedAt": "2026-07-13",
+      "url": "https://finnhub.io/api/news?id=9e244e162af819017c81ae6b1f201cada720b87a2ef0adb4c41fb52ffd7633cc",
       "tags": [
         "NVDA"
       ]

@@ -321,22 +321,10 @@
   {
     "personId": "trump",
     "type": "social",
-    "asOf": "2026-07-10",
+    "asOf": "2026-07-13",
     "sentiment": "watch",
-    "excerpt": "I will not sign the Housing Bill, which has been fully approved by Congress and sent to the White House, in PROTEST over the fact that the United States Senate is not capable of passing THE SAVE AMERICA ACT, which is polling at 97% with the",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/116895869064122989",
-    "ticker": "",
-    "topics": [
-      "财政/税收"
-    ]
-  },
-  {
-    "personId": "trump",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "Toyota is moving from Mexico to the United States (Texas!). A really big deal. Tariffs at work! President DONALD J. TRUMP",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/116878664308977613",
+    "excerpt": "It is my Great Honor to endorse Porter County Commissioner, Barb Regnitz, who is running to represent the incredible people of Indiana’s 1st Congressional District! A very successful Businesswoman, Software Engineer, and Civic Leader, prior",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/116914697761678481",
     "ticker": "",
     "topics": [
       "关税/贸易"
@@ -345,24 +333,231 @@
   {
     "personId": "trump",
     "type": "social",
-    "asOf": "2026-07-06",
+    "asOf": "2026-07-10",
     "sentiment": "watch",
-    "excerpt": "Great news! I have just been informed that one of the biggest, best, and smartest Retailers in America, Walmart, will be lowering prices, by a lot, at my Administration's request to celebrate our great Country's 250th birthday. Walmart will",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/116874984393383550",
-    "ticker": "",
-    "topics": [
-      "通胀",
-      "能源/油价"
-    ]
+    "excerpt": "Apple to invest $30 billion in US chip manufacturing: https://www. foxbusiness.com/media/apple-in vest-30-billion-us-chip-manufacturing",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/116898473019365022",
+    "ticker": "AAPL",
+    "topics": []
   },
   {
     "personId": "musk",
     "type": "social",
-    "asOf": "2026-07-10",
+    "asOf": "2026-07-13",
     "sentiment": "watch",
-    "excerpt": "Grok Imagine https://t.co/bKYXdNnAvT",
-    "postUrl": "https://x.com/elonmusk/status/2075482008440930315",
+    "excerpt": "Literally true https://t.co/tcgsHNdytq",
+    "postUrl": "https://x.com/elonmusk/status/2076690060699684905",
     "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-13",
+    "sentiment": "watch",
+    "excerpt": "Morgan Stanley note on CPO today. Key participants include:\n\n- $SIVE, $COHR, and $LITE in laser supply\n- Broadcom and Nvidia in switch platforms\n- Lightmatter, Ayar Labs, Marvell/Celestial, and POET in optical engines and photonics, \n- $TSM",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076748688559587338",
+    "ticker": "MRVL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-13",
+    "sentiment": "watch",
+    "excerpt": "Morgan Stanley note on CPO today. Key participants include:\n\n- $SIVE, $COHR, and $LITE in laser supply\n- Broadcom and Nvidia in switch platforms\n- Lightmatter, Ayar Labs, Marvell/Celestial, and POET in optical engines and photonics, \n- $TSM",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076748688559587338",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-13",
+    "sentiment": "watch",
+    "excerpt": "Morgan Stanley note on CPO today. Key participants include:\n\n- $SIVE, $COHR, and $LITE in laser supply\n- Broadcom and Nvidia in switch platforms\n- Lightmatter, Ayar Labs, Marvell/Celestial, and POET in optical engines and photonics, \n- $TSM",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076748688559587338",
+    "ticker": "AVGO",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-13",
+    "sentiment": "watch",
+    "excerpt": "Morgan Stanley note on CPO today. Key participants include:\n\n- $SIVE, $COHR, and $LITE in laser supply\n- Broadcom and Nvidia in switch platforms\n- Lightmatter, Ayar Labs, Marvell/Celestial, and POET in optical engines and photonics, \n- $TSM",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076748688559587338",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-12",
+    "sentiment": "watch",
+    "excerpt": "Just a semi recap TLDR:\n\n- $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in short term\n\n- $SPCX Starlink Gen 3 is scaling to 100,000 units (10x prev gen) creating possible capacity constraints for ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076467953995071881",
+    "ticker": "AAPL",
+    "topics": [
+      "关税/贸易",
+      "大盘/宏观",
+      "AI/芯片",
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-12",
+    "sentiment": "watch",
+    "excerpt": "Just a semi recap TLDR:\n\n- $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in short term\n\n- $SPCX Starlink Gen 3 is scaling to 100,000 units (10x prev gen) creating possible capacity constraints for ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076467953995071881",
+    "ticker": "NVDA",
+    "topics": [
+      "关税/贸易",
+      "大盘/宏观",
+      "AI/芯片",
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-12",
+    "sentiment": "watch",
+    "excerpt": "Just a semi recap TLDR:\n\n- $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in short term\n\n- $SPCX Starlink Gen 3 is scaling to 100,000 units (10x prev gen) creating possible capacity constraints for ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076467953995071881",
+    "ticker": "AMKR",
+    "topics": [
+      "关税/贸易",
+      "大盘/宏观",
+      "AI/芯片",
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-12",
+    "sentiment": "watch",
+    "excerpt": "Just a semi recap TLDR:\n\n- $GLW glass bridge per Morgan Stanley has potential, but hard to displace FAU (like FOCI) in short term\n\n- $SPCX Starlink Gen 3 is scaling to 100,000 units (10x prev gen) creating possible capacity constraints for ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076467953995071881",
+    "ticker": "AVGO",
+    "topics": [
+      "关税/贸易",
+      "大盘/宏观",
+      "AI/芯片",
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-12",
+    "sentiment": "watch",
+    "excerpt": "Looks like the Strait of Hormuz is open for the 50th time this year per Trump.\n\nI’m getting tired looking at macro. https://t.co/GuYgkwC2Q8",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076372905450188998",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-12",
+    "sentiment": "watch",
+    "excerpt": "Apparently there’s a new popular trend to bearpost trillion dollar companies.\n\nLike $NVDA or $TSM.\n\nBy finding isolating technical details, then blowing it out of proportions by claiming their whole program is delayed.\n\n-> if the company do",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076266613675069628",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-12",
+    "sentiment": "watch",
+    "excerpt": "Apparently there’s a new popular trend to bearpost trillion dollar companies.\n\nLike $NVDA or $TSM.\n\nBy finding isolating technical details, then blowing it out of proportions by claiming their whole program is delayed.\n\n-> if the company do",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076266613675069628",
+    "ticker": "TSM",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-12",
+    "sentiment": "watch",
+    "excerpt": "So there's a IBK Research report on Boston Dynamics value chains from last month. \n\nJust a summary: \n\nIBK maps these companies to Atlas as suppliers:\n- Hwashin (010690) / body, arms, legs\n- LG Energy (373220) / battery \n- Hyundai Autoever (",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076248337863639506",
+    "ticker": "CCXI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-12",
+    "sentiment": "watch",
+    "excerpt": "So there's a IBK Research report on Boston Dynamics value chains from last month. \n\nJust a summary: \n\nIBK maps these companies to Atlas as suppliers:\n- Hwashin (010690) / body, arms, legs\n- LG Energy (373220) / battery \n- Hyundai Autoever (",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076248337863639506",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-12",
+    "sentiment": "watch",
+    "excerpt": "So there's a IBK Research report on Boston Dynamics value chains from last month. \n\nJust a summary: \n\nIBK maps these companies to Atlas as suppliers:\n- Hwashin (010690) / body, arms, legs\n- LG Energy (373220) / battery \n- Hyundai Autoever (",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076248337863639506",
+    "ticker": "XPEV",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-11",
+    "sentiment": "watch",
+    "excerpt": "Apparently, Korean Beauty was where all the alpha is.\n\nAPR (278470.KS) is up 529% over the past 2Y, wildly outperforming both $NVDA and $INTC.\n\nEvery female I know talks about their \"Medicube\" stick, then buying products... where you put a ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076030743655109063",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-11",
+    "sentiment": "watch",
+    "excerpt": "Apparently, Korean Beauty was where all the alpha is.\n\nAPR (278470.KS) is up 529% over the past 2Y, wildly outperforming both $NVDA and $INTC.\n\nEvery female I know talks about their \"Medicube\" stick, then buying products... where you put a ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076030743655109063",
+    "ticker": "INTC",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-11",
+    "sentiment": "watch",
+    "excerpt": "Contrarian take, but Sam Altman / OpenAI is doing something right if he's pissing off every Mag7 like $AAPL. \n\nBy building their own ecosystem instead of being sucked into another. \n\nIt's been awhile since $GOOGL, Apple, Microsoft, and othe",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075894311741440041",
+    "ticker": "AAPL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-11",
+    "sentiment": "watch",
+    "excerpt": "Contrarian take, but Sam Altman / OpenAI is doing something right if he's pissing off every Mag7 like $AAPL. \n\nBy building their own ecosystem instead of being sucked into another. \n\nIt's been awhile since $GOOGL, Apple, Microsoft, and othe",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075894311741440041",
+    "ticker": "GOOGL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-11",
+    "sentiment": "watch",
+    "excerpt": "Contrarian take, but Sam Altman / OpenAI is doing something right if he's pissing off every Mag7 like $AAPL. \n\nBy building their own ecosystem instead of being sucked into another. \n\nIt's been awhile since $GOOGL, Apple, Microsoft, and othe",
+    "postUrl": "https://x.com/aleabitoreddit/status/2075894311741440041",
+    "ticker": "MSFT",
     "topics": []
   },
   {
@@ -643,146 +838,6 @@
     "excerpt": "Nothing like an internal $META memo getting published.\n\nShowing AI ramping as usual:\n\n- LTAs signed with Samsung and $SNDK for memory\n- LTAs signed with Sumitomo Electric for fiber optics\n- Expected to deploy 7GW compute infra this year, an",
     "postUrl": "https://x.com/aleabitoreddit/status/2075199849507762279",
     "ticker": "SNDK",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-08",
-    "sentiment": "watch",
-    "excerpt": "Wow, looks like Elon + xAI at $SPCX managed to build an Anthropic Opus-level LLM with Grok 4.5.\n\nThat’s much more cost efficient as well… \n\nKinda emulating what Chinese vendors have been doing to compete on pricing + adoption. (Which is an ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074979055410266452",
-    "ticker": "SPCX",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-08",
-    "sentiment": "watch",
-    "excerpt": "$META to build a new $10B DC in Canada to expand AI capacity.\n\nSo much for the media framing of “Meta Compute”as overbuilding and cutting capex. https://t.co/0QgSls0s9o",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074965761345642660",
-    "ticker": "META",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-08",
-    "sentiment": "watch",
-    "excerpt": "Let’s put it this way:\n\nRetail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. \n\nAnd they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes.\n\nI see it as lon",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074951295027568736",
-    "ticker": "AXTI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-08",
-    "sentiment": "watch",
-    "excerpt": "Let’s put it this way:\n\nRetail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. \n\nAnd they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes.\n\nI see it as lon",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074951295027568736",
-    "ticker": "CCXI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-08",
-    "sentiment": "watch",
-    "excerpt": "Let’s put it this way:\n\nRetail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. \n\nAnd they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes.\n\nI see it as lon",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074951295027568736",
-    "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-08",
-    "sentiment": "watch",
-    "excerpt": "Let’s put it this way:\n\nRetail thinks a 30-60% drop is a “falling knife” where bagholders will never recover. \n\nAnd they end up panic selling after seeing swiggly line TAs and people comparing valuable chokepoints to memes.\n\nI see it as lon",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074951295027568736",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-08",
-    "sentiment": "watch",
-    "excerpt": "Blue Origin reportedly raising $10B at a $130B valuation per NYT.\n\nSeems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring. \n\nIf SpaceX and Blue Origin is able to set such high valuations. http",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074838397341065516",
-    "ticker": "ASTS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-08",
-    "sentiment": "watch",
-    "excerpt": "Blue Origin reportedly raising $10B at a $130B valuation per NYT.\n\nSeems pretty positive for $RKLB, $ASTS, and other space names in terms of relative valuation anchoring. \n\nIf SpaceX and Blue Origin is able to set such high valuations. http",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074838397341065516",
-    "ticker": "RKLB",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-08",
-    "sentiment": "watch",
-    "excerpt": "Trump: “Spain is a terrible partner in NATO. \n\nThey don't participate. They don't pay. \n\nCut off all trade with Spain”\n\nTbh no clue what’s going on anymore… https://t.co/F1n0m6gcPa",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074799339680202869",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-08",
-    "sentiment": "watch",
-    "excerpt": "Trump: Memorandum of Understanding with Iran “is over”\n\n“It’s a waste of time dealing with them,” Trump said at the NATO summit.\n\nAlways an exciting time with markets. https://t.co/S3UisD75Kc",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074776109074583565",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. \n\nFor $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out.\n\nSince t",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074581698604593367",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. \n\nFor $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out.\n\nSince t",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074581698604593367",
-    "ticker": "AEVA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. \n\nFor $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out.\n\nSince t",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074581698604593367",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-07",
-    "sentiment": "watch",
-    "excerpt": "Hesai Technology, a Chinese lidar maker faces US national scrutiny over its expanded partnership with $NVDA and lidar sensors. \n\nFor $OUST, $AEVA, and Western lidar bros, this is generally positive if competitors get regulated out.\n\nSince t",
-    "postUrl": "https://x.com/aleabitoreddit/status/2074581698604593367",
-    "ticker": "OUST",
     "topics": []
   },
   {
