@@ -321,6 +321,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-07-14",
+    "sentiment": "watch",
+    "excerpt": "Labor Department reports annual inflation in June was 3.5%, biggest monthly drop in over six years: https:// justthenews.com/nation/economy /labor-department-reports-annual-inflation-june-was-35-biggest-monthly-drop-over-six",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/116918550303380360",
+    "ticker": "",
+    "topics": [
+      "通胀"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-07-13",
     "sentiment": "watch",
     "excerpt": "It is my Great Honor to endorse Porter County Commissioner, Barb Regnitz, who is running to represent the incredible people of Indiana’s 1st Congressional District! A very successful Businesswoman, Software Engineer, and Civic Leader, prior",
@@ -331,23 +343,123 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-07-10",
+    "asOf": "2026-07-14",
     "sentiment": "watch",
-    "excerpt": "Apple to invest $30 billion in US chip manufacturing: https://www. foxbusiness.com/media/apple-in vest-30-billion-us-chip-manufacturing",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/116898473019365022",
-    "ticker": "AAPL",
+    "excerpt": "Ancient times  https://t.co/8VWNoiOHjg",
+    "postUrl": "https://x.com/elonmusk/status/2077044528234553709",
+    "ticker": "",
     "topics": []
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-14",
+    "sentiment": "watch",
+    "excerpt": "$NBIS signs $1B+ compute agreement with Reflection AI, for GB300 access through 2029.\n\nReflection also signed a multi-billion dollar agreement with $SPCX earlier. \n\nInteresting to say the least, seeing Nebius drop -5% off the news today. \n\n",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077044786402660829",
+    "ticker": "META",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-14",
+    "sentiment": "watch",
+    "excerpt": "$NBIS signs $1B+ compute agreement with Reflection AI, for GB300 access through 2029.\n\nReflection also signed a multi-billion dollar agreement with $SPCX earlier. \n\nInteresting to say the least, seeing Nebius drop -5% off the news today. \n\n",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077044786402660829",
+    "ticker": "MSFT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-14",
+    "sentiment": "watch",
+    "excerpt": "$NBIS signs $1B+ compute agreement with Reflection AI, for GB300 access through 2029.\n\nReflection also signed a multi-billion dollar agreement with $SPCX earlier. \n\nInteresting to say the least, seeing Nebius drop -5% off the news today. \n\n",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077044786402660829",
+    "ticker": "NBIS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-14",
+    "sentiment": "watch",
+    "excerpt": "$NBIS signs $1B+ compute agreement with Reflection AI, for GB300 access through 2029.\n\nReflection also signed a multi-billion dollar agreement with $SPCX earlier. \n\nInteresting to say the least, seeing Nebius drop -5% off the news today. \n\n",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077044786402660829",
+    "ticker": "SPCX",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-14",
+    "sentiment": "watch",
+    "excerpt": "Two different capacity expansion announcements today across $TSEM and $AAOI.\n\nTower Semi, supported by the Japanese government, announced expansion of its 300mm Silicon Photonics (SiPho), Silicon Germanium (SiGe), and advanced packaging cap",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077039373711970804",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-14",
+    "sentiment": "watch",
+    "excerpt": "Two different capacity expansion announcements today across $TSEM and $AAOI.\n\nTower Semi, supported by the Japanese government, announced expansion of its 300mm Silicon Photonics (SiPho), Silicon Germanium (SiGe), and advanced packaging cap",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077039373711970804",
+    "ticker": "TSEM",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-07-13",
     "sentiment": "watch",
-    "excerpt": "Literally true https://t.co/tcgsHNdytq",
-    "postUrl": "https://x.com/elonmusk/status/2076690060699684905",
-    "ticker": "",
+    "excerpt": "So Jensen himself went out to do damage control with $NVDA delays reports apparently:\n\n1. Jensen Huang said no delays: \n\n- 800V and rack-to-rack optical interconnects is progressing fully in line with the original plan with no material dela",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076846994614792663",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-13",
+    "sentiment": "watch",
+    "excerpt": "TLDR of Innolight investor relations takeaways:\n\n1. \"Overall, 1.6T market demand has not contracted; instead, 800G demand has increased significantly compared with previous expectations\"\n\nProb most important takeaway as a whole was 800G dem",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076808331453415674",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-13",
+    "sentiment": "watch",
+    "excerpt": "TLDR of Innolight investor relations takeaways:\n\n1. \"Overall, 1.6T market demand has not contracted; instead, 800G demand has increased significantly compared with previous expectations\"\n\nProb most important takeaway as a whole was 800G dem",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076808331453415674",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-13",
+    "sentiment": "watch",
+    "excerpt": "TLDR of Innolight investor relations takeaways:\n\n1. \"Overall, 1.6T market demand has not contracted; instead, 800G demand has increased significantly compared with previous expectations\"\n\nProb most important takeaway as a whole was 800G dem",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076808331453415674",
+    "ticker": "JBL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-13",
+    "sentiment": "watch",
+    "excerpt": "TLDR of Innolight investor relations takeaways:\n\n1. \"Overall, 1.6T market demand has not contracted; instead, 800G demand has increased significantly compared with previous expectations\"\n\nProb most important takeaway as a whole was 800G dem",
+    "postUrl": "https://x.com/aleabitoreddit/status/2076808331453415674",
+    "ticker": "LITE",
     "topics": []
   },
   {
@@ -700,144 +812,6 @@
     "excerpt": "The \"Mythical Golden Egg Dragon Candle\" predicted the $SIVE rally today. \n\nIf you look at the Golden Egg hatching indicator I drew, you can tell it predicts Sivers CEO buying on the open market a day later. \n\nDo you guys think it's time I s",
     "postUrl": "https://x.com/aleabitoreddit/status/2075539824589860866",
     "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Yep, it’s interesting to witness retail capitulation.\n\nAfter we got Bloomberg Meta compute article cleared up by their internal memo. \n\nAnd the 2 reports on delays were denied by Nvidia. \n\nBoth of which caused the selloff in the first place",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075496116481884524",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Yep, it’s interesting to witness retail capitulation.\n\nAfter we got Bloomberg Meta compute article cleared up by their internal memo. \n\nAnd the 2 reports on delays were denied by Nvidia. \n\nBoth of which caused the selloff in the first place",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075496116481884524",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Yep, it’s interesting to witness retail capitulation.\n\nAfter we got Bloomberg Meta compute article cleared up by their internal memo. \n\nAnd the 2 reports on delays were denied by Nvidia. \n\nBoth of which caused the selloff in the first place",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075496116481884524",
-    "ticker": "AXTI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Yep, it’s interesting to witness retail capitulation.\n\nAfter we got Bloomberg Meta compute article cleared up by their internal memo. \n\nAnd the 2 reports on delays were denied by Nvidia. \n\nBoth of which caused the selloff in the first place",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075496116481884524",
-    "ticker": "IQE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-09",
-    "sentiment": "watch",
-    "excerpt": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\"\n\nElon's comment: \"For now\"\n\nMeanwhile, 1X today posts a video of the most advanced humanoid hand.\n\nLooks like the inflection point for American hum",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075302956581449892",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-09",
-    "sentiment": "watch",
-    "excerpt": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\"\n\nElon's comment: \"For now\"\n\nMeanwhile, 1X today posts a video of the most advanced humanoid hand.\n\nLooks like the inflection point for American hum",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075302956581449892",
-    "ticker": "CCXI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-09",
-    "sentiment": "watch",
-    "excerpt": "\"China is shipping ~90% of the world's humanoid robots. We cannot keep taking them lightly.\"\n\nElon's comment: \"For now\"\n\nMeanwhile, 1X today posts a video of the most advanced humanoid hand.\n\nLooks like the inflection point for American hum",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075302956581449892",
-    "ticker": "TSLA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-09",
-    "sentiment": "watch",
-    "excerpt": "Three new $SIVE insider purchases today. \n\nMost notably: $SIVEF CEO Vikram bought 1,000,000 SEK worth of shares on the open market today. \n\nThis is following the massive drop on Sivers stock following 2 misleading CPO delay reports, Meta Co",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075289915697553697",
-    "ticker": "GFS",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-09",
-    "sentiment": "watch",
-    "excerpt": "Three new $SIVE insider purchases today. \n\nMost notably: $SIVEF CEO Vikram bought 1,000,000 SEK worth of shares on the open market today. \n\nThis is following the massive drop on Sivers stock following 2 misleading CPO delay reports, Meta Co",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075289915697553697",
-    "ticker": "JBL",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-09",
-    "sentiment": "watch",
-    "excerpt": "Three new $SIVE insider purchases today. \n\nMost notably: $SIVEF CEO Vikram bought 1,000,000 SEK worth of shares on the open market today. \n\nThis is following the massive drop on Sivers stock following 2 misleading CPO delay reports, Meta Co",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075289915697553697",
-    "ticker": "SIVE",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-09",
-    "sentiment": "watch",
-    "excerpt": "Three new $SIVE insider purchases today. \n\nMost notably: $SIVEF CEO Vikram bought 1,000,000 SEK worth of shares on the open market today. \n\nThis is following the massive drop on Sivers stock following 2 misleading CPO delay reports, Meta Co",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075289915697553697",
-    "ticker": "SIVEF",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-09",
-    "sentiment": "watch",
-    "excerpt": "Nothing like an internal $META memo getting published.\n\nShowing AI ramping as usual:\n\n- LTAs signed with Samsung and $SNDK for memory\n- LTAs signed with Sumitomo Electric for fiber optics\n- Expected to deploy 7GW compute infra this year, an",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075199849507762279",
-    "ticker": "META",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-09",
-    "sentiment": "watch",
-    "excerpt": "Nothing like an internal $META memo getting published.\n\nShowing AI ramping as usual:\n\n- LTAs signed with Samsung and $SNDK for memory\n- LTAs signed with Sumitomo Electric for fiber optics\n- Expected to deploy 7GW compute infra this year, an",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075199849507762279",
-    "ticker": "SNDK",
     "topics": []
   },
   {

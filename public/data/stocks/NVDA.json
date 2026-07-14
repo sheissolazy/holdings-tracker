@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 203.53,
-  "change5dPct": 4.1,
-  "changeYtdPct": 11.1,
-  "marketCap": "$5.11T",
-  "pe": 31.5,
+  "price": 211.8,
+  "change5dPct": 7.6,
+  "changeYtdPct": 13.2,
+  "marketCap": "$4.93T",
+  "pe": 31.0,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-01-14",
-      "o": 184.32,
-      "h": 184.46,
-      "l": 180.8,
-      "c": 183.14
-    },
     {
       "t": "2026-01-15",
       "o": 186.5,
@@ -869,139 +862,164 @@
       "t": "2026-07-13",
       "o": 208.54,
       "h": 210.57,
-      "l": 203.35,
+      "l": 203.0,
       "c": 203.53
+    },
+    {
+      "t": "2026-07-14",
+      "o": 208.2,
+      "h": 212.54,
+      "l": 203.8,
+      "c": 211.8
     }
   ],
   "thesis": {
     "bull": [
-      "Jensen Huang在股东大会上公开抨击25亿美元规模的芯片走私案，显示公司在合规与出口管制上态度强硬，有助于维护对华合规叙事并降低监管风险",
-      "市场普遍认为近期关于Meta算力项目及产能延迟的负面报道已被公司及内部备忘录澄清，说明部分抛售源于误读而非基本面恶化，AI需求主线仍未被证伪",
-      "国会议员Pelosi在2025年末至2026年初持续新建NVDA多头仓位，反映部分市场参与者对公司中期前景仍保持信心，尽管同期也存在减仓动作"
+      {
+        "point": "黄仁勋公开回应网络上关于800V机架及光互连方案延迟的传言，强调相关计划按原定进度推进，未出现重大延迟，缓解了市场对下一代机架级产品交付节奏的担忧"
+      },
+      {
+        "point": "近期有关中国市场的政策与订单消息偏正面，带动NVDA股价走高，显示出口管制及地缘政治风险边际改善，为数据中心GPU出货提供潜在增量"
+      },
+      {
+        "point": "公司持续扩大与云厂商、超大规模客户及生态伙伴的AI合作网络，分析机构认为这有助于其在AI芯片竞赛中维持领先身位，抵御新进入者的冲击"
+      }
     ],
     "bear": [
-      "Citi等华尔街机构近期对NVDA发出偏谨慎的警示信号，叠加大盘科技股在中东局势升级背景下普遍回调，短期估值与情绪面承压",
-      "Google等云厂商正加速自研TPU等定制芯片并深化与Neocloud的合作，长期可能侵蚀NVDA在数据中心训练与推理市场的份额与议价能力",
-      "光通信与互连（CPO/光引擎）产业链格局生变，Broadcom等竞争对手在交换平台领域与NVDA形成正面竞争，产业链重心分散可能压缩NVDA在系统级方案中的独占性"
+      {
+        "point": "OpenAI、Anthropic等主要AI客户被曝正在自研定制芯片，若大型客户逐步转向自研方案以降低成本和对单一供应商依赖，长期可能侵蚀NVDA的市场份额与议价能力"
+      },
+      {
+        "point": "摩根士丹利需公开为博通辩护以平息投资者对其在AI网络与定制芯片领域竞争力的担忧，侧面反映市场对NVDA在交换机平台及光学互连领域面临的竞争压力上升"
+      },
+      {
+        "point": "社交媒体上出现针对NVDA、台积电等万亿市值公司的做空叙事，倾向于放大个别技术细节（如光互连进度）来营造项目延迟的印象，说明市场情绪对负面传闻高度敏感，波动风险不容忽视"
+      }
     ],
     "watch": [
-      "Morgan Stanley关于CPO（共封装光学）产业链的研报，涉及Coherent、Lumentum等激光供应商、Broadcom与NVDA的交换平台之争，以及Lightmatter、Ayar Labs、Marvell/Celestial、POET等光子学新势力的竞争动态，需持续跟踪其对NVDA系统方案议价权的影响",
-      "地缘政治与红海/霍尔木兹海峡局势升级（美国对伊朗实施海上封锁、也门胡塞武装袭击沙特）带来的宏观风险偏好回落，可能持续压制半导体等高贝塔科技板块估值",
-      "市场上出现针对NVDA、台积电等万亿市值公司的看空叙事，倾向放大个别技术细节并推断整体项目延迟，需甄别是真实基本面风险还是情绪化做空叙事"
+      {
+        "point": "共封装光学（CPO）供应链动态，包括Coherent、Lumentum、台积电、博通及Lightmatter、Ayar Labs、Marvell、POET等在激光器与光学引擎环节的进展与产能分配"
+      },
+      {
+        "point": "800V机架及机架间光互连方案的实际交付时间表，需持续验证官方表态与供应链反馈是否一致，避免依赖单一信源判断"
+      },
+      {
+        "point": "OpenAI、Anthropic等核心客户自研芯片项目的进展速度与量产时间点，评估其对NVDA中长期需求结构的潜在影响"
+      }
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA是全球领先的GPU与AI加速计算平台提供商，产品覆盖数据中心训练与推理芯片、网络互联（如NVLink、InfiniBand）、软件生态CUDA以及面向企业与主权AI的整体解决方案。公司近年营收增长高度依赖数据中心业务，客户集中在超大规模云厂商与AI实验室，是当前全球AI资本开支周期的核心受益者之一"
+        "body": "NVIDIA是全球领先的图形处理器与AI加速计算平台提供商，产品覆盖数据中心GPU、网络互连（如NVLink、InfiniBand相关技术）及配套软件生态CUDA。公司当前营收增长主要由数据中心业务驱动，客户群体包括各大云计算厂商、AI实验室及企业客户，是过去两年生成式AI基础设施建设浪潮中的核心受益标的之一"
       },
       {
-        "heading": "业务与技术动态",
-        "body": "公司在CPO（共封装光学）与高速互联领域持续演进，行业研报显示交换平台层面NVIDIA与Broadcom处于正面竞争，而激光器、光引擎等上游环节则由Coherent、Lumentum、Lightmatter、Ayar Labs、Marvell/Celestial AI、POET等厂商共同参与，产业链呈现多点竞争格局。与此同时，管理层公开强调对出口管制与芯片走私的零容忍态度，显示合规议题在公司战略中的权重上升"
+        "heading": "行业格局与竞争",
+        "body": "NVIDIA在AI训练与推理芯片市场保持主导地位，但竞争格局正在发生变化。博通凭借定制ASIC与网络交换芯片业务被机构反复提及为潜在竞争者，同时OpenAI、Anthropic等大型AI公司被报道正推进自研芯片项目，试图降低对单一供应商的依赖。此外，Marvell、AMD等厂商也在数据中心加速计算与网络领域寻求切入空间"
       },
       {
-        "heading": "多空分歧观察",
-        "body": "市场对NVDA的分歧集中在两方面：一是近期关于Meta等大客户算力项目可能延迟的报道是否属实，公司及相关内部沟通已对此进行澄清，部分投资者认为这是错杀后的修复机会；另一方面，Citi等机构仍对估值与竞争格局持谨慎态度，叠加Google TPU等自研芯片对NVDA市场份额的潜在侵蚀，构成中长期结构性担忧"
+        "heading": "近期动态",
+        "body": "近期市场关注点集中在两方面：一是有关中国相关业务的积极消息带动股价上行；二是围绕800V机架及机架间光互连（rack-to-rack optical interconnect）方案是否存在延迟的争议，公司管理层已公开否认存在重大延迟。与此同时，摩根士丹利就CPO（共封装光学）产业链发布报告，点名包括NVIDIA在内的多家参与交换机平台与光学引擎环节的公司"
+      },
+      {
+        "heading": "多空观点分歧",
+        "body": "多头观点认为，公司在AI基础设施领域的技术与生态护城河短期内难以被撼动，管理层对延迟传闻的公开澄清也有助于稳定市场预期；空头观点则聚焦于大客户自研芯片的长期替代风险，以及博通等竞争对手在网络与定制芯片领域的份额扩张压力。双方分歧的核心在于：NVDA的技术领先优势能否持续对冲客户自研化与竞争加剧带来的结构性挑战"
       },
       {
         "heading": "跟踪者动向解读",
-        "body": "公开披露显示，国会议员Pelosi在2024年末至2026年初的多个时间窗口对NVDA进行了新建多头仓位的操作，同时也存在部分减仓（trim）记录，呈现分批建仓与阶段性获利了结并存的模式，并不构成单一方向的强烈信号，需结合披露的时间滞后性谨慎解读"
+        "body": "公开披露显示，佩洛西（Pelosi）家族账户在过去一年多次对NVDA进行新建仓操作，同时也存在阶段性减持记录，整体呈现新增与获利了结交替出现的模式，并非单向持续加仓，反映出即便是长期看好AI主题的投资者，也会根据估值与市场波动进行仓位调整。社交媒体上关于CPO与光互连进度的讨论热度较高，但内容多为传闻与技术细节的放大解读，尚未形成一致结论，建议持续关注官方财报与供应链一手信息加以验证"
       },
       {
-        "heading": "宏观与情绪面",
-        "body": "近期市场受伊朗局势、霍尔木兹海峡通行费及美国海上封锁等地缘政治事件影响，风险偏好整体回落，科技与半导体板块跟随大盘走弱。此外，社交媒体上出现针对NVDA、台积电等公司的系统性看空叙事，倾向于放大局部技术细节并推断整体延迟，投资者需区分情绪化叙事与真实基本面变化"
-      },
-      {
-        "heading": "风险提示",
-        "body": "需持续关注的风险包括：出口管制与芯片走私相关的监管与声誉风险、云厂商自研芯片对份额的中长期侵蚀、光通信与互连产业链竞争格局演变、以及地缘政治紧张局势对全球风险偏好和供应链的潜在冲击。本分析仅基于公开信息整理，不构成任何买卖建议"
+        "heading": "风险与展望",
+        "body": "短期风险包括：地缘政治及出口管制政策的不确定性、光学互连等新技术落地节奏是否符合预期、以及大型客户自研芯片进度是否超预期加快。长期来看，AI基础设施资本开支的可持续性、行业内定制芯片渗透率的提升速度，以及NVIDIA能否通过软件生态与系统级产品（而非单纯芯片性能）维持差异化优势，将是决定其中长期竞争地位的关键变量"
       }
     ],
     "comparables": [
       {
         "ticker": "AVGO",
-        "name": "Broadcom",
-        "note": "在交换平台与网络互联领域与NVIDIA形成直接竞争，同时也是AI基础设施关键供应商"
-      },
-      {
-        "ticker": "GOOGL",
-        "name": "Alphabet/Google",
-        "note": "通过自研TPU并深化与Neocloud合作，是NVIDIA在数据中心加速计算领域的潜在长期竞争者"
+        "name": "博通",
+        "note": "在定制ASIC与AI网络交换芯片领域被视为NVIDIA的重要竞争对手，近期获机构公开力挺以回应市场竞争担忧"
       },
       {
         "ticker": "TSM",
         "name": "台积电",
-        "note": "NVIDIA核心晶圆代工合作伙伴，近期同样受到看空叙事与地缘政治风险关注"
-      },
-      {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "通过Celestial AI等合作在光子学与互连领域布局，与NVIDIA存在部分产业链竞合关系"
+        "note": "NVIDIA核心晶圆代工合作伙伴，同时也是CPO及先进封装产业链的关键参与者"
       },
       {
         "ticker": "AMD",
-        "name": "Advanced Micro Devices",
-        "note": "数据中心GPU领域的主要直接竞争对手，产品线与NVIDIA形成正面竞争"
+        "name": "超威半导体",
+        "note": "数据中心GPU领域的主要直接竞争者，产品线与NVIDIA形成正面竞争"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "迈威尔科技",
+        "note": "在定制芯片及光学引擎环节与NVIDIA存在竞合关系，被机构列为CPO产业链关键参与者之一"
+      },
+      {
+        "ticker": "INTC",
+        "name": "英特尔",
+        "note": "传统数据中心芯片厂商，正尝试通过自研加速卡切入AI计算市场，与NVIDIA形成潜在竞争"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-13T22:00:31.714683Z"
+    "generatedAt": "2026-07-14T22:01:51.789976Z"
   },
   "news": [
     {
-      "id": "NVDA-140889901",
-      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "id": "NVDA-140901342",
+      "title": "Jeff Bezos Put $2 Billion of His Own Money Into Blue Origin's Funding Round",
       "source": "Yahoo",
-      "publishedAt": "2026-07-13",
-      "url": "https://finnhub.io/api/news?id=d3927ad54ef25f09ff2a8f43ecda858078566e0b5bbae035ea2c3d6088df6690",
+      "publishedAt": "2026-07-14",
+      "url": "https://finnhub.io/api/news?id=585c35ddd70ca306a6793f81a87d627b5d522f8d119fe63ece84aa7233afe2a1",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140889902",
-      "title": "Citi Has a Stark Message for Nvidia Stock Fans",
+      "id": "NVDA-140901343",
+      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
       "source": "Yahoo",
-      "publishedAt": "2026-07-13",
-      "url": "https://finnhub.io/api/news?id=8e47f9d600300fd872551dcba2ded3243f223ffebefbfc7b71f52bf6da532141",
+      "publishedAt": "2026-07-14",
+      "url": "https://finnhub.io/api/news?id=74a9bf5ec2a7388aeb461eab72ae7f541af677992a41ab94e5064fe71b3941ce",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140889903",
-      "title": "Why AI Investors Can Finally Buy the World's Top HBM Maker Directly",
+      "id": "NVDA-140901344",
+      "title": "Microsoft Is Cheaper Than the S&P 500. Now Is the Perfect Time to Load Up on the Stock.",
       "source": "Yahoo",
-      "publishedAt": "2026-07-13",
-      "url": "https://finnhub.io/api/news?id=ad05a47ef83e1268953774bf1c23fe26145ddcb6f76b067e9aea758338d103f7",
+      "publishedAt": "2026-07-14",
+      "url": "https://finnhub.io/api/news?id=91176e1c219e35f084e257f2ee901f9a489822e3d92f9915a076328b73cceee3",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140889904",
-      "title": "Google Takes Aim at Nvidia's AI Chip Market",
+      "id": "NVDA-140901345",
+      "title": "Inflation Slowed to 3.5% in June, but How Long Will It Last? Here's What Investors Need to Know.",
       "source": "Yahoo",
-      "publishedAt": "2026-07-13",
-      "url": "https://finnhub.io/api/news?id=1c47fd978ef50b1d7f48cbd8ba7fd12125e7ecb8088533e5f061528a165b88d4",
+      "publishedAt": "2026-07-14",
+      "url": "https://finnhub.io/api/news?id=3ebde78221cdcb29ca315998835cc6028268abf226d30ee216f8b8cc626c0c0e",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140889905",
-      "title": "Jensen Huang Slammed a $2.5 Billion Chip-Smuggling Scheme at Nvidia's Stockholder Meeting",
+      "id": "NVDA-140901346",
+      "title": "OpenAI and Anthropic Are Developing Their Own Custom AI Chips: Here Are the Stocks That Could Benefit The Most",
       "source": "Yahoo",
-      "publishedAt": "2026-07-13",
-      "url": "https://finnhub.io/api/news?id=f4eb5206f2995f5dbb86c5e90d43f9a2baab3e3e596b5c77cf0175092f8b0b50",
+      "publishedAt": "2026-07-14",
+      "url": "https://finnhub.io/api/news?id=f7fdb7b7dcfb4d197d9875257d70f1e42b90dd6ce890667b0982406dfcab2a5c",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140889906",
-      "title": "AppLovin Stock Tumbles 12% Amid Broader Selloff",
+      "id": "NVDA-140901347",
+      "title": "2 Magnificent ETFs for Retirees That Pay More Than 3%",
       "source": "Yahoo",
-      "publishedAt": "2026-07-13",
-      "url": "https://finnhub.io/api/news?id=9e244e162af819017c81ae6b1f201cada720b87a2ef0adb4c41fb52ffd7633cc",
+      "publishedAt": "2026-07-14",
+      "url": "https://finnhub.io/api/news?id=04ab91248811efa96d3d51c6d7b48d53a315e1fa650bbc2c3ece711b447c356b",
       "tags": [
         "NVDA"
       ]
