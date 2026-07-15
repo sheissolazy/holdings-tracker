@@ -321,6 +321,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-07-15",
+    "sentiment": "watch",
+    "excerpt": "Great News America! The Dumocrat caused inflation is way down from what it had been, and we will bring it down still further. MAGA!",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/116923472077180326",
+    "ticker": "",
+    "topics": [
+      "通胀"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-07-14",
     "sentiment": "watch",
     "excerpt": "Labor Department reports annual inflation in June was 3.5%, biggest monthly drop in over six years: https:// justthenews.com/nation/economy /labor-department-reports-annual-inflation-june-was-35-biggest-monthly-drop-over-six",
@@ -343,13 +355,95 @@
     ]
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-15",
+    "sentiment": "watch",
+    "excerpt": "Anthropic to IPO as early as October per Bloomberg.\n\nThis is following their $65B financing at a $965 billion  valuation last May.\n\nHmm, would you all invest in Anthropic at a $1T+ valuation? https://t.co/iFIY1WulvO",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077437150715666900",
+    "ticker": "",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-15",
+    "sentiment": "watch",
+    "excerpt": "$AAPL looks to acquire AI chip companies for running AI (Source: The Information)\n\nRight now, $MSFT, $META, Amazon, Google are carrying AI capex spend.\n\nBut what if Apple joined the others after M&A? \n\nA possible scenario is that they revis",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077421268991926703",
+    "ticker": "AAPL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-15",
+    "sentiment": "watch",
+    "excerpt": "$AAPL looks to acquire AI chip companies for running AI (Source: The Information)\n\nRight now, $MSFT, $META, Amazon, Google are carrying AI capex spend.\n\nBut what if Apple joined the others after M&A? \n\nA possible scenario is that they revis",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077421268991926703",
+    "ticker": "AMZN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-15",
+    "sentiment": "watch",
+    "excerpt": "$AAPL looks to acquire AI chip companies for running AI (Source: The Information)\n\nRight now, $MSFT, $META, Amazon, Google are carrying AI capex spend.\n\nBut what if Apple joined the others after M&A? \n\nA possible scenario is that they revis",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077421268991926703",
+    "ticker": "META",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-15",
+    "sentiment": "watch",
+    "excerpt": "$AAPL looks to acquire AI chip companies for running AI (Source: The Information)\n\nRight now, $MSFT, $META, Amazon, Google are carrying AI capex spend.\n\nBut what if Apple joined the others after M&A? \n\nA possible scenario is that they revis",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077421268991926703",
+    "ticker": "MSFT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-15",
+    "sentiment": "watch",
+    "excerpt": "$NVDA CEO, Jensen Huang in Tokyo today said:\n\n\"The reports are not true. Vera Rubin is already in production. Giant amounts of production incoming\"\n\nAs a flat denial to the accusation that their AI servers would be delayed. \n\nJensen appears",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077406548012466390",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-07-14",
     "sentiment": "watch",
-    "excerpt": "Ancient times  https://t.co/8VWNoiOHjg",
-    "postUrl": "https://x.com/elonmusk/status/2077044528234553709",
-    "ticker": "",
+    "excerpt": "Well, looks like SLC NAND is forcasted to rise up 120-170% for H2 2026 per Trendforce. \n\nThere's $MU (21%), Kioxia (20%) as largest share, but clearer beneficiaries appears to be:\n\n1. Winbond (2344): ~15% of the SLC NAND market\n2. Macronix ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077228758491386121",
+    "ticker": "MU",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-14",
+    "sentiment": "watch",
+    "excerpt": "$AEHR back up +36.4% today off earnings!\n\n2027 guide: $130-$150m (160-200% growth) from 2026 revenue.  Sees opportunity to guide higher (assumes no memory revenue or little to none from newly benchmarked AI customer).\n\nQ4 bookings: $60.7M, ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077208587005542464",
+    "ticker": "AEHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-14",
+    "sentiment": "watch",
+    "excerpt": "$AEHR back up +36.4% today off earnings!\n\n2027 guide: $130-$150m (160-200% growth) from 2026 revenue.  Sees opportunity to guide higher (assumes no memory revenue or little to none from newly benchmarked AI customer).\n\nQ4 bookings: $60.7M, ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077208587005542464",
+    "ticker": "SNDK",
     "topics": []
   },
   {
@@ -750,68 +844,6 @@
     "excerpt": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE:\n\n\"Stocks in the Optical sector have traded poorly for the last 1-2 months\" due to CPO delay reports and China capacity scares.\n\n\"We think short sellers... do not actually str",
     "postUrl": "https://x.com/aleabitoreddit/status/2075634064518955297",
     "ticker": "SIVEF",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Sk Hynix is now trading under $SKHYV!\n\nIt's now up an insane 16%.\n\nI wonder how Sk Hynix over in Korea is going to react on Monday. https://t.co/Mmqdu0poVY",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075611260771852590",
-    "ticker": "SKHYV",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Why do I have this weird feeling the main reason retail is excited SK Hynix NASDAQ listing.\n\nIs because they can do degen option calls instead of individual stock purchases. https://t.co/vXmrncXQOm",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075590371531493729",
-    "ticker": "",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Mitsubishi Motors joins robotics race to deploy humanoid workers by 2027. \n\nPairing with Highlanders, a Japanese robotics company.\n\n- Agility $CCXI x Foxconn, Toyota\n- Apptronik x $JBL, Mercedes\n- Highlanders x Mitsubishi\n- Figure × BMW\n- B",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075557588159058076",
-    "ticker": "CCXI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Mitsubishi Motors joins robotics race to deploy humanoid workers by 2027. \n\nPairing with Highlanders, a Japanese robotics company.\n\n- Agility $CCXI x Foxconn, Toyota\n- Apptronik x $JBL, Mercedes\n- Highlanders x Mitsubishi\n- Figure × BMW\n- B",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075557588159058076",
-    "ticker": "JBL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Mitsubishi Motors joins robotics race to deploy humanoid workers by 2027. \n\nPairing with Highlanders, a Japanese robotics company.\n\n- Agility $CCXI x Foxconn, Toyota\n- Apptronik x $JBL, Mercedes\n- Highlanders x Mitsubishi\n- Figure × BMW\n- B",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075557588159058076",
-    "ticker": "TSLA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "The \"Mythical Golden Egg Dragon Candle\" predicted the $SIVE rally today. \n\nIf you look at the Golden Egg hatching indicator I drew, you can tell it predicts Sivers CEO buying on the open market a day later. \n\nDo you guys think it's time I s",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075539824589860866",
-    "ticker": "SIVE",
     "topics": []
   },
   {

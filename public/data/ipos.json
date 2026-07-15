@@ -1,5 +1,17 @@
 [
   {
+    "ticker": "NCOU",
+    "name": "Southern Cross Acquisition I Corp.",
+    "date": "2026-07-17",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "STDN",
     "name": "Standard Nuclear, Inc.",
     "date": "2026-07-16",
@@ -24,6 +36,30 @@
     "status": "expected"
   },
   {
+    "ticker": "QMLS",
+    "name": "QumulusAI, Inc.",
+    "date": "2026-07-16",
+    "priceRange": [
+      0,
+      0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
+    "ticker": "MOT",
+    "name": "MetaOptics Ltd",
+    "date": "2026-07-15",
+    "priceRange": [
+      5.0,
+      7.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Capital",
+    "status": "expected"
+  },
+  {
     "ticker": "EWAVU",
     "name": "East West Ave Acquisition Corp.",
     "date": "2026-07-15",
@@ -33,30 +69,6 @@
     ],
     "sector": "—",
     "exchange": "NASDAQ Global",
-    "status": "expected"
-  },
-  {
-    "ticker": "JONEU",
-    "name": "Jones Ventures INTL Acquisition1 Corp",
-    "date": "2026-07-14",
-    "priceRange": [
-      10.0,
-      10.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global",
-    "status": "expected"
-  },
-  {
-    "ticker": "MOT",
-    "name": "MetaOptics Ltd",
-    "date": "2026-07-14",
-    "priceRange": [
-      5.0,
-      7.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Capital",
     "status": "expected"
   }
 ]
