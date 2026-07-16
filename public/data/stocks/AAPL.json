@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 327.5,
-  "change5dPct": 4.5,
-  "changeYtdPct": 28.2,
-  "marketCap": "$4.62T",
-  "pe": 39.2,
+  "price": 333.26,
+  "change5dPct": 5.4,
+  "changeYtdPct": 35.1,
+  "marketCap": "$4.81T",
+  "pe": 39.8,
   "revenue": "—",
   "revenueYoYPct": 13,
   "prices": [
-    {
-      "t": "2026-01-16",
-      "o": 257.9,
-      "h": 258.9,
-      "l": 254.93,
-      "c": 255.53
-    },
     {
       "t": "2026-01-20",
       "o": 252.73,
@@ -868,130 +861,147 @@
     {
       "t": "2026-07-15",
       "o": 317.62,
-      "h": 328.72,
+      "h": 328.73,
       "l": 317.32,
       "c": 327.5
+    },
+    {
+      "t": "2026-07-16",
+      "o": 328.01,
+      "h": 334.68,
+      "l": 326.79,
+      "c": 333.26
     }
   ],
   "thesis": {
     "bull": [
-      "Apple在中国市场出现AI技术突破，据报道其中国区iPhone将采用阿里巴巴Qwen大模型提供本地化AI功能，若落地顺利有望提振中国销量与换机意愿",
-      "市场消息称Apple正评估收购AI芯片初创公司以补强自研AI算力，若成真将有助于缩小与Microsoft、Meta、Amazon、Google等同行在AI基础设施投入上的差距",
-      "AAPL年内涨幅已达约20%，部分卖方观点讨论其能否进一步上探350美元，显示市场对其AI叙事和服务业务持续增长仍有一定信心"
+      "中国监管机构放行Apple Intelligence相关功能，市场情绪明显回暖（同期阿里巴巴等中国科技股大涨），若能转化为实际换机需求，将缓解此前对苹果在华竞争力和AI落后的担忧",
+      "有报道（The Information援引）称苹果正考虑收购AI芯片相关公司以自建算力，若落地将改变市场此前对其AI资本开支过于保守的印象，缩小与微软、Meta、亚马逊、谷歌在AI基建投入上的差距",
+      "英伟达CEO黄仁勋近期言论带动市场对苹果AI前景的乐观预期，叠加AppleCare+等服务及配件价格持续上调，显示公司在服务与生态业务上仍具备较强定价权"
     ],
     "bear": [
-      "公开披露显示Pelosi在2025年底至2026年初的多笔AAPL交易以减持、清仓为主，仅有一笔新建仓记录，交易方向并不统一，难以形成清晰的多头信号",
-      "相较于Microsoft、Meta、Amazon、Google在AI资本开支上的大举投入，Apple目前更多依赖外部模型合作（如Qwen）而非自研基础设施，其AI战略的商业化路径和资本回报仍不明朗",
-      "中东局势紧张、关税及贸易政策不确定性可能通过供应链成本和消费需求两端对iPhone在中国及全球市场的销售造成扰动"
+      "公开披露显示，佩洛西在2025年末至2026年初对苹果持仓多次减持（仅有一笔同批次的新建仓记录），交易方向本身存在矛盾，市场解读需谨慎，不宜简单视为看多或看跌信号",
+      "近期半导体板块出现联动式抛售（美光、博通、AMD、英特尔等同步走弱），若AI资本开支放缓的担忧扩散至更广泛科技股，可能间接压制市场对苹果AI战略及供应链的估值预期",
+      "苹果拟通过并购追赶AI基础设施投入的消息目前仍停留在传闻阶段，尚无官方确认，标的、规模、整合路径及对利润率的影响均不确定，执行风险不容忽视"
     ],
     "watch": [
-      "Apple潜在AI芯片公司并购的具体标的、交易规模、估值及是否需要监管审批",
-      "采用Qwen模型的中国区AI功能上线后的实际用户反馈、使用率及对iPhone换机周期的拉动效果是否可持续",
-      "国会议员及大型机构后续持仓变化，尤其关注Pelosi等人是否延续近期以减持为主的交易倾向"
+      "苹果是否正式官宣AI芯片相关并购交易，以及具体标的、交易规模与后续整合进展",
+      "中国市场Apple Intelligence落地后的实际用户反馈与后续销量、换机数据，验证监管放行能否转化为实际业绩贡献",
+      "中东地缘局势（伊朗与美国等多方紧张升级）及半导体板块抛售是否持续蔓延，从而影响整体科技股风险偏好和苹果估值"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Apple是全球市值最大的科技公司之一，核心业务包括iPhone、Mac、iPad等硬件产品，以及App Store、iCloud、Apple Music等高毛利服务业务。近年来公司战略重心逐步从硬件销售增长转向服务收入占比提升与AI能力整合，中国市场则是其营收和产能布局的重要一环，也是当前多空分歧的焦点区域之一。"
+        "body": "苹果是全球市值领先的消费电子与科技公司，核心产品线包括iPhone、Mac、iPad、可穿戴设备及配件，并持续拓展App Store、AppleCare、云服务、支付与广告等高毛利服务业务。公司在全球拥有庞大且粘性较高的用户生态，硬件与服务的协同是其长期盈利模式的核心支柱。"
       },
       {
         "heading": "近期动态",
-        "body": "近期媒体报道Apple在中国区iPhone上采用阿里巴巴Qwen AI模型，被视为其在中国市场的一次AI技术突破，相关消息也带动了阿里巴巴股价上涨。同时有报道称Apple正在寻求收购AI芯片初创公司，以补强其在AI算力领域相对落后的布局。此外AAPL股价年内涨幅约20%，市场开始讨论其上行空间。"
+        "body": "近期市场关注焦点集中在两方面：一是中国监管机构对Apple Intelligence相关功能的审批放行，被视为可能重启中国区iPhone换机周期的催化剂；二是有媒体报道苹果正评估通过并购AI芯片公司来补强自身AI算力短板，以追赶已大举投入AI基础设施的其他大型科技公司。此外，苹果近期再度上调AppleCare+等服务及配件价格，市场解读为对即将到来的iPhone价格上涨做铺垫，也反映公司在服务端仍具备提价能力。"
       },
       {
-        "heading": "多头逻辑",
-        "body": "支持者认为，与Qwen等第三方大模型的合作可以让Apple在不承担自研大模型全部研发成本的前提下，较快为中国用户提供本地化AI功能，从而改善iPhone在中国市场的竞争力和用户体验。若后续通过并购获得AI芯片能力，则有望在中长期缩小与Mag7同行在AI基础设施上的差距，为Apple Intelligence等功能提供更强算力支撑。股价年内的上涨也被部分观点解读为市场对上述叙事的初步认可。"
+        "heading": "财务与业务表现",
+        "body": "公开信息中未提供苹果最新一期具体财务数据，暂不作定量展开。整体而言，市场关注点仍是iPhone换机周期能否受益于AI功能落地和中国市场放行、服务业务的持续增长动能，以及公司在AI资本开支上相对同业（微软、Meta、亚马逊、谷歌）是否偏保守，这一差距可能影响投资者对其长期AI变现能力的评估。"
       },
       {
-        "heading": "空头逻辑",
-        "body": "怀疑者指出，Apple在AI资本开支上明显落后于Microsoft、Meta、Amazon、Google，目前更多依赖外部模型合作而非自建基础设施，商业化路径和投资回报尚不清晰，收购AI芯片公司也仅停留在传闻阶段，存在不确定性。与此同时，公开披露的交易记录显示，2025年底以来相关减持交易多于新建仓，反映出至少部分大额投资者对短期估值或前景持谨慎态度。地缘政治及贸易关系的紧张态势也为供应链和终端需求带来额外变量。"
+        "heading": "多空观点",
+        "body": "多头逻辑认为，中国监管放行与潜在的AI芯片并购动作，若能兑现，将显著改善市场对苹果AI战略滞后的负面预期，同时服务业务持续提价显示定价权仍在；空头逻辑则强调，相关并购消息仍属传闻阶段、缺乏官方确认，且近期半导体板块整体承压、AI资本开支放缓的担忧若扩散，可能拖累市场对苹果供应链及AI故事的估值信心。双方分歧的核心在于苹果能否将潜在的AI布局转化为可验证的产品和业绩，而非停留在预期层面。"
       },
       {
-        "heading": "跟踪者与机构动向",
-        "body": "根据公开披露，Pelosi在2025年12月至2026年1月期间涉及AAPL的多笔交易中，减持（含清仓）方向明显多于新建仓，此前2025年10月和2024年12月底的交易也均为减持性质，交易频率和方向变化值得持续关注。社交媒体上的讨论则更多聚焦于Apple潜在的AI芯片并购传闻及其在AI生态中相对被动的位置，市场情绪整体偏向观望而非一致看多或看空。"
+        "heading": "跟踪者/机构动向",
+        "body": "公开披露的国会交易记录显示，佩洛西对苹果的持仓在2025年末至2026年初以减持为主（同一批披露中包含一笔新建仓和多笔减持记录），信号方向并不完全一致，需结合具体披露文件辨别是账户内部调整还是净敞口变化。社交媒体上部分关注科技股的评论者持「观望」态度，聚焦苹果potential的AI并购传闻及其对AI资本开支格局的潜在影响，尚未形成一致结论。"
       },
       {
         "heading": "风险与展望",
-        "body": "短期来看，中国区AI功能落地效果、潜在并购的具体进展，以及地缘政治和关税政策的演变，都是影响AAPL走势的关键变量。中长期而言，Apple能否将AI能力有效转化为硬件销量增长和服务生态粘性，将是决定其能否维持当前估值溢价的核心问题。投资者需权衡短期不确定性与公司在品牌、生态和现金流方面的长期优势，本分析不构成买卖建议。"
+        "body": "主要风险包括：AI芯片并购传闻若最终未能落地或整合不及预期，可能令市场重新计入AI战略滞后的担忧；半导体板块的联动抛售若持续蔓延，可能拖累整体科技股估值中枢；中东地缘政治局势升级也为全球风险偏好带来不确定性。展望层面，中国区Apple Intelligence的实际转化效果、iPhone价格与AppleCare+等服务提价后的需求弹性，以及苹果在AI基础设施投入上的后续动作，都将是决定市场对其重新定价的关键变量。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
-        "name": "Microsoft",
-        "note": "在AI资本开支和自研基础设施投入上显著领先，是Apple在AI布局对比中的重要参照对象"
+        "name": "微软",
+        "note": "AI资本开支力度较大的同业，常被用作衡量苹果AI投入是否保守的参照"
       },
       {
         "ticker": "GOOGL",
-        "name": "Alphabet",
-        "note": "同为Mag7成员，在AI模型自研和云基础设施上投入较大，与Apple依赖外部合作模式形成对比"
+        "name": "谷歌母公司Alphabet",
+        "note": "在AI基础设施和芯片自研上投入较早，是苹果潜在AI并购策略的对比对象"
       },
       {
-        "ticker": "BABA",
-        "name": "Alibaba",
-        "note": "其Qwen大模型据报道被用于Apple中国区AI功能，相关消息发布后股价出现上涨"
+        "ticker": "AMZN",
+        "name": "亚马逊",
+        "note": "同属大举投入AI算力的大型科技公司，云与AI资本开支节奏可作参考"
+      },
+      {
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "AI芯片核心供应商，其CEO近期言论直接影响市场对苹果AI前景的预期，同时也是近期芯片板块波动的风向标"
+      },
+      {
+        "ticker": "9988.HK",
+        "name": "阿里巴巴",
+        "note": "因Apple Intelligence获中国监管放行而联动上涨，反映中国科技监管环境变化对苹果供应链和生态伙伴的外溢影响"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-15T22:07:47.606503Z"
+    "generatedAt": "2026-07-16T22:09:03.786323Z"
   },
   "news": [
     {
-      "id": "AAPL-140912718",
+      "id": "AAPL-140924239",
       "title": "Sector Update: Tech Stocks Fall Late Afternoon",
       "source": "Yahoo",
-      "publishedAt": "2026-07-15",
-      "url": "https://finnhub.io/api/news?id=a0a5385b3d686719bb8cf38c26362b65cd84b767feccf18df30680187884acf3",
+      "publishedAt": "2026-07-16",
+      "url": "https://finnhub.io/api/news?id=fd20c02b301905a60ac4c57b7e085711227bd9c179ea378195c4b1ece6553618",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140912724",
-      "title": "Apple Is Up 20% in 2026. What Will It Take for AAPL Stock to Hit $350?",
+      "id": "AAPL-140924240",
+      "title": "Alibaba Jumps 7.9% as Apple Intelligence Approval Revives China Tech Rally",
       "source": "Yahoo",
-      "publishedAt": "2026-07-15",
-      "url": "https://finnhub.io/api/news?id=0d54a759762010027016fe1fd017621119a1a5e8ffb4db17f4928364da1dc44d",
+      "publishedAt": "2026-07-16",
+      "url": "https://finnhub.io/api/news?id=0ede483afbb0f2986982a3bac725414d3b2512609458ce50157941d2eb47c0f5",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140912443",
-      "title": "What's going on in today's session: dow jones movers",
-      "source": "ChartMill",
-      "publishedAt": "2026-07-15",
-      "url": "https://finnhub.io/api/news?id=6750508196e401c3e7147c7d16e101bbbf6a7f4a57e20206b50542adf6290ea5",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-140912442",
-      "title": "Which S&P500 stocks are moving on Wednesday?",
-      "source": "ChartMill",
-      "publishedAt": "2026-07-15",
-      "url": "https://finnhub.io/api/news?id=d213a7bc45e61de090c471914ad23104be342b21d7fdfd1d103000c412ff81b2",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-140912743",
-      "title": "Alibaba Stock Is Jumping -- Apple Picks Qwen AI for China iPhones",
+      "id": "AAPL-140924241",
+      "title": "Apple Raises AppleCare+ Prices Again Ahead of Expected iPhone Price Increases",
       "source": "Yahoo",
-      "publishedAt": "2026-07-15",
-      "url": "https://finnhub.io/api/news?id=15d556f3793859cec0ff94da64cc293873bbd4686e35b26305699f5e45fe3e64",
+      "publishedAt": "2026-07-16",
+      "url": "https://finnhub.io/api/news?id=2eac5b70404fb00140755c73cb209ab2ef2969bd33d1f4c3d4ca8bc64e821f9b",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140912744",
-      "title": "Apple Looks to Buy AI Chip Startups",
+      "id": "AAPL-140924225",
+      "title": "TSMC Adds $100 Billion to U.S. Expansion",
       "source": "Yahoo",
-      "publishedAt": "2026-07-15",
-      "url": "https://finnhub.io/api/news?id=d02166e73838b7bf2fb4e83d57ca6388da649c57f45b29c546d4da373985c9c1",
+      "publishedAt": "2026-07-16",
+      "url": "https://finnhub.io/api/news?id=293a4ed7cbb136b9a0671beac6bc6619217abc27061ac91ee65c6ed710657a51",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-140924243",
+      "title": "Apple’s China Approval For Apple Intelligence Might Change The Case For Investing In Apple (AAPL)",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-16",
+      "url": "https://finnhub.io/api/news?id=6c8dece4808dab267a0459661738658745d10692fb8b5fb46d24937404bd3609",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-140924244",
+      "title": "Apple (AAPL) Rides Growing Demand for AI-Enabled Smartwatches",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-16",
+      "url": "https://finnhub.io/api/news?id=0af6467b42d434ba81f05bdca731afc63a853416ad021d5aaf89417a8138018d",
       "tags": [
         "AAPL"
       ]

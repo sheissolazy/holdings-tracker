@@ -355,6 +355,114 @@
     ]
   },
   {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-07-16",
+    "sentiment": "watch",
+    "excerpt": "Tesla now in Uruguay",
+    "postUrl": "https://x.com/elonmusk/status/2077875206702448814",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-16",
+    "sentiment": "watch",
+    "excerpt": "My guess is we’re close to market bottom on semis from $INTC to $LITE.\n\nA good indicator is if everyone on $RDDT blew up their portfolios to $0. https://t.co/X1m9Yv1JuX",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077784594959725056",
+    "ticker": "INTC",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-16",
+    "sentiment": "watch",
+    "excerpt": "My guess is we’re close to market bottom on semis from $INTC to $LITE.\n\nA good indicator is if everyone on $RDDT blew up their portfolios to $0. https://t.co/X1m9Yv1JuX",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077784594959725056",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-16",
+    "sentiment": "watch",
+    "excerpt": "My guess is we’re close to market bottom on semis from $INTC to $LITE.\n\nA good indicator is if everyone on $RDDT blew up their portfolios to $0. https://t.co/X1m9Yv1JuX",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077784594959725056",
+    "ticker": "RDDT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-16",
+    "sentiment": "watch",
+    "excerpt": "Lot of people were curious about $SIVE capacity volume ramp modeling through fab-light (Win Semi + others):\n\nUsing 10% of Win's wafer capacity as a low-end allocation (65% yield assumption, $50-$75 ASP):\n\nSivers would support $341-$512M wor",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077768896061563339",
+    "ticker": "AMD",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-16",
+    "sentiment": "watch",
+    "excerpt": "Lot of people were curious about $SIVE capacity volume ramp modeling through fab-light (Win Semi + others):\n\nUsing 10% of Win's wafer capacity as a low-end allocation (65% yield assumption, $50-$75 ASP):\n\nSivers would support $341-$512M wor",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077768896061563339",
+    "ticker": "GFS",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-16",
+    "sentiment": "watch",
+    "excerpt": "Lot of people were curious about $SIVE capacity volume ramp modeling through fab-light (Win Semi + others):\n\nUsing 10% of Win's wafer capacity as a low-end allocation (65% yield assumption, $50-$75 ASP):\n\nSivers would support $341-$512M wor",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077768896061563339",
+    "ticker": "JBL",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-16",
+    "sentiment": "watch",
+    "excerpt": "Lot of people were curious about $SIVE capacity volume ramp modeling through fab-light (Win Semi + others):\n\nUsing 10% of Win's wafer capacity as a low-end allocation (65% yield assumption, $50-$75 ASP):\n\nSivers would support $341-$512M wor",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077768896061563339",
+    "ticker": "POET",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-16",
+    "sentiment": "watch",
+    "excerpt": "Today, $MU announced it signed memory LTAs with $QCOM.\n\nInteresting reaction to see Micron proceeded to drop 5.37% right after.\n\nDoesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural a",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077753660592033828",
+    "ticker": "MU",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-16",
+    "sentiment": "watch",
+    "excerpt": "Today, $MU announced it signed memory LTAs with $QCOM.\n\nInteresting reaction to see Micron proceeded to drop 5.37% right after.\n\nDoesn’t quite feel like there’s anything individually wrong with memory or AI names with all these structural a",
+    "postUrl": "https://x.com/aleabitoreddit/status/2077753660592033828",
+    "ticker": "QCOM",
+    "topics": []
+  },
+  {
     "personId": "serenity",
     "type": "social",
     "asOf": "2026-07-15",
@@ -714,136 +822,6 @@
     "excerpt": "So there's a IBK Research report on Boston Dynamics value chains from last month. \n\nJust a summary: \n\nIBK maps these companies to Atlas as suppliers:\n- Hwashin (010690) / body, arms, legs\n- LG Energy (373220) / battery \n- Hyundai Autoever (",
     "postUrl": "https://x.com/aleabitoreddit/status/2076248337863639506",
     "ticker": "XPEV",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-11",
-    "sentiment": "watch",
-    "excerpt": "Apparently, Korean Beauty was where all the alpha is.\n\nAPR (278470.KS) is up 529% over the past 2Y, wildly outperforming both $NVDA and $INTC.\n\nEvery female I know talks about their \"Medicube\" stick, then buying products... where you put a ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2076030743655109063",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-11",
-    "sentiment": "watch",
-    "excerpt": "Apparently, Korean Beauty was where all the alpha is.\n\nAPR (278470.KS) is up 529% over the past 2Y, wildly outperforming both $NVDA and $INTC.\n\nEvery female I know talks about their \"Medicube\" stick, then buying products... where you put a ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2076030743655109063",
-    "ticker": "INTC",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-11",
-    "sentiment": "watch",
-    "excerpt": "Contrarian take, but Sam Altman / OpenAI is doing something right if he's pissing off every Mag7 like $AAPL. \n\nBy building their own ecosystem instead of being sucked into another. \n\nIt's been awhile since $GOOGL, Apple, Microsoft, and othe",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075894311741440041",
-    "ticker": "AAPL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-11",
-    "sentiment": "watch",
-    "excerpt": "Contrarian take, but Sam Altman / OpenAI is doing something right if he's pissing off every Mag7 like $AAPL. \n\nBy building their own ecosystem instead of being sucked into another. \n\nIt's been awhile since $GOOGL, Apple, Microsoft, and othe",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075894311741440041",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-11",
-    "sentiment": "watch",
-    "excerpt": "Contrarian take, but Sam Altman / OpenAI is doing something right if he's pissing off every Mag7 like $AAPL. \n\nBy building their own ecosystem instead of being sucked into another. \n\nIt's been awhile since $GOOGL, Apple, Microsoft, and othe",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075894311741440041",
-    "ticker": "MSFT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. \n\nIn what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that \"flattens networks and cuts transceiver TAM 40-50%\".\n\nRosenblatt TLDR: They've already ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075645547978084371",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. \n\nIn what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that \"flattens networks and cuts transceiver TAM 40-50%\".\n\nRosenblatt TLDR: They've already ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075645547978084371",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. \n\nIn what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that \"flattens networks and cuts transceiver TAM 40-50%\".\n\nRosenblatt TLDR: They've already ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075645547978084371",
-    "ticker": "AVGO",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Regarding $AMZN RNG + OpenAI’s MRC and VCSELs. \n\nIn what appears to be an indirect response on B. Riley's $AAOI sell report regarding optimizations that \"flattens networks and cuts transceiver TAM 40-50%\".\n\nRosenblatt TLDR: They've already ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075645547978084371",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE:\n\n\"Stocks in the Optical sector have traded poorly for the last 1-2 months\" due to CPO delay reports and China capacity scares.\n\n\"We think short sellers... do not actually str",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075634064518955297",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE:\n\n\"Stocks in the Optical sector have traded poorly for the last 1-2 months\" due to CPO delay reports and China capacity scares.\n\n\"We think short sellers... do not actually str",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075634064518955297",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE:\n\n\"Stocks in the Optical sector have traded poorly for the last 1-2 months\" due to CPO delay reports and China capacity scares.\n\n\"We think short sellers... do not actually str",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075634064518955297",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-10",
-    "sentiment": "watch",
-    "excerpt": "Rosenblatt on recent optical sector weakness from $AAOI to $LITE:\n\n\"Stocks in the Optical sector have traded poorly for the last 1-2 months\" due to CPO delay reports and China capacity scares.\n\n\"We think short sellers... do not actually str",
-    "postUrl": "https://x.com/aleabitoreddit/status/2075634064518955297",
-    "ticker": "SIVEF",
     "topics": []
   },
   {

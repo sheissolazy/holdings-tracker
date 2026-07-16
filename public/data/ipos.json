@@ -1,5 +1,17 @@
 [
   {
+    "ticker": "MTAKU",
+    "name": "Market Technology Acquisition Corp",
+    "date": "2026-07-17",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "NCOU",
     "name": "Southern Cross Acquisition I Corp.",
     "date": "2026-07-17",
@@ -16,8 +28,8 @@
     "name": "Standard Nuclear, Inc.",
     "date": "2026-07-16",
     "priceRange": [
-      18.0,
-      21.0
+      15.0,
+      15.0
     ],
     "sector": "—",
     "exchange": "NYSE",
@@ -28,29 +40,17 @@
     "name": "Csquare, Inc.",
     "date": "2026-07-16",
     "priceRange": [
-      23.0,
-      27.0
+      21.0,
+      21.0
     ],
     "sector": "—",
     "exchange": "NYSE",
     "status": "expected"
   },
   {
-    "ticker": "QMLS",
-    "name": "QumulusAI, Inc.",
-    "date": "2026-07-16",
-    "priceRange": [
-      0,
-      0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global",
-    "status": "expected"
-  },
-  {
     "ticker": "MOT",
     "name": "MetaOptics Ltd",
-    "date": "2026-07-15",
+    "date": "2026-07-16",
     "priceRange": [
       5.0,
       7.0
@@ -60,12 +60,12 @@
     "status": "expected"
   },
   {
-    "ticker": "EWAVU",
-    "name": "East West Ave Acquisition Corp.",
-    "date": "2026-07-15",
+    "ticker": "QMLS",
+    "name": "QumulusAI, Inc.",
+    "date": "2026-07-16",
     "priceRange": [
-      10.0,
-      10.0
+      0,
+      0
     ],
     "sector": "—",
     "exchange": "NASDAQ Global",
