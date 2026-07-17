@@ -3,11 +3,11 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 207.4,
-  "change5dPct": 2.3,
-  "changeYtdPct": 16.5,
-  "marketCap": "$5.14T",
-  "pe": 31.5,
+  "price": 202.81,
+  "change5dPct": -3.9,
+  "changeYtdPct": 13.9,
+  "marketCap": "$5.02T",
+  "pe": 30.1,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
@@ -867,149 +867,143 @@
     },
     {
       "t": "2026-07-16",
-      "o": 210.26,
+      "o": 210.17,
       "h": 211.08,
       "l": 205.85,
       "c": 207.4
+    },
+    {
+      "t": "2026-07-17",
+      "o": 202.4,
+      "h": 206.65,
+      "l": 197.97,
+      "c": 202.81
     }
   ],
   "thesis": {
     "bull": [
-      {
-        "point": "英伟达CEO黄仁勋在东京密集会见日本供应链伙伴，并扩大与丰田在AI工厂、智慧城市及机器人领域的合作，显示公司在AI基础设施生态中的核心地位仍在扩张，而非收缩"
-      },
-      {
-        "point": "面对市场关于Vera Rubin平台及800V机架级光互连量产延迟的传闻，黄仁勋公开表态予以否认，称量产已经启动且产能持续扩大，管理层对产品路线图的执行力表现出较强信心"
-      },
-      {
-        "point": "国会议员佩洛西在2025年末至2026年初多次新建仓NVDA（尽管期间穿插部分减持），显示部分具备信息优势的投资者在阶段性调整后仍持续参与，反映长线资金对AI算力龙头的信心未完全动摇"
-      }
+      "英伟达在AI算力芯片领域仍保持技术与生态双重领先，CEO黄仁勋在东京公开否认Vera Rubin平台存在延迟，称800V电源架构与机架间光互联进展符合原计划，产能正在大幅提升",
+      "历史披露显示部分国会议员（如佩洛西）多次建仓英伟达，反映长期资金对AI算力需求持续增长抱有信心",
+      "围绕CXL等互联技术的演进持续改善AI推理经济性，为英伟达数据中心与网络业务打开新的增长空间"
     ],
     "bear": [
-      {
-        "point": "市场近期反复出现关于Vera Rubin新一代平台、800V电源架构及机架到机架光互连技术进度落后的传闻，尽管公司予以否认，但传闻的反复出现说明投资者对新平台执行风险高度敏感，任何后续证实都可能引发估值重估"
-      },
-      {
-        "point": "近期半导体板块出现整体性抛售，Marvell单日暴跌约8%，博通、AMD、英特尔等同步走弱，纳斯达克100指数受芯片股拖累，说明市场担忧AI资本开支增速放缓的情绪已从个股蔓延至整个板块，NVDA难以独善其身"
-      },
-      {
-        "point": "中东局势持续升级（伊朗与美国互相加大军事行动、也门胡塞武装威胁沙特石油设施），叠加黄金价格走弱、美股期货承压，宏观避险情绪上升，历史上高估值成长股在风险偏好下降阶段往往首当其冲"
-      }
+      "苹果公司近期市值反超英伟达重夺全球市值最高公司位置，显示市场正在重新评估英伟达此前的高估值与增长持续性",
+      "中国AI技术进展带来的冲击引发科技股深度回调，纳斯达克与费城半导体指数走弱，市场对英伟达海外竞争格局的担忧上升，甚至出现「英伟达可能失去王座」的论调",
+      "市场围绕英伟达新一代AI服务器与Vera Rubin平台是否存在交付延迟出现争议，尽管管理层公开否认，但供应链与产能爬坡的不确定性仍是潜在压力点"
     ],
     "watch": [
-      {
-        "point": "Vera Rubin平台及800V/光互连技术能否按管理层承诺的时间表实现量产爬坡，后续财报电话会及供应链渠道检查（尤其是日本、台湾供应商）将是验证黄仁勋公开表态的关键窗口"
-      },
-      {
-        "point": "光通信与共封装光学（CPO）生态圈相关公司（如Coherent、Lumentum、博通、Marvell等）的订单与业绩表现，可作为判断NVDA下一代平台真实执行进度的先行指标"
-      },
-      {
-        "point": "中东地缘冲突走向及其对全球风险偏好、供应链物流和终端AI资本开支预算的潜在传导效应，需持续跟踪美伊及以色列相关局势的升级或降温信号"
-      }
+      "佩洛西等国会议员对NVDA的交易记录显示新建仓与获利了结交替出现，方向性并不一致，后续披露值得持续跟踪",
+      "社交媒体上关于800V电源架构、机架间光互联及Vera Rubin量产节奏的说法存在分歧，官方产能与出货数据将是验证关键",
+      "美光、SK海力士等存储与半导体产业链公司近期股价与英伟达联动明显，即将公布的财报将检验AI资本开支是否维持强劲"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达是全球AI算力基础设施的核心供应商，产品覆盖数据中心GPU、网络互连、AI软件生态及机器人平台。公司市值已跻身全球最高之列，业务重心正从单纯的芯片销售扩展至完整的AI工厂解决方案，并通过与丰田等产业巨头合作将技术延伸至智慧城市与机器人领域"
+        "body": "英伟达是全球领先的GPU与AI加速计算芯片设计公司，产品覆盖数据中心、游戏、专业可视化及汽车等领域，其数据中心业务近年来受益于生成式AI与大模型训练推理需求的爆发式增长，成为公司营收与利润的核心驱动力"
       },
       {
-        "heading": "基本面与业务动态",
-        "body": "近期新闻显示，黄仁勋在日本积极拓展供应商网络，配合公司下一代Vera Rubin平台的产能爬坡。公司同时公开否认了外界关于800V电源架构及机架间光互连技术存在重大延迟的报道，强调相关工作按原计划推进，且产量正在大幅提升，反映管理层试图在市场质疑声中稳定投资者预期"
+        "heading": "业务与市场地位",
+        "body": "公司在AI训练与推理芯片市场占据主导份额，围绕GPU硬件构建了CUDA软件生态与网络互联能力（如NVLink），并持续推进下一代平台如Vera Rubin的研发与量产。管理层近期公开强调800V电源架构与机架间光互联进展符合原计划，试图打消市场对新平台交付节奏的疑虑"
       },
       {
-        "heading": "多空观点",
-        "body": "多头认为，英伟达在全球AI资本开支周期中的核心供应商地位难以撼动，供应链布局和产品路线图持续兑现将支撑长期成长逻辑；空头则担忧近期反复出现的产品延迟传闻并非空穴来风，且半导体板块整体遭遇资金撤离，说明市场对AI资本开支能否持续高速增长产生分歧，任何执行不及预期都可能引发估值大幅回调"
+        "heading": "近期股价与市场表现",
+        "body": "近期科技板块出现明显回调，受中国AI技术进展带来的冲击影响，纳斯达克100及费城半导体指数走弱，英伟达、美光、SK海力士等芯片股联动下行。与此同时，苹果公司市值反超英伟达，重夺全球市值最高公司位置，反映资金在科技龙头间的再配置"
       },
       {
-        "heading": "政策与地缘政治",
-        "body": "中东地区伊朗与美国及以色列之间的军事对峙持续升级，胡塞武装亦威胁沙特石油设施，地缘风险溢价上升可能通过原油价格、全球供应链及市场风险偏好间接影响半导体行业的资本开支节奏。此外，美国国会议员的股票交易披露显示政治人物对NVDA持续保持关注，但其交易本身不构成对公司基本面的直接判断依据"
+        "heading": "多空观点分歧",
+        "body": "多头观点认为英伟达在AI算力领域的技术与生态护城河依然稳固，管理层对新平台延迟传闻的公开否认有助于稳定市场预期；空头观点则担忧公司估值已充分计入乐观预期，一旦AI资本开支增速放缓或竞争格局生变（如替代架构、竞争对手追赶），股价存在明显回调风险。围绕新平台是否存在实质性延迟，市场与公司官方的说法本身也存在张力"
       },
       {
-        "heading": "估值与同业比较",
-        "body": "英伟达当前估值隐含了市场对其在AI算力领域持续保持领导地位的高预期。近期Marvell、博通、AMD、英特尔等同业股价同步大幅波动，显示整个半导体板块估值对AI资本开支预期的变化极为敏感，NVDA作为板块龙头，其估值同样容易受到同业负面消息的情绪传导，而非完全由自身基本面独立驱动"
+        "heading": "跟踪者动向解读",
+        "body": "公开披露显示，部分国会议员对NVDA的交易呈现新建仓与部分获利了结交替出现的模式，2025年底至2026年初的多笔交易方向并不完全一致，难以从中提炼出单一明确的多空信号，更多反映的是仓位管理行为。社交媒体上关于新平台进展的讨论热度较高，但信息真伪与影响程度仍需后续官方数据验证"
       },
       {
-        "heading": "风险提示与关键催化剂",
-        "body": "短期关键催化剂包括Vera Rubin平台量产验证、下一份财报中数据中心业务增速及毛利率指引、以及台积电等代工产能扩张进度。主要风险则来自产品路线图执行不及预期、地缘政治冲突升级对供应链和终端需求的冲击，以及市场对AI资本开支可持续性预期的整体降温"
+        "heading": "风险与关注点",
+        "body": "主要风险包括：AI资本开支增速能否维持、新一代平台量产节奏是否如期、海外竞争格局（尤其中国相关技术进展）带来的冲击、以及市场整体对高估值科技股的风险偏好变化。投资者可持续关注即将披露的财报数据、供应链产能信息以及管理层在公开场合对产品路线图的表态"
       }
     ],
     "comparables": [
       {
-        "ticker": "TSM",
-        "name": "台湾积体电路制造",
-        "note": "英伟达最核心的晶圆代工伙伴，近期宣布追加对美国扩产投资，其产能爬坡进度直接影响NVDA新一代产品的交付节奏"
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices",
+        "note": "英伟达在GPU与AI加速芯片领域的主要直接竞争对手，近期股价同样受到芯片板块回调影响"
+      },
+      {
+        "ticker": "AAPL",
+        "name": "Apple Inc",
+        "note": "近期市值反超英伟达重夺全球市值最高公司位置，二者常被市场作为科技龙头估值对比的参照"
       },
       {
         "ticker": "AVGO",
-        "name": "博通",
-        "note": "在AI网络交换平台及光互连生态中与英伟达既是合作伙伴也是潜在竞争者，其股价近期同步受到芯片板块抛售拖累"
+        "name": "Broadcom Inc",
+        "note": "在AI网络互联与定制芯片领域与英伟达存在竞合关系，是AI基础设施产业链的重要参与者"
       },
       {
-        "ticker": "MRVL",
-        "name": "Marvell科技",
-        "note": "聚焦AI数据中心互连与定制芯片，近期因市场担忧AI资本开支放缓而股价大幅下挫，可作为观察板块整体情绪的风向标"
+        "ticker": "MU",
+        "name": "Micron Technology",
+        "note": "存储芯片供应商，与英伟达同属AI硬件产业链上下游，股价近期表现联动明显"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-16T22:06:34.783825Z"
+    "generatedAt": "2026-07-17T21:57:32.727850Z"
   },
   "news": [
     {
-      "id": "NVDA-140924213",
-      "title": "NVIDIA CEO Courts Japan Suppliers as $5.1 Trillion AI Push Expands",
+      "id": "NVDA-140936210",
+      "title": "Apple Had the Cash to Buy Any of 486 S&P 500 Companies, but Tim Cook Bet $851 Billion on This Instead",
       "source": "Yahoo",
-      "publishedAt": "2026-07-16",
-      "url": "https://finnhub.io/api/news?id=2e325f30d26369459280b79b65c8f5323c2941a354aee28be0c90a2cf67d6d44",
+      "publishedAt": "2026-07-17",
+      "url": "https://finnhub.io/api/news?id=3f0dc9ad7ad61e967eba45c33404b6858a8bece0f75e7c07644afa6d72048781",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140924214",
-      "title": "Anthropic just made a move that changes the AI investing story",
+      "id": "NVDA-140936211",
+      "title": "Think Stocks Are Too Risky for Your Retirement Savings? Why Dumping Them Completely Is a Huge Mistake",
       "source": "Yahoo",
-      "publishedAt": "2026-07-16",
-      "url": "https://finnhub.io/api/news?id=2277aeebaff0d7dd84edcd7e9b2ab23f61c204a2cd3f30b45c7077410606b047",
+      "publishedAt": "2026-07-17",
+      "url": "https://finnhub.io/api/news?id=c2c18a9bfe8af01e0e64d52432c1347d5566a5775061384308a67fc70d6f969a",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140924215",
-      "title": "NVIDIA Expands Toyota Partnership Into AI Factories, Smart Cities, and Robotics",
+      "id": "NVDA-140936212",
+      "title": "Joby, Archer, and EHang Are Down 40% to 60% in 2026. Are Air Taxi Stocks Damaged Beyond Repair?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-16",
-      "url": "https://finnhub.io/api/news?id=5a6a4528ac48068c38a9682dd33d2436b0ff131a15bf7690a8eb9c6630004836",
+      "publishedAt": "2026-07-17",
+      "url": "https://finnhub.io/api/news?id=f0ef47f9d77a6a1f4d5db6f73b7f70af36ea299b49a650704017274f1ed9abdb",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140924216",
-      "title": "These 8 Words From Goldman Sachs CEO David Solomon Are Great News for Investors",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-16",
-      "url": "https://finnhub.io/api/news?id=ad1edbf4ed68c0fed071a6cac7938727842991e552f2c2bb2fb013c10690be92",
+      "id": "NVDA-140935746",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "publishedAt": "2026-07-17",
+      "url": "https://finnhub.io/api/news?id=b8d366b0978045461c3e2f0f805013981ee50b4718778eb2469f0e71bb1d2514",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140924217",
-      "title": "Ethereum Just Published a New Road Map, and It's Missing Something Important",
+      "id": "NVDA-140936213",
+      "title": "Apple surpasses Nvidia as world's most valuable company",
       "source": "Yahoo",
-      "publishedAt": "2026-07-16",
-      "url": "https://finnhub.io/api/news?id=a2f7a0697e7a984448a074cb7781471defedcb1dfa48bc25fc336a3dd6cdb4b8",
+      "publishedAt": "2026-07-17",
+      "url": "https://finnhub.io/api/news?id=5bb8520ec549575a4080c93c2347863a379f1973907b6cb180c9546d2d86030b",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140924218",
-      "title": "Why Karooooo Stock Jumped 13% Today",
+      "id": "NVDA-140936214",
+      "title": "Meet the 4.4% Yielding Stock That's Down 11%. Here's Why Investors Should Take a Closer Look.",
       "source": "Yahoo",
-      "publishedAt": "2026-07-16",
-      "url": "https://finnhub.io/api/news?id=00c61c2da5b8e803795aa93618d9dbcc32abd94b783a1060400650dc07ee4c3d",
+      "publishedAt": "2026-07-17",
+      "url": "https://finnhub.io/api/news?id=5ef8caa3a352157645fcc6df9a330d402c9f61d44d61552e69d0cf9cfaa57d39",
       "tags": [
         "NVDA"
       ]
