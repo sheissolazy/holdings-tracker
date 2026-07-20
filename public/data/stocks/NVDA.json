@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 202.81,
-  "change5dPct": -3.9,
-  "changeYtdPct": 13.9,
-  "marketCap": "$5.02T",
-  "pe": 30.1,
+  "price": 203.28,
+  "change5dPct": -0.1,
+  "changeYtdPct": 10.9,
+  "marketCap": "$4.91T",
+  "pe": 31.4,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-01-20",
-      "o": 181.9,
-      "h": 182.38,
-      "l": 177.61,
-      "c": 178.07
-    },
     {
       "t": "2026-01-21",
       "o": 179.05,
@@ -874,136 +867,143 @@
     },
     {
       "t": "2026-07-17",
-      "o": 202.4,
+      "o": 202.64,
       "h": 206.65,
       "l": 197.97,
       "c": 202.81
+    },
+    {
+      "t": "2026-07-20",
+      "o": 206.04,
+      "h": 207.74,
+      "l": 202.28,
+      "c": 203.28
     }
   ],
   "thesis": {
     "bull": [
-      "英伟达在AI算力芯片领域仍保持技术与生态双重领先，CEO黄仁勋在东京公开否认Vera Rubin平台存在延迟，称800V电源架构与机架间光互联进展符合原计划，产能正在大幅提升",
-      "历史披露显示部分国会议员（如佩洛西）多次建仓英伟达，反映长期资金对AI算力需求持续增长抱有信心",
-      "围绕CXL等互联技术的演进持续改善AI推理经济性，为英伟达数据中心与网络业务打开新的增长空间"
+      "数据中心业务持续高增长，AI芯片需求旺盛，公司净利润在过去一年出现倍增式扩张，Blackwell等新一代产品线拉动出货与ASP提升",
+      "公司通过战略投资绑定产业链上下游，例如披露持有Nebius约9.3%受益所有权（含既有119万股与20亿美元预认股权证），显示其在算力生态布局上的深度参与，有助于巩固客户与合作网络",
+      "国会议员Pelosi在2025年末至2026年初多次新建NVDA多头仓位，交易记录显示对公司长期前景的持续关注与部分资金流入信号"
     ],
     "bear": [
-      "苹果公司近期市值反超英伟达重夺全球市值最高公司位置，显示市场正在重新评估英伟达此前的高估值与增长持续性",
-      "中国AI技术进展带来的冲击引发科技股深度回调，纳斯达克与费城半导体指数走弱，市场对英伟达海外竞争格局的担忧上升，甚至出现「英伟达可能失去王座」的论调",
-      "市场围绕英伟达新一代AI服务器与Vera Rubin平台是否存在交付延迟出现争议，尽管管理层公开否认，但供应链与产能爬坡的不确定性仍是潜在压力点"
+      "尽管净利润大幅增长，股价自去年11月以来却基本走平，反映市场对高估值与未来增长可持续性的担忧，「利润翻倍但股价不涨」凸显预期已高度price in",
+      "市场出现「AI泡沫」叙事升温的迹象，有分析认为Alphabet等大客户可能率先削减AI资本开支，一旦下游资本开支放缓将直接冲击NVDA数据中心订单能见度",
+      "近期科技股因中国AI相关冲击消息出现明显抛售（Tech Rout Deepens on Chinas AI Shock），叠加原油价格上行至81美元附近、地缘局势升温（也门胡塞武装宣布对沙特实施海上封锁、美伊紧张关系加剧），风险偏好承压可能放大NVDA等高贝塔科技股的波动"
     ],
     "watch": [
-      "佩洛西等国会议员对NVDA的交易记录显示新建仓与获利了结交替出现，方向性并不一致，后续披露值得持续跟踪",
-      "社交媒体上关于800V电源架构、机架间光互联及Vera Rubin量产节奏的说法存在分歧，官方产能与出货数据将是验证关键",
-      "美光、SK海力士等存储与半导体产业链公司近期股价与英伟达联动明显，即将公布的财报将检验AI资本开支是否维持强劲"
+      "Nebius（NBIS）等关联标的股价对NVDA持股披露的敏感反应，以及后续NVDA是否进一步增持或调整该类战略投资",
+      "Pelosi等国会议员交易记录中「新建」与「减持」交替出现（如2025年12月末减持、随后12月/1月又新建），需持续跟踪其仓位变化是否反映更广泛的政策或产业信号",
+      "即将到来的科技巨头财报季（含存储、半导体同业业绩）及Micron、Marvell等同业股价异动，将是判断AI资本开支周期是否降温的重要参照"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达是全球领先的GPU与AI加速计算芯片设计公司，产品覆盖数据中心、游戏、专业可视化及汽车等领域，其数据中心业务近年来受益于生成式AI与大模型训练推理需求的爆发式增长，成为公司营收与利润的核心驱动力"
+        "body": "NVIDIA是全球领先的GPU与AI加速计算平台供应商，业务涵盖数据中心、游戏、专业可视化与汽车等板块，其中数据中心业务已成为核心增长引擎，受益于全球云厂商与企业客户对AI训练与推理算力的持续投入。公司近年通过Hopper、Blackwell等架构迭代维持技术领先地位，并通过软件生态（CUDA等）强化护城河"
       },
       {
-        "heading": "业务与市场地位",
-        "body": "公司在AI训练与推理芯片市场占据主导份额，围绕GPU硬件构建了CUDA软件生态与网络互联能力（如NVLink），并持续推进下一代平台如Vera Rubin的研发与量产。管理层近期公开强调800V电源架构与机架间光互联进展符合原计划，试图打消市场对新平台交付节奏的疑虑"
+        "heading": "财务与增长驱动",
+        "body": "公开报道显示，公司净利润在过去一年出现约三倍的增长，主要驱动力来自数据中心GPU出货量与单价的同步提升。但值得注意的是，尽管盈利大幅改善，股价自去年11月以来基本走平，说明市场此前已充分计入乐观预期，后续股价表现可能更依赖增量利好（如新产品发布、大客户扩产）而非既有业绩兑现"
       },
       {
-        "heading": "近期股价与市场表现",
-        "body": "近期科技板块出现明显回调，受中国AI技术进展带来的冲击影响，纳斯达克100及费城半导体指数走弱，英伟达、美光、SK海力士等芯片股联动下行。与此同时，苹果公司市值反超英伟达，重夺全球市值最高公司位置，反映资金在科技龙头间的再配置"
+        "heading": "战略投资与产业布局",
+        "body": "社交媒体披露信息显示，NVIDIA通过SEC文件确认持有Nebius约9.3%的受益所有权，包含既有119万股普通股与20亿美元的预认股权证安排，这类投资体现公司在AI云基础设施领域的深度绑定策略，有助于在算力供给紧张阶段获取优先合作关系，但也带来关联方业绩波动对公司报表或市场情绪的间接影响"
       },
       {
-        "heading": "多空观点分歧",
-        "body": "多头观点认为英伟达在AI算力领域的技术与生态护城河依然稳固，管理层对新平台延迟传闻的公开否认有助于稳定市场预期；空头观点则担忧公司估值已充分计入乐观预期，一旦AI资本开支增速放缓或竞争格局生变（如替代架构、竞争对手追赶），股价存在明显回调风险。围绕新平台是否存在实质性延迟，市场与公司官方的说法本身也存在张力"
+        "heading": "竞争格局",
+        "body": "AMD、博通（Broadcom）等公司在AI芯片与定制ASIC领域持续追赶，同时包括Alphabet在内的大型云厂商积极推进自研AI芯片路线图（如最新AI芯片路线图相关报道），可能在中长期分流部分NVIDIA的数据中心份额。台积电作为关键代工伙伴，其产能与先进制程进度也是影响NVIDIA出货节奏的重要外部变量"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "公开披露显示，部分国会议员对NVDA的交易呈现新建仓与部分获利了结交替出现的模式，2025年底至2026年初的多笔交易方向并不完全一致，难以从中提炼出单一明确的多空信号，更多反映的是仓位管理行为。社交媒体上关于新平台进展的讨论热度较高，但信息真伪与影响程度仍需后续官方数据验证"
+        "heading": "风险因素",
+        "body": "多重风险交织：其一，市场对AI资本开支可持续性产生分歧，存在大客户削减AI投入的猜测；其二，近期出现「Mag 7已死」等叙事降温说法，反映机构对超大型科技股集体估值的重新审视；其三，地缘政治与宏观风险（中东局势升温、红海航运保险成本上升、原油价格走高）可能通过通胀与利率预期传导至高估值成长股，加剧NVDA股价波动；此外，市场对冲需求在AI驱动的板块轮动中明显上升，显示投资者风险管理意愿增强"
       },
       {
-        "heading": "风险与关注点",
-        "body": "主要风险包括：AI资本开支增速能否维持、新一代平台量产节奏是否如期、海外竞争格局（尤其中国相关技术进展）带来的冲击、以及市场整体对高估值科技股的风险偏好变化。投资者可持续关注即将披露的财报数据、供应链产能信息以及管理层在公开场合对产品路线图的表态"
+        "heading": "跟踪者与市场情绪",
+        "body": "国会议员Pelosi的公开披露交易（PTR）显示其在2025年末至2026年初对NVDA有多次新建多头仓位，同时穿插减持记录，呈现出分批操作而非单边押注的特征。社交媒体层面的讨论则更多聚焦于NVDA对外战略投资（如Nebius）以及AI基础设施类股（IREN、HUT等）因新增算力合同而大涨的联动效应，整体氛围呈现「多空并存、结构性轮动」的特征，而非一致性看多或看空"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "英伟达在GPU与AI加速芯片领域的主要直接竞争对手，近期股价同样受到芯片板块回调影响"
-      },
-      {
-        "ticker": "AAPL",
-        "name": "Apple Inc",
-        "note": "近期市值反超英伟达重夺全球市值最高公司位置，二者常被市场作为科技龙头估值对比的参照"
+        "note": "数据中心GPU与AI加速卡领域的主要直接竞争对手，市场关注其MI系列产品对NVIDIA份额的侵蚀速度"
       },
       {
         "ticker": "AVGO",
-        "name": "Broadcom Inc",
-        "note": "在AI网络互联与定制芯片领域与英伟达存在竞合关系，是AI基础设施产业链的重要参与者"
+        "name": "Broadcom",
+        "note": "通过定制ASIC与网络互联芯片切入AI基础设施市场，是云厂商自研芯片路线的重要合作伙伴，间接分流部分通用GPU需求"
       },
       {
-        "ticker": "MU",
-        "name": "Micron Technology",
-        "note": "存储芯片供应商，与英伟达同属AI硬件产业链上下游，股价近期表现联动明显"
+        "ticker": "TSM",
+        "name": "台湾积体电路制造",
+        "note": "NVIDIA最重要的晶圆代工伙伴，其先进制程产能与良率直接影响NVIDIA新品出货节奏"
+      },
+      {
+        "ticker": "NBIS",
+        "name": "Nebius Group",
+        "note": "NVIDIA披露持有约9.3%受益所有权的AI云基础设施公司，是观察NVIDIA战略投资协同效应的关键关联标的"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-17T21:57:32.727850Z"
+    "generatedAt": "2026-07-20T22:03:48.080709Z"
   },
   "news": [
     {
-      "id": "NVDA-140936210",
-      "title": "Apple Had the Cash to Buy Any of 486 S&P 500 Companies, but Tim Cook Bet $851 Billion on This Instead",
+      "id": "NVDA-140963296",
+      "title": "Should You Buy ServiceNow (NOW) Before Earnings?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-17",
-      "url": "https://finnhub.io/api/news?id=3f0dc9ad7ad61e967eba45c33404b6858a8bece0f75e7c07644afa6d72048781",
+      "publishedAt": "2026-07-20",
+      "url": "https://finnhub.io/api/news?id=445d818f1fd58777ee4351b5680c635f4151fa65881a45d35fe98ed56d9fb8e5",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140936211",
-      "title": "Think Stocks Are Too Risky for Your Retirement Savings? Why Dumping Them Completely Is a Huge Mistake",
+      "id": "NVDA-140963297",
+      "title": "Why Nvidia Stock is Flat Since November Despite Tripling Its Net Income",
       "source": "Yahoo",
-      "publishedAt": "2026-07-17",
-      "url": "https://finnhub.io/api/news?id=c2c18a9bfe8af01e0e64d52432c1347d5566a5775061384308a67fc70d6f969a",
+      "publishedAt": "2026-07-20",
+      "url": "https://finnhub.io/api/news?id=c840e055f0c00ff7c6fe18e90bfe2aaa58683153537fbfa5c105b51c023c996d",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140936212",
-      "title": "Joby, Archer, and EHang Are Down 40% to 60% in 2026. Are Air Taxi Stocks Damaged Beyond Repair?",
+      "id": "NVDA-140963298",
+      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
       "source": "Yahoo",
-      "publishedAt": "2026-07-17",
-      "url": "https://finnhub.io/api/news?id=f0ef47f9d77a6a1f4d5db6f73b7f70af36ea299b49a650704017274f1ed9abdb",
+      "publishedAt": "2026-07-20",
+      "url": "https://finnhub.io/api/news?id=5f0d8ba30fc4786074e13851ffee45f997b44f959d9d000918dab8d04af09776",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140935746",
-      "title": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "publishedAt": "2026-07-17",
-      "url": "https://finnhub.io/api/news?id=b8d366b0978045461c3e2f0f805013981ee50b4718778eb2469f0e71bb1d2514",
+      "id": "NVDA-140963299",
+      "title": "Nasdaq 100 Jumps 1% as Chip Stocks Rebound Before Big Tech Earnings",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-20",
+      "url": "https://finnhub.io/api/news?id=b0d5e5d5fdc6ad52b1255e413788ffe21f399d30d189a7bb0965dd22a18ea0eb",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140936213",
-      "title": "Apple surpasses Nvidia as world's most valuable company",
+      "id": "NVDA-140963300",
+      "title": "Why Apple Stock Dropped Today",
       "source": "Yahoo",
-      "publishedAt": "2026-07-17",
-      "url": "https://finnhub.io/api/news?id=5bb8520ec549575a4080c93c2347863a379f1973907b6cb180c9546d2d86030b",
+      "publishedAt": "2026-07-20",
+      "url": "https://finnhub.io/api/news?id=e3a1ae1f410d097aee768a6ce374a39c5defc57fe151e14f5e81051c96dbcc9a",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140936214",
-      "title": "Meet the 4.4% Yielding Stock That's Down 11%. Here's Why Investors Should Take a Closer Look.",
+      "id": "NVDA-140963301",
+      "title": "Should You Buy Rocket Lab Stock Below $70?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-17",
-      "url": "https://finnhub.io/api/news?id=5ef8caa3a352157645fcc6df9a330d402c9f61d44d61552e69d0cf9cfaa57d39",
+      "publishedAt": "2026-07-20",
+      "url": "https://finnhub.io/api/news?id=cef1ff03b1278474536ef915a3ccf6052ab03cd58274f3b7b233d3fbfb0dd7d4",
       "tags": [
         "NVDA"
       ]
