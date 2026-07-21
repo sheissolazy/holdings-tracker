@@ -1,5 +1,53 @@
 [
   {
+    "ticker": "JMKE",
+    "name": "Jersey Mike's Subs Inc.",
+    "date": "2026-07-30",
+    "priceRange": [
+      21.0,
+      25.0
+    ],
+    "sector": "—",
+    "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
+    "ticker": "REF",
+    "name": "Reformation Inc.",
+    "date": "2026-07-30",
+    "priceRange": [
+      15.0,
+      17.0
+    ],
+    "sector": "—",
+    "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
+    "ticker": "SCTX",
+    "name": "Scribe Therapeutics, Inc.",
+    "date": "2026-07-24",
+    "priceRange": [
+      13.0,
+      15.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
+    "ticker": "BRTMU",
+    "name": "B&R Technology Merger Corp.",
+    "date": "2026-07-21",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "NCOU",
     "name": "Southern Cross Acquisition I Corp.",
     "date": "2026-07-21",

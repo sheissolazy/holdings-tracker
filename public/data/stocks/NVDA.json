@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 203.28,
-  "change5dPct": -0.1,
-  "changeYtdPct": 10.9,
-  "marketCap": "$4.91T",
+  "price": 207.29,
+  "change5dPct": -2.1,
+  "changeYtdPct": 12.1,
+  "marketCap": "$4.92T",
   "pe": 31.4,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-01-21",
-      "o": 179.05,
-      "h": 185.38,
-      "l": 178.4,
-      "c": 183.32
-    },
     {
       "t": "2026-01-22",
       "o": 184.75,
@@ -874,136 +867,148 @@
     },
     {
       "t": "2026-07-20",
-      "o": 206.04,
+      "o": 205.87,
       "h": 207.74,
       "l": 202.28,
       "c": 203.28
+    },
+    {
+      "t": "2026-07-21",
+      "o": 207.54,
+      "h": 208.65,
+      "l": 204.01,
+      "c": 207.29
     }
   ],
   "thesis": {
     "bull": [
-      "数据中心业务持续高增长，AI芯片需求旺盛，公司净利润在过去一年出现倍增式扩张，Blackwell等新一代产品线拉动出货与ASP提升",
-      "公司通过战略投资绑定产业链上下游，例如披露持有Nebius约9.3%受益所有权（含既有119万股与20亿美元预认股权证），显示其在算力生态布局上的深度参与，有助于巩固客户与合作网络",
-      "国会议员Pelosi在2025年末至2026年初多次新建NVDA多头仓位，交易记录显示对公司长期前景的持续关注与部分资金流入信号"
+      "数据中心AI算力需求依旧紧俏，Databricks等云端客户公开表示GPU资源'到处都不够用'，反映Nvidia产品短期内仍处于供不应求状态",
+      "Nvidia通过持有Nebius约9.3%的受益所有权（含现有股份与预融资认股权证）等生态投资，绑定新兴AI云服务商，扩大其CUDA生态与算力网络的渗透",
+      "国会议员佩洛西在2025年末至2026年初的多份PTR披露中持续新建NVDA多头仓位，显示部分知情投资者对其中长期基本面仍持乐观态度"
     ],
     "bear": [
-      "尽管净利润大幅增长，股价自去年11月以来却基本走平，反映市场对高估值与未来增长可持续性的担忧，「利润翻倍但股价不涨」凸显预期已高度price in",
-      "市场出现「AI泡沫」叙事升温的迹象，有分析认为Alphabet等大客户可能率先削减AI资本开支，一旦下游资本开支放缓将直接冲击NVDA数据中心订单能见度",
-      "近期科技股因中国AI相关冲击消息出现明显抛售（Tech Rout Deepens on Chinas AI Shock），叠加原油价格上行至81美元附近、地缘局势升温（也门胡塞武装宣布对沙特实施海上封锁、美伊紧张关系加剧），风险偏好承压可能放大NVDA等高贝塔科技股的波动"
+      "同一批PTR记录显示佩洛西在建立新仓位的同时也出现减持（trim/exit）动作，且历史上曾出现建仓与清仓交替的模式，反映即便是知情交易者对短期走势也存在分歧",
+      "AMD即将举行的Financial Analyst Day（2026年7月22-23日）预期披露更完整的Scale-Up CPO互联及MI500路线图，若确认关键技术突破，可能强化市场对Nvidia竞争优势被侵蚀的担忧",
+      "市场对'AI交易过度集中'的警惕上升，有分析指出七巨头等权重配置下科技股集中度已成为负担，叠加TSMC上调代工价格，可能压缩包括Nvidia在内下游厂商的毛利空间"
     ],
     "watch": [
-      "Nebius（NBIS）等关联标的股价对NVDA持股披露的敏感反应，以及后续NVDA是否进一步增持或调整该类战略投资",
-      "Pelosi等国会议员交易记录中「新建」与「减持」交替出现（如2025年12月末减持、随后12月/1月又新建），需持续跟踪其仓位变化是否反映更广泛的政策或产业信号",
-      "即将到来的科技巨头财报季（含存储、半导体同业业绩）及Micron、Marvell等同业股价异动，将是判断AI资本开支周期是否降温的重要参照"
+      "AMD 7月22-23日Financial Analyst Day及其CPO/MI500路线图披露内容，将是检验AMD对Nvidia竞争态势的重要信号",
+      "中国本土新AI模型对市场情绪的扰动（'Markets Rattled By New Chinese AI Model'），需关注其对海外AI算力资本开支预期的连锁影响",
+      "内存与代工价格走势（美光、SK海力士IPO、TSMC提价）对Nvidia硬件成本结构及交付节奏的传导"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA是全球领先的GPU与AI加速计算平台供应商，业务涵盖数据中心、游戏、专业可视化与汽车等板块，其中数据中心业务已成为核心增长引擎，受益于全球云厂商与企业客户对AI训练与推理算力的持续投入。公司近年通过Hopper、Blackwell等架构迭代维持技术领先地位，并通过软件生态（CUDA等）强化护城河"
+        "body": "NVIDIA是全球领先的GPU与AI加速计算平台提供商，产品覆盖数据中心训练/推理芯片、网络互联（如NVLink、InfiniBand及Spectrum-X）、CUDA软件生态及机器人/自动驾驶等新兴垂直领域。公司当前营收增长主要由超大规模云厂商及企业客户的AI基础设施资本开支驱动，同时通过股权投资等方式布局AI云服务商生态，如近期披露持有Nebius约9.3%的受益所有权。"
       },
       {
-        "heading": "财务与增长驱动",
-        "body": "公开报道显示，公司净利润在过去一年出现约三倍的增长，主要驱动力来自数据中心GPU出货量与单价的同步提升。但值得注意的是，尽管盈利大幅改善，股价自去年11月以来基本走平，说明市场此前已充分计入乐观预期，后续股价表现可能更依赖增量利好（如新产品发布、大客户扩产）而非既有业绩兑现"
+        "heading": "近期动态",
+        "body": "市场近期关注点集中在几条主线：一是AMD将于7月22至23日举行Financial Analyst Day，据Jefferies客户报告预期，AMD可能进一步披露其规模化Scale-Up CPO（共封装光学）路线图及MI500产品规划，被视为对Nvidia在互联与下一代加速卡领域竞争地位的潜在挑战；二是Nvidia被披露持有AI云服务商Nebius约9.3%权益，带动NBIS盘后上涨，显示其通过战略投资巩固下游生态的策略；三是比特币矿企/算力企业（如IREN、HUT、CIFR、CLSK）纷纷上调AI云业务ARR目标或签署大型数据中心租约，侧面印证下游AI算力需求依旧旺盛。"
       },
       {
-        "heading": "战略投资与产业布局",
-        "body": "社交媒体披露信息显示，NVIDIA通过SEC文件确认持有Nebius约9.3%的受益所有权，包含既有119万股普通股与20亿美元的预认股权证安排，这类投资体现公司在AI云基础设施领域的深度绑定策略，有助于在算力供给紧张阶段获取优先合作关系，但也带来关联方业绩波动对公司报表或市场情绪的间接影响"
+        "heading": "增长驱动与护城河",
+        "body": "Nvidia的核心护城河仍是CUDA软件生态与全栈（芯片+网络+系统+软件）整合能力，使其在训练与推理市场保持较高份额。Databricks等企业客户公开表示在多个区域'到处都缺GPU'，反映需求端仍未见明显放缓迹象。此外，公司通过对AI云、算力租赁企业的股权/资本合作（如Nebius），进一步锁定长期算力采购关系，形成生态绑定效应。"
+      },
+      {
+        "heading": "财务与估值观察",
+        "body": "市场评论中出现'两种截然不同的未来被定价进NVIDIA股价'的表述，反映多空双方在估值锚定上的显著分歧：乐观者基于持续的算力紧缺与订单能见度给予高倍数，悲观者则担忧AI资本开支周期见顶、竞争加剧及供应链成本（如TSMC提价）侵蚀毛利。近期科技股尤其是存储与芯片板块波动加大（如SanDisk、Intel等年内表现大幅波动），显示板块整体估值敏感度较高。"
       },
       {
         "heading": "竞争格局",
-        "body": "AMD、博通（Broadcom）等公司在AI芯片与定制ASIC领域持续追赶，同时包括Alphabet在内的大型云厂商积极推进自研AI芯片路线图（如最新AI芯片路线图相关报道），可能在中长期分流部分NVIDIA的数据中心份额。台积电作为关键代工伙伴，其产能与先进制程进度也是影响NVIDIA出货节奏的重要外部变量"
+        "body": "AMD正被视为Nvidia在数据中心GPU与网络互联领域最主要的直接竞争者，即将召开的Financial Analyst Day及其CPO/MI500路线图披露将是重要观察窗口。此外，Broadcom、Marvell等在定制ASIC与网络芯片领域的进展（如Marvell年内股价大幅上涨）也可能分流部分超大规模客户的自研芯片预算。存储厂商（美光、SK海力士）价格与产能变化则通过HBM等关键组件间接影响Nvidia的成本与交付节奏。"
       },
       {
-        "heading": "风险因素",
-        "body": "多重风险交织：其一，市场对AI资本开支可持续性产生分歧，存在大客户削减AI投入的猜测；其二，近期出现「Mag 7已死」等叙事降温说法，反映机构对超大型科技股集体估值的重新审视；其三，地缘政治与宏观风险（中东局势升温、红海航运保险成本上升、原油价格走高）可能通过通胀与利率预期传导至高估值成长股，加剧NVDA股价波动；此外，市场对冲需求在AI驱动的板块轮动中明显上升，显示投资者风险管理意愿增强"
-      },
-      {
-        "heading": "跟踪者与市场情绪",
-        "body": "国会议员Pelosi的公开披露交易（PTR）显示其在2025年末至2026年初对NVDA有多次新建多头仓位，同时穿插减持记录，呈现出分批操作而非单边押注的特征。社交媒体层面的讨论则更多聚焦于NVDA对外战略投资（如Nebius）以及AI基础设施类股（IREN、HUT等）因新增算力合同而大涨的联动效应，整体氛围呈现「多空并存、结构性轮动」的特征，而非一致性看多或看空"
+        "heading": "风险与展望",
+        "body": "主要风险包括：AI资本开支周期若出现放缓将直接影响订单能见度；地缘政治与出口管制的不确定性；AMD等竞争对手在互联与下一代产品上的技术追赶；以及市场对科技股高度集中配置的担忧可能引发估值再平衡。同时也需关注佩洛西等公众人物交易披露中建仓与减持交替出现的现象，提示即便知情投资者内部对短期走势判断也不完全一致，投资者应结合自身研究综合判断，而非单纯参考单一信号。"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "数据中心GPU与AI加速卡领域的主要直接竞争对手，市场关注其MI系列产品对NVIDIA份额的侵蚀速度"
+        "note": "数据中心GPU与网络互联最主要竞争者，即将披露CPO与MI500路线图"
       },
       {
         "ticker": "AVGO",
         "name": "Broadcom",
-        "note": "通过定制ASIC与网络互联芯片切入AI基础设施市场，是云厂商自研芯片路线的重要合作伙伴，间接分流部分通用GPU需求"
+        "note": "定制ASIC与网络芯片供应商，超大规模客户自研芯片生态的重要合作方"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "数据中心互联与定制芯片领域竞争者，年内股价表现强劲"
       },
       {
         "ticker": "TSM",
-        "name": "台湾积体电路制造",
-        "note": "NVIDIA最重要的晶圆代工伙伴，其先进制程产能与良率直接影响NVIDIA新品出货节奏"
+        "name": "台积电",
+        "note": "核心晶圆代工厂，近期提价可能影响下游芯片成本结构"
       },
       {
         "ticker": "NBIS",
         "name": "Nebius Group",
-        "note": "NVIDIA披露持有约9.3%受益所有权的AI云基础设施公司，是观察NVIDIA战略投资协同效应的关键关联标的"
+        "note": "Nvidia持股约9.3%的AI云服务商，生态绑定案例"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-20T22:03:48.080709Z"
+    "generatedAt": "2026-07-21T22:06:40.059662Z"
   },
   "news": [
     {
-      "id": "NVDA-140963296",
-      "title": "Should You Buy ServiceNow (NOW) Before Earnings?",
+      "id": "NVDA-140974817",
+      "title": "Verizon Is Cutting 3,000 Jobs and Handing 274 Stores to Franchisees Right Before July 24 Earnings. Is the 6.5% Dividend Still Safe?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-20",
-      "url": "https://finnhub.io/api/news?id=445d818f1fd58777ee4351b5680c635f4151fa65881a45d35fe98ed56d9fb8e5",
+      "publishedAt": "2026-07-21",
+      "url": "https://finnhub.io/api/news?id=1af6a021f6d1138a84080261ddbb38c1842ae918504b83d1c03dcdc7254e440c",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140963297",
-      "title": "Why Nvidia Stock is Flat Since November Despite Tripling Its Net Income",
+      "id": "NVDA-140974818",
+      "title": "MAGS Delivered 181% Since Launch, But Equal-Weighted Tech Concentration Is Now a Liability",
       "source": "Yahoo",
-      "publishedAt": "2026-07-20",
-      "url": "https://finnhub.io/api/news?id=c840e055f0c00ff7c6fe18e90bfe2aaa58683153537fbfa5c105b51c023c996d",
+      "publishedAt": "2026-07-21",
+      "url": "https://finnhub.io/api/news?id=e7044abd0f963447000b0293a7308fd66e0d801066c01143f6c498bf501028b2",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140963298",
-      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
+      "id": "NVDA-140974819",
+      "title": "Why Lockheed Martin Stock Dropped Tuesday Morning",
       "source": "Yahoo",
-      "publishedAt": "2026-07-20",
-      "url": "https://finnhub.io/api/news?id=5f0d8ba30fc4786074e13851ffee45f997b44f959d9d000918dab8d04af09776",
+      "publishedAt": "2026-07-21",
+      "url": "https://finnhub.io/api/news?id=867db6abb76b8efff45b0ddddf0429082b3f95350800c7e80298cd8590023284",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140963299",
-      "title": "Nasdaq 100 Jumps 1% as Chip Stocks Rebound Before Big Tech Earnings",
+      "id": "NVDA-140974820",
+      "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Is the Biggest Winner From the $26.5 Billion SK Hynix IPO (Hint: It's Not Nvidia)",
       "source": "Yahoo",
-      "publishedAt": "2026-07-20",
-      "url": "https://finnhub.io/api/news?id=b0d5e5d5fdc6ad52b1255e413788ffe21f399d30d189a7bb0965dd22a18ea0eb",
+      "publishedAt": "2026-07-21",
+      "url": "https://finnhub.io/api/news?id=8ba7506580ce70ab6d77aa9287d625fead457bf366f7fdd7a61fa9927eb454f6",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140963300",
-      "title": "Why Apple Stock Dropped Today",
+      "id": "NVDA-140974821",
+      "title": "Databricks CEO said they are ’running out of GPUs everywhere’",
       "source": "Yahoo",
-      "publishedAt": "2026-07-20",
-      "url": "https://finnhub.io/api/news?id=e3a1ae1f410d097aee768a6ce374a39c5defc57fe151e14f5e81051c96dbcc9a",
+      "publishedAt": "2026-07-21",
+      "url": "https://finnhub.io/api/news?id=2564922e58daa0f9302b117bae41ac2d97dcf7b3314eb2273aba2494ae9a6a4b",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140963301",
-      "title": "Should You Buy Rocket Lab Stock Below $70?",
+      "id": "NVDA-140974822",
+      "title": "4 Vanguard ETFs Worth Loading Up On for the Long Haul",
       "source": "Yahoo",
-      "publishedAt": "2026-07-20",
-      "url": "https://finnhub.io/api/news?id=cef1ff03b1278474536ef915a3ccf6052ab03cd58274f3b7b233d3fbfb0dd7d4",
+      "publishedAt": "2026-07-21",
+      "url": "https://finnhub.io/api/news?id=0f1ac514c7f8ee0e08d995479dc41f043aa2a3a9e83c485fd48ee88f9f29d8ed",
       "tags": [
         "NVDA"
       ]

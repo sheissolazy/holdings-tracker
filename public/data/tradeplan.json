@@ -1,27 +1,27 @@
 {
-  "forDate": "2026-07-21",
-  "generatedAt": "2026-07-20T22:06:40Z",
+  "forDate": "2026-07-22",
+  "generatedAt": "2026-07-21T22:09:17Z",
   "model": "确定性技术位 + 风险计（无 AI、无编造）",
   "catalysts": [],
   "pendingSignals": [],
   "draftActions": [],
   "risk": {
     "available": true,
-    "asOf": "2026-07-20",
-    "score": 0,
-    "level": "偏高",
-    "label": "风险偏高 · 注意防守",
+    "asOf": "2026-07-21",
+    "score": 2,
+    "level": "中",
+    "label": "风险中性",
     "inputs": [
       {
         "name": "标普 · 趋势",
-        "value": "处于 50/200 日线之间",
-        "detail": "SPX 742.1 · 50DMA 744.5 · 200DMA 697.1",
-        "contribution": 0,
-        "note": "趋势转折区、方向未明"
+        "value": "位于 50/200 日线上方",
+        "detail": "SPX 748.3 · 50DMA 744.9 · 200DMA 697.5",
+        "contribution": 2,
+        "note": "中长期趋势均健康（risk-on）"
       },
       {
         "name": "标普 · 1月动量",
-        "value": "-1.1%",
+        "value": "+1.0%",
         "detail": "近 22 个交易日累计涨跌",
         "contribution": 0,
         "note": "区间震荡"
@@ -29,14 +29,14 @@
       {
         "name": "10年美债 · 1月",
         "value": "+17bp",
-        "detail": "当前 4.60%",
+        "detail": "当前 4.63%",
         "contribution": 0,
         "note": "利率波动有限"
       },
       {
         "name": "美元指数 · 1月",
-        "value": "+1.5%",
-        "detail": "当前 DXY 101.00",
+        "value": "+1.1%",
+        "detail": "当前 DXY 101.18",
         "contribution": 0,
         "note": "美元区间波动"
       }
@@ -45,39 +45,21 @@
   },
   "suggestions": [
     {
-      "id": "hedge-spy-put",
-      "kind": "hedge",
-      "ticker": "SPY",
-      "instrument": "put",
-      "refPrice": 742.09,
-      "strike": 725.43,
-      "expiration": "2026-08-21",
-      "sizingHint": "组合 1–3%",
-      "confidence": "med",
-      "headline": "对冲：买入 SPY Put（风险体制偏高）",
-      "reason": "风险计为「偏高」。考虑买入 SPY Put 对冲：行权价 ≈ $725.43（现价 $742.09 下方最近支撑），到期 2026-08-21（下一月度 OPEX）。仓位建议占组合 1–3%，按你自己的风险承受调整。",
-      "basis": [
-        "风险计：风险偏高 · 注意防守（多项指标转弱）",
-        "SPY 现价 $742.09，下方支撑 $725.43（近 30 日低点）",
-        "到期 2026-08-21 为确定性月度 OPEX（第三个周五）"
-      ]
-    },
-    {
       "id": "nvda-watch",
       "kind": "watch",
       "ticker": "NVDA",
       "instrument": "stock",
-      "refPrice": 203.28,
-      "addBelow": 203.28,
-      "trimAbove": 214.87,
+      "refPrice": 207.29,
+      "addBelow": 207.29,
+      "trimAbove": 213.99,
       "stop": 180.31,
       "confidence": "med",
       "headline": "NVDA · 区间观察",
-      "reason": "现价 $203.28 处于支撑 $189.8 与阻力 $214.87 之间；回踩 $203.28 偏积极，逼近 $214.87 偏谨慎。",
+      "reason": "现价 $207.29 处于支撑 $189.8 与阻力 $213.99 之间；回踩 $207.29 偏积极，逼近 $213.99 偏谨慎。",
       "basis": [
         "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
-        "近 30 日支撑 $189.8 / 阻力 $214.87 / 50 日线 $209.82（真实价格历史）",
-        "现价 $203.28，距支撑 +6.6% · 距阻力 +5.7%"
+        "近 30 日支撑 $189.8 / 阻力 $213.99 / 50 日线 $209.74（真实价格历史）",
+        "现价 $207.29，距支撑 +8.4% · 距阻力 +3.2%"
       ]
     },
     {
@@ -85,17 +67,17 @@
       "kind": "trim",
       "ticker": "AAPL",
       "instrument": "stock",
-      "refPrice": 326.59,
+      "refPrice": 327.74,
       "addBelow": null,
       "trimAbove": 334.99,
       "stop": 260.06,
       "confidence": "med",
       "headline": "AAPL · 逼近阻力减仓参考位",
-      "reason": "现价 $326.59 逼近阻力 $334.99（近 30 日高点）；突破不站稳可考虑分批减仓，回踩 $303.43 再评估。",
+      "reason": "现价 $327.74 逼近阻力 $334.99（近 30 日高点）；突破不站稳可考虑分批减仓，回踩 $304.24 再评估。",
       "basis": [
         "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
-        "近 30 日支撑 $273.75 / 阻力 $334.99 / 50 日线 $303.43（真实价格历史）",
-        "现价 $326.59，距支撑 +16.2% · 距阻力 +2.6%"
+        "近 30 日支撑 $273.75 / 阻力 $334.99 / 50 日线 $304.24（真实价格历史）",
+        "现价 $327.74，距支撑 +16.5% · 距阻力 +2.2%"
       ]
     }
   ],

@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 326.59,
-  "change5dPct": 2.9,
-  "changeYtdPct": 31.9,
-  "marketCap": "$4.90T",
-  "pe": 38.9,
+  "price": 327.74,
+  "change5dPct": 4.1,
+  "changeYtdPct": 32.0,
+  "marketCap": "$4.80T",
+  "pe": 39.2,
   "revenue": "—",
   "revenueYoYPct": 13,
   "prices": [
-    {
-      "t": "2026-01-21",
-      "o": 248.7,
-      "h": 251.56,
-      "l": 245.18,
-      "c": 247.65
-    },
     {
       "t": "2026-01-22",
       "o": 249.2,
@@ -874,131 +867,138 @@
     },
     {
       "t": "2026-07-20",
-      "o": 333.02,
+      "o": 333.51,
       "h": 333.71,
-      "l": 323.7,
+      "l": 323.68,
       "c": 326.59
+    },
+    {
+      "t": "2026-07-21",
+      "o": 323.35,
+      "h": 329.6,
+      "l": 322.22,
+      "c": 327.74
     }
   ],
   "thesis": {
     "bull": [
-      "苹果被市场普遍预期在即将公布的季度业绩中超预期，BofA等机构认为服务业务与产品组合改善有望推动营收超预期，市场对其Q3表现持乐观态度",
-      "英伟达CEO黄仁勋近期公开表态对苹果在AI领域的布局给予高度期待，带动市场对苹果AI相关叙事的买盘情绪升温，可能成为估值重估的催化剂",
-      "尽管出现「Mag7已死」的市场论调，但相较部分同业，苹果凭借庞大的装机量与服务生态，在AI落地和用户粘性方面被认为具备相对防御性优势"
+      "苹果通过与Klarna合作推出iPhone、iPad、Mac的租赁购买（lease-to-own）方案，并筹备新的iPhone购买方式，显示公司在设备融资和渗透率上持续创新，有望提振硬件换机需求",
+      "英伟达CEO黄仁勋公开言论提振市场对苹果AI（Apple Intelligence）前景的期待，带动包括苹果在内的AI相关股票买盘情绪回暖",
+      "近期国会议员佩洛西披露对AAPL的一笔新建多头仓位（2025-12-30建仓），显示至少有政治人物在近期逢低介入"
     ],
     "bear": [
-      "国会议员佩洛西在2025年12月至2026年1月期间的多笔披露交易呈现减仓倾向，且历史上自2024年底以来其AAPL相关交易多次显示为「trim」离场信号，市场解读不一",
-      "有分析指出BofA虽预期业绩超预期，但同时提示毛利率短期承压，虽被定性为「transitory」，仍反映出成本端或产品结构变化带来的不确定性",
-      "近期科技股因中国AI相关消息冲击出现「Tech Rout Deepens on China's AI Shock」的报道，叠加地缘政治风险（也门胡塞武装、伊朗局势）推升市场波动，可能拖累包括苹果在内的大盘科技权重股估值"
+      "同一份及此前多份国会披露文件显示佩洛西账户在2025-12-30、2025-12-24及2025-10-22多次减持AAPL，交易信号整体偏空，且减持次数多于新建仓位",
+      "苹果正面临美国国会议员针对欧盟《数字市场法》（DMA）的新一轮施压，监管合规成本与潜在业务调整风险上升",
+      "TSMC上调代工价格，AI相关硬件供应链成本抬升，若苹果无法完全转嫁成本，可能压缩其自研芯片与产品毛利率"
     ],
     "watch": [
-      "即将公布的季度财报中毛利率与产品线的具体拆分数据，用以验证「毛利率承压是否真的只是短期现象」",
-      "AI相关资本开支与产品端进展，包括同业（如Alphabet）AI芯片路线图调整对行业竞争格局和苹果自研AI战略的潜在影响",
-      "宏观与地缘政治因素（中东局势、红海航运保险成本上升）对全球供应链与消费电子需求端的传导效应"
+      "需持续关注科技股整体集中度风险，如Q3市场展望所提示的「炒作、集中度与隐藏风险」，苹果作为权重股受被动资金与情绪波动影响较大",
+      "关注苹果分期／租赁购机计划对营收确认节奏和坏账风险的影响，以及该模式对iPhone换机周期的实际拉动效果",
+      "关注EU DMA及美国国会对苹果应用商店与生态系统政策施压的后续进展，可能影响服务业务的长期利润率"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果公司（AAPL）是全球市值领先的消费电子与服务生态企业，核心产品包括iPhone、Mac、iPad及可穿戴设备，同时持续扩大App Store、iCloud、Apple Music等高毛利服务业务的收入占比。近期市场关注焦点集中在苹果即将公布的季度财报，以及其在人工智能领域的战略布局是否能够跟上英伟达、谷歌等同业的技术演进节奏。"
+        "body": "苹果是全球市值最大的科技公司之一，核心业务包括iPhone、Mac、iPad等硬件产品线，以及App Store、Apple Music、iCloud等高毛利服务业务。公司近期在AI（Apple Intelligence）布局和设备购买方式创新（如与Klarna合作的租赁购买计划）上有新动作，试图在硬件增长放缓背景下寻找新的收入与用户粘性来源。"
       },
       {
-        "heading": "多空观点梳理",
-        "body": "多头观点认为，苹果凭借庞大的用户基础和服务业务的持续增长，具备穿越科技股波动周期的韧性，且即将发布的季度业绩被机构普遍看好超预期。空头观点则担忧毛利率短期承压、AI领域相对同业的落地节奏偏慢，以及部分知名投资者披露的减仓动作可能反映出对短期股价的谨慎态度，多空分歧主要集中在业绩超预期的可持续性与AI叙事兑现的时间表上。"
+        "heading": "业务与产品动态",
+        "body": "公开信息显示苹果正在筹备新的iPhone购买方式，并与金融科技公司Klarna合作推出面向iPhone、iPad、Mac的分期租赁购买（lease-to-own）方案。此举可能降低消费者购机门槛、平滑营收但也引入分期违约与坏账风险，市场对该模式能否有效刺激换机需求存在分歧。"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "公开披露显示，佩洛西在2025年12月30日的交易记录中同时出现新建仓（long/new）与减仓（exit/trim）的混合信号，且回溯至2025年10月及2024年底的多次披露也呈现减仓倾向，整体传递出对该头寸维持谨慎的态度，但由于交易细节（如具体规模、账户归属）未完全披露，市场对该信号的解读存在分歧，不应作为唯一决策依据。此外，英伟达CEO黄仁勋在公开场合对苹果AI前景的正面表态，被视为对苹果AI叙事的外部背书，值得持续关注其后续产品端的验证。"
+        "heading": "行业与竞争格局",
+        "body": "近期市场资金明显向AI与芯片板块集中，英伟达、美光等公司在业绩与产能消息带动下股价大涨，TSMC同时宣布提价，反映AI硬件供应链成本上行压力。苹果虽非传统芯片股，但其自研芯片研发及AI功能落地进度，将直接受上游代工成本及行业AI叙事情绪的影响。"
       },
       {
-        "heading": "行业与宏观背景",
-        "body": "近期科技板块整体呈现高波动特征，一方面芯片股在经历回调后出现反弹（如美光等存储芯片股大涨），另一方面市场也出现「AI泡沫破裂」的担忧论调，部分机构提示同业可能削减AI资本开支。与此同时，也门胡塞武装宣布对沙特实施海上封锁、美伊紧张局势升级等地缘政治事件推升原油价格与红海航运保险成本，可能通过大宗商品与供应链成本传导影响包括苹果在内的消费电子行业需求与利润率。"
+        "heading": "监管与政策环境",
+        "body": "苹果持续面临欧盟《数字市场法》（DMA）相关合规压力，且美国国会议员近期针对该法案对苹果施加新一轮关注与施压，涉及应用商店规则、第三方支付及生态系统开放等议题，可能对其高毛利服务业务模式构成中长期挑战。"
       },
       {
-        "heading": "估值与业绩预期",
-        "body": "市场普遍预期苹果本季度业绩将超预期，但BofA等机构同时提示毛利率存在短期承压迹象，认为其属于「transitory」性质而非趋势性恶化。投资者需关注财报发布后管理层对毛利率压力来源（如产品组合、供应链成本、汇率等）的具体解释，以判断该压力是否会延续至后续季度，从而影响市场对其估值倍数的重新定价。"
+        "heading": "资金流向与跟踪者动向",
+        "body": "公开披露显示，国会议员佩洛西账户在2025-12-30新建了一笔AAPL多头仓位，但同一时间及此前（2025-12-24、2025-10-22、2024-12-31）多次交易记录显示为减持／退出，整体信号偏向减仓为主、新建仓为辅，多空信号并存，需谨慎解读单一持仓变化的指示意义。此外，英伟达CEO关于AI股的乐观言论也带动市场对苹果AI故事的关注度上升。"
       },
       {
-        "heading": "风险与不确定性",
-        "body": "主要风险包括：一是地缘政治局势（中东冲突、也门胡塞武装海上封锁）可能推高能源与航运成本，间接影响全球消费电子供应链；二是AI领域竞争加剧，若苹果自研AI进展不及同业（如谷歌AI芯片路线图更新），可能削弱其在AI叙事中的估值溢价；三是科技股整体估值已处于历史相对高位，市场对「Mag7」类权重股的分歧加大，任何超预期利空都可能引发估值的快速修正。"
+        "heading": "风险与展望",
+        "body": "综合来看，苹果短期面临的看多逻辑主要来自设备融资模式创新和AI故事情绪拉动，看空逻辑则集中在监管压力、供应链成本上升及部分资金流出信号。宏观层面，市场对AI相关权重股集中度和估值的担忧（如Q3展望所提示的隐藏风险）也可能通过被动资金和情绪传导影响苹果股价表现，投资者应结合公司自身基本面与整体科技股情绪变化综合判断。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
-        "name": "微软",
-        "note": "同为大型科技权重股，AI与云服务布局被视为苹果AI战略的重要参照系"
+        "name": "Microsoft Corporation",
+        "note": "同为高市值科技巨头，在AI与云服务布局上与苹果形成生态竞争，可比较两者在AI功能商业化节奏上的差异"
       },
       {
         "ticker": "GOOGL",
-        "name": "Alphabet",
-        "note": "近期AI芯片路线图更新及AI资本开支预期变化，是判断行业AI投入节奏的重要观察对象"
+        "name": "Alphabet Inc.",
+        "note": "在AI模型与消费者应用层面与苹果存在直接竞争，近期新款AI模型发布对市场情绪有联动影响"
       },
       {
-        "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "其CEO对苹果AI前景的公开表态及自身业绩表现，是市场衡量AI产业链景气度的核心风向标"
+        "ticker": "AMZN",
+        "name": "Amazon.com Inc.",
+        "note": "同属大型科技权重股，可作为观察科技股整体集中度与资金轮动风险的参照对象"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-20T22:05:58.531618Z"
+    "generatedAt": "2026-07-21T22:08:39.460501Z"
   },
   "news": [
     {
-      "id": "AAPL-140963300",
-      "title": "Why Apple Stock Dropped Today",
+      "id": "AAPL-140974844",
+      "title": "Sector Update: Tech Stocks Gain Late Afternoon",
       "source": "Yahoo",
-      "publishedAt": "2026-07-20",
-      "url": "https://finnhub.io/api/news?id=e3a1ae1f410d097aee768a6ce374a39c5defc57fe151e14f5e81051c96dbcc9a",
+      "publishedAt": "2026-07-21",
+      "url": "https://finnhub.io/api/news?id=cd50e8cde9d4979df27db27f2221029a45587757fc6065f01064e6bc54667f48",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140963324",
-      "title": "Apple set to beat Q3 estimates as BofA sees margin dip as transitory",
+      "id": "AAPL-140974818",
+      "title": "MAGS Delivered 181% Since Launch, But Equal-Weighted Tech Concentration Is Now a Liability",
       "source": "Yahoo",
-      "publishedAt": "2026-07-20",
-      "url": "https://finnhub.io/api/news?id=7e86efd636d2fbb2be11d5295c051712b01303e67320262ca2d1eae04aca49d3",
+      "publishedAt": "2026-07-21",
+      "url": "https://finnhub.io/api/news?id=e7044abd0f963447000b0293a7308fd66e0d801066c01143f6c498bf501028b2",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140962978",
-      "title": "Stay informed with the top movers within the dow jones index on Monday.",
+      "id": "AAPL-140974413",
+      "title": "Stay informed with the top movers within the dow jones index on Tuesday.",
       "source": "ChartMill",
-      "publishedAt": "2026-07-20",
-      "url": "https://finnhub.io/api/news?id=02b2e30e4b5a8015da142e1b9a1f892637cc927d311f40cc472a5668f9bca33d",
+      "publishedAt": "2026-07-21",
+      "url": "https://finnhub.io/api/news?id=b5b189a7facdb320b30f5d6ee8b7c837597bd1d2e6080fedff59af810237881a",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140963312",
-      "title": "'Mag 7 Is Dead': Why This Buzzy Term Is Losing Analysts",
+      "id": "AAPL-140974833",
+      "title": "TSMC Is Raising Prices. Can Big Tech’s AI Boom Afford the Bill?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-20",
-      "url": "https://finnhub.io/api/news?id=9f661dd3a06a985d9b6362f4104376d48d31e98bc0691cd4a3efbb893e8f0f94",
+      "publishedAt": "2026-07-21",
+      "url": "https://finnhub.io/api/news?id=ad27e0581b144661c4d1ffbefac647fabdaf5c9b78be58ed086e12e19bc64b2b",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140962518",
-      "title": "Looking for the most active stocks in the S&P500 index on Monday?",
-      "source": "ChartMill",
-      "publishedAt": "2026-07-20",
-      "url": "https://finnhub.io/api/news?id=97165a82ca95feb1c53dbec1eda0684a8b6188b7b4c7cd1e545dbc76f22325e6",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-140963326",
-      "title": "The Zacks Analyst Blog Highlights Apple, JPMorgan Chase, ExxonMobil, Smith-Midland and Coffee Holding",
+      "id": "AAPL-140974847",
+      "title": "Apple teams up with Klarna to launch a lease-to-own program for iPhones, iPads, and Macs",
       "source": "Yahoo",
-      "publishedAt": "2026-07-20",
-      "url": "https://finnhub.io/api/news?id=b6f650e2c86ee9b88bf49493048e1c7d70a9636ae65120ea994b1e8fa9f802e8",
+      "publishedAt": "2026-07-21",
+      "url": "https://finnhub.io/api/news?id=c55fc65f6882fd5156789079143e6543b77c17a286b9fb0ed3601562ed773716",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-140974848",
+      "title": "Apple (AAPL) Faces Fresh EU Pressure As U.S. Lawmakers Target DMA",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-21",
+      "url": "https://finnhub.io/api/news?id=507e74faabb40bd56b1b993b0e297e39d74296a38cdc6f97c3c53bb8c7bf7678",
       "tags": [
         "AAPL"
       ]
