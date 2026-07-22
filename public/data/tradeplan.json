@@ -1,13 +1,13 @@
 {
-  "forDate": "2026-07-22",
-  "generatedAt": "2026-07-21T22:09:17Z",
+  "forDate": "2026-07-23",
+  "generatedAt": "2026-07-22T22:09:16Z",
   "model": "确定性技术位 + 风险计（无 AI、无编造）",
   "catalysts": [],
   "pendingSignals": [],
   "draftActions": [],
   "risk": {
     "available": true,
-    "asOf": "2026-07-21",
+    "asOf": "2026-07-22",
     "score": 2,
     "level": "中",
     "label": "风险中性",
@@ -15,28 +15,28 @@
       {
         "name": "标普 · 趋势",
         "value": "位于 50/200 日线上方",
-        "detail": "SPX 748.3 · 50DMA 744.9 · 200DMA 697.5",
+        "detail": "SPX 747.4 · 50DMA 745.1 · 200DMA 697.9",
         "contribution": 2,
         "note": "中长期趋势均健康（risk-on）"
       },
       {
         "name": "标普 · 1月动量",
-        "value": "+1.0%",
+        "value": "+0.1%",
         "detail": "近 22 个交易日累计涨跌",
         "contribution": 0,
         "note": "区间震荡"
       },
       {
         "name": "10年美债 · 1月",
-        "value": "+17bp",
-        "detail": "当前 4.63%",
+        "value": "+21bp",
+        "detail": "当前 4.66%",
         "contribution": 0,
         "note": "利率波动有限"
       },
       {
         "name": "美元指数 · 1月",
-        "value": "+1.1%",
-        "detail": "当前 DXY 101.18",
+        "value": "+0.3%",
+        "detail": "当前 DXY 101.14",
         "contribution": 0,
         "note": "美元区间波动"
       }
@@ -45,39 +45,39 @@
   },
   "suggestions": [
     {
-      "id": "nvda-watch",
-      "kind": "watch",
-      "ticker": "NVDA",
-      "instrument": "stock",
-      "refPrice": 207.29,
-      "addBelow": 207.29,
-      "trimAbove": 213.99,
-      "stop": 180.31,
-      "confidence": "med",
-      "headline": "NVDA · 区间观察",
-      "reason": "现价 $207.29 处于支撑 $189.8 与阻力 $213.99 之间；回踩 $207.29 偏积极，逼近 $213.99 偏谨慎。",
-      "basis": [
-        "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
-        "近 30 日支撑 $189.8 / 阻力 $213.99 / 50 日线 $209.74（真实价格历史）",
-        "现价 $207.29，距支撑 +8.4% · 距阻力 +3.2%"
-      ]
-    },
-    {
       "id": "aapl-trim",
       "kind": "trim",
       "ticker": "AAPL",
       "instrument": "stock",
-      "refPrice": 327.74,
+      "refPrice": 325.89,
       "addBelow": null,
       "trimAbove": 334.99,
       "stop": 260.06,
       "confidence": "med",
       "headline": "AAPL · 逼近阻力减仓参考位",
-      "reason": "现价 $327.74 逼近阻力 $334.99（近 30 日高点）；突破不站稳可考虑分批减仓，回踩 $304.24 再评估。",
+      "reason": "现价 $325.89 逼近阻力 $334.99（近 30 日高点）；突破不站稳可考虑分批减仓，回踩 $304.89 再评估。",
       "basis": [
         "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
-        "近 30 日支撑 $273.75 / 阻力 $334.99 / 50 日线 $304.24（真实价格历史）",
-        "现价 $327.74，距支撑 +16.5% · 距阻力 +2.2%"
+        "近 30 日支撑 $273.75 / 阻力 $334.99 / 50 日线 $304.89（真实价格历史）",
+        "现价 $325.89，距支撑 +16.0% · 距阻力 +2.8%"
+      ]
+    },
+    {
+      "id": "nvda-trim",
+      "kind": "trim",
+      "ticker": "NVDA",
+      "instrument": "stock",
+      "refPrice": 212.06,
+      "addBelow": null,
+      "trimAbove": 214.39,
+      "stop": 180.31,
+      "confidence": "med",
+      "headline": "NVDA · 逼近阻力减仓参考位",
+      "reason": "现价 $212.06 逼近阻力 $214.39（近 30 日高点）；突破不站稳可考虑分批减仓，回踩 $209.68 再评估。",
+      "basis": [
+        "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
+        "近 30 日支撑 $189.8 / 阻力 $214.39 / 50 日线 $209.68（真实价格历史）",
+        "现价 $212.06，距支撑 +10.5% · 距阻力 +1.1%"
       ]
     }
   ],

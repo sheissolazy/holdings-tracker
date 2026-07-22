@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 207.29,
-  "change5dPct": -2.1,
-  "changeYtdPct": 12.1,
-  "marketCap": "$4.92T",
+  "price": 212.06,
+  "change5dPct": -0.2,
+  "changeYtdPct": 13.0,
+  "marketCap": "$5.02T",
   "pe": 31.4,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-01-22",
-      "o": 184.75,
-      "h": 186.17,
-      "l": 183.93,
-      "c": 184.84
-    },
     {
       "t": "2026-01-23",
       "o": 187.5,
@@ -878,137 +871,82 @@
       "h": 208.65,
       "l": 204.01,
       "c": 207.29
+    },
+    {
+      "t": "2026-07-22",
+      "o": 205.8,
+      "h": 214.39,
+      "l": 204.95,
+      "c": 212.06
     }
   ],
   "thesis": {
-    "bull": [
-      "数据中心AI算力需求依旧紧俏，Databricks等云端客户公开表示GPU资源'到处都不够用'，反映Nvidia产品短期内仍处于供不应求状态",
-      "Nvidia通过持有Nebius约9.3%的受益所有权（含现有股份与预融资认股权证）等生态投资，绑定新兴AI云服务商，扩大其CUDA生态与算力网络的渗透",
-      "国会议员佩洛西在2025年末至2026年初的多份PTR披露中持续新建NVDA多头仓位，显示部分知情投资者对其中长期基本面仍持乐观态度"
-    ],
-    "bear": [
-      "同一批PTR记录显示佩洛西在建立新仓位的同时也出现减持（trim/exit）动作，且历史上曾出现建仓与清仓交替的模式，反映即便是知情交易者对短期走势也存在分歧",
-      "AMD即将举行的Financial Analyst Day（2026年7月22-23日）预期披露更完整的Scale-Up CPO互联及MI500路线图，若确认关键技术突破，可能强化市场对Nvidia竞争优势被侵蚀的担忧",
-      "市场对'AI交易过度集中'的警惕上升，有分析指出七巨头等权重配置下科技股集中度已成为负担，叠加TSMC上调代工价格，可能压缩包括Nvidia在内下游厂商的毛利空间"
-    ],
-    "watch": [
-      "AMD 7月22-23日Financial Analyst Day及其CPO/MI500路线图披露内容，将是检验AMD对Nvidia竞争态势的重要信号",
-      "中国本土新AI模型对市场情绪的扰动（'Markets Rattled By New Chinese AI Model'），需关注其对海外AI算力资本开支预期的连锁影响",
-      "内存与代工价格走势（美光、SK海力士IPO、TSMC提价）对Nvidia硬件成本结构及交付节奏的传导"
-    ],
-    "sections": [
-      {
-        "heading": "公司概览",
-        "body": "NVIDIA是全球领先的GPU与AI加速计算平台提供商，产品覆盖数据中心训练/推理芯片、网络互联（如NVLink、InfiniBand及Spectrum-X）、CUDA软件生态及机器人/自动驾驶等新兴垂直领域。公司当前营收增长主要由超大规模云厂商及企业客户的AI基础设施资本开支驱动，同时通过股权投资等方式布局AI云服务商生态，如近期披露持有Nebius约9.3%的受益所有权。"
-      },
-      {
-        "heading": "近期动态",
-        "body": "市场近期关注点集中在几条主线：一是AMD将于7月22至23日举行Financial Analyst Day，据Jefferies客户报告预期，AMD可能进一步披露其规模化Scale-Up CPO（共封装光学）路线图及MI500产品规划，被视为对Nvidia在互联与下一代加速卡领域竞争地位的潜在挑战；二是Nvidia被披露持有AI云服务商Nebius约9.3%权益，带动NBIS盘后上涨，显示其通过战略投资巩固下游生态的策略；三是比特币矿企/算力企业（如IREN、HUT、CIFR、CLSK）纷纷上调AI云业务ARR目标或签署大型数据中心租约，侧面印证下游AI算力需求依旧旺盛。"
-      },
-      {
-        "heading": "增长驱动与护城河",
-        "body": "Nvidia的核心护城河仍是CUDA软件生态与全栈（芯片+网络+系统+软件）整合能力，使其在训练与推理市场保持较高份额。Databricks等企业客户公开表示在多个区域'到处都缺GPU'，反映需求端仍未见明显放缓迹象。此外，公司通过对AI云、算力租赁企业的股权/资本合作（如Nebius），进一步锁定长期算力采购关系，形成生态绑定效应。"
-      },
-      {
-        "heading": "财务与估值观察",
-        "body": "市场评论中出现'两种截然不同的未来被定价进NVIDIA股价'的表述，反映多空双方在估值锚定上的显著分歧：乐观者基于持续的算力紧缺与订单能见度给予高倍数，悲观者则担忧AI资本开支周期见顶、竞争加剧及供应链成本（如TSMC提价）侵蚀毛利。近期科技股尤其是存储与芯片板块波动加大（如SanDisk、Intel等年内表现大幅波动），显示板块整体估值敏感度较高。"
-      },
-      {
-        "heading": "竞争格局",
-        "body": "AMD正被视为Nvidia在数据中心GPU与网络互联领域最主要的直接竞争者，即将召开的Financial Analyst Day及其CPO/MI500路线图披露将是重要观察窗口。此外，Broadcom、Marvell等在定制ASIC与网络芯片领域的进展（如Marvell年内股价大幅上涨）也可能分流部分超大规模客户的自研芯片预算。存储厂商（美光、SK海力士）价格与产能变化则通过HBM等关键组件间接影响Nvidia的成本与交付节奏。"
-      },
-      {
-        "heading": "风险与展望",
-        "body": "主要风险包括：AI资本开支周期若出现放缓将直接影响订单能见度；地缘政治与出口管制的不确定性；AMD等竞争对手在互联与下一代产品上的技术追赶；以及市场对科技股高度集中配置的担忧可能引发估值再平衡。同时也需关注佩洛西等公众人物交易披露中建仓与减持交替出现的现象，提示即便知情投资者内部对短期走势判断也不完全一致，投资者应结合自身研究综合判断，而非单纯参考单一信号。"
-      }
-    ],
-    "comparables": [
-      {
-        "ticker": "AMD",
-        "name": "Advanced Micro Devices",
-        "note": "数据中心GPU与网络互联最主要竞争者，即将披露CPO与MI500路线图"
-      },
-      {
-        "ticker": "AVGO",
-        "name": "Broadcom",
-        "note": "定制ASIC与网络芯片供应商，超大规模客户自研芯片生态的重要合作方"
-      },
-      {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "数据中心互联与定制芯片领域竞争者，年内股价表现强劲"
-      },
-      {
-        "ticker": "TSM",
-        "name": "台积电",
-        "note": "核心晶圆代工厂，近期提价可能影响下游芯片成本结构"
-      },
-      {
-        "ticker": "NBIS",
-        "name": "Nebius Group",
-        "note": "Nvidia持股约9.3%的AI云服务商，生态绑定案例"
-      }
-    ],
-    "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-21T22:06:40.059662Z"
+    "bull": [],
+    "bear": [],
+    "watch": [],
+    "sections": [],
+    "comparables": [],
+    "model": "（分析暂不可用）",
+    "generatedAt": null,
+    "unavailable": true
   },
   "news": [
     {
-      "id": "NVDA-140974817",
-      "title": "Verizon Is Cutting 3,000 Jobs and Handing 274 Stores to Franchisees Right Before July 24 Earnings. Is the 6.5% Dividend Still Safe?",
+      "id": "NVDA-140986059",
+      "title": "Nvidia Stock Rises as BofA Sees $170 Billion AI CPU Market by 2030",
       "source": "Yahoo",
-      "publishedAt": "2026-07-21",
-      "url": "https://finnhub.io/api/news?id=1af6a021f6d1138a84080261ddbb38c1842ae918504b83d1c03dcdc7254e440c",
+      "publishedAt": "2026-07-22",
+      "url": "https://finnhub.io/api/news?id=fd76b069e4ea63908e1c358679f8ac6ec3523e8a2693a2aa0b96059ff1254594",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140974818",
-      "title": "MAGS Delivered 181% Since Launch, But Equal-Weighted Tech Concentration Is Now a Liability",
+      "id": "NVDA-140986060",
+      "title": "AMD Commits Up to $5 Billion as Anthropic Targets 2 Gigawatts of AI Chips",
       "source": "Yahoo",
-      "publishedAt": "2026-07-21",
-      "url": "https://finnhub.io/api/news?id=e7044abd0f963447000b0293a7308fd66e0d801066c01143f6c498bf501028b2",
+      "publishedAt": "2026-07-22",
+      "url": "https://finnhub.io/api/news?id=b6a8c49b3fafb6144fd7fc734c5d941f71dbcccba835b8fb5b5c1314fbeb2489",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140974819",
-      "title": "Why Lockheed Martin Stock Dropped Tuesday Morning",
+      "id": "NVDA-140986061",
+      "title": "Michael Burry Is Short the iShares Semiconductor ETF. The Fund Has Still Gained 73% in 2026.",
       "source": "Yahoo",
-      "publishedAt": "2026-07-21",
-      "url": "https://finnhub.io/api/news?id=867db6abb76b8efff45b0ddddf0429082b3f95350800c7e80298cd8590023284",
+      "publishedAt": "2026-07-22",
+      "url": "https://finnhub.io/api/news?id=3274d34474a1694d48ec194e0aee2bc138995d88e6d420ef8442478e49e3bc7e",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140974820",
-      "title": "Prediction: This Artificial Intelligence (AI) Chip Stock Is the Biggest Winner From the $26.5 Billion SK Hynix IPO (Hint: It's Not Nvidia)",
+      "id": "NVDA-140986062",
+      "title": "New Defense-Themed ETF AMMO Joins VistaShares’ Trio of Thematic Funds",
       "source": "Yahoo",
-      "publishedAt": "2026-07-21",
-      "url": "https://finnhub.io/api/news?id=8ba7506580ce70ab6d77aa9287d625fead457bf366f7fdd7a61fa9927eb454f6",
+      "publishedAt": "2026-07-22",
+      "url": "https://finnhub.io/api/news?id=31be873aba67cfcc6a04e04a4ee02636e7c46a1ced455e7576211a539775cf5e",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140974821",
-      "title": "Databricks CEO said they are ’running out of GPUs everywhere’",
+      "id": "NVDA-140986063",
+      "title": "Jamie Dimon's JPMorgan Posted a Record $21.2 Billion Quarterly Profit, Up 41%",
       "source": "Yahoo",
-      "publishedAt": "2026-07-21",
-      "url": "https://finnhub.io/api/news?id=2564922e58daa0f9302b117bae41ac2d97dcf7b3314eb2273aba2494ae9a6a4b",
+      "publishedAt": "2026-07-22",
+      "url": "https://finnhub.io/api/news?id=59e3f60e24a846ca89b7aa393f73d6d2bfc0923c54548b80fb513250b0dbdd60",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140974822",
-      "title": "4 Vanguard ETFs Worth Loading Up On for the Long Haul",
+      "id": "NVDA-140986064",
+      "title": "Nvidia Hits Buy Trigger With Alphabet Earnings Due",
       "source": "Yahoo",
-      "publishedAt": "2026-07-21",
-      "url": "https://finnhub.io/api/news?id=0f1ac514c7f8ee0e08d995479dc41f043aa2a3a9e83c485fd48ee88f9f29d8ed",
+      "publishedAt": "2026-07-22",
+      "url": "https://finnhub.io/api/news?id=3281c6a2ea74f76ee4d00e98b2beff4774d7aca4a6915f3ac841af8e7b2663bb",
       "tags": [
         "NVDA"
       ]

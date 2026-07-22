@@ -34,29 +34,5 @@
     "sector": "—",
     "exchange": "NASDAQ Global",
     "status": "expected"
-  },
-  {
-    "ticker": "BRTMU",
-    "name": "B&R Technology Merger Corp.",
-    "date": "2026-07-21",
-    "priceRange": [
-      10.0,
-      10.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global",
-    "status": "expected"
-  },
-  {
-    "ticker": "NCOU",
-    "name": "Southern Cross Acquisition I Corp.",
-    "date": "2026-07-21",
-    "priceRange": [
-      10.0,
-      10.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global",
-    "status": "expected"
   }
 ]
