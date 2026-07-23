@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 325.89,
-  "change5dPct": -0.5,
-  "changeYtdPct": 31.4,
-  "marketCap": "$4.81T",
-  "pe": 38.8,
+  "price": 321.66,
+  "change5dPct": -3.5,
+  "changeYtdPct": 25.9,
+  "marketCap": "$4.79T",
+  "pe": 38.4,
   "revenue": "—",
   "revenueYoYPct": 13,
   "prices": [
-    {
-      "t": "2026-01-23",
-      "o": 247.32,
-      "h": 249.41,
-      "l": 244.68,
-      "c": 248.04
-    },
     {
       "t": "2026-01-26",
       "o": 251.48,
@@ -874,149 +867,156 @@
     },
     {
       "t": "2026-07-22",
-      "o": 327.88,
+      "o": 327.87,
       "h": 329.0,
       "l": 323.34,
       "c": 325.89
+    },
+    {
+      "t": "2026-07-23",
+      "o": 321.73,
+      "h": 323.3,
+      "l": 319.35,
+      "c": 321.66
     }
   ],
   "thesis": {
     "bull": [
       {
-        "point": "苹果服务业务与生态系统粘性持续增强，App Store、iCloud、AppleCare等高毛利业务为整体盈利能力提供缓冲，降低对硬件周期的依赖"
+        "point": "英伟达CEO黄仁勋公开表态看好苹果AI布局，带动市场对Apple Intelligence相关AI功能的乐观预期，可能催化换机周期"
       },
       {
-        "point": "市场对苹果AI功能（Apple Intelligence）的预期升温，英伟达CEO黄仁勋近期公开表态看好苹果AI前景，带动相关AI概念股联动上涨"
+        "point": "知名政治人物Pelosi在2025年12月30日的最新披露中包含新建多头仓位，显示部分资金对苹果长期基本面仍有信心"
       },
       {
-        "point": "苹果调整iPhone付费方式（分期/以旧换新等），有望降低消费者购机门槛，刺激换机周期提前启动，支撑硬件销量"
+        "point": "苹果正在测试更智能的购物体验等新功能，显示公司在AI应用层持续投入，试图将AI能力转化为具体产品体验和潜在营收增量"
       }
     ],
     "bear": [
       {
-        "point": "国会知名交易者Pelosi在最近披露中呈现分歧信号：新增一笔看多头寸的同时，也有多笔减持记录，显示对苹果仓位存在获利了结或再平衡的考量"
+        "point": "Pelosi同一披露周期及此前多次披露中出现连续减持记录（2025年12月30日、12月24日、10月22日、2024年12月31日），减持频次高于新建仓，显示部分资深投资者对短期风险持谨慎态度"
       },
       {
-        "point": "苹果在与Masimo的专利诉讼中未能推翻6.34亿美元的不利判决，法律与合规成本及潜在产品设计限制仍是悬而未决的风险"
+        "point": "市场出现Magnificent Seven集体重挫、AI怀疑论者抛售科技股的报道，且有分析指出大型科技公司自由现金流出现转负迹象，若苹果资本开支持续攀升而变现节奏放缓，估值支撑可能受压"
       },
       {
-        "point": "大型科技股财报季来临，市场焦点集中在AI资本开支的变现能力上，若苹果AI功能未能带来实质性换机拉动，估值可能面临修正压力"
+        "point": "高通深化与苹果重要竞争对手的合作关系，叠加提姆库克将于9月卸任CEO、由约翰特纳接任的重大管理层交接，为供应链格局和公司治理连续性带来不确定性"
       }
     ],
     "watch": [
       {
-        "point": "苹果即将公布的季度财报，尤其是iPhone销量、服务收入增速及AI相关功能对硬件周期的实际拉动效果"
+        "point": "新任CEO约翰特纳上任后的战略延续性与资本配置优先级，尤其是在AI与自研芯片方向上是否会调整既定路线"
       },
       {
-        "point": "Masimo诉讼后续法律程序及可能的产品端影响（如Apple Watch血氧功能相关限制）"
+        "point": "大型科技公司即将披露的财报是否显示AI资本开支与营收兑现之间的缺口收窄，这将直接影响市场对苹果AI变现进度的预期"
       },
       {
-        "point": "地缘政治局势（中东局势、红海航运、关税及供应链政策）对苹果全球供应链和终端市场需求的潜在扰动"
+        "point": "高通与苹果竞争对手关系深化后，对苹果自研调制解调器及供应链议价能力的潜在影响"
       }
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值最大的科技公司之一，核心业务涵盖iPhone、Mac、iPad、可穿戴设备及服务业务（App Store、iCloud、Apple Music、AppleCare等）。近年来公司持续推动服务收入占比提升，同时通过Apple Intelligence等AI功能尝试为硬件产品注入新的增长动能，以应对成熟市场换机周期放缓的挑战"
+        "body": "苹果是全球市值领先的消费电子与服务公司，核心产品包括iPhone、Mac、iPad及可穿戴设备，同时通过App Store、云服务、支付等业务构建高毛利的服务收入体系。公司近年来将AI能力嵌入操作系统与应用生态，作为硬件之外的第二增长引擎。管理层层面即将迎来重大变化，提姆库克预计于9月卸任CEO，由现任高管约翰特纳接任，这是公司十五年来首次核心领导层更替"
       },
       {
-        "heading": "最新动态",
-        "body": "近期市场关注点包括：苹果调整iPhone购机付费方式以降低消费门槛；苹果在与医疗设备公司Masimo的专利诉讼中未能推翻6.34亿美元的不利判决；英伟达CEO黄仁勋公开言论提振市场对苹果AI功能的期待，带动相关AI概念股联动。此外，市场也在回顾Berkshire Hathaway若未曾减持苹果股份、其持仓价值将达到的水平，反映出市场对苹果长期价值创造能力的持续讨论"
+        "heading": "AI与产品战略",
+        "body": "公开信息显示苹果正在测试更智能的购物体验等AI驱动功能，试图将生成式AI能力融入现有产品体验以提升用户粘性和服务收入。英伟达CEO黄仁勋近期公开表态对苹果AI前景表示看好，一定程度上提振了市场对Apple Intelligence相关产品线的预期，但公司AI落地节奏与竞争对手相比是否具备差异化优势仍存争议"
+      },
+      {
+        "heading": "高管变动与治理",
+        "body": "提姆库克将于2026年9月卸任CEO并交棒给约翰特纳，这是市场关注的核心事件之一。历史上大型科技公司核心创始人或长期掌舵者交接时往往伴随战略连续性与执行力的市场重新评估，投资者需关注交接过程是否平稳、新任管理层是否延续现有资本配置与AI投入节奏"
+      },
+      {
+        "heading": "市场环境与竞争格局",
+        "body": "近期新闻显示Magnificent Seven科技股出现集体重挫，AI怀疑论情绪有所升温，同时有报道指出大型科技公司自由现金流呈现转负迹象，引发市场对AI资本开支能否及时转化为营收的普遍质疑。此外高通深化与苹果重要竞争对手的合作关系，可能在调制解调器等关键零部件供应格局上对苹果构成潜在竞争压力"
       },
       {
         "heading": "跟踪者动向解读",
-        "body": "国会议员Pelosi在最新披露（asOf 2026-01-23，交易日2025-12-30及2025-12-24）中呈现出分歧信号：既有一笔新增的看多头寸，也有多笔减持操作，此前2025-10-24及2025-01-17的披露也均为减持性质。整体来看，该交易者对苹果的仓位管理呈现出阶段性获利了结与再配置的特征，而非单向坚定看多或看空，投资者应谨慎解读单一交易信号，避免过度外推其投资意图"
+        "body": "公开披露显示知名政治人物在2025年12月30日的交易记录中同时包含新建多头与减持记录，且此前2025年10月及2024年12月均有减持记录，呈现出减持频次相对更高的态势。这类披露信息存在滞后性且不代表投资建议，但可作为观察市场情绪分歧的参考维度之一"
       },
       {
-        "heading": "行业与宏观背景",
-        "body": "当前市场正处于大型科技公司财报季，AI资本开支的变现能力（Monetization）成为市场核心关注点，英伟达、AMD、美光等AI产业链公司近期股价表现活跃，市场情绪总体偏向乐观但也存在分化（如Michael Burry做空半导体ETF的仓位）。宏观层面，中东地缘政治紧张局势（伊朗、红海航运）、贸易政策（针对中国车企的法案）等因素可能通过供应链成本、消费者信心等渠道间接影响苹果等消费电子龙头企业"
-      },
-      {
-        "heading": "多空分歧焦点",
-        "body": "多头逻辑主要基于苹果服务业务的持续增长、AI功能对换机周期的潜在拉动，以及市场对头部科技股的整体乐观情绪；空头逻辑则聚焦于苹果AI功能商业化进度是否能匹配市场预期、专利诉讼带来的法律及合规成本，以及国会交易者近期减持行为所折射出的部分获利了结情绪。两种逻辑的分歧核心在于苹果能否在即将到来的财报中证明AI功能已实质性转化为销量与收入增长"
-      },
-      {
-        "heading": "可比公司与估值参照",
-        "body": "在消费电子及AI硬件生态中，可将苹果与三星电子（智能手机及半导体业务对比）、微软（软件与AI服务变现路径对比）、以及英伟达（作为AI产业链上游硬件供应商，其表态与业绩对苹果AI叙事有间接指引作用）进行横向参照，以更全面评估苹果在AI转型周期中的相对位置"
+        "heading": "估值与展望",
+        "body": "综合来看，苹果的多空分歧主要集中在AI变现节奏、管理层交接的执行风险与整体科技板块估值情绪三个维度。乐观观点强调AI功能落地与生态protectedcloud服务的稳定现金流贡献，谨慎观点则聚焦于自由现金流边际变化、竞争格局演变以及高层交接期间可能出现的战略不确定性，投资者需持续关注即将披露的财报及新任CEO的初步战略表态"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
-        "name": "微软",
-        "note": "同为科技巨头，AI与云服务变现路径可作为苹果AI功能商业化进度的参照"
+        "name": "Microsoft Corporation",
+        "note": "同属Magnificent Seven成分股，AI与云服务战略进展常被市场用于对比苹果的AI变现节奏"
       },
       {
-        "ticker": "005930.KS",
-        "name": "三星电子",
-        "note": "智能手机及半导体业务与苹果存在直接竞争与产业链关联"
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc.",
+        "note": "近期有报道称其Gemini模型表现亮眼，与苹果在设备端AI能力布局形成竞争参照"
       },
       {
-        "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "AI产业链上游硬件龙头，其管理层表态与业绩表现对市场评估苹果AI叙事具有间接参考意义"
+        "ticker": "QCOM",
+        "name": "Qualcomm Incorporated",
+        "note": "近期被曝深化与苹果重要竞争对手的合作关系，是苹果在调制解调器等核心零部件领域的重要供应商与潜在竞争变量"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-22T22:08:41.081558Z"
+    "generatedAt": "2026-07-23T22:10:29.440719Z"
   },
   "news": [
     {
-      "id": "AAPL-140985761",
-      "title": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "publishedAt": "2026-07-22",
-      "url": "https://finnhub.io/api/news?id=4dd21184d1462d0068ff987aa2f82ff81b64ca5662220094fa95e645bdec6773",
+      "id": "AAPL-140997476",
+      "title": "Qualcomm deepens ties with major Apple rival",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-23",
+      "url": "https://finnhub.io/api/news?id=d0cfe33f230f6d327838a64815d5d2ca1fa6d7984b173dcf2cf6a1c1e1e574bf",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140986073",
-      "title": "Can Alphabet Set the Tone for Mag 7 Earnings?",
+      "id": "AAPL-140997477",
+      "title": "TSLA, GOOGL Stocks Lead 'Magnificent Seven' Rout – MAGS ETF On Track For Biggest Single-Day Loss This Year",
       "source": "Yahoo",
-      "publishedAt": "2026-07-22",
-      "url": "https://finnhub.io/api/news?id=e2561a736427451772d42f6276ae14094092c916df6ea79268e8380713671b9b",
+      "publishedAt": "2026-07-23",
+      "url": "https://finnhub.io/api/news?id=a33852e9a226f370c66beaedca7add43d5e488ebd9fc54dd80e888cb47ade713",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140986193",
-      "title": "Apple rewrites how Americans pay for iPhones",
+      "id": "AAPL-140997478",
+      "title": "Best Monthly Dividend ETFs for Consistent Income",
       "source": "Yahoo",
-      "publishedAt": "2026-07-22",
-      "url": "https://finnhub.io/api/news?id=f9fecb5064c65b1ba140a34afc3cd94965edaf03846552a908c6aac44cac1dd5",
+      "publishedAt": "2026-07-23",
+      "url": "https://finnhub.io/api/news?id=1de5038ef073af3ed66423bedc4fc046766610b7dfdc096d519b53d8bc890542",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140986194",
-      "title": "Apple Fails to Overturn $634 Million Masimo Verdict",
+      "id": "AAPL-140997479",
+      "title": "Apple Tests Smarter Shopping Experience",
       "source": "Yahoo",
-      "publishedAt": "2026-07-22",
-      "url": "https://finnhub.io/api/news?id=26ac5c70ade1dcc2b150e4fdd59c777f3abe258343b1d0a1eec44fe196037309",
+      "publishedAt": "2026-07-23",
+      "url": "https://finnhub.io/api/news?id=0eb9acfd54dd72af5079fab4f780338c0cafa55a092f4974d0776f008a1c87a3",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140986195",
-      "title": "Here's How Much Berkshire Hathaway's Apple Stake Would Be Worth If Warren Buffett Never Sold a Share",
+      "id": "AAPL-140997480",
+      "title": "Magnificent 7 Loses $767 Billion as AI Skeptics Dump Tech Stocks",
       "source": "Yahoo",
-      "publishedAt": "2026-07-22",
-      "url": "https://finnhub.io/api/news?id=ab9c332e2389857ac2663c20b2418573c6ae3e58bb004b606f1983563726571a",
+      "publishedAt": "2026-07-23",
+      "url": "https://finnhub.io/api/news?id=e78813fe1aa8f83f0171162dcf5794e1467ba5cbb1e5dbd049e807100c86decf",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-140986196",
-      "title": "Intel Earnings Test AI-Fueled Rally",
+      "id": "AAPL-140997481",
+      "title": "3 Things Investors Can Expect When Tim Cook Steps Down as CEO in September After 15 Years and Hands the Reins to John Ternus",
       "source": "Yahoo",
-      "publishedAt": "2026-07-22",
-      "url": "https://finnhub.io/api/news?id=f54ed60b35d5447d2b8b9e4d51d6a44216dfbf68880c1f8b78854ecb16a96234",
+      "publishedAt": "2026-07-23",
+      "url": "https://finnhub.io/api/news?id=bc09a67c77368958aedfbaa24c5c920d090d3796d263bf6084689c4f8736e06f",
       "tags": [
         "AAPL"
       ]

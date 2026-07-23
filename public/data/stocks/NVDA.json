@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 212.06,
-  "change5dPct": -0.2,
-  "changeYtdPct": 13.0,
-  "marketCap": "$5.02T",
-  "pe": 31.4,
+  "price": 208.76,
+  "change5dPct": 0.7,
+  "changeYtdPct": 12.0,
+  "marketCap": "$5.13T",
+  "pe": 31.8,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-01-23",
-      "o": 187.5,
-      "h": 189.6,
-      "l": 186.82,
-      "c": 187.67
-    },
     {
       "t": "2026-01-26",
       "o": 187.16,
@@ -874,79 +867,138 @@
     },
     {
       "t": "2026-07-22",
-      "o": 205.8,
+      "o": 205.81,
       "h": 214.39,
       "l": 204.95,
       "c": 212.06
+    },
+    {
+      "t": "2026-07-23",
+      "o": 209.4,
+      "h": 210.87,
+      "l": 205.96,
+      "c": 208.76
     }
   ],
   "thesis": {
-    "bull": [],
-    "bear": [],
-    "watch": [],
-    "sections": [],
-    "comparables": [],
-    "model": "（分析暂不可用）",
-    "generatedAt": null,
-    "unavailable": true
+    "bull": [
+      "数据中心与AI算力需求持续强劲，NVIDIA在GPU训练与推理市场保持主导地位，客户涵盖云厂商、主权AI项目及企业客户，订单可见度较高",
+      "公司通过战略性股权投资（如披露持有Nebius约9.3%权益）绑定新兴AI云与算力供应商，形成生态协同并可能带来投资收益",
+      "机构与部分政治人物持续增持，市场对AI基础设施长期资本开支周期仍保持乐观，多家云厂商资本开支指引未见明显下修"
+    ],
+    "bear": [
+      "AMD、博通、Marvell等竞争对手在AI加速卡与网络互连领域加速追赶，AMD与Anthropic的芯片采购及算力协议显示大客户开始分散供应商，潜在削弱NVIDIA议价能力与份额独占性",
+      "近期「Magnificent Seven」科技股遭遇集中抛售，市场对AI相关资本开支能否转化为可持续现金流的怀疑情绪上升，部分大型科技公司自由现金流出现走弱迹象",
+      "跟踪者交易记录显示存在买入后又减持的双向操作，反映即便信息优势方也难以形成一致方向性判断，估值层面对高预期的容错空间有限"
+    ],
+    "watch": [
+      "AMD即将举行的产品发布活动（涉及规模化CPO路线图与MI500）可能进一步明确其在下一代AI加速与互连技术上的竞争定位，需关注是否影响NVIDIA的技术领先叙事",
+      "比特币矿企与云服务商（如IREN、HUT等）密集披露与NVIDIA相关的AI数据中心合作与租约，反映算力需求扩散至非传统客户群体，可作为下游需求强弱的高频观察指标",
+      "大型科技公司即将披露的财报及资本开支指引，将是检验「AI货币化能否追上资本开支」这一市场核心分歧的关键节点"
+    ],
+    "sections": [
+      {
+        "heading": "公司概览",
+        "body": "NVIDIA是全球领先的图形处理器与AI加速计算公司，业务涵盖数据中心GPU、游戏显卡、专业可视化及汽车芯片等领域，其中数据中心业务已成为公司营收与利润的主要驱动力，产品广泛应用于大模型训练、推理及高性能计算场景"
+      },
+      {
+        "heading": "业务驱动因素",
+        "body": "AI基础设施建设仍是公司核心增长引擎，云厂商、企业及主权国家层面的算力投资需求持续拉动GPU及配套系统销售。公司近期通过股权投资方式（如持有Nebius约9.3%权益）延伸产业链布局，同时其芯片也被应用于比特币矿企转型的AI数据中心及多家新兴云服务商的算力扩张计划"
+      },
+      {
+        "heading": "竞争格局",
+        "body": "AMD正通过Helios机架系统及与Anthropic等大模型公司的深度合作（据报道涉及数十亿美元规模的芯片采购与算力协议）挑战NVIDIA的市场地位，博通与Marvell则在定制化AI芯片及网络互连领域形成差异化竞争，行业整体呈现「一超多强」但份额边际变化的格局"
+      },
+      {
+        "heading": "财务与估值",
+        "body": "公司当前估值隐含市场对AI资本开支持续高增长的预期，任何关于云厂商资本开支放缓、大型科技公司自由现金流承压的信号都可能对估值形成压力，需持续跟踪季度业绩指引及主要客户的资本开支节奏"
+      },
+      {
+        "heading": "风险因素",
+        "body": "主要风险包括：AI相关资本开支若不及预期或出现放缓、竞争对手份额侵蚀、地缘政治及出口管制对海外销售的潜在影响，以及近期科技股集中回调所反映的市场情绪脆弱性。此外跟踪者交易记录显示的买入减持交替现象，也提示即便是信息优势明显的市场参与者对短期方向的判断亦存在分歧"
+      },
+      {
+        "heading": "跟踪者与市场动态",
+        "body": "公开披露显示，部分政治人物在NVDA上存在多次新建仓与部分减持交替出现的交易记录，整体方向偏多但节奏并不一致。社交媒体与市场评论持续聚焦AMD-Anthropic合作、NVIDIA对Nebius的股权敞口，以及比特币矿企向AI数据中心转型带来的算力租约扩张，这些均为短期股价波动的潜在催化因素"
+      }
+    ],
+    "comparables": [
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices",
+        "note": "通过Helios机架系统及与Anthropic的芯片采购、算力协议正加速切入AI加速卡市场，被视为NVIDIA最主要的直接竞争对手"
+      },
+      {
+        "ticker": "AVGO",
+        "name": "Broadcom Inc",
+        "note": "在定制化AI加速芯片（ASIC）及高速网络互连领域与NVIDIA形成差异化竞争，是超大规模云厂商自研芯片方案的主要合作伙伴"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "专注于AI数据中心网络连接与定制硅方案，营收增长受益于AI基础设施建设，常被市场用于对比NVIDIA生态外的连接层机会"
+      }
+    ],
+    "model": "claude-code（订阅）",
+    "generatedAt": "2026-07-23T22:08:20.645175Z"
   },
   "news": [
     {
-      "id": "NVDA-140986059",
-      "title": "Nvidia Stock Rises as BofA Sees $170 Billion AI CPU Market by 2030",
+      "id": "NVDA-140997456",
+      "title": "Established Firm Harding Loevner Enters ETF Market With LOEV for International Investors",
       "source": "Yahoo",
-      "publishedAt": "2026-07-22",
-      "url": "https://finnhub.io/api/news?id=fd76b069e4ea63908e1c358679f8ac6ec3523e8a2693a2aa0b96059ff1254594",
+      "publishedAt": "2026-07-23",
+      "url": "https://finnhub.io/api/news?id=12a0c6d9ffe20dd1c4c481b339c60c221a447f25a86491ebfa731fcb50b44ab6",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140986060",
-      "title": "AMD Commits Up to $5 Billion as Anthropic Targets 2 Gigawatts of AI Chips",
+      "id": "NVDA-140997457",
+      "title": "Donald Trump's USTR Hit Brazil With a 25% Section 301 Tariff on July 15. Here's How That Could Play Out for These 2 Stocks.",
       "source": "Yahoo",
-      "publishedAt": "2026-07-22",
-      "url": "https://finnhub.io/api/news?id=b6a8c49b3fafb6144fd7fc734c5d941f71dbcccba835b8fb5b5c1314fbeb2489",
+      "publishedAt": "2026-07-23",
+      "url": "https://finnhub.io/api/news?id=c48a744abe2676379a831b8ad1799bf89f2d4d53d96d9b2ca0d97213a6164195",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140986061",
-      "title": "Michael Burry Is Short the iShares Semiconductor ETF. The Fund Has Still Gained 73% in 2026.",
+      "id": "NVDA-140997458",
+      "title": "Could AMD's new Helios AI rack system push it to outperform Nvidia?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-22",
-      "url": "https://finnhub.io/api/news?id=3274d34474a1694d48ec194e0aee2bc138995d88e6d420ef8442478e49e3bc7e",
+      "publishedAt": "2026-07-23",
+      "url": "https://finnhub.io/api/news?id=b097322abf3c3f516d8d1857a4368d04f55ebecc839229f4805a55aa3dc933f7",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140986062",
-      "title": "New Defense-Themed ETF AMMO Joins VistaShares’ Trio of Thematic Funds",
+      "id": "NVDA-140997459",
+      "title": "Marvell Technology vs. Nvidia: What Do the Revenue Trends of These Artificial Intelligence Companies Tell Investors?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-22",
-      "url": "https://finnhub.io/api/news?id=31be873aba67cfcc6a04e04a4ee02636e7c46a1ced455e7576211a539775cf5e",
+      "publishedAt": "2026-07-23",
+      "url": "https://finnhub.io/api/news?id=d6b3e1df12292ffbe4ed84c37916fb3490b803b242db182fe789d56771bd98a5",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140986063",
-      "title": "Jamie Dimon's JPMorgan Posted a Record $21.2 Billion Quarterly Profit, Up 41%",
+      "id": "NVDA-140997460",
+      "title": "Rivian Just Followed Lucid's Most Criticized Growth Playbook and Investors Should Take Note",
       "source": "Yahoo",
-      "publishedAt": "2026-07-22",
-      "url": "https://finnhub.io/api/news?id=59e3f60e24a846ca89b7aa393f73d6d2bfc0923c54548b80fb513250b0dbdd60",
+      "publishedAt": "2026-07-23",
+      "url": "https://finnhub.io/api/news?id=6a6ced557f1241da704aff25993dcf2a781f20ef6a9f5aa6ff366c4225fba848",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140986064",
-      "title": "Nvidia Hits Buy Trigger With Alphabet Earnings Due",
+      "id": "NVDA-140997461",
+      "title": "Marvell Technology Stock And The Forecast It Kept Outgrowing",
       "source": "Yahoo",
-      "publishedAt": "2026-07-22",
-      "url": "https://finnhub.io/api/news?id=3281c6a2ea74f76ee4d00e98b2beff4774d7aca4a6915f3ac841af8e7b2663bb",
+      "publishedAt": "2026-07-23",
+      "url": "https://finnhub.io/api/news?id=a24b54f17e1d5f6f60f934b737c54429e46e02d8bb38d2e086109b3ab9a14f38",
       "tags": [
         "NVDA"
       ]

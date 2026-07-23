@@ -381,11 +381,121 @@
   {
     "personId": "musk",
     "type": "social",
+    "asOf": "2026-07-23",
+    "sentiment": "watch",
+    "excerpt": "Just common sense! https://t.co/GG5jnhgQ8f",
+    "postUrl": "https://x.com/elonmusk/status/2080390728228970729",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-07-23",
+    "sentiment": "watch",
+    "excerpt": "Banger 😂 https://t.co/fcAmd0vNKY",
+    "postUrl": "https://x.com/elonmusk/status/2080350336309686470",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-23",
+    "sentiment": "watch",
+    "excerpt": "From $AMD Advancing AI, channel checks:\n\nHelios networking partners told me they expect AMD to pursue CPO for future generations of Helios scale up networking. \n\nAnd expects other hyperscalers + industry to go down the CPO route.\n\nOne AI in",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080394259535221222",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-23",
+    "sentiment": "watch",
+    "excerpt": "$AMD reached out directly to hand me some special swag!\n\nApparently they only made 30 of these bandanas? \n\nI love AMD and Lisa Su now. https://t.co/KgcYjBUcTv",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080379612736221325",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-23",
+    "sentiment": "watch",
+    "excerpt": "I have this feeling that Lisa from $AMD likes AI.\n\nIt’s cool getting to meet some of you at the event! https://t.co/AWdGS349xF",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080334612807758136",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
     "asOf": "2026-07-22",
     "sentiment": "watch",
-    "excerpt": "Tesla shareholder update underway right now!",
-    "postUrl": "https://x.com/elonmusk/status/2080048415443157502",
+    "excerpt": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). \n\n- Prices of some CPU products have risen more than 40% in China since the start of the year from sources. \n\n- Month-on-month increases topping 10% for some produ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080153334888182065",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-22",
+    "sentiment": "watch",
+    "excerpt": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). \n\n- Prices of some CPU products have risen more than 40% in China since the start of the year from sources. \n\n- Month-on-month increases topping 10% for some produ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080153334888182065",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-22",
+    "sentiment": "watch",
+    "excerpt": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). \n\n- Prices of some CPU products have risen more than 40% in China since the start of the year from sources. \n\n- Month-on-month increases topping 10% for some produ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080153334888182065",
+    "ticker": "INTC",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-22",
+    "sentiment": "watch",
+    "excerpt": "$INTC and $AMD to sign CPU LTAs with Chinese customers for AI DCs (Reuters). \n\n- Prices of some CPU products have risen more than 40% in China since the start of the year from sources. \n\n- Month-on-month increases topping 10% for some produ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080153334888182065",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-22",
+    "sentiment": "watch",
+    "excerpt": "Just some notes from $TSLA transcripts:\n\nElon Musk: \"I think Optimus will be the biggest product ever\" from Q2 earnings transcripts.\n\nEven from Q1, Elon Stated: \"I think Optimus will be our biggest product. Not just Tesla's biggest product ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080149813065396454",
+    "ticker": "MU",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-22",
+    "sentiment": "watch",
+    "excerpt": "Just some notes from $TSLA transcripts:\n\nElon Musk: \"I think Optimus will be the biggest product ever\" from Q2 earnings transcripts.\n\nEven from Q1, Elon Stated: \"I think Optimus will be our biggest product. Not just Tesla's biggest product ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080149813065396454",
     "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-22",
+    "sentiment": "watch",
+    "excerpt": "Just some notes from $TSLA transcripts:\n\nElon Musk: \"I think Optimus will be the biggest product ever\" from Q2 earnings transcripts.\n\nEven from Q1, Elon Stated: \"I think Optimus will be our biggest product. Not just Tesla's biggest product ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080149813065396454",
+    "ticker": "TSM",
     "topics": []
   },
   {
@@ -685,106 +795,6 @@
     "sentiment": "watch",
     "excerpt": "There’s nothing quite like the scent of more AI capex on a Sunday.\n\nProbably some ways to go if leading frontier models are out of capacity from too much demand. https://t.co/d8mnuAQdLz",
     "postUrl": "https://x.com/aleabitoreddit/status/2078914447180263438",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-17",
-    "sentiment": "watch",
-    "excerpt": "For anyone watching the 25%+ premium in $SKHY versus SK Hynix's Korean shares:\n\nThe ADRs and local shares become convertible on July 29.\n\nShould open the door for arbitrage and likely compress the ADR premium. Maybe lifting Korean shares or",
-    "postUrl": "https://x.com/aleabitoreddit/status/2078338950150959558",
-    "ticker": "SKHY",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-17",
-    "sentiment": "watch",
-    "excerpt": "Thanks, love reading the comments!\n\nGoldman Sachs raised Innolight PT to 2581 RMB. Roughly 163.6% upside from current valuations.\n\nBut the largest thing is its 2026–2028 earnings est revision raised by a whopping 65%/108%/119%, based on:\n\n-",
-    "postUrl": "https://x.com/aleabitoreddit/status/2078228019584668121",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-17",
-    "sentiment": "watch",
-    "excerpt": "Thanks, love reading the comments!\n\nGoldman Sachs raised Innolight PT to 2581 RMB. Roughly 163.6% upside from current valuations.\n\nBut the largest thing is its 2026–2028 earnings est revision raised by a whopping 65%/108%/119%, based on:\n\n-",
-    "postUrl": "https://x.com/aleabitoreddit/status/2078228019584668121",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-17",
-    "sentiment": "watch",
-    "excerpt": "Thanks, love reading the comments!\n\nGoldman Sachs raised Innolight PT to 2581 RMB. Roughly 163.6% upside from current valuations.\n\nBut the largest thing is its 2026–2028 earnings est revision raised by a whopping 65%/108%/119%, based on:\n\n-",
-    "postUrl": "https://x.com/aleabitoreddit/status/2078228019584668121",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-17",
-    "sentiment": "watch",
-    "excerpt": "Thanks, love reading the comments!\n\nGoldman Sachs raised Innolight PT to 2581 RMB. Roughly 163.6% upside from current valuations.\n\nBut the largest thing is its 2026–2028 earnings est revision raised by a whopping 65%/108%/119%, based on:\n\n-",
-    "postUrl": "https://x.com/aleabitoreddit/status/2078228019584668121",
-    "ticker": "SOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-17",
-    "sentiment": "watch",
-    "excerpt": "$META in talks to lease compute to Anthropic in a $10B dollar deal.\n\nSeems like they saw how profitable \n$SPCX $45B compute deal was.\n\nBut just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2078175882620059719",
-    "ticker": "IREN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-17",
-    "sentiment": "watch",
-    "excerpt": "$META in talks to lease compute to Anthropic in a $10B dollar deal.\n\nSeems like they saw how profitable \n$SPCX $45B compute deal was.\n\nBut just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2078175882620059719",
-    "ticker": "META",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-17",
-    "sentiment": "watch",
-    "excerpt": "$META in talks to lease compute to Anthropic in a $10B dollar deal.\n\nSeems like they saw how profitable \n$SPCX $45B compute deal was.\n\nBut just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2078175882620059719",
-    "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-17",
-    "sentiment": "watch",
-    "excerpt": "$META in talks to lease compute to Anthropic in a $10B dollar deal.\n\nSeems like they saw how profitable \n$SPCX $45B compute deal was.\n\nBut just goes to validate Neocloud business models like $NBIS, $IREN, and co if hyperscalers are copying ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2078175882620059719",
-    "ticker": "SPCX",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-17",
-    "sentiment": "watch",
-    "excerpt": "Wow, apparently there’s claims ~3.4% of the adult population in Korea faces liquidation risk?\n\n“As of July 13, over 1.2 million leveraged retail traders' accounts hit margin call lines, with 320,000 to 360,000 accounts force-liquidated by b",
-    "postUrl": "https://x.com/aleabitoreddit/status/2078161322769068533",
     "ticker": "",
     "topics": []
   },
