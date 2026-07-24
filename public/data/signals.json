@@ -321,6 +321,42 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-07-24",
+    "sentiment": "watch",
+    "excerpt": "The European Union is at it again and, as usual, taking direct aim at GREAT American Companies! After having fined Apple, for no reason at all, 15 Billion Dollars, Meta, 3 Billion Dollars, Amazon 2.5 Billion Dollars, and many others, we hav",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/116976043318889040",
+    "ticker": "AAPL",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-07-24",
+    "sentiment": "watch",
+    "excerpt": "The European Union is at it again and, as usual, taking direct aim at GREAT American Companies! After having fined Apple, for no reason at all, 15 Billion Dollars, Meta, 3 Billion Dollars, Amazon 2.5 Billion Dollars, and many others, we hav",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/116976043318889040",
+    "ticker": "AMZN",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-07-24",
+    "sentiment": "watch",
+    "excerpt": "Canada disinvited the United States of America to the opening of the Gordie Howe Bridge, which is fine, considering they are paying substantial TARIFFS to the United States, but the original Deal on the Bridge, which was terribly negotiated",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/116975941256357814",
+    "ticker": "",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-07-21",
     "sentiment": "watch",
     "excerpt": "Effective August 1st, 2026, all Generic Drugs being brought into the United States will continue to have a TARIFF of ZERO PERCENT for a two year period of time, after which the TARIFF will be raised to 100% for a one year period of time, an",
@@ -367,35 +403,103 @@
     ]
   },
   {
-    "personId": "trump",
-    "type": "social",
-    "asOf": "2026-07-19",
-    "sentiment": "watch",
-    "excerpt": "RT @ realDonaldTrump Republicans should add Iran to the Russian Sanctions Bill. That’s what Lindsey wanted to do, and it was going to happen. IMPORTANT!!! President DJT",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/116948019724395708",
-    "ticker": "",
-    "topics": [
-      "中美/制裁"
-    ]
-  },
-  {
     "personId": "musk",
     "type": "social",
-    "asOf": "2026-07-23",
+    "asOf": "2026-07-24",
     "sentiment": "watch",
-    "excerpt": "Just common sense! https://t.co/GG5jnhgQ8f",
-    "postUrl": "https://x.com/elonmusk/status/2080390728228970729",
-    "ticker": "",
+    "excerpt": "Just as Tesla made the original Roadster design & software open source, we plan to do the same with Model S & X",
+    "postUrl": "https://x.com/elonmusk/status/2080755686615437501",
+    "ticker": "TSLA",
     "topics": []
   },
   {
     "personId": "musk",
     "type": "social",
+    "asOf": "2026-07-24",
+    "sentiment": "watch",
+    "excerpt": "Next month, every line of code touching the 𝕏 system will be open source and third-party audited. \n\nOnly total transparency deserves trust.",
+    "postUrl": "https://x.com/elonmusk/status/2080717110146146585",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-24",
+    "sentiment": "watch",
+    "excerpt": "There you have it, $GOOGL Waymo to explore split with $UBER per FT.\n\nMy view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that Google needed as they scale up.\n\nAnd that",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080750537121874206",
+    "ticker": "GOOGL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-24",
+    "sentiment": "watch",
+    "excerpt": "There you have it, $GOOGL Waymo to explore split with $UBER per FT.\n\nMy view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that Google needed as they scale up.\n\nAnd that",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080750537121874206",
+    "ticker": "NBIS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-24",
+    "sentiment": "watch",
+    "excerpt": "There you have it, $GOOGL Waymo to explore split with $UBER per FT.\n\nMy view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that Google needed as they scale up.\n\nAnd that",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080750537121874206",
+    "ticker": "UBER",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-24",
+    "sentiment": "watch",
+    "excerpt": "Jensen from $NVDA has joined X for the first time to share his letter on open models.",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080689966045348047",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
     "asOf": "2026-07-23",
     "sentiment": "watch",
-    "excerpt": "Banger 😂 https://t.co/fcAmd0vNKY",
-    "postUrl": "https://x.com/elonmusk/status/2080350336309686470",
-    "ticker": "",
+    "excerpt": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization).\n\nThere's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\".\n\nMost interesting take was: \n\n\"Pluggab",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080445777395298454",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-23",
+    "sentiment": "watch",
+    "excerpt": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization).\n\nThere's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\".\n\nMost interesting take was: \n\n\"Pluggab",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080445777395298454",
+    "ticker": "JBL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-23",
+    "sentiment": "watch",
+    "excerpt": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization).\n\nThere's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\".\n\nMost interesting take was: \n\n\"Pluggab",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080445777395298454",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-23",
+    "sentiment": "watch",
+    "excerpt": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization).\n\nThere's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\".\n\nMost interesting take was: \n\n\"Pluggab",
+    "postUrl": "https://x.com/aleabitoreddit/status/2080445777395298454",
+    "ticker": "SIVE",
     "topics": []
   },
   {
@@ -726,76 +830,6 @@
     "excerpt": "If you’re curious why $NBIS is up after hours.\n\n$NVDA disclosed it owns 9.3% beneficial ownership of Nebius via SEC filings.\n\nNot exactly too new since it dates back to Nvidia’s existing share position of 1.19M shares + $2B prefunded warran",
     "postUrl": "https://x.com/aleabitoreddit/status/2079319999915925938",
     "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-20",
-    "sentiment": "watch",
-    "excerpt": "$IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure.\n\n$HUT +10.45% off a 15Y $9.8B AI DC lease\n\n$CIFR +16.76%\n$CLSK +13.7%\n$WYFI +9.18%\n\n$NBIS",
-    "postUrl": "https://x.com/aleabitoreddit/status/2079254669793316962",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-20",
-    "sentiment": "watch",
-    "excerpt": "$IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure.\n\n$HUT +10.45% off a 15Y $9.8B AI DC lease\n\n$CIFR +16.76%\n$CLSK +13.7%\n$WYFI +9.18%\n\n$NBIS",
-    "postUrl": "https://x.com/aleabitoreddit/status/2079254669793316962",
-    "ticker": "CIFR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-20",
-    "sentiment": "watch",
-    "excerpt": "$IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure.\n\n$HUT +10.45% off a 15Y $9.8B AI DC lease\n\n$CIFR +16.76%\n$CLSK +13.7%\n$WYFI +9.18%\n\n$NBIS",
-    "postUrl": "https://x.com/aleabitoreddit/status/2079254669793316962",
-    "ticker": "CLSK",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-20",
-    "sentiment": "watch",
-    "excerpt": "$IREN +19.69% after revising ARR target to $4B+ from new AI cloud contracts. Its customer base now includes Microsoft, Nvidia, Perplexity, and Figure.\n\n$HUT +10.45% off a 15Y $9.8B AI DC lease\n\n$CIFR +16.76%\n$CLSK +13.7%\n$WYFI +9.18%\n\n$NBIS",
-    "postUrl": "https://x.com/aleabitoreddit/status/2079254669793316962",
-    "ticker": "CRWV",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-19",
-    "sentiment": "watch",
-    "excerpt": "Some updates on bottleneck timelines: \n\n- ABF substrates: 1 year \n/ eg. Ajinomoto (2802) for ABF film, Ibiden, Unimicron, Nan Ya PCB, etc make the substrates \n\n- HDI Boards: Over 6 months \n/ Victory Giant (300476), Zhen Ding (4958), Unimicr",
-    "postUrl": "https://x.com/aleabitoreddit/status/2079089592385610023",
-    "ticker": "TTMI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-19",
-    "sentiment": "watch",
-    "excerpt": "Some updates on bottleneck timelines: \n\n- ABF substrates: 1 year \n/ eg. Ajinomoto (2802) for ABF film, Ibiden, Unimicron, Nan Ya PCB, etc make the substrates \n\n- HDI Boards: Over 6 months \n/ Victory Giant (300476), Zhen Ding (4958), Unimicr",
-    "postUrl": "https://x.com/aleabitoreddit/status/2079089592385610023",
-    "ticker": "VSH",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-19",
-    "sentiment": "watch",
-    "excerpt": "There’s nothing quite like the scent of more AI capex on a Sunday.\n\nProbably some ways to go if leading frontier models are out of capacity from too much demand. https://t.co/d8mnuAQdLz",
-    "postUrl": "https://x.com/aleabitoreddit/status/2078914447180263438",
-    "ticker": "",
     "topics": []
   },
   {

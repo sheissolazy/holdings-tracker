@@ -3,11 +3,11 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 208.76,
-  "change5dPct": 0.7,
-  "changeYtdPct": 12.0,
-  "marketCap": "$5.13T",
-  "pe": 31.8,
+  "price": 206.84,
+  "change5dPct": 2.0,
+  "changeYtdPct": 10.9,
+  "marketCap": "$5.08T",
+  "pe": 31.5,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
@@ -874,131 +874,138 @@
     },
     {
       "t": "2026-07-23",
-      "o": 209.4,
+      "o": 209.46,
       "h": 210.87,
       "l": 205.96,
       "c": 208.76
+    },
+    {
+      "t": "2026-07-24",
+      "o": 207.56,
+      "h": 211.91,
+      "l": 204.81,
+      "c": 206.84
     }
   ],
   "thesis": {
     "bull": [
-      "数据中心与AI算力需求持续强劲，NVIDIA在GPU训练与推理市场保持主导地位，客户涵盖云厂商、主权AI项目及企业客户，订单可见度较高",
-      "公司通过战略性股权投资（如披露持有Nebius约9.3%权益）绑定新兴AI云与算力供应商，形成生态协同并可能带来投资收益",
-      "机构与部分政治人物持续增持，市场对AI基础设施长期资本开支周期仍保持乐观，多家云厂商资本开支指引未见明显下修"
+      "数据中心GPU需求延续高景气，Blackwell系列持续放量出货，云厂商资本开支指引仍处于上行周期，为英伟达数据中心业务提供订单能见度",
+      "CUDA软件生态与全栈方案（网络、系统集成）构成较高转换成本，短期内竞争对手难以复制其护城河",
+      "公司通过股权投资（如对Nebius等AI基础设施公司的持股）延伸至算力生态下游，形成「卖铲人+生态投资者」双重收益结构"
     ],
     "bear": [
-      "AMD、博通、Marvell等竞争对手在AI加速卡与网络互连领域加速追赶，AMD与Anthropic的芯片采购及算力协议显示大客户开始分散供应商，潜在削弱NVIDIA议价能力与份额独占性",
-      "近期「Magnificent Seven」科技股遭遇集中抛售，市场对AI相关资本开支能否转化为可持续现金流的怀疑情绪上升，部分大型科技公司自由现金流出现走弱迹象",
-      "跟踪者交易记录显示存在买入后又减持的双向操作，反映即便信息优势方也难以形成一致方向性判断，估值层面对高预期的容错空间有限"
+      "竞争格局出现变化，AMD近期宣布与Anthropic达成规模化芯片采购及投资协议，显示大客户存在分散供应商、降低对单一厂商依赖的动机",
+      "中东局势（伊朗、也门、红海航运）升温带来的地缘政治不确定性，叠加对华出口管制等政策风险，可能扰动供应链与部分市场收入",
+      "部分大型科技公司自由现金流出现转负迹象，市场开始质疑AI资本开支的可持续性，若云厂商资本开支增速放缓，将直接影响英伟达订单能见度"
     ],
     "watch": [
-      "AMD即将举行的产品发布活动（涉及规模化CPO路线图与MI500）可能进一步明确其在下一代AI加速与互连技术上的竞争定位，需关注是否影响NVIDIA的技术领先叙事",
-      "比特币矿企与云服务商（如IREN、HUT等）密集披露与NVIDIA相关的AI数据中心合作与租约，反映算力需求扩散至非传统客户群体，可作为下游需求强弱的高频观察指标",
-      "大型科技公司即将披露的财报及资本开支指引，将是检验「AI货币化能否追上资本开支」这一市场核心分歧的关键节点"
+      "黄仁勋首次在X平台发声并发布关于开放模型的公开信，其表态可能释放公司在开源生态、竞争策略上的信号变化，值得持续关注后续动作",
+      "AMD旧金山活动披露的CPO（共封装光学）路线图与MI500进展，将影响市场对英伟达在下一代互连技术上竞争地位的评估",
+      "国会议员相关交易披露存在数月滞后，且交易细节（如金额、具体标的比例）披露有限，参考价值有限，不构成对公司基本面的直接判断依据，但可作为市场情绪的辅助观察指标"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA是全球领先的图形处理器与AI加速计算公司，业务涵盖数据中心GPU、游戏显卡、专业可视化及汽车芯片等领域，其中数据中心业务已成为公司营收与利润的主要驱动力，产品广泛应用于大模型训练、推理及高性能计算场景"
+        "body": "英伟达是全球领先的高性能计算与人工智能芯片设计公司，核心业务涵盖数据中心GPU、游戏显卡、专业可视化及汽车与机器人计算平台。公司近年收入结构已高度集中于数据中心业务，客户涵盖各大云服务商、企业及主权AI项目，CUDA软件平台构成其核心竞争壁垒之一。"
       },
       {
-        "heading": "业务驱动因素",
-        "body": "AI基础设施建设仍是公司核心增长引擎，云厂商、企业及主权国家层面的算力投资需求持续拉动GPU及配套系统销售。公司近期通过股权投资方式（如持有Nebius约9.3%权益）延伸产业链布局，同时其芯片也被应用于比特币矿企转型的AI数据中心及多家新兴云服务商的算力扩张计划"
+        "heading": "基本面与业务动态",
+        "body": "公司披露持有Nebius约9.3%的受益所有权权益，涉及既有股份及预融资认股权证，显示英伟达在AI基础设施生态中不仅是硬件供应商，也通过股权方式深度绑定下游算力运营商。市场近期对「卖芯片、买软件」的轮动交易再度关注，反映投资者在硬件与软件/应用层之间寻找新的收益驱动点。"
       },
       {
         "heading": "竞争格局",
-        "body": "AMD正通过Helios机架系统及与Anthropic等大模型公司的深度合作（据报道涉及数十亿美元规模的芯片采购与算力协议）挑战NVIDIA的市场地位，博通与Marvell则在定制化AI芯片及网络互连领域形成差异化竞争，行业整体呈现「一超多强」但份额边际变化的格局"
+        "body": "AMD近期宣布对Anthropic投资并签署规模达数十亿美元、总容量2GW的芯片采购协议，市场解读为其复制英伟达此前与大型AI实验室建立深度绑定的策略。同时市场预期AMD将在旧金山活动中披露更多关于其规模化共封装光学（CPO）路线图及MI500系列的信息。若上述技术路线取得实质进展，可能对英伟达在下一代互连与能效方面的领先优势构成挑战。"
       },
       {
-        "heading": "财务与估值",
-        "body": "公司当前估值隐含市场对AI资本开支持续高增长的预期，任何关于云厂商资本开支放缓、大型科技公司自由现金流承压的信号都可能对估值形成压力，需持续跟踪季度业绩指引及主要客户的资本开支节奏"
+        "heading": "宏观与政策环境",
+        "body": "中东地区局势持续紧张，包括也门冲突升温、红海及霍尔木兹海峡航运风险、美国对伊朗采取军事及制裁行动等，均可能通过能源价格、供应链及全球风险偏好间接影响科技股估值与资本开支节奏。此外，对华出口管制等政策仍是英伟达业务的持续性变量，需关注后续政策走向。"
       },
       {
-        "heading": "风险因素",
-        "body": "主要风险包括：AI相关资本开支若不及预期或出现放缓、竞争对手份额侵蚀、地缘政治及出口管制对海外销售的潜在影响，以及近期科技股集中回调所反映的市场情绪脆弱性。此外跟踪者交易记录显示的买入减持交替现象，也提示即便是信息优势明显的市场参与者对短期方向的判断亦存在分歧"
+        "heading": "资金流向与市场情绪",
+        "body": "公开披露显示，佩洛西相关账户在2025年末至2026年初对英伟达持仓存在新建与部分减持并存的操作，反映即便是公开可查的机构或个人投资者，对该股也存在阶段性分歧而非单边看法。社交媒体层面，投资者及分析师持续关注黄仁勋公开表态、同业资本开支动向及AI相关资金流是否会向软件与应用层扩散。"
       },
       {
-        "heading": "跟踪者与市场动态",
-        "body": "公开披露显示，部分政治人物在NVDA上存在多次新建仓与部分减持交替出现的交易记录，整体方向偏多但节奏并不一致。社交媒体与市场评论持续聚焦AMD-Anthropic合作、NVIDIA对Nebius的股权敞口，以及比特币矿企向AI数据中心转型带来的算力租约扩张，这些均为短期股价波动的潜在催化因素"
+        "heading": "风险与展望",
+        "body": "综合来看，英伟达的核心叙事仍建立在AI基础设施资本开支持续扩张之上，但竞争对手加速追赶、地缘政治不确定性、以及部分下游客户自由现金流承压等因素，构成对该叙事可持续性的潜在挑战。多空双方分歧主要集中于AI资本开支能否维持当前增速，以及英伟达能否持续保持技术与生态领先地位。"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "通过Helios机架系统及与Anthropic的芯片采购、算力协议正加速切入AI加速卡市场，被视为NVIDIA最主要的直接竞争对手"
+        "note": "数据中心GPU与AI加速器领域的主要竞争对手，近期通过与Anthropic的投资及采购协议加速追赶"
       },
       {
         "ticker": "AVGO",
-        "name": "Broadcom Inc",
-        "note": "在定制化AI加速芯片（ASIC）及高速网络互连领域与NVIDIA形成差异化竞争，是超大规模云厂商自研芯片方案的主要合作伙伴"
+        "name": "Broadcom Inc.",
+        "note": "在定制AI芯片（ASIC）及网络互连领域与英伟达形成部分替代性竞争"
       },
       {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "专注于AI数据中心网络连接与定制硅方案，营收增长受益于AI基础设施建设，常被市场用于对比NVIDIA生态外的连接层机会"
+        "ticker": "TSM",
+        "name": "台湾积体电路制造公司",
+        "note": "英伟达及其主要竞争对手的核心晶圆代工供应商，其先进制程产能分配影响行业整体供给格局"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-23T22:08:20.645175Z"
+    "generatedAt": "2026-07-24T22:08:28.358839Z"
   },
   "news": [
     {
-      "id": "NVDA-140997456",
-      "title": "Established Firm Harding Loevner Enters ETF Market With LOEV for International Investors",
+      "id": "NVDA-141009268",
+      "title": "This Dirt Cheap Stock Reports Earnings July 30. Is It Finally Time to Buy Sirius XM?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-23",
-      "url": "https://finnhub.io/api/news?id=12a0c6d9ffe20dd1c4c481b339c60c221a447f25a86491ebfa731fcb50b44ab6",
+      "publishedAt": "2026-07-24",
+      "url": "https://finnhub.io/api/news?id=2020218a607e83d8a99ec74de333a9e1c10343ee20b891fb19ddd1818723b6f0",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140997457",
-      "title": "Donald Trump's USTR Hit Brazil With a 25% Section 301 Tariff on July 15. Here's How That Could Play Out for These 2 Stocks.",
+      "id": "NVDA-141009269",
+      "title": "Super Micro Just Reported $60 Billion of New Orders -- Here's Why Smart Investors Should Buy Dell Stock Now",
       "source": "Yahoo",
-      "publishedAt": "2026-07-23",
-      "url": "https://finnhub.io/api/news?id=c48a744abe2676379a831b8ad1799bf89f2d4d53d96d9b2ca0d97213a6164195",
+      "publishedAt": "2026-07-24",
+      "url": "https://finnhub.io/api/news?id=583098cbc41fcaedd43b9e8b9edfb1c6bf032350550ace52c7d10dda29c4acce",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140997458",
-      "title": "Could AMD's new Helios AI rack system push it to outperform Nvidia?",
+      "id": "NVDA-141009270",
+      "title": "How QQA Delivers 10% Yields From Tech Stocks That Pay Almost Nothing",
       "source": "Yahoo",
-      "publishedAt": "2026-07-23",
-      "url": "https://finnhub.io/api/news?id=b097322abf3c3f516d8d1857a4368d04f55ebecc839229f4805a55aa3dc933f7",
+      "publishedAt": "2026-07-24",
+      "url": "https://finnhub.io/api/news?id=7253bbe3fbd210b58d21540d7b7eb81f4e4e2d500946fbf3c6e59101e0f43010",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140997459",
-      "title": "Marvell Technology vs. Nvidia: What Do the Revenue Trends of These Artificial Intelligence Companies Tell Investors?",
+      "id": "NVDA-141009271",
+      "title": "Is It Too Late to Buy Bitcoin?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-23",
-      "url": "https://finnhub.io/api/news?id=d6b3e1df12292ffbe4ed84c37916fb3490b803b242db182fe789d56771bd98a5",
+      "publishedAt": "2026-07-24",
+      "url": "https://finnhub.io/api/news?id=2af19a1ad5c4534558ccbdccbb5f9ec39f57250faaec761c9923e742383df1cf",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140997460",
-      "title": "Rivian Just Followed Lucid's Most Criticized Growth Playbook and Investors Should Take Note",
+      "id": "NVDA-141009273",
+      "title": "Are You a New Investor in 2026? Here's 1 Costly Mistake to Avoid.",
       "source": "Yahoo",
-      "publishedAt": "2026-07-23",
-      "url": "https://finnhub.io/api/news?id=6a6ced557f1241da704aff25993dcf2a781f20ef6a9f5aa6ff366c4225fba848",
+      "publishedAt": "2026-07-24",
+      "url": "https://finnhub.io/api/news?id=4beca3e5b21719a1dce7e545f15a6fc13b62800f6701ba79f12b384dd536ab46",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-140997461",
-      "title": "Marvell Technology Stock And The Forecast It Kept Outgrowing",
+      "id": "NVDA-141009272",
+      "title": "Could $2,000 in Oklo Stock Today Set You Up for a Dream Retirement?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-23",
-      "url": "https://finnhub.io/api/news?id=a24b54f17e1d5f6f60f934b737c54429e46e02d8bb38d2e086109b3ab9a14f38",
+      "publishedAt": "2026-07-24",
+      "url": "https://finnhub.io/api/news?id=35a5b0da755eb2a5077d1188f8458d709fcecb5413d24eea8930c4619aaf445c",
       "tags": [
         "NVDA"
       ]
