@@ -3,28 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 333.02,
-  "change5dPct": -0.2,
-  "changeYtdPct": 30.4,
+  "price": 336.91,
+  "change5dPct": 0.9,
+  "changeYtdPct": 31.4,
   "marketCap": "$4.89T",
-  "pe": 39.9,
+  "pe": 40.3,
   "revenue": "—",
   "revenueYoYPct": 13,
   "prices": [
-    {
-      "t": "2026-01-26",
-      "o": 251.48,
-      "h": 256.56,
-      "l": 249.8,
-      "c": 255.41
-    },
-    {
-      "t": "2026-01-27",
-      "o": 259.17,
-      "h": 261.95,
-      "l": 258.21,
-      "c": 258.27
-    },
     {
       "t": "2026-01-28",
       "o": 257.65,
@@ -880,137 +866,132 @@
       "c": 321.66
     },
     {
-      "t": "2026-07-24",
-      "o": 322.04,
-      "h": 334.37,
-      "l": 321.62,
-      "c": 333.02
+      "t": "2026-07-27",
+      "o": 334.9,
+      "h": 339.57,
+      "l": 334.02,
+      "c": 336.91
     }
   ],
   "thesis": {
     "bull": [
-      "英伟达CEO黄仁勋近期公开表态看好苹果AI布局，带动市场对苹果AI叙事的乐观情绪升温",
-      "苹果高毛利率的服务业务持续扩张，有助于对冲硬件销售周期性波动，提升整体盈利韧性",
-      "国会跟踪者披露显示2025年12月30日出现新增买入记录，说明部分政治关联投资者仍对苹果保持多头兴趣"
+      "苹果股价近期跑赢英伟达等科技股，一度重回全球市值最高公司位置，显示市场对其现金流稳定性与生态系统护城河仍高度认可",
+      "英伟达CEO黄仁勋近期公开表态被市场解读为对科技巨头AI应用前景的正面信号，市场对苹果在设备端AI（Apple Intelligence）落地的期待有所升温",
+      "相较于英伟达、甲骨文等被质疑存在循环融资和估值过高的AI基建类公司，苹果现金流充裕、资本开支相对克制，被部分资金视为AI热潮降温后的避险选择"
     ],
     "bear": [
-      "同一批国会披露文件显示2025年12月30日、12月24日均有减持退出记录，且2025年10月与2025年1月同样连续出现减仓，长期趋势偏向获利了结或降低敞口",
-      "欧盟对苹果开出约150亿美元罚单，特朗普随后威胁对欧盟加征关税反制，监管摩擦与潜在贸易战风险可能持续侵蚀苹果利润与运营空间",
-      "市场出现「卖芯片买软件」的板块轮动交易，叠加大型科技公司自由现金流转弱的报道，投资者对包括苹果在内的大型科技硬件企业现金流可持续性产生疑虑"
+      "国会议员佩洛西家族近期披露的交易记录中出现多笔减持苹果仓位（2025年12月24日、12月30日及10月22日），虽同期也有一笔新建多头头寸，信号并不统一，需谨慎解读政治人物交易与公司基本面的关联性",
+      "特朗普公开批评欧盟对苹果开出约150亿美元罚单，反映公司在欧洲面临持续的反垄断与合规压力，可能侵蚀长期利润率并增加地缘政治不确定性",
+      "近期新闻显示存储芯片及部分半导体供应链公司在中国市场遭遇壁垒（如闪迪等），若中美科技摩擦扩大，苹果在华生产与销售的双重敞口可能受到波及"
     ],
     "watch": [
-      "欧盟与美国贸易摩擦升级路径，特朗普是否兑现对欧盟加征关税的表态，及其对苹果欧洲业务合规成本与供应链的潜在影响",
-      "苹果AI功能与产品线的实际交付进度，能否兑现市场基于英伟达CEO等业内人士表态所形成的高预期",
-      "科技股板块资金轮动方向，尤其「卖芯片买软件」趋势是否延续，以及这对苹果相对同业的股价表现的影响"
+      "美联储主席人选及其在本周表态可能影响利率预期，进而影响科技股整体估值水平，苹果作为权重股对流动性环境较为敏感",
+      "市场对AI资本开支循环融资模式（如英伟达对OpenAI的巨额资金承诺）的担忧情绪正在扩散，若AI叙事降温，苹果与AI相关的产品预期（如Apple Intelligence驱动的换机周期）可能被重新定价",
+      "欧盟等监管机构对苹果的持续处罚与调查是否会升级为更广泛的商业模式限制（如应用商店抽成、生态封闭性），值得持续跟踪"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球领先的消费电子、软件与服务企业，核心产品包括iPhone、Mac、iPad、可穿戴设备，以及App Store、iCloud、Apple Music等服务业务。公司凭借强大的品牌力、生态闭环与高用户粘性维持稳定的现金流生成能力，同时正在加大对生成式AI功能的投入，试图将AI能力嵌入其硬件与服务生态，以支撑新一轮换机与订阅增长周期"
+        "body": "苹果公司是全球领先的消费电子、软件与服务提供商，核心产品包括iPhone、Mac、iPad、可穿戴设备及以App Store、iCloud、Apple Music为代表的服务业务。公司近期股价表现强劲，一度重新超越英伟达成为全球市值最高的公司，反映市场对其多元化收入结构与现金流韧性的认可。"
       },
       {
-        "heading": "业务驱动因素与AI叙事",
-        "body": "近期英伟达CEO黄仁勋公开表态对苹果AI寄予厚望，一定程度上提振了市场对「苹果智能」相关功能能否推动iPhone换机潮的信心。与此同时，市场关注科技板块出现「卖芯片买软件」的资金轮动迹象，这类轮动可能利好以服务与软件收入占比更高的苹果，但也反映出投资者对纯硬件叙事的谨慎态度"
+        "heading": "近期动态",
+        "body": "近期新闻显示，苹果股价跑赢多数大型科技同行，在英伟达、特斯拉等AI概念股出现回调之时逆势走强。同时，特朗普公开批评欧盟对苹果开出约150亿美元罚单，凸显公司在欧洲持续面临的反垄断合规压力。此外，英伟达CEO黄仁勋的公开言论被市场解读为对科技巨头AI应用（包括苹果设备端AI）前景的提振信号。"
       },
       {
-        "heading": "监管与地缘政治风险",
-        "body": "欧盟近期对苹果处以约150亿美元罚款，同时对Meta、亚马逊等公司也开出巨额罚单，反映欧盟对美国大型科技公司的监管趋严。特朗普随即在社交媒体上表态将对欧盟采取关税反制措施，若贸易摩擦升级，可能进一步增加苹果在欧洲市场的合规成本、供应链不确定性乃至潜在关税负担"
+        "heading": "跟踪者动向解读",
+        "body": "公开披露信息显示，国会议员佩洛西家族在2025年末对苹果的交易呈现减持为主的态势（12月24日、12月30日均有退出记录），但同日披露中也包含一笔新建多头头寸，信号并不完全一致，可能涉及不同账户或期权结构，不宜简单解读为方向性看空或看多信号。特朗普与黄仁勋的公开发言则更多聚焦于监管环境与行业AI预期，而非直接对苹果股价给出方向性判断。"
       },
       {
-        "heading": "跟踪者动向与市场情绪",
-        "body": "国会议员佩洛西相关的PTR披露显示，2025年12月30日交易记录中同时出现「新增买入」与「减持退出」的信号，同日及2025年12月24日还有多笔退出记录；拉长时间看，2025年10月与2025年1月的披露也均以减仓为主，显示相关持仓在过去数月呈现净减少的趋势，市场对此解读存在分歧，需结合具体披露细节谨慎判断"
+        "heading": "多空分歧",
+        "body": "多头逻辑主要基于苹果在科技股波动中展现的相对防御性，以及对Apple Intelligence等AI功能可能拉动换机周期的期待；空头逻辑则集中于欧盟等监管方持续加码的反垄断处罚、中美科技摩擦对供应链的潜在影响，以及部分内部人士交易记录显示的减持迹象。两种逻辑目前并存，尚无明确的趋势性信号占据主导。"
       },
       {
-        "heading": "行业与宏观环境",
-        "body": "当前宏观环境叠加中东地缘政治紧张（如霍尔木兹海峡航运受阻预期、伊朗相关制裁与军事行动等报道），全球风险偏好承压，科技股在近期交易日出现午后回落。同时有报道指出大型科技公司自由现金流出现转弱迹象，市场对AI资本开支能否持续转化为盈利存在讨论，这类宏观与行业背景可能间接影响苹果估值情绪"
+        "heading": "行业与宏观背景",
+        "body": "当前市场环境下，AI资本开支的可持续性受到广泛质疑，英伟达等公司通过对OpenAI等客户的巨额资金承诺引发市场对循环融资模式的担忧，导致部分资金从纯AI基建股转向现金流更稳健的大型科技公司。同时，美联储主席人选及其政策表态、原油价格波动等宏观因素也在影响科技股整体估值中枢，苹果作为权重最大的科技股之一，对这些宏观变量的敏感度不容忽视。"
       },
       {
-        "heading": "展望与关键关注点",
-        "body": "综合来看，苹果面临AI叙事提振与监管贸易摩擦加剧的双重拉扯：一方面AI功能落地与服务业务增长可能支撑长期基本面，另一方面欧盟罚款、关税反制风险以及部分跟踪者持仓的净减持趋势构成不确定性。后续需重点关注欧美贸易摩擦的实际进展、苹果AI产品交付节奏，以及科技板块资金轮动方向的变化"
+        "heading": "风险提示",
+        "body": "需要持续关注的风险包括：欧盟等监管机构对苹果的处罚与调查是否进一步升级；中美贸易与科技摩擦是否波及苹果在华生产与销售；AI叙事降温是否影响市场对苹果AI产品线的估值预期；以及美联储政策路径变化对科技股整体流动性环境的影响。以上信息均基于公开披露与新闻报道，不构成任何买卖建议。"
       }
     ],
     "comparables": [
       {
-        "ticker": "MSFT",
-        "name": "微软",
-        "note": "软件与云服务收入占比更高，在「卖芯片买软件」轮动叙事中可能获得相对资金青睐，可与苹果的硬件与服务混合模式对比"
-      },
-      {
-        "ticker": "GOOGL",
-        "name": "Alphabet",
-        "note": "同样受到欧盟反垄断罚款与特朗普关税威胁的直接影响，其Gemini AI产品进展也是市场衡量大型科技AI竞赛的重要参照"
-      },
-      {
         "ticker": "NVDA",
         "name": "英伟达",
-        "note": "AI算力产业链核心公司，其CEO黄仁勋对苹果AI的公开表态直接影响市场对苹果AI叙事的预期"
+        "note": "近期与苹果争夺全球市值最高公司地位，但面临AI资本开支循环融资模式的质疑，波动性显著高于苹果"
+      },
+      {
+        "ticker": "MSFT",
+        "name": "微软",
+        "note": "同为现金流稳健的大型科技公司，在AI与云服务领域投入较大，可作为苹果服务业务增长的参照"
       },
       {
         "ticker": "DELL",
         "name": "戴尔科技",
-        "note": "受益于AI服务器订单激增，与苹果以消费电子为主的业务模式形成对比，反映AI资本开支受益方向的分化"
+        "note": "与苹果同属硬件设备制造商，但更聚焦AI基础设施相关业务，近期与Marvell等公司同被市场比较"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-24T22:10:43.627530Z"
+    "generatedAt": "2026-07-27T22:13:42.284762Z"
   },
   "news": [
     {
-      "id": "AAPL-141009297",
-      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "id": "AAPL-141037051",
+      "title": "Meet the Dividend Growth Stock That Warren Buffett Held for Decades, and Greg Abel Pegged as One of Berkshire Hathaway's Multidecade Compounders",
       "source": "Yahoo",
-      "publishedAt": "2026-07-24",
-      "url": "https://finnhub.io/api/news?id=1fd1c20ee32b3c62817af7e957d201cbc471d4e20384a28bf75be263a4574cf1",
+      "publishedAt": "2026-07-27",
+      "url": "https://finnhub.io/api/news?id=2231ac72237e7ca4539d46229b54ef08b184529df039099e3e1cfd4922d2375e",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141008873",
-      "title": "Which dow jones stocks are moving on Friday?",
-      "source": "ChartMill",
-      "publishedAt": "2026-07-24",
-      "url": "https://finnhub.io/api/news?id=0a485f1fa08b431da2d3ffb0109a55c9e9c924b2f7213f2766d5efe23d30f2e8",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141008424",
-      "title": "Curious about the most active S&P500 stocks in today's session?",
-      "source": "ChartMill",
-      "publishedAt": "2026-07-24",
-      "url": "https://finnhub.io/api/news?id=f032514225cf476c9818d7817a73a4e0724c9b03454fb647f5980eb635623532",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141009298",
-      "title": "FDVV’s 2.8% yield hides tech mega-cap risk in dividend portfolio",
+      "id": "AAPL-141037056",
+      "title": "Stock Market Today, July 27: Dow Rises on Oil Retreat, and Sandisk Plunges 11% on Memory Weakness",
       "source": "Yahoo",
-      "publishedAt": "2026-07-24",
-      "url": "https://finnhub.io/api/news?id=a75637fb1d530289a595d82b778da5c6d41b4d7cf52f4b964ef8b0b233994688",
+      "publishedAt": "2026-07-27",
+      "url": "https://finnhub.io/api/news?id=621ac323033e079ee2a776dac5d58f57d263f94b4872d48dfb82804a31786fd8",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141007632",
-      "title": "Sector Update: Tech Stocks Decline Friday Afternoon",
+      "id": "AAPL-141037064",
+      "title": "Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",
       "source": "Yahoo",
-      "publishedAt": "2026-07-24",
-      "url": "https://finnhub.io/api/news?id=07de76983d096e7ad9eca242223f194a989e59a5429ecce776db00c0fd7eb4a0",
+      "publishedAt": "2026-07-27",
+      "url": "https://finnhub.io/api/news?id=5a7a4b80897018ea3dfa1ac5b7e7b67158737739c6cc8f943dd3b8d76e6e8e98",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141009299",
-      "title": "Trump Vows Fresh Tariffs on European Union Over Google Fine",
+      "id": "AAPL-141037065",
+      "title": "Nvidia reportedly in talks to finance OpenAI's massive Ohio data center",
       "source": "Yahoo",
-      "publishedAt": "2026-07-24",
-      "url": "https://finnhub.io/api/news?id=7806018dad2780a55b15d4ef95efbb3bd5106e60e117dc8f5625d9422ab8bfc2",
+      "publishedAt": "2026-07-27",
+      "url": "https://finnhub.io/api/news?id=4dabdabc36d625db115a654033965dac3c893f3630e9f955a0a530d99b29618c",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141037066",
+      "title": "What Is The Growth In QQQ Actually Costing You?",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-27",
+      "url": "https://finnhub.io/api/news?id=a3a8760d4357f5975ac2d9f41b9f53ce6d94cba5a5e22488660baf50568a2800",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141037082",
+      "title": "Elon Musk's Tesla, SpaceX shed $1.2T in July, while Apple sprints ahead: Chart of the Day",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-27",
+      "url": "https://finnhub.io/api/news?id=c31636e4fe71970c47ebaebe4fdb1f10a250e084fee7b2ec08d64233f2ea69b2",
       "tags": [
         "AAPL"
       ]

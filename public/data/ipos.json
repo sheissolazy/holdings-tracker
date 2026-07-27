@@ -22,41 +22,5 @@
     "sector": "—",
     "exchange": "NYSE",
     "status": "expected"
-  },
-  {
-    "ticker": "SCTX",
-    "name": "Scribe Therapeutics, Inc.",
-    "date": "2026-07-24",
-    "priceRange": [
-      15.0,
-      15.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global",
-    "status": "expected"
-  },
-  {
-    "ticker": "MTAKU",
-    "name": "Market Technology Acquisition Corp",
-    "date": "2026-07-24",
-    "priceRange": [
-      10.0,
-      10.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global",
-    "status": "expected"
-  },
-  {
-    "ticker": "PLCIU",
-    "name": "Pelican Acquisition II Corp",
-    "date": "2026-07-24",
-    "priceRange": [
-      10.0,
-      10.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Capital",
-    "status": "expected"
   }
 ]
