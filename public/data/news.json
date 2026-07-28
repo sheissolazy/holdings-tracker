@@ -1,5 +1,315 @@
 [
   {
+    "id": "gen-8278060",
+    "title": "The Dow jumps as the AI trade wobbles. Plus, a portfolio name goes on the M&A hunt",
+    "source": "CNBC",
+    "publishedAt": "2026-07-28",
+    "url": "https://www.cnbc.com/2026/07/28/the-dow-jumps-as-the-ai-trade-wobbles-plus-a-portfolio-name-goes-on-the-ma-hunt.html",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8278044",
+    "title": "Jim Cramer: J&J talc settlement is good for a stock that has so much going for it already",
+    "source": "CNBC",
+    "publishedAt": "2026-07-28",
+    "url": "https://www.cnbc.com/2026/07/28/jim-cramer-jj-talc-settlement-is-good-for-a-stock-that-has-so-much-going-for-it-already.html",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8278038",
+    "title": "We're trimming a rallying stock to protect against a potential earnings letdown",
+    "source": "CNBC",
+    "publishedAt": "2026-07-28",
+    "url": "https://www.cnbc.com/2026/07/28/were-trimming-a-rallying-stock-to-protect-against-a-potential-earnings-letdown-.html",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8278013",
+    "title": "We're buying the dip on one of our stocks for two key reasons",
+    "source": "CNBC",
+    "publishedAt": "2026-07-28",
+    "url": "https://www.cnbc.com/2026/07/28/were-buying-the-dip-on-one-of-our-stocks-for-two-key-reasons.html",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8277936",
+    "title": "Jim Cramer's top 10 things to watch in the stock market Tuesday",
+    "source": "CNBC",
+    "publishedAt": "2026-07-28",
+    "url": "https://www.cnbc.com/2026/07/28/jim-cramers-top-10-things-to-watch-in-the-stock-market-tuesday.html",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8277859",
+    "title": "Coca-Cola is about to report earnings. Here's what to expect",
+    "source": "CNBC",
+    "publishedAt": "2026-07-28",
+    "url": "https://www.cnbc.com/2026/07/28/coca-cola-ko-q2-2026-earnings.html",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "NVDA-141046189",
+    "title": "AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears",
+    "source": "Yahoo",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=c70ae72f7f512ad8738cb2a3e40874f1e89ba2269c9f3a12af4f9266dfa6928e",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "NVDA-141046190",
+    "title": "Super Micro Computer Booked More Than $60 Billion of Orders Last Quarter. The Entire Company Is Worth $19 Billion.",
+    "source": "Yahoo",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=3099c69935587d6b3e23c96d6472c8511d67671b5e8fe5b68c18f4910b902bc1",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "NVDA-141046191",
+    "title": "Why Intel Stock Just Fell Again",
+    "source": "Yahoo",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=9da2b3ec369a2f6ae282187d13b4bd0d190d5a8c2b247ea4c99634075829e71a",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "NVDA-141046192",
+    "title": "AMD Stock's Surge Was Already Visible In Its Own Earnings Calls",
+    "source": "Yahoo",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=47f145e14e475b20ba39cac92e6795adc9046412a0cfc82b1029bef55aa6528c",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "NVDA-141046193",
+    "title": "Nvidia Reportedly Signs Up to $50 Billion Texas Data-Center Lease",
+    "source": "Yahoo",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=effd67f156a29d983c9fbac85990b88ba53cce725f7f929b031d4dd8c6851adc",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "NVDA-141046194",
+    "title": "Big Tech Credit Risk Flashes Urgent Warning Over AI Spending",
+    "source": "Yahoo",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=8bf6d27af300c3586efa15b9e88dd200d26eb135c3afd6007bfc3e370b58a913",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "MRVL-141045151",
+    "title": "Coherent Sinks 11%, Applied Optoelectronics Falls 10%, Lumentum Drops 9% as Traders Question AI Spending Spree",
+    "source": "Yahoo",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=8c365c1504dc325b8b354a440066f838fc453641aa54395b674b70c45fc62ed2",
+    "tags": [
+      "MRVL"
+    ]
+  },
+  {
+    "id": "MRVL-141043425",
+    "title": "AMD Sinks 8%, Marvell Sinks 7%, Intel Fall 6% as AI Chip Trade Narrows to NVIDIA",
+    "source": "Yahoo",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=37fae0e763c35d3d7a71eaa6f4bb2ba0eb9cca015c0fd4ed8b877b31c261b485",
+    "tags": [
+      "MRVL"
+    ]
+  },
+  {
+    "id": "MRVL-141043515",
+    "title": "What You're Really Paying For Broadcom Stock",
+    "source": "Yahoo",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=1122569073d2d9e7320fb792b00f5fb4f37ff932b526b8ada3cc0a40b5538b5d",
+    "tags": [
+      "MRVL"
+    ]
+  },
+  {
+    "id": "MRVL-141043592",
+    "title": "Corning, ASML, SK Hynix, PayPal, UPS, Coca-Cola, and More Stocks That Explain Today’s Market",
+    "source": "Yahoo",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=2c22955765a290384aad78f69a57d3a3a4929c942b67332afc05a822e7795f19",
+    "tags": [
+      "MRVL"
+    ]
+  },
+  {
+    "id": "BE-141046932",
+    "title": "These stocks are moving in today's after hours session",
+    "source": "ChartMill",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=d6b841ab38381454914446b0d3eb06179330de19acbc3f3f7c7dea6d7065842f",
+    "tags": [
+      "BE"
+    ]
+  },
+  {
+    "id": "BE-141044898",
+    "title": "Nasdaq 100 Enters Correction, SanDisk Sinks Over 50% From Peak: Stock Market Today",
+    "source": "Benzinga",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=3c4f2118fecab317dd2f02063642b4d41f4475fd1d3ee559a5000ef9c79f2978",
+    "tags": [
+      "BE"
+    ]
+  },
+  {
+    "id": "BE-141046019",
+    "title": "Bloom Energy Stock Tests 200-Day Moving Average: Can Thursday Earnings Spark a Rebound to $181?",
+    "source": "Benzinga",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=bee611ab63ed54b3ede56167974cc57a9a27332dc97f436fdaaa25bf045042df",
+    "tags": [
+      "BE"
+    ]
+  },
+  {
+    "id": "AAPL-141046219",
+    "title": "Apple's market cap tops $5T: How AI weakness became a strength",
+    "source": "Yahoo",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=418a65d0553eaa56deda0af009e973894b8390f42f50e546a29d9cb0a62520d0",
+    "tags": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "AAPL-141046220",
+    "title": "Mag 7 earnings: Alphabet 'really set the tone,' strategist says",
+    "source": "Yahoo",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=7fd053ae1dd8fb551666a7d3cbd6e4428476a5fe786b7e56944f5291da19b506",
+    "tags": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "AAPL-141046221",
+    "title": "Apple Upgrade program seen as \"directionally positive\" by BofA",
+    "source": "Yahoo",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=5d4b4e6d5d5c8ef8ab910e704f18d893495bc4ef23a422cc23b4bad116db3682",
+    "tags": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "AAPL-141046195",
+    "title": "Stock Market Today: Dow Aims For Fresh Win; Clinical Research Name Bolts Higher (Live Coverage)",
+    "source": "Yahoo",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=d72b2015b246c15d0e3bc09247bad859191df92a2f41ce9f8d6a5b5cfcf39870",
+    "tags": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "AAPL-141046068",
+    "title": "Uncover the latest developments among dow jones stocks in today's session.",
+    "source": "ChartMill",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=68013383e26e7f493f401c7c6e877fce75f4cff1a7c847a6e7df8a5dc5cc667c",
+    "tags": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "AAPL-141046223",
+    "title": "The Profit Engine That Could Power Netflix Stock's Next Rally",
+    "source": "Yahoo",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=5c9027df07eac96a339f66e0ef80e75d96c20b65f745856b832f981df5c043dc",
+    "tags": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "SMH-141045841",
+    "title": "The Market Lost Its Mind, But You Shouldn't",
+    "source": "SeekingAlpha",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=cbf2f84de79b6e5d3ee85ecdf7cabb574b0fa719bc495c30c5f85185290bcb8b",
+    "tags": [
+      "SMH"
+    ]
+  },
+  {
+    "id": "SMH-141043082",
+    "title": "Semiconductor Stocks May Continue To Melt Lower",
+    "source": "SeekingAlpha",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=a87cfa06553c8d8622f40040dc89fe8d3580e843d68ae84f1c418c033559e105",
+    "tags": [
+      "SMH"
+    ]
+  },
+  {
+    "id": "SMH-141041290",
+    "title": "Hyperscalers: A 'Toxic Waste' Investment",
+    "source": "SeekingAlpha",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=6492b0820ae6d3fec3a1f8c7f0dd3004d8c64059b926bd15fea91485db23f3f2",
+    "tags": [
+      "SMH"
+    ]
+  },
+  {
+    "id": "SMH-141041070",
+    "title": "The Market Is Hostage To Two Startups",
+    "source": "SeekingAlpha",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=55be6e6f16ac4eda7ffb7074f498a0e76c06d5e105fd645def23adcc60f75072",
+    "tags": [
+      "SMH"
+    ]
+  },
+  {
+    "id": "SMH-141044479",
+    "title": "Intel Stock Is Falling Tuesday: What's Going On?",
+    "source": "Benzinga",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=30aa6f827080e53e85f79cffd3e6f8c4fb508303c8e2dc70a76d1cec4d93ccc5",
+    "tags": [
+      "SMH"
+    ]
+  },
+  {
+    "id": "SMH-141043175",
+    "title": "More Than $1 Trillion Wiped Out as China Chip Fears Slam Nvidia, SK Hynix, Micron and Memory Stocks: ETFs to Watch",
+    "source": "Benzinga",
+    "publishedAt": "2026-07-28",
+    "url": "https://finnhub.io/api/news?id=d826e794ce157f4b2c43b88e8f3977104dc2bd4d899b34a3c9eeaa34fde38531",
+    "tags": [
+      "SMH"
+    ]
+  },
+  {
     "id": "gen-8277771",
     "title": "Apple ends day as world's most valuable company, passing Nvidia",
     "source": "CNBC",
@@ -60,185 +370,13 @@
     ]
   },
   {
-    "id": "gen-8277683",
-    "title": "Sam Altman to meet with Trump administration, Senators this week. Here's what he plans to say",
-    "source": "CNBC",
+    "id": "BE-141037984",
+    "title": "Bloom Energy Shares Up 5% After Key Trading Signal",
+    "source": "Benzinga",
     "publishedAt": "2026-07-27",
-    "url": "https://www.cnbc.com/2026/07/27/altman-trump-china-open-weight-ai.html",
+    "url": "https://finnhub.io/api/news?id=072a652fa0c19003f62407deee5aaf2caff0b3df03f8b4b460ea353a284124ae",
     "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8277684",
-    "title": "We're buying more of a slumping industrial stock and a hard-hit chipmaker",
-    "source": "CNBC",
-    "publishedAt": "2026-07-27",
-    "url": "https://www.cnbc.com/2026/07/27/were-buying-more-of-a-slumping-industrial-stock-and-a-hard-hit-chipmaker.html",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8277661",
-    "title": "Jim Cramer's top 10 things to watch in the stock market Monday",
-    "source": "CNBC",
-    "publishedAt": "2026-07-27",
-    "url": "https://www.cnbc.com/2026/07/27/jim-cramers-top-10-things-to-watch-in-the-stock-market-monday.html",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8277176",
-    "title": "Crude oil futures are pricing market adaptability, not hopeful Iran peace - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-07-27",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNGE1c0g5ZHQxVW9KaV81YjdLV3FXRFo2dnp4S1FaeWZjbTdHbjhMOXVxRDdNVmRIenhzTWdYeU5WQWVqOWVURmxGTXJEVm5mVkN3MkdzSERyM2tHUkt5QWhkNWxkY2tzSXc3OGVtUmVzYXlPSE1vQ29Sak5vN1dDQnJicUZSZlVVSlN5ZkZhUXAxbHhDeWwtQmJxanEwam1FRlVLY2d6OFd6ejVuQUVDaWw5cEJkbHo4cDJ2TG04LU1kSm1aVVNMZE02ZmxwMGZENjZvaEZpUG4?oc=5",
-    "tags": [
-      "宏观",
-      "双边关系"
-    ]
-  },
-  {
-    "id": "gen-8277073",
-    "title": "Morning Bid: Markets dare to hope as US, Iran put war on hold - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-07-27",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5OaG9CanBKS3oxSTNMTm9XRGJtYmxrLVV3cFVXSnRBTk84NG5YWHNVaGJjMnE5Y0JLLUlSYTN1VnF3VmRlRlFlN1lYX2p3U1ppY2tqV1ZGLUdYT0hVckJ1U3Jna1g4N2ZHQkNwZ0J3OEpwNmc1Zmc0SjBVOWlneFk?oc=5",
-    "tags": [
-      "宏观",
-      "双边关系"
-    ]
-  },
-  {
-    "id": "gen-8277278",
-    "title": "Indian rupee heads for steepest rise in three weeks as oil falls - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-07-27",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVzNLbGNOWndmZ1lxc2MzcUtBY08walVteW9YS0UxeEhxazA3Mk9NWndFa3U1NzRULUI4SThDdGtMSEhmWmpUeXhrd3A2UGw2UGE3M2FhY296SEoxMnowblVGT1NSZ1BpU05jd2ZnSDhnZDc3amxPd2c0QzhJZnJhejVSbXRDS2ZoTnFVZHZWRnhRSlFYYmVCN3k2MUFTMG1ZTC1mTDZ4c0dzM2JDSjNZSmUzYnhmN0lfd0w0?oc=5",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "NVDA-141035956",
-    "title": "Update: US Equity Indexes Mixed as Tech Heads Lower While Iran Strikes Remain Halted",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=1d197bbfe0865a94764c2d60eec60f5ed65bf5c8e90686c9d09cf516eee7d0fa",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "NVDA-141035957",
-    "title": "Sector Update: Tech Stocks Decline Late Afternoon",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=b8a0ec531ee52de71d302ffc31c88474fcad576dc124e0475620204b24a261ff",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "NVDA-141035958",
-    "title": "Stock Market Today: Dow Up, Auto Stock Tests Entry; AI Stock Fights Back Before Key Event (Live Coverage)",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=cd3659c37ad7ff2b19aead67f31568eab7566fb432eac89c35465995ddfb21dd",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "NVDA-141035959",
-    "title": "Nvidia Guarantees $250B for OpenAI So Everyone One Day Can Get Paid",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=5245abd53ed288ae84e2eb48682a9b4f36927a6b208a1b76ff7c719d04d95fa4",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "NVDA-141035960",
-    "title": "Still Down 26% in 2026, Is Palantir’s Rebound Just Getting Started?",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=5ed47baf059ba6e51cfe697fe09638f7ebcd3975e00c2cc08553e95c00bad0b5",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "NVDA-141035961",
-    "title": "Nvidia drops 4%, leading chip stocks lower amid renewed worries of circular financing",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=2d7775c4b68436816545af031b7be209549d825bc32ca67ccac08ff694573927",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "MRVL-141036047",
-    "title": "Sandisk and More Chip Stocks Hit China Roadblocks",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=b8755ed7451675f7689245094d5986c24023f7415053628dda03ab0196c9261b",
-    "tags": [
-      "MRVL"
-    ]
-  },
-  {
-    "id": "MRVL-141036132",
-    "title": "Dell Technologies vs. Marvell Technology: Which Artificial Intelligence Infrastructure Stock Is a Better Buy in 2026?",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=e23aaae07991becfc4f6b5d971a52010737f25c282631e0aed4e3fe5da0f9d76",
-    "tags": [
-      "MRVL"
-    ]
-  },
-  {
-    "id": "MRVL-141036015",
-    "title": "MaxLinear Rides on AI Infrastructure Momentum: More Upside Ahead?",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=6ee187e7e8f3664394ecb99c33f16ee847e92a0ea581b8f2260c49530ac2571f",
-    "tags": [
-      "MRVL"
-    ]
-  },
-  {
-    "id": "MRVL-141035228",
-    "title": "Is Silicon Motion Stock a Strong Buy Before Q2 Earnings?",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=6b92aa70c219ab8e5057af4364bcad9c4697dac0a3d5d32876b17634fff1a8a5",
-    "tags": [
-      "MRVL"
-    ]
-  },
-  {
-    "id": "MRVL-141035064",
-    "title": "CXMT, Sandisk, ASML, SpaceX, D-Wave Quantum, and More Stocks That Explain Today’s Market",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=fb4e0e67202d63abf3bf672c37570cee1e18fa07cd890ee77d878b44d7dd0ad1",
-    "tags": [
-      "MRVL"
-    ]
-  },
-  {
-    "id": "MRVL-141035120",
-    "title": "Sandisk, ASML, and More Chip Stocks Hit China Roadblocks",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=9ac6c5f390a910567af1b79248d05224df9f4f748605a64ec9d9246b7ad61ebe",
-    "tags": [
-      "MRVL"
+      "BE"
     ]
   },
   {
@@ -252,171 +390,11 @@
     ]
   },
   {
-    "id": "AAPL-141037051",
-    "title": "Meet the Dividend Growth Stock That Warren Buffett Held for Decades, and Greg Abel Pegged as One of Berkshire Hathaway's Multidecade Compounders",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=2231ac72237e7ca4539d46229b54ef08b184529df039099e3e1cfd4922d2375e",
-    "tags": [
-      "AAPL"
-    ]
-  },
-  {
-    "id": "AAPL-141037056",
-    "title": "Stock Market Today, July 27: Dow Rises on Oil Retreat, and Sandisk Plunges 11% on Memory Weakness",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=621ac323033e079ee2a776dac5d58f57d263f94b4872d48dfb82804a31786fd8",
-    "tags": [
-      "AAPL"
-    ]
-  },
-  {
-    "id": "AAPL-141037064",
-    "title": "Update: Wall Street Wavers as Oil Slides; Fed Decision, Major Earnings in Focus",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=5a7a4b80897018ea3dfa1ac5b7e7b67158737739c6cc8f943dd3b8d76e6e8e98",
-    "tags": [
-      "AAPL"
-    ]
-  },
-  {
-    "id": "AAPL-141037065",
-    "title": "Nvidia reportedly in talks to finance OpenAI's massive Ohio data center",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=4dabdabc36d625db115a654033965dac3c893f3630e9f955a0a530d99b29618c",
-    "tags": [
-      "AAPL"
-    ]
-  },
-  {
-    "id": "AAPL-141037066",
-    "title": "What Is The Growth In QQQ Actually Costing You?",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=a3a8760d4357f5975ac2d9f41b9f53ce6d94cba5a5e22488660baf50568a2800",
-    "tags": [
-      "AAPL"
-    ]
-  },
-  {
-    "id": "AAPL-141037082",
-    "title": "Elon Musk's Tesla, SpaceX shed $1.2T in July, while Apple sprints ahead: Chart of the Day",
-    "source": "Yahoo",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=c31636e4fe71970c47ebaebe4fdb1f10a250e084fee7b2ec08d64233f2ea69b2",
-    "tags": [
-      "AAPL"
-    ]
-  },
-  {
-    "id": "SMH-141036763",
-    "title": "This Is Not A Normal Market Rotation",
-    "source": "SeekingAlpha",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=85b13d58f25ed21694804314f07cb4647b16d01fc98aca616e550cf8939b9714",
-    "tags": [
-      "SMH"
-    ]
-  },
-  {
-    "id": "SMH-141035552",
-    "title": "Retail Stays Bullish On Hyperscalers Ahead Of Earnings",
-    "source": "SeekingAlpha",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=dd9d296f001c79e0d0dedaa7f0b4d7004037c57a0c48f5e9d5d7bff48b47bebb",
-    "tags": [
-      "SMH"
-    ]
-  },
-  {
-    "id": "SMH-141035553",
-    "title": "China Is Why AI Won't Pop Like The Dot-Com Bubble",
-    "source": "SeekingAlpha",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=83ab52cd1c45b284eb27b0c14864e766fbac90da42d047e0b2b5dbc729b5827f",
-    "tags": [
-      "SMH"
-    ]
-  },
-  {
-    "id": "SMH-141034808",
-    "title": "Let The AI Panic Begin: The Most Unexpected Alliance",
-    "source": "SeekingAlpha",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=3970e71c2749aa7261dd45485f792df1b98b9b9736d86f9b8085806607df042d",
-    "tags": [
-      "SMH"
-    ]
-  },
-  {
-    "id": "SMH-141033405",
-    "title": "Intel’s Earnings Could Quadruple in 4 Years, Analyst Says",
-    "source": "Benzinga",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=4716ac297ce5455ba35ebec7a3f396fbc73900f70d9dbcd05a07a230a909d674",
-    "tags": [
-      "SMH"
-    ]
-  },
-  {
-    "id": "SMH-141033385",
-    "title": "Bond Markets Are Rethinking Big Tech’s $1 Trillion+ a Year for AI",
-    "source": "Benzinga",
-    "publishedAt": "2026-07-27",
-    "url": "https://finnhub.io/api/news?id=eecab0824f1bb21f59dbcb3af7c11a8519bffdee2da85a408ad216247ab699dc",
-    "tags": [
-      "SMH"
-    ]
-  },
-  {
     "id": "BE-141027340",
     "title": "Earnings Volatility Watch: 12 Stocks With Double-Digit Implied Moves This Week",
     "source": "Benzinga",
     "publishedAt": "2026-07-26",
     "url": "https://finnhub.io/api/news?id=311932cac57a427174119777bdc64152d87f55570840778cb9388262d9f662eb",
-    "tags": [
-      "BE"
-    ]
-  },
-  {
-    "id": "BE-141009063",
-    "title": "10 Industrials Stocks With Whale Alerts In Today’s Session",
-    "source": "Benzinga",
-    "publishedAt": "2026-07-24",
-    "url": "https://finnhub.io/api/news?id=b84112c6fde67ead5115f6e9499e3a08822b2397f940ce89b781e0c6cdef122a",
-    "tags": [
-      "BE"
-    ]
-  },
-  {
-    "id": "BE-141005642",
-    "title": "Bloom Energy: AI's Power Crunch Creates Rare Buying Opportunity",
-    "source": "SeekingAlpha",
-    "publishedAt": "2026-07-24",
-    "url": "https://finnhub.io/api/news?id=cb262ea41cd87b820c248ebd30e98185d10de4abd5b94a9e40a1514a591b9732",
-    "tags": [
-      "BE"
-    ]
-  },
-  {
-    "id": "BE-141002726",
-    "title": "Bloom Energy Q2 Preview: What I Need To See To Stay Bullish",
-    "source": "SeekingAlpha",
-    "publishedAt": "2026-07-24",
-    "url": "https://finnhub.io/api/news?id=72f63237630eb9cea247dfdde7d48d42696b60b9572db3199858f0db1149c271",
-    "tags": [
-      "BE"
-    ]
-  },
-  {
-    "id": "BE-140981178",
-    "title": "EQT Corporation: Preparing For HH Price Breakout In YE27",
-    "source": "SeekingAlpha",
-    "publishedAt": "2026-07-22",
-    "url": "https://finnhub.io/api/news?id=744b4c1c9214f307dc8131a2ae30b74cf163fd6548010e602a1b0dad3f994ef5",
     "tags": [
       "BE"
     ]
