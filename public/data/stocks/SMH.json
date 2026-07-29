@@ -3,21 +3,14 @@
   "name": "VanEck Semiconductor ETF",
   "exchange": "NASDAQ",
   "sector": "半导体 ETF",
-  "price": 529.6,
-  "change5dPct": -9.3,
-  "changeYtdPct": 26.8,
+  "price": 504.22,
+  "change5dPct": -14.1,
+  "changeYtdPct": 25.0,
   "marketCap": "—",
   "pe": null,
   "revenue": "—",
   "revenueYoYPct": null,
   "prices": [
-    {
-      "t": "2026-01-29",
-      "o": 417.44,
-      "h": 420.6,
-      "l": 403.17,
-      "c": 417.52
-    },
     {
       "t": "2026-01-30",
       "o": 411.28,
@@ -874,131 +867,143 @@
     },
     {
       "t": "2026-07-28",
-      "o": 530.73,
+      "o": 531.65,
       "h": 535.94,
-      "l": 518.31,
+      "l": 518.25,
       "c": 529.6
+    },
+    {
+      "t": "2026-07-29",
+      "o": 525.3,
+      "h": 532.14,
+      "l": 503.63,
+      "c": 504.22
     }
   ],
   "thesis": {
     "bull": [
-      "半导体是AI基础设施建设的核心受益环节，英伟达等龙头持续获得数据中心大单，德州数据中心租约等消息显示资本开支仍在扩张，为SMH成分股提供长期营收能见度",
-      "苹果市值突破5万亿美元、市场对AI硬件需求的定价出现分化，说明产业链中部分环节仍具备强劲议价能力，SMH持仓覆盖从设计到设备的多环节龙头，能分散单一公司风险",
-      "近期回调后估值有所消化，若财报季（如AMD此前财报已提前反映景气度）验证订单持续增长，板块存在超跌修复的机会"
+      "AI基础设施资本开支延续强劲态势，泰瑞达等半导体设备商二季度业绩超预期且管理层明确表示AI需求「稳健」并有望延伸至2027年，为SMH成分股的营收能见度提供支撑",
+      "黄仁勋公开表示AI发展需要比当前多千倍的算力与电力，暗示数据中心芯片与配套硬件存在长期结构性需求，利好英伟达、博通等SMH权重股",
+      "半导体设备端出现逢低布局的声音，市场认为近期板块调整为设备类公司提供了较有吸引力的介入区间，反映部分投资者认为周期底部已现"
     ],
     "bear": [
-      "AI支出可持续性受到质疑，英伟达、AMD等权重股同步下跌，大型科技信用风险指标发出警告，显示市场担忧资本开支周期见顶或放缓",
-      "中国相关芯片限制与地缘政治风险持续压制情绪，逾万亿美元市值蒸发的报道显示SK海力士、美光等存储链条对中国需求变化高度敏感",
-      "AI交易呈现集中化特征（交易收窄至英伟达一家），Coherent、应用光电、Lumentum等光模块公司大跌显示资金对非核心龙头的AI敞口信心不足，板块内部分化加剧"
+      "市场对AI资本开支的态度从单纯追捧转向要求企业展现纪律性，微软与Meta即将公布的资本开支指引成为关键变量，若指引不及预期可能引发半导体板块估值重估",
+      "中东地缘局势持续紧张，包括对伊朗相关保险及油轮的新制裁、埃及地中海港口油气设施遭袭以及以色列与美方就伊朗选项的讨论，若局势升级可能扰动全球供应链与市场风险偏好",
+      "电子产业供给侧瓶颈依然存在，叠加地缘政治因素如对华人形机器人的限制措施引发SK海力士等亚洲同业股价波动，显示AI产业链上下游仍面临非市场因素扰动"
     ],
     "watch": [
-      "关注英伟达、超微电脑（Super Micro）等公司订单与收入确认节奏是否匹配，超微单季逾600亿美元订单与仅190亿美元市值的落差值得持续跟踪",
-      "关注纳斯达克100指数是否维持回调（correction）区间，以及SanDisk等存储股较高点腰斩后是否出现企稳信号，作为板块情绪指标",
-      "关注美联储主席人选及货币政策预期变化（如Kevin Warsh相关市场押注）对成长型半导体股估值倍数的影响"
+      "本周晚些时候微软与Meta财报电话会中管理层对AI资本开支规模及回报节奏的表态",
+      "美联储在本次维持利率不变后，后续降息路径与官员表态对成长型科技股估值的传导",
+      "中美在人形机器人、先进芯片等领域的政策与关税动向，以及中东局势演变对能源与供应链的潜在冲击"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "SMH（VanEck半导体ETF）跟踪全球半导体产业链龙头公司，持仓覆盖芯片设计、晶圆代工、设备制造与存储等环节，代表性成分股包括英伟达、台积电、博通、AMD、阿斯麦、德州仪器等，是市场观察AI算力硬件景气度的重要风向标"
+        "body": "SMH是VanEck Semiconductor ETF，跟踪MVIS美国上市半导体25指数，持仓集中于全球市值最大的半导体设计、制造与设备公司，通常包括英伟达、博通、台积电美国存托凭证、AMD、高通、德州仪器、应用材料、泛林集团、美光科技等公司，是市场观察全球半导体及AI硬件产业链景气度的重要风向标之一"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "近期新闻显示AI芯片交易呈现明显集中化趋势，市场资金更倾向于聚焦英伟达等绝对龙头，而AMD、迈威尔、英特尔等公司股价出现更大幅度回撤，说明产业链内部竞争格局与市场信心分化正在拉大，龙头集中度提升可能挤压第二梯队估值空间"
+        "heading": "持仓结构与集中度",
+        "body": "该基金采用市值加权且设有单一持仓上限，头部几家公司合计权重通常占比较高，意味着基金表现对少数龙头企业的财报与指引高度敏感，本轮新闻中英伟达围绕循环融资的讨论、马牌科技加码印度投资、泰瑞达业绩超预期等个股消息均可能对基金整体表现产生放大效应"
       },
       {
-        "heading": "财务与估值",
-        "body": "部分成分股财报显示订单与实际收入确认存在时间差，如超微电脑单季订单规模远超公司自身市值，反映市场对未来现金流兑现节奏存在疑虑；博通等公司也被质疑估值是否已充分计入AI相关业绩预期，板块整体估值敏感度较高"
+        "heading": "行业驱动因素",
+        "body": "AI数据中心建设仍是行业最主要的增长引擎，黄仁勋关于算力和电力需求将大幅提升的表态强化了长期叙事，但与此同时市场舆论也出现转向，投资者开始更加关注资本开支的效率与回报周期，微软与Meta即将披露的资本开支指引被视为验证或修正这一叙事的关键节点"
       },
       {
-        "heading": "增长驱动与催化剂",
-        "body": "数据中心资本开支扩张（如英伟达传出的德州大规模数据中心租约）、AI推理与训练需求持续增长，以及苹果等下游品牌AI功能落地带来的芯片采购需求，是支撑板块中长期增长的主要催化剂"
+        "heading": "财报与近期动态",
+        "body": "泰瑞达二季度业绩超预期且管理层称AI需求稳健并有望延伸至二零二七年，博通旗下马牌科技宣布在印度追加投资二亿五千万美元并计划扩大团队规模，英伟达面对市场对其对外投资与客户融资安排（即所谓循环融资）的质疑，相关讨论反映出投资者对AI产业链商业模式可持续性的关注度上升"
       },
       {
-        "heading": "风险因素",
-        "body": "AI相关资本开支的可持续性受到质疑，大型科技公司信用风险指标发出警示；中美科技与贸易摩擦、对华芯片出口限制持续扰动存储与设备类公司；此外纳斯达克100指数已进入回调区间，SanDisk等个股较高点大幅下跌，显示板块系统性回调风险不容忽视"
+        "heading": "地缘政治与供应链风险",
+        "body": "近期新闻显示中东局势持续紧张，包括新一轮对伊朗相关保险公司和油轮的制裁、埃及地中海港口油气设施遭无人机袭击，以及美以两国官员就伊朗问题讨论多种应对选项，此外美方对中国人形机器人相关的限制措施也引发韩系存储芯片股价波动，凸显半导体产业链在全球化背景下面临的政策与地缘不确定性"
       },
       {
-        "heading": "多空分歧与市场观点",
-        "body": "多头观点认为AI基础设施建设长周期逻辑未变，近期回调提供估值消化空间；空头观点则认为AI支出存在过热与集中化风险，个别公司信用与订单质量问题可能是行业拐点信号，市场目前对半导体板块走势存在明显分歧，波动率显著上升"
+        "heading": "估值与市场情绪分歧",
+        "body": "当前市场对半导体及AI相关资产的看法存在明显分歧，一方面部分投资者认为设备类公司在近期回调后估值已具备吸引力，另一方面也有声音提醒经历数年高速增长后，市场对资本开支纪律性的容忍度正在下降，行业整体估值对宏观利率环境及科技巨头资本开支指引的变化将保持较高敏感度"
       }
     ],
     "comparables": [
       {
-        "ticker": "SOXX",
-        "name": "iShares半导体ETF",
-        "note": "与SMH持仓高度重叠的另一只主流半导体行业ETF，可用于交叉验证板块整体表现"
-      },
-      {
         "ticker": "NVDA",
         "name": "英伟达",
-        "note": "SMH最大权重成分股之一，其股价与订单动态对指数走势影响显著，近期在AI交易收窄中相对抗跌"
+        "note": "数据中心GPU龙头，为SMH最大权重持仓之一，市场围绕其对外投资与客户融资安排的讨论是近期焦点"
       },
       {
-        "ticker": "AMD",
-        "name": "超微半导体",
-        "note": "SMH重要持仓，近期跌幅居前，可作为AI芯片市场份额与竞争格局变化的对照标的"
+        "ticker": "AVGO",
+        "name": "博通",
+        "note": "网络与定制芯片龙头，旗下马牌科技加码印度投资体现其在AI基础设施领域的持续扩张"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "马牌科技",
+        "note": "数据中心互联与定制芯片供应商，近期公布加码印度市场并扩大本地团队"
+      },
+      {
+        "ticker": "TER",
+        "name": "泰瑞达",
+        "note": "半导体测试设备厂商，二季度业绩超预期并给出乐观的AI需求展望，反映设备端景气度"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-28T22:10:37.579703Z"
+    "generatedAt": "2026-07-29T22:07:25.101162Z"
   },
   "news": [
     {
-      "id": "SMH-141045841",
-      "title": "The Market Lost Its Mind, But You Shouldn't",
+      "id": "SMH-141058051",
+      "title": "PSI: A Buy On The Equipment Side Of The Chip Sell-Off",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=cbf2f84de79b6e5d3ee85ecdf7cabb574b0fa719bc495c30c5f85185290bcb8b",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=767ea7f7bd0abdbfd57e638cea857f04865df3af970693e3ee5f1c16a21e9309",
       "tags": [
         "SMH"
       ]
     },
     {
-      "id": "SMH-141043082",
-      "title": "Semiconductor Stocks May Continue To Melt Lower",
+      "id": "SMH-141056042",
+      "title": "Tech-Heavy KOSPI Volatility Does Not Compute In U.S. (Video)",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=a87cfa06553c8d8622f40040dc89fe8d3580e843d68ae84f1c418c033559e105",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=14d72feaee3f8b5141f8f28e1f39ec2b89aaffba34c106b84c2110df42cc87a1",
       "tags": [
         "SMH"
       ]
     },
     {
-      "id": "SMH-141041290",
-      "title": "Hyperscalers: A 'Toxic Waste' Investment",
+      "id": "SMH-141054831",
+      "title": "AI Capex Hits A Tipping Point As Investors Demand More Corporate Discipline",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=6492b0820ae6d3fec3a1f8c7f0dd3004d8c64059b926bd15fea91485db23f3f2",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=9d6881833196639a48ac530c7a9baf1a0c80b2b1904bbd5ad8690fe6f2cb75b4",
       "tags": [
         "SMH"
       ]
     },
     {
-      "id": "SMH-141041070",
-      "title": "The Market Is Hostage To Two Startups",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=55be6e6f16ac4eda7ffb7074f498a0e76c06d5e105fd645def23adcc60f75072",
-      "tags": [
-        "SMH"
-      ]
-    },
-    {
-      "id": "SMH-141044479",
-      "title": "Intel Stock Is Falling Tuesday: What's Going On?",
+      "id": "SMH-141053799",
+      "title": "Intel Stock Is Gaining Wednesday: What's Going On?",
       "source": "Benzinga",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=30aa6f827080e53e85f79cffd3e6f8c4fb508303c8e2dc70a76d1cec4d93ccc5",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=a474158642125295cef3fc7f5696de57baebd07771acf8cc90b15629cf61648d",
       "tags": [
         "SMH"
       ]
     },
     {
-      "id": "SMH-141043175",
-      "title": "More Than $1 Trillion Wiped Out as China Chip Fears Slam Nvidia, SK Hynix, Micron and Memory Stocks: ETFs to Watch",
-      "source": "Benzinga",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=d826e794ce157f4b2c43b88e8f3977104dc2bd4d899b34a3c9eeaa34fde38531",
+      "id": "SMH-141050940",
+      "title": "Investing In Semiconductor ETFs And Stocks",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=30ee25f786bb2779829fc5fc86d2161c033699d86d5ad8130dfb50f0b1a7ae17",
+      "tags": [
+        "SMH"
+      ]
+    },
+    {
+      "id": "SMH-141050464",
+      "title": "Behind The AI Boom: The Electronics Supply-Side Constraints",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=aeb27a73b587bf819541f573da0d263c6529af95d85e4d65bd1d2f768095b119",
       "tags": [
         "SMH"
       ]

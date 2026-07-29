@@ -36,27 +36,27 @@
     "status": "expected"
   },
   {
-    "ticker": "CATLU",
-    "name": "Catalyst Acquisition Corp.",
-    "date": "2026-07-28",
+    "ticker": "GYGY",
+    "name": "Game Your Game Inc.",
+    "date": "2026-07-30",
+    "priceRange": [
+      0,
+      0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Capital",
+    "status": "expected"
+  },
+  {
+    "ticker": "EWAVU",
+    "name": "East West Ave Acquisition Corp.",
+    "date": "2026-07-30",
     "priceRange": [
       10.0,
       10.0
     ],
     "sector": "—",
     "exchange": "NASDAQ Global",
-    "status": "expected"
-  },
-  {
-    "ticker": "IOND",
-    "name": "Ionic Digital Inc.",
-    "date": "2026-07-28",
-    "priceRange": [
-      0,
-      0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global Select",
     "status": "expected"
   }
 ]

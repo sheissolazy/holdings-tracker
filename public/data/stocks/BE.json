@@ -3,21 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 166.84,
-  "change5dPct": -26.3,
-  "changeYtdPct": 6.6,
-  "marketCap": "$53.5B",
+  "price": 163.75,
+  "change5dPct": -25.0,
+  "changeYtdPct": 8.2,
+  "marketCap": "$47.5B",
   "pe": 7985.1,
   "revenue": "—",
   "revenueYoYPct": 57,
   "prices": [
-    {
-      "t": "2026-01-29",
-      "o": 164.0,
-      "h": 165.65,
-      "l": 149.79,
-      "c": 156.51
-    },
     {
       "t": "2026-01-30",
       "o": 156.4,
@@ -878,137 +871,124 @@
       "h": 176.85,
       "l": 157.65,
       "c": 166.84
+    },
+    {
+      "t": "2026-07-29",
+      "o": 183.5,
+      "h": 185.66,
+      "l": 157.33,
+      "c": 163.75
     }
   ],
   "thesis": {
     "bull": [
-      "数据中心与AI算力扩张带来的电力短缺已成为行业共识，Bloom Energy的固体氧化物燃料电池可实现场外快速部署、不依赖电网排队，公司与甲骨文、美国电力（AEP）等达成的数据中心供电合作持续落地，为其打开新的增量市场",
-      "公司盈利能力改善趋势明确，规模化生产带来单位成本下降，毛利率与经营杠杆逐步提升，叙事正从早期的持续烧钱转向盈利增长，机构关注度上升",
-      "与雪佛龙成立合资公司，将业务从数据中心延伸至工业现场发电与氢能领域，订单积压维持高位，收入可见度较强，客户结构也在多元化"
+      "2026年第二季度营收同比增长约166%，同时毛利率与营业利润率同步扩张，管理层上调了2026全年业绩指引，显示订单转化为收入的速度和生产效率均在改善",
+      "AI数据中心用电需求爆发式增长，电网互联排队周期长达数年，Bloom的固体氧化物燃料电池可在数月内实现现场部署，形成对传统电网连接方案的错位竞争优势",
+      "与大型云计算与算力基础设施客户的合作持续扩大，产能扩张计划推进，订单积压（backlog）可见度提升，为未来多个季度的收入增长提供支撑"
     ],
     "bear": [
-      "近期英伟达、AMD等AI芯片股因资本开支可持续性担忧出现明显回调，超大规模云厂商资本开支增速放缓的传闻正冲击整个AI电力与算力供应链叙事，Bloom作为高贝塔的AI电力概念股估值弹性大，短期波动风险突出",
-      "公司产品目前主要以天然气为燃料，实际运行中的碳排放强度与清洁能源定位存在争议，若相关税收抵免政策（如IRA相关条款）收紧，可能削弱其经济性优势",
-      "大型客户订单执行与产能爬坡是否匹配需要持续验证，同时超大规模数据中心业主也在探索自建燃气机组、核能小型堆等替代方案，长期存在客户自建替代的竞争风险"
+      "财报大涨后股价已计入较高的乐观预期，估值处于历史高位，若后续季度订单节奏或毛利率扩张不及市场预期，存在较大回调风险",
+      "公司产品目前仍主要以天然气作为燃料来源，在强调净零排放和电网清洁化的长期叙事下，其绿色属性和政策补贴地位存在争议，监管与税收抵免政策变化会直接影响项目经济性",
+      "历史上公司资本开支强度高、自由现金流为负，规模扩张是否能伴随财务纪律改善并实现现金流转正，仍需要更多季度数据验证，市场对其可持续盈利能力仍有分歧"
     ],
     "watch": [
-      "即将公布的季度财报（市场预期于本周四公布）中的收入指引、毛利率及订单积压变化，以及股价能否收复200日均线并向此前高点靠拢",
-      "与甲骨文、AEP、雪佛龙等大客户及合作方的合同执行进度、新增订单或产能扩张公告",
-      "英伟达、AMD等AI芯片龙头资本开支指引及超大规模云厂商数据中心建设节奏的变化，这将直接影响市场对AI电力需求叙事的信心，进而传导至Bloom的估值溢价"
+      "后续季度新增订单与in-service容量数据，尤其是来自数据中心、算力及公用事业客户的大额合同细节和交付节奏",
+      "利率环境与信贷条件变化对公司融资成本、项目融资安排（如与金融机构的杠杆租赁结构）的影响",
+      "美国相关税收抵免政策（如IRA下的投资税收抵免）、天然气价格走势以及电网互联审批速度是否出现实质性加快，这些都会影响分布式发电的相对经济性"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy是固体氧化物燃料电池（SOFC）技术的主要供应商，产品可在企业、工业及数据中心现场提供分布式发电，具备部署速度快、不依赖电网扩容排队等特点。近期市场关注点集中在公司能否受益于AI驱动的数据中心用电需求激增，其股价与AI硬件板块情绪高度联动"
+        "body": "Bloom Energy是固体氧化物燃料电池（SOFC）发电系统制造商，产品可在现场将天然气或氢气转化为电力，主要面向数据中心、制造业、医疗机构及公用事业客户，核心卖点是部署速度快、可绕开电网排队瓶颈，并具备一定的模块化扩容能力"
       },
       {
-        "heading": "业务与技术",
-        "body": "公司核心产品Energy Server已从早期的企业备用/基荷电源应用，扩展至为数据中心提供现场发电解决方案，并通过与甲骨文、美国电力公司（AEP）等的合作切入超大规模数据中心供电场景。与雪佛龙成立的合资公司进一步将业务延伸至工业现场发电及氢能方向，产品应用场景趋于多元"
+        "heading": "业务驱动因素",
+        "body": "AI算力扩张带来的数据中心用电需求是当前最主要的增长驱动，电网新建产能与输配电基础设施建设周期普遍长达数年，而Bloom的产品可在数月内完成安装并并网供电，这一时间差是其近期订单和股价表现的核心逻辑，市场也在关注其能否将这一叙事转化为持续的合同签约"
       },
       {
-        "heading": "财务状况",
-        "body": "公司近年收入保持较快增长，毛利率与经营杠杆持续改善，市场叙事逐渐从此前的持续亏损扩张转向盈利能力兑现。订单积压（backlog）维持高位为未来收入提供一定可见度，但产能爬坡速度、原材料及供应链成本能否持续支撑毛利率改善仍需通过后续财报验证"
+        "heading": "财务与估值",
+        "body": "公司在最新季度实现了收入同比大幅增长并伴随利润率扩张，管理层上调了全年指引，这被部分卖方视为空头论点被证伪的信号，但股价对利好已有较充分反应，估值隐含了未来数年高增长的持续性，任何订单或毛利率的边际放缓都可能引发估值重新定价"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "AI算力扩张带来的电网容量紧张与新增电力接入排队问题，为分布式发电及现场发电方案创造了结构性需求，Bloom与Plug Power、FuelCell Energy、Ballard Power等燃料电池同业相比，在数据中心供电这一新兴场景中处于相对领先位置。同时，公司也面临超大规模云厂商自建燃气机组、核能小型堆等替代方案的潜在竞争"
+        "heading": "竞争格局",
+        "body": "在分布式发电和现场供电赛道，Bloom面临来自天然气涡轮机厂商、其他燃料电池公司以及电池储能系统供应商的多方竞争，同时传统公用事业和独立发电商也在加速产能建设以应对数据中心用电缺口，行业格局仍在快速演变中，尚未形成稳定的份额格局"
       },
       {
-        "heading": "多空观点分歧",
-        "body": "多头认为，Bloom是AI电力短缺这一结构性趋势中稀缺的、已具备商业化部署能力的标的，盈利拐点已现，长期成长空间大；空头则认为，公司估值已充分甚至过度反映了乐观的增长预期，近期AI资本开支可持续性受到市场质疑，叠加天然气燃料的碳排放争议与政策不确定性，股价存在较大回调风险。两种观点的核心分歧在于AI相关资本开支能否持续兑现，以及Bloom能否将当前的订单增长转化为可持续的盈利能力"
+        "heading": "风险因素",
+        "body": "主要风险包括宏观利率与信贷环境变化对资本密集型业务融资成本的影响、天然气价格波动对项目经济性的影响、监管与税收抵免政策的不确定性，以及公司自身现金流状况和资本开支强度能否随规模扩张而改善"
       },
       {
-        "heading": "估值与情绪",
-        "body": "作为AI电力概念股，Bloom Energy股价对英伟达、AMD等AI芯片龙头及超大规模云厂商资本开支指引的变化高度敏感，近期在AI芯片股整体回调的背景下股价一度测试200日均线。市场情绪波动较大，即将公布的季度财报及后续管理层指引，将是检验当前估值是否合理的重要节点"
+        "heading": "后市关注点",
+        "body": "投资者和分析师后续将重点关注新增订单与在运营容量数据的披露节奏、大型科技与算力客户合同的具体条款、下一财季毛利率趋势是否延续本季度的扩张态势，以及联储利率路径和相关财政政策对分布式能源资本开支的传导效应"
       }
     ],
     "comparables": [
       {
-        "ticker": "PLUG",
-        "name": "Plug Power",
-        "note": "同为氢能与燃料电池领域公司，聚焦氢能生态与工业物流场景，盈利能力与资产负债表压力较大，可作为行业估值与风险偏好的参照"
-      },
-      {
-        "ticker": "FCEL",
-        "name": "FuelCell Energy",
-        "note": "另一家固体氧化物及熔融碳酸盐燃料电池厂商，规模相对较小，收入与盈利波动性更高"
-      },
-      {
-        "ticker": "BLDP",
-        "name": "Ballard Power Systems",
-        "note": "专注质子交换膜燃料电池，应用场景偏交通运输，与Bloom的现场发电定位有所差异，可用于比较燃料电池技术路线分化"
-      },
-      {
-        "ticker": "VRT",
-        "name": "Vertiv Holdings",
-        "note": "数据中心电力与散热基础设施提供商，与Bloom同属数据中心能源生态链，但技术路线（配电/散热 vs 现场发电）不同，可作为数据中心资本开支敏感度的对照"
-      },
-      {
-        "ticker": "CEG",
-        "name": "Constellation Energy",
-        "note": "大型核能与电力生产商，代表数据中心供电的另一条路径（大电网核能/清洁电力购电协议），可用于比较分布式现场发电与集中式电力供应的竞争关系"
+        "ticker": "PLQ",
+        "name": "占位",
+        "note": "占位"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-28T22:09:06.822164Z"
+    "generatedAt": "2026-07-29T22:05:48.722591Z"
   },
   "news": [
     {
-      "id": "BE-141046932",
-      "title": "These stocks are moving in today's after hours session",
-      "source": "ChartMill",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=d6b841ab38381454914446b0d3eb06179330de19acbc3f3f7c7dea6d7065842f",
+      "id": "BE-141057857",
+      "title": "Bloom Energy Just Proved Bears Wrong",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=4b33757be528933a898fe25b4e2606f061f805f4d975167cef60528a2ec43b51",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-141044898",
-      "title": "Nasdaq 100 Enters Correction, SanDisk Sinks Over 50% From Peak: Stock Market Today",
+      "id": "BE-141055471",
+      "title": "Trump Bans Chinese Humanoid Robots; Micron Competitor SK Hynix Creates Volatility; Fed Decision Looms",
       "source": "Benzinga",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=3c4f2118fecab317dd2f02063642b4d41f4475fd1d3ee559a5000ef9c79f2978",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=12e945e6760a451ecbccd9d28473274f9db3c51997ac242c33f626c6c340623b",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-141046019",
-      "title": "Bloom Energy Stock Tests 200-Day Moving Average: Can Thursday Earnings Spark a Rebound to $181?",
-      "source": "Benzinga",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=bee611ab63ed54b3ede56167974cc57a9a27332dc97f436fdaaa25bf045042df",
+      "id": "BE-141053664",
+      "title": "Bloom Energy: Strong Q2 2026 Suggests The Recent Sell-Off Went Too Far",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=474a899cfc7d331336a648d8e81da9775e36550ed9c9c66cfd250b2922018d1f",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-141037984",
-      "title": "Bloom Energy Shares Up 5% After Key Trading Signal",
-      "source": "Benzinga",
-      "publishedAt": "2026-07-27",
-      "url": "https://finnhub.io/api/news?id=072a652fa0c19003f62407deee5aaf2caff0b3df03f8b4b460ea353a284124ae",
+      "id": "BE-141052795",
+      "title": "Nebius: PaaS Power Over Agentic Bleed",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=a440df742cd566e6ab83f9cf987b7f91a8361c0bf1ab23c4f52d3a49bc13be06",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-141034042",
-      "title": "Bloom Energy Stock Gains Ahead of Earnings",
-      "source": "Benzinga",
-      "publishedAt": "2026-07-27",
-      "url": "https://finnhub.io/api/news?id=82ca14dca961e15c396ebfcbdad7e0d3d3a8857adafa2cadf55fa446373ce7b8",
+      "id": "BE-141052535",
+      "title": "Bloom Energy: Q2 Earnings Soften My Bear View (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=23889c4034dc4dbffebff7d45e6b026689d8d8c17090dc5044ead8ba8fa9a251",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-141027340",
-      "title": "Earnings Volatility Watch: 12 Stocks With Double-Digit Implied Moves This Week",
+      "id": "BE-141054492",
+      "title": "Stock Market Today: Dow Futures Slip, S&P 500, Nasdaq 100 Rise as Investors Await Federal Reserve's Decision On Interest Rates—Ford, Bloom, Microsoft in Focus (UPDATED)",
       "source": "Benzinga",
-      "publishedAt": "2026-07-26",
-      "url": "https://finnhub.io/api/news?id=311932cac57a427174119777bdc64152d87f55570840778cb9388262d9f662eb",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=dd47ba959898f5598870524097047fa10c26020c5e28a7c75de4c7785956392a",
       "tags": [
         "BE"
       ]

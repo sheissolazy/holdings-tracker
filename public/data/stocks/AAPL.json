@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 340.08,
+  "price": 338.19,
   "change5dPct": 3.8,
-  "changeYtdPct": 31.7,
-  "marketCap": "$4.95T",
-  "pe": 40.7,
+  "changeYtdPct": 30.3,
+  "marketCap": "$4.99T",
+  "pe": 41.1,
   "revenue": "—",
   "revenueYoYPct": 13,
   "prices": [
-    {
-      "t": "2026-01-29",
-      "o": 258.0,
-      "h": 259.65,
-      "l": 254.41,
-      "c": 258.28
-    },
     {
       "t": "2026-01-30",
       "o": 255.17,
@@ -878,145 +871,134 @@
       "h": 342.89,
       "l": 335.6,
       "c": 340.08
+    },
+    {
+      "t": "2026-07-29",
+      "o": 339.69,
+      "h": 344.57,
+      "l": 337.35,
+      "c": 338.19
     }
   ],
   "thesis": {
     "bull": [
-      {
-        "text": "苹果总市值一度突破5万亿美元并反超英伟达重回全球市值第一，市场解读为「AI疑虑转为优势」，反映投资者对其AI叙事重新定价"
-      },
-      {
-        "text": "美银（BofA）对苹果Upgrade以旧换新订阅式硬件项目评价「方向性积极」，若能提升换机频率与经常性收入，将增强iPhone生态粘性与现金流可预测性"
-      },
-      {
-        "text": "英伟达CEO黄仁勋公开表态看好苹果AI布局，带动市场对苹果AI相关买盘，显示行业头部人物对苹果软硬件AI整合前景仍持正面预期"
-      }
+      "苹果股价逼近5万亿美元市值关口，反映市场对其服务业务与生态壁垒的长期定价能力仍有信心",
+      "英伟达CEO黄仁勋公开表态引发市场对苹果AI布局的高预期，若苹果在设备端AI与Siri重构上有实质进展，可能成为下一轮估值催化剂",
+      "公司现金流生成能力强劲，具备持续回购与分红的财务弹性，为股价提供下行缓冲"
     ],
     "bear": [
-      {
-        "text": "公开披露显示，佩洛西相关交易记录中2025年12月30日、12月24日及2025年10月22日均有苹果减持（trim）记录，2024年底同样有卖出动作，显示部分知情交易者阶段性获利了结而非持续加仓"
-      },
-      {
-        "text": "同期AI芯片板块全面走弱，英伟达、AMD、英特尔等因AI资本开支与信用风险担忧遭遇抛售，市场对「AI泡沫」定价的整体谨慎情绪若扩散，苹果的高估值也可能承压"
-      },
-      {
-        "text": "苹果自身AI（Apple Intelligence）商业化进度和用户实际使用转化仍缺乏明确数据支撑，相较英伟达等直接受益于AI基础设施建设的公司，苹果的AI收益路径更间接、验证周期更长"
-      }
+      "据国会议员PTR披露记录，佩洛西家族账户在过去一年多次出现减持AAPL的交易（trim/exit），显示部分知情投资者对短期涨幅存疑",
+      "有分析认为苹果股价按现金流估值已高于合理水平，仅在盈利倍数上处于合理区间，上行空间可能受限",
+      "当前市场焦点已明显转向英伟达等AI基础设施类公司，苹果在生成式AI叙事中的直接受益路径不如芯片和云资本支出企业清晰，存在科技板块龙头地位被重新定价的风险"
     ],
     "watch": [
-      {
-        "text": "同一份1月披露文件中，佩洛西方既显示12月30日「新建」多头头寸，又同时记录12月30日与12月24日「减持」，方向存在矛盾，需关注后续修正披露或13F数据以确认真实仓位变化"
-      },
-      {
-        "text": "关注Apple Upgrade等订阅式硬件项目对iPhone换机周期、财务报表中经常性收入占比的实际拉动效果"
-      },
-      {
-        "text": "关注AI芯片股（英伟达、AMD、美光等）波动及大型科技公司信用风险信号是否进一步传导至苹果供应链定价与整体科技股估值倍数"
-      }
+      "微软、Meta等公司即将披露的AI资本开支指引，将影响市场对整体科技板块估值纪律的预期，间接影响苹果的相对估值",
+      "美联储维持利率不变后市场对流动性与折现率的进一步表态，高估值成长股对利率变化仍较敏感",
+      "苹果与英伟达之间的科技板块龙头地位轮动讨论持续发酵，需关注苹果是否在近期财报或产品发布中给出更清晰的AI变现路径"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果（AAPL）是全球市值最高的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品，以及服务、可穿戴设备等多元化收入来源。近期公司总市值一度突破5万亿美元，并反超英伟达重新成为全球市值第一的上市公司，市场将此解读为AI预期从此前的「弱项」转变为估值支撑因素"
+        "body": "苹果公司（AAPL）作为全球市值最高的科技公司之一，近期股价持续走强，一度逼近5万亿美元市值。公司业务涵盖iPhone等硬件产品与快速增长的服务生态，长期以稳定现金流和品牌壁垒著称。市场目前正在观察其能否在新一轮以人工智能为核心的科技周期中保持增长动能，被部分媒体称为对其未来五年成长性的关键测试。"
       },
       {
-        "heading": "AI战略与产品动态",
-        "body": "苹果的AI布局（Apple Intelligence）此前被部分投资者视为落后于英伟达、微软等纯AI基础设施或云服务公司，但近期市场情绪出现变化。英伟达CEO黄仁勋公开表态「对苹果AI寄予厚望」，一定程度上带动了对苹果AI相关股票的买盘。与此同时，美银对苹果Upgrade以旧换新项目给出「方向性积极」的评价，反映市场关注点正从纯AI叙事转向苹果软硬件生态与订阅模式结合的商业化路径"
-      },
-      {
-        "heading": "估值与市场地位",
-        "body": "苹果重回全球市值第一的位置，发生在AI芯片股（英伟达、AMD、英特尔等）因资本开支与信用风险担忧而集体回调的背景下，呈现出资金从「AI基础设施」向「AI应用与生态」板块轮动的迹象。这种轮动是否具有持续性，还是短期资金避险行为，市场存在分歧"
-      },
-      {
-        "heading": "跟踪者与知情交易动向",
-        "body": "公开披露记录显示，佩洛西相关方在2025年12月30日申报了一笔苹果新建多头头寸，但同一披露文件及此前多份文件（2025年10月、2025年12月、2024年12月）中同时存在多笔减持（trim/exit）记录。这种「一边新建、一边减持」的组合缺乏单一明确方向，可能反映的是投资组合再平衡而非对苹果基本面的单一判断，需结合后续披露与整体持仓变化综合解读"
+        "heading": "财务与估值",
+        "body": "有独立研究观点指出，若以现金流折现方法衡量，苹果当前股价已显著高于其公允价值估计；而以盈利倍数衡量则更接近合理区间。这种估值方法之间的分歧本身反映出市场对苹果未来增长路径（尤其是AI相关收入贡献）存在不确定性，投资者需要关注公司后续财报中服务收入与毛利率的变化趋势，以判断当前估值的支撑力度。"
       },
       {
         "heading": "行业与竞争格局",
-        "body": "当前市场对AI相关资本开支的可持续性存在较大分歧：一方面英伟达等公司持续获得大规模数据中心合同（如德州租约传闻），另一方面市场担忧AI资本开支的投资回报周期与大型科技公司信用风险。苹果作为消费电子与服务复合体，其AI故事与云端算力提供商（英伟达、微软、谷歌等）存在本质差异，竞争格局对比意义有限但估值层面存在联动"
+        "body": "近期科技板块的叙事重心明显向英伟达等AI基础设施与芯片类公司倾斜，市场上出现了关于苹果与英伟达谁是科技板块新龙头的讨论。英伟达CEO黄仁勋关于AI算力需求（包括对电力等基础设施需求大幅提升）的公开言论，一度带动包括苹果在内的AI相关标的走高，显示市场对苹果切入AI硬件与服务生态仍抱有期待，但这种期待尚未完全兑现为清晰的产品或收入指引。"
+      },
+      {
+        "heading": "政策与宏观环境",
+        "body": "美联储近期维持利率不变，市场关注点随即转向包括微软、Meta在内的大型科技公司即将发布的AI资本开支指引，这将影响整体高估值成长股的风险偏好。此外，中东地区地缘政治紧张局势（如伊朗相关制裁、红海及地中海地区的袭击事件）持续存在，可能通过能源价格或全球供应链间接影响宏观风险情绪，但目前看与苹果基本面的直接关联有限。"
+      },
+      {
+        "heading": "跟踪者与市场情绪",
+        "body": "公开披露信息显示，前众议院议长佩洛西相关账户在过去数月的交易记录（PTR）中多次出现减持AAPL持仓的记录，同时也存在一笔新增多头记录，交易方向并不完全一致，反映出即便是长期知情投资者对苹果短期走势也存在分歧。与此同时，英伟达CEO的相关表态则被市场解读为对苹果AI前景的正面信号，多空情绪交织明显。"
       },
       {
         "heading": "风险与展望",
-        "body": "苹果面临的主要不确定性包括：AI功能商业化转化效果尚待验证、消费电子换机周期的季节性波动、以及更广泛科技股估值因AI资本开支担忧而承压的传导风险。同时，知情交易者披露信息本身存在方向不一致的情况，市场应谨慎看待单一信号，结合公司基本面与行业整体流动性环境综合判断"
+        "body": "综合来看，苹果股价接近历史高位之际，市场对其估值合理性、AI变现路径清晰度以及相对英伟达等AI核心受益者的竞争地位均存在分歧。后续需重点关注公司财报中服务与新产品线的具体数据披露、同业资本开支指引变化，以及宏观利率与地缘政治环境对高估值成长股整体风险偏好的影响，任何一方面的超预期变化都可能成为股价波动的催化因素。"
       }
     ],
     "comparables": [
       {
         "ticker": "NVDA",
         "name": "英伟达",
-        "note": "AI芯片与算力基础设施龙头，近期因AI资本开支担忧股价承压，与苹果曾互换全球市值第一位置，形成AI叙事对比"
+        "note": "当前AI基础设施叙事的核心受益者，与苹果被市场并列讨论科技板块龙头地位"
       },
       {
         "ticker": "MSFT",
         "name": "微软",
-        "note": "云服务与AI软件整合的代表性公司，可作为苹果AI商业化路径（软硬件结合 vs 云端服务）的参照对象"
+        "note": "即将披露的AI资本开支指引将影响市场对整体科技板块估值纪律的预期"
       },
       {
         "ticker": "GOOGL",
         "name": "谷歌母公司Alphabet",
-        "note": "同为大型科技公司AI布局代表，市场评价其近期财报「为AI叙事定下基调」，可用于横向对比科技巨头AI预期兑现节奏"
+        "note": "同为消费电子与AI服务生态的主要竞争者，可作为服务收入增长对比参照"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-28T22:09:55.491614Z"
+    "generatedAt": "2026-07-29T22:06:28.667766Z"
   },
   "news": [
     {
-      "id": "AAPL-141046219",
-      "title": "Apple's market cap tops $5T: How AI weakness became a strength",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=418a65d0553eaa56deda0af009e973894b8390f42f50e546a29d9cb0a62520d0",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141046220",
-      "title": "Mag 7 earnings: Alphabet 'really set the tone,' strategist says",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=7fd053ae1dd8fb551666a7d3cbd6e4428476a5fe786b7e56944f5291da19b506",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141046221",
-      "title": "Apple Upgrade program seen as \"directionally positive\" by BofA",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=5d4b4e6d5d5c8ef8ab910e704f18d893495bc4ef23a422cc23b4bad116db3682",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141046195",
-      "title": "Stock Market Today: Dow Aims For Fresh Win; Clinical Research Name Bolts Higher (Live Coverage)",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=d72b2015b246c15d0e3bc09247bad859191df92a2f41ce9f8d6a5b5cfcf39870",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141046068",
-      "title": "Uncover the latest developments among dow jones stocks in today's session.",
+      "id": "AAPL-141056676",
+      "title": "Wednesday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=68013383e26e7f493f401c7c6e877fce75f4cff1a7c847a6e7df8a5dc5cc667c",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=637a7a8fadaf10d44efb7c0c6bf9b51ef54f207f12d1a8f77ec01d29e4101ba3",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141046223",
-      "title": "The Profit Engine That Could Power Netflix Stock's Next Rally",
+      "id": "AAPL-141056942",
+      "title": "Apple (AAPL) Stock Looks Above Fair Value On Cash Flow, Near Fair Value On Earnings",
       "source": "Yahoo",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=5c9027df07eac96a339f66e0ef80e75d96c20b65f745856b832f981df5c043dc",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=3f29f4a8e47e56b8b65fa59f93c0d547273c599355ce71cce772745509015e37",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141056943",
+      "title": "Berkshire Stock Slips Despite UBS Raising Target to $877,848",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=80b9b0b9c3f218d7366c4280935d252eca9de54a6de8b0603f7a83c44fcb9510",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141056944",
+      "title": "Apple Stock Rises Near $5 Trillion Ahead of Five-Year Growth Test",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=f902f835a37c3fdd063f880b16e3e46bac923dbc3470248a84741d0491657b93",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141056192",
+      "title": "Explore the S&P500 index on Wednesday and find out which stocks are the most active in today's session.",
+      "source": "ChartMill",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=c766f88e616916fe8e40600df5afe7cbf8d7ee2d3376090d27e1bd4192e4fb2e",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141056945",
+      "title": "Better Buy Amid the Tech Crown Shift : Apple vs. Nvidia",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=d67077a64d61e214e5d9ac06ac546d35af90f8c2ed66e6fd422c8ada45aa969b",
       "tags": [
         "AAPL"
       ]

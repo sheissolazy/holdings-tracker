@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 197.01,
-  "change5dPct": -5.0,
-  "changeYtdPct": 2.3,
-  "marketCap": "$4.76T",
-  "pe": 29.4,
+  "price": 190.01,
+  "change5dPct": -10.4,
+  "changeYtdPct": -0.6,
+  "marketCap": "$4.77T",
+  "pe": 29.8,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-01-29",
-      "o": 191.34,
-      "h": 193.48,
-      "l": 186.06,
-      "c": 192.51
-    },
     {
       "t": "2026-01-30",
       "o": 191.21,
@@ -874,136 +867,143 @@
     },
     {
       "t": "2026-07-28",
-      "o": 194.95,
+      "o": 195.0,
       "h": 198.7,
       "l": 192.74,
       "c": 197.01
+    },
+    {
+      "t": "2026-07-29",
+      "o": 195.85,
+      "h": 197.07,
+      "l": 190.01,
+      "c": 190.01
     }
   ],
   "thesis": {
     "bull": [
-      "超大规模云厂商资本开支未见放缓迹象，NVDA被曝为OpenAI价值达2500亿美元的数据中心融资提供担保，德州还传出高达500亿美元的数据中心租约，显示下游需求仍在扩张",
-      "公司在生态与政策层面同步布局，黄仁勋首次公开发布关于开放模型的信件，同时NVDA以「Made in America」为主题强化本土制造叙事，获得白宫层面的正面关注，有助于降低关税与出口管制的政策风险",
-      "竞争格局中NVDA仍是标杆，AMD获Anthropic投资并签下2GW芯片大单，市场评论认为这是在复制NVDA与OpenAI等客户绑定的打法，侧面印证NVDA商业模式的稀缺性与先发优势"
+      "OpenAI据报道就俄亥俄州10GW数据中心项目寻求英伟达提供高达2500亿美元的融资担保，若落地将进一步锁定其GPU在超大规模AI基础设施中的核心供应地位，短中期订单能见度提升",
+      "黄仁勋公开表示AI算力需求可能需要现有电力供应的1000倍，凸显算力基础设施仍处于早期扩张阶段，工业与能源类合作伙伴（如电力、散热、封装设备商）需求外溢，反映下游资本开支意愿仍强",
+      "特朗普政府近期多次在社交媒体转发英伟达「美国本土制造」相关内容，释放出政策层面对英伟达在美产能建设的正面态度，叠加同期对中国人形机器人等产品的限制措施，显示监管环境总体向本土供应链倾斜"
     ],
     "bear": [
-      "AI资本开支的可持续性受到市场质疑，多篇报道提及「AI trade wobbles」「spending fears」，纳斯达克100指数一度进入回调区间，显示投资者对AI叙事的耐心正在下降",
-      "供应链与地缘政治风险集中爆发，中国存储芯片相关担忧导致逾万亿美元市值蒸发，SK海力士、美光等同板块个股大跌，NVDA在中国市场的敞口和出口管制不确定性仍是悬而未决的问题",
-      "大型科技信用风险指标发出警示，NVDA为OpenAI提供的2500亿美元融资担保被部分评论视为「对AI交易的又一次打击」，市场担心超大规模资本开支正从自有现金流转向表外担保与租赁等更高杠杆形式"
+      "市场对英伟达与OpenAI等下游客户之间的「循环融资」模式担忧升温——英伟达既是供应商又充当资金担保方，若下游客户现金流或商业模式出现问题，可能反噬英伟达自身的收入确认与资产负债表质量，已有评论文章专门讨论此类担忧",
+      "美东时间近期国会议员（如佩洛西）关于英伟达的持仓交易呈现「买入后又减持」的反复模式，交易本身不构成基本面信号，但反映出即便是信息相对灵通的机构与个人投资者对英伟达估值高位下的持续性也存在分歧",
+      "供应链层面出现摩擦信号：三星电子据报在大尺寸FC-BGA基板采购上遇阻，同时中国存储厂商长鑫存储（CXMT）等本土企业加快IPO与产能扩张，显示先进封装材料紧张与中国自主芯片供应链崛起可能在中长期对英伟达生态形成结构性挑战"
     ],
     "watch": [
-      "NVDA为OpenAI数据中心提供的2500亿美元融资担保的具体条款、会计处理方式及对资产负债表和信用评级的潜在影响",
-      "德州约500亿美元数据中心租约的落地进度，以及是否会有更多类似的长期算力承购协议出现",
-      "中美科技政策与关税动向，包括「Made in America」本土制造进展、对华出口管制变化，以及CXMT等中国存储厂商IPO对供应链格局的影响"
+      "美联储在近期议息会议后维持利率不变，市场焦点转向微软、Meta等超大规模云厂商即将公布的AI资本开支指引，这将直接影响市场对英伟达数据中心GPU需求持续性的判断",
+      "黄仁勋首次在X平台发布关于「开放模型」的公开信，需持续关注英伟达在开源与闭源大模型生态之间的定位变化，及其对生态锁定策略和硬件销售的潜在影响",
+      "市场对AI资本开支的态度出现从「无上限追加」向「要求企业资本纪律」的转变，需关注后续财报季中云厂商是否出现资本开支增速放缓或指引下修，这将是决定英伟达估值预期的关键变量"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA是全球领先的图形处理器与加速计算平台提供商，其GPU已成为生成式AI训练与推理的核心基础设施。公司业务已从传统游戏显卡扩展至数据中心、云计算、机器人及汽车等多个领域，数据中心业务目前是营收和利润的主要驱动力，客户涵盖各大云服务商、AI初创公司及主权云项目。"
+        "body": "英伟达（NVDA）是全球领先的图形处理器与AI计算平台供应商，业务已从传统游戏显卡扩展至数据中心GPU、AI训练与推理加速卡、网络互联（如InfiniBand/NVLink）以及机器人与自动驾驶芯片等领域。公司当前收入增长的核心驱动力是全球超大规模云厂商与主权AI项目对高性能GPU集群的持续采购，同时公司也在通过股权投资、产能担保、生态合作等方式深度绑定下游AI基础设施建设方，商业模式正从单纯的芯片销售向「算力平台+生态」演进"
       },
       {
-        "heading": "近期业务动态",
-        "body": "市场消息显示NVIDIA正就为OpenAI高达2500亿美元的数据中心建设提供融资担保进行商谈，涉及SoftBank旗下SB Energy在俄亥俄州开发的10吉瓦园区及OpenAI的长期租约安排。此外NVIDIA被曝在德州签下规模可达500亿美元的数据中心租约，显示公司正从单纯的芯片供应商向深度参与算力基础设施融资与建设的角色演变。"
+        "heading": "业务与生态护城河",
+        "body": "英伟达的核心壁垒在于CUDA软件生态与硬件迭代速度的组合，使其在AI训练与推理市场保持事实标准地位。黄仁勋近期首次在社交媒体发布关于开放模型的公开信，显示公司正在积极应对开源模型生态的崛起，试图在闭源生态优势之外，进一步巩固硬件层面的不可替代性。与此同时，公司通过参与OpenAI等大客户的数据中心融资与产能规划（如据报道涉及的俄亥俄州10GW项目），将自身与下游AI应用公司的成长深度捆绑，这既强化了订单可见度，也带来了客户集中度与关联交易层面的治理关注"
+      },
+      {
+        "heading": "财务与估值观察",
+        "body": "公开信息显示，市场对英伟达资本开支循环（英伟达为客户提供资金或担保、客户再采购英伟达硬件）的会计与现金流实质展开了讨论，有分析文章从正面角度将其类比为「银行式」商业模式的延伸，也有观点提示这种安排可能放大下游客户信用风险对英伟达自身报表的传导。此外，近期整体AI资本开支环境出现从「不计代价扩张」向「资本纪律」转变的迹象，投资者在等待微软、Meta等主要客户的最新资本开支指引，这将是检验英伟达增长持续性的重要窗口"
+      },
+      {
+        "heading": "多空分歧焦点",
+        "body": "多头逻辑集中在AI基础设施建设的长周期属性、电力与算力供给的结构性短缺（黄仁勋提及算力所需电力可能是当前的1000倍）、以及英伟达在生态与技术层面的领先优势尚未被明显削弱。空头或谨慎观点则聚焦于估值是否已充分计入未来数年的增长预期、循环融资安排的透明度与风险传导、以及中国本土芯片与存储供应链（如CXMT等企业）加速追赶可能带来的中长期份额与地缘政治不确定性。国会议员持仓交易的反复买卖也从侧面反映出专业投资者对当前位置的判断并不一致"
       },
       {
         "heading": "政策与地缘政治",
-        "body": "NVIDIA近期在政策叙事上颇为活跃，包括以「Made in America」为主题的本土制造宣传，并获得特朗普在社交媒体上的公开点名与正面评价，显示公司在争取政策友好度方面较为积极。与此同时，中国存储芯片相关消息引发市场对出口管制、供应链本地化及中美科技摩擦的持续担忧，CXMT等中国厂商的IPO也被视为本土供应链崛起的信号。"
+        "body": "美国政府近期持续释放对英伟达在美国本土建厂与投资的支持信号，同时对中国人形机器人等产品采取限制措施，显示美国在AI与先进制造领域的产业政策总体倾向于扶持本土供应链、限制对华技术外溢。这一政策组合对英伟达而言是双刃剑：一方面本土产能与政策支持可能带来订单与补贴层面的利好，另一方面中国市场准入限制以及对华出口管制的不确定性，仍是影响其中国区收入与长期市场份额的重要变量"
       },
       {
-        "heading": "多空观点",
-        "body": "多头观点认为，OpenAI、德州数据中心等大额协议表明AI基础设施投资周期尚未见顶，NVIDIA凭借生态与技术领先地位持续获取份额；空头观点则担忧，从直接销售转向提供融资担保等安排可能反映需求端资金压力和信用风险正在积累，叠加AI芯片股近期整体大幅回撤、纳斯达克100一度进入回调区间，显示市场对AI资本开支可持续性的分歧正在加大。"
-      },
-      {
-        "heading": "跟踪者动向",
-        "body": "公开披露显示，佩洛西在2025年末至2026年初多次交易NVDA，呈现新建仓与部分获利了结交替进行的模式，2025年同期也出现过类似的建仓后减持节奏，暗示部分知情投资者对短期波动保持谨慎但对长期趋势仍偏乐观。社交媒体层面，特朗普和多位市场评论者密集提及NVIDIA在美国制造、OpenAI融资及开放模型等议题上的动态，关注度持续处于高位。"
-      },
-      {
-        "heading": "风险与展望",
-        "body": "综合来看，NVIDIA当前面临的核心矛盾在于AI基础设施需求的长期强劲叙事与短期资本市场对高杠杆融资安排、供应链地缘政治及竞争格局变化的担忧之间的博弈。包括Coherent、Applied Optoelectronics、Lumentum、AMD、Marvell、Intel在内的相关产业链个股近期同步大幅下挫，反映市场情绪较为脆弱，后续需持续关注財报指引、融资担保条款细节及中美科技政策变化。"
+        "heading": "风险与后续催化剂",
+        "body": "需要重点关注的后续催化剂包括：微软、Meta等超大规模云厂商即将披露的资本开支指引及AI相关营收贡献、OpenAI相关数据中心融资安排的具体条款与实际落地进度、美联储货币政策路径对成长股整体估值的影响、以及英伟达在下一财季财报中对数据中心业务积压订单与毛利率的最新披露。风险端则包括供应链环节（先进封装基板供给）的潜在瓶颈、地缘政治与出口管制政策的进一步变化，以及市场对AI资本开支可持续性预期的任何下修"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "NVIDIA在数据中心GPU领域的主要竞争对手，近期获Anthropic投资并签下大额芯片采购协议，被视为复制NVDA与大型AI客户绑定的商业模式"
+        "note": "数据中心GPU与AI加速卡的主要竞争对手，是市场衡量英伟达生态护城河与定价权的重要参照"
       },
       {
         "ticker": "AVGO",
         "name": "Broadcom Inc.",
-        "note": "提供定制化AI芯片与网络互联方案，是超大规模厂商自研芯片趋势下NVIDIA潜在的份额分流者"
+        "note": "在定制化AI芯片（ASIC）与网络互联领域与英伟达形成部分竞争与合作关系，是超大规模客户自研芯片趋势的代表"
       },
       {
-        "ticker": "INTC",
-        "name": "Intel Corporation",
-        "note": "传统数据中心芯片厂商，近期股价持续走弱，在AI加速计算领域市场份额与NVIDIA差距明显"
+        "ticker": "TSM",
+        "name": "台湾积体电路制造",
+        "note": "英伟达先进制程芯片的核心代工厂，其产能与良率状况直接影响英伟达供应能力"
       },
       {
-        "ticker": "MU",
-        "name": "Micron Technology",
-        "note": "存储芯片龙头，受中国存储产能扩张及行业价格波动影响较大，可作为AI供应链上游景气度的参考指标"
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "在数据中心互联与定制硅方案上与英伟达存在竞合关系，近期扩大在印度的投资与产能布局，可作为AI基础设施需求外溢的观察对象"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-28T22:07:22.565722Z"
+    "generatedAt": "2026-07-29T22:04:28.347198Z"
   },
   "news": [
     {
-      "id": "NVDA-141046189",
-      "title": "AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears",
+      "id": "NVDA-141056946",
+      "title": "Even a Successful Starship Launch Wasn't Enough to Lift SpaceX Stock. Investors Are Still Worried About This 1 Thing",
       "source": "Yahoo",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=c70ae72f7f512ad8738cb2a3e40874f1e89ba2269c9f3a12af4f9266dfa6928e",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=f4df5318950a2dca8c549ef8f5f68f4148d6d8ecedcdbbca212ff03fe5783fb7",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141046190",
-      "title": "Super Micro Computer Booked More Than $60 Billion of Orders Last Quarter. The Entire Company Is Worth $19 Billion.",
+      "id": "NVDA-141056947",
+      "title": "Biogen Inc. Q2 2026 Earnings Call Summary",
       "source": "Yahoo",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=3099c69935587d6b3e23c96d6472c8511d67671b5e8fe5b68c18f4910b902bc1",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=b603a696c3ad32b26eea35e7acb3b9e37eb7f5a6acf4903dee490a13eb42463a",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141046191",
-      "title": "Why Intel Stock Just Fell Again",
+      "id": "NVDA-141056948",
+      "title": "Aon plc Q2 2026 Earnings Call Summary",
       "source": "Yahoo",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=9da2b3ec369a2f6ae282187d13b4bd0d190d5a8c2b247ea4c99634075829e71a",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=622bb6490bc52711a1d7af70bf45768e2fa507c201d82f9b03003e7666962b16",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141046192",
-      "title": "AMD Stock's Surge Was Already Visible In Its Own Earnings Calls",
+      "id": "NVDA-141056949",
+      "title": "Jensen Huang Says AI Needs \"1,000 Times More Power Than We Currently Have.\" These 3 Industrial Stocks Will Deliver It.",
       "source": "Yahoo",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=47f145e14e475b20ba39cac92e6795adc9046412a0cfc82b1029bef55aa6528c",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=7f471153800d56c6649261bbc0824879462e96db4fc1dab3235806a6df4db69a",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141046193",
-      "title": "Nvidia Reportedly Signs Up to $50 Billion Texas Data-Center Lease",
+      "id": "NVDA-141056950",
+      "title": "Anika Therapeutics, Inc. Q2 2026 Earnings Call Summary",
       "source": "Yahoo",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=effd67f156a29d983c9fbac85990b88ba53cce725f7f929b031d4dd8c6851adc",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=8450275b1049b512264ab2cc054323bdc6546328d4fe0a9755e4628f1efe126a",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141046194",
-      "title": "Big Tech Credit Risk Flashes Urgent Warning Over AI Spending",
+      "id": "NVDA-141056951",
+      "title": "Aston Martin’s Supercar Recovery Still Needs Fuel",
       "source": "Yahoo",
-      "publishedAt": "2026-07-28",
-      "url": "https://finnhub.io/api/news?id=8bf6d27af300c3586efa15b9e88dd200d26eb135c3afd6007bfc3e370b58a913",
+      "publishedAt": "2026-07-29",
+      "url": "https://finnhub.io/api/news?id=bf244a7fe5b48c366cbf4b301bb2e70761c35e3a827f6bfebe8722b99c69c266",
       "tags": [
         "NVDA"
       ]
