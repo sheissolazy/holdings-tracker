@@ -1,5 +1,17 @@
 [
   {
+    "ticker": "XIIIU",
+    "name": "Churchill Capital Corp XIII",
+    "date": "2026-07-31",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "APMD",
     "name": "Apnimed, Inc.",
     "date": "2026-07-31",
@@ -12,12 +24,24 @@
     "status": "expected"
   },
   {
+    "ticker": "THEOU",
+    "name": "BOA Acquisition Corp. II",
+    "date": "2026-07-31",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "JMKE",
     "name": "Jersey Mike's Subs Inc.",
     "date": "2026-07-30",
     "priceRange": [
-      21.0,
-      25.0
+      23.0,
+      23.0
     ],
     "sector": "—",
     "exchange": "NYSE",
@@ -29,7 +53,7 @@
     "date": "2026-07-30",
     "priceRange": [
       15.0,
-      17.0
+      15.0
     ],
     "sector": "—",
     "exchange": "NYSE",
@@ -42,6 +66,18 @@
     "priceRange": [
       0,
       0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Capital",
+    "status": "expected"
+  },
+  {
+    "ticker": "MOT",
+    "name": "MetaOptics Ltd",
+    "date": "2026-07-30",
+    "priceRange": [
+      5.0,
+      7.0
     ],
     "sector": "—",
     "exchange": "NASDAQ Capital",

@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 338.19,
-  "change5dPct": 3.8,
-  "changeYtdPct": 30.3,
-  "marketCap": "$4.99T",
-  "pe": 41.1,
+  "price": 333.43,
+  "change5dPct": 3.7,
+  "changeYtdPct": 23.5,
+  "marketCap": "$4.88T",
+  "pe": 39.9,
   "revenue": "—",
   "revenueYoYPct": 13,
   "prices": [
-    {
-      "t": "2026-01-30",
-      "o": 255.17,
-      "h": 261.9,
-      "l": 252.18,
-      "c": 259.48
-    },
     {
       "t": "2026-02-02",
       "o": 260.03,
@@ -874,131 +867,138 @@
     },
     {
       "t": "2026-07-29",
-      "o": 339.69,
+      "o": 339.73,
       "h": 344.57,
       "l": 337.35,
       "c": 338.19
+    },
+    {
+      "t": "2026-07-30",
+      "o": 333.13,
+      "h": 334.75,
+      "l": 329.59,
+      "c": 333.43
     }
   ],
   "thesis": {
     "bull": [
-      "苹果股价逼近5万亿美元市值关口，反映市场对其服务业务与生态壁垒的长期定价能力仍有信心",
-      "英伟达CEO黄仁勋公开表态引发市场对苹果AI布局的高预期，若苹果在设备端AI与Siri重构上有实质进展，可能成为下一轮估值催化剂",
-      "公司现金流生成能力强劲，具备持续回购与分红的财务弹性，为股价提供下行缓冲"
+      "英伟达CEO黄仁勋近期公开言论提振市场对苹果AI功能的期待，带动相关AI概念股买盘情绪升温",
+      "尽管Q3财报仅为符合预期，但公司硬件与服务双轮驱动的商业模式仍具备较强的现金流韧性和用户粘性",
+      "跟踪者动向中出现新建仓记录，显示部分知情投资者在近期回调后仍愿意介入布局"
     ],
     "bear": [
-      "据国会议员PTR披露记录，佩洛西家族账户在过去一年多次出现减持AAPL的交易（trim/exit），显示部分知情投资者对短期涨幅存疑",
-      "有分析认为苹果股价按现金流估值已高于合理水平，仅在盈利倍数上处于合理区间，上行空间可能受限",
-      "当前市场焦点已明显转向英伟达等AI基础设施类公司，苹果在生成式AI叙事中的直接受益路径不如芯片和云资本支出企业清晰，存在科技板块龙头地位被重新定价的风险"
+      "Q3财报显示服务与大中华区业务出现走弱迹象，财报公布后股价随即下跌，反映市场对增长动能的担忧",
+      "行业报道指出存储芯片供给紧张、价格上涨，苹果硬件成本端面临内存危机，容错空间有限，可能压缩硬件毛利率",
+      "跟踪者动向中同期也出现多笔减持交易，显示部分知情人士选择获利了结或降低仓位，多空信号并存"
     ],
     "watch": [
-      "微软、Meta等公司即将披露的AI资本开支指引，将影响市场对整体科技板块估值纪律的预期，间接影响苹果的相对估值",
-      "美联储维持利率不变后市场对流动性与折现率的进一步表态，高估值成长股对利率变化仍较敏感",
-      "苹果与英伟达之间的科技板块龙头地位轮动讨论持续发酵，需关注苹果是否在近期财报或产品发布中给出更清晰的AI变现路径"
+      "后续季度指引中服务业务与大中华区收入的边际变化，判断走弱是否持续",
+      "存储芯片涨价对硬件毛利率的实际传导幅度，以及公司是否通过提价或成本管理对冲",
+      "Apple Intelligence等AI功能是否能在下一轮硬件升级周期中转化为实际换机需求"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果公司（AAPL）作为全球市值最高的科技公司之一，近期股价持续走强，一度逼近5万亿美元市值。公司业务涵盖iPhone等硬件产品与快速增长的服务生态，长期以稳定现金流和品牌壁垒著称。市场目前正在观察其能否在新一轮以人工智能为核心的科技周期中保持增长动能，被部分媒体称为对其未来五年成长性的关键测试。"
+        "body": "苹果是全球市值最大的科技公司之一，业务涵盖iPhone、Mac、iPad等硬件产品，以及App Store、云服务、广告、金融等高毛利服务业务。公司凭借强大的品牌忠诚度和生态闭环，在消费电子行业维持领先地位，同时近年持续加码AI功能整合，以Apple Intelligence为代表的战略被市场视为下一轮增长看点。"
       },
       {
-        "heading": "财务与估值",
-        "body": "有独立研究观点指出，若以现金流折现方法衡量，苹果当前股价已显著高于其公允价值估计；而以盈利倍数衡量则更接近合理区间。这种估值方法之间的分歧本身反映出市场对苹果未来增长路径（尤其是AI相关收入贡献）存在不确定性，投资者需要关注公司后续财报中服务收入与毛利率的变化趋势，以判断当前估值的支撑力度。"
+        "heading": "基本面与财务",
+        "body": "近期公布的Q3业绩总体符合市场预期，但服务业务与大中华区市场表现偏弱，导致财报后股价出现回落。市场关注点已从单纯的硬件出货量转向服务业务增速的可持续性，以及区域市场（尤其中国）竞争加剧对整体营收结构的影响。"
       },
       {
         "heading": "行业与竞争格局",
-        "body": "近期科技板块的叙事重心明显向英伟达等AI基础设施与芯片类公司倾斜，市场上出现了关于苹果与英伟达谁是科技板块新龙头的讨论。英伟达CEO黄仁勋关于AI算力需求（包括对电力等基础设施需求大幅提升）的公开言论，一度带动包括苹果在内的AI相关标的走高，显示市场对苹果切入AI硬件与服务生态仍抱有期待，但这种期待尚未完全兑现为清晰的产品或收入指引。"
+        "body": "半导体与AI基础设施板块近期波动加剧，英伟达、微软、高通等相关公司股价表现分化，反映市场对AI需求持续性存在分歧。有分析认为AI芯片需求仍将持续超过供给至少到2028年，但也有声音提出AI叙事出现降温迹象。作为终端消费电子龙头，苹果的AI功能落地节奏和芯片供应链地位将直接影响其在此轮周期中的相对位置。"
       },
       {
-        "heading": "政策与宏观环境",
-        "body": "美联储近期维持利率不变，市场关注点随即转向包括微软、Meta在内的大型科技公司即将发布的AI资本开支指引，这将影响整体高估值成长股的风险偏好。此外，中东地区地缘政治紧张局势（如伊朗相关制裁、红海及地中海地区的袭击事件）持续存在，可能通过能源价格或全球供应链间接影响宏观风险情绪，但目前看与苹果基本面的直接关联有限。"
+        "heading": "跟踪者动向解读",
+        "body": "公开披露的国会议员交易记录显示，同一时期内既有新建仓也有多笔减持操作，方向并不一致，难以形成单一明确信号。此外市场人士对苹果AI功能寄予较高期望，相关言论一度带动AI概念股买盘，但这类表态更多反映预期情绪，而非可验证的业绩兑现。"
       },
       {
-        "heading": "跟踪者与市场情绪",
-        "body": "公开披露信息显示，前众议院议长佩洛西相关账户在过去数月的交易记录（PTR）中多次出现减持AAPL持仓的记录，同时也存在一笔新增多头记录，交易方向并不完全一致，反映出即便是长期知情投资者对苹果短期走势也存在分歧。与此同时，英伟达CEO的相关表态则被市场解读为对苹果AI前景的正面信号，多空情绪交织明显。"
+        "heading": "近期新闻与催化剂",
+        "body": "近期媒体报道聚焦于存储芯片供给紧张对苹果硬件成本的潜在冲击，认为公司在内存采购上容错空间有限；同时财报后services与中国区表现引发关注，股价出现应声下跌。此外，苹果的Upgrade Program等销售策略调整也被视为应对换机周期放缓的举措之一。"
       },
       {
         "heading": "风险与展望",
-        "body": "综合来看，苹果股价接近历史高位之际，市场对其估值合理性、AI变现路径清晰度以及相对英伟达等AI核心受益者的竞争地位均存在分歧。后续需重点关注公司财报中服务与新产品线的具体数据披露、同业资本开支指引变化，以及宏观利率与地缘政治环境对高估值成长股整体风险偏好的影响，任何一方面的超预期变化都可能成为股价波动的催化因素。"
+        "body": "综合来看，苹果面临的核心变量包括存储成本上涨对毛利率的挤压、中国市场竞争加剧、以及AI功能能否转化为实质性硬件升级需求。多空双方观点均有数据支撑，投资者需持续跟踪后续季度指引与供应链成本变化，而非依赖单一新闻或跟踪者动向做出判断。"
       }
     ],
     "comparables": [
       {
-        "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "当前AI基础设施叙事的核心受益者，与苹果被市场并列讨论科技板块龙头地位"
-      },
-      {
         "ticker": "MSFT",
-        "name": "微软",
-        "note": "即将披露的AI资本开支指引将影响市场对整体科技板块估值纪律的预期"
+        "name": "Microsoft Corporation",
+        "note": "同为AI基础设施与生态型科技巨头，近期因Azure业绩强劲而受到市场追捧，可作为AI叙事强弱的参照"
       },
       {
-        "ticker": "GOOGL",
-        "name": "谷歌母公司Alphabet",
-        "note": "同为消费电子与AI服务生态的主要竞争者，可作为服务收入增长对比参照"
+        "ticker": "QCOM",
+        "name": "Qualcomm Incorporated",
+        "note": "与苹果在移动芯片与终端市场存在竞合关系，近期因季度指引偏弱遭多家机构下调目标价"
+      },
+      {
+        "ticker": "TSM",
+        "name": "Taiwan Semiconductor Manufacturing",
+        "note": "苹果核心芯片代工厂，其先进制程与AI芯片布局动态直接影响苹果硬件成本与供应链稳定性"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-29T22:06:28.667766Z"
+    "generatedAt": "2026-07-30T22:12:25.487110Z"
   },
   "news": [
     {
-      "id": "AAPL-141056676",
-      "title": "Wednesday's session: top gainers and losers in the dow jones index",
+      "id": "AAPL-141070980",
+      "title": "Apple (NASDAQ:AAPL) Reports Inline Q3 Results but Stock Falls on Services and China Weakness",
       "source": "ChartMill",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=637a7a8fadaf10d44efb7c0c6bf9b51ef54f207f12d1a8f77ec01d29e4101ba3",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=e172ead5d19685d4bc0f8870af41882f238c3c3eb0465396004f19839e056c35",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141056942",
-      "title": "Apple (AAPL) Stock Looks Above Fair Value On Cash Flow, Near Fair Value On Earnings",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=3f29f4a8e47e56b8b65fa59f93c0d547273c599355ce71cce772745509015e37",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141056943",
-      "title": "Berkshire Stock Slips Despite UBS Raising Target to $877,848",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=80b9b0b9c3f218d7366c4280935d252eca9de54a6de8b0603f7a83c44fcb9510",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141056944",
-      "title": "Apple Stock Rises Near $5 Trillion Ahead of Five-Year Growth Test",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=f902f835a37c3fdd063f880b16e3e46bac923dbc3470248a84741d0491657b93",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141056192",
-      "title": "Explore the S&P500 index on Wednesday and find out which stocks are the most active in today's session.",
+      "id": "AAPL-141070794",
+      "title": "Which S&P500 stocks are moving after the closing bell on Thursday?",
       "source": "ChartMill",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=c766f88e616916fe8e40600df5afe7cbf8d7ee2d3376090d27e1bd4192e4fb2e",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=f8d1c849bf50f0e7ed2bab5907315b69ff748fb261be59d615f88c9467b4b9f8",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141056945",
-      "title": "Better Buy Amid the Tech Crown Shift : Apple vs. Nvidia",
+      "id": "AAPL-141069638",
+      "title": "Qualcomm Stock Falls 3.1% as Nine Analysts Cut Targets",
       "source": "Yahoo",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=d67077a64d61e214e5d9ac06ac546d35af90f8c2ed66e6fd422c8ada45aa969b",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=e1c7d8a7fc6fd751b07f462718ae57659785c173d63e31ff3bed538ab3e94387",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141069639",
+      "title": "Apple Stock Falls Nearly 2% Before Earnings as Upgrade Program Launches",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=663c65f9b8582a3c5c846df2fc678650ab0a3a13b2077ee251762f14783c4cbd",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141069640",
+      "title": "Update: US Equity Indexes Surge as Microsoft's Quarterly Results Spark Rebound in Chipmakers Ahead of Amazon's Earnings",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=07f17e8291bde75fab96197734478017eb8883f2fc904dd3bc27ba71ea6db44c",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141069641",
+      "title": "Qualcomm Stock Falls on Weak Q4 Outlook Despite Revenue Beat",
+      "source": "Yahoo",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=7ada1b6082688151c3ee9e34acdbeeeaa6ea0f22789316a5dc060eed39280d2a",
       "tags": [
         "AAPL"
       ]

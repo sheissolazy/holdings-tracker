@@ -3,21 +3,14 @@
   "name": "Marvell Technology",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 163.4,
-  "change5dPct": -22.6,
-  "changeYtdPct": 107.0,
-  "marketCap": "$152.8B",
-  "pe": 61.3,
+  "price": 183.3,
+  "change5dPct": -12.4,
+  "changeYtdPct": 133.0,
+  "marketCap": "$155.7B",
+  "pe": 61.6,
   "revenue": "—",
   "revenueYoYPct": 34,
   "prices": [
-    {
-      "t": "2026-01-30",
-      "o": 80.05,
-      "h": 81.7,
-      "l": 78.18,
-      "c": 78.92
-    },
     {
       "t": "2026-02-02",
       "o": 77.61,
@@ -874,131 +867,156 @@
     },
     {
       "t": "2026-07-29",
-      "o": 174.02,
+      "o": 174.03,
       "h": 177.8,
       "l": 162.9,
       "c": 163.4
+    },
+    {
+      "t": "2026-07-30",
+      "o": 178.38,
+      "h": 184.35,
+      "l": 175.16,
+      "c": 183.3
     }
   ],
   "thesis": {
     "bull": [
-      "英伟达CEO黄仁勋公开点名Marvell为下一个万亿美元市值公司，并计划成为其定制芯片重要客户，带来强背书效应与订单能见度提升",
-      "公司加码印度布局，宣布投资2.5亿美元并将当地员工规模翻倍，显示其在定制ASIC与数据中心互联业务上的产能与研发扩张信心",
-      "数据中心网络芯片、光互联及AI定制计算需求持续扩张，行业资本开支（微软、Meta等大厂AI capex）维持高位，为Marvell核心业务提供顺周期支撑"
+      {
+        "point": "英伟达CEO黄仁勋自2026年6月起多次公开将Marvell称为「下一个万亿美元公司」，并与其在定制芯片（ASIC/XPU）及网络互联领域达成合作，为公司带来强烈的市场认知度和潜在订单背书"
+      },
+      {
+        "point": "公司营业利润率持续攀升，即便股价从高点大幅回落，盈利质量的改善显示其数据中心定制硅芯片业务规模效应正在显现"
+      },
+      {
+        "point": "AI基础设施资本开支仍处于扩张周期，微软、亚马逊等云厂商维持高强度AI投入，Marvell作为定制芯片与高速互联的核心供应商之一，有望持续受益于超大规模客户的芯片定制化需求"
+      }
     ],
     "bear": [
-      "股价短期已累计上涨约129%，估值大幅抬升，若客户订单或量产进度不及预期，存在获利了结与估值回调风险",
-      "黄仁勋的「背书」更多是口头信号，并未消除公司在定制芯片项目上的执行风险、客户集中度风险及与英伟达自身产品线的潜在竞争关系",
-      "AI资本开支已出现「投资者要求企业展现更强纪律」的舆论转向，若头部云厂商未来收紧AI基础设施投资节奏，将直接影响Marvell的定制芯片及数据中心互连收入"
+      {
+        "point": "股价在此前129%的暴涨后已「远低于高点」，市场对其此前估值透支未来多年增长预期存在担忧，回调本身反映出多头信心并不稳固"
+      },
+      {
+        "point": "黄仁勋的言论被部分评论视为「70亿美元级别的背书未能消除Marvell自身的风险」，公司在定制芯片项目上的执行能力、客户集中度和订单可持续性仍待验证"
+      },
+      {
+        "point": "近期新闻显示芯片股整体出现剧烈波动，「AI叙事褪色」等报道反映市场对AI资本开支能否长期维持存在分歧，且Broadcom、AMD等在定制ASIC与加速计算领域的竞争持续加剧"
+      }
     ],
     "watch": [
-      "关注后续财报中数据中心/定制计算业务收入增速与毛利率变化，验证黄仁勋看好是否有实际订单数据支撑",
-      "关注微软、Meta等超大规模云厂商即将发布的AI资本开支指引，判断行业需求节奏是否会边际放缓",
-      "关注印度产能与团队扩张的落地进度及成本节奏，评估其对短期利润率的摊薄影响"
+      {
+        "point": "后续财报中营业利润率与数据中心/定制硅芯片业务收入占比的变化，验证黄仁勋背书是否能转化为实质业绩"
+      },
+      {
+        "point": "与英伟达及主要云厂商合作细节、订单规模和排他性条款是否进一步明朗化"
+      },
+      {
+        "point": "半导体板块整体资金流向和AI资本开支周期的持续性，包括存储芯片供需紧张（如「内存紧缩」报道）对上下游成本结构的影响"
+      }
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Marvell Technology是一家专注于数据基础设施半导体的公司，产品覆盖数据中心互联、定制ASIC计算芯片、网络交换及存储控制器等领域。近年公司战略重心转向为大型云厂商提供定制化AI计算与网络芯片，业务与全球AI基础设施资本开支周期高度绑定。"
+        "body": "Marvell Technology是一家专注于数据基础设施半导体的公司，产品覆盖数据中心互联芯片、定制化ASIC/XPU芯片以及网络交换解决方案。近年来公司战略重心转向为超大规模云厂商提供定制硅芯片设计服务，并借助与英伟达在网络互联和加速计算生态上的合作，成为AI基础设施供应链中的重要一环"
       },
       {
-        "heading": "近期动态",
-        "body": "英伟达CEO黄仁勋近期多次公开表态，称Marvell有望成为下一个万亿美元市值公司，相关言论在6月至7月持续被媒体报道并推动股价大幅上涨。与此同时，公司宣布将在印度投资2.5亿美元并计划把当地员工规模翻倍，显示其在国际化产能与人才布局上的加码动作。"
+        "heading": "股价与叙事驱动",
+        "body": "2026年6月以来，英伟达CEO黄仁勋多次在公开场合将Marvell称为「下一个万亿美元公司」，相关言论一度推动股价出现129%级别的大幅上涨。随后市场消息显示股价已从高点明显回落，但公司营业利润率仍保持上升趋势，形成「叙事驱动上涨、基本面缓慢跟进」的分化格局"
       },
       {
         "heading": "多空分歧",
-        "body": "多头观点认为，英伟达的公开背书代表潜在的重要合作或采购关系，叠加AI数据中心资本开支维持高位，Marvell的定制芯片与互联业务具备中长期成长空间；空头观点则担忧，股价已提前计入过多乐观预期，「背书」本身不等于确定性订单，且存在客户集中、竞争加剧及AI资本开支边际放缓的风险，市场情绪与基本面之间可能出现落差。"
+        "body": "多头逻辑聚焦于Marvell在AI定制芯片浪潮中的稀缺卡位以及与英伟达生态的绑定关系，认为其营业利润率改善验证了商业模式的可持续性。空头则认为股价此前涨幅已过度计入乐观预期，黄仁勋的「背书」本质上是营销叙事而非订单确定性，且公司仍需证明其在客户多元化、项目执行和长期竞争力上的能力"
       },
       {
-        "heading": "行业与宏观背景",
-        "body": "当前市场正密切关注美联储议息结果及微软、Meta等公司即将披露的AI资本开支指引，这将直接影响半导体与数据中心产业链的需求预期。同时，行业内也出现「投资者要求企业在AI投入上展现更强纪律」的声音，说明市场对无节制资本开支的容忍度正在下降，这对包括Marvell在内的AI硬件供应链构成一定的预期管理压力。"
+        "heading": "财务与估值",
+        "body": "由于Marvell股价在短期内经历剧烈波动（大涨后又「远低于高点」），估值弹性较大，市场对其静态与前瞻估值倍数的分歧明显。营业利润率的持续攀升是当前少数被广泛认可的正面财务信号，但收入增速、自由现金流质量及研发投入回报周期仍是评估其合理估值的关键变量"
       },
       {
-        "heading": "估值与预期管理",
-        "body": "在股价短期大幅拉升之后，市场对Marvell的预期已明显抬高，任何未能兑现「万亿美元叙事」的财报或订单信号都可能引发较大波动。投资者需要将黄仁勋等第三方的正面评价与公司实际收入、毛利率及客户结构等硬数据区分开来看待。"
+        "heading": "风险因素",
+        "body": "主要风险包括：一是AI资本开支周期性回落的宏观风险，近期已有「AI叙事褪色」等市场评论；二是定制ASIC业务对少数大型云厂商客户的依赖度较高，订单波动可能显著影响业绩；三是行业竞争加剧，Broadcom、AMD等公司在定制加速计算及网络芯片领域均在积极布局，可能压缩Marvell的市场份额与议价能力"
       },
       {
-        "heading": "风险提示",
-        "body": "主要风险包括：定制芯片项目执行不及预期、核心云厂商资本开支放缓或转向自研、与英伟达等供应商/客户关系的潜在利益冲突、印度等新增产能投资对短期利润率的压制，以及行业整体因宏观流动性或地缘政治因素引发的估值波动。"
+        "heading": "后续关注点",
+        "body": "投资者可持续关注公司下一季度财报中定制芯片业务收入占比与毛利率变化、与英伟达及云厂商合作的具体进展披露、行业存储与先进封装产能瓶颈对成本端的传导，以及整体半导体板块在AI资本开支预期反复下的资金轮动情况"
       }
     ],
     "comparables": [
       {
-        "ticker": "NVDA",
-        "name": "NVIDIA Corporation",
-        "note": "AI计算芯片龙头，与Marvell存在潜在合作与竞争的双重关系，其资本开支及产品路线图对Marvell业务有直接影响"
-      },
-      {
         "ticker": "AVGO",
-        "name": "Broadcom Inc.",
-        "note": "同为大型云厂商定制ASIC与网络芯片主要供应商，是Marvell在定制计算与数据中心互联领域最直接的竞争对手"
+        "name": "Broadcom",
+        "note": "定制ASIC与网络芯片领域的主要竞争对手，在超大规模云厂商定制硅芯片市场占据领先地位"
       },
       {
-        "ticker": "TER",
-        "name": "Teradyne Inc.",
-        "note": "半导体测试设备厂商，近期财报显示AI相关需求「稳健」且看好增长延续至2027年，可作为AI硬件供应链景气度的参考指标"
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "note": "Marvell在AI网络互联与加速计算生态上的合作伙伴，也是行业景气度的风向标"
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices",
+        "note": "在数据中心加速计算与定制解决方案上与Marvell存在部分竞争重叠"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-29T22:05:02.978260Z"
+    "generatedAt": "2026-07-30T22:09:54.470160Z"
   },
   "news": [
     {
-      "id": "MRVL-141054206",
-      "title": "Marvell Is Making a Bigger Bet on India",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=77361da2bd6dc4ecde07212a0dc5ff5db671858cb5ffadf75fd93023cda5b676",
+      "id": "MRVL-141070794",
+      "title": "Which S&P500 stocks are moving after the closing bell on Thursday?",
+      "source": "ChartMill",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=f8d1c849bf50f0e7ed2bab5907315b69ff748fb261be59d615f88c9467b4b9f8",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-141052884",
-      "title": "What Could Push NVDA Stock Higher From Here?",
+      "id": "MRVL-141069674",
+      "title": "Marvell Stock Sits Far Below Its High, But Its Operating Margin Has Kept Climbing",
       "source": "Yahoo",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=40c6d42a8484897f3aa6dfecb0702143b5c355b3d657e62747d77fec2faef41d",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=a526f786bf2417212b4e947113a5fdf7222627ff3f47eee5055b3a5e60b9acd8",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-141054207",
-      "title": "Here is What to Know Beyond Why Marvell Technology, Inc. (MRVL) is a Trending Stock",
+      "id": "MRVL-141068164",
+      "title": "Prediction: Where Will Rambus End The Year?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=4c961297a67a766e92d70a29cd2b6998258478361c03f3cc6da49ca04b7b8636",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=70b4ab2cc8ee1283359c0bd8ff55332780f945cad7357a21d3bcdc6cc9852e3d",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-141052904",
-      "title": "Nvidia: Stop Worrying About Circular Financing and Embrace the Bank",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=09f100d0d1c46893bc516e5aeeec0862acbb566ce16f00774709de3dca2a0348",
+      "id": "MRVL-141069334",
+      "title": "AI Narrative Fading: By The Numbers",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=52c7e865c83c7b19d095b3b52722f085de455755028da33ce336c68118aaec06",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-141052183",
-      "title": "TER Stock Gains After Q2 Beat – CEO Says AI Demand Remains 'Robust,' Sees Growth Extending Into 2027",
+      "id": "MRVL-141066585",
+      "title": "Nvidia is Tanking Below $190: One Wall Street Pro Sees 165% Gains From Here",
       "source": "Yahoo",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=58a0a0e6764b52cb22d8db6a8ac764607f471a44539157187d0c43344f9a98d8",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=a33ce8e889b27ae6c28fb95aa132204b1b552420b75e684d6b169097cfb6b773",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-141052184",
-      "title": "Marvell Technology to invest $250 million in India, double headcount",
+      "id": "MRVL-141066817",
+      "title": "Why Investors Are Getting More Bullish on Marvell Technology (MRVL)",
       "source": "Yahoo",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=f599c75efa587848a6792d5dddb2a54d129fd445e20f20a6f85e617befbcfb83",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=76d0e566fd21438dc0e8e78c3105a3a0d58da939e923b7b411b6c4db68f4f7f0",
       "tags": [
         "MRVL"
       ]

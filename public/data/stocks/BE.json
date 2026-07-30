@@ -3,21 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 163.75,
-  "change5dPct": -25.0,
-  "changeYtdPct": 8.2,
-  "marketCap": "$47.5B",
-  "pe": 7985.1,
+  "price": 207.12,
+  "change5dPct": -4.7,
+  "changeYtdPct": 32.7,
+  "marketCap": "$60.4B",
+  "pe": 7783.2,
   "revenue": "—",
   "revenueYoYPct": 57,
   "prices": [
-    {
-      "t": "2026-01-30",
-      "o": 156.4,
-      "h": 161.8,
-      "l": 146.55,
-      "c": 151.37
-    },
     {
       "t": "2026-02-02",
       "o": 151.0,
@@ -878,117 +871,139 @@
       "h": 185.66,
       "l": 157.33,
       "c": 163.75
+    },
+    {
+      "t": "2026-07-30",
+      "o": 186.25,
+      "h": 215.74,
+      "l": 186.01,
+      "c": 207.12
     }
   ],
   "thesis": {
     "bull": [
-      "2026年第二季度营收同比增长约166%，同时毛利率与营业利润率同步扩张，管理层上调了2026全年业绩指引，显示订单转化为收入的速度和生产效率均在改善",
-      "AI数据中心用电需求爆发式增长，电网互联排队周期长达数年，Bloom的固体氧化物燃料电池可在数月内实现现场部署，形成对传统电网连接方案的错位竞争优势",
-      "与大型云计算与算力基础设施客户的合作持续扩大，产能扩张计划推进，订单积压（backlog）可见度提升，为未来多个季度的收入增长提供支撑"
+      "2026年第二季度业绩超预期，营收同比增长约166%，毛利率同步扩张，管理层同时上调了2026财年全年业绩指引，显示订单能见度和产能利用率齐升",
+      "AI数据中心对分布式发电和电力保障的需求快速上升，Bloom的固体氧化物燃料电池可绕开电网并网排队问题快速部署，公司在这一主题下重获机构关注，近期获Mizuho上调评级",
+      "7月末在业绩公布后单日暴涨逾23%，与NBIS、IREN、SNDK等高波动个股同步反弹，部分卖方观点认为此前的深度回撤更多源于对冲基金去杠杆的流动性冲击而非基本面恶化，属于超调后修复"
     ],
     "bear": [
-      "财报大涨后股价已计入较高的乐观预期，估值处于历史高位，若后续季度订单节奏或毛利率扩张不及市场预期，存在较大回调风险",
-      "公司产品目前仍主要以天然气作为燃料来源，在强调净零排放和电网清洁化的长期叙事下，其绿色属性和政策补贴地位存在争议，监管与税收抵免政策变化会直接影响项目经济性",
-      "历史上公司资本开支强度高、自由现金流为负，规模扩张是否能伴随财务纪律改善并实现现金流转正，仍需要更多季度数据验证，市场对其可持续盈利能力仍有分歧"
+      "Hunterbrook Capital/Hunterbrook Media发布做空报告，标题直指「Bloom的燃料电池是否如宣传般工作，数据显示否」，质疑公司披露的发电效率与实际运行数据存在差异，若指控被证实可能损害公司信誉并引发监管关注",
+      "公司股价近期波动剧烈，7月经历深度回撤后又单日反弹超20%，显示市场对其估值和基本面存在巨大分歧，短期股价与情绪面、宏观流动性高度绑定而非单纯反映公司业务进展",
+      "燃料电池行业历史上长期依赖政策补贴和大额资本开支，Bloom能否在AI数据中心电力这一新叙事下持续兑现盈利能力和自由现金流改善，仍需更多季度数据验证"
     ],
     "watch": [
-      "后续季度新增订单与in-service容量数据，尤其是来自数据中心、算力及公用事业客户的大额合同细节和交付节奏",
-      "利率环境与信贷条件变化对公司融资成本、项目融资安排（如与金融机构的杠杆租赁结构）的影响",
-      "美国相关税收抵免政策（如IRA下的投资税收抵免）、天然气价格走势以及电网互联审批速度是否出现实质性加快，这些都会影响分布式发电的相对经济性"
+      "是否有独立第三方或其他机构对Hunterbrook报告中的效率数据提出验证或反驳，这将直接影响市场对公司披露数据可信度的判断",
+      "公司及卖方分析师对2026年全年指引的进一步细化，尤其是与数据中心/AI电力合作相关的新增订单和产能扩张披露",
+      "大盘及AI板块整体去杠杆的持续时间与美联储政策路径，这类宏观因素在7月已一度主导BE等高波动个股的短期走势，需关注是否重演"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy是固体氧化物燃料电池（SOFC）发电系统制造商，产品可在现场将天然气或氢气转化为电力，主要面向数据中心、制造业、医疗机构及公用事业客户，核心卖点是部署速度快、可绕开电网排队瓶颈，并具备一定的模块化扩容能力"
+        "body": "Bloom Energy是一家专注于固体氧化物燃料电池技术的美国能源公司，核心产品Bloom Energy Server可为数据中心、工业设施等提供现场发电。近年来受益于AI算力扩张带来的电力短缺问题，公司业务重心逐步从传统企业客户扩展至超大规模数据中心运营商，电力可靠性和快速部署能力成为其核心卖点"
       },
       {
-        "heading": "业务驱动因素",
-        "body": "AI算力扩张带来的数据中心用电需求是当前最主要的增长驱动，电网新建产能与输配电基础设施建设周期普遍长达数年，而Bloom的产品可在数月内完成安装并并网供电，这一时间差是其近期订单和股价表现的核心逻辑，市场也在关注其能否将这一叙事转化为持续的合同签约"
+        "heading": "近期业绩与增长驱动",
+        "body": "公司最新季度业绩显示营收同比增长约166%，毛利率同步扩张，管理层同时上调了2026财年业绩指引。这一表现被部分卖方视为AI基础设施电力需求兑现的重要信号，推动机构评级上调，例如Mizuho近期给予上调"
       },
       {
-        "heading": "财务与估值",
-        "body": "公司在最新季度实现了收入同比大幅增长并伴随利润率扩张，管理层上调了全年指引，这被部分卖方视为空头论点被证伪的信号，但股价对利好已有较充分反应，估值隐含了未来数年高增长的持续性，任何订单或毛利率的边际放缓都可能引发估值重新定价"
+        "heading": "做空报告与争议",
+        "body": "Hunterbrook发布做空报告，质疑公司披露的燃料电池发电效率与实际运行数据存在差异。尽管股价在报告发布后并未大幅下挫，反而在业绩公布后走强，但该报告提出的数据真实性问题仍是需要持续跟踪的风险点，其结论尚未获得独立第三方证实或证伪"
       },
       {
-        "heading": "竞争格局",
-        "body": "在分布式发电和现场供电赛道，Bloom面临来自天然气涡轮机厂商、其他燃料电池公司以及电池储能系统供应商的多方竞争，同时传统公用事业和独立发电商也在加速产能建设以应对数据中心用电缺口，行业格局仍在快速演变中，尚未形成稳定的份额格局"
+        "heading": "股价与市场情绪",
+        "body": "7月下旬BE经历了剧烈的多空拉锯，先随AI相关高波动个股一同大幅回撤，随后在单个交易日内上涨超过23%，与NBIS、IREN、SNDK等股票同步反弹。多位社交媒体评论者将此解读为对冲基金去杠杆造成的超调后修复，而非基本面驱动，显示当前股价对宏观流动性和市场情绪高度敏感"
       },
       {
-        "heading": "风险因素",
-        "body": "主要风险包括宏观利率与信贷环境变化对资本密集型业务融资成本的影响、天然气价格波动对项目经济性的影响、监管与税收抵免政策的不确定性，以及公司自身现金流状况和资本开支强度能否随规模扩张而改善"
+        "heading": "估值与同业比较",
+        "body": "在AI数据中心电力这一主题下，市场将Bloom与其他分布式发电、燃料电池及电力设备公司相提并论。相较于传统公用事业股，Bloom的估值隐含了更高的增长预期，但也伴随更大的执行风险和技术验证不确定性，波动率明显高于大盘公用事业板块"
       },
       {
-        "heading": "后市关注点",
-        "body": "投资者和分析师后续将重点关注新增订单与在运营容量数据的披露节奏、大型科技与算力客户合同的具体条款、下一财季毛利率趋势是否延续本季度的扩张态势，以及联储利率路径和相关财政政策对分布式能源资本开支的传导效应"
+        "heading": "风险与展望",
+        "body": "主要风险包括做空报告引发的信任危机、宏观流动性冲击导致的股价大幅波动，以及燃料电池行业历史上对政策补贴的依赖。乐观情景下，若AI数据中心电力需求持续兑现且效率质疑被证伪，公司有望维持高速增长；悲观情景下，数据真实性问题或宏观去杠杆反复，可能令股价维持高波动区间，投资者需持续跟踪指引兑现情况和独立核查结果"
       }
     ],
     "comparables": [
       {
-        "ticker": "PLQ",
-        "name": "占位",
-        "note": "占位"
+        "ticker": "PLUG",
+        "name": "Plug Power",
+        "note": "氢燃料电池与电解槽厂商，同属清洁能源发电设备板块，但业务模式和资产负债表健康度与Bloom差异较大"
+      },
+      {
+        "ticker": "FCEL",
+        "name": "FuelCell Energy",
+        "note": "另一家固体氧化物/熔融碳酸盐燃料电池公司，规模远小于Bloom，可作为技术路线和商业化进度的对比标的"
+      },
+      {
+        "ticker": "GEV",
+        "name": "GE Vernova",
+        "note": "电力设备与电网解决方案龙头，是数据中心电力需求主题下体量更大的对比标的"
+      },
+      {
+        "ticker": "CEG",
+        "name": "Constellation Energy",
+        "note": "核电及清洁电力运营商，同样受益于AI数据中心用电需求增长的叙事，可作为电力供给端另一路径的对比"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-29T22:05:48.722591Z"
+    "generatedAt": "2026-07-30T22:10:51.121601Z"
   },
   "news": [
     {
-      "id": "BE-141057857",
-      "title": "Bloom Energy Just Proved Bears Wrong",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=4b33757be528933a898fe25b4e2606f061f805f4d975167cef60528a2ec43b51",
+      "id": "BE-141067462",
+      "title": "Mizuho Upgrades Bloom Energy (BE)",
+      "source": "Fintel",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=6662fbe817e78783ee5373cff1fdd2b37600675138bc007a4e2ba25271a318c3",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-141055471",
-      "title": "Trump Bans Chinese Humanoid Robots; Micron Competitor SK Hynix Creates Volatility; Fed Decision Looms",
+      "id": "BE-141069984",
+      "title": "Bloom Energy's Monster Sell-Off Is A Buying Opportunity (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=b81e7c4f84ebb7b2308d7207ecb4feabf4c6f421d80bf61038a9c1a34c98a6be",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-141069554",
+      "title": "Jim Cramer Calls Hedge Fund Blowup a 'Clearing Event' that May Mark the Bottom",
       "source": "Benzinga",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=12e945e6760a451ecbccd9d28473274f9db3c51997ac242c33f626c6c340623b",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=82cdc56ae90cb599be7e5610f4f767b359f7f25e14ab87ea2c7c45d0fe81932b",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-141053664",
-      "title": "Bloom Energy: Strong Q2 2026 Suggests The Recent Sell-Off Went Too Far",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=474a899cfc7d331336a648d8e81da9775e36550ed9c9c66cfd250b2922018d1f",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-141052795",
-      "title": "Nebius: PaaS Power Over Agentic Bleed",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=a440df742cd566e6ab83f9cf987b7f91a8361c0bf1ab23c4f52d3a49bc13be06",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-141052535",
-      "title": "Bloom Energy: Q2 Earnings Soften My Bear View (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=23889c4034dc4dbffebff7d45e6b026689d8d8c17090dc5044ead8ba8fa9a251",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-141054492",
-      "title": "Stock Market Today: Dow Futures Slip, S&P 500, Nasdaq 100 Rise as Investors Await Federal Reserve's Decision On Interest Rates—Ford, Bloom, Microsoft in Focus (UPDATED)",
+      "id": "BE-141069245",
+      "title": "Bloom Energy Shares Shrug Off Hunterbrook Short Report After Record Q2",
       "source": "Benzinga",
-      "publishedAt": "2026-07-29",
-      "url": "https://finnhub.io/api/news?id=dd47ba959898f5598870524097047fa10c26020c5e28a7c75de4c7785956392a",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=7fecd725431357f4b49cb90dd4ce070e6628d260ae437bff1e2bfbd3bfdb06d1",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-141069246",
+      "title": "Watching Bloom Energy; Hunterbrook Media Issues Report On The Co Titled \"Do Bloom's Fuel Cells Work as Claimed? Data Says No\", States Hunterbrook Capital Is Short",
+      "source": "Benzinga",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=2d159109737786eec5b338d95bcda9b8bd9a785e0de08e755f72d67dc1cbc7a7",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-141068906",
+      "title": "10 Industrials Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
+      "publishedAt": "2026-07-30",
+      "url": "https://finnhub.io/api/news?id=ffc77e3fde65e6fe95daf010369150fffa174e2b209fef076e44886c3f890ca4",
       "tags": [
         "BE"
       ]
