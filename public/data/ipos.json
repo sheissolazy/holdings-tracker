@@ -1,5 +1,41 @@
 [
   {
+    "ticker": "BRVE",
+    "name": "Braveheart Bio, Inc.",
+    "date": "2026-08-06",
+    "priceRange": [
+      15.0,
+      17.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
+    "ticker": "OCLT",
+    "name": "OceanLight Acquisition Corp",
+    "date": "2026-08-06",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
+    "ticker": "ATTO",
+    "name": "Attovia Therapeutics, Inc.",
+    "date": "2026-08-05",
+    "priceRange": [
+      15.0,
+      17.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "XIIIU",
     "name": "Churchill Capital Corp XIII",
     "date": "2026-07-31",
@@ -16,7 +52,7 @@
     "name": "Apnimed, Inc.",
     "date": "2026-07-31",
     "priceRange": [
-      14.0,
+      16.0,
       16.0
     ],
     "sector": "—",
@@ -24,57 +60,9 @@
     "status": "expected"
   },
   {
-    "ticker": "THEOU",
-    "name": "BOA Acquisition Corp. II",
-    "date": "2026-07-31",
-    "priceRange": [
-      10.0,
-      10.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global",
-    "status": "expected"
-  },
-  {
-    "ticker": "JMKE",
-    "name": "Jersey Mike's Subs Inc.",
-    "date": "2026-07-30",
-    "priceRange": [
-      23.0,
-      23.0
-    ],
-    "sector": "—",
-    "exchange": "NYSE",
-    "status": "expected"
-  },
-  {
-    "ticker": "REF",
-    "name": "Reformation Inc.",
-    "date": "2026-07-30",
-    "priceRange": [
-      15.0,
-      15.0
-    ],
-    "sector": "—",
-    "exchange": "NYSE",
-    "status": "expected"
-  },
-  {
-    "ticker": "GYGY",
-    "name": "Game Your Game Inc.",
-    "date": "2026-07-30",
-    "priceRange": [
-      0,
-      0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Capital",
-    "status": "expected"
-  },
-  {
     "ticker": "MOT",
     "name": "MetaOptics Ltd",
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "priceRange": [
       5.0,
       7.0
@@ -86,7 +74,19 @@
   {
     "ticker": "EWAVU",
     "name": "East West Ave Acquisition Corp.",
-    "date": "2026-07-30",
+    "date": "2026-07-31",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
+    "ticker": "THEOU",
+    "name": "BOA Acquisition Corp. II",
+    "date": "2026-07-31",
     "priceRange": [
       10.0,
       10.0

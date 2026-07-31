@@ -363,16 +363,218 @@
     "topics": []
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-07-27",
+    "asOf": "2026-07-31",
     "sentiment": "watch",
-    "excerpt": "John Thune should not allow the United States Senate to “leave town” until it passes The Save America Act or, far better still, TERMINATES THE FILIBUSTER, where Republicans can then quickly pass everything they ever dreamed of, including a ",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/116992066632190700",
+    "excerpt": "Nigeria alone had 4 million more births than the entire EU last year! https://t.co/CuQ3B8YHks",
+    "postUrl": "https://x.com/elonmusk/status/2083304103799664685",
     "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "As a earnings recap: $AMZN, $META, $GOOGL, and $MSFT guided a 2026 combined capex forecast to ~$720-$745 Billion.\n\nUp from $695-$725B Billion previously.\n\nAmazon: $220B\nGoogle: $195B-$205B\nMeta: $130B-$145B\nMicrosoft: $175B\n\nWe've already s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083270545320386734",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "As a earnings recap: $AMZN, $META, $GOOGL, and $MSFT guided a 2026 combined capex forecast to ~$720-$745 Billion.\n\nUp from $695-$725B Billion previously.\n\nAmazon: $220B\nGoogle: $195B-$205B\nMeta: $130B-$145B\nMicrosoft: $175B\n\nWe've already s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083270545320386734",
+    "ticker": "AMZN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "As a earnings recap: $AMZN, $META, $GOOGL, and $MSFT guided a 2026 combined capex forecast to ~$720-$745 Billion.\n\nUp from $695-$725B Billion previously.\n\nAmazon: $220B\nGoogle: $195B-$205B\nMeta: $130B-$145B\nMicrosoft: $175B\n\nWe've already s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083270545320386734",
+    "ticker": "GOOGL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "As a earnings recap: $AMZN, $META, $GOOGL, and $MSFT guided a 2026 combined capex forecast to ~$720-$745 Billion.\n\nUp from $695-$725B Billion previously.\n\nAmazon: $220B\nGoogle: $195B-$205B\nMeta: $130B-$145B\nMicrosoft: $175B\n\nWe've already s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083270545320386734",
+    "ticker": "META",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "$RDDT ER in a nutshell:\n\nRevenue: $804.9M vs. $730.4M (expected).\nEPS: $1.25 vs. ~$0.95.\nNet income: $252.8M vs. $196.5M\n\nQ3 guidance:\nRevenue: $860–870M vs. 829.1M\nAdjusted EBITDA: $385-395M vs. $369M\n\nBlowout financials, market always lik",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083225872207937687",
+    "ticker": "RDDT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "Just a TLDR of this week:\n\nMedia: Hyperscalers overbuilt and are selling excess compute.\n-> $GOOGL, $MSFT, $META, and $AMZN: Demand for compute far exceeds capacity. Capex go brrr.\n\nInstitutions: Emergency rate hike or 3x rate hikes, it's a",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083133191112843575",
+    "ticker": "AMZN",
     "topics": [
-      "财政/税收"
+      "美联储/利率"
     ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "Just a TLDR of this week:\n\nMedia: Hyperscalers overbuilt and are selling excess compute.\n-> $GOOGL, $MSFT, $META, and $AMZN: Demand for compute far exceeds capacity. Capex go brrr.\n\nInstitutions: Emergency rate hike or 3x rate hikes, it's a",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083133191112843575",
+    "ticker": "GOOGL",
+    "topics": [
+      "美联储/利率"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "Just a TLDR of this week:\n\nMedia: Hyperscalers overbuilt and are selling excess compute.\n-> $GOOGL, $MSFT, $META, and $AMZN: Demand for compute far exceeds capacity. Capex go brrr.\n\nInstitutions: Emergency rate hike or 3x rate hikes, it's a",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083133191112843575",
+    "ticker": "META",
+    "topics": [
+      "美联储/利率"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "Just a TLDR of this week:\n\nMedia: Hyperscalers overbuilt and are selling excess compute.\n-> $GOOGL, $MSFT, $META, and $AMZN: Demand for compute far exceeds capacity. Capex go brrr.\n\nInstitutions: Emergency rate hike or 3x rate hikes, it's a",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083133191112843575",
+    "ticker": "MSFT",
+    "topics": [
+      "美联储/利率"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. \n\nOriginally the wording was \"readiness\" for EOY 2026. \n\nBut $POET upgraded that wording, by stating \"production\" with",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083114743729107236",
+    "ticker": "JBL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. \n\nOriginally the wording was \"readiness\" for EOY 2026. \n\nBut $POET upgraded that wording, by stating \"production\" with",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083114743729107236",
+    "ticker": "POET",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "Now that I think of it more, $POET optical interposer piece is actually a little more material than I thought with $SIVE. \n\nOriginally the wording was \"readiness\" for EOY 2026. \n\nBut $POET upgraded that wording, by stating \"production\" with",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083114743729107236",
+    "ticker": "SIVE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "For $XFAB ER transcript:  \n\nJust to recap, my idea on $XFAB foundry growth opportunities stemmed from SiC for 800v and photonixfab/MTP for CPO applicability.   \n\n- $XFAB: \"We are making progress in co-packaged optics\".  \n\n- \"The transition ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083106805949878330",
+    "ticker": "NVTS",
+    "topics": [
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "For $XFAB ER transcript:  \n\nJust to recap, my idea on $XFAB foundry growth opportunities stemmed from SiC for 800v and photonixfab/MTP for CPO applicability.   \n\n- $XFAB: \"We are making progress in co-packaged optics\".  \n\n- \"The transition ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083106805949878330",
+    "ticker": "POWI",
+    "topics": [
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "For $XFAB ER transcript:  \n\nJust to recap, my idea on $XFAB foundry growth opportunities stemmed from SiC for 800v and photonixfab/MTP for CPO applicability.   \n\n- $XFAB: \"We are making progress in co-packaged optics\".  \n\n- \"The transition ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083106805949878330",
+    "ticker": "XFAB",
+    "topics": [
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "Few earnings TLDRs with my favorite $AXTI and $AMZN:\n\nAmazon:\n- Raised 2026 capex to $220B vs. prior $200B (partly due to higher memory costs, which is bullish on $MU to Samsung) \n- Even at $220B, Amazon will not have enough capacity to mee",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083088870942642391",
+    "ticker": "AMZN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "Few earnings TLDRs with my favorite $AXTI and $AMZN:\n\nAmazon:\n- Raised 2026 capex to $220B vs. prior $200B (partly due to higher memory costs, which is bullish on $MU to Samsung) \n- Even at $220B, Amazon will not have enough capacity to mee",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083088870942642391",
+    "ticker": "AXTI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "Few earnings TLDRs with my favorite $AXTI and $AMZN:\n\nAmazon:\n- Raised 2026 capex to $220B vs. prior $200B (partly due to higher memory costs, which is bullish on $MU to Samsung) \n- Even at $220B, Amazon will not have enough capacity to mee",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083088870942642391",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "Few earnings TLDRs with my favorite $AXTI and $AMZN:\n\nAmazon:\n- Raised 2026 capex to $220B vs. prior $200B (partly due to higher memory costs, which is bullish on $MU to Samsung) \n- Even at $220B, Amazon will not have enough capacity to mee",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083088870942642391",
+    "ticker": "GOOGL",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -737,106 +939,6 @@
     "topics": [
       "IPO/财报"
     ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-24",
-    "sentiment": "watch",
-    "excerpt": "There you have it, $GOOGL Waymo to explore split with $UBER per FT.\n\nMy view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that Google needed as they scale up.\n\nAnd that",
-    "postUrl": "https://x.com/aleabitoreddit/status/2080750537121874206",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-24",
-    "sentiment": "watch",
-    "excerpt": "There you have it, $GOOGL Waymo to explore split with $UBER per FT.\n\nMy view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that Google needed as they scale up.\n\nAnd that",
-    "postUrl": "https://x.com/aleabitoreddit/status/2080750537121874206",
-    "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-24",
-    "sentiment": "watch",
-    "excerpt": "There you have it, $GOOGL Waymo to explore split with $UBER per FT.\n\nMy view last year was that Uber partnering with Waymo was a bad choice… since Uber would just serve as a distribution funnel that Google needed as they scale up.\n\nAnd that",
-    "postUrl": "https://x.com/aleabitoreddit/status/2080750537121874206",
-    "ticker": "UBER",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-24",
-    "sentiment": "watch",
-    "excerpt": "Jensen from $NVDA has joined X for the first time to share his letter on open models.",
-    "postUrl": "https://x.com/aleabitoreddit/status/2080689966045348047",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-23",
-    "sentiment": "watch",
-    "excerpt": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization).\n\nThere's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\".\n\nMost interesting take was: \n\n\"Pluggab",
-    "postUrl": "https://x.com/aleabitoreddit/status/2080445777395298454",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-23",
-    "sentiment": "watch",
-    "excerpt": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization).\n\nThere's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\".\n\nMost interesting take was: \n\n\"Pluggab",
-    "postUrl": "https://x.com/aleabitoreddit/status/2080445777395298454",
-    "ticker": "JBL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-23",
-    "sentiment": "watch",
-    "excerpt": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization).\n\nThere's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\".\n\nMost interesting take was: \n\n\"Pluggab",
-    "postUrl": "https://x.com/aleabitoreddit/status/2080445777395298454",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-23",
-    "sentiment": "watch",
-    "excerpt": "Not exactly for $AAOI (they're working on CPO too, just a little further behind in commercialization).\n\nThere's a podcast that featured the $SIVE CEO recently called: \"Market Insights: Photonics & AI\".\n\nMost interesting take was: \n\n\"Pluggab",
-    "postUrl": "https://x.com/aleabitoreddit/status/2080445777395298454",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-23",
-    "sentiment": "watch",
-    "excerpt": "From $AMD Advancing AI, channel checks:\n\nHelios networking partners told me they expect AMD to pursue CPO for future generations of Helios scale up networking. \n\nAnd expects other hyperscalers + industry to go down the CPO route.\n\nOne AI in",
-    "postUrl": "https://x.com/aleabitoreddit/status/2080394259535221222",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-23",
-    "sentiment": "watch",
-    "excerpt": "$AMD reached out directly to hand me some special swag!\n\nApparently they only made 30 of these bandanas? \n\nI love AMD and Lisa Su now. https://t.co/KgcYjBUcTv",
-    "postUrl": "https://x.com/aleabitoreddit/status/2080379612736221325",
-    "ticker": "AMD",
-    "topics": []
   },
   {
     "personId": "jensen",
