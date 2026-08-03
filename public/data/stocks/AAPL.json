@@ -3,28 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 308.91,
-  "change5dPct": -7.2,
-  "changeYtdPct": 14.4,
-  "marketCap": "$4.90T",
-  "pe": 34.3,
+  "price": 303.42,
+  "change5dPct": -9.9,
+  "changeYtdPct": 9.7,
+  "marketCap": "$4.54T",
+  "pe": 35.2,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-02-02",
-      "o": 260.03,
-      "h": 270.49,
-      "l": 259.21,
-      "c": 270.01
-    },
-    {
-      "t": "2026-02-03",
-      "o": 269.2,
-      "h": 271.88,
-      "l": 267.61,
-      "c": 269.48
-    },
     {
       "t": "2026-02-04",
       "o": 272.29,
@@ -885,145 +871,134 @@
       "h": 310.69,
       "l": 300.0,
       "c": 308.91
+    },
+    {
+      "t": "2026-08-03",
+      "o": 309.67,
+      "h": 311.8,
+      "l": 302.56,
+      "c": 303.42
     }
   ],
   "thesis": {
     "bull": [
-      {
-        "point": "英伟达CEO黄仁勋近期公开表态提振市场对苹果AI战略的预期，市场情绪出现阶段性回暖，若苹果在设备端AI（Apple Intelligence）上取得实质进展，有望打开新一轮换机周期"
-      },
-      {
-        "point": "服务业务持续增长为公司提供高毛利、粘性强的现金流来源，在硬件销售面临周期性波动时起到重要的盈利缓冲作用"
-      },
-      {
-        "point": "国会议员佩洛西在2025年12月30日申报新建AAPL多头仓位，显示部分知情投资者在近期回调后仍对公司长期基本面保持信心"
-      }
+      "英伟达CEO黄仁勋近期公开表态看好苹果在人工智能领域的应用前景，市场对其AI功能整合预期升温，带动相关AI概念股买盘情绪回暖",
+      "苹果作为「七巨头」核心成分股，长期受益于生态系统粘性与庞大装机量，服务业务收入占比持续提升为其提供较为稳定的现金流支撑",
+      "部分国会议员披露文件中出现新建的苹果多头仓位，显示仍有资金对其中长期基本面保持信心"
     ],
     "bear": [
-      {
-        "point": "同期披露显示佩洛西在12月24日与12月30日多次减持AAPL相关仓位，且在2025年10月与2024年12月末也有减持记录，交易信号本身存在多空矛盾，不宜单一解读"
-      },
-      {
-        "point": "近期新闻显示有分析师大幅下调目标价并提出苹果应考虑收购或整合英特尔的观点，导致股价单日重挫约9.6%，反映市场对其芯片自研路线与AI竞争力的担忧上升"
-      },
-      {
-        "point": "同行业内英伟达、美光、SK海力士等AI芯片与存储相关公司涨势凌厉，资金呈现从传统消费电子龙头向AI基础设施上游转移的迹象，苹果在AI叙事中相对被动"
-      }
+      "近期苹果股价连续四个交易日下跌，累计跌幅超过10%，短期技术面走弱引发市场对其增长动能的担忧",
+      "有分析预测未来18个月内微软市值将超越苹果，反映市场对苹果在AI浪潮中竞争地位的担忧",
+      "同一披露周期内出现多笔减持苹果的交易记录且时间点集中，可能反映部分资金对短期前景转为谨慎"
     ],
     "watch": [
-      {
-        "point": "苹果在设备端生成式AI功能（Apple Intelligence）的实际落地进度与消费者反馈，是判断其能否重新获得AI估值溢价的关键变量"
-      },
-      {
-        "point": "分析师关于苹果与英特尔潜在合作或整合的讨论后续是否有实质进展，这类传闻本身对股价波动影响显著，需持续跟踪信息真实性"
-      },
-      {
-        "point": "美债收益率上行及美股大盘处于关键技术位附近震荡的宏观环境，可能放大科技权重股（含苹果）的波动性，需关注利率与流动性变化"
-      }
+      "苹果在人工智能功能（如Apple Intelligence）的产品化进度与市场预期之间的差距，将是后续股价表现的关键变量",
+      "半导体板块因担忧来自中国的竞争加剧而出现波动，需关注供应链及零部件成本是否受到连带影响",
+      "大型云厂商资本开支预计超过1.2万亿美元，苹果能否分享这一AI基础设施投资红利值得持续跟踪"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值领先的消费电子与科技公司，核心业务涵盖iPhone、Mac、iPad、可穿戴设备以及包括App Store、iCloud、Apple Music、AppleCare在内的服务生态。公司凭借硬件与软件深度整合的生态系统构建了较高的用户粘性与品牌溢价，服务业务近年来在总营收中的占比持续提升，成为公司利润结构中越来越重要的组成部分。"
+        "body": "苹果公司是全球领先的消费电子与科技企业，核心产品包括iPhone、Mac、iPad及可穿戴设备，同时通过App Store、iCloud、Apple Music等服务业务构建了庞大的用户生态系统。作为美股市值最高的公司之一，苹果也是「七巨头」科技股的核心成分，其股价表现对大盘及相关ETF具有重要影响"
       },
       {
-        "heading": "近期市场动态",
-        "body": "近期市场出现明显的AI主题分化，英伟达、美光、SK海力士等芯片与存储类公司因AI基础设施资本开支加速而股价大幅上涨，亚马逊等云计算巨头的AI投入也获得市场正面回应。相比之下，苹果被卷入分析师关于目标价下调及与英特尔潜在整合的讨论，一度导致股价单日下跌约9.6%，反映市场对其AI竞争定位存在分歧。同时，英伟达CEO黄仁勋的公开言论一度提振了市场对苹果AI前景的乐观预期，显示情绪面存在较大波动。"
+        "heading": "财务与业务表现",
+        "body": "公开信息显示，市场对苹果服务业务的持续增长以及硬件产品周期保持关注。近期报道提及多只追踪「七巨头」的ETF在2026年表现出现分化，反映投资者对苹果与同类科技巨头之间增长路径产生分歧。相较部分云厂商大规模投入AI基础设施，苹果在该领域的资本开支规模相对有限，这也成为市场评估其估值时的重要参考"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "公开披露的国会议员交易记录显示，佩洛西在2025年12月30日新建了AAPL多头头寸，但同期及此前（2025年10月、2024年12月）也存在多次减持记录，交易方向并不完全一致。此类披露存在滞后性，且交易动机可能涉及税务规划、资产配置调整等多种因素，不应被简单解读为对公司基本面的明确多空判断，仅可作为参考信号之一。"
+        "heading": "多空观点分析（跟踪者动向）",
+        "body": "公开披露信息显示，跟踪对象在苹果股票上的操作出现分歧。一方面，披露文件记录了一笔新建的多头仓位，显示部分资金看好其后市；另一方面，同一及此前多份披露文件中也记录了多次减持交易，分别发生于不同时间点，显示减持动作总体更为频繁。此外，英伟达CEO黄仁勋在公开言论中对苹果的人工智能前景表达了较高期待，一定程度上提振了市场情绪，但整体上多空信号并未形成一致方向"
       },
       {
-        "heading": "基本面与竞争格局",
-        "body": "苹果的核心竞争优势在于其软硬件一体化的生态系统与庞大的活跃设备装机量，这为服务业务的持续变现提供了基础。但在AI芯片自研与云端大模型能力方面，苹果相对英伟达、微软、谷歌等公司较为保守，市场担忧其在生成式AI浪潮中未能占据先发优势。分析师提出的与英特尔整合的设想虽属推测性质，但也反映出外部对苹果芯片战略路径的关注与质疑。"
+        "heading": "行业与竞争格局",
+        "body": "近期新闻显示，半导体板块因担忧中国厂商竞争加剧而出现回调，同时大型云服务商合计资本开支预计超过1.2万亿美元，持续投入人工智能基础设施。相较于英伟达、Marvell、博通等在AI芯片与数据中心领域受益较为直接的公司，苹果在此轮AI基础设施投资热潮中的受益路径相对间接，主要体现在终端设备与应用层面的AI功能整合。同时，也有观点预测微软市值可能在未来18个月内超越苹果，反映出科技巨头之间竞争格局仍在演变"
       },
       {
-        "heading": "多空分歧总结",
-        "body": "多头逻辑主要基于苹果生态系统的护城河、服务业务的稳定现金流以及潜在的AI功能升级带来的换机需求；空头逻辑则聚焦于苹果在AI基础设施与模型能力上相对滞后、近期负面分析师评级冲击股价，以及跟踪者交易记录中减持信号的存在。整体来看，市场对苹果短期股价走势的分歧较大，估值逻辑正处于从硬件成长股向AI受益股叙事切换的过渡期。"
+        "heading": "近期市场表现与新闻",
+        "body": "公开报道显示，苹果股价近期出现连续四个交易日下跌，累计跌幅超过10%，同期大盘如道琼斯指数则因地缘政治及降息预期等因素创出新高，苹果股价走势与大盘出现一定背离。市场评论中也将苹果与亚马逊、波音、美光等公司并列，视为解读当日市场情绪的重要标的之一"
       },
       {
-        "heading": "风险提示",
-        "body": "苹果面临的主要风险包括：全球智能手机市场增长放缓、供应链地缘政治风险、监管机构对App Store抽成政策的持续施压，以及在AI技术竞赛中落后于同业可能带来的估值折价。此外，宏观层面利率上行与市场对AI资本开支可持续性的担忧，也可能通过板块联动效应影响苹果股价表现。本分析仅为信息整理与观点呈现，不构成任何投资建议。"
+        "heading": "风险提示与展望",
+        "body": "综合公开信息看，苹果面临的主要不确定性包括人工智能产品化进度能否匹配市场预期、与微软等竞争对手在市值及技术层面的竞争、以及半导体供应链在中国厂商竞争加剧背景下的潜在成本与份额压力。跟踪对象操作分歧及股价短期大幅波动也提示市场对其后续走势存在较大分歧，需持续关注后续财报及产品发布节奏以评估基本面变化"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
-        "name": "微软",
-        "note": "同为软硬件与服务并重的科技巨头，AI云服务布局更为激进，可作为AI战略对比参照"
+        "name": "Microsoft Corporation",
+        "note": "有分析预测其市值可能于未来18个月内超越苹果，双方在AI战略与云服务布局上的比较是市场关注焦点"
       },
       {
         "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "AI芯片核心受益者，近期涨势与苹果形成鲜明对比，反映市场资金对AI叙事不同环节的偏好差异"
+        "name": "NVIDIA Corporation",
+        "note": "其CEO近期公开言论提振了市场对苹果AI前景的预期，同时英伟达自身也是本轮AI基础设施投资热潮的核心受益者"
       },
       {
-        "ticker": "INTC",
-        "name": "英特尔",
-        "note": "因分析师提出与苹果潜在整合的假设性观点而被市场关注，可作为芯片自研与代工合作路径的对比对象"
+        "ticker": "MRVL",
+        "name": "Marvell Technology Inc",
+        "note": "作为AI芯片与数据中心基础设施供应商，与苹果同属科技板块但受益路径不同，可作为AI资本开支主题的参照"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-31T22:11:31.848516Z"
+    "generatedAt": "2026-08-03T22:14:26.406802Z"
   },
   "news": [
     {
-      "id": "AAPL-141081385",
-      "title": "Want to trade SpaceX for Apple? 1inch says skip the dollars",
+      "id": "AAPL-141102756",
+      "title": "Stock Market Today: Dow Rises To Record As Amazon Jumps; This Cathie Wood Trade Nets $2.9 Mil (Live Coverage)",
       "source": "Yahoo",
-      "publishedAt": "2026-07-31",
-      "url": "https://finnhub.io/api/news?id=064e21ad358c52a972b59d6b5324580426c8369f54e8fd11b9d957b0766d14f0",
+      "publishedAt": "2026-08-03",
+      "url": "https://finnhub.io/api/news?id=a8910cf117021c61cc69007c4b44c3c275bc9664317da9ec3d5425c05a034996",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141081386",
-      "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
+      "id": "AAPL-141102757",
+      "title": "The 3 ETFs That Hold the Most Magnificent 7 — and How They're Performing in a Tougher 2026",
       "source": "Yahoo",
-      "publishedAt": "2026-07-31",
-      "url": "https://finnhub.io/api/news?id=5eea23cf29a149cf41976368d228def59143bb67c83ecf3eaeb7a5823ec13249",
+      "publishedAt": "2026-08-03",
+      "url": "https://finnhub.io/api/news?id=515ac23bdeb06f0147876fee2f3c8bd41b388e0b14cdec8e8fc15d96a53c6aac",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141081387",
-      "title": "Stock Market Today: Nasdaq Advances Despite Spiking Yields; Amazon Soars (Live Coverage)",
+      "id": "AAPL-141102758",
+      "title": "Prediction: Within 18 Months, Microsoft Will Be More Valuable Than Apple",
       "source": "Yahoo",
-      "publishedAt": "2026-07-31",
-      "url": "https://finnhub.io/api/news?id=88e79534e5b09ce0f5176089296bb86e67dc8fcc1b85fe0b5e4b0b17c989d187",
+      "publishedAt": "2026-08-03",
+      "url": "https://finnhub.io/api/news?id=366bc5ab9073685b180315ae97452cd684d15f2aeef74660b6bf70928c6dff05",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141081388",
-      "title": "Micron Stock Drops 4.2% Despite Amazon's $220 Billion AI Bet",
+      "id": "AAPL-141102759",
+      "title": "Amazon, Apple, Boeing, Micron, Bristol Myers, GameStop, SpaceX, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
-      "publishedAt": "2026-07-31",
-      "url": "https://finnhub.io/api/news?id=d7af7cdadc7d9ee1b0332e3caa54bc07e3aea8331576614f350f420fb7b95c73",
+      "publishedAt": "2026-08-03",
+      "url": "https://finnhub.io/api/news?id=ab20f4d034e6ad3ae5839919a1f51203b54604f3fd7be93648ca2f25746f1111",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141081389",
-      "title": "Update: US Equity Indexes Rise Amid Amazon-Fueled Gains in Consumer Discretionary While Crude Oil Trades Off Session Highs",
+      "id": "AAPL-141102760",
+      "title": "Amazon Stock Hits Record on Stunning Signal",
       "source": "Yahoo",
-      "publishedAt": "2026-07-31",
-      "url": "https://finnhub.io/api/news?id=9f556e83be0311c290aaa27e2962b603e0c9b4ea3f53e34bd98c511f33c5cf4d",
+      "publishedAt": "2026-08-03",
+      "url": "https://finnhub.io/api/news?id=c9da59b25d27b4ddda5866780a0cab872d6c37811a8ad0f554fed68e56ccd947",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141081390",
-      "title": "Apple Stock Plunges 9.6% as Analyst Cuts Target, Proposes Intel",
+      "id": "AAPL-141102761",
+      "title": "Apple Stock Falls Again as Four-Day Loss Exceeds 10%",
       "source": "Yahoo",
-      "publishedAt": "2026-07-31",
-      "url": "https://finnhub.io/api/news?id=ad07338082019825bf2396a573b1d282f21a93ddb016886596c9292d70e7bfa1",
+      "publishedAt": "2026-08-03",
+      "url": "https://finnhub.io/api/news?id=489c0ecbf36e022e441caa57c61cf84b9e4b61a5f8946c131608eabb6f195430",
       "tags": [
         "AAPL"
       ]

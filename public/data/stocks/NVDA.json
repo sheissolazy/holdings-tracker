@@ -3,28 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 200.75,
-  "change5dPct": -2.9,
-  "changeYtdPct": 8.2,
-  "marketCap": "$4.72T",
-  "pe": 30.0,
+  "price": 206.64,
+  "change5dPct": 5.2,
+  "changeYtdPct": 18.6,
+  "marketCap": "$4.86T",
+  "pe": 30.4,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-02-02",
-      "o": 187.2,
-      "h": 190.3,
-      "l": 184.88,
-      "c": 185.61
-    },
-    {
-      "t": "2026-02-03",
-      "o": 186.24,
-      "h": 186.27,
-      "l": 176.23,
-      "c": 180.34
-    },
     {
       "t": "2026-02-04",
       "o": 179.46,
@@ -882,130 +868,155 @@
     {
       "t": "2026-07-31",
       "o": 198.44,
-      "h": 201.97,
+      "h": 202.0,
       "l": 194.95,
       "c": 200.75
+    },
+    {
+      "t": "2026-08-03",
+      "o": 197.73,
+      "h": 208.74,
+      "l": 196.85,
+      "c": 206.64
     }
   ],
   "thesis": {
     "bull": [
-      "超大规模云厂商上调2026年资本开支：亚马逊、Meta、谷歌、微软合计资本开支指引由此前约6950亿至7250亿美元上调至约7200亿至7450亿美元，AI基础设施建设需求持续为英伟达数据中心GPU及网络产品提供支撑",
-      "英伟达深度绑定AI基建生态，据报道其在为OpenAI约2500亿美元数据中心融资提供担保等安排中扮演关键角色，叠加与软银能源等合作方共建大型数据中心园区，显示公司在AI产业链中的战略卡位持续强化",
-      "「美国制造」叙事获得政治层面正面关注，公司加大在美国本土建厂与供应链投入，有助于降低关税与地缘政治风险敞口，并可能在政策层面获得更多支持"
+      {
+        "point": "云厂商资本开支持续上修，微软、谷歌、亚马逊、Meta将2026年合计资本开支指引由约6950亿至7250亿美元上调至约7200亿至7450亿美元，AI基础设施投入仍在扩张，为英伟达数据中心GPU需求提供支撑"
+      },
+      {
+        "point": "生态与技术护城河仍然稳固，CUDA软件栈、NVLink互联及CPO（共封装光学）等新一代互连技术布局领先，博通、Marvell等厂商虽在ASIC与光互连领域发力，但英伟达在通用加速计算平台上仍具规模与生态优势"
+      },
+      {
+        "point": "下游客户资本开支由自由现金流与营业利润支撑而非单纯举债扩张，微软管理层预期2027年自由现金流转正，显示AI资本开支的可持续性优于市场部分悲观预期，间接利好上游算力供应商"
+      }
     ],
     "bear": [
-      "英伟达为OpenAI等超大规模数据中心项目提供的巨额融资担保引发债务市场对其资产负债表杠杆与信用风险的担忧，市场开始质疑「循环出资再采购」式AI基建融资模式的可持续性",
-      "知名做空机构与投资人公开唱空半导体板块，包括对英伟达、美光及费城半导体ETF（SOXX）的负面表态，同期SOXX过去一个月下跌超两成但成交量大幅放大，反映市场对芯片股是否已至周期顶部存在明显分歧",
-      "竞争格局出现变化，三星电子AI芯片与存储股大涨、博通已不再单纯以芯片周期叙事定位自身、Marvell等公司在网络与定制芯片细分市场加大押注，显示英伟达在高端网络互联、存储及ASIC替代方案上面临更激烈竞争"
+      {
+        "point": "以Michael Burry为代表的知名空头公开做空英伟达、美光及费城半导体指数（SOXX），质疑AI资本开支的会计处理与折旧年限假设，市场对AI基建投资回报率的怀疑情绪有所升温"
+      },
+      {
+        "point": "中国本土芯片竞争加剧的担忧压制半导体板块情绪，近期已出现半导体股因中国供应商竞争风险而集体下跌的交易日，反映投资者对英伟达在中国市场份额及定价权的担忧"
+      },
+      {
+        "point": "博通、Marvell等公司在定制ASIC与AI存储、光互连领域加速布局（如Marvell在印度投入2.5亿美元扩大AI芯片研发、进军共封装光学市场），云厂商自研芯片趋势可能在中长期分流部分英伟达GPU采购需求"
+      }
     ],
     "watch": [
-      "后续财报季中微软、Meta、亚马逊、谷歌等大客户管理层对AI资本开支回报率（ROI）及自由现金流影响的表态，例如微软管理层预计到2027年在资本开支扩张下仍能实现自由现金流转正",
-      "共封装光学（CPO）等新型互联技术的渗透速度及FormFactor等上游供应链公司产能与订单变化，这可能影响英伟达未来网络产品路线图与竞争壁垒",
-      "美国国会议员持仓动向及「美国制造」相关半导体产业政策的后续落地情况，可作为观察政治与监管风向的辅助指标，但不构成投资建议依据"
+      {
+        "point": "跟踪四大云厂商二季度财报后管理层对2026年资本开支指引的进一步细化及本季度实际资本支出执行情况，判断需求上修是否可持续"
+      },
+      {
+        "point": "关注国会议员及知名机构投资者的持仓变动信号，例如佩洛西家族此前对英伟达的多次买入及部分减持记录，作为市场情绪的参考而非投资依据"
+      },
+      {
+        "point": "跟踪共封装光学（CPO）等新型互连技术的商业化进度及英伟达与博通、Marvell等竞争对手在该领域的相对布局差异，判断技术路线变化对英伟达长期议价能力的影响"
+      }
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达是全球领先的图形处理器（GPU）与加速计算平台提供商，业务已从传统游戏显卡拓展至数据中心AI加速、专业可视化及汽车等领域。近年公司收入增长主要由数据中心业务驱动，其GPU、网络互联产品及配套软件生态（如CUDA）构成核心竞争力，是全球AI基础设施建设浪潮中最核心的硬件供应商之一"
+        "body": "英伟达（NVIDIA Corporation，NVDA）是全球领先的图形处理器与AI加速计算平台提供商，业务涵盖数据中心GPU、CUDA软件生态、网络互连（如NVLink）及游戏显卡等。公司当前营收增长主要由数据中心业务驱动，客户以微软、谷歌、亚马逊、Meta等大型云厂商为核心，是本轮全球AI基础设施建设周期中的核心受益标的之一。"
       },
       {
-        "heading": "业务与技术护城河",
-        "body": "公司护城河主要来自CUDA软件生态的锁定效应、持续的架构迭代节奏以及在高性能网络互联（如NVLink、InfiniBand相关技术）方面的领先地位。据市场消息，英伟达还通过深度参与大型云厂商及新兴AI公司的数据中心融资与建设，进一步巩固其在AI基础设施供应链中的核心地位，但这种深度绑定也意味着其业绩与少数大客户的资本开支周期高度相关"
+        "heading": "需求端：云厂商资本开支",
+        "body": "近期财报季显示，微软、谷歌、亚马逊、Meta四大云厂商将2026年合计资本开支指引由约6950亿至7250亿美元上调至约7200亿至7450亿美元，其中亚马逊约2200亿美元、谷歌1950亿至2050亿美元、Meta1300亿至1450亿美元、微软约1750亿美元。市场对该等资本开支能否被广告、云服务等业务的自由现金流充分覆盖存在分歧，微软管理层给出2027年自由现金流转正的预期，被部分投资者视为对AI投资回报可持续性的正面信号，但也有观点认为持续上修的资本开支存在过度投资和折旧周期错配的风险。"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "半导体与AI硬件行业竞争加剧，三星电子在存储与AI芯片领域股价大涨，博通、Marvell等公司在网络芯片、定制ASIC等细分领域加大布局，试图分流部分数据中心资本开支。同时，共封装光学（CPO）等新技术路线的兴起可能重塑数据中心网络架构格局，相关供应链公司如FormFactor已反映出该趋势带来的营收增长。整体来看，英伟达仍处于行业领先位置，但竞争对手的份额争夺动作值得持续关注"
+        "heading": "竞争格局",
+        "body": "英伟达在通用GPU加速计算领域保持领先地位，但博通、Marvell等公司正加速布局定制ASIC及共封装光学（CPO）等新一代互连技术，试图在云厂商自研芯片浪潮中争取更大份额。同时，市场对中国本土芯片厂商在特定应用场景下形成有效替代的担忧近期有所升温，一定程度上压制了包括英伟达在内的半导体板块整体估值情绪，行业内对英伟达护城河的稳固程度存在多空分歧。"
       },
       {
-        "heading": "财务与估值",
-        "body": "市场对英伟达估值存在明显分歧：多头认为超大规模云厂商持续上调的资本开支指引（合计约7200亿至7450亿美元）为其未来收入增长提供了较强能见度；空头则担忧股价已计入过高增长预期，且部分知名投资人已公开表达对芯片板块估值的担忧。费城半导体ETF（SOXX）近期大幅波动、成交量显著放大，反映市场对板块估值与周期位置的分歧正在加大"
+        "heading": "资金与持仓动向",
+        "body": "公开披露信息显示，佩洛西相关持仓在2025年至2026年初期间多次出现英伟达股票的新建仓与部分减持记录，交易时点分布较为分散，难以简单解读为单一方向的强烈信号，更多可作为市场关注度和舆情热度的参考指标。与此同时，社交媒体上关于云厂商资本开支、CPO技术趋势等讨论热度较高，反映市场对AI硬件供应链上下游动态的持续关注。"
       },
       {
-        "heading": "政策与地缘政治",
-        "body": "英伟达在「美国制造」相关议题上获得较高层级的政治关注，其本土建厂与供应链布局被视为符合当前产业政策导向，短期内有助于降低关税及出口管制等地缘政治风险。但公司同时深度参与海外及跨国AI基建融资安排（如为OpenAI相关数据中心项目提供担保），若相关合作方财务状况或监管环境发生变化，也可能带来新的不确定性"
+        "heading": "风险因素",
+        "body": "主要风险包括：一是知名空头如Michael Burry公开做空英伟达、美光及SOXX指数，反映部分机构投资者对AI资本开支可持续性和相关公司会计处理（如服务器折旧年限假设）存在质疑；二是中国供应商在部分芯片品类上的竞争压力可能影响英伟达在中国市场的份额与议价能力；三是云厂商自研ASIC及第三方厂商在光互连、AI存储等细分领域的技术进步，长期可能削弱英伟达在数据中心生态中的相对优势。"
       },
       {
-        "heading": "多空分歧与关键变量",
-        "body": "当前市场对英伟达的核心分歧在于：一方面，大客户资本开支指引持续上修、AI基础设施建设需求旺盛，为公司业绩提供支撑；另一方面，巨额融资担保引发的债务与杠杆担忧、知名投资人的做空表态以及竞争对手在细分领域的份额争夺，使部分投资者担心当前估值已过度反映乐观预期。后续财报季中大客户资本开支及ROI表态、新技术路线渗透速度、以及债务市场对相关融资安排的定价，将是判断分歧走向的关键变量"
+        "heading": "展望与关注点",
+        "body": "整体而言，英伟达短期基本面仍受益于云厂商资本开支上修带来的需求确定性，但市场对AI基建投资回报周期、竞争格局演变及部分机构做空行为的关注度正在上升，多空分歧较为明显。后续需重点跟踪云厂商实际资本开支执行节奏、英伟达自身季度业绩指引、以及CPO等新技术路线对行业竞争格局的潜在重塑。本分析仅基于公开信息整理，不构成任何投资建议。"
       }
     ],
     "comparables": [
       {
-        "ticker": "AMD",
-        "name": "超威半导体",
-        "note": "数据中心GPU及CPU领域主要竞争对手，在AI加速卡市场份额持续爬升，常被市场用作英伟达替代性配置标的"
-      },
-      {
         "ticker": "AVGO",
-        "name": "博通",
-        "note": "在定制ASIC及网络互联芯片领域深度参与云厂商AI基础设施建设，近期市场认为其业务定位已淡化传统芯片周期叙事"
+        "name": "Broadcom Inc",
+        "note": "在定制ASIC及网络互连芯片领域与英伟达形成部分竞争关系，为云厂商自研AI芯片的主要合作方之一"
       },
       {
         "ticker": "MRVL",
-        "name": "迈威尔科技",
-        "note": "在数据中心网络芯片及定制计算方案领域加大布局，市场关注其能否在细分市场分流部分英伟达客户资本开支"
+        "name": "Marvell Technology",
+        "note": "聚焦AI存储、光互连及共封装光学等细分市场，近期加大在印度的AI芯片研发投入，被视为英伟达生态外的潜在受益标的"
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology",
+        "note": "作为AI服务器所需高带宽内存（HBM）的主要供应商之一，与英伟达在AI硬件供应链上高度相关，近期同样被部分知名空头列为做空标的"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-31T22:09:16.766951Z"
+    "generatedAt": "2026-08-03T22:12:06.287331Z"
   },
   "news": [
     {
-      "id": "NVDA-141081404",
-      "title": "Alibaba's AI Bet Is Powering a Rival",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-31",
-      "url": "https://finnhub.io/api/news?id=cce9f6cd643aa56bf10db050187ff290946e0b08a5468457a30c08e752061a0f",
+      "id": "NVDA-141101915",
+      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-03",
+      "url": "https://finnhub.io/api/news?id=d7000975030194dacb6dbca0963193b3e61fb15dfcd3a7bb0f1be8d824315ad1",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141081405",
-      "title": "Why Wall Street Keeps Underestimating Micron",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-31",
-      "url": "https://finnhub.io/api/news?id=c170f20159985827c6caf472ca2672eee9b059eaeb4609e9b00fefaf7ddd2a60",
+      "id": "NVDA-141101598",
+      "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-03",
+      "url": "https://finnhub.io/api/news?id=3f902903dfb474ff36920d42484cf6d8a2b0006ffdc1101ff1deb02f3916e77c",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141081406",
-      "title": "Samsung Stock Soars 27% as Korea's AI-Chip Rally Breaks Records",
-      "source": "Yahoo",
-      "publishedAt": "2026-07-31",
-      "url": "https://finnhub.io/api/news?id=8a182e4a0bb942b0448d96aaa02445ccd8ca2c15e679c7ddf08d697f9a463698",
+      "id": "NVDA-141101597",
+      "title": "Monday's session: most active stocks",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-03",
+      "url": "https://finnhub.io/api/news?id=4aa057b760003fee339e3dfef3ea846f2d999a0d928cdb7e5294a98e8ad1df49",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141081407",
-      "title": "Forget SpaceX's Upcoming Q2 Results. History Says You Should Wait at Least This Long Before Buying SpaceX Stock.",
+      "id": "NVDA-141100578",
+      "title": "This Boring Company Has Hiked Its Dividend for 71 Straight Years, and It's an Income Investor's Dream",
       "source": "Yahoo",
-      "publishedAt": "2026-07-31",
-      "url": "https://finnhub.io/api/news?id=0be1d1219145baf1faf13d75ecf0d723467930b4a2279ae0e31fbb7b6d48d84d",
+      "publishedAt": "2026-08-03",
+      "url": "https://finnhub.io/api/news?id=29591faacd358065ef8525281994097c7a96c604462e968efb04acb1bfb19b6e",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141081408",
-      "title": "Why Micron Stock Was Up and Down Today",
+      "id": "NVDA-141100579",
+      "title": "Is Eli Lilly Stock Running out of Steam?",
       "source": "Yahoo",
-      "publishedAt": "2026-07-31",
-      "url": "https://finnhub.io/api/news?id=288340d72ce559a83c424e66ba2075fc9eb9ac82f341742c03585ce7c4239da2",
+      "publishedAt": "2026-08-03",
+      "url": "https://finnhub.io/api/news?id=da1ddc0c292bad7c6ad06572bb50752463234a2ffca12103a3663ae056853d51",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141081409",
-      "title": "Pfizer Yields 6.8%, Trades at 8.5X Earnings, and Has a Promising Late-Stage Weight Loss Drug. Why Are So Many Investors Still Ignoring the Stock?",
+      "id": "NVDA-141100580",
+      "title": "Leopold Aschenbrenner’s $20 Billion AI Hedge Fund Imploded. Here’s How It’s Still Up 80% This Year",
       "source": "Yahoo",
-      "publishedAt": "2026-07-31",
-      "url": "https://finnhub.io/api/news?id=34bbc6f31196d333d7ef3c77e68b641ea5fbd45e6f4df7a3d894a3f27587888a",
+      "publishedAt": "2026-08-03",
+      "url": "https://finnhub.io/api/news?id=625f4490ac42d75f34f8e1ce51de869f3f9869afc89a82d6f2aeb257d1e08176",
       "tags": [
         "NVDA"
       ]

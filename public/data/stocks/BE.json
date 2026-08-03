@@ -3,28 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 205.81,
-  "change5dPct": 11.3,
-  "changeYtdPct": 31.8,
-  "marketCap": "$61.0B",
-  "pe": 10238.9,
+  "price": 218.32,
+  "change5dPct": 16.0,
+  "changeYtdPct": 48.2,
+  "marketCap": "$60.6B",
+  "pe": 10047.5,
   "revenue": "—",
   "revenueYoYPct": 57,
   "prices": [
-    {
-      "t": "2026-02-02",
-      "o": 151.0,
-      "h": 158.54,
-      "l": 147.01,
-      "c": 156.13
-    },
-    {
-      "t": "2026-02-03",
-      "o": 163.16,
-      "h": 176.49,
-      "l": 159.02,
-      "c": 168.89
-    },
     {
       "t": "2026-02-04",
       "o": 168.0,
@@ -883,141 +869,136 @@
       "t": "2026-07-31",
       "o": 230.77,
       "h": 235.49,
-      "l": 205.46,
+      "l": 205.43,
       "c": 205.81
+    },
+    {
+      "t": "2026-08-03",
+      "o": 197.82,
+      "h": 224.64,
+      "l": 191.0,
+      "c": 218.32
     }
   ],
   "thesis": {
     "bull": [
-      "2026年二季度业绩超预期，营收同比增长166%，同时毛利率持续扩张，管理层上调全年指引，显示核心固体氧化物燃料电池业务在数据中心配套电力需求拉动下加速放量",
-      "作为可快速部署、不依赖电网扩容排队的分布式发电方案，Bloom Energy被市场视为AI数据中心电力短缺的直接受益标的，机构评级近期出现上调（如Mizuho）",
-      "近期股价虽因宏观去杠杆事件大幅回撤，但基本面并未恶化，做空机构Hunterbrook的做空报告发布后股价并未持续下跌，显示部分投资者认为负面论点已被业绩验证驳斥或消化"
+      "AI数据中心用电需求爆发式增长，电网并网普遍存在数年排队问题，Bloom的模块化固体氧化物燃料电池可绕开电网直接为数据中心供电，多篇报道将其类比为「英伟达时刻」并预测2029年前收入有望再翻倍",
+      "最新财报显示收入增长提速且经营杠杆改善，规模效应下毛利率与盈利能力同步改善，机构分析称公司进入更佳的增长与盈利平衡阶段",
+      "7月剧烈回撤后单日反弹23.67%，与NBIS、SNDK、IREN等AI相关标的同步大涨，显示市场资金对AI基础设施电力叙事仍有强烈追捧意愿"
     ],
     "bear": [
-      "7月份股价出现剧烈波动，据称与对冲基金大规模去杠杆（Citadel清仓相关仓位的传闻）有关，说明当前股价对宏观流动性和资金面冲击高度敏感，基本面之外的波动风险不可忽视",
-      "做空机构此前发布的负面报告仍值得关注，其中可能涉及订单确认方式、关联方交易或长期服务协议现金流质量等争议点，需持续跟踪管理层与审计方的后续回应",
-      "公司历史上长期依赖高毛利的服务与融资安排支撑账面盈利，如果AI相关资本开支热潮降温或客户集中度过高（大客户订单占比大），业绩增速的可持续性存在不确定性"
+      "7月出现大幅回撤，随后又快速反弹，股价波动性明显放大，估值对情绪和资金面变化十分敏感，存在追高后大幅回调的风险",
+      "财报公布后股价出现「post-earnings reset」式下跌，说明市场对增长兑现节奏、订单质量与现金流的预期存在分歧，并非所有增长都被市场无条件买单",
+      "知名空头Michael Burry近期公开做空英伟达、美光及SOXX半导体指数，反映部分资深投资者对AI资本开支可持续性与产业链估值泡沫的担忧，若情绪外溢可能波及同属AI电力叙事的Bloom"
     ],
     "watch": [
-      "$216附近的技术支撑位能否稳固，是判断短期资金面情绪修复还是继续弱势的关键信号",
-      "下一份财报中管理层对2026年全年指引的具体拆分（新增订单、产能爬坡节奏、毛利率展望）是否兑现本季度给出的乐观预期",
-      "做空报告涉及的具体指控（如有）后续是否有第三方或监管机构介入调查，以及公司是否发布正式澄清文件"
+      "关注对冲基金Situational Awareness（Leopold Aschenbrenner）等重仓AI关联标的（含BE、SNDK）的基金持仓与资金流动，其大额调仓可能是7月暴跌与随后反弹的重要推手",
+      "关注下一季度财报能否延续经营杠杆改善趋势，以及新增订单、交付节奏与现金流是否匹配当前的高增长预期",
+      "关注半导体与AI资本开支相关的宏观情绪变化（如知名空头的做空动作、超大规模云厂商资本开支指引）是否会通过板块联动传导至Bloom股价"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy是一家总部位于美国的固体氧化物燃料电池（SOFC）制造商，主营业务是为企业、数据中心、工业设施等提供本地化、模块化的分布式发电系统。相比传统电网供电，其产品可在无需长期电网接入排队的情况下快速部署，近年来受益于人工智能算力扩张带来的数据中心电力需求激增，逐渐从早期的清洁能源叙事转变为AI基础设施配套电力的核心标的之一。"
+        "body": "Bloom Energy是美国固体氧化物燃料电池制造商，核心产品Energy Server可在电网之外为企业与数据中心提供分布式发电与备用电力。公司近年来将增长叙事重心转向为AI数据中心提供快速部署的现场发电方案，以规避传统电网并网排队的瓶颈。"
       },
       {
-        "heading": "近期业绩与财务表现",
-        "body": "公司最新一个季度营收同比增长约166%，显著高于市场此前预期，同时毛利率呈现扩张趋势，管理层在业绩发布后上调了2026财年指引。这一业绩表现被部分市场评论视为7月份股价大幅下挫后的估值修复理由，也是Mizuho等机构上调评级的直接触发因素。不过需要注意，高增长背后订单结构、客户集中度及现金流质量等细节仍需结合完整财报和监管文件进一步核实。"
+        "heading": "增长驱动",
+        "body": "超大规模云厂商资本开支合计已突破万亿美元级别，数据中心用电需求快速上升，而电网新增并网普遍需要数年审批与建设周期。Bloom的模块化燃料电池方案可在较短时间内交付并投运，使其成为「AI电力缺口」题材下被反复提及的标的之一，部分文章甚至将其增长路径与英伟达早期的爆发式扩张相类比。"
       },
       {
-        "heading": "行业与需求驱动"
+        "heading": "财务与估值",
+        "body": "近期财报显示收入增长与经营杠杆同步改善，市场评价整体积极，但财报公布后股价出现短期回调，显示市场对增长质量、订单结构与盈利可持续性仍存在分歧，估值处于对预期兑现较为敏感的阶段。"
       },
       {
-        "heading": "行业与需求驱动",
-        "body": "AI数据中心建设对电力的需求增速已明显超过传统电网扩容和新增发电项目的建设速度，导致电网互联排队周期拉长。在此背景下，可快速部署的分布式发电方案（燃料电池、燃气轮机等）获得资本市场重新定价。新闻流中提及的英伟达、美光、SK海力士等AI产业链公司股价波动，以及英伟达债务市场对AI资本开支规模的担忧，均从侧面反映出市场对AI基建电力配套需求及其可持续性存在分歧。"
+        "heading": "多空分歧",
+        "body": "多头逻辑集中在AI电力基础设施长期需求确定性强、公司在细分赛道具备先发优势；空头逻辑则聚焦于股价波动性过大、7月暴跌暴露出情绪与资金面驱动成分较高，以及以Michael Burry为代表的资深投资者对整体AI资本开支和半导体板块估值的警示，担心一旦AI资本开支增速放缓，相关电力题材股同样会受到冲击。"
       },
       {
-        "heading": "多空分歧与市场情绪"
+        "heading": "近期股价与情绪",
+        "body": "7月Bloom经历了显著回撤，随后与多只AI关联标的（如NBIS、SNDK、IREN等）同日出现两位数百分比的强劲反弹，社交媒体上关于对冲基金持仓变动、媒体对相关基金经理业绩「失败」叙事的讨论热度较高，反映出市场情绪目前仍处于高波动、高关注度状态，而非单纯基本面驱动。"
       },
       {
-        "heading": "多空分歧与市场情绪",
-        "body": "跟踪者的社交媒体讨论显示，7月下旬BE等一批与AI叙事相关的个股经历了剧烈的单日暴涨暴跌，部分观点将其归因于对冲基金层面的仓位清算和去杠杆行为，而非公司基本面变化本身。同时，做空机构Hunterbrook此前针对公司发布的做空报告并未对股价造成持续压制，市场对该报告论点的采信程度似乎有限，但这并不代表相关质疑已被完全证伪，仍需保持关注。"
-      },
-      {
-        "heading": "风险因素"
-      },
-      {
-        "heading": "风险因素",
-        "body": "主要风险包括：一是AI资本开支周期一旦放缓或部分数据中心项目延期，可能直接影响公司新增订单节奏；二是做空机构提出的关于收入确认、关联方交易或长期服务协议现金流质量的质疑，若后续被证实，可能对估值逻辑形成冲击；三是当前股价对宏观流动性、利率及大类资金面波动（如近期出现的疑似对冲基金去杠杆事件）表现出较高敏感度，短期波动性显著高于基本面变化幅度。"
-      },
-      {
-        "heading": "估值与展望"
-      },
-      {
-        "heading": "估值与展望",
-        "body": "在业绩上调指引与机构评级上调的支撑下，部分卖方观点将7月的暴跌解读为「买入机会」，但这一判断很大程度上建立在AI基建电力需求持续超预期兑现的假设之上。若后续季度订单增速、毛利率扩张趋势及现金流状况能够持续验证当前的高增长叙事，估值修复具备基本面基础；反之，若宏观流动性收紧或做空机构质疑发酵，股价可能重新承压。投资者应结合完整财报、监管文件及第三方调查进展综合判断，而非仅依赖单一季度的超预期表现。"
+        "heading": "风险与催化剂",
+        "body": "潜在催化剂包括新增数据中心供电合同、季度交付与利润率数据超预期；主要风险包括AI资本开支增速不及预期、燃料电池交付或成本控制不及预期，以及以做空知名AI/半导体股票为代表的宏观情绪转向可能通过板块联动波及Bloom估值。"
       }
     ],
     "comparables": [
       {
-        "ticker": "PLUG",
-        "name": "Plug Power",
-        "note": "同为氢燃料电池及分布式发电设备商，与Bloom Energy在技术路线上存在差异，但同样受益于清洁能源与备用电力叙事，可作为技术路线对比参照"
-      },
-      {
         "ticker": "CEG",
         "name": "Constellation Energy",
-        "note": "美国大型核电及清洁能源发电商，是AI数据中心长期购电协议（PPA）的主要供应方之一，代表电网侧大规模发电解决方案，与Bloom Energy的分布式模式形成互补对比"
+        "note": "核电与清洁能源发电商，同样受益于数据中心用电需求增长的另一种电力供给路径"
+      },
+      {
+        "ticker": "VST",
+        "name": "Vistra",
+        "note": "综合能源与发电企业，被部分报道列为AI电力主题下的替代配置标的"
       },
       {
         "ticker": "GEV",
         "name": "GE Vernova",
-        "note": "燃气轮机及电网设备制造商，同样受益于数据中心配套电力建设需求，可作为传统发电设备商在AI电力叙事下的估值参照"
+        "note": "电力设备与电网解决方案提供商，与Bloom同属受益于AI相关电力基础设施投资扩张的产业链公司"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-07-31T22:10:55.497822Z"
+    "generatedAt": "2026-08-03T22:13:36.114992Z"
   },
   "news": [
     {
-      "id": "BE-141080774",
-      "title": "10 Industrials Stocks With Whale Alerts In Today’s Session",
+      "id": "BE-139949322",
+      "title": "Emerson Electric shares are trading higher after the company reported better-than-expected Q1 adjusted EPS results and raised its FY26 EPS guidance.",
       "source": "Benzinga",
-      "publishedAt": "2026-07-31",
-      "url": "https://finnhub.io/api/news?id=b1c060a9db6a53981c47181dba79eb918aa04aa2519bc27eec563be4aa325903",
+      "publishedAt": "2026-08-03",
+      "url": "https://finnhub.io/api/news?id=bd0680fc04d01d6be4b3fbda35d65dcd59de87028f3a1f6d443e7c2618780489",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-141080775",
-      "title": "What's Behind the Bloom Energy Stock Bounce Ahead of $216 Support Test?",
-      "source": "Benzinga",
-      "publishedAt": "2026-07-31",
-      "url": "https://finnhub.io/api/news?id=9bebeb54a8b1cd436f2d4e88863ab5e5a56c8af9bc45d8628a667c6f039c8654",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-141067462",
-      "title": "Mizuho Upgrades Bloom Energy (BE)",
-      "source": "Fintel",
-      "publishedAt": "2026-07-30",
-      "url": "https://finnhub.io/api/news?id=6662fbe817e78783ee5373cff1fdd2b37600675138bc007a4e2ba25271a318c3",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-141069984",
-      "title": "Bloom Energy's Monster Sell-Off Is A Buying Opportunity (Rating Upgrade)",
+      "id": "BE-141099300",
+      "title": "Bloom Energy: Impressive Growth And Operating Leverage Create A Better Set-Up",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-07-30",
-      "url": "https://finnhub.io/api/news?id=b81e7c4f84ebb7b2308d7207ecb4feabf4c6f421d80bf61038a9c1a34c98a6be",
+      "publishedAt": "2026-08-03",
+      "url": "https://finnhub.io/api/news?id=65ccd5791d231222250db2c485ca72103b16eb676733f48e6a4234e4a8d1e6e5",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-141069554",
-      "title": "Jim Cramer Calls Hedge Fund Blowup a 'Clearing Event' that May Mark the Bottom",
+      "id": "BE-141101419",
+      "title": "Bloom Energy Stock Dips Monday: What's Driving the Post-Earnings Reset?",
       "source": "Benzinga",
-      "publishedAt": "2026-07-30",
-      "url": "https://finnhub.io/api/news?id=82cdc56ae90cb599be7e5610f4f767b359f7f25e14ab87ea2c7c45d0fe81932b",
+      "publishedAt": "2026-08-03",
+      "url": "https://finnhub.io/api/news?id=89e91e07bf769b60b5b4b836f13de42d227fd34e0fcda8eced45d5696b253765",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-141069245",
-      "title": "Bloom Energy Shares Shrug Off Hunterbrook Short Report After Record Q2",
-      "source": "Benzinga",
-      "publishedAt": "2026-07-30",
-      "url": "https://finnhub.io/api/news?id=7fecd725431357f4b49cb90dd4ce070e6628d260ae437bff1e2bfbd3bfdb06d1",
+      "id": "BE-141089035",
+      "title": "Is Bloom Energy in Its Nvidia Moment?",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-01",
+      "url": "https://finnhub.io/api/news?id=0a3d91e27986b3c486f9a1fa6dfa70d82f6b01fb0b68e897fe7af02e9e1e9caa",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-141091344",
+      "title": "Bloom Energy Is Soaring: Is There a Better Way To Play The AI Power Boom?",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-01",
+      "url": "https://finnhub.io/api/news?id=8e73fa12b58426c7989742d23657c269057172a393443d65569bd89faf4b734c",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-141086333",
+      "title": "Prediction: Bloom Energy Doubles Its Revenue Again by 2029. Here's the Math.",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-01",
+      "url": "https://finnhub.io/api/news?id=c73e5a29eef24122d219dba2a9332c4506c7418a75eba5995de3a3d52f925260",
       "tags": [
         "BE"
       ]

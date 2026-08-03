@@ -321,6 +321,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-08-03",
+    "sentiment": "watch",
+    "excerpt": "My REAL Polling Numbers, not those made up by the Fake News Media, are the best they have ever been, and why wouldn’t they be with the biggest tax cuts and employment numbers EVER, the biggest outside Investment in America in World history,",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117031820986118471",
+    "ticker": "",
+    "topics": [
+      "财政/税收"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-07-29",
     "sentiment": "watch",
     "excerpt": "Does anybody have any idea how much Money and Prestige the United States Supreme Court has cost our Nation with their negative Rulings on Birthright Citizenship and TARIFFS? The answer, TRILLIONS AND TRILLIONS OF DOLLARS! President DONALD J",
@@ -343,33 +355,93 @@
     ]
   },
   {
-    "personId": "trump",
-    "type": "social",
-    "asOf": "2026-07-27",
-    "sentiment": "watch",
-    "excerpt": "NVIDIA: Building in America, for America: https://www. nvidia.com/en-us/made-in-usa/",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/116994500400281844",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "trump",
-    "type": "social",
-    "asOf": "2026-07-27",
-    "sentiment": "watch",
-    "excerpt": "NVIDIA and Partners Build in America, for America: https:// blogs.nvidia.com/blog/nvidia-a nd-partners-build-in-america-for-america/",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/116994497445449017",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
     "personId": "musk",
+    "type": "social",
+    "asOf": "2026-08-03",
+    "sentiment": "watch",
+    "excerpt": "Oh, the irony is too much … https://t.co/k0NgRxMoLT",
+    "postUrl": "https://x.com/elonmusk/status/2084277243585384481",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-03",
+    "sentiment": "watch",
+    "excerpt": "The bears have gone back into hibernation",
+    "postUrl": "https://x.com/aleabitoreddit/status/2084388023689679001",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-01",
+    "sentiment": "watch",
+    "excerpt": "Trump announced that US has cancelled its attack on Iran.\n\nAnd that they’ve agreed to the perimeters of a deal to open the Strait and end the nuclear program.\n\nAnyone else feel like they’ve aged a few years in the past 6 months? https://t.c",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083760320062083406",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-07-31",
     "sentiment": "watch",
-    "excerpt": "Nigeria alone had 4 million more births than the entire EU last year! https://t.co/CuQ3B8YHks",
-    "postUrl": "https://x.com/elonmusk/status/2083304103799664685",
-    "ticker": "",
+    "excerpt": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs:\n\nIs facing a more severe supply chain crisis than memory. \n\nAnd with Lumentum's 5 InP fabs, shipments would be more than 30%+ below custome",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083438823548293140",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs:\n\nIs facing a more severe supply chain crisis than memory. \n\nAnd with Lumentum's 5 InP fabs, shipments would be more than 30%+ below custome",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083438823548293140",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs:\n\nIs facing a more severe supply chain crisis than memory. \n\nAnd with Lumentum's 5 InP fabs, shipments would be more than 30%+ below custome",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083438823548293140",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "$LITE CEO Michael Hurlston at the RAISE Summit warned that the supply gap for InP lasers for AI DCs:\n\nIs facing a more severe supply chain crisis than memory. \n\nAnd with Lumentum's 5 InP fabs, shipments would be more than 30%+ below custome",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083438823548293140",
+    "ticker": "SIVE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "The media framing and X reactions around Leopold are egregious.\n\nFraming his successful multi-year thesis from $SNDK to $BE as a \"collapse\" or \"failure\".\n\nAfter July's surprising crash, then personally attacking him on top is just pathetic ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083324920214536208",
+    "ticker": "BE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-07-31",
+    "sentiment": "watch",
+    "excerpt": "The media framing and X reactions around Leopold are egregious.\n\nFraming his successful multi-year thesis from $SNDK to $BE as a \"collapse\" or \"failure\".\n\nAfter July's surprising crash, then personally attacking him on top is just pathetic ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2083324920214536208",
+    "ticker": "SNDK",
     "topics": []
   },
   {
@@ -810,134 +882,6 @@
     "ticker": "SIVE",
     "topics": [
       "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-28",
-    "sentiment": "watch",
-    "excerpt": "I personally see it as extreme short term deleveraging that overshot many individual names. \n\n- $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth + expanding margins + raised 2026 guidance... Teradyne reported 1",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082230983487803755",
-    "ticker": "BE",
-    "topics": [
-      "美联储/利率"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-28",
-    "sentiment": "watch",
-    "excerpt": "I personally see it as extreme short term deleveraging that overshot many individual names. \n\n- $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth + expanding margins + raised 2026 guidance... Teradyne reported 1",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082230983487803755",
-    "ticker": "AAOI",
-    "topics": [
-      "美联储/利率"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-28",
-    "sentiment": "watch",
-    "excerpt": "I personally see it as extreme short term deleveraging that overshot many individual names. \n\n- $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth + expanding margins + raised 2026 guidance... Teradyne reported 1",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082230983487803755",
-    "ticker": "AMKR",
-    "topics": [
-      "美联储/利率"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-28",
-    "sentiment": "watch",
-    "excerpt": "I personally see it as extreme short term deleveraging that overshot many individual names. \n\n- $BE to $TER reported blowout results, with Bloom reporting 166% Y/Y rev growth + expanding margins + raised 2026 guidance... Teradyne reported 1",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082230983487803755",
-    "ticker": "CXMT",
-    "topics": [
-      "美联储/利率"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-28",
-    "sentiment": "watch",
-    "excerpt": "FCC set to ban Chinese imports of humanoid and quadruped robots per Reuters.  \n\nTo protect American Humanoid/Robotics programs.\n\nAgility Robotics ( $CCXI ) and other US humanoid players should be happy to hear this. https://t.co/s2dFWTA4EX",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082175588555702410",
-    "ticker": "CCXI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-26",
-    "sentiment": "watch",
-    "excerpt": "Wow, $CMXT is up a very normal +469.98% after going public today.\n\nNow valuing it at ~$487.31 billion, up from $85.5 billion. \n\nDid any of my Chinese followers buy into the IPO? https://t.co/TlibjHe799",
-    "postUrl": "https://x.com/aleabitoreddit/status/2081579593815978273",
-    "ticker": "CMXT",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-26",
-    "sentiment": "watch",
-    "excerpt": "Nvidia in talks to backstop $250B worth of OpenAI DC financing.\n\n- Softbank’s SB energy develops 10 GW Ohio campus \n\n- OpenAI signs long term lease\n\n- $NVDA guarantees $250B in financing\n\n- OpenAI discussing separate agreement to buy up to ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2081548360818004299",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-26",
-    "sentiment": "watch",
-    "excerpt": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prep",
-    "postUrl": "https://x.com/aleabitoreddit/status/2081472671129501729",
-    "ticker": "NVDA",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-26",
-    "sentiment": "watch",
-    "excerpt": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prep",
-    "postUrl": "https://x.com/aleabitoreddit/status/2081472671129501729",
-    "ticker": "AMD",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-26",
-    "sentiment": "watch",
-    "excerpt": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prep",
-    "postUrl": "https://x.com/aleabitoreddit/status/2081472671129501729",
-    "ticker": "AVGO",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-26",
-    "sentiment": "watch",
-    "excerpt": "Just some TLDR news:\n\n- $CXMT IPO tomorrow if you like Chinese memory. \n\n- Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly requested LTA guarantees, Samsung Electro-Mechanics sought prep",
-    "postUrl": "https://x.com/aleabitoreddit/status/2081472671129501729",
-    "ticker": "CCXI",
-    "topics": [
-      "IPO/财报"
     ]
   },
   {

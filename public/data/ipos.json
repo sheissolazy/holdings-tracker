@@ -36,45 +36,9 @@
     "status": "expected"
   },
   {
-    "ticker": "XIIIU",
-    "name": "Churchill Capital Corp XIII",
-    "date": "2026-07-31",
-    "priceRange": [
-      10.0,
-      10.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global",
-    "status": "expected"
-  },
-  {
-    "ticker": "APMD",
-    "name": "Apnimed, Inc.",
-    "date": "2026-07-31",
-    "priceRange": [
-      16.0,
-      16.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global",
-    "status": "expected"
-  },
-  {
-    "ticker": "MOT",
-    "name": "MetaOptics Ltd",
-    "date": "2026-07-31",
-    "priceRange": [
-      5.0,
-      7.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Capital",
-    "status": "expected"
-  },
-  {
-    "ticker": "EWAVU",
-    "name": "East West Ave Acquisition Corp.",
-    "date": "2026-07-31",
+    "ticker": "PHAXU",
+    "name": "Phalanx Acquisition Corp I",
+    "date": "2026-08-04",
     "priceRange": [
       10.0,
       10.0
@@ -86,7 +50,7 @@
   {
     "ticker": "THEOU",
     "name": "BOA Acquisition Corp. II",
-    "date": "2026-07-31",
+    "date": "2026-08-04",
     "priceRange": [
       10.0,
       10.0
