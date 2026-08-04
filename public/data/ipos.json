@@ -1,5 +1,41 @@
 [
   {
+    "ticker": "BLSM",
+    "name": "BlossomHill Therapeutics, Inc.",
+    "date": "2026-08-07",
+    "priceRange": [
+      15.0,
+      17.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global Select",
+    "status": "expected"
+  },
+  {
+    "ticker": "LTGO",
+    "name": "Latigo Biotherapeutics, Inc.",
+    "date": "2026-08-07",
+    "priceRange": [
+      16.0,
+      18.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global Select",
+    "status": "expected"
+  },
+  {
+    "ticker": "PHAXU",
+    "name": "Phalanx Acquisition Corp I",
+    "date": "2026-08-06",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "BRVE",
     "name": "Braveheart Bio, Inc.",
     "date": "2026-08-06",
@@ -36,8 +72,8 @@
     "status": "expected"
   },
   {
-    "ticker": "PHAXU",
-    "name": "Phalanx Acquisition Corp I",
+    "ticker": "FJDIU",
+    "name": "ARC Group Securities Acquisition I",
     "date": "2026-08-04",
     "priceRange": [
       10.0,

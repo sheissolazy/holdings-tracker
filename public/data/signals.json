@@ -321,6 +321,54 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-08-04",
+    "sentiment": "watch",
+    "excerpt": "My REAL Polling Numbers, not those made up by the Fake News Media, are the best they have ever been, and why wouldn’t they be with the biggest tax cuts and employment numbers EVER, the biggest outside Investment in America in World history,",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117039401914044983",
+    "ticker": "",
+    "topics": [
+      "财政/税收"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-08-04",
+    "sentiment": "watch",
+    "excerpt": "Manufacturing is BOOMING! Factory activity just hit its fastest pace in more than FOUR YEARS, far exceeding expectations. New orders have expanded for SEVEN straight months. American Manufacturing is BACK! The Stock Market is at an ALL TIME",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117039164487763760",
+    "ticker": "",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-08-04",
+    "sentiment": "watch",
+    "excerpt": "UAW: 'Strategic' Tariffs Prompt Industry Hiring Surge: https://www. newsmax.com/newsfront/united-a uto-workers-tariffs-hiring-surge/2026/03/11/id/1249195/",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117037739319710599",
+    "ticker": "",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-08-03",
+    "sentiment": "watch",
+    "excerpt": "It is my Great Honor to endorse Highly Respected State Senator, and brave U.S. Navy Veteran, John Braun, who is running to represent the amazing people of Washington’s 3rd Congressional District. John is running against Marie Gluesenkamp Pe",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117033924489592618",
+    "ticker": "",
+    "topics": [
+      "财政/税收"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-08-03",
     "sentiment": "watch",
     "excerpt": "My REAL Polling Numbers, not those made up by the Fake News Media, are the best they have ever been, and why wouldn’t they be with the biggest tax cuts and employment numbers EVER, the biggest outside Investment in America in World history,",
@@ -331,38 +379,99 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-07-29",
+    "asOf": "2026-08-04",
     "sentiment": "watch",
-    "excerpt": "Does anybody have any idea how much Money and Prestige the United States Supreme Court has cost our Nation with their negative Rulings on Birthright Citizenship and TARIFFS? The answer, TRILLIONS AND TRILLIONS OF DOLLARS! President DONALD J",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117005562901056692",
-    "ticker": "",
-    "topics": [
-      "关税/贸易"
-    ]
-  },
-  {
-    "personId": "trump",
-    "type": "social",
-    "asOf": "2026-07-28",
-    "sentiment": "watch",
-    "excerpt": "Tariffs pull, USMCA pushes: Toyota to Texas: https:// thehill.com/opinion/white-hous e/5965989-toyota-texas-tacoma-tariffs-impact/",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/116998766458372558",
-    "ticker": "",
-    "topics": [
-      "关税/贸易"
-    ]
+    "excerpt": "SpaceX has committed to using Nvidia GPUs exclusively because they are the best",
+    "postUrl": "https://x.com/elonmusk/status/2084744157470351541",
+    "ticker": "NVDA",
+    "topics": []
   },
   {
     "personId": "musk",
     "type": "social",
-    "asOf": "2026-08-03",
+    "asOf": "2026-08-04",
     "sentiment": "watch",
-    "excerpt": "Oh, the irony is too much … https://t.co/k0NgRxMoLT",
-    "postUrl": "https://x.com/elonmusk/status/2084277243585384481",
+    "excerpt": "The same Starmind V1 satellite design (minus solar & radiator) will be deployed on the ground in our data centers. It’s a major improvement in data center efficiency.",
+    "postUrl": "https://x.com/elonmusk/status/2084733538591486349",
+    "ticker": "",
+    "topics": [
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-04",
+    "sentiment": "watch",
+    "excerpt": "Bessent says: \"There may be deal Tuesday or Wednesday to open Strait of Hormuz with freedom of movement\"\n\nI think markets might like the sound of this. https://t.co/qXc8u2050N",
+    "postUrl": "https://x.com/aleabitoreddit/status/2084613071423893692",
     "ticker": "",
     "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-04",
+    "sentiment": "watch",
+    "excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: \n\nThe Trump administration is drafting a ban of new Chinese optical transceivers and DC devices. \n\nWhich would likely hit China’",
+    "postUrl": "https://x.com/aleabitoreddit/status/2084597612175618342",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-04",
+    "sentiment": "watch",
+    "excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: \n\nThe Trump administration is drafting a ban of new Chinese optical transceivers and DC devices. \n\nWhich would likely hit China’",
+    "postUrl": "https://x.com/aleabitoreddit/status/2084597612175618342",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-04",
+    "sentiment": "watch",
+    "excerpt": "A very material catalyst came about for Western supply chains from $AAOI, $SIVE / Jabil, to $LITE and Coherent: \n\nThe Trump administration is drafting a ban of new Chinese optical transceivers and DC devices. \n\nWhich would likely hit China’",
+    "postUrl": "https://x.com/aleabitoreddit/status/2084597612175618342",
+    "ticker": "SIVE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-03",
+    "sentiment": "watch",
+    "excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM.\n\n$SNDK, Samsung, Micron current annual NAND capacity has been sold out, with Kioxia and SK Hynix expected to finalize allocations by August 2026. \n\n- Customers are bei",
+    "postUrl": "https://x.com/aleabitoreddit/status/2084468063228060092",
+    "ticker": "MU",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-03",
+    "sentiment": "watch",
+    "excerpt": "SK Hynix, $MU , and Samsung have sold out of 2027 capacity for DRAM/HBM.\n\n$SNDK, Samsung, Micron current annual NAND capacity has been sold out, with Kioxia and SK Hynix expected to finalize allocations by August 2026. \n\n- Customers are bei",
+    "postUrl": "https://x.com/aleabitoreddit/status/2084468063228060092",
+    "ticker": "SNDK",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-03",
+    "sentiment": "watch",
+    "excerpt": "Be Citadel:\n\n> calls for unexpected rate hike few days ago, causing market panic\n\n> reaches out and buys billions of liquidated hedge fund AI assets\n\n> no rate hike \n\n> “Bull market drivers are fully intact” https://t.co/gyy4Nk4SHq",
+    "postUrl": "https://x.com/aleabitoreddit/status/2084422873423519844",
+    "ticker": "",
+    "topics": [
+      "美联储/利率",
+      "大盘/宏观"
+    ]
   },
   {
     "personId": "serenity",
@@ -793,96 +902,6 @@
     "postUrl": "https://x.com/aleabitoreddit/status/2082605568699871284",
     "ticker": "IREN",
     "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-29",
-    "sentiment": "watch",
-    "excerpt": "$AXTI enters long term agreement with $LITE for InP substrates. \n\nLumentum has agreed to pay a deposit of $43.5M as a reservation for capacity. https://t.co/5Dl3L9EYRa",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082578803189268855",
-    "ticker": "AXTI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-29",
-    "sentiment": "watch",
-    "excerpt": "$AXTI enters long term agreement with $LITE for InP substrates. \n\nLumentum has agreed to pay a deposit of $43.5M as a reservation for capacity. https://t.co/5Dl3L9EYRa",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082578803189268855",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-29",
-    "sentiment": "watch",
-    "excerpt": "To show solidarity with the $IREN holders:\n\nI now own 1 share of IREN.",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082557648298516918",
-    "ticker": "IREN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-29",
-    "sentiment": "watch",
-    "excerpt": "Federal Reserve leaves rates unchanged at unchanged at 3.50% - 3.75%.  \n\nSo far so good, since markets would have sold off on an immediate rate hike (seem to have largely frontran hike expectations off already).   \n\nThink everyone is waitin",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082529316655763703",
-    "ticker": "",
-    "topics": [
-      "美联储/利率"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-29",
-    "sentiment": "watch",
-    "excerpt": "US Gov to take 1% stake in $GFS, and award them $300m for the US CHIPS ACT.\n\nThis is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO + Silicon Photonics. \n\n(For reference, Sivers ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082513405219631384",
-    "ticker": "GFS",
-    "topics": [
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-29",
-    "sentiment": "watch",
-    "excerpt": "US Gov to take 1% stake in $GFS, and award them $300m for the US CHIPS ACT.\n\nThis is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO + Silicon Photonics. \n\n(For reference, Sivers ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082513405219631384",
-    "ticker": "INTC",
-    "topics": [
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-29",
-    "sentiment": "watch",
-    "excerpt": "US Gov to take 1% stake in $GFS, and award them $300m for the US CHIPS ACT.\n\nThis is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO + Silicon Photonics. \n\n(For reference, Sivers ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082513405219631384",
-    "ticker": "LITE",
-    "topics": [
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-29",
-    "sentiment": "watch",
-    "excerpt": "US Gov to take 1% stake in $GFS, and award them $300m for the US CHIPS ACT.\n\nThis is actually a strong read through on $SIVE / $LITE, given this CHIPS ACT is specifically aimed at advancing CPO + Silicon Photonics. \n\n(For reference, Sivers ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082513405219631384",
-    "ticker": "SIVE",
-    "topics": [
-      "AI/芯片"
-    ]
   },
   {
     "personId": "jensen",
