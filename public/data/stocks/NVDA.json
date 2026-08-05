@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 211.94,
-  "change5dPct": 7.6,
-  "changeYtdPct": 23.3,
-  "marketCap": "$5.00T",
-  "pe": 32.0,
+  "price": 219.22,
+  "change5dPct": 15.4,
+  "changeYtdPct": 18.2,
+  "marketCap": "$5.13T",
+  "pe": 32.1,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-02-05",
-      "o": 174.93,
-      "h": 176.82,
-      "l": 171.03,
-      "c": 171.88
-    },
     {
       "t": "2026-02-06",
       "o": 176.69,
@@ -874,136 +867,148 @@
     },
     {
       "t": "2026-08-04",
-      "o": 211.49,
+      "o": 211.3,
       "h": 213.06,
       "l": 209.05,
       "c": 211.94
+    },
+    {
+      "t": "2026-08-05",
+      "o": 216.86,
+      "h": 222.22,
+      "l": 216.4,
+      "c": 219.22
     }
   ],
   "thesis": {
     "bull": [
-      "超大规模云厂商资本开支持续上修，亚马逊、谷歌、Meta、微软将2026年合计资本开支预期由约6950亿至7250亿美元上调至约7200亿至7450亿美元，AI算力需求的能见度进一步提升，直接利好英伟达数据中心GPU出货",
-      "AI代币（token）需求增长速度超出市场预期，说明推理侧算力消耗仍在快速扩张，为英伟达GPU及配套网络产品的长期需求提供支撑",
-      "co-packaged optics（CPO，共封装光学）等配套技术生态加速成熟，上游合作伙伴营收因AI系统建设而大幅增长，显示英伟达所在的AI基础设施产业链景气度仍在扩张"
+      "2026年二季度业绩期后，亚马逊、谷歌、Meta、微软将2026年合计资本开支指引上调至约7200亿至7450亿美元，较此前6950亿至7250亿美元的区间进一步提高，云端AI基础设施投入持续扩张，直接利好Nvidia数据中心GPU需求",
+      "市场消息称Nvidia新一代B200系统订单饱满、处于供不应求状态，显示下游客户对高端AI加速卡需求强劲，产能利用率与定价能力有支撑",
+      "有报道指出AI token（推理与训练算力消耗量度）需求增速持续超出此前市场预期，反映AI应用层落地正在加速，为上游算力芯片需求提供中长期支撑"
     ],
     "bear": [
-      "市场存在AI泡沫破裂的担忧声音，有评论认为近期股价反弹只是阶段性修复，警惕情绪化追高后的回调风险",
-      "英伟达股价与整个半导体板块估值已处于历史高位，若超大规模云厂商资本开支增速边际放缓或投资回报率不及预期，估值回撤压力较大",
-      "部分资金和分析观点出现分化，摩根士丹利更看好微软、谷歌等下游应用与云端厂商而非英伟达，反映市场对AI价值链利润分配存在不同判断"
+      "有报道称美国可能针对部分中国AI相关组件实施新的出口限制，Broadcom、Marvell与Nvidia均可能受到波及，中国区收入及供应链关系存在不确定性",
+      "市场上出现「AI泡沫」担忧的声音，部分评论认为像Palantir这类主权AI叙事的过热定价可能是泡沫破裂的信号，若情绪逆转，高估值的AI硬件股可能首当其冲",
+      "内存等上游材料出现供应紧张与提价迹象（如美光相关报道），若成本端压力向下游传导，可能挤压包括Nvidia在内的系统集成商及其客户的利润空间，间接影响资本开支节奏"
     ],
     "watch": [
-      "需持续跟踪亚马逊、谷歌、Meta、微软四大云厂商未来季度资本开支指引是否进一步上修或下修，这是判断英伟达数据中心业务需求趋势的核心先行指标",
-      "关注地缘政治及贸易政策变化（如对华芯片出口限制、关税政策）对英伟达产品出口与客户采购节奏的潜在影响",
-      "关注AMD、博通、Marvell、SK海力士等竞争对手及产业链公司业绩与市场份额变化，判断英伟达在AI芯片及网络互联市场的竞争地位是否发生变化"
+      "co-packaged optics（CPO，共封装光学）技术的产业化进展，多家光学与半导体公司业绩电话会中提及CPO收入加速增长，需关注其对现有GPU互联架构及Nvidia网络业务（如NVLink、Spectrum-X）的替代或协同影响",
+      "后续几大云厂商季度财报中的资本开支指引变化，capex指引的边际调整往往是市场对AI硬件需求预期重新定价的关键催化剂",
+      "美中贸易与出口管制政策的后续进展，包括是否扩大对华AI芯片及相关组件的限制范围，这将直接影响Nvidia在中国市场的收入敞口"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达（NVIDIA Corporation，NVDA）是全球领先的图形处理器（GPU）与加速计算平台供应商，业务已从传统游戏显卡拓展至数据中心AI训练与推理芯片、网络互联产品及软件生态（如CUDA），是当前全球AI基础设施建设浪潮中的核心硬件供应商之一。公司客户集中于云计算与互联网巨头，业务表现与全球AI资本开支周期高度相关。"
+        "body": "Nvidia Corporation是全球领先的GPU与AI加速计算平台供应商，核心业务涵盖数据中心（AI训练与推理芯片、网络互联产品）、游戏显卡、专业可视化及汽车与机器人计算平台。近年来公司营收结构已由传统游戏显卡主导转向以数据中心AI基础设施为核心增长引擎，客户集中于云计算巨头及大型企业客户，是当前全球AI资本开支周期中的核心受益标的之一。"
       },
       {
-        "heading": "业务驱动因素",
-        "body": "当前最主要的驱动力来自四大超大规模云厂商（亚马逊、谷歌、Meta、微软）持续上修的AI资本开支计划，2026年合计资本开支预期已上调至约7200亿至7450亿美元区间。同时，市场反映AI代币（token）需求增长速度超出此前预测，显示推理端算力消耗持续攀升，为英伟达GPU及网络产品需求提供中长期支撑。共封装光学（CPO）等配套技术生态的加速渗透，也从侧面印证AI基础设施建设的景气度。"
+        "heading": "业务与增长驱动",
+        "body": "公司增长的主要驱动力来自超大规模云厂商（亚马逊、微软、谷歌、Meta等）持续加码AI基础设施投入。据近期报道，几大云厂商已将2026年合计资本开支指引上调至约7200亿至7450亿美元区间。同时市场传闻新一代B200系统订单饱满，反映下游对高性能AI加速卡的旺盛需求。AI token消耗量的超预期增长也被视为AI应用层需求向上游算力硬件传导的积极信号。"
       },
       {
-        "heading": "财务与估值",
-        "body": "公开信息未提供英伟达最新季度财报具体数据，但从近期新闻看，整个半导体板块（包括Marvell、Sandisk、SK海力士等）随AI叙事走强而集体上涨，标普500指数亦创历史新高，反映市场对AI产业链的整体估值预期偏乐观。需要注意的是，在板块估值已处高位的背景下，任何资本开支或需求增速的边际变化都可能放大股价波动。"
+        "heading": "行业格局与竞争",
+        "body": "Nvidia在AI加速芯片市场保持领先地位，但面临AMD、Broadcom、Marvell等公司在GPU及定制ASIC（如云厂商自研芯片）领域的竞争压力。同时，co-packaged optics等新型互联技术的产业化进程可能重塑数据中心网络架构，相关企业业绩电话会中已提及CPO收入加速增长，需持续关注其对现有生态位的潜在冲击或协同效应。台积电作为关键晶圆代工伙伴，其产能与股价波动也是判断Nvidia供应链健康度的重要参考。"
       },
       {
-        "heading": "竞争格局",
-        "body": "英伟达在AI训练与推理GPU市场占据主导地位，但AMD、博通（定制AI芯片与网络产品）、Marvell（CPO及数据中心互联）等公司正加速布局，试图在AI基础设施细分环节获取份额。市场观点出现分化，摩根大通倾向于看好英伟达与AMD，而摩根士丹利更看好微软、谷歌等下游云端及应用层公司，反映投资者对AI产业链各环节的利润分配和竞争壁垒存在不同判断。"
+        "heading": "近期动态与催化剂",
+        "body": "近期新闻显示，围绕Nvidia的多空信息并存：一方面有报道称B200系统供不应求、AI token需求持续超预期，构成看多叙事的重要支撑；另一方面市场也出现关于美国可能扩大对华AI相关组件出口限制的报道，涉及Broadcom、Marvell与Nvidia，若落地将对相关公司中国区业务构成压力。此外，Alphabet等同业出现AI人才流失及内存供应链提价等报道，也为AI硬件板块整体情绪增添了不确定性。"
       },
       {
-        "heading": "政策与宏观因素",
-        "body": "近期新闻涉及多起地缘政治事件（如中东局势、原油价格波动等），虽与英伟达业务无直接关联，但需关注其对全球宏观风险偏好及资金流向的间接影响。此外，出口管制、关税及对华芯片销售政策等宏观监管因素，历来是影响英伟达业绩与股价的重要变量，需持续跟踪相关政策动向。"
+        "heading": "风险因素",
+        "body": "主要风险包括：美中贸易与出口管制政策的不确定性，可能限制公司在中国市场的销售；AI相关标的估值已处于历史高位，市场对AI基础设施投入回报率及潜在泡沫的担忧若发酵，可能引发股价大幅波动；上游内存等关键零部件供应紧张与价格上涨，可能压缩下游客户利润空间进而影响资本开支节奏；此外CPO等新型互联技术的产业化如果加速，也可能对现有产品生态形成结构性竞争压力。"
       },
       {
-        "heading": "跟踪者与市场情绪",
-        "body": "公开的国会议员交易记录显示，佩洛西在2025年末至2026年初对英伟达持仓有新建仓与部分减仓的交叉操作，反映即便是知情投资者对短期时点判断也存在分歧，不宜简单解读为单一方向信号。社交媒体层面，马斯克公开表示SpaceX将全面采用英伟达GPU，为公司在航天等新兴垂直领域的应用提供佐证；同时也有市场评论人士对AI板块整体估值持谨慎态度，认为近期反弹可能只是阶段性修复而非趋势反转，多空观点并存。"
+        "heading": "资金与内部人动向",
+        "body": "公开披露显示，知名国会议员佩洛西在2026年1月披露的交易报告中，涉及NVDA的多笔交易呈现新建多头仓位与部分减持并存的格局，2025年同期披露记录中也出现过类似的新建与减持交替模式，反映出即便是长期看多者也会阶段性获利了结或调整仓位。社交媒体层面，多位关注AI硬件产业链的观察者持续跟踪云厂商资本开支指引及CPO等细分技术趋势的最新进展，整体基调偏向中性观察而非单边押注。"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "英伟达在AI训练与推理GPU市场最主要的直接竞争对手，被部分机构与英伟达并列看好"
+        "note": "数据中心GPU及AI加速卡领域的主要竞争对手，产品线与Nvidia存在直接竞争关系"
       },
       {
         "ticker": "AVGO",
-        "name": "Broadcom Inc.",
-        "note": "通过定制AI芯片（ASIC）及网络互联产品参与AI基础设施建设，与英伟达在部分细分市场形成竞争与互补关系"
+        "name": "Broadcom Inc",
+        "note": "提供定制ASIC及网络互联方案，同时也被报道可能受到潜在对华出口限制影响"
+      },
+      {
+        "ticker": "TSM",
+        "name": "Taiwan Semiconductor Manufacturing",
+        "note": "Nvidia关键晶圆代工合作伙伴，其产能与股价表现是判断供应链健康度的重要参考"
       },
       {
         "ticker": "MRVL",
         "name": "Marvell Technology",
-        "note": "在数据中心互联、共封装光学（CPO）等领域受益于AI基础设施建设，近期因财报表现带动板块股价走强"
+        "note": "在数据中心互联及定制芯片领域与Nvidia存在部分竞争与协同关系，同样被提及可能受出口管制影响"
       },
       {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "note": "英伟达最重要的下游云端客户之一，其资本开支指引变化直接影响市场对英伟达需求的预期，也是部分机构更看好的AI应用层标的"
+        "note": "主要云端AI基础设施客户之一，其资本开支指引变化直接影响Nvidia数据中心业务需求"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-04T22:16:36.195134Z"
+    "generatedAt": "2026-08-05T22:15:15.352579Z"
   },
   "news": [
     {
-      "id": "NVDA-141114764",
-      "title": "Is Parker-Hannifin a Buy Before It Reports Earnings Aug. 6?",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-04",
-      "url": "https://finnhub.io/api/news?id=ea10c73eae306693dc6653b6c45a34daad66d136a8ad367b94454a8cced55400",
+      "id": "NVDA-141125294",
+      "title": "What's going on in today's session: dow jones movers",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-05",
+      "url": "https://finnhub.io/api/news?id=37410582800957237105abc7d2874ac064d8356eef6cdbe69591925af8b9c264",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141114765",
-      "title": "Harmony Biosciences Holdings, Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-04",
-      "url": "https://finnhub.io/api/news?id=cfe3fb3976f87553e5aabc9359f65db94dd16f18e3cd3433f924b4a17316b148",
+      "id": "NVDA-141125293",
+      "title": "Wednesday's session: top gainers and losers in the S&P500 index",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-05",
+      "url": "https://finnhub.io/api/news?id=812b1f7f2b3536c413608c3cacf20a3e7da1e3fa13339e3a8e88c45df16a3269",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141114766",
-      "title": "Arvinas, Inc. Q2 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-04",
-      "url": "https://finnhub.io/api/news?id=3be7c2392bd673b5fc063056745b765ecd64b7bf0a9771d619e7fe1b4525b02e",
+      "id": "NVDA-141124628",
+      "title": "Curious about the most active S&P500 stocks in today's session?",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-05",
+      "url": "https://finnhub.io/api/news?id=37870f8def4c147fe9117a6d7906f67f4b2141ea1f0506a5e29a7bcd6fa3663f",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141114767",
-      "title": "Ingredion Incorporated Q2 2026 Earnings Call Summary",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-04",
-      "url": "https://finnhub.io/api/news?id=cbf147cb99e698d1001da3c702b4f106bc5dd2e7b13bc9cce70a8ae4c63a962c",
+      "id": "NVDA-141124627",
+      "title": "Discover the most active stocks in Wednesday's session.",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-05",
+      "url": "https://finnhub.io/api/news?id=54a15b0b7e8e410c17dd38284f5a02ac6d3bc09c6eb31d85c1ce2a7174b8f53f",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141114768",
-      "title": "DuPont de Nemours, Inc. Q2 2026 Earnings Call Summary",
+      "id": "NVDA-141124026",
+      "title": "Wall Street Isn't Worried About SpaceX Price Declines",
       "source": "Yahoo",
-      "publishedAt": "2026-08-04",
-      "url": "https://finnhub.io/api/news?id=b7f46cf1a6e9b4098e7a036155fc93df4e84b714805eeb119c10a9155e2df26d",
+      "publishedAt": "2026-08-05",
+      "url": "https://finnhub.io/api/news?id=1625a6853d032cb8951b4fdab67de5fca475d43099fb377d770f91efada020f0",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141114769",
-      "title": "Why IPG Photonics Rallied Today",
+      "id": "NVDA-141124027",
+      "title": "Micron's Supply Crunch Is Turning Into a Pricing Story",
       "source": "Yahoo",
-      "publishedAt": "2026-08-04",
-      "url": "https://finnhub.io/api/news?id=392360c00dcb7b39b6206910043feee1a252998a013930d5c46802c2b261ac6b",
+      "publishedAt": "2026-08-05",
+      "url": "https://finnhub.io/api/news?id=719e3da3ef894d9628297db40d35de2a0734d702969cf04671c4fcb117c0b619",
       "tags": [
         "NVDA"
       ]

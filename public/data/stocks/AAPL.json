@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 309.38,
-  "change5dPct": -9.0,
-  "changeYtdPct": 12.1,
-  "marketCap": "$4.46T",
-  "pe": 35.0,
+  "price": 311.0,
+  "change5dPct": -8.0,
+  "changeYtdPct": 11.8,
+  "marketCap": "$4.52T",
+  "pe": 35.1,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-02-05",
-      "o": 278.13,
-      "h": 279.5,
-      "l": 273.23,
-      "c": 275.91
-    },
     {
       "t": "2026-02-06",
       "o": 277.12,
@@ -878,127 +871,134 @@
       "h": 310.42,
       "l": 301.32,
       "c": 309.38
+    },
+    {
+      "t": "2026-08-05",
+      "o": 309.36,
+      "h": 311.71,
+      "l": 305.67,
+      "c": 311.0
     }
   ],
   "thesis": {
     "bull": [
-      "苹果印度市场销售额首次突破100亿美元，显示公司在中国以外新兴市场的渠道扩张与制造布局成效显著，为收入结构提供新的增长极",
-      "英伟达CEO黄仁勋公开表态看好苹果在人工智能领域的前景，产业链意见领袖的正面评价提振市场对「苹果AI」概念的信心",
-      "近期新闻显示苹果在其重要市场的监管或法律事项中取得积极进展，监管层面的边际改善有利于业务长期稳定运营"
+      "Jensen Huang等行业人士近期公开表态看好苹果在AI领域的想象空间，市场对Apple Intelligence等功能带来的换机潮抱有较高期待",
+      "苹果长期具备较强品牌溢价与用户粘性，在消费电子涨价趋势下相对更有能力向终端转嫁成本压力、维持毛利率",
+      "服务业务（App Store、iCloud、AppleCare、广告等）占比持续提升，高毛利、强粘性的经常性收入有助于对冲硬件销售周期性波动"
     ],
     "bear": [
-      "公开披露显示知名跟踪者在2025年末至2026年初对苹果持仓进行多笔减仓与退出操作，虽夹杂一笔新建仓位，但整体信号偏谨慎，反映部分知情投资者对短期上行空间存疑",
-      "苹果与OpenAI之间围绕商业机密的法律纠纷持续发酵，涉及员工通讯记录被用作诉讼材料，凸显其外部AI合作关系存在紧张与不确定性",
-      "当前华尔街对AI板块的乐观情绪与首选标的集中在英伟达、AMD、微软、谷歌等算力与云端厂商，苹果未被列为主要AI交易对象，显示其在AI叙事中相对边缘化的风险"
+      "有报道指出苹果在寻求更低价内存采购方面遇到阻力，NAND与DRAM价格上行可能压缩iPhone等硬件产品的毛利空间",
+      "公开披露显示佩洛西在近几个报告期内对AAPL持仓多次进行减持或清仓操作，仅有一次新建多头记录，市场情绪层面偏谨慎",
+      "相较英伟达、博通、Marvell等直接受益于AI基础设施建设的厂商，苹果在本轮生成式AI浪潮中的直接货币化路径尚不清晰，存在被视为落后于同业的风险"
     ],
     "watch": [
-      "苹果自研AI功能后续落地进度，以及能否与外部大模型伙伴达成稳定的合作或授权安排",
-      "苹果与OpenAI法律纠纷的后续进展，包括商业机密诉讼结果及其对双方合作生态和公司声誉的潜在影响",
-      "地缘政治局势（如中东局势、关税与贸易政策变化）对苹果全球供应链成本及终端市场需求的潜在扰动"
+      "内存、存储等核心零部件采购成本与供应链议价能力的后续变化",
+      "Apple Intelligence等AI功能的用户实际采用率、留存率及其对换机周期的拉动效果",
+      "国会议员及大型机构在AAPL上的持仓变动，作为市场情绪与信息面的辅助观察指标"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果公司（Apple Inc.，AAPL）是全球领先的消费电子、软件与服务公司，核心产品线包括iPhone、Mac、iPad、可穿戴设备，以及持续扩张的服务业务，涵盖App Store、iCloud、Apple Music与Apple Pay等。公司凭借强大的品牌认知度、庞大的活跃设备基础与高粘性生态系统，在全球科技行业中占据独特地位。近年来苹果持续加码人工智能能力建设，并在中国以外的新兴市场，尤其是印度，积极拓展渠道与制造布局。"
+        "body": "苹果是全球市值最大的科技公司之一，业务涵盖iPhone、Mac、iPad、可穿戴设备等硬件产品，以及App Store、iCloud、Apple Music、AppleCare、广告等服务业务。公司以强大的品牌力、封闭生态系统和高用户粘性著称，硬件与服务协同构成其核心竞争力，同时也是全球消费电子和半导体供应链中的重要买方。"
       },
       {
-        "heading": "基本面与业务结构",
-        "body": "苹果收入结构长期以iPhone硬件销售为主，服务业务占比持续提升，成为利润率更高、增长更稳健的业务支柱。硬件业务受换机周期、新兴市场渗透率及汇率波动影响，服务业务则受益于庞大存量用户基础与订阅式收入模式。印度市场销售额突破100亿美元的里程碑，反映苹果在中国以外市场分散风险、扩大用户基数的战略正在见效。"
+        "heading": "基本面与业务动态",
+        "body": "近期公开报道显示，苹果在争取更低价内存方面遇到阻力，反映出在存储芯片涨价周期中其采购议价能力面临考验，这可能对硬件毛利率构成压力。与此同时，市场对消费电子价格上涨已有一定预期，若苹果能够通过品牌溢价将成本压力部分转嫁给消费者，则盈利能力受冲击程度或可控。服务业务的持续扩张仍是支撑整体利润结构的重要因素。"
       },
       {
-        "heading": "增长动能",
-        "body": "市场对苹果在人工智能领域的布局抱有较高期待，英伟达CEO黄仁勋近期的公开表态进一步提振了投资者对苹果AI概念的信心。若苹果能够成功将生成式AI能力整合进自身生态并转化为服务收入或换机需求，将为公司打开新的增长空间。同时，新兴市场尤其是印度及东南亚地区的渗透率提升，也是中长期增长的重要驱动因素。"
+        "heading": "多空观点",
+        "body": "多头逻辑集中于苹果生态壁垒、服务收入增长及潜在的AI功能拉动换机需求，行业人士对Apple AI的期待也在近期获得关注。空头逻辑则聚焦于零部件成本上升对硬件毛利的侵蚀，以及相较英伟达、博通、Marvell等AI基础设施受益者，苹果在本轮AI主题投资中定位相对模糊，叙事吸引力不及纯AI硬件标的。两种观点在苹果能否将AI功能转化为实际销量增长这一点上存在明显分歧。"
       },
       {
-        "heading": "风险因素",
-        "body": "苹果与OpenAI之间围绕商业机密的法律纠纷持续引发关注，凸显其在外部AI合作伙伴关系管理上面临的复杂性与不确定性。当前市场对AI板块的乐观情绪主要集中在算力与基础设施类公司，部分华尔街研报在给出AI首选标的时并未将苹果列入其中，反映市场对苹果AI叙事兑现能力仍存疑虑。宏观层面，关税政策与地缘政治局势也可能间接影响供应链成本与终端需求。"
+        "heading": "跟踪者动向解读",
+        "body": "公开披露信息显示，佩洛西在2025年底至2026年初的多份交易报告中对AAPL持仓以减持、清仓为主，仅有一笔标记为新建多头的交易，整体呈现方向不完全一致但偏谨慎的操作模式。此外，英伟达CEO黄仁勋在2026年6月的公开言论中提及对苹果AI前景的高期待，带动市场对相关AI概念股的关注度上升。需要注意的是，国会议员交易披露存在滞后性，且交易动机可能涉及个人财务规划等非公司基本面因素，解读时应保持谨慎。"
       },
       {
-        "heading": "跟踪者与情绪信号",
-        "body": "公开披露显示，知名跟踪者在2025年末至2026年初对苹果持仓进行了多笔调整，既包含新建仓位，也包含多笔减仓与退出交易，整体信号偏向谨慎，呈现多空交织的特征，并不构成单一方向的强烈信号。与此同时，产业意见领袖对苹果AI前景的正面评价，从产业视角提供了一定的情绪支撑，两类信号需综合看待，不宜单独作为判断依据。"
+        "heading": "行业与宏观背景",
+        "body": "近期市场处于地缘政治（中东局势、伊朗与海湾地区紧张关系）与AI投资热潮交织的环境中，能源价格波动通过成本端影响全球制造业，而AI相关个股（英伟达、博通、Marvell、Alphabet等）的表现分化明显，市场对AI泡沫风险的讨论也在升温。存储芯片供应紧张与涨价（如美光相关报道）是影响苹果等终端厂商成本结构的重要变量，同时半导体出口管制等政策因素也为科技板块带来不确定性。"
       },
       {
-        "heading": "估值与展望",
-        "body": "综合来看，苹果当前处于硬件基本盘稳健、服务业务持续增长、AI战略仍待验证的阶段。新兴市场扩张与潜在的AI功能落地是主要看点，而AI合作伙伴关系的不确定性以及市场对其AI竞争力的分歧，构成主要观察变量。建议持续关注公司后续财报中服务业务增速、AI相关产品进展，以及与第三方的合作或诉讼进展，综合评估其中长期业务韧性，本分析不构成买卖建议。"
+        "heading": "风险与展望",
+        "body": "苹果面临的主要不确定性包括零部件成本上行对毛利率的潜在侵蚀、AI功能能否真正转化为换机需求与营收增长、以及在AI主题投资中相对边缘化的市场定位。地缘政治局势、半导体出口管制等宏观与政策风险也可能通过供应链间接影响公司经营环境。整体而言，苹果基本面稳健但增长驱动力的市场认知仍存在分歧，后续需持续关注财报表现、AI功能落地进度及成本端变化。"
       }
     ],
     "comparables": [
       {
         "ticker": "NVDA",
         "name": "英伟达",
-        "note": "AI算力龙头，其CEO近期公开看好苹果AI布局，两者在AI产业链中定位互补而非直接竞争"
+        "note": "AI算力基础设施核心受益者，与苹果在AI叙事定位上形成对比，其CEO近期言论提及对Apple AI的期待"
       },
       {
-        "ticker": "MSFT",
-        "name": "微软",
-        "note": "部分机构在AI交易首选标的中提及微软，可与苹果在AI变现路径与生态策略上进行横向比较"
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "AI基础设施与定制芯片相关标的，近期受到市场对AI供应链关注度提升的带动"
       },
       {
         "ticker": "GOOGL",
-        "name": "谷歌母公司Alphabet",
-        "note": "同样面临AI叙事与监管压力，可与苹果在AI战略执行及监管风险两方面进行对比"
+        "name": "Alphabet",
+        "note": "同为大型科技公司，近期因AI人才流失等因素股价承压，可与苹果在AI战略执行力上做对比"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-04T22:19:07.427058Z"
+    "generatedAt": "2026-08-05T22:17:40.875234Z"
   },
   "news": [
     {
-      "id": "AAPL-141114788",
-      "title": "OpenAI Dumps Apple Employees' Text Messages to Fight Trade Secret Suit",
+      "id": "AAPL-141127335",
+      "title": "The Calm Surface of Alphabet Stock Hides a Turbulent Forecast",
       "source": "Yahoo",
-      "publishedAt": "2026-08-04",
-      "url": "https://finnhub.io/api/news?id=140156055a42357cf66d21be921724a660e4ee227b96ecefbd9a4b7a9f4ba383",
+      "publishedAt": "2026-08-05",
+      "url": "https://finnhub.io/api/news?id=958a56e55bcf167d88870236ffbc50ea29b2df0de4e6fe292166b4ca4d3050e7",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141114789",
-      "title": "Google Should Be Forced To Shed Chrome, Advocacy Group Argues",
+      "id": "AAPL-141127336",
+      "title": "Price hikes on consumer electronics could be here to stay. Here's why.",
       "source": "Yahoo",
-      "publishedAt": "2026-08-04",
-      "url": "https://finnhub.io/api/news?id=da955bb00e0aeb07789386f0727c6a0361d2e0e985a38be1e41db740a2b859db",
+      "publishedAt": "2026-08-05",
+      "url": "https://finnhub.io/api/news?id=3ab3ff34ea34ed48c24c018beeafa326d117b1a8e1e6679df8a2b521c4821d8c",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141114790",
-      "title": "Apple Scores Major Win in One of Its Biggest Markets",
+      "id": "AAPL-141125638",
+      "title": "Spain's 'Warren Buffett' Bets Against the Crowd--and It's Paying Off",
       "source": "Yahoo",
-      "publishedAt": "2026-08-04",
-      "url": "https://finnhub.io/api/news?id=ff646f702bc2c031d7bba9c7cb56bf7dd9b83d2d8bc6139ab9025f799d80d5d5",
+      "publishedAt": "2026-08-05",
+      "url": "https://finnhub.io/api/news?id=ba00a689658c78c82e908006b0ce190991e0734b2c6de4be1377d9367955fd68",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141114791",
-      "title": "Apple's India Sales Cross $10 Billion for the First Time",
+      "id": "AAPL-141125639",
+      "title": "The companies emerging as new leaders in this renewed AI rally",
       "source": "Yahoo",
-      "publishedAt": "2026-08-04",
-      "url": "https://finnhub.io/api/news?id=48b30f18df562fcdc1127f37ffcebb3a5eb690bb405222149a1c05c882066dde",
+      "publishedAt": "2026-08-05",
+      "url": "https://finnhub.io/api/news?id=932eea13db773920965e98a45010824861bd09e9fa716b1d398590a9be2fe5a9",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141113125",
-      "title": "Apple-OpenAI Fight Takes Unexpected Turn",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-04",
-      "url": "https://finnhub.io/api/news?id=3780254b297424dcbed8c3066a2bcdd8d9dce0ec0c747d6166646b3db3df2b51",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141112223",
-      "title": "Looking for the most active stocks in the S&P500 index on Tuesday?",
+      "id": "AAPL-141125294",
+      "title": "What's going on in today's session: dow jones movers",
       "source": "ChartMill",
-      "publishedAt": "2026-08-04",
-      "url": "https://finnhub.io/api/news?id=819283bc7885d9793c93be583455cea6090c5e3f6b411a6e1ae6ad9d3cd850ee",
+      "publishedAt": "2026-08-05",
+      "url": "https://finnhub.io/api/news?id=37410582800957237105abc7d2874ac064d8356eef6cdbe69591925af8b9c264",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141125640",
+      "title": "Apple's Search for Cheaper Memory Just Hit a Wall",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-05",
+      "url": "https://finnhub.io/api/news?id=c66c1caa0ab2916b1dafaf88bea7dc911e9f6f867b9fcb78eb3a3bb3d1128fe6",
       "tags": [
         "AAPL"
       ]

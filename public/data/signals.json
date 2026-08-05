@@ -323,6 +323,28 @@
     "type": "social",
     "asOf": "2026-08-04",
     "sentiment": "watch",
+    "excerpt": "The Highly Respected Alan Dershowitz has written a powerful new book, “Why I quit the Dems and so should you! (confessions of a reluctant Republican*).” Alan is a Great American Patriot who understands the Wisdom and Courage it takes to def",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117039621730674599",
+    "ticker": "AMZN",
+    "topics": []
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-08-04",
+    "sentiment": "watch",
+    "excerpt": "It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117039619696525479",
+    "ticker": "AMZN",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-08-04",
+    "sentiment": "watch",
     "excerpt": "My REAL Polling Numbers, not those made up by the Fake News Media, are the best they have ever been, and why wouldn’t they be with the biggest tax cuts and employment numbers EVER, the biggest outside Investment in America in World history,",
     "postUrl": "https://truthsocial.com/@realDonaldTrump/117039401914044983",
     "ticker": "",
@@ -367,38 +389,14 @@
     ]
   },
   {
-    "personId": "trump",
-    "type": "social",
-    "asOf": "2026-08-03",
-    "sentiment": "watch",
-    "excerpt": "My REAL Polling Numbers, not those made up by the Fake News Media, are the best they have ever been, and why wouldn’t they be with the biggest tax cuts and employment numbers EVER, the biggest outside Investment in America in World history,",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117031820986118471",
-    "ticker": "",
-    "topics": [
-      "财政/税收"
-    ]
-  },
-  {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-08-04",
     "sentiment": "watch",
-    "excerpt": "SpaceX has committed to using Nvidia GPUs exclusively because they are the best",
-    "postUrl": "https://x.com/elonmusk/status/2084744157470351541",
-    "ticker": "NVDA",
+    "excerpt": "$RKLB has been awarded a $397M contract by the US Space Force.\n\nTo build out Flatellite satellites and launch them on their Medium Lift rocket, Neutron. https://t.co/0jsPPf9ucI",
+    "postUrl": "https://x.com/aleabitoreddit/status/2084795597417263442",
+    "ticker": "RKLB",
     "topics": []
-  },
-  {
-    "personId": "musk",
-    "type": "social",
-    "asOf": "2026-08-04",
-    "sentiment": "watch",
-    "excerpt": "The same Starmind V1 satellite design (minus solar & radiator) will be deployed on the ground in our data centers. It’s a major improvement in data center efficiency.",
-    "postUrl": "https://x.com/elonmusk/status/2084733538591486349",
-    "ticker": "",
-    "topics": [
-      "AI/芯片"
-    ]
   },
   {
     "personId": "serenity",
@@ -862,46 +860,6 @@
     "topics": [
       "AI/芯片"
     ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-29",
-    "sentiment": "watch",
-    "excerpt": "Just some takeaways from $META | $MSFT earnings calls:\n\nMicrosoft:\n- Expected to be FCF positive in 2027, despite the increase in capex (extremely positive for AI buildout that it's funded by operating income)\n- \"Free cash flow was $19.6 bi",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082605568699871284",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-29",
-    "sentiment": "watch",
-    "excerpt": "Just some takeaways from $META | $MSFT earnings calls:\n\nMicrosoft:\n- Expected to be FCF positive in 2027, despite the increase in capex (extremely positive for AI buildout that it's funded by operating income)\n- \"Free cash flow was $19.6 bi",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082605568699871284",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-29",
-    "sentiment": "watch",
-    "excerpt": "Just some takeaways from $META | $MSFT earnings calls:\n\nMicrosoft:\n- Expected to be FCF positive in 2027, despite the increase in capex (extremely positive for AI buildout that it's funded by operating income)\n- \"Free cash flow was $19.6 bi",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082605568699871284",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-07-29",
-    "sentiment": "watch",
-    "excerpt": "Just some takeaways from $META | $MSFT earnings calls:\n\nMicrosoft:\n- Expected to be FCF positive in 2027, despite the increase in capex (extremely positive for AI buildout that it's funded by operating income)\n- \"Free cash flow was $19.6 bi",
-    "postUrl": "https://x.com/aleabitoreddit/status/2082605568699871284",
-    "ticker": "IREN",
-    "topics": []
   },
   {
     "personId": "jensen",
