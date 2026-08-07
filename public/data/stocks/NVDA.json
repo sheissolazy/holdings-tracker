@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 219.22,
-  "change5dPct": 15.4,
-  "changeYtdPct": 18.2,
-  "marketCap": "$5.13T",
-  "pe": 32.1,
+  "price": 218.99,
+  "change5dPct": 12.3,
+  "changeYtdPct": 15.2,
+  "marketCap": "$5.30T",
+  "pe": 33.7,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-02-06",
-      "o": 176.69,
-      "h": 187.0,
-      "l": 174.6,
-      "c": 185.41
-    },
     {
       "t": "2026-02-09",
       "o": 184.26,
@@ -878,137 +871,120 @@
       "h": 222.22,
       "l": 216.4,
       "c": 219.22
+    },
+    {
+      "t": "2026-08-06",
+      "o": 221.53,
+      "h": 223.63,
+      "l": 217.27,
+      "c": 218.99
     }
   ],
   "thesis": {
     "bull": [
-      "2026年二季度业绩期后，亚马逊、谷歌、Meta、微软将2026年合计资本开支指引上调至约7200亿至7450亿美元，较此前6950亿至7250亿美元的区间进一步提高，云端AI基础设施投入持续扩张，直接利好Nvidia数据中心GPU需求",
-      "市场消息称Nvidia新一代B200系统订单饱满、处于供不应求状态，显示下游客户对高端AI加速卡需求强劲，产能利用率与定价能力有支撑",
-      "有报道指出AI token（推理与训练算力消耗量度）需求增速持续超出此前市场预期，反映AI应用层落地正在加速，为上游算力芯片需求提供中长期支撑"
+      "超大规模云厂商资本开支持续上修，2026年Amazon、Google、Meta、Microsoft合计资本开支指引由此前695-725亿美元上调至约720-745亿美元区间（此处单位应为十亿美元级别的AI基础设施投入），显示AI算力需求端仍在扩张，为NVDA数据中心GPU订单提供中期能见度",
+      "AMD、Astera Labs等产业链公司近期财报显示AI服务器相关业务收入维持高速增长，产业链景气度未见明显拐点，间接印证NVDA下游需求仍然旺盛",
+      "国会议员Pelosi在2026年1月申报的PTR中多次新增NVDA多头仓位（2025年12月30日、2026年1月16日两笔新建仓），且此前2024年底至2025年初也出现过类似「先减后加」的操作节奏，反映部分知情投资者对NVDA中期基本面仍持乐观态度"
     ],
     "bear": [
-      "有报道称美国可能针对部分中国AI相关组件实施新的出口限制，Broadcom、Marvell与Nvidia均可能受到波及，中国区收入及供应链关系存在不确定性",
-      "市场上出现「AI泡沫」担忧的声音，部分评论认为像Palantir这类主权AI叙事的过热定价可能是泡沫破裂的信号，若情绪逆转，高估值的AI硬件股可能首当其冲",
-      "内存等上游材料出现供应紧张与提价迹象（如美光相关报道），若成本端压力向下游传导，可能挤压包括Nvidia在内的系统集成商及其客户的利润空间，间接影响资本开支节奏"
+      "Sandisk疲软的业绩指引引发AI芯片股全面回调，市场开始担忧存储、封装等上游环节的产能与良率问题可能外溢至GPU供应链，压制NVDA估值情绪",
+      "社交媒体上关于CPO（共封装光学）量产良率与时间表延迟的讨论（如VIAV高管公开否认CPO推迟传闻）说明市场对NVDA相关下一代互联技术路线图存在分歧和不确定性，若量产不及预期可能影响NVDA数据中心平台升级节奏",
+      "Palantir等公司被部分评论视为「主权AI」叙事的代表，有观点认为当前AI基础设施投资叙事已趋于拥挤甚至存在泡沫化风险，一旦资本开支增速放缓或投资回报证伪，NVDA作为AI算力核心受益标的估值弹性最大，回撤风险也相应最大"
     ],
     "watch": [
-      "co-packaged optics（CPO，共封装光学）技术的产业化进展，多家光学与半导体公司业绩电话会中提及CPO收入加速增长，需关注其对现有GPU互联架构及Nvidia网络业务（如NVLink、Spectrum-X）的替代或协同影响",
-      "后续几大云厂商季度财报中的资本开支指引变化，capex指引的边际调整往往是市场对AI硬件需求预期重新定价的关键催化剂",
-      "美中贸易与出口管制政策的后续进展，包括是否扩大对华AI芯片及相关组件的限制范围，这将直接影响Nvidia在中国市场的收入敞口"
+      "密切关注下一财季超大规模云厂商资本开支指引是否延续上调趋势，这是判断NVDA数据中心业务需求持续性的核心先行指标",
+      "关注CPO及先进封装（CoWoS等）良率与产能爬坡进度，任何延迟消息都可能通过产业链传导至NVDA新一代平台（如Rubin）的出货节奏",
+      "关注中东地缘局势（伊朗与霍尔木兹海峡局势）演化对全球风险偏好和大盘流动性的影响，若冲突升级导致市场避险情绪升温，高估值成长股（包括NVDA）短期波动可能放大"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Nvidia Corporation是全球领先的GPU与AI加速计算平台供应商，核心业务涵盖数据中心（AI训练与推理芯片、网络互联产品）、游戏显卡、专业可视化及汽车与机器人计算平台。近年来公司营收结构已由传统游戏显卡主导转向以数据中心AI基础设施为核心增长引擎，客户集中于云计算巨头及大型企业客户，是当前全球AI资本开支周期中的核心受益标的之一。"
+        "body": "NVIDIA（NVDA）是全球领先的GPU与AI计算平台供应商，业务涵盖数据中心加速计算、游戏显卡、专业可视化及汽车芯片等板块，其中数据中心业务已成为公司营收与利润的主要驱动力。公司在AI训练与推理芯片市场占据主导地位，客户以超大规模云厂商、AI实验室及企业客户为主，同时也在积极布局网络互联（如NVLink、InfiniBand）、共封装光学等下一代基础设施技术，以维持在AI算力全栈中的竞争优势。"
       },
       {
-        "heading": "业务与增长驱动",
-        "body": "公司增长的主要驱动力来自超大规模云厂商（亚马逊、微软、谷歌、Meta等）持续加码AI基础设施投入。据近期报道，几大云厂商已将2026年合计资本开支指引上调至约7200亿至7450亿美元区间。同时市场传闻新一代B200系统订单饱满，反映下游对高性能AI加速卡的旺盛需求。AI token消耗量的超预期增长也被视为AI应用层需求向上游算力硬件传导的积极信号。"
+        "heading": "行业与需求端趋势",
+        "body": "近期披露的信息显示，Amazon、Google、Meta、Microsoft等超大规模云厂商已将2026年合计资本开支指引由695-725亿美元上调至约720-745亿美元，反映头部客户对AI基础设施投入的信心并未减弱，这对以数据中心GPU为核心收入来源的NVDA构成结构性利好。与此同时，AMD公布创纪录季度业绩但利润率指引未见明显改善，Astera Labs等互联芯片厂商业绩超预期但股价表现分化，显示投资者对AI产业链各环节的估值容忍度已明显收紧，市场开始更加关注「投入产出比」而非单纯的收入增速。"
       },
       {
-        "heading": "行业格局与竞争",
-        "body": "Nvidia在AI加速芯片市场保持领先地位，但面临AMD、Broadcom、Marvell等公司在GPU及定制ASIC（如云厂商自研芯片）领域的竞争压力。同时，co-packaged optics等新型互联技术的产业化进程可能重塑数据中心网络架构，相关企业业绩电话会中已提及CPO收入加速增长，需持续关注其对现有生态位的潜在冲击或协同效应。台积电作为关键晶圆代工伙伴，其产能与股价波动也是判断Nvidia供应链健康度的重要参考。"
+        "heading": "供应链与技术路线图",
+        "body": "围绕共封装光学（CPO）等下一代互联技术的良率与量产时间表，产业内出现了不同声音：部分供应链公司高管公开否认「CPO因良率问题推迟」的市场传闻，强调相关技术仍按计划推进；但Sandisk等存储芯片厂商疲软的业绩指引已引发市场对AI硬件供应链（尤其是先进封装、高带宽内存等环节）产能与成本压力的担忧，并带动包括NVDA在内的AI芯片股短期承压。这一分歧表明，供应链执行层面的不确定性正成为影响NVDA股价短期波动的重要变量。"
       },
       {
-        "heading": "近期动态与催化剂",
-        "body": "近期新闻显示，围绕Nvidia的多空信息并存：一方面有报道称B200系统供不应求、AI token需求持续超预期，构成看多叙事的重要支撑；另一方面市场也出现关于美国可能扩大对华AI相关组件出口限制的报道，涉及Broadcom、Marvell与Nvidia，若落地将对相关公司中国区业务构成压力。此外，Alphabet等同业出现AI人才流失及内存供应链提价等报道，也为AI硬件板块整体情绪增添了不确定性。"
+        "heading": "资金与知情交易动向",
+        "body": "公开披露信息显示，国会议员Pelosi在2026年1月的定期交易报告（PTR）中对NVDA进行了多笔操作：分别在2025年12月30日和2026年1月16日新建多头仓位，同时在2025年12月24日有一笔减持记录。回顾其在2024年底至2025年初也出现过类似的「先减仓后加仓」节奏。此类国会议员交易披露具有一定滞后性，且交易动机及规模无法完全还原，不能作为直接的投资建议依据，但可作为观察部分资本市场参与者情绪的一个侧面参考指标。"
       },
       {
-        "heading": "风险因素",
-        "body": "主要风险包括：美中贸易与出口管制政策的不确定性，可能限制公司在中国市场的销售；AI相关标的估值已处于历史高位，市场对AI基础设施投入回报率及潜在泡沫的担忧若发酵，可能引发股价大幅波动；上游内存等关键零部件供应紧张与价格上涨，可能压缩下游客户利润空间进而影响资本开支节奏；此外CPO等新型互联技术的产业化如果加速，也可能对现有产品生态形成结构性竞争压力。"
+        "heading": "多空分歧焦点",
+        "body": "当前市场对NVDA的核心分歧集中在两点：其一，超大规模云厂商资本开支持续上调是否能够转化为NVDA可持续的收入与利润增长，还是存在阶段性透支未来需求的风险；其二，AI硬件产业链（存储、封装、互联等环节）近期暴露出的供应与成本压力，究竟是短期波动还是预示着整体AI基础设施建设进度可能放缓。此外，市场上也存在「AI叙事过热」「主权AI泡沫」等质疑声音，与超大规模资本开支持续增长的乐观论调形成对冲，短期内NVDA股价可能在这两种叙事间反复拉锯。"
       },
       {
-        "heading": "资金与内部人动向",
-        "body": "公开披露显示，知名国会议员佩洛西在2026年1月披露的交易报告中，涉及NVDA的多笔交易呈现新建多头仓位与部分减持并存的格局，2025年同期披露记录中也出现过类似的新建与减持交替模式，反映出即便是长期看多者也会阶段性获利了结或调整仓位。社交媒体层面，多位关注AI硬件产业链的观察者持续跟踪云厂商资本开支指引及CPO等细分技术趋势的最新进展，整体基调偏向中性观察而非单边押注。"
+        "heading": "宏观与外部风险",
+        "body": "中东地缘政治局势（伊朗与霍尔木兹海峡相关消息）持续扰动全球风险资产情绪，若局势升级可能推高油价并加剧市场避险情绪，从而放大包括NVDA在内的高估值成长股的短期波动性。此外，近期整体股市呈现「涨少跌多」、板块轮动加快的特征（如科技股表现分化、部分AI相关ETF表现亮眼但个股波动剧烈），提示投资者在关注NVDA基本面的同时，也需留意宏观流动性环境和风险偏好变化对其估值倍数的潜在冲击。"
       }
     ],
     "comparables": [
-      {
-        "ticker": "AMD",
-        "name": "Advanced Micro Devices",
-        "note": "数据中心GPU及AI加速卡领域的主要竞争对手，产品线与Nvidia存在直接竞争关系"
-      },
-      {
-        "ticker": "AVGO",
-        "name": "Broadcom Inc",
-        "note": "提供定制ASIC及网络互联方案，同时也被报道可能受到潜在对华出口限制影响"
-      },
-      {
-        "ticker": "TSM",
-        "name": "Taiwan Semiconductor Manufacturing",
-        "note": "Nvidia关键晶圆代工合作伙伴，其产能与股价表现是判断供应链健康度的重要参考"
-      },
-      {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "在数据中心互联及定制芯片领域与Nvidia存在部分竞争与协同关系，同样被提及可能受出口管制影响"
-      },
-      {
-        "ticker": "MSFT",
-        "name": "Microsoft Corporation",
-        "note": "主要云端AI基础设施客户之一，其资本开支指引变化直接影响Nvidia数据中心业务需求"
-      }
+      "占位"
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-05T22:15:15.352579Z"
+    "generatedAt": "2026-08-07T01:01:43.756648Z"
   },
   "news": [
     {
-      "id": "NVDA-141125294",
-      "title": "What's going on in today's session: dow jones movers",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-05",
-      "url": "https://finnhub.io/api/news?id=37410582800957237105abc7d2874ac064d8356eef6cdbe69591925af8b9c264",
-      "tags": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "NVDA-141125293",
-      "title": "Wednesday's session: top gainers and losers in the S&P500 index",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-05",
-      "url": "https://finnhub.io/api/news?id=812b1f7f2b3536c413608c3cacf20a3e7da1e3fa13339e3a8e88c45df16a3269",
-      "tags": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "NVDA-141124628",
-      "title": "Curious about the most active S&P500 stocks in today's session?",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-05",
-      "url": "https://finnhub.io/api/news?id=37870f8def4c147fe9117a6d7906f67f4b2141ea1f0506a5e29a7bcd6fa3663f",
-      "tags": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "NVDA-141124627",
-      "title": "Discover the most active stocks in Wednesday's session.",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-05",
-      "url": "https://finnhub.io/api/news?id=54a15b0b7e8e410c17dd38284f5a02ac6d3bc09c6eb31d85c1ce2a7174b8f53f",
-      "tags": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "NVDA-141124026",
-      "title": "Wall Street Isn't Worried About SpaceX Price Declines",
+      "id": "NVDA-141142260",
+      "title": "Why Occidental Stock Is Up Today",
       "source": "Yahoo",
-      "publishedAt": "2026-08-05",
-      "url": "https://finnhub.io/api/news?id=1625a6853d032cb8951b4fdab67de5fca475d43099fb377d770f91efada020f0",
+      "publishedAt": "2026-08-06",
+      "url": "https://finnhub.io/api/news?id=5897de7a9f14126b2be0a7fabda0af77b65ddea1e65b985a71244332eb0b4b41",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141124027",
-      "title": "Micron's Supply Crunch Is Turning Into a Pricing Story",
+      "id": "NVDA-141142261",
+      "title": "Nuclear Wipeout: These 5 Nuclear Stocks Are Now Down 44.3% to 82.2%. Time to Buy?",
       "source": "Yahoo",
-      "publishedAt": "2026-08-05",
-      "url": "https://finnhub.io/api/news?id=719e3da3ef894d9628297db40d35de2a0734d702969cf04671c4fcb117c0b619",
+      "publishedAt": "2026-08-06",
+      "url": "https://finnhub.io/api/news?id=ae536c97f62ba4c6946830706f4df90d764fd25dd62cc54469511d244f0869fc",
+      "tags": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "NVDA-141142262",
+      "title": "Brookfield (TSX:BN) Completed The Oaktree Acquisition",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-06",
+      "url": "https://finnhub.io/api/news?id=7efe6485fb01ae4c33de469bde91cecc9497a02a426741fd45e9548c46b714df",
+      "tags": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "NVDA-141142263",
+      "title": "Why Dave Stock Got Thrashed on Thursday",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-06",
+      "url": "https://finnhub.io/api/news?id=8b3b1d920a9366266ce6d57ec173ba86bbb82b27161bc245af26882c014f5a81",
+      "tags": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "NVDA-141142264",
+      "title": "Why Joby Aviation Stock Flew Higher Today",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-06",
+      "url": "https://finnhub.io/api/news?id=23207dbabed900c295af2d103b3fa5243d5db0358cdb79b64854e84f61f28a76",
+      "tags": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "NVDA-141142265",
+      "title": "Nuveen Churchill Direct Lending Corp. Q2 2026 Earnings Call Summary",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-06",
+      "url": "https://finnhub.io/api/news?id=badf1941152c2b36f10597a25757bd5f78572737ba18b5acc15d51756e167403",
       "tags": [
         "NVDA"
       ]
