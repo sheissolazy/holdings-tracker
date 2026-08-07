@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T01:04:41Z",
+  "generatedAt": "2026-08-07T21:45:46Z",
   "mode": "live",
   "sources": {
     "13f": "SEC EDGAR",
@@ -22,16 +22,16 @@
   ],
   "health": {
     "x": "ok",
-    "checkedAt": "2026-08-07T01:04:41Z",
+    "checkedAt": "2026-08-07T21:45:46Z",
     "maobidao": {
-      "lastPost": "2026-08-06",
-      "daysSince": 1,
+      "lastPost": "2026-08-07",
+      "daysSince": 0,
       "stale": false
     }
   },
   "counts": {
     "people": 8,
-    "signals": 86,
+    "signals": 87,
     "news": 42,
     "ipos": 2,
     "stocks": 5

@@ -3,11 +3,11 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 312.41,
-  "change5dPct": -6.3,
-  "changeYtdPct": 13.8,
+  "price": 313.33,
+  "change5dPct": 1.4,
+  "changeYtdPct": 14.1,
   "marketCap": "$4.56T",
-  "pe": 35.3,
+  "pe": 35.4,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
@@ -878,127 +878,134 @@
       "h": 316.29,
       "l": 309.23,
       "c": 312.41
+    },
+    {
+      "t": "2026-08-07",
+      "o": 311.32,
+      "h": 314.81,
+      "l": 310.74,
+      "c": 313.33
     }
   ],
   "thesis": {
     "bull": [
-      "iPhone与服务两大业务构成稳固的现金流基础，全球高端换机及订阅生态粘性依然突出",
-      "服务业务收入占比持续提升，涵盖App Store、iCloud、Apple Music等，带动整体毛利率结构改善",
-      "市场对Apple Intelligence相关功能寄予期待，英伟达CEO黄仁勋近期公开表态带动市场对苹果AI布局的乐观情绪升温"
+      "英伟达CEO黄仁勋公开表态对苹果AI前景抱有很高期待，带动市场对苹果AI应用端的买盘情绪升温",
+      "近期报道显示苹果是当前资金「疯狂追捧」的少数科技股之一，机构与主题基金持续增持，显示需求端仍然强劲",
+      "美国就业数据走弱推升美联储降息预期，美元走软、利率下行环境下成长股估值受到支撑，标普500屡创新高对苹果等权重股形成顺风"
     ],
     "bear": [
-      "相较于微软、谷歌等同业，苹果在生成式AI大模型与云端AI基础设施上的投入与产品化进度被部分投资者认为落后",
-      "硬件销量增速放缓，iPhone为代表的核心产品创新周期拉长，缺乏颠覆性新品类支撑估值扩张",
-      "对中国市场与亚洲供应链的高度依赖使公司面临地缘政治、关税及本地竞争加剧的多重不确定性"
+      "跟踪者动向存在明显分歧：佩洛西相关披露显示2025年12月30日曾新建仓，但同期及此前多份文件（2025年12月24日、2025年10月22日、2024年12月31日交易）均为减持，长期趋势偏向获利了结而非持续加仓",
+      "迈克尔·伯里公开警示主要AI股票估值过高，「AI泡沫」担忧在市场上持续发酵，若情绪逆转苹果作为AI应用代表股可能被系统性抛售波及",
+      "苹果就AI相关商业秘密纠纷寻求禁令，反映出公司在AI人才争夺与技术积累上面临外部摩擦，存在诉讼时间和潜在赔偿的不确定性"
     ],
     "watch": [
-      "关注下一代iPhone发布节奏及Apple Intelligence功能落地效果，判断能否催化新一轮换机周期",
-      "关注美国国会议员等公众人物持仓变动，如佩洛西相关PTR披露显示2025年末存在新建多头与同期减持并存的分歧信号，需持续跟踪后续披露",
-      "关注App Store反垄断监管进展及服务业务增速变化，这将直接影响公司高毛利业务占比的可持续性"
+      "关注苹果在下一阶段产品发布与软件更新中AI功能的实际落地进度，能否兑现市场对「苹果AI」的高预期",
+      "关注美联储降息路径与美元走势变化，这将影响苹果海外收入折算及整体成长股估值倍数",
+      "关注AI与软件板块整体估值剧烈波动（如软件股「SaaSpocalypse」讨论及AI泡沫争论）是否外溢并影响苹果股价的短期情绪面"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值领先的消费电子与科技公司，核心产品包括iPhone、Mac、iPad、可穿戴设备，以及涵盖App Store、iCloud、Apple Music、AppleCare等在内的服务业务。公司凭借硬件加软件加服务的闭环生态，在全球高端消费电子市场保持领先的品牌溢价与用户粘性，近年来服务收入占比持续提升，成为驱动利润率改善的重要引擎。"
+        "body": "苹果是全球市值最高的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品，以及服务、可穿戴设备等高毛利业务线。公司近年来持续将AI能力整合进操作系统与硬件生态，试图在生成式AI浪潮中巩固消费电子入口地位。当前市场对其AI战略的执行力和商业化节奏存在较大关注度。"
       },
       {
-        "heading": "财务与业务表现",
-        "body": "苹果整体营收结构以iPhone为主，服务业务增速通常快于硬件业务并贡献更高毛利。公司现金流充沛，持续通过股票回购与分红回馈股东。近期财报季中市场对硬件销量增长的边际放缓与服务业务的持续扩张形成对比，投资者关注两者此消彼长对整体盈利质量的影响。"
+        "heading": "财务与估值",
+        "body": "公开新闻显示有分析讨论苹果股价能否在年内触及400美元的目标价位，反映市场对其估值仍持乐观预期，但同时AI板块整体估值过高的警示声音也在增多。苹果作为高权重成分股，其估值波动与大盘及科技板块整体情绪高度联动，需结合美元及利率环境综合评估。"
       },
       {
-        "heading": "增长驱动因素",
-        "body": "未来增长驱动主要来自服务业务的持续渗透、可穿戴及新兴品类的贡献，以及市场对Apple Intelligence等AI功能能否催化新一轮换机周期的预期。若AI功能能够显著提升用户体验并推动硬件升级需求，将为公司带来新的收入增量；反之若进展缓慢，则可能被视为错失AI红利。"
+        "heading": "增长驱动",
+        "body": "AI相关的产品与服务升级被视为苹果下一阶段增长的重要看点，英伟达等行业领军人物对苹果AI前景的正面评价在一定程度上提振了市场信心。同时，美联储降息预期升温、美元走弱的宏观环境也为科技成长股估值提供了支撑，资金流向显示苹果仍是主题型基金重点配置对象之一。"
       },
       {
-        "heading": "风险与挑战",
-        "body": "主要风险包括：一是在生成式AI技术竞赛中相对谷歌、微软、亚马逊等同业的落后担忧；二是对中国市场销量及供应链的高度依赖，使公司易受地缘政治摩擦、关税政策及本土品牌竞争的冲击；三是App Store等服务业务面临的全球反垄断监管压力，可能压缩高毛利业务空间。"
+        "heading": "风险因素",
+        "body": "AI板块估值泡沫担忧是当前最大的外部风险之一，知名投资人已公开示警，若市场情绪转向谨慎，苹果可能受到板块联动性抛压。此外，公司卷入AI相关商业秘密诉讼，反映出人才与技术竞争带来的法律与声誉风险，可能对短期市场情绪造成扰动。"
       },
       {
-        "heading": "市场情绪与持仓动向",
-        "body": "公开披露信息显示，围绕AAPL的市场情绪存在分歧。一方面，英伟达CEO黄仁勋近期公开言论被市场解读为对苹果AI布局的正面信号，带动相关AI概念股买盘；另一方面，美国国会议员佩洛西相关的PTR交易披露显示，2025年末存在新建多头头寸的同时也伴随多笔减持记录，且2025年内此前也多次出现减持动作，反映出即便是知情投资者群体内部对该股票的中长期判断也并不一致。此类披露仅反映特定主体的交易行为，不构成对公司基本面的直接结论。"
+        "heading": "跟踪者与机构动向",
+        "body": "公开披露显示，知名跟踪者在苹果仓位上的操作并不一致：既有2025年12月末的新建仓记录，也有多次减持记录贯穿2024年底至2025年全年。这种反复操作说明即便是长期跟踪的机构投资者对苹果后市判断也存在分歧，不宜简单解读为单一方向的强烈信号。"
       },
       {
-        "heading": "估值与同业比较",
-        "body": "苹果当前估值通常伴随一定的品牌与生态溢价，市场在给予其相对同业更高估值倍数的同时，也对其AI进展与创新周期给予更严格的审视。与微软、谷歌等同业相比，苹果的AI变现路径尚未完全清晰，这构成多空分歧的核心焦点之一。"
+        "heading": "综合展望",
+        "body": "综合来看，苹果当前处于AI叙事红利与估值泡沫担忧交织的阶段，宏观流动性环境偏友好为股价提供支撑，但AI商业化兑现节奏、诉讼风险及板块情绪波动仍是主要不确定因素。投资者应持续跟踪产品发布进展、宏观利率路径及跟踪者仓位变化，而非依赖单一信号做出判断。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
-        "name": "Microsoft Corporation",
-        "note": "在企业级AI与云计算布局上进展更快，是市场衡量苹果AI落后与否的重要参照"
+        "name": "微软",
+        "note": "同为AI叙事核心受益标的，可比较其云与AI服务商业化进度与苹果消费端AI落地节奏"
+      },
+      {
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "AI算力龙头，其管理层对苹果AI的评价及自身估值波动可作为AI板块情绪的重要参照"
       },
       {
         "ticker": "GOOGL",
-        "name": "Alphabet Inc.",
-        "note": "在生成式AI模型与搜索场景应用上具备先发优势，与苹果在消费级AI体验上形成潜在竞争"
-      },
-      {
-        "ticker": "005930.KS",
-        "name": "Samsung Electronics",
-        "note": "在高端智能手机市场与苹果直接竞争，同时在AI手机功能布局上动作较为迅速"
+        "name": "谷歌母公司Alphabet",
+        "note": "在消费级AI应用与硬件生态上与苹果存在直接竞争，可比较双方AI产品路线与市场反应"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-07T01:04:01.481313Z"
+    "generatedAt": "2026-08-07T21:45:07.225359Z"
   },
   "news": [
     {
-      "id": "AAPL-141140246",
-      "title": "$2.9 Billion In Payouts, A Lagging Stock: The SNAP Trade-Off",
+      "id": "AAPL-141150944",
+      "title": "Canaccord Genuity Shareholders Back Board as Revenue Tops CAD 2 Billion",
       "source": "Yahoo",
-      "publishedAt": "2026-08-06",
-      "url": "https://finnhub.io/api/news?id=8206ec0143975facf0368e2c2e36063820241351141604e981b25c49323245cb",
+      "publishedAt": "2026-08-07",
+      "url": "https://finnhub.io/api/news?id=b50855c2d2ea6063a581cdc483de0f96c8b43bace2df6883231983977433c353",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141140247",
-      "title": "MP Earnings Show Chinese Rare-Earth Monopoly Is Fading",
+      "id": "AAPL-141150945",
+      "title": "‘Your refund: $0’: Companies claim billions in tariff refunds, months after Trump floated $2,000 checks",
       "source": "Yahoo",
-      "publishedAt": "2026-08-06",
-      "url": "https://finnhub.io/api/news?id=0a03924cea2e4d0214b8415536798c2eb85ec434c1480d98cb6a0817a2e5714c",
+      "publishedAt": "2026-08-07",
+      "url": "https://finnhub.io/api/news?id=b9e0d0522cd492921f47b9424e5ec45c72a30455df7feadfc95d99831fa41e97",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141140239",
-      "title": "Top Research Reports for Apple, Shell & Toyota Motor",
+      "id": "AAPL-141149375",
+      "title": "Greg Abel concentrates 63% of Berkshire's $355B portfolio in 5 stocks",
       "source": "Yahoo",
-      "publishedAt": "2026-08-06",
-      "url": "https://finnhub.io/api/news?id=6c58064eaebe5202bcaa12490ed62a9a8c04d19731bd9afcdb2ca62be35e78e1",
+      "publishedAt": "2026-08-07",
+      "url": "https://finnhub.io/api/news?id=ad587f616e3440cc360f0ff35dfea0b6b74fe3d149384b71c46c2afc9e0ca425",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141140240",
-      "title": "Sector Update: Tech Stocks Mixed Late Afternoon",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-06",
-      "url": "https://finnhub.io/api/news?id=4ba83db200f28de293f86740f45bcc8db4849764f38f75274098a3f466675224",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141140241",
-      "title": "Apple App Store revenue ticks up despite falling downloads",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-06",
-      "url": "https://finnhub.io/api/news?id=1a983ab8a1e7894ed408cf54013c665ee7233f4328bdb72384cbf8f4f8e84ba5",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141138339",
-      "title": "Which dow jones stocks are moving on Thursday?",
+      "id": "AAPL-141148911",
+      "title": "Exploring the top movers within the dow jones index during today's session.",
       "source": "ChartMill",
-      "publishedAt": "2026-08-06",
-      "url": "https://finnhub.io/api/news?id=8a79d5859cbdfc9e73a0e1db0c3fbeb34f04abfddc35eda0009b708cdabbb329",
+      "publishedAt": "2026-08-07",
+      "url": "https://finnhub.io/api/news?id=90e59b20f2b77e8be0f9b80023cfea68966c63722d4f19a0161c55c2e4e3141a",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141149376",
+      "title": "Prediction: Can Apple Stock Reach $400 This Year?",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-07",
+      "url": "https://finnhub.io/api/news?id=29ab2cb310108052c37f125dd9c00f6912f6b7902c5c4f2eb07997898669f2e0",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141149377",
+      "title": "Apple (AAPL) Seeks Injunction In AI Trade Secret Lawsuit",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-07",
+      "url": "https://finnhub.io/api/news?id=e2a078d4a7c9e31e5f9e1ce094226db5e100d47274a0bcc96c6cf4fcba83b2fb",
       "tags": [
         "AAPL"
       ]
