@@ -1,26 +1,14 @@
 [
   {
-    "ticker": "BLSM",
-    "name": "BlossomHill Therapeutics, Inc.",
-    "date": "2026-08-07",
+    "ticker": "PTT",
+    "name": "SIYATA PTT",
+    "date": "2026-09-08",
     "priceRange": [
-      15.0,
-      17.0
+      0,
+      0
     ],
     "sector": "—",
-    "exchange": "NASDAQ Global Select",
-    "status": "expected"
-  },
-  {
-    "ticker": "LTGO",
-    "name": "Latigo Biotherapeutics, Inc.",
-    "date": "2026-08-07",
-    "priceRange": [
-      16.0,
-      18.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global Select",
+    "exchange": "NASDAQ Capital",
     "status": "expected"
   }
 ]
