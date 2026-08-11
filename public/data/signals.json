@@ -321,14 +321,178 @@
   {
     "personId": "trump",
     "type": "social",
-    "asOf": "2026-08-06",
+    "asOf": "2026-08-10",
     "sentiment": "watch",
-    "excerpt": "Trump allies push to arm president with new tariff weapon to punish countries 'ripping off' America: https://www. foxnews.com/politics/trump-all ies-push-arm-president-new-tariff-weapon-punish-countries-ripping-off-america",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117050488103108270",
-    "ticker": "",
+    "excerpt": "Chandler Hall, representing, on Television, the foolish Center for American Lack of Progress, stated that adding the National Guard to Cities, including our now Great Again, Washington, D.C., had “NO impact on Crime.” How crazy is that. Hal",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117074526504264990",
+    "ticker": "AAPL",
+    "topics": []
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-08-10",
+    "sentiment": "watch",
+    "excerpt": "Tesla",
+    "postUrl": "https://x.com/elonmusk/status/2087046381877833990",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-11",
+    "sentiment": "watch",
+    "excerpt": "Insane earnings today for the AI theme with $CRWV, $SMCI, and $LITE. \n\nCoreweave: Absurd ~$104B+ backlog, which doesn't include $25B+ of new customer agreements added in early Q3. \n\nCompute demand read through for Neoclouds is enormous (For",
+    "postUrl": "https://x.com/aleabitoreddit/status/2087285356999958663",
+    "ticker": "CRWV",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-11",
+    "sentiment": "watch",
+    "excerpt": "Insane earnings today for the AI theme with $CRWV, $SMCI, and $LITE. \n\nCoreweave: Absurd ~$104B+ backlog, which doesn't include $25B+ of new customer agreements added in early Q3. \n\nCompute demand read through for Neoclouds is enormous (For",
+    "postUrl": "https://x.com/aleabitoreddit/status/2087285356999958663",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-11",
+    "sentiment": "watch",
+    "excerpt": "Insane earnings today for the AI theme with $CRWV, $SMCI, and $LITE. \n\nCoreweave: Absurd ~$104B+ backlog, which doesn't include $25B+ of new customer agreements added in early Q3. \n\nCompute demand read through for Neoclouds is enormous (For",
+    "postUrl": "https://x.com/aleabitoreddit/status/2087285356999958663",
+    "ticker": "SMCI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-11",
+    "sentiment": "watch",
+    "excerpt": "$SMCI 2027 guidance was actually unholy: $65-$72 billion FY 2027 revenue guidance... \n\nvs. ~$52.4B expected, a casual +$16.1B above consensus. \n\nSMCI logged a massive $60B+ in news order from this earnings. \n\nThat timeline is also interesti",
+    "postUrl": "https://x.com/aleabitoreddit/status/2087280662802026931",
+    "ticker": "SMCI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-11",
+    "sentiment": "watch",
+    "excerpt": "$SMCI 2027 guidance was actually unholy: $65-$72 billion FY 2027 revenue guidance... \n\nvs. ~$52.4B expected, a casual +$16.1B above consensus. \n\nSMCI logged a massive $60B+ in news order from this earnings. \n\nThat timeline is also interesti",
+    "postUrl": "https://x.com/aleabitoreddit/status/2087280662802026931",
+    "ticker": "SPCX",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-11",
+    "sentiment": "watch",
+    "excerpt": "$LITE earnings are out, very strong earnings:\n\nRevenue: $1.01B, +24.5% Q/Q, +109.3% Y/Y growth\nvs. ~$984.6M\nAdj. EPS: $3.23 vs. ~$2.95\nGross Margin (non-gaap): 50.4% / Operating margin (non-gaap) 36.6%\n\nQ1 FY2027 guidance is probably more i",
+    "postUrl": "https://x.com/aleabitoreddit/status/2087271842696593764",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-11",
+    "sentiment": "watch",
+    "excerpt": "$LITE earnings are out, very strong earnings:\n\nRevenue: $1.01B, +24.5% Q/Q, +109.3% Y/Y growth\nvs. ~$984.6M\nAdj. EPS: $3.23 vs. ~$2.95\nGross Margin (non-gaap): 50.4% / Operating margin (non-gaap) 36.6%\n\nQ1 FY2027 guidance is probably more i",
+    "postUrl": "https://x.com/aleabitoreddit/status/2087271842696593764",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-11",
+    "sentiment": "watch",
+    "excerpt": "$LITE earnings are out, very strong earnings:\n\nRevenue: $1.01B, +24.5% Q/Q, +109.3% Y/Y growth\nvs. ~$984.6M\nAdj. EPS: $3.23 vs. ~$2.95\nGross Margin (non-gaap): 50.4% / Operating margin (non-gaap) 36.6%\n\nQ1 FY2027 guidance is probably more i",
+    "postUrl": "https://x.com/aleabitoreddit/status/2087271842696593764",
+    "ticker": "SIVEF",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-11",
+    "sentiment": "watch",
+    "excerpt": "Just putting it out there for people that think AAOI is a one year cycle...\n\n$AAOI projects their ELSFP capacity for CPO to be 400K/units a month in 2028.\n\n400k * ~$400 ELS ASP (GS assumptions) = + another ~$1.92B 2028 annualized revenue ca",
+    "postUrl": "https://x.com/aleabitoreddit/status/2087249406638862506",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-10",
+    "sentiment": "watch",
+    "excerpt": "uhhh... the Unitree IPO is more than 8000 times oversubscribed by retail investors. \n\nThe demand for pure play humanoid companies is absolutely enormous?\n\nI'm personally in the US-based Agility Robotics club (Softbank, $NVDA, $AMZN, Foxconn",
+    "postUrl": "https://x.com/aleabitoreddit/status/2087000954742927390",
+    "ticker": "NVDA",
     "topics": [
-      "关税/贸易"
+      "IPO/财报"
     ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-10",
+    "sentiment": "watch",
+    "excerpt": "uhhh... the Unitree IPO is more than 8000 times oversubscribed by retail investors. \n\nThe demand for pure play humanoid companies is absolutely enormous?\n\nI'm personally in the US-based Agility Robotics club (Softbank, $NVDA, $AMZN, Foxconn",
+    "postUrl": "https://x.com/aleabitoreddit/status/2087000954742927390",
+    "ticker": "AMZN",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-10",
+    "sentiment": "watch",
+    "excerpt": "uhhh... the Unitree IPO is more than 8000 times oversubscribed by retail investors. \n\nThe demand for pure play humanoid companies is absolutely enormous?\n\nI'm personally in the US-based Agility Robotics club (Softbank, $NVDA, $AMZN, Foxconn",
+    "postUrl": "https://x.com/aleabitoreddit/status/2087000954742927390",
+    "ticker": "CCXI",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-10",
+    "sentiment": "watch",
+    "excerpt": "Woah, $RIOT announced a $9.1B deal with Anthropic, with a possible contract extending to $16.1B, over 20Y.\n\n$AMD also exercised its option to expand its existing deal with Riot. (And they still have another 1 GW campus they have LOI with fo",
+    "postUrl": "https://x.com/aleabitoreddit/status/2086988264448409739",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-10",
+    "sentiment": "watch",
+    "excerpt": "Woah, $RIOT announced a $9.1B deal with Anthropic, with a possible contract extending to $16.1B, over 20Y.\n\n$AMD also exercised its option to expand its existing deal with Riot. (And they still have another 1 GW campus they have LOI with fo",
+    "postUrl": "https://x.com/aleabitoreddit/status/2086988264448409739",
+    "ticker": "IREN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-10",
+    "sentiment": "watch",
+    "excerpt": "Woah, $RIOT announced a $9.1B deal with Anthropic, with a possible contract extending to $16.1B, over 20Y.\n\n$AMD also exercised its option to expand its existing deal with Riot. (And they still have another 1 GW campus they have LOI with fo",
+    "postUrl": "https://x.com/aleabitoreddit/status/2086988264448409739",
+    "ticker": "RIOT",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -666,178 +830,6 @@
     "excerpt": "I usually make fun of sellside, but Rosenblatt has pretty goated channel checks on optical names, and their reports are one of the few I like talking about. \n\n$AAOI, $LITE, $SIVE, and the laser party has started to recover around the est. t",
     "postUrl": "https://x.com/aleabitoreddit/status/2085649654059016387",
     "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-07",
-    "sentiment": "watch",
-    "excerpt": "Unitree, China's humanoid leader, is set to IPO this month at a $9B valuation! (~$6.2B originally per March filing). \n\nDerivative markets are pricing open at an implied $36.04B MC, roughly ~4X listing price. \n\n$CCXI / Agility Robotics, the ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085644051446108223",
-    "ticker": "CCXI",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-07",
-    "sentiment": "watch",
-    "excerpt": "Earlier today, optical interconnect company Lumilens \"emerges from stealth\" at a $5.5B valuation, after raising $700m.\n\nJust as a recap from $POET / $SIVE Linkedin OSINT mapping I shared earlier, Lumilens was supplying a top 3 hyperscaler c",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085628664528662818",
-    "ticker": "POET",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-07",
-    "sentiment": "watch",
-    "excerpt": "Earlier today, optical interconnect company Lumilens \"emerges from stealth\" at a $5.5B valuation, after raising $700m.\n\nJust as a recap from $POET / $SIVE Linkedin OSINT mapping I shared earlier, Lumilens was supplying a top 3 hyperscaler c",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085628664528662818",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-06",
-    "sentiment": "watch",
-    "excerpt": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough.\n\n1. AAOI not meaningfully participating in CPO first-gen deployments.\n\n\"We just can’t make enough of them [CPO lasers] to be involved in their current ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085603590903902621",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-06",
-    "sentiment": "watch",
-    "excerpt": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough.\n\n1. AAOI not meaningfully participating in CPO first-gen deployments.\n\n\"We just can’t make enough of them [CPO lasers] to be involved in their current ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085603590903902621",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-06",
-    "sentiment": "watch",
-    "excerpt": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough.\n\n1. AAOI not meaningfully participating in CPO first-gen deployments.\n\n\"We just can’t make enough of them [CPO lasers] to be involved in their current ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085603590903902621",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-06",
-    "sentiment": "watch",
-    "excerpt": "Wow, there's gem after gem in $AAOI earnings for $SIVE + other laser player readthrough.\n\n1. AAOI not meaningfully participating in CPO first-gen deployments.\n\n\"We just can’t make enough of them [CPO lasers] to be involved in their current ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085603590903902621",
-    "ticker": "AVGO",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-06",
-    "sentiment": "watch",
-    "excerpt": "$MTSI earnings transcript: \n\n\"Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers\"\n\nEmphasis on \"Urgency\", CW \"DFB lasers\", \"coming to us\".\n\nCW DFB names, such as like $SIVE and $LITE sh",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085511646257332581",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-06",
-    "sentiment": "watch",
-    "excerpt": "$MTSI earnings transcript: \n\n\"Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers\"\n\nEmphasis on \"Urgency\", CW \"DFB lasers\", \"coming to us\".\n\nCW DFB names, such as like $SIVE and $LITE sh",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085511646257332581",
-    "ticker": "MTSI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-06",
-    "sentiment": "watch",
-    "excerpt": "$MTSI earnings transcript: \n\n\"Customers are coming to us with urgency due to the general supply shortage of indium phosphide DFB lasers\"\n\nEmphasis on \"Urgency\", CW \"DFB lasers\", \"coming to us\".\n\nCW DFB names, such as like $SIVE and $LITE sh",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085511646257332581",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-06",
-    "sentiment": "watch",
-    "excerpt": "Just some TLDR notes on $AAOI earnings:\n\n- Expects full qualification of 1.6T products by their hyperscaler customer within next couple of weeks \n\n(helpful revenue ramp #2, timelines)\n\n-  Continues to believe that AOI will have the largest ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085499853099208716",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-06",
-    "sentiment": "watch",
-    "excerpt": "Just some TLDR notes on $AAOI earnings:\n\n- Expects full qualification of 1.6T products by their hyperscaler customer within next couple of weeks \n\n(helpful revenue ramp #2, timelines)\n\n-  Continues to believe that AOI will have the largest ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085499853099208716",
-    "ticker": "AVGO",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-06",
-    "sentiment": "watch",
-    "excerpt": "Just some TLDR notes on $AAOI earnings:\n\n- Expects full qualification of 1.6T products by their hyperscaler customer within next couple of weeks \n\n(helpful revenue ramp #2, timelines)\n\n-  Continues to believe that AOI will have the largest ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085499853099208716",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-06",
-    "sentiment": "watch",
-    "excerpt": "Just some TLDR notes on $AAOI earnings:\n\n- Expects full qualification of 1.6T products by their hyperscaler customer within next couple of weeks \n\n(helpful revenue ramp #2, timelines)\n\n-  Continues to believe that AOI will have the largest ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085499853099208716",
-    "ticker": "JBL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-06",
-    "sentiment": "watch",
-    "excerpt": "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life. \n\nIt’s one letter too long to say $TSM or $AMD. \n\nAnd nobody ever says to a friend“Wow, I like applied optoelectronics!”",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085304045099696547",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-06",
-    "sentiment": "watch",
-    "excerpt": "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life. \n\nIt’s one letter too long to say $TSM or $AMD. \n\nAnd nobody ever says to a friend“Wow, I like applied optoelectronics!”",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085304045099696547",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-06",
-    "sentiment": "watch",
-    "excerpt": "I remain convinced nobody knows how to pronounce or talk about $AAOI in real life. \n\nIt’s one letter too long to say $TSM or $AMD. \n\nAnd nobody ever says to a friend“Wow, I like applied optoelectronics!”",
-    "postUrl": "https://x.com/aleabitoreddit/status/2085304045099696547",
-    "ticker": "TSM",
     "topics": []
   },
   {

@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 217.55,
-  "change5dPct": 5.3,
-  "changeYtdPct": 14.5,
-  "marketCap": "$5.42T",
+  "price": 217.5,
+  "change5dPct": 2.6,
+  "changeYtdPct": 16.3,
+  "marketCap": "$5.26T",
   "pe": 33.8,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-02-11",
-      "o": 192.45,
-      "h": 193.26,
-      "l": 188.77,
-      "c": 190.05
-    },
     {
       "t": "2026-02-12",
       "o": 193.03,
@@ -874,136 +867,143 @@
     },
     {
       "t": "2026-08-10",
-      "o": 223.45,
+      "o": 223.4,
       "h": 224.14,
       "l": 216.77,
       "c": 217.55
+    },
+    {
+      "t": "2026-08-11",
+      "o": 222.15,
+      "h": 222.2,
+      "l": 216.3,
+      "c": 217.5
     }
   ],
   "thesis": {
     "bull": [
-      "AI基础设施资本开支持续扩张，云厂商与企业客户对GPU及配套系统采购需求旺盛，公司股价近一周内市值增加逾5000亿美元，反映市场对其AI霸主地位的持续认可",
-      "数据中心业务之外，公司在光通信互连(CPO)、网络交换等领域加速布局，OCP APAC等行业活动显示产业链伙伴(如Ayar、Lightmatter)持续与其协同，第二增长曲线正在形成",
-      "部分知名投资者及政治人物(如Pelosi)在披露文件中持续新建或加仓NVDA多头头寸，显示部分聪明钱对其长期趋势维持乐观"
+      "华尔街机构近期承诺约5000亿美元资金支持英伟达主导的AI基础设施建设，显示产业资本开支仍在扩张，需求端未见明显放缓",
+      "英伟达通过股权与融资安排深度绑定OpenAI等下游AI公司，Cramer等评论认为这类融资安排对公司长期地位是积极信号",
+      "国会议员佩洛西在2026年1月申报的交易中包含对英伟达的新建仓，显示部分政治人物账户持续加仓该股"
     ],
     "bear": [
-      "近期有报道称其巨额AI相关投资开始受到市场质疑，估值高企之下，任何AI资本开支放缓的信号都可能引发股价大幅波动",
-      "AMD、博通(AVGO)、Marvell(MRVL)等公司在AI芯片、互连及定制ASIC领域加大投入，市场担忧其在网络互连环节的份额可能被侵蚀，社交媒体上「GPU/互连即将商品化」的看空论调持续存在",
-      "内存等上游元器件成本上涨已开始传导至下游整机厂商(如苹果因内存成本上升被下调评级)，叠加中东地缘政治(伊朗局势)等宏观不确定性，可能压制风险偏好并影响供应链成本与估值"
+      "部分分析师和媒体将英伟达与其投资对象之间的资金循环安排称为循环融资，质疑收入质量与可持续性，尽管也有评论认为这一表述有失公允",
+      "知名做空投资人迈克尔伯里与黄仁勋的公开分歧被媒体称为打破AI繁荣的数字，反映市场对AI资本开支回报率的怀疑正在升温",
+      "英伟达股价近期因AI投资相关的市场与监管审查趋严而回落，佩洛西申报中也出现同期减持环节，显示部分资金存在获利了结行为"
     ],
     "watch": [
-      "公司即将公布的财报及同期ASTS、RKLB等公司财报周，市场将关注AI资本开支指引是否维持强劲",
-      "OCP APAC等行业会议上光学/CPO相关厂商的公告，将是判断其网络互连业务竞争地位的重要催化剂",
-      "内存价格上涨趋势及其对整个科技硬件供应链成本结构的传导，以及Pelosi等政治人物后续披露的买卖方向变化"
+      "本周为财报密集期，叠加OCP APAC大会上AMD、英伟达等在光互连CPO领域的新进展，可能成为板块短期催化剂",
+      "人形机器人赛道热度上升，Unitree等IPO获得大幅超额认购，英伟达被提及为Agility Robotics相关生态一员，需观察其机器人计算平台布局进展",
+      "内存与光模块等细分领域出现资金轮动迹象，若资金阶段性从GPU龙头切换至产业链其他环节，可能影响英伟达估值溢价"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA是全球领先的图形处理器(GPU)与AI计算平台提供商，业务已从传统游戏显卡扩展至数据中心AI训练与推理、专业可视化及汽车等领域。当前公司股价维持强势，近一周市值增加超过5000亿美元，反映市场对其在AI基础设施浪潮中核心地位的定价。"
+        "body": "英伟达是全球领先的图形处理器与AI加速计算芯片供应商，产品覆盖数据中心GPU、高速网络互联、CUDA软件生态等，是当前生成式AI基础设施建设的核心供应商之一。近期公司业务已从单纯芯片销售扩展至通过股权投资与融资安排深度参与下游AI公司的产能建设"
       },
       {
-        "heading": "业务与技术护城河",
-        "body": "公司核心竞争力在于GPU硬件与CUDA软件生态的深度绑定，形成较高的客户迁移成本。近期公司积极拓展数据中心网络互连、光学CPO(共封装光学)等新兴技术方向，试图在GPU算力之外构建第二增长曲线，OCP APAC等行业活动显示其与Ayar、Lightmatter等光学产业链伙伴的协同在推进中，但多头与空头对该布局能否形成新的定价权仍存分歧。"
+        "heading": "业务与增长驱动",
+        "body": "多方报道显示，华尔街机构正调动数千亿美元级别的资本开支预期投向AI基础设施，其中相当部分预计流向英伟达生态；有报道称约5000亿美元资金被组织用于支持英伟达主导的AI建设项目，显示公司在本轮AI资本开支周期中仍处于核心受益位置"
       },
       {
-        "heading": "财务与估值",
-        "body": "公开报道显示公司近期股价表现强劲，短期市值增长显著，但也有评论指出其高估值使市场对AI资本开支回报率的容忍度下降，任何增长不及预期的信号都可能放大股价波动。内存等上游成本上涨也可能对相关硬件生态的整体利润率构成压力，需结合即将公布的财报数据具体评估。"
+        "heading": "资金流与另类数据信号",
+        "body": "国会议员佩洛西的交易申报显示其账户在2025年末至2026年初对英伟达进行了新建仓与部分减持的组合操作，方向并不完全一致，说明即便是信息相对领先的投资者对短期节奏判断也存在分歧；社交媒体上的行业观察者则更关注光模块、内存等细分主题的资金轮动，以及人形机器人赛道的爆发式关注度"
       },
       {
-        "heading": "行业竞争格局",
-        "body": "AMD、博通(AVGO)、Marvell(MRVL)等公司在AI加速卡、网络互连及定制ASIC领域持续发力，市场上关于「AI硬件(GPU、光模块、内存等)即将商品化」的看空叙事在社交平台反复出现。同时台积电作为上游代工厂7月营收大幅增长，从侧面印证AI芯片需求端仍然旺盛，产业链景气度是判断公司竞争地位的重要参照。"
+        "heading": "多空分歧",
+        "body": "多头逻辑集中在AI基础设施资本开支的持续性与规模效应，以及英伟达通过股权投资和融资安排巩固其生态护城河；空头逻辑聚焦于循环融资模式可能夸大真实终端需求、AI资本开支回报率存疑（伯里与黄仁勋的公开交锋即为代表），以及定制芯片与博通、Marvell等竞争对手对英伟达市场份额的潜在侵蚀"
       },
       {
-        "heading": "政策与地缘政治风险",
-        "body": "近期中东局势(伊朗相关新闻)及霍尔木兹海峡协议预期的变化对整体风险资产情绪构成扰动，科技股在部分交易日出现集体回调。虽然公司基本面与地缘政治事件无直接关联，但作为高权重成长股，其股价对宏观风险偏好变化的敏感度较高。"
+        "heading": "估值与风险因素",
+        "body": "英伟达当前估值隐含了市场对AI长期增长的高预期，一旦资本开支增速不及预期或竞争格局（如客户自研芯片、地缘政治对台积电产能的影响）发生变化，估值可能面临较大波动；与OpenAI等客户的融资绑定关系也可能被视为潜在的关联交易或收入质量风险，需持续关注监管与审计层面的解读"
       },
       {
-        "heading": "跟踪者/市场情绪动向",
-        "body": "公开披露显示，政治人物Pelosi在2025年底至2026年初期间对NVDA持仓有新建、也有部分减持记录，买卖节奏交替出现，并非单向加仓，显示即便是被市场高度关注的「聪明钱」对该股的操作也存在阶段性获利了结行为。社交媒体上关于AI硬件板块的讨论呈现多空交织，既有对CPO、光学等细分领域催化剂的关注，也不乏对「AI股泡沫」叙事的警惕声音，整体市场情绪偏向谨慎乐观并高度关注即将到来的财报与行业会议。"
+        "heading": "后续关注事项",
+        "body": "需重点跟踪即将公布的AI相关公司财报对产业链景气度的印证、OCP APAC大会上光互连与CPO领域的技术进展、以及资本市场对循环融资表述的进一步讨论；此外中东地缘政治局势对宏观风险偏好的扰动也可能间接影响科技股估值"
       }
     ],
     "comparables": [
       {
-        "ticker": "AMD",
-        "name": "Advanced Micro Devices",
-        "note": "在AI加速卡及CPU领域与公司形成直接竞争，近期宣布将Meta最新AI模型引入其PC平台"
-      },
-      {
-        "ticker": "AVGO",
-        "name": "Broadcom",
-        "note": "在定制ASIC及网络互连领域被部分市场评论认为具备差异化竞争优势"
-      },
-      {
         "ticker": "MRVL",
         "name": "Marvell Technology",
-        "note": "专注AI互连芯片，市场关注其能否凭借该领域增长支撑当前高估值"
+        "note": "定制芯片与数据中心互联领域的重要竞争者，近期股价因盈利质量担忧出现回调，可作为AI硬件板块景气度的参照"
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices",
+        "note": "在GPU与AI加速卡领域与英伟达形成直接竞争，同时也是CPO光互连等新技术的参与者"
       },
       {
         "ticker": "TSM",
-        "name": "台湾积体电路制造",
-        "note": "作为上游晶圆代工厂，其7月营收同比大增45%，为AI芯片终端需求提供产业链层面的印证"
+        "name": "台积电",
+        "note": "英伟达先进制程芯片的核心代工厂，其产能与地缘政治敞口直接影响英伟达供应链安全"
+      },
+      {
+        "ticker": "INTC",
+        "name": "Intel",
+        "note": "近期被提及通过与英伟达的融资合作寻求业务转型，可作为观察英伟达生态扩张方式的参照"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-10T21:45:02.257273Z"
+    "generatedAt": "2026-08-11T21:53:10.914257Z"
   },
   "news": [
     {
-      "id": "NVDA-141177440",
-      "title": "Sector Update: Tech Stocks Decline Late Afternoon",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-10",
-      "url": "https://finnhub.io/api/news?id=726dec967f312df0761d5640414c3e0682e72dc874c0b75fb09674733cba9848",
+      "id": "NVDA-141186369",
+      "title": "Explore the S&P500 index on Tuesday and find out which stocks are the most active in today's session.",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-11",
+      "url": "https://finnhub.io/api/news?id=1ddba27a45baea40c7ae79dcb7980b09554fc2ee56597eaef14ffecf9cf9dc26",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141177441",
-      "title": "Iovance Biotherapeutics Stock Soars After the Company Posts Strong Q2 Earnings. Is It Heading Even Higher?",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-10",
-      "url": "https://finnhub.io/api/news?id=edefa2cf6fdd60bba70576fc90995cb5e22c4bb92929d20986ab97083494aa14",
+      "id": "NVDA-141188190",
+      "title": "Wall Street Is Repackaging The AI Bubble",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-11",
+      "url": "https://finnhub.io/api/news?id=6bd714ba8103662dab6cecd608fe07b3215bb2f3a33ec484edf22c4ca326c7c9",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141177442",
-      "title": "Why Trump Media Stock Just Sank 9.4%",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-10",
-      "url": "https://finnhub.io/api/news?id=127ba38789c92d7145c7b6e57012aed62d533b072d680cd4e4e53e17472a9e73",
+      "id": "NVDA-141187800",
+      "title": "Where The Next $1.3 Trillion Of CapEx Gets Spent",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-11",
+      "url": "https://finnhub.io/api/news?id=41f111f8f1822ab324421ff33d565986361c8ab43ba579b2140eddb3177cc82a",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141177443",
-      "title": "AMD Brings Meta's New AI Model to PCs",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-10",
-      "url": "https://finnhub.io/api/news?id=ddfd4d2552b69b55aca34eaa5d0b4977ac7aa8ea9a71c6fb6c835e0f60cd3e44",
+      "id": "NVDA-141187023",
+      "title": "Polymarket Loads Up on Robinhood, Coinbase, Nasdaq Veterans Ahead of Its Biggest US Test",
+      "source": "Benzinga",
+      "publishedAt": "2026-08-11",
+      "url": "https://finnhub.io/api/news?id=7aa34f9b9597250b8a19d3e4f0025de2a79a36fb32c0ab8ff85fbde11d119a34",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141177444",
-      "title": "Nvidia Just Added $562 Billion in a Week",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-10",
-      "url": "https://finnhub.io/api/news?id=d9cdbfe7b7b6f269d9da16b4dc88ab0e76c2d0c2e7f77d0016e6753d3aeb1180",
+      "id": "NVDA-141186610",
+      "title": "Nvidia's Big Deal Expands The AI Horizon Once Again (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-11",
+      "url": "https://finnhub.io/api/news?id=7d04f3c38184512a87b9b527202ee954e42a83656b8f5ffbe1904a428c3e5b53",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141177445",
-      "title": "Berkshire's Biggest Repurchase in Nearly Two Years Shrank the Share Count by 0.4%",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-10",
-      "url": "https://finnhub.io/api/news?id=3a21023f6f7758ec2218d4515460717385d44cb28a18995cc025e6898bb261d4",
+      "id": "NVDA-141186611",
+      "title": "Navigating AI Waves: How Capital Rotation Will Propel SPY And QQQ",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-11",
+      "url": "https://finnhub.io/api/news?id=d48f8d5ed24b3a324376539de786b6e3b8d0518e5d4c8ee2820437b78ebea300",
       "tags": [
         "NVDA"
       ]

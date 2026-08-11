@@ -10,5 +10,65 @@
     "sector": "—",
     "exchange": "NASDAQ Capital",
     "status": "expected"
+  },
+  {
+    "ticker": "LYNX",
+    "name": "Lyntris Inc.",
+    "date": "2026-08-19",
+    "priceRange": [
+      19.0,
+      22.0
+    ],
+    "sector": "—",
+    "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
+    "ticker": "SCATU",
+    "name": "Southern Cross Acquisition II Corp.",
+    "date": "2026-08-12",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
+    "ticker": "FOIL",
+    "name": "Londian Wason New Energy Tech Inc.",
+    "date": "2026-08-12",
+    "priceRange": [
+      0,
+      0
+    ],
+    "sector": "—",
+    "exchange": null,
+    "status": "expected"
+  },
+  {
+    "ticker": "LEDRU",
+    "name": "Leader's Advantage Acquisition Corp.",
+    "date": "2026-08-11",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
+    "ticker": "MOT",
+    "name": "MetaOptics Ltd",
+    "date": "2026-08-11",
+    "priceRange": [
+      5.0,
+      7.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Capital",
+    "status": "expected"
   }
 ]
