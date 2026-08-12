@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 304.91,
-  "change5dPct": -1.4,
-  "changeYtdPct": 16.5,
-  "marketCap": "$4.50T",
+  "price": 302.25,
+  "change5dPct": -2.8,
+  "changeYtdPct": 18.2,
+  "marketCap": "$4.39T",
   "pe": 34.7,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-02-12",
-      "o": 275.59,
-      "h": 275.72,
-      "l": 260.18,
-      "c": 261.73
-    },
     {
       "t": "2026-02-13",
       "o": 262.01,
@@ -878,145 +871,134 @@
       "h": 309.97,
       "l": 302.79,
       "c": 304.91
+    },
+    {
+      "t": "2026-08-12",
+      "o": 305.13,
+      "h": 305.66,
+      "l": 300.57,
+      "c": 302.25
     }
   ],
   "thesis": {
     "bull": [
-      {
-        "point": "英伟达CEO黄仁勋公开对苹果AI前景表达乐观看好，市场对Apple Intelligence相关升级周期存在期待，若能推动iPhone换机需求则利好硬件与服务双轮增长"
-      },
-      {
-        "point": "苹果服务业务（App Store、iCloud、广告、支付等）持续贡献高毛利收入，现金流与股票回购能力仍是同类科技巨头中最强之一，估值支撑较稳固"
-      },
-      {
-        "point": "在当前AI基建投资热潮与资金持续涌入大型科技股的背景下，苹果作为「七巨头」之一仍是主流机构与被动资金配置的核心标的，资金面存在结构性支撑"
-      }
+      "英伟达CEO黄仁勋近期公开言论提振市场对苹果AI功能的预期，市场情绪偏向乐观，认为苹果有望在AI应用层面兑现潜力",
+      "苹果服务业务与生态系统粘性持续提供稳定现金流，为公司在AI基础设施投入周期中提供财务缓冲",
+      "近期AI基础设施与半导体板块整体走强（CoreWeave、超微电脑等财报向好），产业链景气度改善对苹果供应链及终端需求形成间接支撑"
     ],
     "bear": [
-      {
-        "point": "佩洛西相关信息披露显示其在2025年末至2026年初多次减持/退出AAPL相关头寸（2025-12-24、2025-12-30、2025-10-22等），若解读为知情交易者的谨慎信号，值得关注"
-      },
-      {
-        "point": "负责支付与钱包业务的苹果高管传出离职消息（彭博社报道），可能影响Apple Pay等新兴收入线的战略连续性与执行节奏"
-      },
-      {
-        "point": "近期新闻显示市场对「AI泡沫」担忧升温（如Burry与黄仁勋观点分歧、AI资本开支的循环融资质疑），若板块估值承压，苹果作为权重股难以独善其身；同时中东地缘局势（霍尔木兹海峡、油价波动）可能通过宏观通胀与消费信心传导至苹果终端需求"
-      }
+      "公开披露显示佩洛西在2025年底至2026年初对AAPL持仓多次「减持/退出」（change为trim/exit），显示部分知情投资者对短期估值或前景持谨慎态度",
+      "与英伟达、Marvell、闪迪等AI芯片及存储类公司相比，市场对苹果自研AI能力商业化进度的信心仍存分歧，担忧其在生成式AI浪潮中落后于同业",
+      "宏观与地缘政治不确定性上升（关税收入持续为负、中东局势紧张、美国财政赤字扩大），可能影响消费电子终端需求及苹果全球供应链成本"
     ],
     "watch": [
-      {
-        "point": "苹果在AI功能（Apple Intelligence）上的实际落地进展与消费者反馈，能否转化为实质性换机潮和服务变现"
-      },
-      {
-        "point": "支付与钱包业务高管离职后的继任安排及该业务线战略是否调整"
-      },
-      {
-        "point": "宏观与地缘风险（美伊关系、霍尔木兹海峡局势、油价）对全球消费电子需求及苹果供应链成本的潜在影响，以及后续国会/内部人交易披露的动向变化"
-      }
+      "后续国会议员（如佩洛西）针对AAPL的PTR披露动向，观察减持趋势是否延续或反转",
+      "英伟达、超微电脑等AI基础设施公司财报与产业链信号，评估其对苹果AI硬件及服务战略的外溢影响",
+      "特朗普政府相关政策与社交媒体言论对市场整体风险偏好及科技股情绪的潜在扰动"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值最高的科技公司之一，核心业务涵盖iPhone、Mac、iPad、可穿戴设备及快速增长的服务业务（App Store、iCloud、Apple Music、广告、Apple Pay等）。公司以强大的品牌忠诚度、软硬件生态闭环及稳健的现金流著称，长期通过股票回购与分红回馈股东。近期市场关注点集中在其AI战略执行力度与新兴支付业务的管理层变动上。"
+        "body": "苹果公司（AAPL）是全球领先的消费电子与科技服务企业，核心产品包括iPhone、Mac、iPad及可穿戴设备，同时通过App Store、Apple Music、iCloud等服务业务构建高粘性生态系统。近期市场关注焦点集中在苹果能否在生成式AI浪潮中推出具有竞争力的功能与产品，以维持其硬件销售与用户增长动能。"
       },
       {
-        "heading": "财务与业务",
-        "body": "服务业务毛利率显著高于硬件，是近年来推动整体盈利能力提升的关键引擎。硬件端iPhone仍是营收支柱，但增长边际放缓，市场期待AI功能能够刺激新一轮换机周期。公司资产负债表稳健，具备持续大规模回购与投资研发的能力，但也面临关税、供应链地缘风险及新兴市场竞争的多重压力。"
+        "heading": "基本面与财务观察",
+        "body": "公开信息未提供最新季度财务细节，但从行业新闻看，半导体与AI基础设施板块整体呈现强劲增长态势（如超微电脑、Lumentum等AI硬件供应商财报亮眼），这对苹果供应链成本及零部件采购环境构成间接影响。苹果服务业务的持续增长仍是支撑其估值的重要因素，但资本市场对其AI相关资本开支回报的可见度仍有限。"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "公开披露显示，国会议员佩洛西相关账户在2025年10月至2026年初期间对AAPL持仓进行了多次减持或退出操作，时间点集中在2025-10-22、2025-12-24及2025-12-30前后，同期也有一笔标记为新建多头的交易，信号并不完全一致，存在解读分歧。此外，英伟达CEO黄仁勋在2026年6月的公开言论被市场解读为对苹果AI应用前景的正面背书，二者方向相反，反映出机构与「聪明钱」对苹果短中期走势看法并不统一。"
+        "heading": "跟踪者与政策动向",
+        "body": "根据公开披露记录，众议院前议长佩洛西在2025年12月及2025年10月对AAPL持仓有多笔交易记录，其中多笔标记为「减持/退出」（trim/exit），仅有一笔在2025年12月30日标记为「新增」（new）且方向为long，整体呈现减持为主、新增为辅的混合信号，需结合具体交易细节谨慎解读，不宜简单等同于对公司基本面的负面判断。此外，英伟达CEO黄仁勋在2026年6月的公开言论被市场解读为利好苹果AI相关预期，但该言论本身聚焦于英伟达及AI芯片行业整体，对苹果的直接指向性有限。"
       },
       {
         "heading": "行业与竞争格局",
-        "body": "当前科技板块整体处于AI资本开支超级周期，英伟达、Marvell、博通等半导体与基础设施公司是资金追逐的焦点，而苹果作为终端应用层公司，其AI叙事更多依赖生态整合与消费者体验，而非直接的算力资本开支故事。新闻中提及的「AI泡沫」争议（如Burry与黄仁勋观点交锋）也波及包括苹果在内的科技权重股估值情绪。同时台积电等供应链核心环节的战略地位（如新闻提及的中国芯片竞争压力）间接影响苹果的长期成本与供应安全。"
+        "body": "当前科技与半导体板块新闻密集聚焦AI基础设施建设，英伟达、Marvell、闪迪、SK海力士、三星等公司在AI芯片与存储领域动作频繁，行业竞争与资本开支强度显著提升。苹果作为终端应用层公司，其AI战略更多依赖于自研芯片（如M系列、A系列）与软件生态的结合，与专注AI基础设施的芯片厂商在商业模式上存在差异，市场对两类公司的估值逻辑也有所不同。"
       },
       {
-        "heading": "多空分歧",
-        "body": "多头逻辑聚焦于苹果生态壁垒、服务收入结构性增长以及潜在的AI功能驱动换机周期；空头逻辑则关注管理层变动带来的执行不确定性、部分知情交易者近期减持行为，以及宏观地缘风险（中东局势推升油价、通胀预期）对消费电子终端需求的压制。整体来看，市场对苹果AI叙事能否兑现存在明显分歧，这也是当前股价波动的核心变量之一。"
+        "heading": "风险因素",
+        "body": "主要风险包括：其一，宏观与地缘政治层面，中东地区局势持续紧张（如阿曼漏油事件、也门胡塞武装对红海航运的威胁）叠加美国财政赤字扩大、关税收入为负，可能通过供应链成本与消费者信心传导至苹果业务；其二，公开披露显示部分知情投资者对AAPL持仓有所减持，需关注该趋势是否具有持续性；其三，苹果在AI产品化进度上若持续落后于同业预期，可能对其估值溢价形成压力。"
       },
       {
-        "heading": "风险与展望",
-        "body": "主要风险包括：AI功能落地不及预期、新兴支付业务管理层空缺期的执行风险、地缘政治与关税不确定性、以及科技板块整体估值若因AI叙事降温而回调对苹果的联动冲击。展望层面，投资者应持续关注苹果新品发布节奏、服务业务增速、高管团队稳定性及宏观流动性环境变化，综合判断而非单一信号决策。"
+        "heading": "展望与关注点",
+        "body": "短期内建议关注三方面动态：一是苹果自身AI功能与产品的落地进度及市场反馈；二是国会议员等公开人物后续披露动向是否延续减持趋势；三是整体科技板块情绪及宏观地缘政治风险是否出现边际变化。以上因素叠加将共同影响市场对苹果中长期基本面与估值的判断，多空观点仍存在明显分歧。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
         "name": "微软",
-        "note": "同为AI叙事核心受益者之一，云与生产力软件业务提供对比参照，AI资本开支与变现路径与苹果的应用层策略形成对照"
+        "note": "同为大型科技平台公司，AI与云服务布局较为领先，可作为苹果AI战略进度的参照对象"
       },
       {
-        "ticker": "GOOGL",
-        "name": "谷歌母公司Alphabet",
-        "note": "在AI模型与广告业务上与苹果服务生态存在竞争与合作交织关系，可作为大型科技平台估值与AI转化效率的参照"
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "AI芯片行业核心公司，其CEO言论近期直接影响市场对苹果AI预期的解读"
       },
       {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "近期新闻中被提及股价承压，作为AI基础设施半导体代表，其表现可用于观察AI硬件端资金情绪是否外溢影响苹果等应用层科技股"
+        "ticker": "INTC",
+        "name": "英特尔",
+        "note": "同为消费电子与半导体产业链相关公司，近期获知名投资人正面评价，可用于观察行业情绪对比"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-11T21:55:23.301983Z"
+    "generatedAt": "2026-08-12T21:53:10.079895Z"
   },
   "news": [
     {
-      "id": "AAPL-141186894",
-      "title": "Uncover the latest developments among dow jones stocks in today's session.",
+      "id": "AAPL-141195031",
+      "title": "Wednesday's session: top gainers and losers in the dow jones index",
       "source": "ChartMill",
-      "publishedAt": "2026-08-11",
-      "url": "https://finnhub.io/api/news?id=5e82ea525220a53dd44151da8aaa4bfeafc253e4a06b421668990e27ea2e7133",
+      "publishedAt": "2026-08-12",
+      "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141186539",
-      "title": "'Apple Executive in Charge of Pay and Wallet Services Is Leaving' - Bloomberg",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-11",
-      "url": "https://finnhub.io/api/news?id=e0f90d85a03c296aad2e502b23ad4fcb4d7748aebdca1fe3229fcf0711c3de02",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141186289",
-      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-11",
-      "url": "https://finnhub.io/api/news?id=5829b090730a3bfaa170b044ad19c11c45548669d7517f64e817df22635d3008",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141186541",
-      "title": "She Spent $200 to Start a Side Hustle From Her Closet While Working at NASA. It Now Outearns Her Six-Figure Salary",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-11",
-      "url": "https://finnhub.io/api/news?id=7d91e0575ec477eb030dc8fbc95834831ef884df5319566180e355aa6cef1a58",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141186535",
-      "title": "Nvidia's Masterstroke To Turn Itself Into An Asset Class—Characterizing This As Circular Financing Is Flawed",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-11",
-      "url": "https://finnhub.io/api/news?id=107f72b9b7203b3525918a6782654d3ecd8d3f0a81fe62023bd9e8787b43e64e",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141183274",
-      "title": "Wall Street Titans Line Up $500 Billion Behind Nvidia's AI Buildout",
+      "id": "AAPL-141194478",
+      "title": "Which S&P500 stocks are the most active on Wednesday?",
       "source": "ChartMill",
-      "publishedAt": "2026-08-11",
-      "url": "https://finnhub.io/api/news?id=c8e195b822ea32983cfa7a7fe428a81691cad5177a141c8ab398bcb51d2e05a6",
+      "publishedAt": "2026-08-12",
+      "url": "https://finnhub.io/api/news?id=89440173c0d17d0687c2c2d7bfb0f562b83c3f2aa5af7ba97e4b1195b6f44021",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141193922",
+      "title": "Which dow jones stocks are moving on Wednesday?",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-12",
+      "url": "https://finnhub.io/api/news?id=36d522e668fc05a6c971f199c20fac64954f4e371dafa88486b1351b863bd6a3",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141195357",
+      "title": "3 Ways To Get Paid For Big Tech's Volatility",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-12",
+      "url": "https://finnhub.io/api/news?id=cdbd8b46020d90895b420aaf422fe7459e7c5b74976f702183cb74b72e3bfaa3",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141194916",
+      "title": "Super Micro, Lumentum, CoreWeave Earnings Highlight AI Infrastructure Demand; CPI Data Shows Stagflation Risks Remain",
+      "source": "Benzinga",
+      "publishedAt": "2026-08-12",
+      "url": "https://finnhub.io/api/news?id=d3433d6184daca629c457ced155a8476c05d9747a9544fdfbd7d00f292e3db51",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141193383",
+      "title": "Sandisk Stock: Why I'm Buying On Fear (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-12",
+      "url": "https://finnhub.io/api/news?id=2d9e392ce05b185ec600cc57e048a82cd70d5feeda9193657fd91f9792206ba2",
       "tags": [
         "AAPL"
       ]
