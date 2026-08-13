@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 302.25,
-  "change5dPct": -2.8,
-  "changeYtdPct": 18.2,
-  "marketCap": "$4.39T",
-  "pe": 34.7,
+  "price": 305.26,
+  "change5dPct": -2.3,
+  "changeYtdPct": 15.7,
+  "marketCap": "$4.41T",
+  "pe": 34.4,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-02-13",
-      "o": 262.01,
-      "h": 262.23,
-      "l": 255.45,
-      "c": 255.78
-    },
     {
       "t": "2026-02-17",
       "o": 258.05,
@@ -874,131 +867,138 @@
     },
     {
       "t": "2026-08-12",
-      "o": 305.13,
+      "o": 305.1,
       "h": 305.66,
       "l": 300.57,
       "c": 302.25
+    },
+    {
+      "t": "2026-08-13",
+      "o": 304.26,
+      "h": 306.0,
+      "l": 302.05,
+      "c": 305.26
     }
   ],
   "thesis": {
     "bull": [
-      "英伟达CEO黄仁勋近期公开言论提振市场对苹果AI功能的预期，市场情绪偏向乐观，认为苹果有望在AI应用层面兑现潜力",
-      "苹果服务业务与生态系统粘性持续提供稳定现金流，为公司在AI基础设施投入周期中提供财务缓冲",
-      "近期AI基础设施与半导体板块整体走强（CoreWeave、超微电脑等财报向好），产业链景气度改善对苹果供应链及终端需求形成间接支撑"
+      "挪威主权财富基金（Norges Bank）近期披露大幅增持苹果，作为长线机构投资者的加仓动作被市场解读为对基本面的正面背书",
+      "苹果在美国德州休斯顿开设先进制造中心，呼应本土制造与供应链多元化的政策叙事，有助于缓解关税及地缘政治带来的供应链集中风险",
+      "英伟达CEO黄仁勋公开表态对苹果AI战略寄予厚望，带动市场对Apple Intelligence拉动iPhone换机周期的预期升温"
     ],
     "bear": [
-      "公开披露显示佩洛西在2025年底至2026年初对AAPL持仓多次「减持/退出」（change为trim/exit），显示部分知情投资者对短期估值或前景持谨慎态度",
-      "与英伟达、Marvell、闪迪等AI芯片及存储类公司相比，市场对苹果自研AI能力商业化进度的信心仍存分歧，担忧其在生成式AI浪潮中落后于同业",
-      "宏观与地缘政治不确定性上升（关税收入持续为负、中东局势紧张、美国财政赤字扩大），可能影响消费电子终端需求及苹果全球供应链成本"
+      "公开披露记录显示同一议员在相近时间段内既有新建仓也有多笔减持，交易信号本身相互矛盾，反映市场参与者对苹果当前估值存在明显分歧",
+      "多位华尔街资深人士（包括桥水前高管）警告AI相关板块估值「历史上从未出现过」的过度乐观定价，若AI叙事降温，苹果作为AI受益标的的估值溢价可能承压",
+      "中东地缘政治局势持续紧张（伊朗与美国在霍尔木兹海峡的对峙、也门胡塞武装袭击等），若推高油价与运输成本，可能通过全球供应链传导至苹果的生产与终端消费需求"
     ],
     "watch": [
-      "后续国会议员（如佩洛西）针对AAPL的PTR披露动向，观察减持趋势是否延续或反转",
-      "英伟达、超微电脑等AI基础设施公司财报与产业链信号，评估其对苹果AI硬件及服务战略的外溢影响",
-      "特朗普政府相关政策与社交媒体言论对市场整体风险偏好及科技股情绪的潜在扰动"
+      "Apple Intelligence等AI功能的实际用户采用率与其对iPhone换机周期的拉动效果，需结合后续财报披露持续验证",
+      "国会议员及大型机构后续的持仓变动披露，是否延续近期减持趋势，可作为市场情绪的辅助观察指标",
+      "半导体供应链上游公司（如美光、SanDisk、Marvell等）产能与定价的变化，可能影响苹果零部件采购成本与利润率结构"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果公司（AAPL）是全球领先的消费电子与科技服务企业，核心产品包括iPhone、Mac、iPad及可穿戴设备，同时通过App Store、Apple Music、iCloud等服务业务构建高粘性生态系统。近期市场关注焦点集中在苹果能否在生成式AI浪潮中推出具有竞争力的功能与产品，以维持其硬件销售与用户增长动能。"
+        "body": "苹果公司是全球市值领先的科技企业之一，核心业务涵盖iPhone、Mac、iPad等硬件产品，以及服务与可穿戴设备等高毛利业务板块。公司近年持续强化在美国本土的制造与研发布局，同时将生成式AI能力（Apple Intelligence）逐步嵌入其产品生态，作为下一阶段增长的重要叙事。"
       },
       {
-        "heading": "基本面与财务观察",
-        "body": "公开信息未提供最新季度财务细节，但从行业新闻看，半导体与AI基础设施板块整体呈现强劲增长态势（如超微电脑、Lumentum等AI硬件供应商财报亮眼），这对苹果供应链成本及零部件采购环境构成间接影响。苹果服务业务的持续增长仍是支撑其估值的重要因素，但资本市场对其AI相关资本开支回报的可见度仍有限。"
+        "heading": "近期动态",
+        "body": "公开报道显示苹果在美国德州休斯顿开设先进制造中心，被视为呼应本土制造政策与供应链多元化战略的举措。同期，挪威主权财富基金披露大幅增持苹果，成为市场关注的机构动向之一，带动股价出现正面反应。半导体与AI相关板块整体保持强势，标普与纳斯达克指数在芯片股带动下创出新高，市场情绪整体偏乐观。"
       },
       {
-        "heading": "跟踪者与政策动向",
-        "body": "根据公开披露记录，众议院前议长佩洛西在2025年12月及2025年10月对AAPL持仓有多笔交易记录，其中多笔标记为「减持/退出」（trim/exit），仅有一笔在2025年12月30日标记为「新增」（new）且方向为long，整体呈现减持为主、新增为辅的混合信号，需结合具体交易细节谨慎解读，不宜简单等同于对公司基本面的负面判断。此外，英伟达CEO黄仁勋在2026年6月的公开言论被市场解读为利好苹果AI相关预期，但该言论本身聚焦于英伟达及AI芯片行业整体，对苹果的直接指向性有限。"
+        "heading": "多头逻辑",
+        "body": "支持苹果的核心逻辑包括：长线机构资金（如挪威主权基金）的持续加仓显示对基本面的信心；本土制造布局有助于降低地缘政治与关税风险敞口；以及行业领军人物（如英伟达CEO）对苹果AI战略的公开背书，可能提振市场对其未来产品周期与服务生态变现能力的预期。"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "当前科技与半导体板块新闻密集聚焦AI基础设施建设，英伟达、Marvell、闪迪、SK海力士、三星等公司在AI芯片与存储领域动作频繁，行业竞争与资本开支强度显著提升。苹果作为终端应用层公司，其AI战略更多依赖于自研芯片（如M系列、A系列）与软件生态的结合，与专注AI基础设施的芯片厂商在商业模式上存在差异，市场对两类公司的估值逻辑也有所不同。"
+        "heading": "空头逻辑",
+        "body": "看空或谨慎的逻辑主要围绕：部分公开披露的交易记录显示同期存在减持迹象，暗示部分市场参与者对当前估值持保留态度；华尔街资深人士对AI板块整体估值发出「历史罕见」式的警示，若AI相关叙事出现降温，苹果作为该主题的重要受益标的可能面临估值回调压力；此外，中东地缘政治紧张局势带来的油价与供应链成本上升风险，也可能对苹果的生产成本与终端消费需求形成压制。"
       },
       {
-        "heading": "风险因素",
-        "body": "主要风险包括：其一，宏观与地缘政治层面，中东地区局势持续紧张（如阿曼漏油事件、也门胡塞武装对红海航运的威胁）叠加美国财政赤字扩大、关税收入为负，可能通过供应链成本与消费者信心传导至苹果业务；其二，公开披露显示部分知情投资者对AAPL持仓有所减持，需关注该趋势是否具有持续性；其三，苹果在AI产品化进度上若持续落后于同业预期，可能对其估值溢价形成压力。"
+        "heading": "跟踪者与机构动向",
+        "body": "公开披露信息显示，某国会议员在相近时间窗口内的交易记录呈现新建仓与多笔减持并存的情况，信号本身存在内部矛盾，反映出即便是掌握较多信息优势的政策制定者，对苹果股票的态度也并不完全一致。与此同时，挪威主权财富基金等大型机构投资者的增持披露，则传递出相对积极的长线信号，两类跟踪者的动向形成一定对比，值得投资者审慎解读，而非简单跟单。"
       },
       {
-        "heading": "展望与关注点",
-        "body": "短期内建议关注三方面动态：一是苹果自身AI功能与产品的落地进度及市场反馈；二是国会议员等公开人物后续披露动向是否延续减持趋势；三是整体科技板块情绪及宏观地缘政治风险是否出现边际变化。以上因素叠加将共同影响市场对苹果中长期基本面与估值的判断，多空观点仍存在明显分歧。"
+        "heading": "风险与展望",
+        "body": "整体来看，苹果股票的走势将受到AI产品落地效果、全球供应链与地缘政治局势、以及市场对科技股整体估值容忍度等多重因素交织影响。短期内地缘政治风险（如中东局势）与AI板块估值分歧是主要不确定性来源，中长期则取决于苹果能否将AI能力有效转化为实际的产品销量与服务收入增长。投资者应持续关注财报数据、机构持仓变化及行业供应链动态，综合评估而非依赖单一信号。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
-        "name": "微软",
-        "note": "同为大型科技平台公司，AI与云服务布局较为领先，可作为苹果AI战略进度的参照对象"
+        "name": "Microsoft Corporation",
+        "note": "同为大型科技与AI受益标的，云服务与AI产品变现路径可与苹果的端侧AI战略形成对比参照"
       },
       {
-        "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "AI芯片行业核心公司，其CEO言论近期直接影响市场对苹果AI预期的解读"
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc.",
+        "note": "同样被大型主权基金列为重仓持股之一，AI与广告业务的估值逻辑可与苹果的硬件加服务模式对照观察"
       },
       {
-        "ticker": "INTC",
-        "name": "英特尔",
-        "note": "同为消费电子与半导体产业链相关公司，近期获知名投资人正面评价，可用于观察行业情绪对比"
+        "ticker": "MRVL",
+        "name": "Marvell Technology, Inc.",
+        "note": "作为苹果供应链相关的半导体公司，其产能与定价变化可作为观察苹果零部件成本与AI基础设施需求的参考指标"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-12T21:53:10.079895Z"
+    "generatedAt": "2026-08-13T21:52:46.863372Z"
   },
   "news": [
     {
-      "id": "AAPL-141195031",
-      "title": "Wednesday's session: top gainers and losers in the dow jones index",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-12",
-      "url": "https://finnhub.io/api/news?id=78e6af217bf3b8ef504efd01eebe1e228efe4df12fa1c3ac18a373b2e6fb651e",
+      "id": "AAPL-141209287",
+      "title": "Amazon Is the Only $3 Trillion Company That Has Never Paid a Dividend",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-13",
+      "url": "https://finnhub.io/api/news?id=b1568ef924ebb492102e73103db3ae216f8794b301ac1e0c0c732802d4ba96ed",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141194478",
-      "title": "Which S&P500 stocks are the most active on Wednesday?",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-12",
-      "url": "https://finnhub.io/api/news?id=89440173c0d17d0687c2c2d7bfb0f562b83c3f2aa5af7ba97e4b1195b6f44021",
+      "id": "AAPL-141209288",
+      "title": "Apple Stock Rises While Norway Fund Reveals Huge Position",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-13",
+      "url": "https://finnhub.io/api/news?id=b919d411393dae92c480e6a371ee6d08fb0dfaad50c45a57491306f29887d719",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141193922",
-      "title": "Which dow jones stocks are moving on Wednesday?",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-12",
-      "url": "https://finnhub.io/api/news?id=36d522e668fc05a6c971f199c20fac64954f4e371dafa88486b1351b863bd6a3",
+      "id": "AAPL-141209296",
+      "title": "Millions of Americans Own Vanguard’s VFIAX and Have No Idea What They Actually Bought",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-13",
+      "url": "https://finnhub.io/api/news?id=629160cc8accb7191f2b98287dcbdaf523826e819e007d24e6b6e3ccd34aaebf",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141195357",
-      "title": "3 Ways To Get Paid For Big Tech's Volatility",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-08-12",
-      "url": "https://finnhub.io/api/news?id=cdbd8b46020d90895b420aaf422fe7459e7c5b74976f702183cb74b72e3bfaa3",
+      "id": "AAPL-141209304",
+      "title": "Nvidia Stock Gains While Norway Fund Reveals Top Holding",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-13",
+      "url": "https://finnhub.io/api/news?id=920102748a703896a9e07809103bab989f6846e6ede4b2ed2d58650ff50c6bf1",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141194916",
-      "title": "Super Micro, Lumentum, CoreWeave Earnings Highlight AI Infrastructure Demand; CPI Data Shows Stagflation Risks Remain",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-12",
-      "url": "https://finnhub.io/api/news?id=d3433d6184daca629c457ced155a8476c05d9747a9544fdfbd7d00f292e3db51",
+      "id": "AAPL-141209305",
+      "title": "Alphabet Stock Climbs as Norway Fund Ranks It Third",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-13",
+      "url": "https://finnhub.io/api/news?id=632a6356a78bbddb353d4e2ce98d665aaba5a34d8d759559a809c32707268236",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141193383",
-      "title": "Sandisk Stock: Why I'm Buying On Fear (Rating Upgrade)",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-08-12",
-      "url": "https://finnhub.io/api/news?id=2d9e392ce05b185ec600cc57e048a82cd70d5feeda9193657fd91f9792206ba2",
+      "id": "AAPL-141209306",
+      "title": "Apple opens Advanced Manufacturing Center in Houston",
+      "source": "Yahoo",
+      "publishedAt": "2026-08-13",
+      "url": "https://finnhub.io/api/news?id=5567aaf2435db11c9ee3ac05a643b069e0a7d91b43700caa228f92b4e6604ac3",
       "tags": [
         "AAPL"
       ]

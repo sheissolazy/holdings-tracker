@@ -1,8 +1,8 @@
 [
   {
     "label": "标普500",
-    "value": "$772.49",
-    "chg": "+0.3%",
+    "value": "$777.88",
+    "chg": "+0.7%",
     "pos": true,
     "group": "大盘",
     "kind": "usd",
@@ -10,8 +10,8 @@
   },
   {
     "label": "10年美债",
-    "value": "4.68%",
-    "chg": "0bp",
+    "value": "4.64%",
+    "chg": "-4bp",
     "pos": false,
     "group": "大盘",
     "kind": "yield",
@@ -19,26 +19,26 @@
   },
   {
     "label": "美元指数",
-    "value": "99.98",
-    "chg": "+0.2%",
-    "pos": true,
+    "value": "99.94",
+    "chg": "-0.1%",
+    "pos": false,
     "group": "大盘",
     "kind": "index",
     "code": "DXY"
   },
   {
     "label": "黄金",
-    "value": "$4,469.00",
-    "chg": "+2.0%",
-    "pos": true,
+    "value": "$4,407.10",
+    "chg": "-0.0%",
+    "pos": false,
     "group": "商品",
     "kind": "usd",
     "code": "GOLD"
   },
   {
     "label": "原油WTI",
-    "value": "$82.58",
-    "chg": "-0.7%",
+    "value": "$81.21",
+    "chg": "-2.5%",
     "pos": false,
     "group": "商品",
     "kind": "usd",
@@ -55,7 +55,7 @@
   },
   {
     "label": "美元/日元",
-    "value": "159.39",
+    "value": "159.50",
     "chg": "+0.1%",
     "pos": true,
     "group": "汇率",
@@ -64,8 +64,8 @@
   },
   {
     "label": "美元/韩元",
-    "value": "1,416.85",
-    "chg": "+0.3%",
+    "value": "1,418.18",
+    "chg": "+0.1%",
     "pos": true,
     "group": "汇率",
     "kind": "fx",
@@ -73,18 +73,18 @@
   },
   {
     "label": "美元/欧元",
-    "value": "0.8676",
-    "chg": "+0.2%",
-    "pos": true,
+    "value": "0.8672",
+    "chg": "-0.0%",
+    "pos": false,
     "group": "汇率",
     "kind": "fx",
     "code": "EUR"
   },
   {
     "label": "美元/加元",
-    "value": "1.3938",
-    "chg": "+0.1%",
-    "pos": true,
+    "value": "1.3932",
+    "chg": "-0.1%",
+    "pos": false,
     "group": "汇率",
     "kind": "fx",
     "code": "CAD"
@@ -92,7 +92,7 @@
   {
     "label": "人民币/美元",
     "value": "0.1485",
-    "chg": "+0.2%",
+    "chg": "+0.1%",
     "pos": true,
     "group": "人民币",
     "kind": "fx",
@@ -100,7 +100,7 @@
   },
   {
     "label": "人民币/日元",
-    "value": "23.5940",
+    "value": "23.6050",
     "chg": "-0.1%",
     "pos": false,
     "group": "人民币",
@@ -109,16 +109,16 @@
   },
   {
     "label": "人民币/欧元",
-    "value": "0.1285",
-    "chg": "+0.1%",
-    "pos": true,
+    "value": "0.1284",
+    "chg": "-0.2%",
+    "pos": false,
     "group": "人民币",
     "kind": "fx",
     "code": "CNYEUR"
   },
   {
     "label": "人民币/港元",
-    "value": "1.1619",
+    "value": "1.1620",
     "chg": "-0.1%",
     "pos": false,
     "group": "人民币",
@@ -127,7 +127,7 @@
   },
   {
     "label": "人民币/英镑",
-    "value": "0.1097",
+    "value": "0.1098",
     "chg": "-0.0%",
     "pos": false,
     "group": "人民币",
