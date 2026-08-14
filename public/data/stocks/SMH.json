@@ -3,9 +3,9 @@
   "name": "VanEck Semiconductor ETF",
   "exchange": "NASDAQ",
   "sector": "半导体 ETF",
-  "price": 589.12,
-  "change5dPct": 3.1,
-  "changeYtdPct": 44.6,
+  "price": 587.82,
+  "change5dPct": 0.9,
+  "changeYtdPct": 44.2,
   "marketCap": "—",
   "pe": null,
   "revenue": "—",
@@ -874,75 +874,117 @@
     },
     {
       "t": "2026-08-13",
-      "o": 586.3,
+      "o": 586.38,
       "h": 597.95,
       "l": 585.01,
       "c": 589.12
+    },
+    {
+      "t": "2026-08-14",
+      "o": 587.99,
+      "h": 590.28,
+      "l": 581.87,
+      "c": 587.82
     }
   ],
   "thesis": {
     "bull": [
-      "AI资本支出周期持续扩张，云厂商与超大规模数据中心对高端算力芯片的需求维持强劲，带动英伟达、博通、美光等SMH权重股业绩上修",
-      "存储芯片周期回暖，闪迪与美光近期财报显示价格与需求同步改善，成为半导体板块新的增长驱动力，带动板块整体估值修复",
-      "半导体板块在CPI数据缓和加息担忧后领涨大盘，资金持续流入AI算力供应链上游公司，行业情绪整体偏乐观"
+      "AI服务器与数据中心资本开支持续扩张，直接拉动SMH前十大重仓股（台积电、英伟达、博通等）的芯片订单与业绩预期",
+      "存储芯片行业出现周期回暖迹象，闪存与存储价格上涨为相关成分股带来边际盈利改善",
+      "近期芯片股带动标普500指数创历史新高，资金持续流入AI算力产业链，行业整体情绪偏乐观"
     ],
     "bear": [
-      "部分个股如博通旗下相关设备商Cerebras财报后暴跌逾13%，显示AI相关企业业绩兑现存在分化，市场对高估值容错度下降",
-      "马威尔科技股价较高点回落约37%，反映投资者对部分细分领域竞争格局与订单可持续性的担忧仍未消散",
-      "有对冲基金前高管警告AI相关资产定价已过于完美，一旦增长不及预期，包含大量AI硬件敞口的SMH可能面临较大回撤风险"
+      "部分成分股估值已大幅抬升，例如Marvell在累计上涨约290%后估值处于高位，存在获利了结与估值回调风险",
+      "市场对AI资本开支能否持续转化为可持续回报存在分歧，部分分析师对新兴云服务商（如Nebius）的长期前景表示保留，担忧算力过剩与AI泡沫",
+      "中东地缘政治局势推升油价、航运与出口管制风险可能扰动全球供应链与宏观情绪，间接影响半导体终端需求"
     ],
     "watch": [
-      "地缘政治层面美伊在霍尔木兹海峡的对峙及也门胡塞武装袭击沙特阿美炼油设施等事件，可能通过油价与全球风险偏好间接影响半导体板块估值",
-      "关注英伟达、博通、美光等即将公布的财报指引，尤其是数据中心与存储业务的订单能见度是否支持当前板块估值",
-      "关注美联储降息预期变化对成长股估值的影响，任何加息预期重新升温都可能压制高估值半导体板块表现"
+      "关注英伟达、台积电、博通等权重股财报及资本开支指引，判断AI算力需求是否维持强劲",
+      "关注美国对华半导体出口管制及相关地缘政治事件的后续演变",
+      "关注存储芯片价格走势及闪存、DRAM周期性变化对相关成分股盈利的传导"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "SMH为VanEck半导体ETF，跟踪全球主要半导体设计、制造与设备公司，前十大持仓通常包括英伟达、台积电、博通、AMD、美光科技等，是投资者获取半导体全产业链敞口的常见工具，成分股高度集中于AI算力相关企业"
+        "body": "SMH为VanEck半导体ETF，跟踪MVIS美国上市半导体25指数，持有约25家在美上市的全球主要半导体企业，覆盖设计、制造、设备与材料等产业链环节，前十大重仓股通常包括台积电、英伟达、博通、AMD等龙头公司"
       },
       {
-        "heading": "行业趋势",
-        "body": "近期新闻显示AI资本支出仍在加速，云厂商与企业客户持续增加对高端GPU与存储芯片的采购，闪迪等存储厂商财报后股价大涨反映行业周期性回暖，但同时Cerebras等细分公司财报不及预期显示行业内部分化加剧"
+        "heading": "行业与需求驱动",
+        "body": "当前行业核心驱动力是AI服务器与云计算资本开支的持续扩张，近期新闻显示闪存厂商释放积极信号，同时Bloom Energy等电力设备公司因AI数据中心用电需求上升而股价走高，从侧面印证了算力产业链景气度延续"
       },
       {
-        "heading": "多空分歧",
-        "body": "多头认为AI基础设施建设远未见顶，芯片设计与存储环节均受益于结构性需求增长；空头则担忧部分资产定价已计入过于乐观的假设，一旦AI相关资本开支增速放缓或竞争加剧压缩利润率，板块估值存在较大回调空间"
+        "heading": "财务与估值",
+        "body": "半导体板块整体估值已处于历史相对高位，部分个股如Marvell在大幅上涨后估值溢价明显，市场对高估值能否被未来业绩持续兑现存在分歧，需关注后续财报是否支撑当前预期"
       },
       {
-        "heading": "估值与资金面",
-        "body": "半导体板块近期带动标普500指数创历史新高，CPI数据缓和后市场降低了对进一步加息的预期，风险偏好回升利好高贝塔的半导体成分股，但估值已处于历史相对高位，对负面消息的敏感度上升"
+        "heading": "竞争格局",
+        "body": "行业集中度较高，台积电在先进制程代工领域占据主导地位，英伟达在AI芯片市场持续领先，AMD、博通、应用材料等公司分别在通用计算、网络芯片与半导体设备领域展开差异化竞争"
       },
       {
         "heading": "风险因素",
-        "body": "地缘政治风险突出，美伊在霍尔木兹海峡的军事对峙、也门胡塞武装对沙特阿美设施的袭击等事件可能推高油价并扰动全球供应链，此外AI泡沫论调若持续发酵，可能引发对高估值科技股的估值重估"
+        "body": "主要风险包括AI资本开支可持续性存疑、地缘政治紧张（如中东局势推升油价与航运风险）、半导体出口管制政策变化、行业固有的周期性波动，以及宏观经济环境对科技股估值情绪的整体影响"
       },
       {
-        "heading": "后续关注",
-        "body": "建议持续跟踪SMH权重股即将公布的季度财报及前瞻指引，尤其关注数据中心资本开支节奏、存储芯片价格走势，以及地缘政治局势演变对能源价格和市场风险偏好的传导"
+        "heading": "近期动态与展望",
+        "body": "近期芯片股带动标普500指数创新高，SanDisk等存储相关标的大幅上涨，反映市场对AI与存储周期的乐观情绪，但同时也有分析师提示AI算力扩张可能存在泡沫化与估值过高的风险，多空观点分歧明显，后续走势需持续跟踪产业链数据与主要成分股财报"
       }
     ],
     "comparables": [
       {
         "ticker": "NVDA",
         "name": "英伟达",
-        "note": "AI算力芯片龙头，SMH第一大权重股，近期财报前市场关注业绩兑现能力"
+        "note": "SMH重仓股之一，AI芯片市场领先者，其财报与资本开支指引对板块情绪影响显著"
       },
       {
-        "ticker": "MRVL",
-        "name": "马威尔科技",
-        "note": "数据中心互联与定制芯片供应商，股价较高点回落约37%，市场关注其订单可持续性"
+        "ticker": "TSM",
+        "name": "台积电",
+        "note": "全球先进制程代工龙头，SMH核心持仓，产能与地缘政治风险为关注重点"
       },
       {
-        "ticker": "SNDK",
-        "name": "闪迪",
-        "note": "存储芯片厂商，受益于存储周期回暖，近期股价大幅上涨"
+        "ticker": "AVGO",
+        "name": "博通",
+        "note": "网络与定制芯片领域重要参与者，受益于AI基础设施建设需求"
+      },
+      {
+        "ticker": "AMD",
+        "name": "超威半导体",
+        "note": "通用计算与AI加速卡领域主要竞争者，股价波动性较大，市场对其成长路径存在分歧"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-13T21:53:20.464270Z"
+    "generatedAt": "2026-08-14T21:31:23.421815Z"
   },
   "news": [
+    {
+      "id": "SMH-141217720",
+      "title": "Russell 2000 Extends Records, SanDisk Rallies 7%: Stock Market Today",
+      "source": "Benzinga",
+      "publishedAt": "2026-08-14",
+      "url": "https://finnhub.io/api/news?id=99e33aa2065a591256fc272de51c843a3fdf258e72db683b16e06da81ba91bb0",
+      "tags": [
+        "SMH"
+      ]
+    },
+    {
+      "id": "SMH-141215681",
+      "title": "Chart Of The Day: The Great 'Hot Money' Migration",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-14",
+      "url": "https://finnhub.io/api/news?id=d866ff429587bcc1280e23d74e88e4366b7a1f05a9bcbd50ee0ff54099e55326",
+      "tags": [
+        "SMH"
+      ]
+    },
+    {
+      "id": "SMH-141214581",
+      "title": "The Instrument Of Truth: How Volatility Reveals Market Reality",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-14",
+      "url": "https://finnhub.io/api/news?id=784d753d8b56db8136cafd45d7be59883461a486ad876ccbdd732c1b21237924",
+      "tags": [
+        "SMH"
+      ]
+    },
     {
       "id": "SMH-141208430",
       "title": "Chip Stocks Power S&P 500 to Record Highs, SanDisk Soars 15%: Stock Market Today",
@@ -969,36 +1011,6 @@
       "source": "SeekingAlpha",
       "publishedAt": "2026-08-13",
       "url": "https://finnhub.io/api/news?id=15c0a718647dd7486e60c2931c153d8db5fb744a96e71bc7204d9e3cd75c33d3",
-      "tags": [
-        "SMH"
-      ]
-    },
-    {
-      "id": "SMH-141206100",
-      "title": "‘Never Happened in History,’ Ex-Bridgewater Exec Warns AI Market Is Priced to Perfection",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-13",
-      "url": "https://finnhub.io/api/news?id=9ae31d19bc23b157e5c56e9a04b448bd3413a9b0d72479fb64ef46bddc5c5418",
-      "tags": [
-        "SMH"
-      ]
-    },
-    {
-      "id": "SMH-141200365",
-      "title": "You Skipped the AI Rally Because Retirement Felt Too Close. These 3 ETFs Get You In Without Betting Your Nest Egg",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-12",
-      "url": "https://finnhub.io/api/news?id=b739ccd3db72556513005ae6d3433b830826d6d23bf0a30785fc0cdf862e2773",
-      "tags": [
-        "SMH"
-      ]
-    },
-    {
-      "id": "SMH-141200344",
-      "title": "S&P500, Nasdaq End Higher As Fresh CPI Data Calms Earlier-Than-Expected Rate Hike Fears — GOOGL, DJT, WEN, BE, SNDK In Focus",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-12",
-      "url": "https://finnhub.io/api/news?id=c556c420d1117cfcc3a3753a6687ff7d77244a284971473715e8f613453b3317",
       "tags": [
         "SMH"
       ]

@@ -24,15 +24,27 @@
     "status": "expected"
   },
   {
-    "ticker": "TBCVU",
-    "name": "Thunder Bridge Capital Partners V, Ltd.",
-    "date": "2026-08-13",
+    "ticker": "ADBT",
+    "name": "Advasa Holdings, Inc.",
+    "date": "2026-08-17",
+    "priceRange": [
+      0,
+      0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
+    "ticker": "NSAIU",
+    "name": "NorthStrive Acquisition Corp I.",
+    "date": "2026-08-14",
     "priceRange": [
       10.0,
       10.0
     ],
     "sector": "—",
-    "exchange": "NASDAQ Global",
+    "exchange": "NASDAQ",
     "status": "expected"
   }
 ]
