@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 305.93,
-  "change5dPct": -2.4,
-  "changeYtdPct": 15.9,
+  "price": 305.59,
+  "change5dPct": -0.9,
+  "changeYtdPct": 15.6,
   "marketCap": "$4.46T",
   "pe": 34.4,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-02-17",
-      "o": 258.05,
-      "h": 266.29,
-      "l": 255.54,
-      "c": 263.88
-    },
     {
       "t": "2026-02-18",
       "o": 263.6,
@@ -881,131 +874,138 @@
     },
     {
       "t": "2026-08-14",
-      "o": 306.03,
+      "o": 306.0,
       "h": 307.49,
       "l": 304.3,
       "c": 305.93
+    },
+    {
+      "t": "2026-08-17",
+      "o": 306.21,
+      "h": 307.66,
+      "l": 302.94,
+      "c": 305.59
     }
   ],
   "thesis": {
     "bull": [
-      "苹果服务业务持续扩张，App Store、AppleCare、云服务与广告构成的高毛利收入占比不断提升，为整体盈利能力提供支撑，即使硬件销量增速放缓也能维持利润率",
-      "公司在美国本土加码制造布局（如得州新工厂），叠加供应链多元化举措，有助于降低地缘政治与关税相关的经营风险，并契合美国政策导向",
-      "市场对苹果在人工智能领域的追赶抱有期待，英伟达高管等业内人士近期公开表态看好苹果AI布局的潜力，若Apple Intelligence相关功能真正落地并带动换机潮，可能成为下一轮增长催化剂"
+      "据Jensen Huang等行业人士表态，市场对Apple在AI功能上的进展抱有较高期待，若苹果智能相关功能在新机型上落地，有望提振换机周期",
+      "部分分析师近期给予评级上调，Cramer等评论人士也在讨论苹果的中长期配置价值，显示机构层面并非一致看空",
+      "Pelosi在2025年12月30日的披露中出现新建仓记录，说明至少有部分资金在低位对AAPL表达了长期信心"
     ],
     "bear": [
-      "国会议员佩洛西家族在近几个报告周期内多次减持AAPL头寸，包括2025年12月30日、2025年12月24日以及2025年10月22日的交易记录，显示部分知情投资者对短期估值或前景转为谨慎",
-      "相较于英伟达、博通等在AI基础设施与算力领域直接受益的公司，苹果的AI叙事更多依赖终端软件与生态整合，商业化进度与市场认可度仍存在不确定性，可能导致其被视为AI主题中的滞后者",
-      "地缘政治与宏观风险（如中东局势推升油价、供应链紧张）叠加消费电子需求周期性波动，可能对苹果硬件业务尤其是iPhone换机需求形成压力"
+      "多篇近期报道（如「Apple Memory Headwinds Are Reason To Pause」「Don't Expect Massive Upside From Apple At This Entry Point」）指出存储芯片成本上涨正侵蚀硬件毛利率，构成明确利空",
+      "社交媒体披露美国政府正敦促苹果不要采购中国大陆存储芯片，若供应链被迫转向美光、SK海力士或三星等更高价供应商，成本压力可能进一步放大",
+      "Pelosi在2025年10月至2026年1月期间的多笔披露以减持（exit/trim）为主，显示部分知情投资者近几个月持续在兑现或降低敞口"
     ],
     "watch": [
-      "关注下一财季财报中服务业务与大中华区收入增速，判断消费电子需求是否企稳以及AI功能对换机周期的实际拉动效果",
-      "关注Apple Intelligence相关新功能的用户采纳率及第三方开发者生态反馈，以评估苹果AI战略能否转化为实际收入贡献",
-      "关注国会及机构投资者持仓变动的后续披露，尤其是佩洛西等知情交易者是否延续减持趋势，作为市场情绪的参考信号"
+      "中国大陆存储厂商（如长鑫存储、长江存储）近期同步涨价，「廉价中国存储冲击市场」的逻辑被削弱，需关注这是否会缓和还是加剧苹果的采购成本压力",
+      "地缘局势（伊朗与美方关系紧张、霍尔木兹海峡风险）若推高油价与市场波动，可能通过宏观风险偏好渠道间接影响苹果等大盘科技股估值",
+      "后续财报季中苹果对存储成本上涨的表态与毛利率指引，将是验证当前担忧是否兑现的关键节点"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值领先的科技公司之一，业务涵盖iPhone、Mac、iPad、可穿戴设备等硬件产品，以及App Store、AppleCare、云服务、广告和支付等服务业务。近期公司在美国得州新设制造设施，被视为供应链本土化与地缘政治风险管理的举措之一，同时公司也在积极对外传递其在生成式AI领域的布局与规划"
+        "body": "苹果是全球市值领先的消费电子与服务企业，核心产品线包括iPhone、Mac、iPad、可穿戴设备，以及快速增长的服务业务（App Store、iCloud、Apple Music等）。公司近年持续将AI功能整合进硬件与操作系统生态，试图以「苹果智能」相关叙事维系换机需求与用户粘性。"
       },
       {
-        "heading": "业务与增长驱动",
-        "body": "硬件销售仍是苹果收入的主要来源，但服务业务凭借高毛利率和订阅制收入模式，正在成为拉动整体盈利增长的重要引擎。市场关注苹果能否通过Apple Intelligence等AI功能提振硬件换机需求，同时其内容生态（如据报道表现强劲的自制剧集）也被认为是被低估的增长点之一"
+        "heading": "基本面与盈利驱动",
+        "body": "硬件端受存储芯片（DRAM、NAND）价格上涨影响，市场担忧毛利率承压，近期已有分析文章因此下调评级或警示上行空间有限。服务业务通常具备更高毛利率，是缓冲硬件成本波动的重要支撑，但公开信息中未提供最新分部财务数据，需结合后续财报验证。"
       },
       {
-        "heading": "资金流与知情交易动向",
-        "body": "公开披露显示，国会议员佩洛西关联账户在过去数月内对AAPL持仓进行了多次调整，其中近期披露（2026年1月23日提交，涉及2025年12月的交易）以及此前2025年10月、2025年1月的披露均显示以减持为主，仅有一笔标记为新建仓位的记录，交易方向不完全一致，反映出知情投资者对该股的看法并非单一方向"
+        "heading": "估值与市场情绪",
+        "body": "公开报道呈现分歧：一方面有分析师上调评级、财经评论员讨论其配置价值；另一方面也有文章明确提示「此位置难有大幅上行」。整体看，市场对当前估值是否已充分计入存储成本压力尚无一致结论，情绪偏向谨慎中性。"
       },
       {
-        "heading": "行业对比与竞争格局",
-        "body": "在当前市场对AI基础设施和算力需求的高度关注下，芯片与云计算相关公司（如英伟达、博通、美光等）的股价表现更为强势，苹果作为终端消费电子与生态服务提供商，其AI叙事更多体现在软件集成层面，短期内市场关注度相对分散在算力供应链公司身上"
+        "heading": "跟踪者动向",
+        "body": "国会议员Pelosi的披露记录显示出较为复杂的操作路径：2025年12月30日出现新建仓（direction为long），但同一披露文件中同时包含多笔减持记录，且2025年10月、2025年1月的披露也以减持为主。整体上，减持记录数量多于新建仓，需注意这可能反映期权到期、税务规划等非纯方向性因素，不宜简单解读为单一多空信号。"
       },
       {
-        "heading": "风险因素",
-        "body": "苹果面临的主要风险包括：全球消费电子需求放缓、地缘政治及关税政策对供应链和大中华区市场的潜在冲击、AI相关产品和功能商业化不及预期，以及部分知情投资者持续减持所反映出的市场情绪变化。此外，国际局势（如中东地区紧张局势推升能源价格）也可能通过宏观经济渠道间接影响消费支出"
+        "heading": "新闻与催化剂",
+        "body": "近期新闻的主线之一是AI相关存储芯片（DRAM/NAND）价格暴涨，美光、SanDisk等存储股大幅上涨，反衬出苹果作为存储芯片下游采购方可能面临的成本传导压力。同时有报道称美国政府正敦促苹果避免采购中国大陆存储芯片，若属实将限制苹果的供应链议价空间。宏观层面，伊朗局势紧张、油价走高、美股大盘波动等因素也构成外部风险背景。"
       },
       {
-        "heading": "多空分歧总结",
-        "body": "看多逻辑主要基于苹果服务业务的稳定增长、本土化制造布局带来的风险缓释，以及市场对其AI功能落地的期待；看空逻辑则集中在部分知情交易者的持续减持、苹果在AI基础设施竞赛中相对边缘化的定位，以及消费电子需求周期性波动的压力。整体来看，市场对苹果短期走势存在明显分歧，需持续跟踪财报数据和AI功能采纳情况以验证任一逻辑"
+        "heading": "风险与关注点",
+        "body": "主要风险集中在：一是存储芯片涨价对硬件毛利率的持续侵蚀程度尚未明确；二是若供应链被迫排除中国大陆低价存储供应商，成本压力可能进一步加大；三是宏观地缘政治与利率环境的不确定性可能压制大盘科技股估值倍数。建议持续关注苹果后续财报中的毛利率指引及供应链表态。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
-        "name": "微软",
-        "note": "同为大型科技公司，云服务与AI基础设施布局更为领先，可作为苹果服务业务增长路径的参照对象"
+        "name": "Microsoft Corporation",
+        "note": "同为大盘科技龙头，可比较AI叙事下的估值溢价与盈利韧性"
       },
       {
-        "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "AI算力核心受益者，其高管近期公开表态看好苹果AI前景，两者在AI产业链中处于不同环节"
+        "ticker": "MU",
+        "name": "Micron Technology",
+        "note": "近期存储芯片涨价的直接受益方，是苹果潜在供应链成本上升的对照方"
       },
       {
-        "ticker": "MRVL",
-        "name": "美满电子科技",
-        "note": "AI基础设施相关芯片公司，近期股价表现强劲，可用于对比市场对AI供应链与终端消费电子公司的不同估值逻辑"
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc.",
+        "note": "同为消费端科技巨头，可比较AI功能落地节奏与广告/服务业务的盈利贡献"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-14T21:30:40.296105Z"
+    "generatedAt": "2026-08-17T21:31:31.200305Z"
   },
   "news": [
     {
-      "id": "AAPL-141218538",
-      "title": "Apple Stock: 64% of Benzinga Viewers Have Owned It. Here’s How Many Still Do",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-14",
-      "url": "https://finnhub.io/api/news?id=8a04c7ab3074ac03dfb93f5714894cb02f6301f0bc9b4c3a61dd25955916d688",
+      "id": "AAPL-141240002",
+      "title": "Discover which dow jones stocks are making waves on Monday.",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-17",
+      "url": "https://finnhub.io/api/news?id=ec0668889a4c1c71892f8037054930e2b4ad337fa2c786bae0c8ac483da2e41c",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141217724",
-      "title": "Applied Materials Has Better Growth Prospects Than It Did 32% Ago; Retail Sales Stumble",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-14",
-      "url": "https://finnhub.io/api/news?id=bca2f8deb567ff0034e182fe71e1d80933c68be335a1637a0a4e3b4ca396b9d6",
+      "id": "AAPL-141239369",
+      "title": "These S&P500 stocks are the most active in today's session",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-17",
+      "url": "https://finnhub.io/api/news?id=a245f182d8a1d967af429370e7a6ae69b57fe2b551fd2b28df79504cb335ba28",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141218540",
-      "title": "Apple has Biggest Streaming Hit Ever: How ‘Ted Lasso’ Could Help Company’s Undervalued Segment",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-14",
-      "url": "https://finnhub.io/api/news?id=ebbe908cb9f2670aaffa0023f1dfa449fdca27d11ded340240dfa8a2c4836c80",
+      "id": "AAPL-141240961",
+      "title": "S&P 500: The Bull Market That Won't Die",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-17",
+      "url": "https://finnhub.io/api/news?id=f1ec8a7314ab03eed420d0cfdb18ac85d4f8ea02b5035e8dcef764cb10dd5a17",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141215480",
-      "title": "The Best \"Magnificent Seven\" Stocks to Buy in August",
-      "source": "Yahoo",
-      "publishedAt": "2026-08-14",
-      "url": "https://finnhub.io/api/news?id=9626c64080dfa8088c2f9a44ce471a290721c8066d3341f05a5074f67fff6107",
+      "id": "AAPL-141240547",
+      "title": "Don't Expect Massive Upside From Apple At This Entry Point",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-17",
+      "url": "https://finnhub.io/api/news?id=8a31c7a08e8eb59bf54f4fcc11667cdc1e6604b3ab03451a11f895bc441b611d",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141217492",
-      "title": "Apple opens new manufacturing facility in Texas: Here's what to know",
-      "source": "CNBC",
-      "publishedAt": "2026-08-14",
-      "url": "https://finnhub.io/api/news?id=2883dadc901bd6b87f2db5d736159929fff6141efe803832e91536a3bb4a1d2c",
+      "id": "AAPL-141240005",
+      "title": "Apple Memory Headwinds Are Reason To Pause (Rating Downgrade)",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-17",
+      "url": "https://finnhub.io/api/news?id=c24b01b3ad196f30a2d939466dd1d4149bfc40127392e077aa0b39895d08c5e9",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141216528",
-      "title": "AI Killing Software? Analyst Says ‘I Don’t See a Software Apocalypse’",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-14",
-      "url": "https://finnhub.io/api/news?id=73fdf8f40e95b99deb14f2966abb42e7046011fee2fa2d2a00d82c1b91124ee1",
+      "id": "AAPL-141239850",
+      "title": "Alibaba Remains Too Cheap To Ignore (Earnings Preview)",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-17",
+      "url": "https://finnhub.io/api/news?id=8ff34eb1bc5302e49565a7b2f6351fd3ee5eb31396063c09147518cf1d6b5596",
       "tags": [
         "AAPL"
       ]
