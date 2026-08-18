@@ -321,6 +321,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-08-18",
+    "sentiment": "watch",
+    "excerpt": "Congratulations to Indiana State Senator Chris Garten, who I was proud to ENDORSE, on being unanimously voted by his colleagues to be the next Senate President Pro Tempore for the State Senate of Indiana! This finishes off my working agains",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117117939770163535",
+    "ticker": "",
+    "topics": [
+      "美联储/利率"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-08-16",
     "sentiment": "watch",
     "excerpt": "Watching FoxNews with Shannon Bream is always like watching the Worst of Fake News CNN. I don’t know Shannon, but she always seems to pick guests, charts, and “polls” that are negative, never talking about all of the incredible things that ",
@@ -365,6 +377,78 @@
     "topics": [
       "关税/贸易"
     ]
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-08-18",
+    "sentiment": "watch",
+    "excerpt": "There is a potential future that is super amazing is we all fight hard to achieve it",
+    "postUrl": "https://x.com/elonmusk/status/2089822761938194900",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-18",
+    "sentiment": "watch",
+    "excerpt": "My $AAOI TLDR notes at Rosenblatt summit:\n\n- Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins).\n\n- Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (co",
+    "postUrl": "https://x.com/aleabitoreddit/status/2089766053274661143",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-18",
+    "sentiment": "watch",
+    "excerpt": "My $AAOI TLDR notes at Rosenblatt summit:\n\n- Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins).\n\n- Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (co",
+    "postUrl": "https://x.com/aleabitoreddit/status/2089766053274661143",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-18",
+    "sentiment": "watch",
+    "excerpt": "My $AAOI TLDR notes at Rosenblatt summit:\n\n- Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins).\n\n- Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (co",
+    "postUrl": "https://x.com/aleabitoreddit/status/2089766053274661143",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-18",
+    "sentiment": "watch",
+    "excerpt": "I'm getting Vietnam flashbacks to the launch of OpenAi. \n\nWhere with every model, it just keeps getting better... but now with hunanoids. \n\nUnitree has claimed that their humanoids:\n\n- Can now run faster than Usain Bolt.\n- Can now jump high",
+    "postUrl": "https://x.com/aleabitoreddit/status/2089746797300432912",
+    "ticker": "",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-18",
+    "sentiment": "watch",
+    "excerpt": "Looks like we're getting the Strait of America, a new US territory... https://t.co/HCQ139Ys4V",
+    "postUrl": "https://x.com/aleabitoreddit/status/2089690098875130084",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-17",
+    "sentiment": "watch",
+    "excerpt": "So just tracking the MLCC cycle:\n\nComponentNews classified server MLCCs as “severe” shortage stage, with ETNews reporting:\n\n- Samsung has reached ~40 week lead times for some high capacitance MLCCs per DigiKey’s shipment data.\n\nEarlier this",
+    "postUrl": "https://x.com/aleabitoreddit/status/2089547564249219163",
+    "ticker": "",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -679,106 +763,6 @@
     "topics": [
       "IPO/财报"
     ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-13",
-    "sentiment": "watch",
-    "excerpt": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. \n\n- I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point:\n\nThey have an absurd ~$8",
-    "postUrl": "https://x.com/aleabitoreddit/status/2087846074027295020",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-13",
-    "sentiment": "watch",
-    "excerpt": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. \n\n- I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point:\n\nThey have an absurd ~$8",
-    "postUrl": "https://x.com/aleabitoreddit/status/2087846074027295020",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-13",
-    "sentiment": "watch",
-    "excerpt": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. \n\n- I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point:\n\nThey have an absurd ~$8",
-    "postUrl": "https://x.com/aleabitoreddit/status/2087846074027295020",
-    "ticker": "MSFT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-13",
-    "sentiment": "watch",
-    "excerpt": "Okay here's my take on $POET, since apparently people are celebrating on the subreddit that I took small positions. \n\n- I have 0 idea. ZERO. How they convinced shareholders to allow them dilute SO MUCH to the point:\n\nThey have an absurd ~$8",
-    "postUrl": "https://x.com/aleabitoreddit/status/2087846074027295020",
-    "ticker": "POET",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-13",
-    "sentiment": "watch",
-    "excerpt": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)  \n\nSo I stopped covering them as much. But TLDR on  updates:\n\nEarly this year, IQE was a distressed but critical chokepoint in the opti",
-    "postUrl": "https://x.com/aleabitoreddit/status/2087838176677376186",
-    "ticker": "AXTI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-13",
-    "sentiment": "watch",
-    "excerpt": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)  \n\nSo I stopped covering them as much. But TLDR on  updates:\n\nEarly this year, IQE was a distressed but critical chokepoint in the opti",
-    "postUrl": "https://x.com/aleabitoreddit/status/2087838176677376186",
-    "ticker": "IQE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-13",
-    "sentiment": "watch",
-    "excerpt": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)  \n\nSo I stopped covering them as much. But TLDR on  updates:\n\nEarly this year, IQE was a distressed but critical chokepoint in the opti",
-    "postUrl": "https://x.com/aleabitoreddit/status/2087838176677376186",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-13",
-    "sentiment": "watch",
-    "excerpt": "Feels like my $IQE thesis Feb this year got validated alongside $AXTI and others. (I still long on both)  \n\nSo I stopped covering them as much. But TLDR on  updates:\n\nEarly this year, IQE was a distressed but critical chokepoint in the opti",
-    "postUrl": "https://x.com/aleabitoreddit/status/2087838176677376186",
-    "ticker": "MTSI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-13",
-    "sentiment": "watch",
-    "excerpt": "$SIVE announces a $3.4M development program with SemiNex!\n\nFor CPO, DFB laser arrays, and optical amplifiers. \n\nEarly production is targeted H2 2027 (in line with early scale up CPO timelines)\n\nSeemed weird to me at first given product over",
-    "postUrl": "https://x.com/aleabitoreddit/status/2087807614172488131",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-13",
-    "sentiment": "watch",
-    "excerpt": "$SIVE announces a $3.4M development program with SemiNex!\n\nFor CPO, DFB laser arrays, and optical amplifiers. \n\nEarly production is targeted H2 2027 (in line with early scale up CPO timelines)\n\nSeemed weird to me at first given product over",
-    "postUrl": "https://x.com/aleabitoreddit/status/2087807614172488131",
-    "ticker": "SPCX",
-    "topics": []
   },
   {
     "personId": "jensen",

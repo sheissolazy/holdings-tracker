@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 225.01,
-  "change5dPct": 3.4,
-  "changeYtdPct": 19.7,
+  "price": 219.74,
+  "change5dPct": 1.0,
+  "changeYtdPct": 16.9,
   "marketCap": "$5.45T",
   "pe": 34.0,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-02-18",
-      "o": 188.75,
-      "h": 190.37,
-      "l": 186.76,
-      "c": 187.98
-    },
     {
       "t": "2026-02-19",
       "o": 187.06,
@@ -881,131 +874,138 @@
     },
     {
       "t": "2026-08-17",
-      "o": 226.02,
+      "o": 225.98,
       "h": 227.92,
       "l": 224.86,
       "c": 225.01
+    },
+    {
+      "t": "2026-08-18",
+      "o": 220.45,
+      "h": 221.64,
+      "l": 218.69,
+      "c": 219.74
     }
   ],
   "thesis": {
     "bull": [
-      "数据中心AI算力需求持续超预期，Blackwell及后续架构产品出货加速，绑定超大规模云厂商的长期资本开支周期，公司在训练与推理两端仍保持生态与性能领先",
-      "AI内存供应链紧张态势（SanDisk、Micron等涨幅显著）反映下游AI基础设施投资热度未减，HBM及高端存储与NVDA GPU协同放量，间接印证AI硬件景气度仍在上行",
-      "国会议员（如佩洛西）近期披露的NVDA相关交易中出现新建多头仓位，社交媒体上关于Jensen Huang前瞻性判断屡次兑现的讨论持续发酵，市场情绪层面存在跟随效应"
+      "英伟达在AI训练与推理加速卡市场占据主导地位，Blackwell及后续架构持续推动数据中心资本开支向其倾斜，客户已锁定多年期产能与订单",
+      "据市场信息显示，行业内如SNDK等供应链伙伴的长期协议（LTA）已覆盖到2028年产出的三分之二，反映AI基础设施需求可见度较高，利好英伟达上游及配套生态",
+      "公司管理层多次在公开场合强调AI基础设施建设的长期确定性，历史上市场对其前瞻指引存在系统性低估后又被验证的模式，机构与部分政治人物公开持仓也传递看多信号"
     ],
     "bear": [
-      "市场对AI资本开支是否已过度杠杆化的担忧升温，有报道提出高达万亿美元级别的隐性杠杆风险，若超大规模厂商资本开支增速放缓，NVDA估值弹性首当其冲",
-      "跟踪者披露显示同一账户在不同时间段既有新建多头又有减持退出的记录，方向并不一致，说明即便是知情交易者对NVDA短期走势也存在分歧，不能简单解读为单边看多信号",
-      "宏观与地缘政治不确定性（伊朗局势、油价上行、美股多板块承压）叠加软件与部分科技股回吐涨幅，风险偏好若整体收缩，高估值AI硬件龙头股波动率可能放大"
+      "近期美债收益率快速攀升，市场对高估值成长股尤其是芯片股的估值容忍度下降，英伟达等AI基础设施龙头股价出现明显回调",
+      "据知名空头投资人迈克尔伯里公开评论，部分新兴AI芯片初创公司被认为对英伟达构成实质性竞争威胁，市场开始重新评估英伟达的护城河与定价权",
+      "关于AI投资是否存在泡沫的讨论持续升温，若资本开支增速不及预期或客户集中度过高引发订单波动，可能对营收增长的持续性造成压力"
     ],
     "watch": [
-      "后续国会披露文件及機構持仓变化，观察大额账户在NVDA上是新建仓位为主还是持续获利了结",
-      "AI存储与算力供应链（美光、闪迪、Marvell等）财报及产能扩张节奏，作为NVDA下游需求景气度的先行指标",
-      "超大规模云厂商资本开支指引与AI基础设施相关订单能见度，以及是否有分析师因估值或供应链瓶颈下调目标价"
+      "美联储后续利率路径与国债收益率走势，将直接影响成长股估值倍数，是短期股价波动的关键变量",
+      "中东地缘政治局势（如霍尔木兹海峡局势）及其对全球风险偏好、能源价格和供应链的潜在外溢影响",
+      "AI芯片行业供应链动态，包括HBM存储供应商产能与定价、竞争对手新产品发布节奏，以及主要云计算客户资本开支指引的变化"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA是全球领先的GPU与AI加速计算平台提供商，业务涵盖数据中心、游戏、专业可视化及汽车等领域，其中数据中心业务受生成式AI浪潮驱动已成为公司最主要的收入与利润来源。公司通过CUDA软件生态与持续迭代的芯片架构（如Blackwell系列）构建了较高的技术与生态壁垒，在AI训练与推理芯片市场占据主导地位。"
+        "body": "英伟达是全球领先的图形处理器与AI加速计算芯片设计公司，产品线覆盖数据中心GPU、网络互联方案、软件生态（CUDA）等，是当前AI基础设施建设周期中最核心的算力供应商之一，客户涵盖各大云计算厂商与企业级AI应用开发者"
       },
       {
-        "heading": "近期业绩与订单动态",
-        "body": "近期市场新闻显示AI硬件产业链景气度依然强劲，存储芯片企业SanDisk、Micron股价大幅上涨，被解读为AI服务器内存需求旺盛的信号，Marvell等定制芯片与网络互联厂商也获得机构关注，这些均与NVDA所在的AI基础设施生态高度相关，间接反映下游资本开支仍在扩张阶段，但具体NVDA自身最新财报细节需以公司披露为准。"
+        "heading": "业务与增长驱动",
+        "body": "公司营收增长主要由数据中心业务驱动，云服务商与企业客户对训练与推理算力的持续投入是核心动力。新一代架构的量产节奏、供应链产能（如先进封装与HBM存储）的匹配程度，以及软件生态的粘性，是决定其增长斜率的关键因素"
       },
       {
-        "heading": "跟踪者与机构动向",
-        "body": "公开披露记录显示，代码为pelosi的账户在2025年末至2026年初对NVDA有多笔交易记录，其中既包含新建多头仓位（2026-01-16、2025-12-30），也包含标记为退出/减持的记录（2025-12-24），方向并不完全一致；历史上2024年末至2025年初也呈现类似新建与退出交替的模式。社交媒体上关于NVDA与Jensen Huang前瞻性言论的讨论持续存在看多情绪，但需注意此类言论多为个人观点，不构成可验证的机构共识。"
-      },
-      {
-        "heading": "行业与竞争格局",
-        "body": "AI芯片与算力赛道竞争者包括AMD、Broadcom（定制ASIC）、Marvell等，同时存储芯片厂商作为上游供应链的景气度变化也会影响整体AI硬件投资节奏。近期市场对AI资本开支是否存在过度杠杆化、投资回报是否可持续的讨论增多，部分评论文章直接以「AI泡沫」为主题进行辨析，行业整体估值敏感度较高。"
+        "heading": "多空分歧焦点",
+        "body": "多头认为AI资本开支周期仍处于早期，需求可见度已延伸至未来数年，历史上市场屡次低估其增长惯性；空头则担忧估值已充分甚至过度反映乐观预期，且新兴竞争者与客户自研芯片可能逐步侵蚀其市场份额和议价能力，加之宏观流动性收紧对高估值资产构成压制"
       },
       {
         "heading": "宏观与市场环境",
-        "body": "当前宏观环境中，中东地缘政治局势（伊朗与美国关系紧张、油价上行、霍尔木兹海峡相关表态）以及美国国内政治不确定性（总统支持率下滑）为市场增添波动因素。同期美股多个指数因油价上升及零售业绩待公布而走弱，软件股回吐前期涨幅，显示市场风险偏好存在阶段性反复，这类宏观因素可能通过整体风险资产情绪间接影响NVDA股价波动，而非公司基本面本身发生变化。"
+        "body": "近期美债收益率攀升引发科技股尤其是芯片股集体回调，市场对利率敏感型成长资产的风险偏好下降。同时中东地缘政治紧张局势为全球市场增添不确定性，若持续发酵可能影响整体风险情绪与资金流向"
       },
       {
-        "heading": "多空分歧与关注要点",
-        "body": "综合来看，市场对NVDA的分歧主要集中在AI资本开支的可持续性与当前估值是否已充分计入未来增长预期。看多方强调数据中心需求与供应链景气度仍在扩张，看空方则担忧杠杆化融资支撑的资本开支若边际放缓将对估值造成压力。跟踪者交易记录本身呈现新建与退出并存的混合信号，建议持续关注机构持仓变化、供应链厂商业绩指引及宏观地缘政治风险的演变，而非单一信号做出判断。"
+        "heading": "跟踪者动向解读",
+        "body": "公开披露显示部分美国国会议员在过去两个财年多次交易英伟达股票，呈现先建仓后部分获利了结再重新加仓的模式，整体方向偏多头但也包含阶段性减持，反映即使看好长期趋势的参与者也会根据估值和时点进行仓位管理。社交媒体上的行业观察者持续关注AI供应链其他环节（如光模块、存储）的产能与定价信号，作为判断英伟达下游需求强弱的参考指标"
+      },
+      {
+        "heading": "风险提示",
+        "body": "主要风险包括：宏观利率与流动性环境变化对估值的压制、地缘政治冲突升级对全球供应链与风险偏好的冲击、客户资本开支不及预期或转向自研芯片、以及新兴竞争对手在特定细分市场（如推理侧）取得技术突破。投资者应关注财报中的毛利率、订单能见度与客户集中度等指标变化"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
-        "name": "Advanced Micro Devices",
-        "note": "GPU与数据中心加速芯片主要竞争者之一，产品线与NVDA在训练/推理市场存在直接竞争"
+        "name": "超威半导体",
+        "note": "数据中心GPU领域的主要直接竞争对手，MI系列产品线对英伟达形成一定份额挑战"
       },
       {
         "ticker": "AVGO",
-        "name": "Broadcom Inc.",
-        "note": "通过定制ASIC与网络互联芯片切入AI基础设施市场，是超大规模厂商自研芯片趋势下的重要受益者"
+        "name": "博通",
+        "note": "通过定制化ASIC芯片切入云厂商自研AI芯片市场，被部分观点视为英伟达长期潜在竞争压力来源"
       },
       {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "数据中心网络与定制芯片厂商，近期获机构关注，与NVDA同属AI算力供应链但业务定位偏基础设施互联"
+        "ticker": "SNDK",
+        "name": "闪迪",
+        "note": "AI存储供应链相关公司，其长期协议与产能利用率可作为AI基础设施需求强弱的间接观察指标"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-17T21:29:14.954802Z"
+    "generatedAt": "2026-08-18T21:27:57.248903Z"
   },
   "news": [
     {
-      "id": "NVDA-141240002",
-      "title": "Discover which dow jones stocks are making waves on Monday.",
+      "id": "NVDA-141247856",
+      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
       "source": "ChartMill",
-      "publishedAt": "2026-08-17",
-      "url": "https://finnhub.io/api/news?id=ec0668889a4c1c71892f8037054930e2b4ad337fa2c786bae0c8ac483da2e41c",
+      "publishedAt": "2026-08-18",
+      "url": "https://finnhub.io/api/news?id=93ae485a341815fe23fcf7ff4561ae7f48c8b2dacec60a5793cc677ac3351659",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141239369",
-      "title": "These S&P500 stocks are the most active in today's session",
+      "id": "NVDA-141247293",
+      "title": "Curious about the most active S&P500 stocks in today's session?",
       "source": "ChartMill",
-      "publishedAt": "2026-08-17",
-      "url": "https://finnhub.io/api/news?id=a245f182d8a1d967af429370e7a6ae69b57fe2b551fd2b28df79504cb335ba28",
+      "publishedAt": "2026-08-18",
+      "url": "https://finnhub.io/api/news?id=24c9996a10530fa6a0427d69ff6a313d93278a413a4647420282430a58033efa",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141239368",
-      "title": "Which stocks are most active on Monday?",
+      "id": "NVDA-141247292",
+      "title": "These stocks are the most active in today's session",
       "source": "ChartMill",
-      "publishedAt": "2026-08-17",
-      "url": "https://finnhub.io/api/news?id=8a3c3c0e072895595e9b5bf18355564f058eae0f28e99c0ac22ba158d9a44567",
+      "publishedAt": "2026-08-18",
+      "url": "https://finnhub.io/api/news?id=a9019b0602184916ae548b0f35e6716a4ef414f4aecb062f6fc9e13e326d95e7",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141240961",
-      "title": "S&P 500: The Bull Market That Won't Die",
+      "id": "NVDA-141246754",
+      "title": "Which dow jones stocks are moving on Tuesday?",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-18",
+      "url": "https://finnhub.io/api/news?id=c403cfdc8e76b95c2c482fae3fa9b3d407ffa166cf0ae935a0f4797898d64f03",
+      "tags": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "NVDA-141248170",
+      "title": "SK hynix: Believe In The HBM Leader",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-08-17",
-      "url": "https://finnhub.io/api/news?id=f1ec8a7314ab03eed420d0cfdb18ac85d4f8ea02b5035e8dcef764cb10dd5a17",
+      "publishedAt": "2026-08-18",
+      "url": "https://finnhub.io/api/news?id=5bcb77326368d578aa97a2a913551aca5ea4f487c926e532282fd144f2e46cb4",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141238736",
-      "title": "Uncover the latest developments among dow jones stocks in today's session.",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-17",
-      "url": "https://finnhub.io/api/news?id=b91ca1b80516fc75a10e9df868b364cf20cf41b442449092f5176ac5b0392a13",
-      "tags": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "NVDA-141239504",
-      "title": "Bargain Hunters, AI Bets, And CEO Confidence: Navigating The Final Wave Of Q2 Earnings",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-08-17",
-      "url": "https://finnhub.io/api/news?id=492deb9ef4a0bba2fd42992e0a06021788d8e6a64dc21cf6f0f4215da8a88bbc",
+      "id": "NVDA-141248468",
+      "title": "Michael Burry Says This AI Chip Startup Is 'Serious Competition' for Nvidia",
+      "source": "Benzinga",
+      "publishedAt": "2026-08-18",
+      "url": "https://finnhub.io/api/news?id=513958df9793a3410f6c4df86c3b03a3161546526084f9e359256007028e29a1",
       "tags": [
         "NVDA"
       ]

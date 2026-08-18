@@ -24,15 +24,15 @@
     "status": "expected"
   },
   {
-    "ticker": "ADBT",
-    "name": "Advasa Holdings, Inc.",
-    "date": "2026-08-17",
+    "ticker": "NSAIU",
+    "name": "NorthStrive Acquisition Corp I.",
+    "date": "2026-08-18",
     "priceRange": [
-      0,
-      0
+      10.0,
+      10.0
     ],
     "sector": "—",
-    "exchange": "NASDAQ Global",
+    "exchange": "NASDAQ",
     "status": "expected"
   }
 ]
