@@ -3,21 +3,14 @@
   "name": "Marvell Technology",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 216.0,
-  "change5dPct": 1.7,
-  "changeYtdPct": 171.3,
-  "marketCap": "$205.2B",
+  "price": 237.27,
+  "change5dPct": 9.3,
+  "changeYtdPct": 198.5,
+  "marketCap": "$189.2B",
   "pe": 77.0,
   "revenue": "—",
   "revenueYoYPct": 34,
   "prices": [
-    {
-      "t": "2026-02-19",
-      "o": 78.38,
-      "h": 79.67,
-      "l": 77.72,
-      "c": 79.61
-    },
     {
       "t": "2026-02-20",
       "o": 78.24,
@@ -881,131 +874,138 @@
     },
     {
       "t": "2026-08-18",
-      "o": 220.65,
+      "o": 220.52,
       "h": 225.01,
       "l": 211.1,
       "c": 216.0
+    },
+    {
+      "t": "2026-08-19",
+      "o": 240.85,
+      "h": 245.49,
+      "l": 228.1,
+      "c": 237.27
     }
   ],
   "thesis": {
     "bull": [
-      "据报道英伟达CEO黄仁勋多次公开点名Marvell为下一个万亿美元市值公司，反映其在定制AI芯片（ASIC/XPU）与数据中心互联领域的战略地位持续获得认可，带动股价年内大幅上涨约129%",
-      "公司在高速互连、光电共封装（CPO）、以太网交换芯片及与云厂商（如AWS）的定制计算芯片合作方面具备先发优势，受益于AI基础设施资本开支持续扩张的长期趋势",
-      "跟踪者提及同业SK海力士被称为HBM领导者、行业投资者日给出的高毛利率与自由现金流指引，显示AI存储与算力供应链景气度仍在改善，为Marvell所处产业链提供正面参照"
+      "Alphabet/Google将部分定制芯片相关权益与Marvell绑定，涵盖AI模型运行处理器、数据存储管理及网络互联环节，显示其在超大规模云厂商定制硅片（ASIC）业务中话语权提升，且被视为从博通（Broadcom）手中抢下关键客户份额的信号",
+      "英伟达创始人黄仁勋多次公开将Marvell称为「下一个万亿美元公司」，带动市场情绪与股价短期大幅上涨（据报道涨幅一度达129%），提升了公司在AI基础设施叙事中的曝光度",
+      "公司业务横跨云数据中心、网络互联、存储控制器与电信基础设施，若AI资本开支持续扩张，其数据基础设施半导体定位有望持续受益于超大规模厂商自研芯片浪潮"
     ],
     "bear": [
-      "近期美债收益率快速走高压制成长股估值，芯片板块（英伟达、AMD、博通等）连同Marvell在内普遍回调，纳斯达克跌至两周低点，反映利率敏感性是短期主要压制因素",
-      "有分析指出黄仁勋的正面表态并未消除Marvell自身的风险，包括客户集中度（对少数超大规模云厂商的依赖）、定制芯片项目的中标不确定性以及与博通等竞争对手的份额争夺",
-      "市场上存在对AI基础设施支出是否形成泡沫的担忧言论（如“你已经在为AI泡沫买单”等评论），若资本开支增速放缓或客户资本纪律收紧，将直接影响Marvell订单能见度"
+      "多篇分析文章明确对黄仁勋「万亿美元」言论提出质疑，认为其属于同业背书而非独立财务论证，警告投资者不应将其视为估值支撑（如「Jensen Says 1 Trillion；I Disagree」）",
+      "即便拿下与Alphabet的新协议，仍有评论指出Marvell「风险仍然很高」，反映出客户集中度（高度依赖少数超大规模云厂商）与订单波动性并未因单一大单而消除",
+      "半导体板块整体出现降温迹象，包括「Broadcom与半导体板块目前已见顶」「股市因半导体走弱及美债收益率上升而受挫」等报道，显示行业估值与情绪面临系统性回调压力，可能拖累Marvell股价表现"
     ],
     "watch": [
-      "关注美联储后续利率路径与美债收益率走势，因其对高估值成长科技股（含Marvell）的估值倍数敏感度较高",
-      "关注博通、Credo等同业在光互联与定制硅芯片领域的最新订单与客户导入进展，作为Marvell竞争格局变化的先行指标",
-      "关注下一财季业绩指引中数据中心业务占比、云厂商定制芯片项目进度及毛利率趋势，验证当前高预期是否兑现"
+      "与Alphabet协议的具体条款、期权行权价格及对应营收/利润确认节奏，需要关注后续财报电话会或监管文件披露细节以判断实际财务影响",
+      "Marvell与博通在超大规模客户定制ASIC市场的份额争夺进展，尤其是「Marvell抢占博通关键客户Google」这一叙事能否延续到其他云厂商客户",
+      "黄仁勋言论带来的情绪性上涨与半导体板块整体走弱（收益率上行、TSMC产能瓶颈、SOXL类杠杆ETF风险提示）之间的对冲效应，关注估值是否已经透支未来增长预期"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Marvell Technology是一家聚焦数据基础设施的半导体公司，核心产品包括数据中心互联芯片、定制计算芯片（ASIC/XPU）、以太网交换与光电子器件，客户以超大规模云计算厂商为主。公司近年来将业务重心从传统存储与网络芯片转向AI数据中心相关的定制硅与高速互联解决方案。"
+        "body": "Marvell Technology是一家专注于数据基础设施的无晶圆厂半导体公司，产品线覆盖云数据中心网络互联芯片、定制化AI/ASIC解决方案、存储控制器以及电信与企业级网络设备芯片，核心客户包括超大规模云计算厂商。近期市场关注焦点集中在其与Alphabet（Google）达成的新协议，以及英伟达CEO黄仁勋对其增长前景的公开背书。"
       },
       {
-        "heading": "业务与增长驱动",
-        "body": "跟踪信息显示英伟达CEO黄仁勋多次公开表态看好Marvell，将其称为下一个万亿美元市值公司，反映市场对其在AI算力基础设施（尤其是与云厂商合作的定制芯片项目）中角色的高度关注。若相关合作持续放量，数据中心业务有望成为公司主要增长引擎；但需注意此类外部背书本身不构成业绩保证。"
+        "heading": "业务驱动因素",
+        "body": "跟踪信息显示，Marvell与Google之间的协议涉及可购买公司股权的期权安排，覆盖用于TPU（张量处理单元）生态的多类技术，包括运行AI模型的处理器、数据存储管理芯片以及跨网络的数据传输方案。这被部分评论解读为Marvell在超大规模厂商自研AI芯片浪潮中地位提升，甚至可能从长期主导该领域的博通手中争取到更多份额。"
       },
       {
-        "heading": "财务与估值",
-        "body": "公司股价年内曾出现约129%的大幅上涨，反映市场已计入较高的成长预期，估值处于历史相对高位。行业层面参照同业投资者日给出的高毛利率与自由现金流指引，说明产业链整体景气度较好，但也意味着Marvell需要用实际业绩持续验证当前估值的合理性。"
+        "heading": "多空分歧焦点",
+        "body": "市场对Marvell的分歧主要围绕黄仁勋「下一个万亿美元公司」言论的可信度展开。多篇报道跟踪并放大了这一说法，推动股价短期大幅上涨；但同时也有分析文章明确表示不认同该判断，认为这更多是同业造势而非基本面驱动的估值论证，且新协议本身并未消除公司原有的客户集中与竞争风险。"
       },
       {
         "heading": "竞争格局",
-        "body": "在定制AI芯片与数据中心互联领域，Marvell主要竞争对手包括博通（AVGO）及新兴的互联芯片厂商（如Credo）。近期新闻中Credo股价随美光、Sandisk等存储与半导体股票同步下挫，显示相关细分板块联动性较强，竞争与情绪波动会相互传导。"
+        "body": "Marvell所处的定制化数据中心芯片（ASIC）市场竞争激烈，博通长期占据主导地位，尤其在与Google等超大规模客户的合作上根基深厚。近期报道「Marvell muscles in on Broadcom's key customer Google」显示两者的竞争边界正在被重新定义，但这种客户关系的迁移是否具有可持续性、以及博通是否会有反制动作，仍需持续观察。"
       },
       {
-        "heading": "风险因素",
-        "body": "主要风险包括：一是宏观层面美债收益率上行对高估值成长股估值的压制，近期已引发芯片板块整体回调；二是客户集中风险，公司对少数大型云厂商的定制芯片订单依赖度较高；三是市场对AI资本开支是否可持续、是否存在泡沫化迹象存在分歧，若增速不及预期将影响订单与股价预期。"
+        "heading": "行业与宏观背景",
+        "body": "近期新闻显示半导体板块整体面临一定压力，包括对博通等同业「已见顶」的评论、美债收益率上升对成长股估值的压制，以及台积电产能瓶颈为三星带来定价机会等行业结构性变化。同时也有观点强调AI投资并非泡沫，且看好数据基础设施相关企业的现金流与利润率前景，行业内部对AI资本开支持续性的判断本身也存在分歧。"
       },
       {
-        "heading": "近期动态与情绪",
-        "body": "跟踪者动向以“watch”情绪为主，集中体现为对黄仁勋公开言论的持续报道与讨论，尚未形成明确的多空一致结论。同期宏观新闻显示美联储政策预期偏鸽派、但美债收益率走高引发科技股抛售，中东地缘局势（伊朗与霍尔木兹海峡相关消息）也为市场增添不确定性，整体风险偏好偏谨慎。"
+        "heading": "关注要点与不确定性",
+        "body": "投资者后续需关注的关键变量包括：与Alphabet协议的具体财务条款及落地时间表、Marvell在其他云厂商客户中复制类似合作的能力、公司整体客户集中度是否得到实质性改善，以及在半导体板块估值波动加大的背景下，市场情绪驱动的股价表现与公司基本面增长节奏之间可能出现的背离。"
       }
     ],
     "comparables": [
       {
         "ticker": "AVGO",
-        "name": "Broadcom",
-        "note": "在定制ASIC、以太网交换与网络芯片领域与Marvell直接竞争，是数据中心定制硅市场的主要对手"
+        "name": "博通（Broadcom）",
+        "note": "在超大规模云厂商定制ASIC与网络芯片市场的主要竞争对手，Marvell近期被指从其手中争取Google相关业务份额"
       },
       {
         "ticker": "NVDA",
-        "name": "Nvidia",
-        "note": "AI算力生态核心厂商，其CEO对Marvell的公开背书是近期情绪催化剂之一，同时也是GPU与Marvell定制ASIC路线的潜在替代关系"
+        "name": "英伟达（Nvidia）",
+        "note": "其CEO黄仁勋公开看好Marvell前景，两家公司同处AI计算与数据中心基础设施生态，但主营GPU与Marvell的定制芯片/互联业务存在互补与部分竞争关系"
       },
       {
-        "ticker": "CRDO",
-        "name": "Credo Technology",
-        "note": "专注高速互连与AEC/光电产品的细分厂商，近期随存储与芯片板块联动下跌，可作为互联赛道情绪的参照"
+        "ticker": "TSM",
+        "name": "台积电（TSMC）",
+        "note": "作为Marvell等无晶圆厂芯片设计公司的晶圆代工方，其产能与定价变化直接影响下游客户成本与交付节奏"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-18T21:28:34.447820Z"
+    "generatedAt": "2026-08-19T21:29:29.837365Z"
   },
   "news": [
     {
-      "id": "MRVL-141247855",
-      "title": "Discover which S&P500 stocks are making waves on Tuesday.",
+      "id": "MRVL-141255653",
+      "title": "Exploring the top movers within the S&P500 index during today's session.",
       "source": "ChartMill",
-      "publishedAt": "2026-08-18",
-      "url": "https://finnhub.io/api/news?id=0c34c0b3b03ebf33b5cdb2e2aa62df9dea0c5b400ba5098836973b6aae6b94b7",
+      "publishedAt": "2026-08-19",
+      "url": "https://finnhub.io/api/news?id=e46427aae39604591751787a13c6e26e654e9b8fcdfef2fc617183f68f47e48f",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-141246753",
-      "title": "Stay informed with the top movers within the S&P500 index on Tuesday.",
+      "id": "MRVL-141254987",
+      "title": "What's going on in today's session: S&P500 most active stocks",
       "source": "ChartMill",
-      "publishedAt": "2026-08-18",
-      "url": "https://finnhub.io/api/news?id=fca39c0b151eec8262878ba40ac18260199ffcf7927c70595271e1c7c746f5ee",
+      "publishedAt": "2026-08-19",
+      "url": "https://finnhub.io/api/news?id=06bc9619bf53a11a041c1a94ae5eb97fa03663fcef161e2b5f6c6836998b06d4",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-141245939",
-      "title": "What's going on in today's session: S&P500 gap up and gap down stocks",
+      "id": "MRVL-141254409",
+      "title": "What's going on in today's session: S&P500 movers",
       "source": "ChartMill",
-      "publishedAt": "2026-08-18",
-      "url": "https://finnhub.io/api/news?id=9626c0be69139cdf2d6bf2fa947d6449bd83c3f1019a1f0e25e374ce40d657cc",
+      "publishedAt": "2026-08-19",
+      "url": "https://finnhub.io/api/news?id=9d113a09f48670d436e6f2252bf1887b5a026dfadda5e1b78c4e9f01efe715bf",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-141247065",
-      "title": "Nasdaq Drops, Chip Stocks Crater As Bond Yields Bite: Stock Market Today",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-18",
-      "url": "https://finnhub.io/api/news?id=a1e896aa71ebecc79b309653ec4b85bc10559029986ca2b2de4dd3a0e243df93",
+      "id": "MRVL-141253496",
+      "title": "Which S&P500 stocks are gapping on Wednesday?",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-19",
+      "url": "https://finnhub.io/api/news?id=865016aa954b32bc2aa1313ff88956f0cf017e3f938aece960261cd4ce456bf8",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-141245479",
-      "title": "Get insights into the top movers in the S&P500 index of Tuesday's pre-market session.",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-18",
-      "url": "https://finnhub.io/api/news?id=3936e512a9b5c4ee4d76db468d0fde3622ff0d21217400bb9fb34ea96ffe8977",
+      "id": "MRVL-141255044",
+      "title": "Marvell: Jensen Says $1 Trillion; I Disagree",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-19",
+      "url": "https://finnhub.io/api/news?id=e1e14bcf2a01a333a069706d5b958203dc799fbadec3402b5ff8463f04a6690d",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-141245353",
-      "title": "Chip Rally Broadens: AI Infrastructure Supply-Chain Names Are Leading the Market",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-18",
-      "url": "https://finnhub.io/api/news?id=8b464cc9ba12dc7fc48f2f4bcd41991c3464a7427f3e8ec3c64de7216b8f61cc",
+      "id": "MRVL-141254988",
+      "title": "Marvell Is Very Risky Despite The New AI Deal With Alphabet",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-19",
+      "url": "https://finnhub.io/api/news?id=1fc826bb58c12a64eda93eedb38f7fef433fbd62aeeb51b0835e971898cc5918",
       "tags": [
         "MRVL"
       ]
