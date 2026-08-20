@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 316.83,
-  "change5dPct": 4.8,
-  "changeYtdPct": 19.7,
-  "marketCap": "$4.52T",
+  "price": 311.3,
+  "change5dPct": 2.0,
+  "changeYtdPct": 17.0,
+  "marketCap": "$4.62T",
   "pe": 34.4,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-02-20",
-      "o": 258.97,
-      "h": 264.75,
-      "l": 258.16,
-      "c": 264.58
-    },
     {
       "t": "2026-02-23",
       "o": 263.49,
@@ -881,131 +874,138 @@
     },
     {
       "t": "2026-08-19",
-      "o": 310.13,
+      "o": 310.14,
       "h": 319.28,
       "l": 309.6,
       "c": 316.83
+    },
+    {
+      "t": "2026-08-20",
+      "o": 317.45,
+      "h": 320.28,
+      "l": 310.65,
+      "c": 311.3
     }
   ],
   "thesis": {
     "bull": [
-      "分析师指出苹果是被市场低估的AI大盘股之一，认为其AI功能商业化潜力尚未被充分定价",
-      "英伟达CEO黄仁勋对AI板块的积极表态带动市场对苹果AI相关业务前景的乐观情绪",
-      "苹果品牌力、庞大用户生态与稳健现金流为其在AI硬件与服务转型期提供较强缓冲"
+      "苹果Intelligence与AI功能升级有望带动iPhone换机周期,市场对苹果AI叙事期待升温,近期有科技行业人士公开表示看好苹果AI前景",
+      "服务业务(App Store、云服务、订阅)持续保持高毛利率增长,对硬件销售波动形成对冲,支撑整体盈利质量",
+      "公司现金流充裕,持续通过大规模回购和股息回馈股东,资产负债表稳健,财务弹性较强"
     ],
     "bear": [
-      "国会议员佩洛西的持仓申报显示对苹果多次减持交易，2024年末至2025年末呈现持续获利了结的迹象",
-      "美国政府被曝敦促苹果不要采购中国内存芯片，若成真可能推高供应链成本、压缩毛利空间",
-      "近期半导体板块整体承压，部分分析师认为板块阶段性见顶，情绪面可能波及苹果供应链相关标的"
+      "国会议员Pelosi在2025年12月至2026年1月披露的多笔交易中以减持为主,同期也有一笔新建多头仓位,信号并不一致,市场解读存在分歧",
+      "10年期美债收益率处于高位,部分观点指出其收益率已超过多数大型公司股息率,对苹果这类高估值成长股构成估值压力",
+      "相较英伟达、博通等在AI基础设施与算力领域的强势表现,苹果在自研AI大模型与端侧AI变现路径上的进展被部分投资者认为不够清晰,存在被视为AI叙事滞后者的风险"
     ],
     "watch": [
-      "中美科技博弈及内存芯片采购政策走向，关注是否实质影响苹果产品成本结构与供应链布局",
-      "苹果AI功能落地节奏与市场预期的匹配度，能否转化为可验证的营收与利润增量",
-      "国会议员及其他跟踪者持仓变动的后续披露，作为观察市场情绪变化的辅助指标"
+      "关注Apple Intelligence等AI功能的实际用户采纳率及其对iPhone换机周期的拉动效果是否达到市场预期",
+      "关注中美贸易与地缘政治摩擦(如近期美国对伊朗及相关方的制裁动作)对苹果供应链与中国市场销售的潜在影响",
+      "持续跟踪国会议员及机构投资者关于AAPL的持仓变动披露,判断其多空信号是否形成一致趋势"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值最高的科技公司之一，业务涵盖iPhone、Mac、iPad等硬件产品线，以及App Store、iCloud、Apple Music等高毛利服务业务。公司近年持续强调硬件与服务协同、生态系统黏性以及在设备端集成AI能力，力图在智能手机增长放缓的背景下寻找新的驱动力。"
+        "body": "苹果是全球领先的消费电子与科技公司,核心产品包括iPhone、Mac、iPad、可穿戴设备,以及不断扩张的服务业务(App Store、Apple Music、iCloud、Apple Pay等)。公司凭借强大的品牌力、生态系统粘性和硬件软件一体化设计,长期维持行业领先的盈利能力和现金创造能力。"
       },
       {
         "heading": "业务与增长驱动",
-        "body": "市场关注焦点已从传统硬件销量转向苹果在设备端AI功能的部署进度及其对换机周期的拉动作用。有分析师认为苹果是当前被低估的AI大盘股，其庞大的存量用户基础一旦叠加AI功能升级，有望带来服务收入与硬件更新的双重增量，但这一叙事目前更多停留在预期层面，尚待财报数据验证。"
+        "body": "当前市场关注焦点集中在苹果的AI战略,即Apple Intelligence能否成为新一轮换机的核心驱动力。此外服务业务的持续渗透和用户付费转化,是拉动整体毛利率与营收增长的重要引擎。硬件出货量受宏观消费环境和新兴市场需求波动影响较大。"
       },
       {
-        "heading": "估值与财务",
-        "body": "作为现金流稳定的超大市值公司，苹果长期维持较高估值溢价，市场对其定价隐含了对AI转型成功与服务业务持续扩张的乐观假设。若AI相关营收贡献不及预期，或供应链成本因地缘政治因素上升，估值溢价存在被重新评估的风险；反之若AI功能有效拉动换机与订阅收入，当前估值仍有支撑空间。"
+        "heading": "财务状况",
+        "body": "苹果历史上保持强劲的自由现金流生成能力,并通过股票回购和分红持续回馈股东。公司负债水平可控,资产负债表整体稳健,为其在研发投入和资本开支上提供了较大灵活性。"
       },
       {
-        "heading": "竞争格局",
-        "body": "在AI硬件与半导体供应链层面，苹果与英伟达、博通、美光、SK海力士、三星等公司存在间接竞合关系。近期有报道称美国政府敦促苹果避免采购中国内存芯片，这一动态可能改变苹果与美光、SK海力士、三星等传统供应商的议价关系，同时也需关注中国本土内存厂商价格策略的变化对整体供应链成本的影响。"
+        "heading": "估值与市场表现",
+        "body": "在当前利率环境下,长端美债收益率处于相对高位,对包括苹果在内的大盘成长股估值形成一定压制。市场对科技板块整体估值分歧加大,部分观点认为AI相关资本开支和板块估值已运行较快,需关注估值消化风险。"
+      },
+      {
+        "heading": "跟踪者与内部人动向",
+        "body": "公开披露显示,国会议员Pelosi在近几个季度对AAPL持仓多次进行减持操作,但也存在个别新建多头头寸的记录,整体信号呈现多空交织,尚不能形成明确一致的方向性判断,需持续观察后续披露以确认趋势。"
       },
       {
         "heading": "风险因素",
-        "body": "主要风险包括：一是地缘政治与出口管制政策变化可能推高关键零部件采购成本；二是半导体板块整体估值近期出现分歧，部分观点认为板块已阶段性见顶，可能压制相关公司股价表现；三是政治人物持仓的密集减持记录，虽不构成直接基本面信号，但可能被市场解读为负面情绪指标；四是AI功能商业化进度若不及预期，可能导致市场对增长叙事的重新定价。"
-      },
-      {
-        "heading": "多空观点分歧总结",
-        "body": "当前市场对苹果的分歧主要集中在AI叙事能否兑现：乐观方认为苹果是被低估的AI大盘股，生态系统与现金流优势将支撑其平稳过渡；谨慎方则关注供应链成本上升、内存芯片采购政策变化以及半导体板块情绪转弱的风险，同时部分跟踪者持仓的持续减持行为也被视为需要关注的信号。总体上，苹果的短期走势更多取决于AI功能落地效果与外部政策环境的变化，而非单一因素。"
+        "body": "主要风险包括:全球宏观经济与消费支出走弱对硬件销售的压制、地缘政治与关税摩擦对供应链的扰动、AI领域竞争加剧导致的技术叙事落后风险,以及高估值背景下利率变化对股价的敏感性。"
       }
     ],
     "comparables": [
       {
-        "ticker": "MU",
-        "name": "美光科技",
-        "note": "若苹果减少采购中国内存芯片，美光有望承接部分订单需求"
+        "ticker": "MSFT",
+        "name": "微软",
+        "note": "同为大型科技公司,在企业级AI和云服务变现上进展较为领先,可作为AI商业化路径的对比参照"
       },
       {
-        "ticker": "005930.KS",
-        "name": "三星电子",
-        "note": "作为传统内存与代工供应商，可能受益于苹果供应链政策调整"
+        "ticker": "GOOGL",
+        "name": "谷歌母公司Alphabet",
+        "note": "在AI模型研发和广告变现结合方面具有可比性,同样面临AI叙事与传统业务平衡的问题"
       },
       {
-        "ticker": "AVGO",
-        "name": "博通",
-        "note": "同为苹果核心零部件供应商，近期估值走势可作为半导体板块情绪参考"
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "AI基础设施与算力龙头,近期言论引发市场对苹果AI前景的联想,可作为AI板块景气度的参照指标"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-19T21:30:57.587021Z"
+    "generatedAt": "2026-08-20T21:33:55.894130Z"
   },
   "news": [
     {
-      "id": "AAPL-141254987",
-      "title": "What's going on in today's session: S&P500 most active stocks",
+      "id": "AAPL-141263725",
+      "title": "Which dow jones stocks are moving on Thursday?",
       "source": "ChartMill",
-      "publishedAt": "2026-08-19",
-      "url": "https://finnhub.io/api/news?id=06bc9619bf53a11a041c1a94ae5eb97fa03663fcef161e2b5f6c6836998b06d4",
+      "publishedAt": "2026-08-20",
+      "url": "https://finnhub.io/api/news?id=dfd1ab1771431dd4977c3660606f49ee58f6377693bed6cc3754ed3555c67ed0",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141254410",
-      "title": "These dow jones stocks are moving in today's session",
+      "id": "AAPL-141262494",
+      "title": "Discover which dow jones stocks are making waves on Thursday.",
       "source": "ChartMill",
-      "publishedAt": "2026-08-19",
-      "url": "https://finnhub.io/api/news?id=a53cd1f5883972a76c50bbb639d04690497dfa9d3cc4c64befd2cd557bc9cbf6",
+      "publishedAt": "2026-08-20",
+      "url": "https://finnhub.io/api/news?id=1d8363aabcf751eaf84d1590e0e4b66548c336e4febf069797c0fb58279fa25d",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141254712",
-      "title": "Investors Should Position For Humanoid Robot Boom—Here's A Picks-And-Shovels Play; First mRNA Cancer Vaccine Succeeds",
+      "id": "AAPL-141263681",
+      "title": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
       "source": "Benzinga",
-      "publishedAt": "2026-08-19",
-      "url": "https://finnhub.io/api/news?id=85690539df1f074b0141508ef60dd8720ee3792d4601920da3731c6695610e5e",
+      "publishedAt": "2026-08-20",
+      "url": "https://finnhub.io/api/news?id=9f0fa6491050ece16f58e6bad9a1a4f330e0e162e9f4b10b87b5fd9db4f36298",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141254754",
-      "title": "Apple Is The Most Underappreciated AI Mega-Cap, Analyst Says",
+      "id": "AAPL-141263194",
+      "title": "Broadcom’s AI Competition Fears Look Overblown: Analyst",
       "source": "Benzinga",
-      "publishedAt": "2026-08-19",
-      "url": "https://finnhub.io/api/news?id=f3bac775314cca96badd075dba2e49684c8374ddc4c498d368d720281f12a604",
+      "publishedAt": "2026-08-20",
+      "url": "https://finnhub.io/api/news?id=63c566376229af761e76e86d8d60aaa72226cbc105b2c97850699d483dab931e",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141254737",
-      "title": "Alphabet Raises $3.9B in First Australian Bond Sale as AI Spending Surges",
+      "id": "AAPL-141263699",
+      "title": "What's Going On With Apple Stock Thursday?",
       "source": "Benzinga",
-      "publishedAt": "2026-08-19",
-      "url": "https://finnhub.io/api/news?id=c0ad22dbeb40a99d1be67866b1c32073260e5b7b10cee75e9a304ba201633d39",
+      "publishedAt": "2026-08-20",
+      "url": "https://finnhub.io/api/news?id=aa88457a28e8ff0028a9f0652795285d23a64e28b234c7cdf24d176ea290e22c",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141253902",
-      "title": "Taiwan Semiconductor’s AI Bottleneck Hands Samsung a Powerful Pricing Opportunity",
+      "id": "AAPL-141261996",
+      "title": "A 10-Year Treasury Bond Now Pays More Than 118 Of America's Biggest Companies",
       "source": "Benzinga",
-      "publishedAt": "2026-08-19",
-      "url": "https://finnhub.io/api/news?id=d3e68ad50cd62bb2eda41d53822a55b0ed049f85c81afb4a03b02db6193e0b92",
+      "publishedAt": "2026-08-20",
+      "url": "https://finnhub.io/api/news?id=1a918e278efa39fc47340379cc1c25103f095618a9b7a011a4c3fe5235133013",
       "tags": [
         "AAPL"
       ]
