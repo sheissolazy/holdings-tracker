@@ -3,10 +3,10 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 216.85,
-  "change5dPct": -3.8,
-  "changeYtdPct": 13.2,
-  "marketCap": "$5.26T",
+  "price": 214.72,
+  "change5dPct": -4.6,
+  "changeYtdPct": 12.1,
+  "marketCap": "$5.25T",
   "pe": 34.0,
   "revenue": "—",
   "revenueYoYPct": 71,
@@ -885,127 +885,134 @@
       "h": 219.86,
       "l": 215.66,
       "c": 216.85
+    },
+    {
+      "t": "2026-08-21",
+      "o": 218.42,
+      "h": 218.74,
+      "l": 214.5,
+      "c": 214.72
     }
   ],
   "thesis": {
     "bull": [
-      "数据中心业务持续处于AI基础设施投资周期核心，超大规模云厂商资本开支预期上修，为NVDA GPU及网络产品需求提供支撑，市场分析认为Hyperscaler AI资本开支的实际强度可能被头条新闻低估",
-      "公开信息显示黄仁勋及公司管理层持续释放对AI需求乐观信号，社交媒体讨论指出历史上市场多次低估英伟达披露的需求信号，随后被业绩验证，显示公司在AI供应链中的话语权与前瞻指引可信度较高",
-      "英伟达在物理AI与机器人领域的生态布局（如对Agility Robotics等被投企业的支持）以及与特斯拉、Waymo等自动驾驶公司的合作被行业人士认为是增量市场而非零和竞争，显示其AI布局从训练侧向应用侧延伸"
+      "英伟达在AI训练与推理芯片市场仍保持绝对领先地位，数据中心业务是公司营收核心驱动力，部分分析观点认为公司具备「500亿美元级别的理由」支持长期看多逻辑",
+      "公开披露显示国会议员佩洛西在2026年1月的PTR文件中对英伟达进行了新的买入操作，反映部分政治人物及关联方对公司前景保持乐观",
+      "人形机器人、AI推理及机器人计算等新兴场景需求扩张，例如Unitree上市后估值大幅跃升，被视为英伟达GPU与机器人计算平台潜在的长期增量市场"
     ],
     "bear": [
-      "Marvell与谷歌宣布高达120亿美元规模的定制芯片合作协议，市场解读为超大规模厂商加速自研ASIC以替代部分通用GPU算力的信号，若该趋势扩散可能压缩英伟达在部分工作负载上的份额",
-      "部分卖方及独立分析文章开始质疑半导体板块整体估值已经透支，出现诸如「半导体已阶段性见顶」「SOXL类杠杆产品风险回报不再有吸引力」等观点，反映市场对AI硬件链条估值过高的担忧正在扩散",
-      "10年期美债收益率持续处于高位，甚至被指出其票息回报已超过标普500中118家大型公司的股息收益率，若无风险利率维持高位，可能压制包括英伟达在内的高估值成长股的估值倍数"
+      "近期AI数据中心相关个股表现疲软，被媒体列为本周表现最差板块之一，反映市场对AI资本开支可持续性及利润率的担忧正在升温",
+      "博通、Marvell等公司在定制ASIC芯片领域加速渗透，例如Marvell与谷歌达成协议获得约122亿美元规模的TPU相关技术合作期权，可能侵蚀英伟达在部分云厂商客户中的份额",
+      "据报道对冲基金Citadel已平仓超过80%与AI情境感知主题相关的仓位，叠加美债收益率上升、中东地缘局势紧张等宏观风险，市场对高估值AI股票的风险偏好边际下降"
     ],
     "watch": [
-      "需持续跟踪Marvell-Google定制芯片合作的具体技术边界（该交易被描述为覆盖处理器、存储管理、网络互联等广泛领域），以判断其对英伟达网络与互联业务（如NVLink、Spectrum-X）的实际替代冲击范围",
-      "国会议员佩洛西过去交易记录显示对英伟达的持仓存在新建与部分获利了结交替出现的模式，需留意后续披露的PTR文件是否出现方向性变化，作为观察市场资金动向的参考指标之一（非投资建议信号）",
-      "关注光通信、AI基础设施配套（如AAOI等光模块厂商产能与定价、Credo等互联芯片估值消化情况）板块动态，这些上下游数据可作为判断AI资本开支实际传导强度的先行指标"
+      "英伟达即将公布的财报被媒体称为关键节点，将检验市场对其AI资本开支延续性与利润率预期的判断",
+      "公开披露记录显示佩洛西在2025年底至2026年初的交易中买入与减持交替出现，反映即便看多阵营内部仓位调整也较为频繁，需持续关注后续披露动向",
+      "市场出现关于SpaceX等新兴AI与太空计算相关企业成长预期被指显著高于英伟达的讨论，反映资金正在寻找英伟达之外的AI算力代理标的，其对英伟达估值溢价的潜在影响值得跟踪"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达（NVIDIA Corporation，NVDA）是全球领先的图形处理器（GPU）与AI计算平台提供商，业务涵盖数据中心加速计算、游戏显卡、专业可视化、汽车与机器人等领域。近年来公司核心增长引擎已从传统游戏GPU转向数据中心AI训练与推理加速芯片，其CUDA软件生态与全栈式AI基础设施方案（涵盖芯片、网络互联、系统集成）构筑了较高的行业壁垒，是当前全球AI算力基础设施建设浪潮中的核心受益标的之一。"
+        "body": "英伟达是全球领先的图形处理器与AI计算平台提供商，其数据中心业务已成为公司营收与利润的核心引擎，产品覆盖AI训练、推理、加速计算及机器人计算平台等多个领域，在生成式AI与大模型基础设施建设浪潮中处于核心供应商地位"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "公开报道显示，AI芯片与算力基础设施赛道竞争正在从单一GPU供应商主导转向多元化格局。Broadcom、Marvell等企业凭借定制化ASIC芯片业务与超大规模云厂商（如谷歌）建立深度合作，近期Marvell与谷歌关于TPU相关处理器、存储及网络技术的合作被分析师称为可能撬动千亿美元级别机会。与此同时，市场也出现对Broadcom等竞争对手AI业务竞争力被高估或被低估的分歧讨论，反映行业格局仍在动态演变中，英伟达在通用GPU与全栈生态上的领先地位面临自研芯片路线的结构性挑战。"
+        "heading": "业务与竞争格局",
+        "body": "英伟达在通用GPU计算领域仍具备软硬件生态优势，但云厂商自研定制芯片趋势正在加速，博通、Marvell等公司通过与谷歌等大型云厂商合作提供ASIC方案，构成结构性竞争压力。同时人形机器人、自动驾驶等新兴计算场景为公司打开新的增长曲线，但商业化节奏与规模仍有不确定性"
       },
       {
-        "heading": "资金与筹码动向",
-        "body": "公开的国会议员交易披露（PTR）显示，佩洛西在过去一年多次对英伟达进行新建仓与部分减持操作，2026年1月披露的文件显示其在2025年12月同时出现新建仓与减持交易，此前2025年1月披露的文件也呈现类似的新建与获利了结交替模式。此类披露具有滞后性且不构成对个股未来走势的直接指示，但可作为观察政治人物或机构资金对板块关注度变化的辅助参考。"
+        "heading": "财务与估值",
+        "body": "市场对英伟达即将公布的财报高度关注，其营收增速、毛利率及数据中心资本开支指引将直接影响市场对AI基础设施投资周期是否延续的判断。部分分析观点仍维持强力看多立场，但近期AI数据中心板块整体走弱显示市场对高估值公司的容忍度有所收窄"
       },
       {
-        "heading": "市场情绪与舆论观察",
-        "body": "社交媒体与独立分析平台上，围绕英伟达及其AI产业链的讨论呈现多空交织的特征。一方面有观点认为英伟达管理层长期以来对AI需求的前瞻指引具有较高的可信度，历史上市场屡次低估其披露信号后被业绩验证；另一方面，近期围绕Marvell-Google定制芯片大单、博通AI业务竞争力、以及半导体板块估值是否见顶等话题的讨论热度上升，显示投资者对AI硬件产业链后续格局演变及股价能否消化高预期存在明显分歧。"
+        "heading": "跟踪者与市场情绪",
+        "body": "公开披露显示佩洛西在2025年底至2026年初对英伟达的交易呈现买入与减持交替的特征，反映即便长期看多的投资者也在根据市场波动动态调整仓位。社交媒体上围绕英伟达供应链及合作传闻的讨论热度较高，但也存在被指为虚假或夸大的信息，需谨慎甄别信息来源的可靠性"
       },
       {
-        "heading": "宏观与利率环境",
-        "body": "当前十年期美债收益率维持相对高位，公开报道提及其票息回报甚至超过标普500指数中118家大型公司的股息收益率，反映无风险资产对高估值成长股的比较优势有所上升。同时，美国对伊朗、真主党等实施新一轮制裁，中东地缘局势及原油供应链（如沙特阿美调整原油销售流向）仍存在不确定性。整体宏观流动性与地缘风险环境对高贝塔、高估值的科技成长股（包括英伟达）的估值弹性构成潜在扰动因素。"
+        "heading": "宏观与行业环境",
+        "body": "当前宏观环境面临美债收益率上升、伊朗局势及中东地缘政治紧张、美国对外经济施压等多重不确定性，对冲基金Citadel据报大幅削减AI主题相关仓位，反映部分机构资金对AI板块估值风险的重新评估。整体权益市场情绪偏谨慎，AI数据中心相关个股近期表现相对落后"
       },
       {
-        "heading": "风险提示与分歧焦点",
-        "body": "当前围绕英伟达的核心分歧在于：其一，AI资本开支的可持续性与实际强度是否被市场充分定价，部分分析认为超大规模厂商资本开支的真实增长动能被主流媒体报道所低估；其二，定制化ASIC芯片（如Marvell与谷歌的合作）对英伟达通用GPU及网络互联业务的替代速度与规模尚存较大不确定性；其三，半导体及AI硬件板块整体估值已运行较长时间，部分独立分析师开始提示估值透支风险。以上信息均基于公开报道及社交媒体讨论整理，不构成买卖建议，投资者应结合公司财报与官方指引审慎判断。"
+        "heading": "风险与展望",
+        "body": "英伟达面临的主要风险包括云厂商自研芯片对其市场份额的潜在侵蚀、AI资本开支周期是否持续超预期的不确定性，以及宏观流动性与地缘政治风险对高估值成长股的压制。同时公司在生成式AI、机器人计算等领域的技术与生态优势仍是支撑长期叙事的核心因素，市场多空分歧短期内预计将持续存在"
       }
     ],
     "comparables": [
       {
         "ticker": "AVGO",
         "name": "Broadcom Inc",
-        "note": "提供定制ASIC与网络互联芯片，被视为英伟达在AI算力硬件领域的主要竞争者之一，市场对其AI业务竞争力评价存在分歧"
+        "note": "在定制ASIC与网络芯片领域与英伟达形成竞争，被部分观点认为受益于云厂商自研芯片趋势"
       },
       {
         "ticker": "MRVL",
         "name": "Marvell Technology",
-        "note": "近期宣布与谷歌达成规模达120亿美元的定制芯片合作，是英伟达在超大规模云厂商定制化AI芯片路线上的重要竞争对手"
+        "note": "近期与谷歌达成TPU相关技术合作期权协议，被视为英伟达在云端定制芯片领域的潜在竞争者"
       },
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "通用GPU与数据中心加速计算领域的主要竞争者，与英伟达在训练与推理算力市场存在直接竞争关系"
+        "note": "GPU与数据中心加速计算领域的直接竞争对手，产品线与英伟达存在广泛重叠"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-20T21:31:47.607059Z"
+    "generatedAt": "2026-08-21T21:28:23.395646Z"
   },
   "news": [
     {
-      "id": "NVDA-141263725",
-      "title": "Which dow jones stocks are moving on Thursday?",
+      "id": "NVDA-141272166",
+      "title": "Discover which dow jones stocks are making waves on Friday.",
       "source": "ChartMill",
-      "publishedAt": "2026-08-20",
-      "url": "https://finnhub.io/api/news?id=dfd1ab1771431dd4977c3660606f49ee58f6377693bed6cc3754ed3555c67ed0",
+      "publishedAt": "2026-08-21",
+      "url": "https://finnhub.io/api/news?id=2a96d4aa691194c3fc85b2b1ae496aa054a0278a839aae1dbc4db975bd1f5df7",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141263200",
-      "title": "Looking for the most active stocks in the S&P500 index on Thursday?",
+      "id": "NVDA-141271515",
+      "title": "Which S&P500 stocks are the most active on Friday?",
       "source": "ChartMill",
-      "publishedAt": "2026-08-20",
-      "url": "https://finnhub.io/api/news?id=de80fd99b19d51b1c063dd5d4eb7830387e2c641e2ad3bda312e7bbd5d6af86f",
+      "publishedAt": "2026-08-21",
+      "url": "https://finnhub.io/api/news?id=c44337b50efe0da34e7f47d53a781801f081fdbdc9b1b80bf495179c51b14ae9",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141263451",
-      "title": "S&P 500 Just Got The Green Light To 8000",
+      "id": "NVDA-141271514",
+      "title": "Friday's session: most active stocks",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-21",
+      "url": "https://finnhub.io/api/news?id=b62b5a1624ff2850df9325358f0ff808fb927cb74bae610bd929dc9712420e38",
+      "tags": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "NVDA-141270977",
+      "title": "Stay informed with the top movers within the dow jones index on Friday.",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-21",
+      "url": "https://finnhub.io/api/news?id=8f9d28002ee9400803c1bc65f23e8d2596ad9b71d181614b5198d194aed28983",
+      "tags": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "NVDA-141272220",
+      "title": "Nvidia: 500 Billion Reasons Why This Is A Strong Buy",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-08-20",
-      "url": "https://finnhub.io/api/news?id=1a961459316c8bdf0d9d3718475df173b3baef3c3c18a7fb603ef47084c11ff0",
+      "publishedAt": "2026-08-21",
+      "url": "https://finnhub.io/api/news?id=de473d47c7154cab7bedd61dbe6401e23429d2b6b534b03c459cc77845107462",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141263205",
-      "title": "Hyperscaler AI Capex: What The Headlines Miss",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-08-20",
-      "url": "https://finnhub.io/api/news?id=ba236fba804b8a75f29a1300656f148d24a486838e1002f937ad75d57c912f23",
-      "tags": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "NVDA-141263681",
-      "title": "Walmart's Outlook Signals Cautious Spending Ahead; Treasury Euphoria Fades; Samsung Soars; Bitcoin Shorts Crushed",
+      "id": "NVDA-141271598",
+      "title": "Investors Build a Barbell: Big Tech On One End, Short-Term Bonds On The Other",
       "source": "Benzinga",
-      "publishedAt": "2026-08-20",
-      "url": "https://finnhub.io/api/news?id=9f0fa6491050ece16f58e6bad9a1a4f330e0e162e9f4b10b87b5fd9db4f36298",
-      "tags": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "NVDA-141264021",
-      "title": "EXCLUSIVE: Nvidia Partner Says Tesla, Waymo Are Growing the Physical AI Market — Not Competing With It",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-20",
-      "url": "https://finnhub.io/api/news?id=f50aa2ea2ee3192a197d90d5fb6a2e046fbfc65772a5c7ed156d4bc479e0098f",
+      "publishedAt": "2026-08-21",
+      "url": "https://finnhub.io/api/news?id=672a42d5b8ebd352b5adeaa10f47bdc3cab89e95ee9e216bff962e5544197c58",
       "tags": [
         "NVDA"
       ]
