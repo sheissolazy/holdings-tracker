@@ -321,10 +321,22 @@
   {
     "personId": "trump",
     "type": "social",
-    "asOf": "2026-08-21",
+    "asOf": "2026-08-24",
     "sentiment": "watch",
-    "excerpt": "It Was a Great Scam While It Lasted: https://www. nytimes.com/2026/08/13/opinion /us-tariffs-economy-trade-transshipment-scam.html",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117134593867089115",
+    "excerpt": "Lots of “bluster” from Doug Ford, who is the Premier of the Canadian Province of Ontario, but who is better known as the less charismatic, intelligent, and overall unimpressive brother of the late, great, Rob Ford. America has been carrying",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117151799569745572",
+    "ticker": "",
+    "topics": [
+      "经济数据"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-08-24",
+    "sentiment": "watch",
+    "excerpt": "Trump’s Tariffs Force Some Canadian Companies to Consider Moving South: https://www. nytimes.com/2026/08/12/world/c anada/canada-tariffs-manufacturing-trade-trump.html",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117151536426663116",
     "ticker": "",
     "topics": [
       "关税/贸易"
@@ -333,10 +345,34 @@
   {
     "personId": "trump",
     "type": "social",
-    "asOf": "2026-08-21",
+    "asOf": "2026-08-24",
     "sentiment": "watch",
-    "excerpt": "Today, I concluded a deal to substantially lower the price of ground beef for working American families. As everyone knows, under President Biden, beef prices soared at their fastest rate and the American beef herd fell to its smallest size",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117133120342300539",
+    "excerpt": "Canada has been ripping off the United States of America for years. Their ridiculously high tariffs on our Farmers and farm products has made life impossible for these great American Patriots, and has long created a 60 Billion Dollar Defici",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117150758113256193",
+    "ticker": "",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-08-23",
+    "sentiment": "watch",
+    "excerpt": "RT @ realDonaldTrump Canada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117144988493215562",
+    "ticker": "",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-08-22",
+    "sentiment": "watch",
+    "excerpt": "Canada wants the benefits of being a State, without being one!!! They have also charged our great farmers, for many years, massive amounts of Tariffs. No more!!! President DJT",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117143083340259038",
     "ticker": "",
     "topics": [
       "关税/贸易"
@@ -345,12 +381,234 @@
   {
     "personId": "musk",
     "type": "social",
-    "asOf": "2026-08-20",
+    "asOf": "2026-08-24",
     "sentiment": "watch",
-    "excerpt": "Starship is so sci-fi https://t.co/G9IMCLmmiC",
-    "postUrl": "https://x.com/elonmusk/status/2090655236155384288",
+    "excerpt": "Very few people know that the reason we launched my old Tesla Roadster to orbit Earth and Mars is that the probability of failure was very high and we didn’t want to risk anything valuable",
+    "postUrl": "https://x.com/elonmusk/status/2091944733396631770",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-24",
+    "sentiment": "watch",
+    "excerpt": "I know everyone's focused on Nancy Pelosi copytraders sending $BE up 11.83%. Or Trump... \n\nBut you know what else is cool? \n\nFAU bottlenecks for CPO. \n\nI remember saying earlier this year FAU/Foci might be a future bottleneck around $TSM / ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091955482613486028",
+    "ticker": "BE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-24",
+    "sentiment": "watch",
+    "excerpt": "I know everyone's focused on Nancy Pelosi copytraders sending $BE up 11.83%. Or Trump... \n\nBut you know what else is cool? \n\nFAU bottlenecks for CPO. \n\nI remember saying earlier this year FAU/Foci might be a future bottleneck around $TSM / ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091955482613486028",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-24",
+    "sentiment": "watch",
+    "excerpt": "I know everyone's focused on Nancy Pelosi copytraders sending $BE up 11.83%. Or Trump... \n\nBut you know what else is cool? \n\nFAU bottlenecks for CPO. \n\nI remember saying earlier this year FAU/Foci might be a future bottleneck around $TSM / ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091955482613486028",
+    "ticker": "TSM",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-24",
+    "sentiment": "watch",
+    "excerpt": "$NVDA, following their $20B deal... Announces Groq3 LPX now in full production.\n\nWith $NBIS the first to adopt through Nebius token factory.\n\n- 3,400 tok/s in Artificial Analysis benchmarking running Gemma 4 31B, with 100k token context\n- 4",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091909391238979970",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-24",
+    "sentiment": "watch",
+    "excerpt": "$NVDA, following their $20B deal... Announces Groq3 LPX now in full production.\n\nWith $NBIS the first to adopt through Nebius token factory.\n\n- 3,400 tok/s in Artificial Analysis benchmarking running Gemma 4 31B, with 100k token context\n- 4",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091909391238979970",
+    "ticker": "NBIS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-24",
+    "sentiment": "watch",
+    "excerpt": "Bro why are we fighting a Trade War with our friendly Golden Retriever named Canada.\n\nShouldn't we be focusing on Iran today? \n\nTrump: Announces 50% Tariffs On Cars, Automotive Parts, and Steel From 2027. https://t.co/40SbPDPMFC",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091889047325335611",
+    "ticker": "",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-24",
+    "sentiment": "watch",
+    "excerpt": "$XPEV carves out its robotics unit and raises >$900M at $6.3B+ valuations.\n\nThis is following’s Unitree IPO, which now has a ~$35-$36B MC.\n\nThen there’s $NVDA / $AMZN backed Agility… at a $2.5B premoney valuation. Which I’d argue is actuall",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091851831718879660",
+    "ticker": "NVDA",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-24",
+    "sentiment": "watch",
+    "excerpt": "$XPEV carves out its robotics unit and raises >$900M at $6.3B+ valuations.\n\nThis is following’s Unitree IPO, which now has a ~$35-$36B MC.\n\nThen there’s $NVDA / $AMZN backed Agility… at a $2.5B premoney valuation. Which I’d argue is actuall",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091851831718879660",
+    "ticker": "AMZN",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-24",
+    "sentiment": "watch",
+    "excerpt": "$XPEV carves out its robotics unit and raises >$900M at $6.3B+ valuations.\n\nThis is following’s Unitree IPO, which now has a ~$35-$36B MC.\n\nThen there’s $NVDA / $AMZN backed Agility… at a $2.5B premoney valuation. Which I’d argue is actuall",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091851831718879660",
+    "ticker": "XPEV",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-24",
+    "sentiment": "watch",
+    "excerpt": "Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more). \n\nWhat I've been consistent with is not being a fan of overusing ATMs/dilution for finan",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091843192639672553",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-24",
+    "sentiment": "watch",
+    "excerpt": "Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more). \n\nWhat I've been consistent with is not being a fan of overusing ATMs/dilution for finan",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091843192639672553",
+    "ticker": "IREN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-24",
+    "sentiment": "watch",
+    "excerpt": "Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more). \n\nWhat I've been consistent with is not being a fan of overusing ATMs/dilution for finan",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091843192639672553",
+    "ticker": "POET",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-23",
+    "sentiment": "watch",
+    "excerpt": "\"At dawn begins an economic D-Day, \n\nThe single greatest financial offensive ​ever marshalled against an adversary\", per Bessent in FT. \n\nThe US would target nations that engage with Iran's economy and financial system. Press conference is ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091755022937940422",
     "ticker": "",
     "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-23",
+    "sentiment": "watch",
+    "excerpt": "After watching clips of China's humanoid Olympics... \n\nI think we're cooked chat. \n\nStill can't believe $GOOGL sold Boston Dynamics, don't think we have another humanoid that can backflip. https://t.co/uERCqW85F5",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091612406900564407",
+    "ticker": "GOOGL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-23",
+    "sentiment": "watch",
+    "excerpt": "Having a mid-X identity crisis rn:\n\n✓ saw 2025 ideas from $AXTI to $NBIS play out with everyone\n✓ we got $AMD bandanas\n✓ #1 most subscribed person on X by accident\n✓ Chinese “White Hair” nicknames\n✓ 1M followers\n\nStill here to track ideas, ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091488091110531106",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-23",
+    "sentiment": "watch",
+    "excerpt": "Having a mid-X identity crisis rn:\n\n✓ saw 2025 ideas from $AXTI to $NBIS play out with everyone\n✓ we got $AMD bandanas\n✓ #1 most subscribed person on X by accident\n✓ Chinese “White Hair” nicknames\n✓ 1M followers\n\nStill here to track ideas, ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091488091110531106",
+    "ticker": "AXTI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-23",
+    "sentiment": "watch",
+    "excerpt": "Having a mid-X identity crisis rn:\n\n✓ saw 2025 ideas from $AXTI to $NBIS play out with everyone\n✓ we got $AMD bandanas\n✓ #1 most subscribed person on X by accident\n✓ Chinese “White Hair” nicknames\n✓ 1M followers\n\nStill here to track ideas, ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091488091110531106",
+    "ticker": "NBIS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-22",
+    "sentiment": "watch",
+    "excerpt": "Apparently, $RDDT thinks $MRVL had two major catalysts recently:\n\nThe $12.2B Google TPU ecosystem agreement.\n\nAnd…\n\nSpider-Man: “Brand New Day” https://t.co/qmUvJqjcpo",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091264273007960320",
+    "ticker": "MRVL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-22",
+    "sentiment": "watch",
+    "excerpt": "Apparently, $RDDT thinks $MRVL had two major catalysts recently:\n\nThe $12.2B Google TPU ecosystem agreement.\n\nAnd…\n\nSpider-Man: “Brand New Day” https://t.co/qmUvJqjcpo",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091264273007960320",
+    "ticker": "RDDT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-22",
+    "sentiment": "watch",
+    "excerpt": "It's been fun to read these US Gov fact sheets (few a week) recently. \n\nEarlier this week was \"Golden Age of Space Transportation\", with $SPCX hard carrying the launch sector like Faker. \n\nAnd $RKLB + other rocket companies as beneficiaries",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091177173789069797",
+    "ticker": "RKLB",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-22",
+    "sentiment": "watch",
+    "excerpt": "It's been fun to read these US Gov fact sheets (few a week) recently. \n\nEarlier this week was \"Golden Age of Space Transportation\", with $SPCX hard carrying the launch sector like Faker. \n\nAnd $RKLB + other rocket companies as beneficiaries",
+    "postUrl": "https://x.com/aleabitoreddit/status/2091177173789069797",
+    "ticker": "SPCX",
+    "topics": [
+      "关税/贸易"
+    ]
   },
   {
     "personId": "serenity",
@@ -590,190 +848,6 @@
     "excerpt": "We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... \n\nAnd now Elazr GM at their investor conference stated: \n\nOptical supply is still far behind the market demand, the expected AI op",
     "postUrl": "https://x.com/aleabitoreddit/status/2089973586425766134",
     "ticker": "MTSI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-18",
-    "sentiment": "watch",
-    "excerpt": "Unitree (688836) is now public.\n\nAnd is valued at ~$53.3B, after rising +492.18%\n\nWe finally have a major public company benchmark for humanoids.\n\nFor reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B p",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089908198694351064",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-18",
-    "sentiment": "watch",
-    "excerpt": "Unitree (688836) is now public.\n\nAnd is valued at ~$53.3B, after rising +492.18%\n\nWe finally have a major public company benchmark for humanoids.\n\nFor reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B p",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089908198694351064",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-18",
-    "sentiment": "watch",
-    "excerpt": "Unitree (688836) is now public.\n\nAnd is valued at ~$53.3B, after rising +492.18%\n\nWe finally have a major public company benchmark for humanoids.\n\nFor reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B p",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089908198694351064",
-    "ticker": "CCXI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-18",
-    "sentiment": "watch",
-    "excerpt": "Unitree (688836) is now public.\n\nAnd is valued at ~$53.3B, after rising +492.18%\n\nWe finally have a major public company benchmark for humanoids.\n\nFor reference, Agility (backed by $NVDA, $AMZN) via $CCXI is expected to go public at $2.5B p",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089908198694351064",
-    "ticker": "TSLA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-18",
-    "sentiment": "watch",
-    "excerpt": "My $AAOI TLDR notes at Rosenblatt summit:\n\n- Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins).\n\n- Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (co",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089766053274661143",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-18",
-    "sentiment": "watch",
-    "excerpt": "My $AAOI TLDR notes at Rosenblatt summit:\n\n- Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins).\n\n- Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (co",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089766053274661143",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-18",
-    "sentiment": "watch",
-    "excerpt": "My $AAOI TLDR notes at Rosenblatt summit:\n\n- Expected to get paid premiums for US production of 800g/1.6T (very positive for ASP/margins).\n\n- Several LTAs on the table, but doesn't want to sign to get capacity blocked by other customers (co",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089766053274661143",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-18",
-    "sentiment": "watch",
-    "excerpt": "I'm getting Vietnam flashbacks to the launch of OpenAi. \n\nWhere with every model, it just keeps getting better... but now with hunanoids. \n\nUnitree has claimed that their humanoids:\n\n- Can now run faster than Usain Bolt.\n- Can now jump high",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089746797300432912",
-    "ticker": "",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-18",
-    "sentiment": "watch",
-    "excerpt": "Looks like we're getting the Strait of America, a new US territory... https://t.co/HCQ139Ys4V",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089690098875130084",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-17",
-    "sentiment": "watch",
-    "excerpt": "So just tracking the MLCC cycle:\n\nComponentNews classified server MLCCs as “severe” shortage stage, with ETNews reporting:\n\n- Samsung has reached ~40 week lead times for some high capacitance MLCCs per DigiKey’s shipment data.\n\nEarlier this",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089547564249219163",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-17",
-    "sentiment": "watch",
-    "excerpt": "I've decided to name my next two pets Applied Optoelectronics and Sivers Semiconductors",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089422562019393654",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-17",
-    "sentiment": "watch",
-    "excerpt": "It's official, Unitree the 8000x+ retail oversubscribed humanoid company in China.\n\nIs expected to go public in 2 days! So the 19th. \n\nOpening is implied to be around ~$41.66B MC per derivatives, around +363.3% above its ~$9B IPO valuation.",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089355682286092748",
-    "ticker": "",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-17",
-    "sentiment": "watch",
-    "excerpt": "Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. \n\nPhison CEO: \"2027 capacity constraints will be even more severe than in 2026.\"\n\n\"Upstream suppliers need up to 4 years from plant constructio",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089264987328151637",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-17",
-    "sentiment": "watch",
-    "excerpt": "Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. \n\nPhison CEO: \"2027 capacity constraints will be even more severe than in 2026.\"\n\n\"Upstream suppliers need up to 4 years from plant constructio",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089264987328151637",
-    "ticker": "SKHY",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-17",
-    "sentiment": "watch",
-    "excerpt": "Just some more demand imbalance visibility for $SNDK, $SKHY, $MU, Kioxia, and your NAND players. \n\nPhison CEO: \"2027 capacity constraints will be even more severe than in 2026.\"\n\n\"Upstream suppliers need up to 4 years from plant constructio",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089264987328151637",
-    "ticker": "SNDK",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-16",
-    "sentiment": "watch",
-    "excerpt": "I think we're seeing AI server MLCC demand cause an interesting effect... with tightening capacity for consumer/general-purpose MLCCs.\n\nIf you get Vietnam flashbacks like I do to $MU / Samsung / SK Hynix -> Legacy DRAM: \n\nMy thesis is we'll",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089183484556480536",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-16",
-    "sentiment": "watch",
-    "excerpt": "\"Severe InP Shortage Triggers Largest Price Hike Ever\" - $AXTI. \n\nSuppliers have bluntly stated that \"even if you have the money, you still may not be able to get the material\" (lol). \n\n- Industry sources revealed that InP substrate prices ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089165155741622679",
-    "ticker": "AXTI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-16",
-    "sentiment": "watch",
-    "excerpt": "\"Severe InP Shortage Triggers Largest Price Hike Ever\" - $AXTI. \n\nSuppliers have bluntly stated that \"even if you have the money, you still may not be able to get the material\" (lol). \n\n- Industry sources revealed that InP substrate prices ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089165155741622679",
-    "ticker": "IQE",
     "topics": []
   },
   {

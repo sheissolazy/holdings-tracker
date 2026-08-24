@@ -3,28 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 309.35,
-  "change5dPct": 1.1,
-  "changeYtdPct": 16.2,
-  "marketCap": "$4.54T",
+  "price": 310.34,
+  "change5dPct": 1.6,
+  "changeYtdPct": 13.2,
+  "marketCap": "$4.51T",
   "pe": 34.4,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-02-23",
-      "o": 263.49,
-      "h": 269.43,
-      "l": 263.38,
-      "c": 266.18
-    },
-    {
-      "t": "2026-02-24",
-      "o": 267.86,
-      "h": 274.89,
-      "l": 267.71,
-      "c": 272.14
-    },
     {
       "t": "2026-02-25",
       "o": 271.78,
@@ -892,127 +878,134 @@
       "h": 312.38,
       "l": 307.01,
       "c": 309.35
+    },
+    {
+      "t": "2026-08-24",
+      "o": 311.47,
+      "h": 313.36,
+      "l": 309.97,
+      "c": 310.34
     }
   ],
   "thesis": {
     "bull": [
-      "英伟达CEO黄仁勋在2026年6月的公开言论中提及市场对苹果AI能力的高预期，为其端侧AI叙事提供了外部背书，可能支撑iPhone换机周期预期",
-      "佩洛西在2026年1月23日的最新PTR披露中包含对AAPL的新建多头仓位（交易日2025-12-30），显示部分知名投资者仍在建立敞口",
-      "当前市场呈现大型科技股与短期国债的哑铃式配置趋势，苹果作为现金流稳健、资产负债表健康的大型科技龙头，可能受益于资金再配置带来的防御性资金流入"
+      "苹果在AI功能上的进展获得业内人士关注，英伟达CEO黄仁勋公开表态看好苹果AI布局，市场对Apple Intelligence相关生态的想象空间有所提升",
+      "国会议员佩洛西在2025年12月30日申报新建AAPL多头仓位，显示部分政治人物对苹果短期走势持积极态度",
+      "苹果作为消费电子与服务双轮驱动的公司，现金流稳健、股票回购持续，在大盘因地缘政治及AI板块波动而承压时具备一定防御属性"
     ],
     "bear": [
-      "同一份PTR披露文件中同时出现多笔AAPL仓位削减（trim/exit）记录，且2025年10月及2025年1月的历史披露也持续显示减仓动作，跟踪者动向整体偏空",
-      "近期新闻显示AI数据中心相关股票表现疲弱、部分机构大幅收缩AI相关风险敞口，若悲观情绪扩散可能压制苹果等消费电子与AI应用端龙头的估值",
-      "宏观层面美债收益率上行、地缘政治风险（伊朗局势、霍尔木兹海峡紧张）及市场对美国财政可持续性的担忧升温，可能通过利率与风险偏好渠道压制成长股估值"
+      "同一份申报文件显示佩洛西在12月30日及12月24日同时减持AAPL仓位，且此前2025年10月与2024年12月也多次减持，长期趋势偏向获利了结而非加仓",
+      "近期新闻显示AI相关个股出现降级与获利回吐迹象，部分分析师警告AI交易过度拥挤，若情绪逆转科技权重股包括苹果可能同步承压",
+      "地缘政治风险（伊朗局势升级、中美关税摩擦）及宏观不确定性对纳斯达克整体估值构成压制，苹果作为权重股难以完全免疫"
     ],
     "watch": [
-      "英伟达即将公布的财报被市场视为AI产业链景气度的风向标，其结果可能通过板块联动影响苹果股价情绪",
-      "佩洛西同期披露的AAPL仓位变动方向不一致（新建与削减并存），需持续跟踪后续季度披露以确认真实仓位调整趋势",
-      "需关注美债拍卖、回购动态及杰克逊霍尔相关政策信号，利率路径变化将影响科技股整体估值中枢"
+      "需持续关注苹果在AI功能商业化（Apple Intelligence、Siri升级等）上是否有实质性产品与营收落地，而非仅停留在预期层面",
+      "关注美中关税谈判（Xi-Trump会晤前的对华加征关税讨论）进展，苹果供应链与中国市场销售可能受影响",
+      "跟踪佩洛西等政治人物后续披露的AAPL交易动向，观察其净买卖方向是否与本次申报的分歧信号（新建仓与减持并存）出现进一步变化"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果公司（AAPL）是全球市值领先的消费电子与服务生态企业，核心产品包括iPhone、Mac、iPad及可穿戴设备，同时通过App Store、iCloud、Apple Music等服务业务贡献稳定的高毛利收入。公司凭借强大的品牌力、闭环生态系统和庞大的自由现金流，长期被视为大型科技板块中相对具有防御属性的核心持仓标的"
+        "body": "苹果公司（AAPL）是全球市值领先的消费电子与服务公司，核心产品包括iPhone、Mac、iPad及可穿戴设备，同时通过App Store、iCloud、Apple Music等服务业务贡献持续增长的高毛利收入。近期市场关注点集中在其AI功能（Apple Intelligence）的推进节奏及其对硬件换机周期的拉动作用"
       },
       {
         "heading": "跟踪者动向解读",
-        "body": "公开披露显示，佩洛西在2026年1月23日提交的PTR报告中，针对AAPL同时出现新建多头与削减退出的条目（交易日分别为2025年12月30日和12月24日），此外2025年10月及2025年1月的历史披露也持续显示减仓动作。整体看，知名投资者的仓位调整方向并不完全一致，不宜简单解读为单一多空信号，更可能反映期权组合或分批调仓行为。同时，英伟达CEO黄仁勋在2026年6月的公开言论中提及市场对苹果AI能力的期待升温，为其AI叙事提供了外部背书"
+        "body": "公开披露显示，众议院议员南希·佩洛西在2025年12月30日的PTR文件中同时包含AAPL的新建多头仓位与减持记录，且12月24日也有减持动作，显示同一时间窗口内交易方向并不一致，需谨慎解读为单一明确信号。结合此前2025年10月及2024年12月的多次减持记录，整体历史趋势偏向逐步减仓而非持续加码。此外，英伟达CEO黄仁勋在2026年6月的公开言论中提及对苹果AI前景的乐观预期，一定程度上带动了市场对AI相关股票（包括苹果）的关注度"
       },
       {
-        "heading": "行业与宏观背景",
-        "body": "近期市场焦点集中在美债收益率上行、伊朗地缘政治局势（美国经济制裁压力、霍尔木兹海峡局势）以及市场对美国财政可持续性的担忧（如知名投资人提及的债务危机风险，并建议配置黄金与比特币对冲）。AI板块内部出现分化，部分AI数据中心关联股票遭遇抛售压力，同时有报道称大型对冲基金大幅收缩相关AI仓位；半导体板块整体财报表现被评价为业绩全市场最佳但股价表现落后，反映投资者对AI资本开支回报的耐心正在减弱。在此背景下，资金呈现向大型科技龙头与短期国债的哑铃式配置迁移趋势"
+        "heading": "近期新闻与市场情绪",
+        "body": "近期财经新闻的主线仍是地缘政治风险（伊朗局势升级、也门胡塞武装袭击事件）与中美关税谈判（美方拟就中国产能过剩加征约7.5%关税，为习特会做铺垫）对市场情绪的压制。同时AI板块内部出现分化，部分分析师下调AI概念股评级并提示获利了结风险，半导体与内存类股票（如美光、闪迪）出现波动。有报道专门提及「苹果股价周一发生了什么」，反映市场对其短期走势的关注度上升，但具体驱动因素在现有信息中未详细展开"
       },
       {
-        "heading": "财务与估值观察",
-        "body": "当前公开信息未提供苹果最新季度财务数据。作为现金流充裕、资本回报机制（回购与分红）成熟的公司，苹果历来在市场波动期被视为相对稳健的核心资产。其估值水平需结合iPhone换机周期、服务业务增速及AI功能商业化进展综合判断，仅凭现有公开信息不足以形成明确的估值结论"
+        "heading": "多空分歧焦点",
+        "body": "多头逻辑主要基于苹果在AI生态上的潜在想象空间及现金流韧性；空头逻辑则聚焦于内部人（如佩洛西）历史上持续减持的行为模式，以及整体科技股在地缘政治与关税不确定性下的估值压力。值得注意的是，同一批披露文件中既有新建仓也有减持记录，说明交易动机可能涉及税务规划、资产再平衡等非单纯方向性判断的因素，市场解读该信号时应保持谨慎"
       },
       {
-        "heading": "多空分歧",
-        "body": "多头逻辑主要围绕苹果在AI端侧应用的潜在受益预期，以及作为高质量现金流资产在利率与地缘风险上升环境下的防御属性；空头逻辑则聚焦于知名投资者持续减仓的历史披露记录、AI板块整体估值与业绩兑现之间的落差，以及宏观流动性收紧对成长股估值的潜在压制。当前公开信息呈现多空并存、尚未形成一致方向的局面"
+        "heading": "风险因素",
+        "body": "主要风险包括：一是地缘政治局势（伊朗、也门相关冲突）若进一步升级，可能引发避险情绪冲击科技股估值；二是中美关税谈判结果存在不确定性，若对华加征关税落地，可能影响苹果在中国的生产成本与销售需求；三是AI概念股整体估值已处于较高水平，若市场对AI变现节奏预期修正，可能引发板块性回调，苹果作为权重股难以独善其身"
       },
       {
-        "heading": "风险与关注点",
-        "body": "需持续关注三方面：一是英伟达等AI产业链核心公司财报对板块情绪的传导效应；二是美债收益率与地缘政治局势演变对市场整体风险偏好的影响；三是后续季度国会议员PTR披露中AAPL仓位变化的连续性，以判断此前新建与削减信号孰为主导趋势"
+        "heading": "可比公司与板块参考",
+        "body": "在AI与消费电子/半导体产业链中，可参考英伟达（NVDA，AI芯片龙头，其管理层言论直接影响市场对苹果AI叙事的预期）、迈威尔科技（MRVL，AI数据中心相关芯片厂商，近期获多家机构上调目标价）以及美光/闪迪等内存类公司（受益于AI算力需求但近期波动加剧），这些公司的走势可作为观察AI产业链整体情绪及资金轮动的参考坐标"
       }
     ],
     "comparables": [
       {
-        "ticker": "MSFT",
-        "name": "微软",
-        "note": "同为现金流充裕的大型科技龙头，同样受益于AI叙事，可比较估值溢价与云服务增长路径"
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "AI芯片龙头，CEO黄仁勋近期公开看好苹果AI前景，其业绩与言论对科技股整体情绪影响较大"
       },
       {
-        "ticker": "GOOGL",
-        "name": "谷歌母公司Alphabet",
-        "note": "在AI应用与广告生态上与苹果服务业务形成竞合关系，可比较AI商业化进展"
+        "ticker": "MRVL",
+        "name": "迈威尔科技",
+        "note": "AI数据中心芯片供应商，近期获多家机构上调评级与目标价，反映AI硬件需求仍具韧性"
       },
       {
-        "ticker": "005930.KS",
-        "name": "三星电子",
-        "note": "智能手机与消费电子领域的核心竞争对手，可比较硬件产品周期与供应链地位"
+        "ticker": "MU",
+        "name": "美光科技",
+        "note": "内存芯片厂商，近期受关税消息及AI交易降温影响股价波动，可作为AI供应链情绪的参照"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-21T21:30:53.915106Z"
+    "generatedAt": "2026-08-24T21:35:45.626120Z"
   },
   "news": [
     {
-      "id": "AAPL-141272166",
-      "title": "Discover which dow jones stocks are making waves on Friday.",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-21",
-      "url": "https://finnhub.io/api/news?id=2a96d4aa691194c3fc85b2b1ae496aa054a0278a839aae1dbc4db975bd1f5df7",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141271515",
-      "title": "Which S&P500 stocks are the most active on Friday?",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-21",
-      "url": "https://finnhub.io/api/news?id=c44337b50efe0da34e7f47d53a781801f081fdbdc9b1b80bf495179c51b14ae9",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141270977",
-      "title": "Stay informed with the top movers within the dow jones index on Friday.",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-21",
-      "url": "https://finnhub.io/api/news?id=8f9d28002ee9400803c1bc65f23e8d2596ad9b71d181614b5198d194aed28983",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141271600",
-      "title": "Bond Buyback Is Simply A Band-Aid for $40T US Debt; Warsh Faces Jackson Hole Test",
+      "id": "AAPL-141310750",
+      "title": "Trump’s 50% Canada Auto Tariff Shock: These ETFs Could Be in the Crosshairs",
       "source": "Benzinga",
-      "publishedAt": "2026-08-21",
-      "url": "https://finnhub.io/api/news?id=f82c9754c50b75f885b774fb033d245a87b41d2e46e1c8b139d8d187a762d00e",
+      "publishedAt": "2026-08-24",
+      "url": "https://finnhub.io/api/news?id=39011b3b644558bdbe1eb2189feb7b87b44fe7ab77d7ec19972ebcfef56dcfa9",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141270601",
-      "title": "The Boring Way To Own AI Is Now The Cheap Way",
+      "id": "AAPL-141310013",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
+      "publishedAt": "2026-08-24",
+      "url": "https://finnhub.io/api/news?id=d70aeb17af8f3bb67468c014ab48a9c0351439ab761e916096af3b89365d94b3",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141309986",
+      "title": "Samsung Crash Brings Semi Selling; Nvidia Earnings Ahead; $1T Treasury Firepower To Buy Bonds",
+      "source": "Benzinga",
+      "publishedAt": "2026-08-24",
+      "url": "https://finnhub.io/api/news?id=f7f93a4f108a80e0a29d0f56809afcb0f6385c443b224895dad20328bc16045f",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141310365",
+      "title": "What's Going On With Apple Stock Monday?",
+      "source": "Benzinga",
+      "publishedAt": "2026-08-24",
+      "url": "https://finnhub.io/api/news?id=503c46f30f3503e77366ea1585d8d70a14741a85d25d60ca76c910afd1980062",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141309705",
+      "title": "Cramer’s Stop Trading: Sandisk",
+      "source": "CNBC",
+      "publishedAt": "2026-08-24",
+      "url": "https://finnhub.io/api/news?id=ec9a52c443aedb71e85de89f925e7f86de73a6d9ac8e0884ab3f54e1d3dc1799",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141308467",
+      "title": "Berkshire Hathaway Is A Net Buyer Of Stocks, Finally",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-08-21",
-      "url": "https://finnhub.io/api/news?id=33b759ae54ec2c1b7dd390a8b24d7dd5de93dea22c3e3bcb0be1805704410c5b",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141270329",
-      "title": "Wall Street Expects SpaceX to Outgrow Nvidia 7-to-1. Musk Says That's Too Low.",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-21",
-      "url": "https://finnhub.io/api/news?id=c9f4c1adeb6acc5a651d1e0fc889c5945b89b35f5496dd3857fac3a3baa1a5a6",
+      "publishedAt": "2026-08-24",
+      "url": "https://finnhub.io/api/news?id=3800a99507fc5c01f054daa045c6a1a9c30e1b6f8c00237388bb5360435c3601",
       "tags": [
         "AAPL"
       ]
