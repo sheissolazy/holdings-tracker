@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 208.48,
-  "change5dPct": -7.3,
-  "changeYtdPct": 6.6,
-  "marketCap": "$5.20T",
+  "price": 213.05,
+  "change5dPct": -3.0,
+  "changeYtdPct": 15.2,
+  "marketCap": "$5.11T",
   "pe": 34.0,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-02-25",
-      "o": 194.45,
-      "h": 197.63,
-      "l": 193.79,
-      "c": 195.56
-    },
     {
       "t": "2026-02-26",
       "o": 194.27,
@@ -881,131 +874,143 @@
     },
     {
       "t": "2026-08-24",
-      "o": 215.38,
+      "o": 215.53,
       "h": 215.59,
-      "l": 207.37,
+      "l": 207.25,
       "c": 208.48
+    },
+    {
+      "t": "2026-08-25",
+      "o": 211.02,
+      "h": 214.73,
+      "l": 210.11,
+      "c": 213.05
     }
   ],
   "thesis": {
     "bull": [
-      "国会议员南希·佩洛西在2026年1月披露的交易中新建NVDA多头仓位，且此前2025年初也曾建仓，显示部分政治人物对公司长期前景保持关注，市场情绪层面构成正面参考",
-      "据社交媒体披露，NVDA与Groq相关的合作项目（约200亿美元级别）已进入量产阶段，Nebius等云厂商开始采用，显示公司在AI推理与算力生态中的商业化落地持续推进",
-      "NVDA通过参股Agility Robotics等新兴机器人公司布局具身智能赛道，叠加数据中心GPU需求依旧强劲，公司在AI基础设施多个环节保持生态卡位优势"
+      "Groq3 LPX已进入量产并获得Nebius等云厂商通过其Token工厂率先采用，社交媒体披露的基准测试显示推理吞吐表现强劲，暗示英伟达在AI推理侧的产品矩阵持续扩张，而不仅依赖训练侧GPU",
+      "英伟达通过对Agility Robotics等具身智能公司的战略投资，联合亚马逊等巨头布局机器人赛道，显示其正在把生态触角从数据中心延伸到物理AI，打开第二增长曲线的想象空间",
+      "国会议员佩洛西在2026年1月披露的PTR文件中新建仓NVDA看涨头寸（交易日期2026-01-16与2025-12-30），历史上类似的国会持仓信息披露常被市场解读为对公司长期基本面的正面信号"
     ],
     "bear": [
-      "同一份佩洛西披露文件显示2025年12月底存在NVDA减持记录，说明即便是长期看多者也在分批获利了结，反映短期获利回吐压力客观存在",
-      "Marvell与谷歌达成价值约122亿美元的TPU相关期权协议，表明超大规模云厂商持续加码自研ASIC以替代部分英伟达GPU采购，长期可能侵蚀其在训练与推理市场的份额",
-      "市场分析师提示部分AI关联股估值已「priced for perfection（充分定价完美预期）」，叠加近期存储芯片股因关税消息大跌、Citadel等机构大幅抛售AI股，显示板块波动性和获利了结压力上升，NVDA作为板块龙头难以完全免疫"
+      "OpenAI宣布其与博通合作定制芯片取得进展并称其为赢家，市场开始重新评估超大规模云厂商自研ASIC对英伟达通用GPU市场份额与议价能力的长期侵蚀风险",
+      "同一份佩洛西PTR文件同时披露了2025年12月24日的NVDA仓位削减（trim/exit），显示即便是被视为看多信号的持仓者也在进行获利了结或风险管理，多空信号本身存在内部矛盾",
+      "社交媒体上关于英伟达供应链（如Innolight获得NVDA网络光模块订单等）传闻被相关信息发布者本人公开澄清为伪造截图，提示当前围绕英伟达的市场叙事中存在大量未经证实甚至虚假的信息，投资者据此交易的风险较高"
     ],
     "watch": [
-      "NVDA即将公布财报，市场高度关注数据中心收入增速、毛利率指引及对下一代产品（如CPO/光通信瓶颈相关表态）的展望，这是短期股价的关键催化剂",
-      "地缘政治风险（伊朗局势升温、也门胡塞武装袭击红海航运）及中美关税谈判（特朗普政府拟对中国产能过剩征收7.5%关税，中美元首会晤前的博弈）可能通过宏观风险偏好和供应链渠道间接影响半导体板块估值",
-      "需持续跟踪超大规模云厂商资本开支强度与自研芯片（谷歌TPU、亚马逊Trainium等）渗透率变化，以及FAU/光引擎等硅光/CPO环节是否成为下一阶段的产能瓶颈，这将影响NVDA在AI基础设施中的议价能力"
+      "市场评论指出光互连（CPO）与光引擎组件（FAU/Foci）可能成为未来AI基础设施的新瓶颈，涉及台积电等封装环节，需关注该瓶颈是否会影响英伟达Blackwell及后续平台的出货节奏",
+      "即将公布的英伟达财报与同期的通胀数据被市场视为检验AI资本开支叙事真实性的关键节点，期权市场及多只跟踪Blackwell相关ETF的资金流向可能在财报前后出现剧烈波动",
+      "竞争对手AMD、Marvell等在数据中心与网络芯片领域的产品迭代与股价大幅波动（如Marvell此前一度大跌23%后被部分卖方看多），需持续跟踪其对英伟达定价权与市场份额的潜在挤压"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达（NVDA）是全球领先的图形处理器与加速计算平台提供商，其业务已从传统游戏显卡扩展至数据中心AI训练与推理芯片、网络互联、软件生态（CUDA）以及机器人与自动驾驶等新兴领域。公司当前营收增长主要由数据中心业务驱动，客户涵盖各大云服务商、AI实验室及主权AI项目"
+        "body": "英伟达（NVDA）是全球领先的图形处理器与人工智能计算平台提供商，业务已从传统游戏GPU拓展至数据中心加速计算、网络互联、软件与机器人等多个板块。公司当前的核心增长引擎是以Blackwell为代表的AI训练与推理芯片平台，客户涵盖各大云服务商、企业及主权AI项目。近期公开信息显示，公司产品线正进一步向推理侧（如与第三方LPX方案的生态合作）和具身智能（机器人）领域延伸，业务边界持续扩大。"
       },
       {
-        "heading": "业务与增长驱动",
-        "body": "数据中心GPU（如Blackwell系列及后续产品）仍是核心增长引擎，公司同时通过与Groq等合作伙伴的算力部署、以及对机器人公司（如Agility Robotics）的战略投资，尝试将增长曲线从单纯的AI训练算力延伸至推理规模化部署与具身智能等新场景，构建更广泛的AI基础设施生态"
+        "heading": "基本面与业绩",
+        "body": "公开新闻提示英伟达即将公布财报，且市场将其与通胀数据一并视为验证当前AI资本开支周期是否可持续的关键窗口。多只与Blackwell及AI基础设施相关的ETF在财报前受到关注，反映市场对本次业绩指引的高度敏感。与此同时，行业内软件与半导体两条主线的股价走势出现分化，部分评论认为AI交易的「真实性」正在被重新检验，这意味着即便英伟达自身业绩稳健，市场情绪仍可能受同行（如软件股、其他芯片股）表现拖累而波动。"
       },
       {
-        "heading": "竞争格局",
-        "body": "英伟达面临的竞争压力主要来自超大规模云厂商自研ASIC芯片的加速渗透，例如谷歌TPU与Marvell的深度合作（约122亿美元期权协议）、亚马逊及其他云厂商的自研芯片项目。此外，AMD、博通等公司也在AI加速与网络芯片领域持续发力，长期可能分流部分市场份额，但英伟达凭借CUDA软件生态和全栈解决方案仍保持较高粘性"
+        "heading": "政策与监管",
+        "body": "从提供的信息看，本轮更新未见直接针对英伟达的新增出口管制或反垄断行动等监管新闻，但需注意的背景包括地缘政治局势（如伊朗局势、原油流经冲突地区等）持续影响宏观风险偏好，以及美国国会议员的持仓披露制度（STOCK Act下的PTR报告）使得英伟达等热门科技股的政治人物交易记录持续受到公众关注，间接影响市场对政策风向的解读，但不构成对公司基本面的直接监管约束。"
       },
       {
-        "heading": "估值与市场情绪",
-        "body": "多空分歧明显：一方面部分分析师和跟踪者持续看多AI基础设施长期需求，认为公司仍具备生态护城河；另一方面也有评论指出板块估值已计入较高预期（priced for perfection），近期存储芯片及部分AI关联股因关税消息和机构（如Citadel）减仓出现明显波动，显示市场对AI资本开支持续性和自研芯片替代风险的担忧有所升温"
+        "heading": "资金与筹码",
+        "body": "公开的PTR披露显示，佩洛西在2025年末至2026年初对NVDA有多次操作，既包括新建多头仓位，也包括同期的减仓行为，显示即便是被广泛关注的「聪明钱」信号也并非单向做多，存在仓位再平衡或获利了结的成分。此外，市场热度目前更多聚集在跟随交易效应明显的中小市值标的（如Bloom Energy因佩洛西相关交易报道股价异动），英伟达作为大盘蓝筹股受此类单一持仓披露的短期资金冲击相对有限，其筹码结构更多由机构与ETF被动配置主导。"
       },
       {
-        "heading": "风险因素",
-        "body": "主要风险包括：一是超大规模客户自研芯片替代风险；二是宏观与地缘政治不确定性（中东局势、中美贸易与关税谈判）可能压制风险偏好；三是AI资本开支若边际放缓，将直接影响数据中心业务增速预期；四是短期获利了结和机构仓位调整可能加剧股价波动，即便长期基本面未变"
+        "heading": "情绪与舆情",
+        "body": "社交媒体上围绕英伟达的讨论呈现多元化特征，既有对Groq3 LPX量产、机器人生态投资等积极叙事的传播，也有对光互连瓶颈等潜在制约因素的技术性讨论。值得警惕的是，部分账号已公开澄清关于英伟达供应链订单的传闻截图为伪造，说明当前舆论场中信息真实性参差不齐，市场情绪容易被未经证实的消息带动，投资者在解读社交平台信号时需保持审慎，交叉验证信息来源。"
       },
       {
-        "heading": "近期关注事项",
-        "body": "临近的财报发布将是检验市场预期的关键节点，重点关注数据中心收入指引、毛利率趋势以及管理层对光通信/CPO等潜在产能瓶颈的表态。同时需持续观察国会议员等公众人物的持仓变化、云厂商资本开支节奏及自研芯片进展，作为判断行业格局演变的辅助信号"
+        "heading": "风险与展望",
+        "body": "展望后市，英伟达面临的核心多空分歧在于：一方面，公司在推理芯片生态、机器人等新兴领域的布局持续打开长期成长空间；另一方面，OpenAI与博通合作定制芯片等消息强化了市场对超大规模客户自研ASIC替代通用GPU的长期担忧，叠加光互连等供应链瓶颈的不确定性，以及即将公布的财报和宏观通胀数据可能引发的短期波动，投资者应关注即将到来的财报指引、供应链瓶颈演变及主要客户资本开支节奏等关键变量，而非仅依赖单一政治人物持仓披露或社交媒体传闻做出判断。"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
-        "name": "超威半导体",
-        "note": "在数据中心GPU与AI加速卡领域是英伟达最直接的竞争对手之一，但市场份额与生态成熟度仍有差距"
-      },
-      {
-        "ticker": "MRVL",
-        "name": "Marvell科技",
-        "note": "通过与谷歌等云厂商的定制ASIC合作切入AI芯片市场，被视为英伟达GPU方案的潜在替代路径之一"
+        "name": "Advanced Micro Devices",
+        "note": "数据中心GPU与英伟达形成直接竞争，产品迭代节奏是市场评估英伟达定价权的重要参照"
       },
       {
         "ticker": "AVGO",
-        "name": "博通",
-        "note": "在定制AI芯片与网络互联领域与英伟达存在竞争与合作并存的关系，是超大规模客户自研芯片浪潮的重要受益者之一"
+        "name": "Broadcom Inc",
+        "note": "与OpenAI合作开发定制AI芯片，代表超大规模客户自研ASIC对英伟达通用GPU份额构成的潜在替代路径"
+      },
+      {
+        "ticker": "TSM",
+        "name": "Taiwan Semiconductor Manufacturing",
+        "note": "英伟达先进制程与先进封装的核心代工伙伴，光互连与封装产能瓶颈直接影响英伟达出货节奏"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "数据中心网络与定制芯片供应商，近期股价大幅波动反映市场对AI基础设施细分环节竞争格局的重新定价"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-24T21:33:03.183677Z"
+    "generatedAt": "2026-08-25T21:32:38.906585Z"
   },
   "news": [
     {
-      "id": "NVDA-141310583",
-      "title": "Exploring the top movers within the dow jones index during today's session.",
+      "id": "NVDA-141317764",
+      "title": "These dow jones stocks are moving in today's session",
       "source": "ChartMill",
-      "publishedAt": "2026-08-24",
-      "url": "https://finnhub.io/api/news?id=995746628753bb1c107dff0fd621de739c068e1e4feeb404b2f0ce3d0523b435",
+      "publishedAt": "2026-08-25",
+      "url": "https://finnhub.io/api/news?id=4a58a6f746e24ff8c34ddff188f2b82ff0e1326f391c36ca862d996d0c19ac28",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141310120",
-      "title": "What's going on in today's session: S&P500 most active stocks",
+      "id": "NVDA-141317450",
+      "title": "Which S&P500 stocks are the most active on Tuesday?",
       "source": "ChartMill",
-      "publishedAt": "2026-08-24",
-      "url": "https://finnhub.io/api/news?id=b4e7862ecff49c01c686f4ff93eb405072c170ffc8e5c83fda06da0f37f4a012",
+      "publishedAt": "2026-08-25",
+      "url": "https://finnhub.io/api/news?id=a9251f9283b5230d33a2e52ed6096324c868b9a20066ede8525d714353dc782a",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141310119",
-      "title": "Monday's session: most active stocks",
+      "id": "NVDA-141317449",
+      "title": "These stocks are the most active in today's session",
       "source": "ChartMill",
-      "publishedAt": "2026-08-24",
-      "url": "https://finnhub.io/api/news?id=b3be8177a60d96e89e4174884314bfffd615b11a9ee49c3a207af913a831d6ec",
+      "publishedAt": "2026-08-25",
+      "url": "https://finnhub.io/api/news?id=ef9d112c99842b5333cb53c3d010e1efd966f64ddf0b9870aa741fdc3383fbbf",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141309559",
-      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
+      "id": "NVDA-141317034",
+      "title": "Top dow jones movers in Tuesday's session",
       "source": "ChartMill",
-      "publishedAt": "2026-08-24",
-      "url": "https://finnhub.io/api/news?id=d45317f41b896114f8506141212d4c216b33f338075e1988daf4bcbe28cfb3e6",
+      "publishedAt": "2026-08-25",
+      "url": "https://finnhub.io/api/news?id=a8858e98310f85462059e252bd76fc3444519de43c88f68833ab57142ce4739b",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141310921",
-      "title": "Nordson: AI Chip Tailwinds Drive Durable Growth, But This Is Priced For Perfection",
+      "id": "NVDA-141317899",
+      "title": "Seeking And Finding Data Center Clarity: The AI Trade And The Economy (Video)",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-08-24",
-      "url": "https://finnhub.io/api/news?id=66adfcb169433da360f70489b5d6ca018e5fbe02d3d7cf33c37b252161cbff9b",
+      "publishedAt": "2026-08-25",
+      "url": "https://finnhub.io/api/news?id=83dd865c525020fe5df0907bb850f6f2493ba32e01162770b91820599548fa60",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-139960974",
-      "title": "Smartkem shares are trading lower. The company announced a non-binding letter of intent to acquire all outstanding shares of Carbonium Core in exchange for shares of Smartkem Series B Convertible Preferred Stock.",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-24",
-      "url": "https://finnhub.io/api/news?id=28a0b1d17e9f4125a0a962072507893cab5497146ee4fa9163f537a2140b0c0d",
+      "id": "NVDA-141317901",
+      "title": "AI Semiconductor Chips Vs. Software Stocks: Understanding Cyclicality And Disruption",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-25",
+      "url": "https://finnhub.io/api/news?id=be982ebc4a89a5a9360ce887cc0bb555e3d0c48ed10a27a2b0c301e97e2dc1a9",
       "tags": [
         "NVDA"
       ]

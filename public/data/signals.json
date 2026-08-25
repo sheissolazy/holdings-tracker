@@ -2,6 +2,39 @@
   {
     "personId": "pelosi",
     "type": "ptr",
+    "ticker": "BE",
+    "asOf": "2026-08-21",
+    "txnDate": "2026-07-28",
+    "direction": "long",
+    "sentiment": "bull",
+    "change": "new",
+    "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf"
+  },
+  {
+    "personId": "pelosi",
+    "type": "ptr",
+    "ticker": "BE",
+    "asOf": "2026-08-21",
+    "txnDate": "2026-07-24",
+    "direction": "long",
+    "sentiment": "bull",
+    "change": "new",
+    "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf"
+  },
+  {
+    "personId": "pelosi",
+    "type": "ptr",
+    "ticker": "INTC",
+    "asOf": "2026-08-21",
+    "txnDate": "2026-07-24",
+    "direction": "long",
+    "sentiment": "bull",
+    "change": "new",
+    "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035143.pdf"
+  },
+  {
+    "personId": "pelosi",
+    "type": "ptr",
     "ticker": "INTC",
     "asOf": "2026-06-23",
     "txnDate": "2026-05-29",
@@ -321,6 +354,30 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-08-25",
+    "sentiment": "watch",
+    "excerpt": "RT @ realwayneroot \"US BUSINESS IS BOOMING.\" My great friend & financial advisor Kip Herriage of VRAinsider called this first. I took ball & ran with it. Trump economy is BOOMING. Yet no one knows it because commie media is gaslighting Amer",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117156901249242368",
+    "ticker": "",
+    "topics": [
+      "通胀"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-08-25",
+    "sentiment": "watch",
+    "excerpt": "Canada has been “Ripping Off” the U.S.A. for decades. They have been charging our Farmers 400% Tariffs, and more. They have driven many wonderful U.S. companies out of business. For 10 years they wouldn’t certify Gulfstream Jets, until I go",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117156429202842827",
+    "ticker": "",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-08-24",
     "sentiment": "watch",
     "excerpt": "Lots of “bluster” from Doug Ford, who is the Premier of the Canadian Province of Ontario, but who is better known as the less charismatic, intelligent, and overall unimpressive brother of the late, great, Rob Ford. America has been carrying",
@@ -379,14 +436,64 @@
     ]
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-08-24",
+    "asOf": "2026-08-25",
     "sentiment": "watch",
-    "excerpt": "Very few people know that the reason we launched my old Tesla Roadster to orbit Earth and Mars is that the probability of failure was very high and we didn’t want to risk anything valuable",
-    "postUrl": "https://x.com/elonmusk/status/2091944733396631770",
-    "ticker": "TSLA",
-    "topics": []
+    "excerpt": "Lost interest in $SMTC and every other earnings report today after finding a memory name way too interesting not to research...",
+    "postUrl": "https://x.com/aleabitoreddit/status/2092354322432684098",
+    "ticker": "SMTC",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-25",
+    "sentiment": "watch",
+    "excerpt": "Lot of people were wondering about $SIVE earnings in 2 days. \n\nWhat I'm watching out for: \n\n1. I'm hoping for more visibility on photonics co-development/qualifications/contracts. \n\n-> $AAOI stated multiple customers approaching them for CP",
+    "postUrl": "https://x.com/aleabitoreddit/status/2092186856792506435",
+    "ticker": "AAOI",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-25",
+    "sentiment": "watch",
+    "excerpt": "Lot of people were wondering about $SIVE earnings in 2 days. \n\nWhat I'm watching out for: \n\n1. I'm hoping for more visibility on photonics co-development/qualifications/contracts. \n\n-> $AAOI stated multiple customers approaching them for CP",
+    "postUrl": "https://x.com/aleabitoreddit/status/2092186856792506435",
+    "ticker": "AEVA",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-25",
+    "sentiment": "watch",
+    "excerpt": "Lot of people were wondering about $SIVE earnings in 2 days. \n\nWhat I'm watching out for: \n\n1. I'm hoping for more visibility on photonics co-development/qualifications/contracts. \n\n-> $AAOI stated multiple customers approaching them for CP",
+    "postUrl": "https://x.com/aleabitoreddit/status/2092186856792506435",
+    "ticker": "GFS",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-25",
+    "sentiment": "watch",
+    "excerpt": "Lot of people were wondering about $SIVE earnings in 2 days. \n\nWhat I'm watching out for: \n\n1. I'm hoping for more visibility on photonics co-development/qualifications/contracts. \n\n-> $AAOI stated multiple customers approaching them for CP",
+    "postUrl": "https://x.com/aleabitoreddit/status/2092186856792506435",
+    "ticker": "JBL",
+    "topics": [
+      "大盘/宏观"
+    ]
   },
   {
     "personId": "serenity",
@@ -779,76 +886,6 @@
     "topics": [
       "IPO/财报"
     ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-19",
-    "sentiment": "watch",
-    "excerpt": "$MRVL gives $GOOGL options to buy $12.2B of the company. \n\n\"The Marvell-Google deal covers a broad range of technologies used ​with TPUs, including processors that run AI models, manage data storage ​and  move information ⁠across networks.\"",
-    "postUrl": "https://x.com/aleabitoreddit/status/2090103899302826302",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-19",
-    "sentiment": "watch",
-    "excerpt": "$MRVL gives $GOOGL options to buy $12.2B of the company. \n\n\"The Marvell-Google deal covers a broad range of technologies used ​with TPUs, including processors that run AI models, manage data storage ​and  move information ⁠across networks.\"",
-    "postUrl": "https://x.com/aleabitoreddit/status/2090103899302826302",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-19",
-    "sentiment": "watch",
-    "excerpt": "$MRVL gives $GOOGL options to buy $12.2B of the company. \n\n\"The Marvell-Google deal covers a broad range of technologies used ​with TPUs, including processors that run AI models, manage data storage ​and  move information ⁠across networks.\"",
-    "postUrl": "https://x.com/aleabitoreddit/status/2090103899302826302",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-19",
-    "sentiment": "watch",
-    "excerpt": "$MRVL gives $GOOGL options to buy $12.2B of the company. \n\n\"The Marvell-Google deal covers a broad range of technologies used ​with TPUs, including processors that run AI models, manage data storage ​and  move information ⁠across networks.\"",
-    "postUrl": "https://x.com/aleabitoreddit/status/2090103899302826302",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-19",
-    "sentiment": "watch",
-    "excerpt": "We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... \n\nAnd now Elazr GM at their investor conference stated: \n\nOptical supply is still far behind the market demand, the expected AI op",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089973586425766134",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-19",
-    "sentiment": "watch",
-    "excerpt": "We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... \n\nAnd now Elazr GM at their investor conference stated: \n\nOptical supply is still far behind the market demand, the expected AI op",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089973586425766134",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-19",
-    "sentiment": "watch",
-    "excerpt": "We got $LITE, $MTSI, $AAOI all pointing to extreme demand imbalances with lasers/TIA/DSP/etc from earnings... \n\nAnd now Elazr GM at their investor conference stated: \n\nOptical supply is still far behind the market demand, the expected AI op",
-    "postUrl": "https://x.com/aleabitoreddit/status/2089973586425766134",
-    "ticker": "MTSI",
-    "topics": []
   },
   {
     "personId": "jensen",
