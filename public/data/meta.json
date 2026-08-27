@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T21:35:38Z",
+  "generatedAt": "2026-08-27T00:36:43Z",
   "mode": "live",
   "sources": {
     "13f": "SEC EDGAR",
@@ -22,18 +22,18 @@
   ],
   "health": {
     "x": "ok",
-    "checkedAt": "2026-08-25T21:35:38Z",
+    "checkedAt": "2026-08-27T00:36:43Z",
     "maobidao": {
-      "lastPost": "2026-08-25",
-      "daysSince": 0,
+      "lastPost": "2026-08-26",
+      "daysSince": 1,
       "stale": false
     }
   },
   "counts": {
     "people": 8,
-    "signals": 91,
-    "news": 37,
-    "ipos": 2,
+    "signals": 79,
+    "news": 39,
+    "ipos": 1,
     "stocks": 5
   },
   "disclaimer": "AI 分析基于公开数据生成，非投资建议。13F 有 ~45 天延迟。无真实来源的数据均留空。"

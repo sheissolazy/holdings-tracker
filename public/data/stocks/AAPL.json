@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 309.9,
-  "change5dPct": -0.0,
-  "changeYtdPct": 13.5,
-  "marketCap": "$4.52T",
+  "price": 313.45,
+  "change5dPct": -1.1,
+  "changeYtdPct": 18.7,
+  "marketCap": "$4.57T",
   "pe": 34.4,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-02-26",
-      "o": 274.95,
-      "h": 276.11,
-      "l": 270.8,
-      "c": 272.95
-    },
     {
       "t": "2026-02-27",
       "o": 272.81,
@@ -881,149 +874,138 @@
     },
     {
       "t": "2026-08-25",
-      "o": 310.93,
-      "h": 313.58,
+      "o": 310.79,
+      "h": 313.59,
       "l": 308.21,
       "c": 309.9
+    },
+    {
+      "t": "2026-08-26",
+      "o": 310.24,
+      "h": 315.43,
+      "l": 308.8,
+      "c": 313.45
     }
   ],
   "thesis": {
     "bull": [
-      {
-        "point": "苹果发布M5 Ultra及首款2nm制程M6芯片，制程与算力优势有望强化Mac及未来AI设备的竞争力，产品迭代节奏加快"
-      },
-      {
-        "point": "英伟达CEO黄仁勋公开表态对苹果AI寄予厚望，带动市场对苹果在端侧AI应用生态的想象空间，AI硬件叙事有边际改善迹象"
-      },
-      {
-        "point": "新款Mac Mini与Mac Studio加入AI能力升级，硬件端侧AI布局逐步落地，若能转化为换机周期加速，将支撑营收与利润率"
-      }
+      "苹果宣布将投资300亿美元用于美国本土芯片制造，显示公司在供应链自主可控与地缘政治敏感领域采取积极布局，也可能换取政策层面的支持与税收优惠",
+      "新任CEO John Ternus上任后首场苹果秋季发布会定于9月9日举行，市场对新硬件周期、iPhone产品线更新以及潜在AI功能整合抱有期待",
+      "英伟达CEO黄仁勋近期公开言论带动市场对科技巨头AI叙事的乐观情绪，市场评论认为端侧AI应用落地有望成为苹果股价的潜在催化剂"
     ],
     "bear": [
-      {
-        "point": "跟踪者动向显示佩洛西相关账户在2025年12月至2026年1月期间多次减持AAPL仓位（含2025-10-22、2025-12-24、2024-12-31的trim记录），历史上减仓动作更为频繁，需警惕大额持有人对估值或前景的谨慎态度"
-      },
-      {
-        "point": "近期新闻显示AI软硬件板块整体承压，市场对AI相关个股回调风险高度关注（如软件股、AI基建股均现获利了结迹象），苹果作为消费电子与AI叙事交叉标的可能受情绪传导影响"
-      },
-      {
-        "point": "宏观层面美债市场预期重置、地缘局势（伊朗、中东局势）及油价波动等不确定性上升，可能压制风险资产估值倍数，苹果高估值消费电子股对贴现率变化较为敏感"
-      }
+      "佩洛西相关申报显示自2025年10月至2026年1月期间账户多次减持或清仓苹果仓位，尽管2025年12月底也有新建多头记录，信号并不一致，整体呈现谨慎倾向",
+      "首席执行官换届可能带来管理层过渡期的战略不确定性，投资者需观察产品路线图、资本开支与并购策略是否会因领导层变化而调整",
+      "在生成式AI基础设施叙事中，市场焦点更多集中在英伟达、博通等芯片与算力类公司，苹果自研AI功能与Siri升级进展被部分观点认为落后于同行，端侧AI变现路径尚不清晰"
     ],
     "watch": [
-      {
-        "point": "2026年1月23日披露的佩洛西PTR中同时出现new（新建仓）与exit（减持）标签，方向存在矛盾信号，需持续跟踪后续披露以确认真实仓位变化趋势"
-      },
-      {
-        "point": "关注M6 2nm芯片良率与代工产能爬坡进度，以及新品在消费端的实际销量反馈，判断制程升级能否如期转化为出货与毛利率改善"
-      },
-      {
-        "point": "英伟达等AI芯片龙头即将公布财报及Blackwell相关进展，其数据将影响市场对AI硬件周期的整体预期，间接影响苹果AI叙事的市场情绪"
-      }
+      "9月9日苹果秋季发布会将揭示的新产品阵容、定价策略及Ternus治理下的产品与AI战略方向",
+      "300亿美元美国芯片制造投资的具体落地节奏、合作方及对未来毛利率结构的潜在影响",
+      "国会议员等公开申报人后续的持仓变动，尤其是佩洛西相关账户是否延续减持趋势或出现新的建仓信号"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球领先的消费电子与服务生态公司，核心产品线覆盖iPhone、Mac、iPad、可穿戴设备及内容与云服务。近期公司发布M5 Ultra与首款2nm制程M6芯片，并推出搭载AI能力升级的新款Mac Mini与Mac Studio，显示其在自研芯片与端侧AI方向持续投入，试图在新一轮AI硬件竞赛中保持产品差异化。"
+        "body": "苹果是全球市值领先的消费电子与服务公司，核心产品包括iPhone、Mac、iPad及可穿戴设备，同时通过App Store、云服务、广告及订阅业务构建起规模庞大的服务收入体系。公司近期经历首席执行官交接，由John Ternus接任，成为观察其战略连续性与产品创新方向的重要节点"
       },
       {
-        "heading": "业务与产品动态",
-        "body": "本轮产品更新聚焦制程与算力提升，M6作为首款2nm芯片被视为苹果自研芯片路线图的重要节点，理论上可带来能效与性能的同步改善。Mac系列新品引入AI功能升级，反映公司将AI能力逐步下沉至终端硬件的策略方向，但目前市场对其AI应用生态的实际使用率与用户粘性缺乏充分披露数据，实际转化效果仍待观察。"
+        "heading": "近期动态",
+        "body": "苹果宣布将投资300亿美元用于美国本土芯片制造，被解读为在地缘政治和供应链自主可控议题上的积极回应，也可能获得美国政府政策层面的关注与支持。与此同时，公司已确定9月9日举行新一届秋季发布会，这将是John Ternus接任CEO后首次主导的重大产品发布，市场普遍关注其在产品定义和长期战略上的个人印记"
       },
       {
-        "heading": "资金与跟踪者动向",
-        "body": "公开披露显示，与佩洛西相关的账户在2025年10月至2026年1月期间对AAPL持仓存在多次trim（减持）记录，同时2026年1月23日的披露文件中也出现一笔标记为new（新建仓）的记录，方向信号并不一致，可能反映不同批次交易或组合再平衡，而非单一方向的强烈判断，不宜简单解读为看多或看空的明确信号。"
+        "heading": "业务与财务观察",
+        "body": "公开信息中未包含苹果最新季度财务细节，因此本分析不对具体营收、利润或现金流数据作出判断。整体而言，市场对苹果的关注点仍集中在iPhone换机周期、服务业务增长可持续性，以及在AI浪潮中硬件与软件生态的差异化能力上，这些因素将在即将到来的产品发布中得到部分验证"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "近期媒体对苹果与技术硬件、存储及外围设备行业竞争对手进行了对比分析，同期AI芯片与AI软件股的走势分化亦成为市场关注焦点。英伟达等公司在AI基础设施领域的持续扩张，以及OpenAI等厂商自研芯片进展，均可能间接影响苹果在AI供应链中的议价地位与合作生态位置。"
+        "heading": "跟踪者与政策动向解读",
+        "body": "公开的国会交易披露显示，佩洛西相关账户在过去数月对苹果持仓进行了多次调整，既有2025年12月底的新建多头记录，也有同期及此前多次的减持与清仓行为，整体信号偏谨慎且不完全一致，不宜简单解读为单一方向的强烈信号。此外，美国前总统特朗普在社交媒体上转发了关于苹果300亿美元芯片制造投资的报道，反映出该议题已进入政治关注视野；英伟达CEO黄仁勋的相关言论也被市场解读为对包括苹果在内的AI相关股票的正面情绪催化"
       },
       {
-        "heading": "宏观与市场环境",
-        "body": "当前宏观环境存在多重不确定性，包括债券市场对美国经济前景预期的重新定价、中东地缘局势演变对能源价格的扰动，以及市场对AI相关标的估值是否透支的持续辩论。这些因素共同构成苹果股价所处的外部风险环境，尤其在利率与风险偏好波动较大时，高估值消费电子与科技股的定价弹性可能被放大。"
+        "heading": "多空分歧",
+        "body": "多头逻辑主要建立在苹果本土芯片制造投资、新任CEO带来的产品创新预期，以及AI浪潮外溢效应之上；空头逻辑则聚焦于内部人士交易信号偏谨慎、管理层过渡期的不确定性，以及苹果在AI基础设施叙事中相对英伟达、博通等公司的边缘地位。两种观点的核心分歧在于苹果能否在9月发布会上证明其AI整合能力和产品创新力，从而扭转市场对其AI叙事滞后的担忧"
       },
       {
-        "heading": "多空分歧总结",
-        "body": "看多逻辑主要基于苹果在自研芯片制程升级与端侧AI硬件布局上的持续推进，以及产业链人士对其AI生态的正面表态；看空或谨慎逻辑则来自公开披露的跟踪者减持动作、AI板块整体波动性上升，以及宏观流动性与地缘风险对高估值资产的潜在压制。整体来看，市场对苹果AI故事的兑现节奏与幅度仍存在明显分歧，短期缺乏一致方向性信号。"
+        "heading": "风险与关注点",
+        "body": "主要风险包括新CEO治理下战略执行的不确定性、300亿美元芯片制造投资的资本开支压力与回报周期、苹果在生成式AI竞争中相对落后的市场认知，以及国会议员持仓信号所反映出的市场情绪波动。建议持续关注9月9日发布会内容、后续财报中AI相关业务进展，以及公开披露的内部人士交易动向变化"
       }
     ],
     "comparables": [
       {
-        "ticker": "MSFT",
-        "name": "微软",
-        "note": "同为大型科技与AI生态布局公司，可作为端侧与云端AI战略对比参照"
-      },
-      {
         "ticker": "NVDA",
         "name": "英伟达",
-        "note": "AI算力核心供应商，其表态与财报对市场AI硬件周期预期有重要外溢影响"
+        "note": "AI算力与芯片领域的核心受益者，市场常将其AI叙事与苹果端侧AI应用潜力进行对比"
       },
       {
-        "ticker": "MRVL",
-        "name": "迈威尔科技",
-        "note": "AI基础设施与芯片相关标的，近期波动较大，可用于观察AI硬件板块整体情绪"
+        "ticker": "AVGO",
+        "name": "博通",
+        "note": "在AI基础设施与定制芯片领域被部分评论称为「新英伟达」，与苹果在芯片供应链上存在合作与竞争关系"
+      },
+      {
+        "ticker": "MSFT",
+        "name": "微软",
+        "note": "在AI软件与云服务生态布局上与苹果形成对照，可用于比较不同路径下的AI变现能力"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-25T21:34:56.300900Z"
+    "generatedAt": "2026-08-27T00:36:05.382869Z"
   },
   "news": [
     {
-      "id": "AAPL-141317764",
-      "title": "These dow jones stocks are moving in today's session",
+      "id": "AAPL-141324625",
+      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
       "source": "ChartMill",
-      "publishedAt": "2026-08-25",
-      "url": "https://finnhub.io/api/news?id=4a58a6f746e24ff8c34ddff188f2b82ff0e1326f391c36ca862d996d0c19ac28",
+      "publishedAt": "2026-08-26",
+      "url": "https://finnhub.io/api/news?id=45b7ccfee9169d8cf3dc418bd809f9b83e3e927cd7530f4e98fda7ca7f6a2c9d",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141317588",
-      "title": "Treasury Bond Buybacks Cannot Solve A Fiscal Problem; Nvidia Earnings And Inflation Data Expected Tomorrow",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-25",
-      "url": "https://finnhub.io/api/news?id=b79b16c471bcc0898122b4984a9697a565e0a077e356fc4b8e6fa80e5d01d750",
+      "id": "AAPL-141323760",
+      "title": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-26",
+      "url": "https://finnhub.io/api/news?id=41d4f97dcb9c14125228f555e756c21cedb80f2461e657928ccf4a89931d142e",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141318126",
-      "title": "Apple Introduces The M5 Ultra, Its Most Powerful Chip Ever, And M6, Its First 2nm Chip",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-25",
-      "url": "https://finnhub.io/api/news?id=6f4830c7a81d9f06f3a41db0d749302c67144d8e41544d78a1d55d5b165297b3",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141317133",
-      "title": "Apple announces new Mac Mini and Mac Studio models with AI upgrades",
-      "source": "CNBC",
-      "publishedAt": "2026-08-25",
-      "url": "https://finnhub.io/api/news?id=a7ff5dcc42a625cae9e085a8cce28c6ff2b713534fb0a8a0e99cb5054e003202",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141316186",
-      "title": "JEPQ: There's Never Been A Better Time To Buy This ETF",
+      "id": "AAPL-141324820",
+      "title": "BIGY: Delivering 12% Target Distribution Yield And Competitive Returns",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-08-25",
-      "url": "https://finnhub.io/api/news?id=15251ddaea213d3f888a9d0a33631e9ad615a0c37ab7141fe27766a0c565f0b8",
+      "publishedAt": "2026-08-26",
+      "url": "https://finnhub.io/api/news?id=bd182fcf63fb8188c0cc5c8d4143e1fbe157ae8675885aa3753e1de022f0b63a",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141318127",
-      "title": "Competitor Analysis: Evaluating Apple And Competitors In Technology Hardware, Storage &amp; Peripherals Industry",
+      "id": "AAPL-141324463",
+      "title": "The Fed Faces A Dangerous Choice For Investors; Nvidia Earnings Ahead",
       "source": "Benzinga",
-      "publishedAt": "2026-08-25",
-      "url": "https://finnhub.io/api/news?id=7eac5c1858f7c0b533e8daafee53dc942f65f199458d44c7af2b2a3b47c080e7",
+      "publishedAt": "2026-08-26",
+      "url": "https://finnhub.io/api/news?id=a85b7f6f2b36db6845325910aa53dd8c771a1724b70f359cb8e1af14cc3d4a5c",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141323852",
+      "title": "Apple sets iPhone launch event for Sept. 9, first under new CEO John Ternus",
+      "source": "CNBC",
+      "publishedAt": "2026-08-26",
+      "url": "https://finnhub.io/api/news?id=4942d9a7f5815c778c5a27132015237bc6f89e39775703f8ed408d24f3ed324b",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141325423",
+      "title": "Apple To Hold Apple Event On Sept. 9",
+      "source": "Benzinga",
+      "publishedAt": "2026-08-26",
+      "url": "https://finnhub.io/api/news?id=b115f4d0ddfeada35fa39d316a1bf65dda36494fd843e549d3447b9033d2fbe5",
       "tags": [
         "AAPL"
       ]

@@ -3,21 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 217.45,
-  "change5dPct": 4.0,
-  "changeYtdPct": 29.0,
-  "marketCap": "$63.0B",
+  "price": 218.21,
+  "change5dPct": 5.6,
+  "changeYtdPct": 40.2,
+  "marketCap": "$64.3B",
   "pe": 11588.5,
   "revenue": "—",
   "revenueYoYPct": 57,
   "prices": [
-    {
-      "t": "2026-02-26",
-      "o": 172.6,
-      "h": 172.6,
-      "l": 158.84,
-      "c": 168.57
-    },
     {
       "t": "2026-02-27",
       "o": 164.49,
@@ -883,134 +876,136 @@
       "t": "2026-08-25",
       "o": 213.54,
       "h": 218.53,
-      "l": 208.32,
+      "l": 208.3,
       "c": 217.45
+    },
+    {
+      "t": "2026-08-26",
+      "o": 213.94,
+      "h": 227.34,
+      "l": 212.3,
+      "c": 218.21
     }
   ],
   "thesis": {
     "bull": [
-      "国会议员知情交易被披露后引发跟风资金关注，7月下旬出现两笔新增多头持仓记录，市场解读为对公司基本面的正面信号，推动股价单日上涨约11.83%",
-      "AI数据中心用电需求爆发式增长，传统电网扩容缓慢，Bloom Energy的固体氧化物燃料电池可实现现场快速部署，卖方机构近期上调其盈利预测并重申「买入」评级",
-      "公司被多家财经媒体列入投资者关注名单，与英伟达、闪迪、Visa等热门股同列，显示其正被纳入AI基础设施配套供电这一叙事主线，潜在订单与合作空间扩大"
+      "特斯拉式增长逻辑正在Bloom Energy身上重演：受AI数据中心电力短缺驱动，燃料电池作为快速部署的分布式发电方案需求激增，公司近期营收和订单增速明显超预期，管理层上调了全年指引",
+      "国会议员Nancy Pelosi在2026年7月24日和28日两次新建BE多头仓位并于8月21日披露，社交媒体上关于「跟随她交易」的讨论带动股价单日上涨约11.83%，反映市场对政策与资本关注度的正面情绪",
+      "公司在燃料电池核心部件（FAU/Foci）供应链上的先发布局被部分投资者视为潜在瓶颈红利，即随着行业产能受限，已具备产能和技术积累的Bloom有望获得议价权和份额提升"
     ],
     "bear": [
-      "尽管数据中心电力缺口带来增长叙事，仍有分析指出目前估值已充分甚至过度反映远期增长预期，文章明确提出「仍不是买入」的观点，显示卖方内部存在分歧",
-      "股价短期大幅波动更多由政治人物交易披露和社交媒体跟风炒作驱动，而非扎实的订单或财务数据披露，存在情绪与基本面脱节、追高后回落的风险",
-      "有市场评论提示燃料电池核心部件（如FAU相关组件）可能出现类似芯片制造领域CPO/先进封装的产能瓶颈，若供应链瓶颈成真，可能制约公司交付能力和产能扩张节奏"
+      "股价近期大涨很大程度上由「Pelosi效应」等跟风资金和社交媒体情绪驱动，而非公司基本面本身的持续性证据，一旦市场情绪退潮或议员后续减仓，股价存在明显回调风险",
+      "燃料电池设备资本开支巨大且历史上盈利能力波动大，公司过去多年经营现金流和净利润长期承压，投资者对其能否在扩产的同时实现可持续盈利仍存疑虑",
+      "AI数据中心电力需求虽是当前叙事核心，但电网升级、天然气涡轮机、小型核反应堆等替代方案也在加速发展，一旦竞争格局生变，Bloom在分布式发电市场的独特性可能被削弱"
     ],
     "watch": [
-      "跟踪佩洛西等国会议员后续是否继续加仓或转为减仓，作为市场情绪与知情资金动向的先行指标",
-      "关注公司是否披露与云计算或数据中心运营商的具体电力供应合同细节及规模，验证「数据中心拉动型」增长叙事能否落地为实际订单",
-      "持续跟踪核心零部件供应链产能瓶颈的化解进展，包括是否出现交付延迟或产能爬坡不及预期的信号"
+      "关注Bloom Energy后续季度财报中订单积压（backlog）和交付节奏是否能兑现当前的高增长预期，尤其是与超大规模数据中心运营商的长期供货协议进展",
+      "跟踪国会议员及机构持仓变化，尤其是Pelosi等被广泛跟单的账户是否在近期高位后出现减持或对冲动作，这可能是情绪拐点的先行信号",
+      "留意FAU/Foci等核心部件供应链瓶颈的实际影响是否显现为交付延迟或成本上升，以及公司是否公布相关产能扩张或垂直整合计划"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy是一家从事固体氧化物燃料电池技术的能源公司，主要产品Bloom Energy Server可为企业、数据中心等场景提供现场发电，具备部署速度快、不依赖电网扩容的特点。近年来公司业务叙事逐渐从传统清洁能源转向为AI数据中心提供配套电力解决方案，是当前市场热议的「AI电力」概念股之一。"
+        "body": "Bloom Energy是一家总部位于美国加州的固体氧化物燃料电池（SOFC）技术公司，主营业务为向企业、数据中心及公用事业客户提供现场发电的Bloom Energy Server。公司近年来将叙事重心转向为AI数据中心提供快速部署、绕开电网排队瓶颈的分布式电力解决方案，这一定位使其成为AI基础设施投资主题下备受关注的标的之一。"
       },
       {
-        "heading": "近期股价与消息驱动",
-        "body": "近期股价出现明显波动，市场报道显示因国会议员被披露买入相关持仓，叠加社交媒体上copytrade式跟风资金涌入，单日涨幅一度达到11.83%。与此同时，Bloom Energy也与英伟达、闪迪、Visa等公司一起被财经媒体列为「投资者本日关注」的热门标的，反映市场情绪高度活跃。"
+        "heading": "近期动态",
+        "body": "进入2026年8月，BE股价出现明显波动，市场关注点集中在两方面：一是国会议员Nancy Pelosi在7月下旬新建的BE多头仓位于8月21日披露后引发跟单效应，单日涨幅一度达到11.83%；二是有分析文章指出公司在AI数据中心供电场景下的增长速度超出此前预期，「跑得比预想快」。与此同时，市场也有声音开始关注燃料电池核心部件（FAU/Foci）可能成为类似台积电产能那样的供应链瓶颈。"
       },
       {
-        "heading": "基本面与订单/合作动态",
-        "body": "公开报道提及卖方机构因数据中心用电需求加速增长而上调对公司的盈利预测，叙事逻辑是AI算力扩张带来的电力缺口需要类似Bloom Energy这样可快速部署的分布式发电方案来填补。但目前公开信息中缺乏具体的新增合同规模、客户名单或收入确认时点等可验证的硬数据，基本面改善更多停留在预期层面。"
+        "heading": "多空分歧",
+        "body": "看多者认为，AI算力扩张带来的电力缺口是结构性、长期的趋势，Bloom作为少数能够快速交付分布式发电设备的厂商将持续受益，且公司订单能见度和指引已在改善。看空或谨慎者则认为，近期股价上涨中相当一部分由社会化跟单和情绪交易驱动，缺乏与之匹配的盈利兑现，且燃料电池行业历史上资本开支高、回报周期长的特征并未根本改变，估值已隐含了较为乐观的执行预期。"
       },
       {
-        "heading": "估值与卖方观点分歧",
-        "body": "卖方观点出现分化：一部分机构因佩洛西买入消息和盈利预测上调而重申「买入」评级；另有分析文章明确指出，尽管数据中心相关利好因素持续发酵，当前估值水平仍不足以支撑「买入」判断，认为股价已经部分甚至过度定价了未来增长空间，存在预期与现实兑现节奏错配的风险。"
+        "heading": "跟踪者动向解读",
+        "body": "公开披露显示，Nancy Pelosi在2026年7月24日和28日两次新建BE多头仓位，并已于8月21日按规定披露，市场将其解读为看多信号，也是近期股价异动的直接触发因素之一。社交媒体上除了讨论跟单效应外，也有用户提示不应只关注政治人物持仓，而应留意FAU/Foci等零部件产能是否会成为类似芯片制造中CPO（共封装光学）那样的行业级瓶颈，这一视角提供了更偏产业基本面的观察角度，值得与情绪驱动的交易信号区分对待。"
       },
       {
-        "heading": "供应链与产能瓶颈",
-        "body": "社交媒体讨论提示，与半导体先进封装领域类似，Bloom Energy所依赖的部分核心部件（如FAU相关组件）可能面临产能瓶颈，这一瓶颈逻辑此前已在台积电等半导体供应链中被验证过。如果该类瓶颈同样制约燃料电池组件供应，可能影响公司订单交付速度和产能扩张计划，是需要持续观察的风险点。"
+        "heading": "估值与同业比较",
+        "body": "在电力设备与另类能源板块中，Bloom Energy的估值通常伴随其增长叙事出现较大波动，与传统公用事业公司相比明显偏高，更接近成长股定价逻辑。市场倾向于将其与其他AI供电及数据中心基础设施相关标的放在一起比较，核心分歧在于其增长的持续性能否匹配当前隐含的乐观预期，以及公司在规模扩张过程中毛利率与现金流是否能同步改善。"
       },
       {
-        "heading": "政治人物交易与市场情绪",
-        "body": "本轮股价异动的直接催化剂是国会议员知情交易披露，市场存在明显的「跟风效应」，社交平台上有讨论提到「Trump」和「Pelosi」相关交易被大量复制跟单。这类由信息披露和情绪驱动的交易行为，往往与公司基本面变化的时间节奏不完全同步，需要投资者区分短期情绪驱动与中长期基本面驱动两类不同性质的股价波动。"
+        "heading": "风险提示",
+        "body": "主要风险包括：情绪与跟风资金退潮导致的股价波动放大；燃料电池设备资本开支和供应链成本压力对盈利能力的制约；数据中心电力需求增速或客户资本开支节奏不及预期；以及天然气发电、电网升级、核能等替代方案对分布式燃料电池市场份额构成的潜在竞争。投资者应关注公司后续财报中订单、毛利率及现金流指标的实际兑现情况。"
       }
     ],
     "comparables": [
       {
-        "ticker": "PLUG",
-        "name": "Plug Power",
-        "note": "氢燃料电池同业，同样受益于分布式清洁能源与数据中心供电叙事，但财务状况和盈利路径与Bloom Energy存在差异"
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "作为AI算力核心供应商，其资本开支预期和数据中心建设节奏直接影响下游电力需求，是判断Bloom Energy订单前景的重要先行指标"
       },
       {
-        "ticker": "FCEL",
-        "name": "FuelCell Energy",
-        "note": "固定式燃料电池发电企业，与Bloom Energy在技术路线和目标客户上具有一定可比性"
+        "ticker": "TSM",
+        "name": "台积电",
+        "note": "社交媒体讨论将Bloom核心部件FAU/Foci的潜在产能瓶颈类比为台积电CPO封装产能紧张，二者均涉及AI基础设施上游关键部件的供给约束逻辑"
       },
       {
-        "ticker": "VST",
-        "name": "Vistra",
-        "note": "传统及核能发电企业，同样受益于数据中心用电需求增长，是电力供应侧的另一类可比标的"
-      },
-      {
-        "ticker": "CEG",
-        "name": "Constellation Energy",
-        "note": "核电为主的发电企业，近期与科技公司签订数据中心供电协议，可作为数据中心电力需求兑现程度的参照"
+        "ticker": "MRVL",
+        "name": "美满电子",
+        "note": "同属AI基础设施相关标的，近期同样受财报和市场情绪驱动出现较大股价波动，可作为观察市场对AI产业链公司预期修正幅度的参照"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-25T21:34:17.541498Z"
+    "generatedAt": "2026-08-27T00:35:18.646688Z"
   },
   "news": [
     {
-      "id": "BE-141317524",
-      "title": "Bitcoin Tops $80,000, Oil Sinks As Navy Clears Hormuz Mines: Stock Market Today",
+      "id": "BE-141325234",
+      "title": "Here’s How Much You Would Have Made Owning Bloom Energy Stock In The Last 5 Years",
       "source": "Benzinga",
-      "publishedAt": "2026-08-25",
-      "url": "https://finnhub.io/api/news?id=05804c95ab58ba262bb452c5640017d019dab62d1376acde6b7416e51bb1b6fe",
+      "publishedAt": "2026-08-26",
+      "url": "https://finnhub.io/api/news?id=8c3b4e8b4185f645d17d03c7c68e04f833f53555ca0de4cd94bf1164f45071fc",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-141316438",
-      "title": "Bloom Energy: Pelosi Buys And Sell-Side Earnings Hikes, Reiterate 'Buy'",
+      "id": "BE-141323290",
+      "title": "Q2 Earnings Season Confirmed The AI Infrastructure Thesis, And Revealed What May Come Next",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-26",
+      "url": "https://finnhub.io/api/news?id=3043a64782e861938741cf46a220a3d6180567fd623cc1f61989a61fc51d4f93",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-141323681",
+      "title": "What's Going On With Bloom Energy Stock on Wednesday?",
+      "source": "Benzinga",
+      "publishedAt": "2026-08-26",
+      "url": "https://finnhub.io/api/news?id=7b126c5611c9c93170399cf64669129a4012f82ff23c5c53fa6313aeaf11bab4",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-141322441",
+      "title": "SCHD And STK: A 3%+ Income Barbell",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-26",
+      "url": "https://finnhub.io/api/news?id=ea4ad1157b42d6bad453f53df9599e9e64e5dddcb48416e8ed75336323562ec6",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-141318778",
+      "title": "Bloom Energy: I Underestimated How Fast This Scales",
       "source": "SeekingAlpha",
       "publishedAt": "2026-08-25",
-      "url": "https://finnhub.io/api/news?id=7923cfa91ee6beb592f9e8a72b79fa3b4f4871a6e7b25d9f69d6b7cd2bc74cbb",
+      "url": "https://finnhub.io/api/news?id=327854cadef4a09d22b0ff4e5a9bf03e82a40168220f5ec8381189eecc15f78b",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-141316895",
-      "title": "Bloom Energy Stock Rises as Pelosi-Linked Trades Draw Fresh Attention",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-25",
-      "url": "https://finnhub.io/api/news?id=98584d0346e2f2c987b012820348d3e3d7f6a8346be6e96c6f1f070e1fcc4a70",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-141316339",
-      "title": "Oracle: September 10 Will Make Or Break The Bull Case",
+      "id": "BE-141318466",
+      "title": "Don't Sleep On Software",
       "source": "SeekingAlpha",
       "publishedAt": "2026-08-25",
-      "url": "https://finnhub.io/api/news?id=1283646ebe7ad0a921aefaf909538b49cbbf27b1f36933185771087bd19d2d9f",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-141316213",
-      "title": "Bloom Energy: Data Center Pushback Drives Accelerated Growth Tailwinds - Still Not A Buy",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-08-25",
-      "url": "https://finnhub.io/api/news?id=c6d5c841300029174840f5b8df6097ba565b65e4b98a8abe0bec746feb0576e7",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-141316843",
-      "title": "Nvidia, Bloom Energy, SanDisk, Expion Energy and Visa: Why These 5 Stocks Are on Investors' Radars Today",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-24",
-      "url": "https://finnhub.io/api/news?id=10de383fcc05264fce3756703b03ce0c0a9912833ea575b3aa2bf9b84c5e8fd9",
+      "url": "https://finnhub.io/api/news?id=d7c7ff30c1b3e55ae13bdb52cc80cbe1f892ae0321e0f9170dd6c952b580763d",
       "tags": [
         "BE"
       ]
