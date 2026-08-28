@@ -354,6 +354,16 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-08-27",
+    "sentiment": "watch",
+    "excerpt": "Nvidia just announced Record Sales of 96.2 Billion Dollars, forecasting a 70% rise in Revenue in 2028. Congratulations to Jensen Huang on these incredible numbers, and the Company’s Great Success. Only in America! President DONALD J. TRUMP",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117169577666973164",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-08-26",
     "sentiment": "watch",
     "excerpt": "Trump Unleashes Scott Bessent on Iran: https://www. wsj.com/opinion/donald-trump-s cott-bessent-sanctions-iran-oil-economy-96362772",
@@ -386,28 +396,162 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-08-25",
+    "asOf": "2026-08-27",
     "sentiment": "watch",
-    "excerpt": "Canada has been “Ripping Off” the U.S.A. for decades. They have been charging our Farmers 400% Tariffs, and more. They have driven many wonderful U.S. companies out of business. For 10 years they wouldn’t certify Gulfstream Jets, until I go",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117156429202842827",
-    "ticker": "",
+    "excerpt": "Grok now in Microsoft Foundry",
+    "postUrl": "https://x.com/elonmusk/status/2093151010407453155",
+    "ticker": "MSFT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-27",
+    "sentiment": "watch",
+    "excerpt": "Nah, $SIVE is the most unusual $1B photonics company I've ever seen. \n\nJust for AI DCs alone:\n\n- Reference laser for $GFS SCALE (CPO/NPO/pluggable)\n- 7 pluggable engagements disclosed, with $JBL as primary ramp (with H1 2027 timeline)\n- ELS",
+    "postUrl": "https://x.com/aleabitoreddit/status/2093087267594314182",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-27",
+    "sentiment": "watch",
+    "excerpt": "Nah, $SIVE is the most unusual $1B photonics company I've ever seen. \n\nJust for AI DCs alone:\n\n- Reference laser for $GFS SCALE (CPO/NPO/pluggable)\n- 7 pluggable engagements disclosed, with $JBL as primary ramp (with H1 2027 timeline)\n- ELS",
+    "postUrl": "https://x.com/aleabitoreddit/status/2093087267594314182",
+    "ticker": "AEVA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-27",
+    "sentiment": "watch",
+    "excerpt": "Nah, $SIVE is the most unusual $1B photonics company I've ever seen. \n\nJust for AI DCs alone:\n\n- Reference laser for $GFS SCALE (CPO/NPO/pluggable)\n- 7 pluggable engagements disclosed, with $JBL as primary ramp (with H1 2027 timeline)\n- ELS",
+    "postUrl": "https://x.com/aleabitoreddit/status/2093087267594314182",
+    "ticker": "GFS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-27",
+    "sentiment": "watch",
+    "excerpt": "Nah, $SIVE is the most unusual $1B photonics company I've ever seen. \n\nJust for AI DCs alone:\n\n- Reference laser for $GFS SCALE (CPO/NPO/pluggable)\n- 7 pluggable engagements disclosed, with $JBL as primary ramp (with H1 2027 timeline)\n- ELS",
+    "postUrl": "https://x.com/aleabitoreddit/status/2093087267594314182",
+    "ticker": "JBL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-27",
+    "sentiment": "watch",
+    "excerpt": "$SIVE ER transcript just dropped, TLDR:\n\n- 6 NEW pluggable players working with Sivers now.\n\nProbably the biggest news of the entire ER next to new foundry allocations. \n\n\"3 are in alpha sample evaluation stage\" and another 3 in technical e",
+    "postUrl": "https://x.com/aleabitoreddit/status/2093054882282651723",
+    "ticker": "AAOI",
     "topics": [
-      "关税/贸易"
+      "大盘/宏观"
     ]
   },
   {
-    "personId": "trump",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-08-24",
+    "asOf": "2026-08-27",
     "sentiment": "watch",
-    "excerpt": "Lots of “bluster” from Doug Ford, who is the Premier of the Canadian Province of Ontario, but who is better known as the less charismatic, intelligent, and overall unimpressive brother of the late, great, Rob Ford. America has been carrying",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117151799569745572",
-    "ticker": "",
+    "excerpt": "$SIVE ER transcript just dropped, TLDR:\n\n- 6 NEW pluggable players working with Sivers now.\n\nProbably the biggest news of the entire ER next to new foundry allocations. \n\n\"3 are in alpha sample evaluation stage\" and another 3 in technical e",
+    "postUrl": "https://x.com/aleabitoreddit/status/2093054882282651723",
+    "ticker": "JBL",
     "topics": [
-      "经济数据"
+      "大盘/宏观"
     ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-27",
+    "sentiment": "watch",
+    "excerpt": "$SIVE ER transcript just dropped, TLDR:\n\n- 6 NEW pluggable players working with Sivers now.\n\nProbably the biggest news of the entire ER next to new foundry allocations. \n\n\"3 are in alpha sample evaluation stage\" and another 3 in technical e",
+    "postUrl": "https://x.com/aleabitoreddit/status/2093054882282651723",
+    "ticker": "LITE",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-27",
+    "sentiment": "watch",
+    "excerpt": "$SIVE ER transcript just dropped, TLDR:\n\n- 6 NEW pluggable players working with Sivers now.\n\nProbably the biggest news of the entire ER next to new foundry allocations. \n\n\"3 are in alpha sample evaluation stage\" and another 3 in technical e",
+    "postUrl": "https://x.com/aleabitoreddit/status/2093054882282651723",
+    "ticker": "SIVE",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-27",
+    "sentiment": "watch",
+    "excerpt": "$SIVE earnings just got released:\n\n$1.2 billion revenue opportunity pipeline growth up 268% from December (incredible growth). \n\nLast ER: $799M (this was a surprise, likely linked to Jabil)\n\nJuly 2026: ~$1.2B (hinting more either more custo",
+    "postUrl": "https://x.com/aleabitoreddit/status/2093014569279189295",
+    "ticker": "SIVE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-26",
+    "sentiment": "watch",
+    "excerpt": "I've always been bullish on memory with $MU / Samsung / solana:SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3 for the 2026-2027 period.  \n\nSame opinion, even after $NVDA call. \n\nAnd I've been fervently defending how high end memory demand is s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2092851118233764178",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-26",
+    "sentiment": "watch",
+    "excerpt": "I've always been bullish on memory with $MU / Samsung / solana:SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3 for the 2026-2027 period.  \n\nSame opinion, even after $NVDA call. \n\nAnd I've been fervently defending how high end memory demand is s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2092851118233764178",
+    "ticker": "EWY",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-26",
+    "sentiment": "watch",
+    "excerpt": "I've always been bullish on memory with $MU / Samsung / solana:SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3 for the 2026-2027 period.  \n\nSame opinion, even after $NVDA call. \n\nAnd I've been fervently defending how high end memory demand is s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2092851118233764178",
+    "ticker": "MU",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-26",
+    "sentiment": "watch",
+    "excerpt": "I've always been bullish on memory with $MU / Samsung / solana:SKHYhSjuRWHgikq8eRKbtBbpABgJSkd7ytQV14i9EQ3 for the 2026-2027 period.  \n\nSame opinion, even after $NVDA call. \n\nAnd I've been fervently defending how high end memory demand is s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2092851118233764178",
+    "ticker": "SIMO",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-26",
+    "sentiment": "watch",
+    "excerpt": "I wanted exposure to DDR2/DDR3 bottleneck ongoing and found ESMT (3006). \n\nA $2.5B MC fabless company with PSMC wafer allocation (esp. focused on DDR2). \n\nLast month's net income was: $109.5M (July month), which annualized is $1.31B net pro",
+    "postUrl": "https://x.com/aleabitoreddit/status/2092789800428622128",
+    "ticker": "SNDK",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -618,134 +762,6 @@
     "sentiment": "watch",
     "excerpt": "$NVDA, following their $20B deal... Announces Groq3 LPX now in full production.\n\nWith $NBIS the first to adopt through Nebius token factory.\n\n- 3,400 tok/s in Artificial Analysis benchmarking running Gemma 4 31B, with 100k token context\n- 4",
     "postUrl": "https://x.com/aleabitoreddit/status/2091909391238979970",
-    "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-24",
-    "sentiment": "watch",
-    "excerpt": "Bro why are we fighting a Trade War with our friendly Golden Retriever named Canada.\n\nShouldn't we be focusing on Iran today? \n\nTrump: Announces 50% Tariffs On Cars, Automotive Parts, and Steel From 2027. https://t.co/40SbPDPMFC",
-    "postUrl": "https://x.com/aleabitoreddit/status/2091889047325335611",
-    "ticker": "",
-    "topics": [
-      "关税/贸易"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-24",
-    "sentiment": "watch",
-    "excerpt": "$XPEV carves out its robotics unit and raises >$900M at $6.3B+ valuations.\n\nThis is following’s Unitree IPO, which now has a ~$35-$36B MC.\n\nThen there’s $NVDA / $AMZN backed Agility… at a $2.5B premoney valuation. Which I’d argue is actuall",
-    "postUrl": "https://x.com/aleabitoreddit/status/2091851831718879660",
-    "ticker": "NVDA",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-24",
-    "sentiment": "watch",
-    "excerpt": "$XPEV carves out its robotics unit and raises >$900M at $6.3B+ valuations.\n\nThis is following’s Unitree IPO, which now has a ~$35-$36B MC.\n\nThen there’s $NVDA / $AMZN backed Agility… at a $2.5B premoney valuation. Which I’d argue is actuall",
-    "postUrl": "https://x.com/aleabitoreddit/status/2091851831718879660",
-    "ticker": "AMZN",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-24",
-    "sentiment": "watch",
-    "excerpt": "$XPEV carves out its robotics unit and raises >$900M at $6.3B+ valuations.\n\nThis is following’s Unitree IPO, which now has a ~$35-$36B MC.\n\nThen there’s $NVDA / $AMZN backed Agility… at a $2.5B premoney valuation. Which I’d argue is actuall",
-    "postUrl": "https://x.com/aleabitoreddit/status/2091851831718879660",
-    "ticker": "XPEV",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-24",
-    "sentiment": "watch",
-    "excerpt": "Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more). \n\nWhat I've been consistent with is not being a fan of overusing ATMs/dilution for finan",
-    "postUrl": "https://x.com/aleabitoreddit/status/2091843192639672553",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-24",
-    "sentiment": "watch",
-    "excerpt": "Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more). \n\nWhat I've been consistent with is not being a fan of overusing ATMs/dilution for finan",
-    "postUrl": "https://x.com/aleabitoreddit/status/2091843192639672553",
-    "ticker": "IREN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-24",
-    "sentiment": "watch",
-    "excerpt": "Lot of misinterpretations flying left and right around the $600m ATM. I'm still bullish on $AAOI and I have large positions (which is why I care more). \n\nWhat I've been consistent with is not being a fan of overusing ATMs/dilution for finan",
-    "postUrl": "https://x.com/aleabitoreddit/status/2091843192639672553",
-    "ticker": "POET",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-23",
-    "sentiment": "watch",
-    "excerpt": "\"At dawn begins an economic D-Day, \n\nThe single greatest financial offensive ​ever marshalled against an adversary\", per Bessent in FT. \n\nThe US would target nations that engage with Iran's economy and financial system. Press conference is ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2091755022937940422",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-23",
-    "sentiment": "watch",
-    "excerpt": "After watching clips of China's humanoid Olympics... \n\nI think we're cooked chat. \n\nStill can't believe $GOOGL sold Boston Dynamics, don't think we have another humanoid that can backflip. https://t.co/uERCqW85F5",
-    "postUrl": "https://x.com/aleabitoreddit/status/2091612406900564407",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-23",
-    "sentiment": "watch",
-    "excerpt": "Having a mid-X identity crisis rn:\n\n✓ saw 2025 ideas from $AXTI to $NBIS play out with everyone\n✓ we got $AMD bandanas\n✓ #1 most subscribed person on X by accident\n✓ Chinese “White Hair” nicknames\n✓ 1M followers\n\nStill here to track ideas, ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2091488091110531106",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-23",
-    "sentiment": "watch",
-    "excerpt": "Having a mid-X identity crisis rn:\n\n✓ saw 2025 ideas from $AXTI to $NBIS play out with everyone\n✓ we got $AMD bandanas\n✓ #1 most subscribed person on X by accident\n✓ Chinese “White Hair” nicknames\n✓ 1M followers\n\nStill here to track ideas, ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2091488091110531106",
-    "ticker": "AXTI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-23",
-    "sentiment": "watch",
-    "excerpt": "Having a mid-X identity crisis rn:\n\n✓ saw 2025 ideas from $AXTI to $NBIS play out with everyone\n✓ we got $AMD bandanas\n✓ #1 most subscribed person on X by accident\n✓ Chinese “White Hair” nicknames\n✓ 1M followers\n\nStill here to track ideas, ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2091488091110531106",
     "ticker": "NBIS",
     "topics": []
   },

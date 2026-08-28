@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 209.66,
-  "change5dPct": -3.6,
-  "changeYtdPct": 18.3,
-  "marketCap": "$5.07T",
+  "price": 227.98,
+  "change5dPct": 5.1,
+  "changeYtdPct": 24.9,
+  "marketCap": "$5.52T",
   "pe": 34.0,
   "revenue": "—",
   "revenueYoYPct": 71,
   "prices": [
-    {
-      "t": "2026-02-27",
-      "o": 181.25,
-      "h": 182.59,
-      "l": 176.38,
-      "c": 177.19
-    },
     {
       "t": "2026-03-02",
       "o": 175.01,
@@ -881,131 +874,138 @@
     },
     {
       "t": "2026-08-26",
-      "o": 212.42,
+      "o": 212.64,
       "h": 213.6,
       "l": 209.23,
       "c": 209.66
+    },
+    {
+      "t": "2026-08-27",
+      "o": 222.86,
+      "h": 230.47,
+      "l": 220.9,
+      "c": 227.98
     }
   ],
   "thesis": {
     "bull": [
-      "2026财年二季度业绩全面超预期，营收96.22亿美元超出市场预期的92.17亿美元，调整后每股收益2.22美元超出2.09至2.10美元的预期区间，数据中心业务营收89.0亿美元同样好于86.3亿美元的预期，显示AI算力需求依然强劲",
-      "公司将2028财年营收增速指引由此前的43.9%大幅上修至约70%，且管理层明确表示这是「供给受限」下的展望，意味着需求端可见度极高，产能一旦释放收入弹性巨大",
-      "超大规模云厂商营收达487.1亿美元，环比430.5亿美元继续增长，同时Groq3 LPX已进入量产并被Nebius率先采用，叠加与光模块厂商Landmark、Lite、Coherent等签订多年期供应协议，产业链上下游均在为长期高需求锁定产能"
+      "FY2026Q2财报大幅超预期：营收962.2亿美元超预期约921.7亿美元，调整后每股收益2.22美元超预期2.09至2.10美元区间，数据中心营收890亿美元同样超预期，调整后毛利率维持75%，核心业务持续强劲",
+      "管理层将2028财年营收增速指引上修至约70%，且强调当前展望仍是供应受限状态，意味着需求可能超过产能；超大规模云厂商贡献营收487.1亿美元，较上季度430.5亿美元环比大增，Groq3 LPX已投入量产并由Nebius率先采用，显示产品矩阵持续扩张",
+      "政治人物公开交易与言论显示关注度持续：佩洛西在2026年1月披露的PTR显示新建仓NVDA多头头寸，特朗普总统亦在社交媒体公开祝贺NVDA创纪录业绩，财经评论员称其财报表现推翻了此前的看空叙事"
     ],
     "bear": [
-      "部分分析师提出「Broadcom正在成为新的Nvidia」的论调，指出自研ASIC（尤其是超大规模厂商的定制芯片）持续侵蚀Nvidia在推理及部分训练场景的份额，长期毛利率与市场份额存在被稀释的风险",
-      "市场对AI资本开支的可持续性存疑，有评论认为当前估值已计入过多乐观预期，存在「多重估值被压缩」的技术性风险，部分文章给出的技术目标价（如260美元）也暗示上行空间有限",
-      "宏观层面美联储在Jackson Hole会议前的政策不确定性、通胀数据及利率路径可能压制高估值成长股整体表现，AI数据中心建设还面临电网容量不足与地方社区抵制等现实瓶颈"
+      "据报道特朗普政府正评估对半导体征收新一轮广泛关税，若相关供应链或产品被纳入范围，可能推高成本或扰乱NVDA全球供应链结构，构成潜在政策风险",
+      "市场资金出现去AI化迹象：单日SPY流出38亿美元、QQQ流入37亿美元的结构性分化，同时比特币ETF单日吸金28亿美元，被解读为资金从AI板块轮动至去美元化交易，显示部分投资者对AI板块估值已生疑虑",
+      "供应链瓶颈延伸至存储与光通信环节，市场评论指出高端内存及CPO相关光纤模组产能持续紧张，若关键零部件供应不能同步扩产，可能制约NVDA未来出货节奏与整体利润率"
     ],
     "watch": [
-      "国会议员佩洛西在2025年末至2026年初对NVDA持仓出现新建仓与减持交替披露，方向不完全一致，需持续关注国会及机构持仓变化是否反映对AI板块态度的边际转变",
-      "关注财报后管理层对2028财年70%增速指引的后续执行情况，尤其是供给端（先进封装、光模块、HBM等）产能释放节奏是否匹配需求，一旦出现产能瓶颈缓解不及预期需重新评估",
-      "持续跟踪自研ASIC生态（如Broadcom、Marvell与各大云厂商的合作）及Nvidia自身新产品（Groq3 LPX等）在下游客户中的实际份额演变，判断竞争格局是否发生结构性变化"
+      "佩洛西同期披露中亦包含减仓交易，且2025年同期披露也呈现先建仓后减仓的模式，需关注国会议员交易是否仅为税务或流动性调仓，而非明确方向性信号",
+      "关注NVDA所谓光环效应对芯片板块普涨的真实拉动程度，以及Marvell等竞争对手财报反应分化，部分评论认为其业绩不够好，反映市场对定制ASIC与GPU路线的分歧仍在扩大",
+      "关注即将到来的Jackson Hole及美联储官员讲话、G20财长会议对宏观流动性与利率预期的影响，以及中东局势变化，这些宏观变量可能影响AI资本开支持续性与整体风险偏好"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达是全球领先的图形处理器与AI加速计算平台提供商，核心业务已从传统游戏显卡扩展至以数据中心GPU、网络互联及全栈软件为核心的AI基础设施平台，是当前生成式AI浪潮中算力供给端的核心受益者之一"
+        "body": "NVDA是全球领先的GPU与AI计算平台供应商，业务涵盖数据中心、游戏、专业可视化与汽车等板块，目前数据中心业务已成为营收与利润的主要驱动力，客户包括各大超大规模云服务商及新兴AI云厂商"
       },
       {
-        "heading": "最新财报表现",
-        "body": "公司公布的季度业绩全面超出市场预期，营收96.22亿美元高于92.17亿美元的预期，数据中心业务营收89.0亿美元同样超预期，调整后每股收益2.22美元高于2.09至2.10美元的区间，调整后毛利率维持在75%的高位，显示需求端并未出现放缓迹象"
+        "heading": "最新财务表现",
+        "body": "最新一季营收962.2亿美元，超市场预期约921.7亿美元；调整后每股收益2.22美元，超预期2.09至2.10美元区间；数据中心业务营收890亿美元，超预期863亿美元；调整后毛利率维持75%，与市场预期一致。超大规模云厂商贡献营收487.1亿美元，较上一季度430.5亿美元环比大幅增长"
       },
       {
-        "heading": "前瞻指引与供给状况",
-        "body": "管理层将2028财年营收增速指引由此前的约43.9%大幅上调至约70%，并特别强调这是在供给受限条件下给出的展望，意味着实际需求可能进一步超过当前产能所能满足的水平，公司及其供应链伙伴正通过多年期协议锁定光模块、先进封装等关键环节产能"
+        "heading": "增长动能与需求信号",
+        "body": "管理层将2028财年营收增速指引上修至约70%，并强调当前展望仍是供应受限状态，意味着实际需求可能高于产能。Groq3 LPX产品已进入全面量产，Nebius成为首批采用方并通过其Token工厂落地，基准测试显示在Gemma 4 31B模型上达到每秒约3400个token的推理速度，产品矩阵持续向推理端延伸"
       },
       {
-        "heading": "客户结构与生态布局",
-        "body": "超大规模云厂商仍是最大收入来源，季度环比继续增长，但同时也是自研ASIC投入最积极的群体，公司通过Groq3 LPX等新产品在推理侧扩展产品矩阵，并已获得Nebius等客户在token工厂场景的采用，同时通过对外投资（如对机器人公司Agility等的布局）延伸至AI应用与机器人领域"
+        "heading": "供应链与产业链动态",
+        "body": "市场评论关注高端内存及硅光CPO相关光模块环节产能持续紧张，部分光通信及内存供应商产能被指已被订满，这类瓶颈可能影响NVDA及其生态系统伙伴的整体交付能力，但也从侧面印证下游需求依然旺盛"
       },
       {
-        "heading": "竞争与多空分歧",
-        "body": "市场对英伟达前景存在明显分歧：多头强调其在训练与高端推理领域的技术与生态护城河短期难以撼动，供给受限下涨价与份额双重红利仍在延续；空头则担忧博通、Marvell等厂商代工的定制ASIC正在部分场景替代通用GPU，长期可能压缩英伟达的份额与定价权，市场对「Broadcom是否会成为新的Nvidia」的讨论反映了这一担忧"
+        "heading": "政策与宏观风险",
+        "body": "据报道特朗普政府正考虑对半导体产品征收新一轮广泛关税，若落地可能影响NVDA全球供应链成本结构。同时中东局势持续牵动市场风险偏好，叠加美联储官员在Jackson Hole的表态，宏观流动性环境仍存在不确定性，可能间接影响科技股估值倍数"
       },
       {
-        "heading": "宏观与估值环境",
-        "body": "美联储在Jackson Hole会议前后的政策表态、通胀及利率路径将影响成长股整体估值中枢，部分评论认为当前股价已计入较多乐观预期，存在估值压缩风险，同时数据中心建设面临电网容量、社区抵制等现实约束，这些因素叠加国会议员持仓披露的交替买卖，共同构成需要持续跟踪的不确定性来源"
+        "heading": "关键人物与市场情绪",
+        "body": "国会议员佩洛西近两年多次披露NVDA相关交易，模式显示建仓与减仓交替，需谨慎解读其方向性含义；特朗普总统公开在社交媒体祝贺NVDA业绩创纪录，为公司带来舆论关注度。部分财经评论员认为NVDA财报推翻了此前的看空叙事，但也有资金流数据显示部分投资者正将资金从AI板块轮动至其他资产，显示市场对AI板块持续性仍存分歧"
       }
     ],
     "comparables": [
       {
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "定制ASIC与数据中心互联芯片商，与NVDA在AI加速器市场既是合作伙伴也存在竞争关系，其最新季度财报市场反应分化，可作为AI资本开支强度的对照指标"
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology",
+        "note": "高端存储供应商，其产能与定价直接影响NVDA GPU系统成本与交付能力，是AI硬件供应链紧俏程度的重要观察对象"
+      },
+      {
         "ticker": "AVGO",
-        "name": "博通",
-        "note": "凭借为超大规模厂商定制ASIC芯片被部分市场观点视为英伟达在推理侧的主要挑战者，代表自研芯片路线的竞争力量"
-      },
-      {
-        "ticker": "AMD",
-        "name": "超威半导体",
-        "note": "通用GPU领域的直接竞争对手，在数据中心加速卡市场份额持续追赶，是衡量英伟达技术与生态领先幅度的重要参照"
-      },
-      {
-        "ticker": "TSM",
-        "name": "台积电",
-        "note": "英伟达先进制程与封装的核心代工伙伴，其产能与良率状况直接影响英伟达供给端瓶颈能否如期缓解"
+        "name": "Broadcom Inc",
+        "note": "同样布局定制AI加速器与网络芯片，是超大规模云厂商自研芯片趋势下对NVDA市场份额构成潜在挑战的主要竞争者之一"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-27T00:33:52.916293Z"
+    "generatedAt": "2026-08-28T05:10:21.920818Z"
   },
   "news": [
     {
-      "id": "NVDA-141324625",
-      "title": "Explore the top gainers and losers within the dow jones index in today's session.",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-26",
-      "url": "https://finnhub.io/api/news?id=45b7ccfee9169d8cf3dc418bd809f9b83e3e927cd7530f4e98fda7ca7f6a2c9d",
-      "tags": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "NVDA-141325790",
-      "title": "Nvidia Q2: The $10 Trillion Thesis",
+      "id": "NVDA-141334881",
+      "title": "Nvidia Picks Up The Slack",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-08-26",
-      "url": "https://finnhub.io/api/news?id=2817a606305ccb037b2cf67f2e2d75762fde7f333f8228b530d0fdf68286741e",
+      "publishedAt": "2026-08-28",
+      "url": "https://finnhub.io/api/news?id=57173a9a84b6f555310e18def1a2ba8805ae1b041d6906c7384d9c58c7cd3c82",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141325630",
-      "title": "Nvidia Q2 FY27: I'm Buying This Weakness",
+      "id": "NVDA-141334157",
+      "title": "Tracking George Soros's 13F Portfolio - Q2 2026 Update",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-08-26",
-      "url": "https://finnhub.io/api/news?id=3c01c0f0f65d887f542e7cb91ac6587ac2ae2faf1f4a662e998555f76be9d6df",
+      "publishedAt": "2026-08-27",
+      "url": "https://finnhub.io/api/news?id=13b2bc4b692d796c93baed31652eac9113d40ea10263965f9bce2ff9a56b98bb",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141325568",
-      "title": "Nvidia: Compressing Multiples And A $260 Technical Target",
+      "id": "NVDA-141332096",
+      "title": "Thursday's session: top gainers and losers in the dow jones index",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-27",
+      "url": "https://finnhub.io/api/news?id=f91bace257ba0af744e76346de1ee986e0b1ace6e3fd1e564f4da44e81506cdf",
+      "tags": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "NVDA-141332095",
+      "title": "What's going on in today's session: S&P500 movers",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-27",
+      "url": "https://finnhub.io/api/news?id=f563c106233d14ebb69586ee907707f00b570373de8f8e44db8bfd287e5b4889",
+      "tags": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "NVDA-141333348",
+      "title": "Marvell Q2: I Agree With The Market",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-08-26",
-      "url": "https://finnhub.io/api/news?id=dacaeb5ee70b17f16e637054a02ebead758986b7845eaa7e3a081e89f45e659b",
+      "publishedAt": "2026-08-27",
+      "url": "https://finnhub.io/api/news?id=f6ea36e7578e110c526702d56e4e49e3cb1b2da8c578cbd0b5435d64c91ff326",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141324202",
-      "title": "Explore the S&P500 index on Wednesday and find out which stocks are the most active in today's session.",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-26",
-      "url": "https://finnhub.io/api/news?id=c710f4da94ba6b1816de5555e8b2151446aae51f52ce20fa254d5a2921bdc8fd",
-      "tags": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "NVDA-141324201",
-      "title": "Which stocks are most active on Wednesday?",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-26",
-      "url": "https://finnhub.io/api/news?id=4152ed86f81b8ffb72f97d157296ef67d6b5df99ecd5121c3357ed36c3873358",
+      "id": "NVDA-141333088",
+      "title": "Marvell Q2: Not Good Enough",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-27",
+      "url": "https://finnhub.io/api/news?id=0e41ce09491882242356dc16f075d68cbafb302a6ea2fe9bc854f67b1f464e0b",
       "tags": [
         "NVDA"
       ]
