@@ -3,10 +3,10 @@
   "name": "Marvell Technology",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 216.62,
-  "change5dPct": -8.6,
-  "changeYtdPct": 167.9,
-  "marketCap": "$191.1B",
+  "price": 211.66,
+  "change5dPct": -7.7,
+  "changeYtdPct": 161.8,
+  "marketCap": "$185.4B",
   "pe": 77.0,
   "revenue": "—",
   "revenueYoYPct": 34,
@@ -888,131 +888,143 @@
     },
     {
       "t": "2026-08-28",
-      "o": 225.31,
+      "o": 225.26,
       "h": 228.88,
       "l": 215.55,
       "c": 216.62
+    },
+    {
+      "t": "2026-08-31",
+      "o": 216.13,
+      "h": 218.22,
+      "l": 209.53,
+      "c": 211.66
     }
   ],
   "thesis": {
     "bull": [
-      "英伟达CEO黄仁勋近期公开将Marvell称为下一个万亿美元级公司,相关表态在6至7月密集出现,推动市场对其定制ASIC与光互连业务重新定价,期间股价一度累计上涨约129%",
-      "公司在与超大规模云厂商的定制AI加速器合作上具备先发优势,数据中心相关收入占比持续提升,直接受益于AI基础设施资本开支扩张周期",
-      "在CW激光器与硅光子等光互连关键产能被下游厂商争抢的背景下,Marvell作为数通光模块核心供应商之一,有望在800G向1.6T升级换代中获得份额与单价提升"
+      "与英伟达关系深化：英伟达CEO黄仁勋多次公开将MRVL称为下一个万亿美元级公司候选，并被曝出与英伟达在定制芯片/ASIC生态上有资金与技术层面的绑定，市场解读为对其定制硅业务前景的背书",
+      "定制ASIC与光互连需求旺盛：跟踪者指出1.6T可插拔光模块在2027年进入放量周期，多家超大规模云厂商评估或下单，MRVL在光电互连与云端定制计算芯片领域具备先发卡位",
+      "与Alphabet的合作被部分分析人士认为市场定价不足，若谷歌TPU相关定制芯片订单持续扩大，存在被低估的长期收入弹性"
     ],
     "bear": [
-      "Marvell与博通在定制ASIC及以太网交换芯片领域存在直接竞争,博通凭借与大型云厂商更深的绑定关系及更强的资本回报能力构成持续压制,市场对Marvell能否守住份额存在明显分歧",
-      "近期已出现单日下跌约一成的走势,显示股价在黄仁勋等人背书驱动下已计入较高的AI叙事溢价,一旦客户资本开支或新订单落地节奏不及预期,存在明显回调风险",
-      "英伟达管理层已提示AI数据中心存在电力供应瓶颈,若能源与电力基础设施制约先于芯片产能成为行业瓶颈,可能拖慢下游客户对定制芯片新增订单的落地速度,进而影响Marvell的收入兑现"
+      "英伟达同时向联发科投资3.5B美元，被解读为英伟达在ASIC生态中「多点下注」而非独家绑定MRVL，可能稀释市场此前给予MRVL的稀缺性溢价，同时对博通（AVGO）的竞争格局也构成扰动",
+      "近期财报后出现「更清晰的指引却未能提振股价」的评论，显示尽管管理层给出更明确的展望，投资者对增长可持续性和利润率路径仍存疑虑，追高存在获利了结压力",
+      "估值与预期已高度price-in「万亿美元叙事」，一旦客户集中度（如与单一超大规模客户的定制芯片订单）出现节奏放缓或份额被联发科等对手分流，股价对负面消息的敏感度较高"
     ],
     "watch": [
-      "后续季度财报中数据中心与定制硅业务的收入增速及新客户导入进展,用以验证黄仁勋乐观表态是否能兑现为实际订单",
-      "博通、台积电及新兴光引擎厂商在CW激光器与光模块产能上的竞争动态,是否会挤压Marvell在供应链中的议价地位",
-      "半导体关税政策扩大化的可能性,以及伊朗局势、美联储人事变动等宏观地缘因素引发的市场波动,对整个半导体板块估值和资本开支周期的传导影响"
+      "英伟达对联发科3.5B美元投资的后续落地细节及其对MRVL现有客户关系、定价权的实际影响",
+      "Celestial等定制硅收购标的相关业务的营收兑现节奏（市场传闻2028/2029年营收预测），是否与官方指引口径一致",
+      "1.6T可插拔光模块及云端ASIC订单在2027年的实际放量情况，包括客户数量扩散与产能爬坡进度"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Marvell Technology是一家专注于数据基础设施半导体解决方案的公司,主要产品涵盖数据中心互连芯片、面向超大规模云厂商的定制ASIC、以太网交换芯片以及光电子器件等。公司客户结构以云计算厂商、电信运营商及企业级网络设备商为主,近年来业务重心持续向AI与数据中心基础设施倾斜,与博通在定制芯片和网络芯片领域形成直接的竞争与对照关系。"
-      },
-      {
-        "heading": "AI叙事与股价催化",
-        "body": "2026年6月至7月期间,英伟达CEO黄仁勋多次在公开场合将Marvell称为有潜力成长为万亿美元市值的公司,相关报道密集出现在财经媒体上,成为市场情绪的重要催化剂,期间股价出现约129%的阶段性涨幅。多空双方均围绕这一表态展开解读:多头认为这反映了产业链龙头对Marvell定制硅与光互连业务前景的认可,空头则质疑这更多是叙事驱动而非订单兑现,担心估值已透支未来数个季度的增长预期。"
+        "body": "Marvell Technology是一家聚焦数据基础设施的半导体公司，核心业务覆盖云端定制芯片（ASIC）、光电互连模块、网络交换芯片以及存储控制器等领域。近年公司战略重心转向为超大规模云厂商提供定制化AI加速与网络芯片，成为「白盒/定制硅」浪潮中的关键供应商之一，与博通（AVGO）在该细分市场形成直接竞争"
       },
       {
         "heading": "业务驱动因素",
-        "body": "AI基础设施建设的持续扩张是Marvell业绩与估值的核心驱动力,具体体现在两条主线:一是与超大规模云厂商合作的定制AI加速器项目,二是数通光模块从800G向1.6T升级过程中对高速光互连器件的需求。行业内围绕CW激光器等关键光学元件出现产能争夺的迹象,也从侧面反映出上游供应链的紧张程度,这对包括Marvell在内的相关供应商既是机会也是潜在瓶颈。"
+        "body": "公司增长主要由三条线驱动：一是与超大规模云客户的定制AI芯片合作（包括市场传闻中的Alphabet相关项目），二是光电互连业务，尤其是面向1.6T速率可插拔模块的下一代产品在2027年前后进入放量周期，三是传统网络与存储芯片业务提供现金流基础。跟踪者提到的Celestial等并购标的被视为补强定制硅能力的举措"
       },
       {
-        "heading": "竞争格局与供应链",
-        "body": "在定制ASIC与网络交换芯片领域,博通是Marvell最主要的竞争对手,凭借与Google等大客户的深度绑定以及更强的现金流和资本回报能力,长期对Marvell构成压力。同时,光模块与光引擎领域也出现新进入者活跃布局CW激光器产能的动态,行业格局尚未完全稳定。市场对Marvell能否在这一格局中持续扩大份额存在明显分歧,是判断其中长期成长空间的关键变量。"
+        "heading": "与英伟达关系的多空解读",
+        "body": "英伟达CEO黄仁勋多次公开唱多MRVL，称其有望成长为万亿美元级公司，这一系列言论在过去数月持续为股价提供叙事支撑。但近期英伟达同时宣布向联发科投资3.5B美元，市场观点出现分化：一部分人认为这是英伟达在扩大ASIC生态朋友圈、为MRVL的长期客户基础背书；另一部分人则担忧这稀释了此前「英伟达独家力挺MRVL」的稀缺性叙事，并对博通的市场地位也构成扰动"
       },
       {
-        "heading": "风险与不确定性",
-        "body": "近期股价已出现单日下跌约一成的剧烈波动,显示在利好消息密集释放后,市场对预期兑现节奏变得更为敏感。此外,英伟达管理层已公开提示AI数据中心可能面临电力供应瓶颈,若电力等基础设施制约先于芯片产能成为行业瓶颈,可能延缓客户资本开支和新订单的落地进度。宏观层面,伊朗局势带来的地缘风险、美国对半导体关税政策扩大化的讨论,以及美联储人事变动引发的利率预期波动,均可能通过风险偏好渠道影响半导体板块整体估值。"
+        "heading": "财报与市场反应",
+        "body": "近期财报后出现「指引更清晰但未能打动市场」的评论标题，反映公司在业绩沟通上取得进展，但投资者对利润率、客户集中度及订单可持续性仍有疑虑。同时也有分析文章认为「市场对Alphabet合作潜力的忽视令人费解」，显示卖方与部分独立分析师之间对公司远期收入曲线的判断存在明显分歧"
       },
       {
-        "heading": "跟踪者动向与市场情绪",
-        "body": "从公开信息看,围绕Marvell的讨论近期高度集中于黄仁勋的正面表态及其引发的连锁报道,情绪标签多为观望而非明确多空立场,也有评论指出这一背书并未消除公司本身面临的竞争与执行风险。此外,有社交媒体讨论关注到新进入者在CW激光器产能上的布局,提示投资者需要持续跟踪供应链格局变化,而非仅依赖单一高管表态形成判断。"
+        "heading": "竞争格局与风险",
+        "body": "MRVL所处的定制ASIC与光互连赛道竞争激烈，博通（AVGO）是最直接的对手，而英伟达向联发科的投资则引入了新的潜在竞争变量。此外，公司业务高度依赖少数超大规模云客户的资本开支节奏与定制项目决策，一旦大客户订单延迟或转向自研/其他供应商，收入波动风险较大"
+      },
+      {
+        "heading": "总结与关注点",
+        "body": "综合来看，MRVL当前股价叙事很大程度建立在「万亿美元公司候选」与英伟达关系加持之上，但英伟达同时布局联发科等其他ASIC伙伴的动作，为这一叙事的独占性打上问号。市场对其财报指引与Alphabet合作潜力的解读也出现多空分歧，投资者应重点跟踪客户集中度变化、1.6T光模块放量节奏以及与英伟达/联发科生态关系的后续演变，而非仅依赖单一利好标题做判断"
       }
     ],
     "comparables": [
       {
         "ticker": "AVGO",
-        "name": "Broadcom Inc",
-        "note": "定制ASIC与网络交换芯片领域的主要竞争对手,与超大规模云厂商关系深厚,是评估Marvell份额变化的重要对照标的"
+        "name": "Broadcom",
+        "note": "定制ASIC与网络芯片领域最直接的竞争对手，双方在超大规模云客户定制硅订单上存在此消彼长关系"
       },
       {
         "ticker": "NVDA",
-        "name": "NVIDIA Corporation",
-        "note": "AI算力核心供应商,其管理层对Marvell的公开评价是近期股价催化剂之一,双方在部分领域存在合作与竞争并存的关系"
+        "name": "NVIDIA",
+        "note": "既是AI算力生态的主导者，也通过投资联发科等方式介入ASIC生态，其动向对MRVL的合作叙事有直接影响"
       },
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "在数据中心CPU、GPU及网络芯片布局上与Marvell存在业务交叉,可作为AI基础设施受益标的进行横向对比"
+        "note": "在数据中心加速计算及网络互连领域与MRVL存在部分业务交叉，可作为行业景气度参照"
+      },
+      {
+        "ticker": "TSM",
+        "name": "台积电",
+        "note": "作为MRVL及同业定制芯片的主要代工厂，其产能与资本开支指引可用于交叉验证下游ASIC需求趋势"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-29T03:07:53.831183Z"
+    "generatedAt": "2026-09-01T00:29:07.784168Z"
   },
   "news": [
     {
-      "id": "MRVL-141339386",
-      "title": "What's going on in today's session: S&P500 movers",
+      "id": "MRVL-141355998",
+      "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
       "source": "ChartMill",
-      "publishedAt": "2026-08-28",
-      "url": "https://finnhub.io/api/news?id=802837a78229d1fdaf9ef33edf81b8bf1aa9a805b33095d80312a8a75ba4bc13",
+      "publishedAt": "2026-08-31",
+      "url": "https://finnhub.io/api/news?id=3acb000fbcd04c48667d73cb6408b0aeb637920de5672722498fff8d7028614e",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-141338963",
-      "title": "Most active S&P500 stocks in Friday's session",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-28",
-      "url": "https://finnhub.io/api/news?id=13210fb760447de0323c53e269c5825ad9bb4aa1c29a666deefc719645c7df3f",
-      "tags": [
-        "MRVL"
-      ]
-    },
-    {
-      "id": "MRVL-141338490",
-      "title": "Top S&P500 movers in Friday's session",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-28",
-      "url": "https://finnhub.io/api/news?id=c2d0ebb5a2588268a382b2c76dc70a1993b39bdd31f4c0a0a9a78650e71a0a0b",
-      "tags": [
-        "MRVL"
-      ]
-    },
-    {
-      "id": "MRVL-141339787",
-      "title": "Warsh Sparks Rate-Hike Bets, Nvidia Reaffirms AI Growth Story: This Week on Wall Street",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-28",
-      "url": "https://finnhub.io/api/news?id=226a087fb2c034cf2076b7844135dd196ce111c2eb8062283e71ffc0a6e21d87",
-      "tags": [
-        "MRVL"
-      ]
-    },
-    {
-      "id": "MRVL-141339224",
-      "title": "Marvell: It's Down 10%, But This May Not Be The Dip To Buy",
+      "id": "MRVL-141356805",
+      "title": "Marvell Technology: Greater Clarity Does Not Impress",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-08-28",
-      "url": "https://finnhub.io/api/news?id=41dcab87c1f2da8da5c6ebb89caae4743c5570b4b97144b79ba7069d9a80f52f",
+      "publishedAt": "2026-08-31",
+      "url": "https://finnhub.io/api/news?id=5b4a71f6c01dc5299eafffd7f57c6315118979a3a2767dca80452da6a9f002aa",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-141337777",
-      "title": "What's going on in today's session: S&P500 gap up and gap down stocks",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-28",
-      "url": "https://finnhub.io/api/news?id=2475d4f0bf3820d4df188cf9c73fede62d6b646c997857e59ae8b8365a74fdba",
+      "id": "MRVL-141356569",
+      "title": "Marvell: Why I Think The Stock Is Ready For Another Leg Higher (Rating Upgrade)",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-31",
+      "url": "https://finnhub.io/api/news?id=16bb3d49b6611e263d23a47d594b1f25483f338ceab03bc5ab3c421ddd9af491",
+      "tags": [
+        "MRVL"
+      ]
+    },
+    {
+      "id": "MRVL-141356542",
+      "title": "Marvell: Market's Myopia On Alphabet Deal's Potential Is Baffling",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-31",
+      "url": "https://finnhub.io/api/news?id=4e98513098d2b5cc14bbfe6fb8c034e9bee1ed220022a46f52ccf43edf7d570d",
+      "tags": [
+        "MRVL"
+      ]
+    },
+    {
+      "id": "MRVL-141356327",
+      "title": "10 Information Technology Stocks Whale Activity In Today’s Session",
+      "source": "Benzinga",
+      "publishedAt": "2026-08-31",
+      "url": "https://finnhub.io/api/news?id=fb575e87af9b8cbb3b728c43f2d9c449c0c414b37b1810b534ad42f0fff78134",
+      "tags": [
+        "MRVL"
+      ]
+    },
+    {
+      "id": "MRVL-141355909",
+      "title": "Marvell Q2: Buying This Dip Looks Premature",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-08-31",
+      "url": "https://finnhub.io/api/news?id=a99f625d38802459f85133681f842b100923c2296fe3f8b5d8f22a3e990d26b4",
       "tags": [
         "MRVL"
       ]

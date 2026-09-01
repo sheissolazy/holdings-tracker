@@ -3,10 +3,10 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 319.7,
-  "change5dPct": 3.3,
-  "changeYtdPct": 20.8,
-  "marketCap": "$4.67T",
+  "price": 316.85,
+  "change5dPct": 2.1,
+  "changeYtdPct": 19.7,
+  "marketCap": "$4.62T",
   "pe": 34.4,
   "revenue": "—",
   "revenueYoYPct": 14,
@@ -888,131 +888,138 @@
     },
     {
       "t": "2026-08-28",
-      "o": 317.09,
+      "o": 316.85,
       "h": 322.37,
       "l": 315.45,
       "c": 319.7
+    },
+    {
+      "t": "2026-08-31",
+      "o": 319.56,
+      "h": 321.23,
+      "l": 312.85,
+      "c": 316.85
     }
   ],
   "thesis": {
     "bull": [
-      "苹果服务业务持续扩张，近期上调Apple TV与Apple One订阅价格，有望提升服务收入及整体利润率",
-      "市场对苹果在端侧AI领域的进展期待升温，英伟达CEO相关言论一度带动AI概念股买盘情绪，苹果作为消费电子龙头具备受益潜力",
-      "公司据报正筹备CEO交接，若过渡平稳，管理层延续性有望支撑战略执行与投资者信心"
+      "OpenAI与Anthropic被曝大规模采购或租用Mac mini与Mac Studio用于强化学习及AI推理任务，说明苹果自研芯片在企业级AI算力场景中出现意外增量需求",
+      "英伟达CEO黄仁勋近期公开言论提振市场对苹果AI前景的乐观预期，带动相关AI概念股短期买盘",
+      "苹果就商业秘密案对OpenAI提起诉讼并要求法院加速证据开示程序，显示公司在保护其专有硬件技术（如电源转换电路设计）方面态度强硬，侧面反映其AI相关软硬件资产具备商业价值"
     ],
     "bear": [
-      "国会议员佩洛西在2024年末、2025年10月及2025年12月末的多份披露中持续减持AAPL，跟踪者情绪整体偏空",
-      "伊朗局势升级、霍尔木兹海峡局势紧张叠加美国对伊制裁加码，地缘政治风险可能通过供应链与消费信心渠道影响苹果业绩",
-      "有报道称特朗普政府正考虑扩大半导体关税范围，若落地可能推高苹果硬件成本并压缩利润空间"
+      "国会披露显示佩洛西账户在2025年12月至2026年1月期间存在多笔减仓与退出交易记录，虽同期也有一笔新建仓记录，整体信号偏谨慎且方向混杂",
+      "历史披露呈现出自2024年底以来佩洛西账户对AAPL多次表现出退出或减持倾向（分别见于2025年1月、2025年10月与2025年12月的披露），并非单一新进方向，长期持仓态度存疑",
+      "宏观环境趋于不利：Citadel等机构警示9月历史上风险回报比转差，中东局势升级推升油价，抵押贷款利率升至2025年6月以来新高，可能对包括苹果在内的大盘科技股估值形成压制"
     ],
     "watch": [
-      "苹果CEO交接的具体时间表与继任人选，及其对产品路线与AI战略的潜在影响",
-      "半导体关税政策的后续进展，以及其对苹果供应链成本结构的实际冲击",
-      "国会议员及其他跟踪者后续披露的AAPL交易动向，观察减持趋势是否延续或反转"
+      "苹果与OpenAI之间商业秘密诉讼的后续进展，包括8月21日曝光的新证据及法院是否批准加速证据开示程序，可能影响双方合作与竞争关系走向",
+      "AI算力租赁生态（如Anthropic经由AWS间接使用苹果Mac设备完成AI任务）能否规模化，从而演变为苹果在企业AI基础设施领域的新收入来源",
+      "美联储政策路径与利率环境（including沃什相关言论及抵押贷款利率走高）对科技股整体估值倍数的传导效应，需持续观察是否波及苹果"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值领先的消费电子与科技公司，主营iPhone、Mac、iPad等硬件产品，并持续扩张服务业务，包括Apple TV、Apple One、App Store等订阅与内容服务。近期公司上调了Apple TV与Apple One在美国市场的订阅价格，反映公司在硬件增长放缓背景下对服务收入的依赖度上升。市场同时关注公司据报正在筹备的CEO交接安排，这可能是未来一段时间影响公司战略方向的重要变量。"
+        "body": "苹果是全球市值领先的消费电子与科技公司，核心业务涵盖iPhone、Mac、iPad、可穿戴设备及服务生态（App Store、云服务、订阅等）。公司近年持续强化自研芯片能力，并在人工智能领域的角色因外部AI公司对其硬件的采购行为而受到市场重新审视。"
       },
       {
-        "heading": "财务与业务",
-        "body": "服务业务的提价举措通常被视为提升单用户收入与毛利率的手段，若用户留存良好，有望对整体盈利能力形成正面贡献。硬件端iPhone及相关生态产品仍是营收主力，但市场普遍关注苹果在生成式AI与端侧智能功能上的进展是否能跟上同行步伐，这将直接影响未来几个季度的产品更新周期与消费者换机意愿。"
+        "heading": "近期动态与新闻聚焦",
+        "body": "近期公开报道显示，OpenAI被曝囤积大量Mac mini与Mac Studio设备用于强化学习相关AI任务，Anthropic则通过AWS渠道租用类似苹果设备完成相关计算需求，这一现象使市场开始重新评估苹果硬件在AI基础设施中的潜在角色。与此同时，苹果与OpenAI之间的商业秘密诉讼持续发酵，苹果指控被告在任职OpenAI期间接触了电源转换电路原理图等专有资料，并以OpenAI提供的MacBook设备中发现的新证据为由，要求法院加速证据开示程序。"
       },
       {
-        "heading": "跟踪者动向分析",
-        "body": "公开披露显示，国会议员南希·佩洛西在多个时间点对AAPL持仓进行了操作，其中2025年12月30日披露记录中既有新建多头也有减持记录，同一批次内出现方向分歧，需注意披露口径可能涵盖不同账户或工具。整体看，2024年末至2025年末的多次披露以减持为主，显示部分政治人物对AAPL的仓位趋于谨慎。此外，市场评论与名人言论（如英伟达CEO对苹果AI的正面表态）也在一定程度上影响了短期市场情绪，但此类信号更多反映预期而非基本面确认。"
+        "heading": "AI战略与专有技术布局",
+        "body": "从公开信息看，苹果在AI领域的叙事正从「自身AI产品进展」扩展至「硬件被第三方AI公司用作算力资源」这一新维度。这一现象是否具备可持续性和规模化潜力，以及是否会转化为实质性的财务贡献，目前公开信息尚不足以判断，需要结合后续财报披露和行业动态进一步观察。同时，苹果通过法律手段积极维护其专有技术不被竞争对手或前员工不当使用，反映出公司对其硬件设计知识产权的重视程度。"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "当前市场对AI相关标的估值分歧较大，有评论指出前沿AI实验室的估值水平「absurd」，若以Anthropic传闻中的高估值类比，反映出投资者对AI主题股票定价已出现较大分歧。苹果在这一轮AI叙事中被部分观点视为潜在受益者，但也有观点担忧其AI能力布局落后于微软、谷歌、英伟达等同行，竞争格局仍存在不确定性。同时半导体行业关税与供应链话题（包括存储芯片供应紧张）持续发酵，可能间接影响苹果零部件采购成本。"
+        "heading": "国会/知情交易者动向解读",
+        "body": "根据公开的众议院财务披露（PTR）记录，佩洛西相关账户在追踪期内对AAPL的交易呈现出多空并存的复杂信号：2025年12月30日的披露中既包含一笔标记为新建仓（long/bull）的交易，也包含标记为退出/减仓（exit/bear）的交易；此外2025年12月24日、2025年10月22日及2024年12月31日（2025年1月披露）的记录均显示为退出或减持方向。整体上，减持信号在时间序列上出现的频率更高，但需注意国会议员及相关方的披露交易未必代表其个人投资判断，也可能受信托管理或其他因素影响，不构成对公司基本面的直接结论。"
       },
       {
-        "heading": "宏观与政策风险",
-        "body": "近期宏观新闻聚焦于伊朗局势升级、美国对伊制裁扩大、霍尔木兹海峡局势紧张，以及美联储主席人选沃什（Warsh）引发的加息预期变化。这些因素共同推高了市场对波动性与利率路径的不确定性，尽管波动率指数一度触及年内低点。若地缘政治风险外溢至能源价格与全球贸易，可能通过成本端与需求端两方面影响苹果这类高度依赖全球供应链与消费需求的企业。此外，半导体关税扩大的政策讨论若落地，将对苹果构成直接成本压力。"
+        "heading": "宏观与行业环境",
+        "body": "近期宏观新闻显示，Citadel等机构提示9月历来是股市风险回报比转差的月份；中东地区（如卡尔格岛相关事件）局势升级推升油价，并带动抵押贷款利率升至2025年6月以来最高水平；市场同时在消化美联储主席沃什的相关言论及其对通胀、AI投资周期的看法。这些宏观因素可能通过利率与风险偏好渠道，间接影响包括苹果在内的大盘科技股估值水平，但目前尚无证据表明存在针对苹果基本面的直接冲击。"
       },
       {
-        "heading": "估值与展望",
-        "body": "综合来看，苹果当前面临的是「基本面稳健但外部环境复杂」的局面：服务提价与AI预期构成潜在正面催化，而跟踪者持续减持、地缘政治风险及关税政策不确定性构成潜在压力。市场对AI相关资产的估值分歧、以及资金在科技板块内部（如SPY与QQQ之间）的大幅轮动，也提示投资者需关注短期资金流向对股价的扰动。本分析不构成买卖建议，仅供参考。"
+        "heading": "多空分歧与关键关注点",
+        "body": "多头逻辑主要建立在苹果硬件意外获得AI算力市场增量需求，以及公司积极维护AI相关专有技术权益之上；空头逻辑则聚焦于国会知情交易者持续偏谨慎的减持信号，以及宏观流动性与地缘政治风险对科技股整体估值的压制。两条逻辑线目前均缺乏明确的财务数据佐证，投资者需关注后续财报中AI相关收入贡献的量化披露、OpenAI诉讼案的法律进展，以及宏观利率环境的演变，以判断分歧走向。"
       }
     ],
     "comparables": [
       {
-        "ticker": "MSFT",
-        "name": "Microsoft Corporation",
-        "note": "同为科技巨头，在AI与云服务布局上更为激进，可作为AI叙事对比标的"
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "AI算力核心供应商，其CEO言论近期提振市场对苹果等公司AI前景的预期，同时NVDA自身估值与情绪波动也是观察AI板块整体风向的重要参照"
       },
       {
         "ticker": "GOOGL",
-        "name": "Alphabet Inc.",
-        "note": "在AI与终端生态上与苹果存在竞争关系，可比较双方在端侧AI布局上的进展差异"
+        "name": "Alphabet",
+        "note": "近期新闻涉及Marvell与Alphabet的合作传闻，作为云计算与AI基础设施领域的大型科技同业，可作为苹果在AI生态布局上的横向参照"
       },
       {
-        "ticker": "NVDA",
-        "name": "NVIDIA Corporation",
-        "note": "AI硬件与算力核心供应商，其CEO对苹果AI的正面表态曾影响市场情绪，可作为AI产业链联动参考"
+        "ticker": "TSM",
+        "name": "台积电",
+        "note": "公开报道提及有知名投资者大幅增持台积电仓位，作为苹果核心芯片代工供应商，其业绩与产能状况直接关联苹果硬件产品线的供应链稳定性"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-08-29T03:09:14.109829Z"
+    "generatedAt": "2026-09-01T00:30:45.758672Z"
   },
   "news": [
     {
-      "id": "AAPL-141339387",
-      "title": "What's going on in today's session: dow jones movers",
+      "id": "AAPL-141356417",
+      "title": "Top dow jones movers in Monday's session",
       "source": "ChartMill",
-      "publishedAt": "2026-08-28",
-      "url": "https://finnhub.io/api/news?id=5b27de5152d79b81f60ff69ee0c2f519f474646bac52a822fe2fd7513d0b0db2",
+      "publishedAt": "2026-08-31",
+      "url": "https://finnhub.io/api/news?id=70b9550024f8c5d254fc55828103b4b095d43a0883efa08bacf46c4e37fc2a76",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141338963",
-      "title": "Most active S&P500 stocks in Friday's session",
+      "id": "AAPL-141355998",
+      "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
       "source": "ChartMill",
-      "publishedAt": "2026-08-28",
-      "url": "https://finnhub.io/api/news?id=13210fb760447de0323c53e269c5825ad9bb4aa1c29a666deefc719645c7df3f",
+      "publishedAt": "2026-08-31",
+      "url": "https://finnhub.io/api/news?id=3acb000fbcd04c48667d73cb6408b0aeb637920de5672722498fff8d7028614e",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141338491",
-      "title": "Stay informed with the top movers within the dow jones index on Friday.",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-28",
-      "url": "https://finnhub.io/api/news?id=55cae651cbeff84fbf63cc5a69133b5bb10f6b6420ada6c314a3e1af3a9e0019",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141338582",
-      "title": "Apple hikes subscription prices for Apple TV and Apple One in the U.S.",
-      "source": "CNBC",
-      "publishedAt": "2026-08-28",
-      "url": "https://finnhub.io/api/news?id=9c6ad1e2a56fdebfcb1b842a60acf5cc739c2bd37ea773f489968a9550eaf440",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141338583",
-      "title": "Apple preps for CEO handoff",
-      "source": "CNBC",
-      "publishedAt": "2026-08-28",
-      "url": "https://finnhub.io/api/news?id=5b5b1c47787cb0e7864046fb8573e3b11fecf07f473bcd0569d7d47d7456ad0e",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141338802",
-      "title": "China's CXMT Revenue Explodes 874% in H1 as AI Memory Boom Fuels DRAM Shortage",
+      "id": "AAPL-141357269",
+      "title": "Warren Buffett Set Berkshire Hathaway Up for Years: Top 5 Stocks Yield $589 Million Each Quarter",
       "source": "Benzinga",
-      "publishedAt": "2026-08-28",
-      "url": "https://finnhub.io/api/news?id=8f8285a536e06bf255ba1763e7c310f82c1d967678c269131f20f0ac89a8cb33",
+      "publishedAt": "2026-08-31",
+      "url": "https://finnhub.io/api/news?id=690565576346cd400325fdb37c9bc7e5f768199f5de14530361241e514cbaa53",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141357270",
+      "title": "MapQuest vs. Trump: OG of Maps Keeps Lake Ontario Name, Sees Download Surge and Stock Boost for Parent",
+      "source": "Benzinga",
+      "publishedAt": "2026-08-31",
+      "url": "https://finnhub.io/api/news?id=6ee3701f9f50830475a4f528b304d4a6bce93de3d0d516def3d75ff08a090182",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141355524",
+      "title": "These dow jones stocks are moving in today's session",
+      "source": "ChartMill",
+      "publishedAt": "2026-08-31",
+      "url": "https://finnhub.io/api/news?id=018947a3b929c3e345a54fd0440d4a73a87dddf64afb6af9edfec10f1b78592f",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141357271",
+      "title": "Apple Alleges Defendant In Trade Secret Case Against OpenAI Accessed Power Converter Circuit Schematic While At OpenAI; Alleges Defendant In Trade Secret Case Against OpenAI Trained AI Agent Using Proprietary Apple Information; Apple Says New Evidence Came To Light From MacBook Computer OpenAI Provided To Apple On August 21 As Part Of Legal Proceedings; Apple Is Asking U.S. Federal Court To Expedite Discovery Proceeding In Trade Secret Case Against OpenAI",
+      "source": "Benzinga",
+      "publishedAt": "2026-08-31",
+      "url": "https://finnhub.io/api/news?id=577062a90969964beaea43743d931e622f2a563a24c7878335925ff6b13fb032",
       "tags": [
         "AAPL"
       ]
