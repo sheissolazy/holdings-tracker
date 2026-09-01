@@ -3,10 +3,10 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 316.85,
-  "change5dPct": 2.1,
-  "changeYtdPct": 19.7,
-  "marketCap": "$4.62T",
+  "price": 325.13,
+  "change5dPct": 4.9,
+  "changeYtdPct": 22.8,
+  "marketCap": "$4.66T",
   "pe": 34.4,
   "revenue": "—",
   "revenueYoYPct": 14,
@@ -895,131 +895,138 @@
     },
     {
       "t": "2026-08-31",
-      "o": 319.56,
-      "h": 321.23,
-      "l": 312.85,
+      "o": 319.6,
+      "h": 321.24,
+      "l": 312.8,
       "c": 316.85
+    },
+    {
+      "t": "2026-09-01",
+      "o": 316.98,
+      "h": 327.3,
+      "l": 314.74,
+      "c": 325.13
     }
   ],
   "thesis": {
     "bull": [
-      "OpenAI与Anthropic被曝大规模采购或租用Mac mini与Mac Studio用于强化学习及AI推理任务，说明苹果自研芯片在企业级AI算力场景中出现意外增量需求",
-      "英伟达CEO黄仁勋近期公开言论提振市场对苹果AI前景的乐观预期，带动相关AI概念股短期买盘",
-      "苹果就商业秘密案对OpenAI提起诉讼并要求法院加速证据开示程序，显示公司在保护其专有硬件技术（如电源转换电路设计）方面态度强硬，侧面反映其AI相关软硬件资产具备商业价值"
+      "新任CEO John Ternus上任后首份内部信高调预告「phenomenal」的iPhone新品周期，叠加消息公布当日苹果股价创逾一个月最佳单日表现，显示市场对新任管理层的产品叙事给予正面回应",
+      "有市场消息称OpenAI大量囤积Mac mini与Mac Studio用于强化学习训练，Anthropic也通过AMZN云端租用同类设备执行AI任务，意味着苹果硬件在AI基础设施侧可能获得此前未被充分定价的增量需求",
+      "英伟达CEO黄仁勋相关言论一度带动市场对苹果AI能力预期升温，反映产业链人士对苹果软硬件生态切入AI浪潮存在乐观情绪"
     ],
     "bear": [
-      "国会披露显示佩洛西账户在2025年12月至2026年1月期间存在多笔减仓与退出交易记录，虽同期也有一笔新建仓记录，整体信号偏谨慎且方向混杂",
-      "历史披露呈现出自2024年底以来佩洛西账户对AAPL多次表现出退出或减持倾向（分别见于2025年1月、2025年10月与2025年12月的披露），并非单一新进方向，长期持仓态度存疑",
-      "宏观环境趋于不利：Citadel等机构警示9月历史上风险回报比转差，中东局势升级推升油价，抵押贷款利率升至2025年6月以来新高，可能对包括苹果在内的大盘科技股估值形成压制"
+      "国会议员Pelosi在2025年末至2026年初披露的多笔PTR交易中，2025-12-24、2025-12-30、2025-10-22及2024-12-31的持仓变动方向均为减持或清仓，仅2025-12-30同时出现一笔新建多头，整体轨迹偏谨慎并非单向看多",
+      "公司管理层过渡密集，市场消息指CFO Luca Maestri据报离开公司层面职务，与CEO交接同期发生，短期内治理与执行的连续性存在不确定性",
+      "宏观与板块环境承压，10年期美债收益率升至2025年1月以来新高，中东局势升温推高油价，纳指与道指同步走弱，同时有报道称部分资金正退出数据中心相关持仓以保护收益，AI相关高估值成长股整体面临降温风险"
     ],
     "watch": [
-      "苹果与OpenAI之间商业秘密诉讼的后续进展，包括8月21日曝光的新证据及法院是否批准加速证据开示程序，可能影响双方合作与竞争关系走向",
-      "AI算力租赁生态（如Anthropic经由AWS间接使用苹果Mac设备完成AI任务）能否规模化，从而演变为苹果在企业AI基础设施领域的新收入来源",
-      "美联储政策路径与利率环境（including沃什相关言论及抵押贷款利率走高）对科技股整体估值倍数的传导效应，需持续观察是否波及苹果"
+      "苹果在AI基础设施中的角色能否从终端设备商延伸为「AI算力硬件供应商」，需持续观察Mac mini与Mac Studio相关采购规模是否扩大及官方是否正式确认",
+      "新任CEO Ternus团队能否在即将举行的秋季发布会及后续财报指引中，将「phenomenal」表态兑现为实际销量与营收数据",
+      "政治人物交易披露存在滞后性（如披露日与实际交易日相隔近一个月），需跟踪后续季度PTR文件是否延续当前减持为主的趋势"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值领先的消费电子与科技公司，核心业务涵盖iPhone、Mac、iPad、可穿戴设备及服务生态（App Store、云服务、订阅等）。公司近年持续强化自研芯片能力，并在人工智能领域的角色因外部AI公司对其硬件的采购行为而受到市场重新审视。"
+        "body": "苹果是全球市值最大的消费电子与软件服务公司之一，核心业务涵盖iPhone、Mac、iPad、可穿戴设备及服务生态。近期公司正处于CEO交接窗口，新任CEO John Ternus上任伊始即通过内部信预告即将发布的iPhone产品线，市场对交接后的产品与战略延续性保持关注"
       },
       {
-        "heading": "近期动态与新闻聚焦",
-        "body": "近期公开报道显示，OpenAI被曝囤积大量Mac mini与Mac Studio设备用于强化学习相关AI任务，Anthropic则通过AWS渠道租用类似苹果设备完成相关计算需求，这一现象使市场开始重新评估苹果硬件在AI基础设施中的潜在角色。与此同时，苹果与OpenAI之间的商业秘密诉讼持续发酵，苹果指控被告在任职OpenAI期间接触了电源转换电路原理图等专有资料，并以OpenAI提供的MacBook设备中发现的新证据为由，要求法院加速证据开示程序。"
+        "heading": "管理层与治理变动",
+        "body": "市场消息显示公司近期经历管理层调整，包括CEO交棒予John Ternus，同时有报道称CFO Luca Maestri将逐步淡出公司层面职务。管理层变动本身属中性事件，但叠加当前AI竞争格局与消费电子周期，投资者需要观察新团队在资本配置、产品路线与对外沟通上是否延续既有风格"
       },
       {
-        "heading": "AI战略与专有技术布局",
-        "body": "从公开信息看，苹果在AI领域的叙事正从「自身AI产品进展」扩展至「硬件被第三方AI公司用作算力资源」这一新维度。这一现象是否具备可持续性和规模化潜力，以及是否会转化为实质性的财务贡献，目前公开信息尚不足以判断，需要结合后续财报披露和行业动态进一步观察。同时，苹果通过法律手段积极维护其专有技术不被竞争对手或前员工不当使用，反映出公司对其硬件设计知识产权的重视程度。"
+        "heading": "产品与业务动态",
+        "body": "围绕即将到来的iPhone新品周期，新任CEO在首份内部信中用「phenomenal」形容产品表现，市场反应积极，公司股价在消息公布当日出现逾一个月来最佳单日涨幅。不过这类管理层措辞属于主观评价，实际销售与需求情况仍需等待后续财报与渠道数据验证"
       },
       {
-        "heading": "国会/知情交易者动向解读",
-        "body": "根据公开的众议院财务披露（PTR）记录，佩洛西相关账户在追踪期内对AAPL的交易呈现出多空并存的复杂信号：2025年12月30日的披露中既包含一笔标记为新建仓（long/bull）的交易，也包含标记为退出/减仓（exit/bear）的交易；此外2025年12月24日、2025年10月22日及2024年12月31日（2025年1月披露）的记录均显示为退出或减持方向。整体上，减持信号在时间序列上出现的频率更高，但需注意国会议员及相关方的披露交易未必代表其个人投资判断，也可能受信托管理或其他因素影响，不构成对公司基本面的直接结论。"
+        "heading": "AI叙事与产业链位置",
+        "body": "与英伟达、博通等公司不同，苹果长期被视为AI浪潮的「消费终端」而非「基础设施」参与者，但近期出现苹果Mac mini、Mac Studio被OpenAI、Anthropic等机构用于强化学习相关计算任务的报道，为苹果硬件增添了一层新的AI基础设施叙事。这一叙事目前更多来自社交媒体与零散报道，尚未获得公司官方明确量化，真实业务体量存在不确定性"
+      },
+      {
+        "heading": "跟踪者与市场情绪分歧",
+        "body": "公开披露显示，国会议员Pelosi过去一年多对AAPL的操作以减持、清仓为主，仅在2025年末出现一笔规模较小的新建多头，整体呈现谨慎甚至偏空的持仓调整方向，与市场对新CEO上任及AI硬件叙事的乐观情绪形成一定反差，反映出不同类型信息来源对苹果前景判断存在分歧"
       },
       {
         "heading": "宏观与行业环境",
-        "body": "近期宏观新闻显示，Citadel等机构提示9月历来是股市风险回报比转差的月份；中东地区（如卡尔格岛相关事件）局势升级推升油价，并带动抵押贷款利率升至2025年6月以来最高水平；市场同时在消化美联储主席沃什的相关言论及其对通胀、AI投资周期的看法。这些宏观因素可能通过利率与风险偏好渠道，间接影响包括苹果在内的大盘科技股估值水平，但目前尚无证据表明存在针对苹果基本面的直接冲击。"
-      },
-      {
-        "heading": "多空分歧与关键关注点",
-        "body": "多头逻辑主要建立在苹果硬件意外获得AI算力市场增量需求，以及公司积极维护AI相关专有技术权益之上；空头逻辑则聚焦于国会知情交易者持续偏谨慎的减持信号，以及宏观流动性与地缘政治风险对科技股整体估值的压制。两条逻辑线目前均缺乏明确的财务数据佐证，投资者需关注后续财报中AI相关收入贡献的量化披露、OpenAI诉讼案的法律进展，以及宏观利率环境的演变，以判断分歧走向。"
+        "body": "当前宏观环境呈现10年期美债收益率走高、中东地缘局势升温推升油价、AI板块交易情绪整体降温等多重压力，纳指、道指同步承压。部分投资者正减少对数据中心等AI相关重资产持仓的敞口以保护收益，这类风险偏好的整体收缩对包括苹果在内的大盘科技股估值构成潜在制约"
       }
     ],
     "comparables": [
       {
-        "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "AI算力核心供应商，其CEO言论近期提振市场对苹果等公司AI前景的预期，同时NVDA自身估值与情绪波动也是观察AI板块整体风向的重要参照"
+        "ticker": "MSFT",
+        "name": "微软",
+        "note": "同为大型科技与消费软件巨头，在AI基础设施与云计算领域布局更深，可作为对比苹果AI叙事成色的参照"
       },
       {
         "ticker": "GOOGL",
-        "name": "Alphabet",
-        "note": "近期新闻涉及Marvell与Alphabet的合作传闻，作为云计算与AI基础设施领域的大型科技同业，可作为苹果在AI生态布局上的横向参照"
+        "name": "谷歌母公司Alphabet",
+        "note": "在AI模型与硬件投资方面动作频繁，近期亦被提及参与AI相关大额投资，可用于观察科技巨头在AI浪潮中的不同定位"
       },
       {
-        "ticker": "TSM",
-        "name": "台积电",
-        "note": "公开报道提及有知名投资者大幅增持台积电仓位，作为苹果核心芯片代工供应商，其业绩与产能状况直接关联苹果硬件产品线的供应链稳定性"
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "AI算力核心供应商，其管理层言论曾直接带动市场对苹果AI预期的联想，可作为AI产业链情绪的风向标"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-01T00:30:45.758672Z"
+    "generatedAt": "2026-09-01T23:11:25.584471Z"
   },
   "news": [
     {
-      "id": "AAPL-141356417",
-      "title": "Top dow jones movers in Monday's session",
+      "id": "AAPL-141369693",
+      "title": "AAPL Stock Sees Best Day In Over A Month – CEO John Ternus Reportedly Touts 'Phenomenal' iPhone Launch In First Memo To Employees",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-01",
+      "url": "https://finnhub.io/api/news?id=0d0fa081d258806db0b2c220e75bc4f240fc571c3b4b39d1cbf5e7f7527379a9",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141369694",
+      "title": "Apple new CEO Ternus teases \"phenomenal\" iPhone launch in first memo",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-01",
+      "url": "https://finnhub.io/api/news?id=410ff3fbd068200e89a64174191e34fa62b9d2f01108c32223d53aa39fd8a29e",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141369695",
+      "title": "Apple shares climb as Ternus era begins",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-01",
+      "url": "https://finnhub.io/api/news?id=6dec1da8d8f0d2c53deb4b6a4d56130695ec1ecacda4749599c17b318b3b697a",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-141370623",
+      "title": "Stay informed with the top movers within the dow jones index on Tuesday.",
       "source": "ChartMill",
-      "publishedAt": "2026-08-31",
-      "url": "https://finnhub.io/api/news?id=70b9550024f8c5d254fc55828103b4b095d43a0883efa08bacf46c4e37fc2a76",
+      "publishedAt": "2026-09-01",
+      "url": "https://finnhub.io/api/news?id=2811d09bc453d60ad535201a16e94c17326b4e0711eab591a46c0c53c4effcac",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141355998",
-      "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-31",
-      "url": "https://finnhub.io/api/news?id=3acb000fbcd04c48667d73cb6408b0aeb637920de5672722498fff8d7028614e",
+      "id": "AAPL-141369687",
+      "title": "Why Is Apple Stock Up Today?",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-01",
+      "url": "https://finnhub.io/api/news?id=1405a452eed0c74567b87f6ae44d6571d7219b96ceef0b279ca811678f548f2d",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141357269",
-      "title": "Warren Buffett Set Berkshire Hathaway Up for Years: Top 5 Stocks Yield $589 Million Each Quarter",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-31",
-      "url": "https://finnhub.io/api/news?id=690565576346cd400325fdb37c9bc7e5f768199f5de14530361241e514cbaa53",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141357270",
-      "title": "MapQuest vs. Trump: OG of Maps Keeps Lake Ontario Name, Sees Download Surge and Stock Boost for Parent",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-31",
-      "url": "https://finnhub.io/api/news?id=6ee3701f9f50830475a4f528b304d4a6bce93de3d0d516def3d75ff08a090182",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141355524",
-      "title": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-31",
-      "url": "https://finnhub.io/api/news?id=018947a3b929c3e345a54fd0440d4a73a87dddf64afb6af9edfec10f1b78592f",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-141357271",
-      "title": "Apple Alleges Defendant In Trade Secret Case Against OpenAI Accessed Power Converter Circuit Schematic While At OpenAI; Alleges Defendant In Trade Secret Case Against OpenAI Trained AI Agent Using Proprietary Apple Information; Apple Says New Evidence Came To Light From MacBook Computer OpenAI Provided To Apple On August 21 As Part Of Legal Proceedings; Apple Is Asking U.S. Federal Court To Expedite Discovery Proceeding In Trade Secret Case Against OpenAI",
-      "source": "Benzinga",
-      "publishedAt": "2026-08-31",
-      "url": "https://finnhub.io/api/news?id=577062a90969964beaea43743d931e622f2a563a24c7878335925ff6b13fb032",
+      "id": "AAPL-141369698",
+      "title": "Market Chatter: Apple Reshapes Leadership as Maestri Steps Away From Corporate Role",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-01",
+      "url": "https://finnhub.io/api/news?id=29ed8151fdc1d523f65757d242496f87efe1f39bfea30fbdc9c4adc29046e8df",
       "tags": [
         "AAPL"
       ]

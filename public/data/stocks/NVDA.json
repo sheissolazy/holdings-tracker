@@ -3,10 +3,10 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 220.78,
-  "change5dPct": 5.9,
-  "changeYtdPct": 21.0,
-  "marketCap": "$5.32T",
+  "price": 217.44,
+  "change5dPct": 2.1,
+  "changeYtdPct": 19.2,
+  "marketCap": "$5.20T",
   "pe": 34.0,
   "revenue": "—",
   "revenueYoYPct": 71,
@@ -895,141 +895,143 @@
     },
     {
       "t": "2026-08-31",
-      "o": 218.86,
-      "h": 221.29,
+      "o": 218.87,
+      "h": 221.3,
       "l": 216.21,
       "c": 220.78
+    },
+    {
+      "t": "2026-09-01",
+      "o": 216.61,
+      "h": 220.41,
+      "l": 215.1,
+      "c": 217.44
     }
   ],
   "thesis": {
     "bull": [
-      "超大规模云厂商披露2027年资本支出预计达约1.3万亿美元，较2026年约8000亿美元大幅提升，同比增速约70%，显著高于市场此前约45%的预期，需求能见度持续拉长",
-      "三星等存储厂商据报已就至2031年的长期协议向英伟达、微软、谷歌预留约七成产能，为多年AI基础设施建设周期提供支撑证据，缓解「AI是短期泡沫」的担忧",
-      "通过对联发科35亿美元投资及与Marvell等企业的合作，公司在ASIC与网络生态中持续扩大标准主导地位，巩固客户粘性与护城河"
+      "AI基础设施资本开支持续超预期，云厂商与新兴AI实验室（如Anthropic、OpenAI）不断扩大GPU采购与算力长约，NVDA数据中心业务的订单能见度已延伸至2029至2031年区间",
+      "NVDA通过对MediaTek、Lambda等生态伙伴的战略投资与合作，巩固CUDA软件栈与网络标准的护城河，同时通过网络化布局分散来自ASIC自研芯片的竞争压力",
+      "存储器与晶圆代工等上游厂商（三星、台积电等）以长期协议（LTA）提前锁定未来多年产能，显示下游对NVDA平台化产品的需求具备较强的中长期可见度，而非单纯短期抢购"
     ],
     "bear": [
-      "宏观流动性与地缘政治风险(美联储偏鹰表态、中东局势推高油价、抵押贷款利率升至2025年6月以来新高)正压制高beta科技股估值，历史上偏弱的月份令风险回报比进一步恶化",
-      "公司扶持联发科、Marvell等ASIC生态的举措，可能在客户资本支出中形成分流，长期或削弱其GPU份额并挤压博通等竞争对手，市场对此存在明显分歧解读",
-      "公司管理层已公开警示AI电力供应瓶颈，若电力等基础设施跟不上数据中心扩张节奏，可能制约收入指引的最终兑现"
+      "circular financing（循环融资）质疑升温，NVDA对下游客户（OpenAI、Anthropic、Lambda等）的股权与算力投资被部分市场人士视为自我循环收入，一旦客户端现金流或融资估值逆转，风险可能被放大",
+      "据BlackRock等机构提示，AI相关债务规模已达千亿美元级别，若融资成本上升或信用利差走阔，可能压制下游厂商的资本开支能力并间接影响NVDA订单增速",
+      "AI token定价持续创新低，反映推理端竞争加剧与利润率承压，长期可能削弱下游客户为算力持续买单的经济动力，进而传导至NVDA的定价权与需求结构"
     ],
     "watch": [
-      "联发科、Marvell等ASIC生态与英伟达关系的后续演变，判断其究竟是巩固生态还是分流资本支出的信号",
-      "存储行业产能锁定(三星LTA)进展及「内存是否是泡沫」的市场争议是否持续发酵",
-      "美联储政策路径、通胀数据及中东局势对高估值AI股整体风险偏好的持续影响"
+      "关注美联储主席沃什（Warsh）后续表态及十年期美债收益率走势（已触及2025年1月以来新高），利率上行环境对高估值成长股尤其是AI板块的估值压力需持续跟踪",
+      "关注NVDA是否继续加码对MediaTek、Lambda、Anthropic等生态伙伴的投资规模与交易条款，以及此类深度绑定是否引发反垄断或利益冲突方面的监管关注",
+      "国会议员（如佩洛西）持续申报NVDA相关期权交易，需关注后续披露中方向性变化（新建仓与减仓交替出现）是否折射政策圈对AI产业或出口管制预期的调整"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达是全球领先的图形处理器与人工智能芯片设计公司，产品覆盖数据中心GPU、网络互联及配套软件生态，是当前AI基础设施建设周期的核心供应商之一，客户涵盖各大云计算厂商及众多企业客户。"
+        "body": "NVIDIA是全球AI算力基础设施的核心供应商，产品覆盖数据中心GPU、网络互联（InfiniBand/以太网）、CUDA软件生态及面向企业与主权国家的AI工厂方案。公司近年收入结构已从传统游戏与专业可视化转向以数据中心为绝对主力的业务模型，客户涵盖超大规模云厂商、AI实验室及新兴云算力提供商（Neocloud）。近期新闻显示，NVDA在2026财年继续通过股权投资、算力承购与生态绑定等方式深化与OpenAI、Anthropic、Lambda、MediaTek等公司的合作关系"
       },
       {
-        "heading": "需求与业绩驱动",
-        "body": "公司披露超大规模厂商2027年资本支出预计达约1.3万亿美元，较2026年约8000亿美元大幅提升，同比增速约70%，显著高于市场此前约45%的预期；管理层同时表示当前产能仍处于紧张状态，显示订单能见度延伸至未来数年。"
+        "heading": "行业与竞争格局",
+        "body": "AI算力产业链正在经历从单一GPU供应商向更广泛生态联盟演进的阶段。NVDA通过对MediaTek等ASIC相关公司的投资，被市场解读为「networking」策略，一方面延伸其在定制芯片领域的影响力，另一方面被部分评论认为正在侵蚀Broadcom（AVGO）在ASIC设计服务市场的份额。与此同时，存储器厂商三星据报道已将约70%的存储产能通过LTA形式锁定至2031年，主要对手方包括NVDA、MSFT、GOOGL，显示供应链上下游正在形成长期绑定关系，但也引发「存储泡沫」的争论"
       },
       {
-        "heading": "生态布局与竞争格局",
-        "body": "公司近期宣布对联发科投资35亿美元，被部分市场人士解读为在ASIC生态中提前布局下一代赢家，覆盖Marvell、联发科等企业，一方面强化自身标准主导地位，另一方面也引发市场对其是否在扶持潜在替代方案、从而削弱博通等竞争对手地位的讨论。存储环节，三星据报已就至2031年的长期协议向英伟达、微软、谷歌预留约七成产能，为多年AI基础设施建设提供支撑证据。"
+        "heading": "多头逻辑",
+        "body": "多头观点认为，AI前沿模型的算力需求持续超出行业产能扩张速度（如Anthropic与Lambda签订350亿美元算力协议），叠加存储、光子等关键环节已出现2029至2031年的长期需求可见度，表明本轮AI资本开支周期并非短期泡沫。NVDA通过投资生态伙伴（MediaTek、Lambda等）强化自身平台地位，有望在未来多代产品周期中维持定价权与市场份额优势"
       },
       {
-        "heading": "宏观与政策环境",
-        "body": "近期美联储主席沃什的表态被部分市场人士视为类似2022年鲍威尔的偏鹰立场，叠加中东地区局势升级推高油价、抵押贷款利率升至2025年6月以来最高水平，市场风险偏好整体承压，有机构提示进入历史上表现偏弱的月份后风险回报比正在恶化，高估值科技股尤其容易受到情绪波动冲击。"
+        "heading": "空头与风险",
+        "body": "空头观点集中在几个方面：其一，NVDA对客户的股权与算力投资被质疑存在循环融资特征，收入质量可能被市场重新审视；其二，BlackRock等机构提示AI相关债务规模已达约千亿美元级别，利率与信用环境变化可能限制下游资本开支；其三，AI token价格持续创新低，反映推理端价格竞争激烈，若下游企业盈利能力受压，最终可能反映在对NVDA硬件的采购节奏上；此外，十年期美债收益率走高及中东地缘局势波动也对高估值成长股构成宏观层面的压力"
       },
       {
-        "heading": "跟踪者与资金动向",
-        "body": "美国众议院公开披露显示，佩洛西相关账户在2025年12月至2026年1月期间多次新建英伟达多头头寸，同时也有部分头寸在同期及2024年底被减持退出，显示即便是长期看多者也在阶段性获利了结；社交媒体上的独立分析者对公司基本面(存储与光子学订单能见度、超大规模资本支出指引)持积极评价，但同时提醒宏观因素已压制高beta AI股估值。"
+        "heading": "政策与跟踪者动向",
+        "body": "公开披露显示，国会议员佩洛西在过去一年内多次申报NVDA相关期权交易，交易方向呈现新建仓与减仓交替出现的特征，尚不能构成单一方向的强烈信号。社交媒体与新闻端持续聚焦NVDA与OpenAI、Anthropic、Google、三星、MediaTek等公司的一系列投资与合作动态，反映NVDA在AI产业链中「投资者兼供应商」的双重角色正受到越来越多关注，相关利益绑定关系的透明度与潜在监管风险值得持续跟踪"
       },
       {
-        "heading": "风险与展望",
-        "body": "综合来看，英伟达在需求可见度与生态掌控力方面的优势仍然突出，但电力供应瓶颈、ASIC生态是否分流资本支出、以及宏观流动性与地缘政治风险，构成需要持续跟踪的变量；多空双方对当前估值是否已充分计入这些风险存在明显分歧，本分析不构成买卖建议。"
+        "heading": "估值与展望",
+        "body": "综合来看，NVDA当前估值隐含了市场对AI算力需求长期高增长的预期，长期需求可见度（存储、光子等长约协议延伸至2029至2031年）为多头提供支撑，但循环融资质疑、AI相关债务规模扩大、token价格下行以及宏观利率环境变化共同构成主要风险变量。市场对AI资本开支是否可持续、及其对宏观GDP统计的影响（AI CapEx对GDP增速的扭曲效应已被部分分析提及）存在明显分歧，投资者需持续关注上述多空因素的边际变化，本分析不构成买卖建议"
       }
     ],
     "comparables": [
       {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "定制ASIC与网络芯片厂商，被视为AI生态中与英伟达既合作又存在竞争关系的关键角色"
+        "ticker": "AVGO",
+        "name": "Broadcom Inc",
+        "note": "在定制ASIC设计服务与网络芯片领域与NVDA存在竞合关系，市场关注NVDA投资MediaTek等公司是否侵蚀其ASIC份额"
       },
       {
-        "ticker": "AVGO",
-        "name": "Broadcom",
-        "note": "网络与定制芯片龙头，部分分析认为其地位可能因英伟达扶持联发科等生态而面临一定挤压"
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "同为AI定制芯片与网络互联领域参与者，近期120亿美元级AI相关交易备受关注，与NVDA在生态绑定策略上存在互动"
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices",
+        "note": "数据中心GPU领域的主要直接竞争对手，产品与生态定位与NVDA高度重叠"
       },
       {
         "ticker": "TSM",
-        "name": "台积电",
-        "note": "英伟达先进制程代工核心供应商，直接受益于AI芯片资本支出周期"
-      },
-      {
-        "ticker": "GOOGL",
-        "name": "Alphabet",
-        "note": "超大规模云厂商及存储长期协议主要对手方之一，其资本支出指引直接影响英伟达收入能见度"
-      },
-      {
-        "ticker": "MSFT",
-        "name": "Microsoft",
-        "note": "超大规模云厂商及存储长期协议主要对手方之一，AI基础设施投入是英伟达需求的重要来源"
+        "name": "Taiwan Semiconductor Manufacturing",
+        "note": "NVDA最主要的晶圆代工合作伙伴，其产能与资本开支节奏直接影响NVDA的供应链能见度"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-01T00:28:20.884383Z"
+    "generatedAt": "2026-09-01T23:09:15.879515Z"
   },
   "news": [
     {
-      "id": "NVDA-141357811",
-      "title": "Nvidia: AI Boom Times Still Ahead",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-08-31",
-      "url": "https://finnhub.io/api/news?id=967de8b85d58ad5415281693a1941e1756c722df88d9ce349c58e0f43df6bf12",
+      "id": "NVDA-141369683",
+      "title": "Got $10,000 to Invest This September? These Energy Stocks Could Turn It Into Over $600 in Annual Income.",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-01",
+      "url": "https://finnhub.io/api/news?id=cfa0383ae6a160ca0de4b37cadadd4fef26c3b8a1d34510d1b920a04d0ef1f77",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141356417",
-      "title": "Top dow jones movers in Monday's session",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-31",
-      "url": "https://finnhub.io/api/news?id=70b9550024f8c5d254fc55828103b4b095d43a0883efa08bacf46c4e37fc2a76",
+      "id": "NVDA-141369684",
+      "title": "I'm Planning to Downsize in Retirement. You May Want to Do the Same.",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-01",
+      "url": "https://finnhub.io/api/news?id=25d4f780211b3daac3af9f75f9d74b0dcf7c58dce90f8c451e566d55699cbd3f",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141355998",
-      "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-31",
-      "url": "https://finnhub.io/api/news?id=3acb000fbcd04c48667d73cb6408b0aeb637920de5672722498fff8d7028614e",
+      "id": "NVDA-141369672",
+      "title": "Why Interactive Brokers Stock Tumbled on Tuesday",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-01",
+      "url": "https://finnhub.io/api/news?id=c765e49bffb2342cec5cadf9da061444104ccee0b5773b39f618b505d980dc1b",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141355997",
-      "title": "These stocks are the most active in today's session",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-31",
-      "url": "https://finnhub.io/api/news?id=887b5967af6ac9f8ec388fcc84618334a77f30a01e6d2da215bb8e0468423b8a",
+      "id": "NVDA-141369685",
+      "title": "Stock Market Today: Nasdaq, Dow Slide As Oil Prices Spike; Shell, Exxon Get A Boost (Live Coverage)",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-01",
+      "url": "https://finnhub.io/api/news?id=51166aebf25efdd52d11d94574d5a9c466aac3e2269a0cce2fd962bbe3657f63",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141357144",
-      "title": "Nvidia: This Fortress Can Withstand The Sentiment Storm",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-08-31",
-      "url": "https://finnhub.io/api/news?id=8ebab418c29d8b95bd9d4fbaa3f279658429e6b5908b4d304bc969b388b9c729",
+      "id": "NVDA-141369673",
+      "title": "Nvidia Sells the Brains of the AI Boom. Something Else Is Selling the Muscle -- and It's Not on Wall Street's Radar.",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-01",
+      "url": "https://finnhub.io/api/news?id=99be8f57191c0c8d6a52fcc0e4ac2336cfc50e21c4243622efd96ad584760f40",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141355524",
-      "title": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "publishedAt": "2026-08-31",
-      "url": "https://finnhub.io/api/news?id=018947a3b929c3e345a54fd0440d4a73a87dddf64afb6af9edfec10f1b78592f",
+      "id": "NVDA-141369681",
+      "title": "Google Just Locked Up the Largest Geothermal Power Deal Ever Made.",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-01",
+      "url": "https://finnhub.io/api/news?id=f8cd46e7771f07f0f35066969657698395f22b0ce503c3206d52bdbed2f75d41",
       "tags": [
         "NVDA"
       ]

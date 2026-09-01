@@ -354,6 +354,26 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-09-01",
+    "sentiment": "watch",
+    "excerpt": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion: https://www. wsj.com/business/deals/nvidia- wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117197476591086616",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-09-01",
+    "sentiment": "watch",
+    "excerpt": "NVIDIA AI Factory Compute Is Becoming an Investable Asset Class: https:// x.com/JensenHuang/article/2086 934705207959965",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117197476129988516",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-08-31",
     "sentiment": "watch",
     "excerpt": "RT @ realDonaldTrump The only reason that communities throughout the U.S.A. should not want Data Centers is if they want to end up being backwards and poor. If they want to be successful and rich, with far lower taxes and jobs all over the ",
@@ -424,26 +444,134 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-08-30",
+    "asOf": "2026-09-01",
     "sentiment": "watch",
-    "excerpt": "A wonderful new book by Ted Cruz, about a Great Supreme Court Justice, Clarence Thomas, is just out! It tells the true story about Justice Thomas’s rise, and all of the wonderful things he has done for America. A MUST READ! Get your copy no",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117187163336215939",
-    "ticker": "AMZN",
+    "excerpt": "New Apple CEO posting on 𝕏",
+    "postUrl": "https://x.com/elonmusk/status/2094821435692982631",
+    "ticker": "AAPL",
     "topics": []
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-08-30",
+    "asOf": "2026-09-01",
     "sentiment": "watch",
-    "excerpt": "Let all Canadian Companies that are doing business with America move to the United States, immediately. Many of them are Companies that moved out years ago due to stupid U.S. Leadership. When you move back, there are no TARIFFS! President D",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117185864353206503",
+    "excerpt": "We’re giving all @Grok @Bot users another free reset on token usage",
+    "postUrl": "https://x.com/elonmusk/status/2094813795742847123",
     "ticker": "",
-    "topics": [
-      "关税/贸易"
-    ]
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-01",
+    "sentiment": "watch",
+    "excerpt": "US Department of War announces $174M financing for securing Gallium Supply Chains. Beneficiaries are:\n\n- $AA (Alcoa Corp) for Gallium production at its refinery.\n\n- Sojitz (2768) as the Japanese JV offtake partner\n\nGood to see US critical m",
+    "postUrl": "https://x.com/aleabitoreddit/status/2094854529967862140",
+    "ticker": "AA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-01",
+    "sentiment": "watch",
+    "excerpt": "After seeing everything from $AXTI to $IREN get nuked… I’m starting to believe in the:\n\n“September is the worst month of the year” myth. https://t.co/sck3Y0pOg2",
+    "postUrl": "https://x.com/aleabitoreddit/status/2094831983306440746",
+    "ticker": "AXTI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-01",
+    "sentiment": "watch",
+    "excerpt": "After seeing everything from $AXTI to $IREN get nuked… I’m starting to believe in the:\n\n“September is the worst month of the year” myth. https://t.co/sck3Y0pOg2",
+    "postUrl": "https://x.com/aleabitoreddit/status/2094831983306440746",
+    "ticker": "IREN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-01",
+    "sentiment": "watch",
+    "excerpt": "What... $GPRO is up 79.17% after planning to merge with a photonics company \"Starman Optical\"\n\nTo build US 800G/1.6T optical transceivers for AI data centers.\n\nGoPro trying to compete with $AAOI was definitely not on my radar. https://t.co/",
+    "postUrl": "https://x.com/aleabitoreddit/status/2094786201605808566",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-01",
+    "sentiment": "watch",
+    "excerpt": "What... $GPRO is up 79.17% after planning to merge with a photonics company \"Starman Optical\"\n\nTo build US 800G/1.6T optical transceivers for AI data centers.\n\nGoPro trying to compete with $AAOI was definitely not on my radar. https://t.co/",
+    "postUrl": "https://x.com/aleabitoreddit/status/2094786201605808566",
+    "ticker": "GPRO",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-01",
+    "sentiment": "watch",
+    "excerpt": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthropic. \n\n2. Samsung Electro-Mechanics dis",
+    "postUrl": "https://x.com/aleabitoreddit/status/2094704372831920324",
+    "ticker": "AAPL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-01",
+    "sentiment": "watch",
+    "excerpt": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthropic. \n\n2. Samsung Electro-Mechanics dis",
+    "postUrl": "https://x.com/aleabitoreddit/status/2094704372831920324",
+    "ticker": "MRVL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-01",
+    "sentiment": "watch",
+    "excerpt": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthropic. \n\n2. Samsung Electro-Mechanics dis",
+    "postUrl": "https://x.com/aleabitoreddit/status/2094704372831920324",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-01",
+    "sentiment": "watch",
+    "excerpt": "Just some TLDR news I found interesting:\n\n1. $GOOGL (missed this) also invested in Mediatek alongside $NVDA for their $3.9B raise. \n\nGoogle/Nvidia are goats with investments you look at $SPCX to Anthropic. \n\n2. Samsung Electro-Mechanics dis",
+    "postUrl": "https://x.com/aleabitoreddit/status/2094704372831920324",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-31",
+    "sentiment": "watch",
+    "excerpt": "Anthropic signs a $35B AI compute deal with $NVDA backed Lambda.\n\n$HUT / DC, with Lambda / GPUs. \n\nFrontier model demand is rapidly outpacing the ecosystem's ability to build capacity.\n\nIt also looks like Anthropic is securing more compute.",
+    "postUrl": "https://x.com/aleabitoreddit/status/2094585395224981709",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-08-31",
+    "sentiment": "watch",
+    "excerpt": "Anthropic signs a $35B AI compute deal with $NVDA backed Lambda.\n\n$HUT / DC, with Lambda / GPUs. \n\nFrontier model demand is rapidly outpacing the ecosystem's ability to build capacity.\n\nIt also looks like Anthropic is securing more compute.",
+    "postUrl": "https://x.com/aleabitoreddit/status/2094585395224981709",
+    "ticker": "HUT",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -767,104 +895,6 @@
     "excerpt": "Just some random ideas from Elon’s post:\n\n$AAON - Chillers / liquid cooling\n$NVT - Cooling\n$MOD - Chillers / Cooling\n$IESC - Wiring\n$MTRS - chillers\n$JCI - chillers\n$HPS.A - Transformers (disclosure I own positions in this)\n$PRY.MI - networ",
     "postUrl": "https://x.com/aleabitoreddit/status/2094027369648681284",
     "ticker": "CRDO",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "FYI to the AI bears: $NVDA projects $1.3T of hyperscaler spend for 2027.\n\nUp from ~$800B in 2026, alongside ~70% revenue growth despite remaining capacity constrained… far above prior Street expectations of ~45%.\n\nThat capex flows across th",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094019167527776711",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "Just my final recap on thoughts + fundamentals of $SIVE from ER: \n\nPluggables (1.6T Ramp) for 2027:\n\n- $JBL (1.6T LRO, confirmed) Orders H1 2027, Ramp H2 2027\n-> -> Likely multiple hyperscaler customers\n\n- 3 pluggable makers (evaluation)\n- ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2093988125144207710",
-    "ticker": "AAPL",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "Just my final recap on thoughts + fundamentals of $SIVE from ER: \n\nPluggables (1.6T Ramp) for 2027:\n\n- $JBL (1.6T LRO, confirmed) Orders H1 2027, Ramp H2 2027\n-> -> Likely multiple hyperscaler customers\n\n- 3 pluggable makers (evaluation)\n- ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2093988125144207710",
-    "ticker": "MRVL",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "Just my final recap on thoughts + fundamentals of $SIVE from ER: \n\nPluggables (1.6T Ramp) for 2027:\n\n- $JBL (1.6T LRO, confirmed) Orders H1 2027, Ramp H2 2027\n-> -> Likely multiple hyperscaler customers\n\n- 3 pluggable makers (evaluation)\n- ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2093988125144207710",
-    "ticker": "NVDA",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "Just my final recap on thoughts + fundamentals of $SIVE from ER: \n\nPluggables (1.6T Ramp) for 2027:\n\n- $JBL (1.6T LRO, confirmed) Orders H1 2027, Ramp H2 2027\n-> -> Likely multiple hyperscaler customers\n\n- 3 pluggable makers (evaluation)\n- ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2093988125144207710",
-    "ticker": "AEVA",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-29",
-    "sentiment": "watch",
-    "excerpt": "It’s been a little disappointing to see a pattern with some people I've interacted with on X:\n\n- try to engage with the same audience, then quickly move toward aggressively monetizing it   \n\n- get upset when I choose not to participate in o",
-    "postUrl": "https://x.com/aleabitoreddit/status/2093947848580858123",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-29",
-    "sentiment": "watch",
-    "excerpt": "It’s been a little disappointing to see a pattern with some people I've interacted with on X:\n\n- try to engage with the same audience, then quickly move toward aggressively monetizing it   \n\n- get upset when I choose not to participate in o",
-    "postUrl": "https://x.com/aleabitoreddit/status/2093947848580858123",
-    "ticker": "AEHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-29",
-    "sentiment": "watch",
-    "excerpt": "It’s been a little disappointing to see a pattern with some people I've interacted with on X:\n\n- try to engage with the same audience, then quickly move toward aggressively monetizing it   \n\n- get upset when I choose not to participate in o",
-    "postUrl": "https://x.com/aleabitoreddit/status/2093947848580858123",
-    "ticker": "ARM",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-29",
-    "sentiment": "watch",
-    "excerpt": "It’s been a little disappointing to see a pattern with some people I've interacted with on X:\n\n- try to engage with the same audience, then quickly move toward aggressively monetizing it   \n\n- get upset when I choose not to participate in o",
-    "postUrl": "https://x.com/aleabitoreddit/status/2093947848580858123",
-    "ticker": "AXTI",
     "topics": []
   },
   {
