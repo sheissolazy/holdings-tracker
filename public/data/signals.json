@@ -354,6 +354,16 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-09-02",
+    "sentiment": "watch",
+    "excerpt": "Apple Maps has just announced that it has changed the name of Lake Ontario to Lake America, so now that very important change of names, between Google Maps and Apple Maps, is complete, ratified, and binding. Thank you for your attention to ",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117203256670423247",
+    "ticker": "AAPL",
+    "topics": []
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-09-01",
     "sentiment": "watch",
     "excerpt": "Nvidia, Wall Street Firms Strike AI Financing Deal Targeting $500 Billion: https://www. wsj.com/business/deals/nvidia- wall-street-firms-strike-ai-financing-deal-targeting-500-billion-c50377db",
@@ -432,35 +442,165 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-08-30",
+    "asOf": "2026-09-02",
     "sentiment": "watch",
-    "excerpt": "For many years, the USA has been losing more than 60 Billion Dollars a year with Canada. Why??? Our long ago stolen businesses are now coming back to America in order to avoid paying tariffs. They are lining up, just like the rest of the Wo",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117187278603098753",
-    "ticker": "",
-    "topics": [
-      "关税/贸易"
-    ]
-  },
-  {
-    "personId": "musk",
-    "type": "social",
-    "asOf": "2026-09-01",
-    "sentiment": "watch",
-    "excerpt": "New Apple CEO posting on 𝕏",
-    "postUrl": "https://x.com/elonmusk/status/2094821435692982631",
-    "ticker": "AAPL",
+    "excerpt": "$AVGO CEO: \"Demand for lasers, whether it is EML lasers, CW lasers.\n\nIs far surpassing supply out there in the industry\"\n\nPretty material coming from one of the largest laser suppliers in the world... Even while they 3x laser capacity. \n\nEx",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095279986701951461",
+    "ticker": "AVGO",
     "topics": []
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-02",
+    "sentiment": "watch",
+    "excerpt": "There we go, $AVGO earnings call to clarify miss. Broadcom expects:\n\nFY27E: ~$115B (+100% growth)\nFY28E: ~$230B (+100%), think analysts were modeling ~$180B. \n\nDemand actually exceeds this outlook, and Broadcom will work to improve supply. ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095261816767283663",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-02",
+    "sentiment": "watch",
+    "excerpt": "There we go, $AVGO earnings call to clarify miss. Broadcom expects:\n\nFY27E: ~$115B (+100% growth)\nFY28E: ~$230B (+100%), think analysts were modeling ~$180B. \n\nDemand actually exceeds this outlook, and Broadcom will work to improve supply. ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095261816767283663",
+    "ticker": "AVGO",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-02",
+    "sentiment": "watch",
+    "excerpt": "I try not to go off topic... \n\nBut apparently, the Strait of Hormuz might be renamed the \"Trump Strait\" soon. https://t.co/7UJitOXmKX",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095173998854508613",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-02",
+    "sentiment": "watch",
+    "excerpt": "$NVDA told JP Morgan... That their revenue could increase more than 100%+ Y/Y unconstrained.\n\nBut ended up giving a ~70% growth projection because that's what Nvidia believes they can supply. \n\nFY27 est: ~$401B revenue...\nFY28: ~$682B at 70",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095153855818547571",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-02",
+    "sentiment": "watch",
+    "excerpt": "$MRVL SVP and CTO of Optical Engineering Radha Nagarajan, at Semicon Taiwan: \n\n1. Names Europe/Japan for laser supply sourcing as examples for SiPH modules. \n\nVery interesting that Marvell's SVP had Europe in mind when giving examples of la",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095102771418845551",
+    "ticker": "MRVL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-02",
+    "sentiment": "watch",
+    "excerpt": "$MRVL SVP and CTO of Optical Engineering Radha Nagarajan, at Semicon Taiwan: \n\n1. Names Europe/Japan for laser supply sourcing as examples for SiPH modules. \n\nVery interesting that Marvell's SVP had Europe in mind when giving examples of la",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095102771418845551",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-02",
+    "sentiment": "watch",
+    "excerpt": "$MRVL SVP and CTO of Optical Engineering Radha Nagarajan, at Semicon Taiwan: \n\n1. Names Europe/Japan for laser supply sourcing as examples for SiPH modules. \n\nVery interesting that Marvell's SVP had Europe in mind when giving examples of la",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095102771418845551",
+    "ticker": "ASX",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-02",
+    "sentiment": "watch",
+    "excerpt": "$MRVL SVP and CTO of Optical Engineering Radha Nagarajan, at Semicon Taiwan: \n\n1. Names Europe/Japan for laser supply sourcing as examples for SiPH modules. \n\nVery interesting that Marvell's SVP had Europe in mind when giving examples of la",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095102771418845551",
+    "ticker": "AVGO",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-02",
+    "sentiment": "watch",
+    "excerpt": "Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th:\n\n1. $SNDK - $5.674B \n2. $MU - $5.574B \n3. $BE -  $1.899B\n4. $TSM - $1.265B\n5. $NBIS - $1.232B\n6. $CRWV - $744.5M\n7. $CORZ - $665.6M\n8. $STM - $584",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095087925822190023",
+    "ticker": "BE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-02",
+    "sentiment": "watch",
+    "excerpt": "Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th:\n\n1. $SNDK - $5.674B \n2. $MU - $5.574B \n3. $BE -  $1.899B\n4. $TSM - $1.265B\n5. $NBIS - $1.232B\n6. $CRWV - $744.5M\n7. $CORZ - $665.6M\n8. $STM - $584",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095087925822190023",
+    "ticker": "APLD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-02",
+    "sentiment": "watch",
+    "excerpt": "Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th:\n\n1. $SNDK - $5.674B \n2. $MU - $5.574B \n3. $BE -  $1.899B\n4. $TSM - $1.265B\n5. $NBIS - $1.232B\n6. $CRWV - $744.5M\n7. $CORZ - $665.6M\n8. $STM - $584",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095087925822190023",
+    "ticker": "BTDR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-02",
+    "sentiment": "watch",
+    "excerpt": "Just taking a look at Leopold's Situational Awareness Q2 13F latest holdings as of June 30th:\n\n1. $SNDK - $5.674B \n2. $MU - $5.574B \n3. $BE -  $1.899B\n4. $TSM - $1.265B\n5. $NBIS - $1.232B\n6. $CRWV - $744.5M\n7. $CORZ - $665.6M\n8. $STM - $584",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095087925822190023",
+    "ticker": "CLSK",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-02",
+    "sentiment": "watch",
+    "excerpt": "I don’t want to play investor activism here:\n\nBut I hope the recent crash sends a message to $SIVE what investor base + focus really matters (not Sweden, not wireless).\n\nAs well as that they should fire whatever board member or executive ga",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095064848031678648",
+    "ticker": "SIVE",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-09-01",
     "sentiment": "watch",
-    "excerpt": "We’re giving all @Grok @Bot users another free reset on token usage",
-    "postUrl": "https://x.com/elonmusk/status/2094813795742847123",
-    "ticker": "",
+    "excerpt": "Very interesting to notice Taiwan wildly outperform the rest of the World like US/EU.\n\nFoci ($NVDA / $TSM FAU supplier) went from 400 -> 900 -> 400 -> 800, and recovered insanely fast from July.\n\nNot sure if earnings like Etron or others ar",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095012962360828314",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-01",
+    "sentiment": "watch",
+    "excerpt": "Very interesting to notice Taiwan wildly outperform the rest of the World like US/EU.\n\nFoci ($NVDA / $TSM FAU supplier) went from 400 -> 900 -> 400 -> 800, and recovered insanely fast from July.\n\nNot sure if earnings like Etron or others ar",
+    "postUrl": "https://x.com/aleabitoreddit/status/2095012962360828314",
+    "ticker": "TSM",
     "topics": []
   },
   {
@@ -715,186 +855,6 @@
     "excerpt": "Remember my $SOI thesis anon? Soitec interview commentary today:\n\n- 80% of capacity reservation agreements expected within 1-2 weeks, with more than 10 in total. \n\n-  $200M Photonics-SOI revenue now described as \"absolutely a floor\"\n\n$TSM a",
     "postUrl": "https://x.com/aleabitoreddit/status/2094378666927239596",
     "ticker": "TSM",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-31",
-    "sentiment": "watch",
-    "excerpt": "“Memory is a bubble.”Explain this then, KOSPI bears:\n\nSamsung has reportedly reserved ~70% of its memory production capacity through 2031 via LTAs with $NVDA, $MSFT, and $GOOGL as main counterparties.\n\nFive years of demand visibility… https",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094365307876040857",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-31",
-    "sentiment": "watch",
-    "excerpt": "“Memory is a bubble.”Explain this then, KOSPI bears:\n\nSamsung has reportedly reserved ~70% of its memory production capacity through 2031 via LTAs with $NVDA, $MSFT, and $GOOGL as main counterparties.\n\nFive years of demand visibility… https",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094365307876040857",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-31",
-    "sentiment": "watch",
-    "excerpt": "“Memory is a bubble.”Explain this then, KOSPI bears:\n\nSamsung has reportedly reserved ~70% of its memory production capacity through 2031 via LTAs with $NVDA, $MSFT, and $GOOGL as main counterparties.\n\nFive years of demand visibility… https",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094365307876040857",
-    "ticker": "MSFT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-31",
-    "sentiment": "watch",
-    "excerpt": "Imagine Celestial ($MRVL acquisition) was public. \n\nThe valuation would probably be astronomical in US markets (if I had to guess, $6-10B)\n\nBecause 2028 revenue projections were $500m (q4 annualized runrate), 2029 revenue projections were $",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094353950040592854",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "$AAPL is now an important AI company apparently? \n\n-> \"OpenAI Hoarding Tens Of Thousands Of Apple Mac mini and Mac Studio\" for reinforcement learning\n\n-> Anthropic is renting Apple Mac mini units from $AMZN to complete similar AI tasks\n\nI'v",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094306322812666156",
-    "ticker": "AAPL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "$AAPL is now an important AI company apparently? \n\n-> \"OpenAI Hoarding Tens Of Thousands Of Apple Mac mini and Mac Studio\" for reinforcement learning\n\n-> Anthropic is renting Apple Mac mini units from $AMZN to complete similar AI tasks\n\nI'v",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094306322812666156",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "$AAPL is now an important AI company apparently? \n\n-> \"OpenAI Hoarding Tens Of Thousands Of Apple Mac mini and Mac Studio\" for reinforcement learning\n\n-> Anthropic is renting Apple Mac mini units from $AMZN to complete similar AI tasks\n\nI'v",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094306322812666156",
-    "ticker": "RPI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "$TSM Vice President of Advanced Packaging:\n\n\"Foundries can scale up the optical engine, but the real bottlenecks to large scale deployment lie elsewhere...\n\nIncluding lasers, optical fiber, fiber-optic connectors, and test\" (UDN)\n\nJust some",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094298008955535500",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "$TSM Vice President of Advanced Packaging:\n\n\"Foundries can scale up the optical engine, but the real bottlenecks to large scale deployment lie elsewhere...\n\nIncluding lasers, optical fiber, fiber-optic connectors, and test\" (UDN)\n\nJust some",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094298008955535500",
-    "ticker": "FORM",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "$TSM Vice President of Advanced Packaging:\n\n\"Foundries can scale up the optical engine, but the real bottlenecks to large scale deployment lie elsewhere...\n\nIncluding lasers, optical fiber, fiber-optic connectors, and test\" (UDN)\n\nJust some",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094298008955535500",
-    "ticker": "GLW",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "$TSM Vice President of Advanced Packaging:\n\n\"Foundries can scale up the optical engine, but the real bottlenecks to large scale deployment lie elsewhere...\n\nIncluding lasers, optical fiber, fiber-optic connectors, and test\" (UDN)\n\nJust some",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094298008955535500",
-    "ticker": "KEYS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "I'm going to miss the days of Korean retail reacting heavily to $EWY / Samsung / $SKHY daily volatility.\n\nNew piece: \"Korean day traders flee leveraged chip ETFs as regulatory curbs bite\"\n\n- Trading value in ETFs designed to deliver 2x dail",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094129989071536351",
-    "ticker": "EWY",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "I'm going to miss the days of Korean retail reacting heavily to $EWY / Samsung / $SKHY daily volatility.\n\nNew piece: \"Korean day traders flee leveraged chip ETFs as regulatory curbs bite\"\n\n- Trading value in ETFs designed to deliver 2x dail",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094129989071536351",
-    "ticker": "MSFT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "I'm going to miss the days of Korean retail reacting heavily to $EWY / Samsung / $SKHY daily volatility.\n\nNew piece: \"Korean day traders flee leveraged chip ETFs as regulatory curbs bite\"\n\n- Trading value in ETFs designed to deliver 2x dail",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094129989071536351",
-    "ticker": "SKHY",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "Just some random ideas from Elon’s post:\n\n$AAON - Chillers / liquid cooling\n$NVT - Cooling\n$MOD - Chillers / Cooling\n$IESC - Wiring\n$MTRS - chillers\n$JCI - chillers\n$HPS.A - Transformers (disclosure I own positions in this)\n$PRY.MI - networ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094027369648681284",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "Just some random ideas from Elon’s post:\n\n$AAON - Chillers / liquid cooling\n$NVT - Cooling\n$MOD - Chillers / Cooling\n$IESC - Wiring\n$MTRS - chillers\n$JCI - chillers\n$HPS.A - Transformers (disclosure I own positions in this)\n$PRY.MI - networ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094027369648681284",
-    "ticker": "AAON",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "Just some random ideas from Elon’s post:\n\n$AAON - Chillers / liquid cooling\n$NVT - Cooling\n$MOD - Chillers / Cooling\n$IESC - Wiring\n$MTRS - chillers\n$JCI - chillers\n$HPS.A - Transformers (disclosure I own positions in this)\n$PRY.MI - networ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094027369648681284",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-08-30",
-    "sentiment": "watch",
-    "excerpt": "Just some random ideas from Elon’s post:\n\n$AAON - Chillers / liquid cooling\n$NVT - Cooling\n$MOD - Chillers / Cooling\n$IESC - Wiring\n$MTRS - chillers\n$JCI - chillers\n$HPS.A - Transformers (disclosure I own positions in this)\n$PRY.MI - networ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2094027369648681284",
-    "ticker": "CRDO",
     "topics": []
   },
   {
