@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 324.96,
-  "change5dPct": 3.7,
-  "changeYtdPct": 23.2,
-  "marketCap": "$4.75T",
-  "pe": 34.4,
+  "price": 328.21,
+  "change5dPct": 4.3,
+  "changeYtdPct": 25.0,
+  "marketCap": "$4.76T",
+  "pe": 37.3,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-03-03",
-      "o": 263.48,
-      "h": 265.56,
-      "l": 260.13,
-      "c": 263.75
-    },
     {
       "t": "2026-03-04",
       "o": 264.65,
@@ -902,131 +895,138 @@
     },
     {
       "t": "2026-09-02",
-      "o": 326.97,
+      "o": 326.87,
       "h": 328.4,
       "l": 323.53,
       "c": 324.96
+    },
+    {
+      "t": "2026-09-03",
+      "o": 324.95,
+      "h": 330.81,
+      "l": 324.11,
+      "c": 328.21
     }
   ],
   "thesis": {
     "bull": [
-      "新任CEO约翰·特纳斯上任后，市场对苹果在设备端AI能力上的推进寄予厚望，据报道美银等机构认为其上涨空间接近两成，看好「设备端主导」叙事",
-      "英伟达CEO黄仁勋近期公开表态引发AI股买盘，市场对苹果AI功能落地的预期升温，反映产业链龙头对苹果AI布局的正面信号",
-      "国会跟踪者佩洛西在2025年12月30日的申报中出现一笔新建苹果多头仓位，显示部分政治人物对公司基本面仍持正面判断"
+      "苹果在AI功能整合与硬件生态协同上持续投入，市场对其可折叠iPhone等新形态产品仍抱有期待，产品创新周期有望打开增量需求",
+      "国会议员Pelosi在2025年12月30日出现新建仓（new）记录，显示部分政治人物近期对AAPL仍保留多头敞口",
+      "英伟达CEO黄仁勋近期公开表态对苹果AI应用前景给予较高期待，带动市场对苹果AI叙事的关注度和买盘情绪"
     ],
     "bear": [
-      "同一份及此前多份佩洛西申报显示持续减持苹果仓位（2025年12月24日、2025年10月22日、2024年12月31日均为清仓或减持动作），跟踪者内部信号明显分歧且偏谨慎",
-      "有分析认为若缺乏可折叠iPhone等硬件形态创新，苹果明年营收增速可能面临放缓压力，产品周期创新节奏受到市场质疑",
-      "近期半导体与AI板块出现估值分化，博通指引不及预期引发抛售，市场对AI资本开支能否持续存在担忧，若情绪降温可能波及苹果供应链及AI功能兑现预期"
+      "同一份2026年1月23日披露文件中，Pelosi账户对AAPL同时出现多笔减持（trim）与清仓（exit）动作，且过去一年多次交易均以减持为主，显示知情投资者仓位在趋势性降低",
+      "苹果在英国面临高达20亿英镑的用户隐私相关集体诉讼，若败诉可能带来财务及合规声誉双重压力",
+      "可折叠iPhone等新品发布前市场评价'预期分化'（mixed outlook），说明分析师和投资者对新产品能否如期兑现销量增长存在明显分歧"
     ],
     "watch": [
-      "特朗普在社交媒体上就苹果地图更名发表言论，虽属政治表态而非基本面信息，但提示苹果产品持续处于公众与政治人物关注焦点，需留意潜在政策类风险",
-      "市场对AI资本开支是否存在泡沫的讨论升温，包括AI相关代币价格下跌、债务规模担忧等，可能影响科技股整体风险偏好并间接传导至苹果估值",
-      "需持续跟踪Apple Intelligence等AI功能的用户反馈及iPhone换机周期数据，以验证公司AI叙事能否转化为实际销量与营收增长"
+      "特朗普在Truth Social上就苹果地图更改地名一事发表声明，属地缘政治与舆论层面的噪音事件，需关注是否演变为更广泛的政策或监管关注",
+      "中东地区冲突升级、原油及柴油价格走高带来的宏观通胀压力，可能通过供应链成本和消费者支出间接影响苹果终端需求",
+      "科技板块估值集中于'Mag 7'及AI叙事，若英伟达等权重股波动加剧或AI相关债务泡沫担忧发酵，可能引发苹果等权重股联动回调，需持续关注板块资金流向"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值领先的消费电子与服务公司，核心产品包括iPhone、Mac、iPad及可穿戴设备，同时通过App Store、云服务、广告等构建持续增长的服务业务。公司近期完成CEO交接，由约翰·特纳斯接任，市场关注其能否在保持硬件优势的同时推动AI战略落地"
+        "body": "苹果是全球领先的消费电子及服务公司，核心产品包括iPhone、Mac、iPad、可穿戴设备及不断扩张的服务业务（App Store、云服务、订阅等）。近期市场关注点集中在其可折叠iPhone等新硬件形态的推出节奏，以及公司在生成式AI功能整合上的进展，这被视为下一阶段增长的关键变量。"
       },
       {
-        "heading": "财务与业务",
-        "body": "苹果的营收结构仍高度依赖iPhone周期，服务业务的高毛利属性为盈利提供支撑。市场对其明年增长的核心担忧在于硬件创新节奏，例如是否需要可折叠iPhone等新形态产品来维持换机需求，服务与生态粘性则是相对确定性较高的增长来源"
+        "heading": "基本面与估值",
+        "body": "苹果作为'Mag 7'成分股，其股价与整体科技板块估值高度联动。当前板块处于历史高位区间附近，市场对AI相关资本开支及回报的可持续性存在争议，部分评论提及AI基础设施相关债务规模已引发部分机构（如BlackRock）警示，这类系统性因素可能影响苹果的估值倍数，即便公司自身基本面保持稳健。"
       },
       {
-        "heading": "多空观点",
-        "body": "看多逻辑集中在新CEO带来的AI战略重估、以及产业链人士对苹果AI能力的正面表态；看空逻辑则指向硬件创新乏力可能拖累明年营收增速，以及跟踪者持仓行为显示出的谨慎态度。整体上市场对苹果AI叙事能否兑现存在明显分歧"
+        "heading": "产品与创新周期",
+        "body": "市场对苹果即将推出的可折叠iPhone持'喜忧参半'（mixed outlook）态度：乐观者认为这是继iPhone重大形态创新后的又一增长点，悲观者则担忧供应链成本、良率爬坡及消费者换机意愿能否支撑预期销量。苹果在AI应用生态（如与第三方硬件如Vision Pro的医疗应用合作）上也在持续拓展场景，但商业化节奏仍待观察。"
+      },
+      {
+        "heading": "监管与法律风险",
+        "body": "苹果在英国面临一起涉及应用隐私功能的约20亿英镑集体诉讼，反映其在数据隐私与反垄断监管方面持续承压。此类诉讼周期长、结果不确定，短期内主要影响市场情绪和合规成本预期，长期若形成不利判例可能波及其全球商业模式（如App Store抽成机制）。"
       },
       {
         "heading": "跟踪者动向解读",
-        "body": "公开披露显示，佩洛西在过去一年多次减持苹果仓位，仅在2025年12月30日出现一笔新建多头，同日申报中又包含减持记录，行为本身存在矛盾，不宜简单解读为单一方向信号，更多应视为组合再平衡的一部分。黄仁勋等产业人士的公开表态则更偏向对行业趋势的判断，而非直接投资建议"
+        "body": "公开披露显示，Pelosi账户在2025年12月30日对AAPL既有新建仓记录也有同日减持记录，且2025年12月24日、10月22日及此前多个季度均以减持（exit/trim）为主，整体呈现仓位逐步降低的趋势，而非单向加仓。这种同期内多空信号并存的情况，提示投资者不宜简单将单笔交易解读为明确态度，需结合完整持仓变化脉络综合判断。此外，英伟达CEO黄仁勋对苹果AI前景的正面表态更多是行业层面的信心传导，而非苹果自身业绩指引。"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "当前科技板块的关注焦点集中在AI资本开支及其可持续性，半导体龙头如博通、英伟达、美光等的业绩与指引成为市场情绪风向标。苹果与谷歌、微软等公司同处AI竞赛之中，但其AI落地路径更依赖设备端集成而非云端算力扩张，竞争维度与英伟达、博通等供应链公司有所不同"
-      },
-      {
-        "heading": "风险提示",
-        "body": "主要风险包括硬件创新节奏不及预期、AI功能商业化进度低于市场预期、宏观层面AI资本开支降温对科技板块整体估值的冲击，以及地缘政治与政策类不确定性。跟踪者交易行为也存在滞后披露和组合调整等噪音，不能作为独立决策依据"
+        "heading": "宏观与行业环境",
+        "body": "当前中东地缘冲突持续升级，柴油等能源价格创纪录新高，全球供应链和运输成本面临压力，可能间接影响苹果硬件制造与物流成本。同时美联储官员表态（如Waller）对市场风险偏好形成支撑，科技股整体维持在历史高位附近震荡，苹果作为权重股将持续受到板块系统性波动的影响，而非完全由自身基本面单独定价。"
       }
     ],
     "comparables": [
       {
-        "ticker": "GOOGL",
-        "name": "Alphabet",
-        "note": "同处AI与消费科技竞争格局，云与广告业务受益于AI投入，可与苹果的AI落地路径形成对比"
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "AI芯片与网络互联领域可比标的，近期市场对其运营利润率扩张能否持续存在分歧，可与苹果的AI硬件叙事对照观察"
       },
       {
-        "ticker": "MSFT",
-        "name": "Microsoft",
-        "note": "AI与云计算布局较为激进，是判断科技板块AI资本开支趋势的重要参照"
+        "ticker": "AVGO",
+        "name": "Broadcom",
+        "note": "同属AI基础设施相关权重股，尽管AI芯片销售增长强劲但股价表现疲软，反映市场对高预期兑现节奏的谨慎态度，可作为板块情绪参照"
       },
       {
-        "ticker": "TSM",
-        "name": "台积电",
-        "note": "苹果核心芯片代工伙伴，其产能与订单情况间接反映苹果硬件需求与AI芯片布局进展"
+        "ticker": "NVDA",
+        "name": "NVIDIA",
+        "note": "AI产业链核心权重股，其市值占标普500比重创历史纪录，股价波动对包括苹果在内的科技权重股联动效应显著，可作为板块系统性风险的观察锚点"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-02T23:10:26.817832Z"
+    "generatedAt": "2026-09-03T23:07:36.017437Z"
   },
   "news": [
     {
-      "id": "AAPL-141381119",
-      "title": "US judge rejects bid to break up Google's ad business",
+      "id": "AAPL-141405197",
+      "title": "What Happens To Qualcomm Stock If The New Revenue Earns Less?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-02",
-      "url": "https://finnhub.io/api/news?id=65799ac00b58f546317d37a0d1d23e33cdcf8d758481155cb8e75b739d24a77a",
+      "publishedAt": "2026-09-03",
+      "url": "https://finnhub.io/api/news?id=ce1e6b3e51acf20cd12fa461927b38c7f2438f0f29170c798dff8c19306875dd",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141381117",
-      "title": "Apple May Need a Foldable iPhone to Avoid a Revenue Slowdown Next Year",
+      "id": "AAPL-141403743",
+      "title": "Apple (AAPL) Faces Mixed Outlook Ahead of Foldable iPhone Launch",
       "source": "Yahoo",
-      "publishedAt": "2026-09-02",
-      "url": "https://finnhub.io/api/news?id=b58667a6474fcee5cfd88598166841eb9e2f7dfad86491bc0555454d88ee979a",
+      "publishedAt": "2026-09-03",
+      "url": "https://finnhub.io/api/news?id=7d3a3c69682920997c04ef30b0652d6cb53cd913b1854b9e0e452cfd10b9c33a",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141381120",
-      "title": "Apple CEO John Ternus Has a Big AI Opportunity: BofA Sees ‘Device Dominance’ Ahead, Eyes Nearly 20% Upside for AAPL",
+      "id": "AAPL-141401419",
+      "title": "Wall Street Nears Record Highs With Help From Mag 7",
       "source": "Yahoo",
-      "publishedAt": "2026-09-02",
-      "url": "https://finnhub.io/api/news?id=5cf4bc787602863b983521c2789bec1fa8252deb432f2951c00227b9236443b9",
+      "publishedAt": "2026-09-03",
+      "url": "https://finnhub.io/api/news?id=0dd29d7875103b3a39d52951c48618bee16a1342b27a377d187af1c76f13851c",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141381121",
-      "title": "The $277 Billion That GOOGL Stock Quietly Paid Its Owners",
+      "id": "AAPL-141403744",
+      "title": "Apple faces £2 bn lawsuit in UK over app privacy feature",
       "source": "Yahoo",
-      "publishedAt": "2026-09-02",
-      "url": "https://finnhub.io/api/news?id=06f38cc0c2bacadc255373916dad613fbc155c0a71a3767988a70a290aa8cc9a",
+      "publishedAt": "2026-09-03",
+      "url": "https://finnhub.io/api/news?id=b35e471fcbb7c23a13bab094d1acddbcd475b4fc166c778beea352f0d6ed066d",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141381122",
-      "title": "Is Microsoft Stock Winning The Move To The Cloud Or Just The AI Boom?",
+      "id": "AAPL-141402704",
+      "title": "Stryker Launches FDA-Cleared Apple Vision Pro Surgical App",
       "source": "Yahoo",
-      "publishedAt": "2026-09-02",
-      "url": "https://finnhub.io/api/news?id=a3ca8bf7264f74981d3aae7943e348a6a2d277f052b003cf2d84bd5d77308009",
+      "publishedAt": "2026-09-03",
+      "url": "https://finnhub.io/api/news?id=b3b1ef4df8c77bd564b8c103e476159f06b03899b3c6c49a40a0d45a15c635c7",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141381118",
-      "title": "Apple’s New CEO Has Millions Riding on the Stock Beating the Market",
-      "source": "Yahoo",
-      "publishedAt": "2026-09-02",
-      "url": "https://finnhub.io/api/news?id=76f4f452dfbfa8c18c5f1c5cbec25f921b41c3210bb09b4e496a721e51af0535",
+      "id": "AAPL-141401283",
+      "title": "Discover which dow jones stocks are making waves on Thursday.",
+      "source": "ChartMill",
+      "publishedAt": "2026-09-03",
+      "url": "https://finnhub.io/api/news?id=143eae70bc52137eaf641d1530c12a1dc1498df8ded75872f63b9e22f8933c67",
       "tags": [
         "AAPL"
       ]
