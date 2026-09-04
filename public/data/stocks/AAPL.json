@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 328.21,
-  "change5dPct": 4.3,
-  "changeYtdPct": 25.0,
-  "marketCap": "$4.76T",
+  "price": 319.97,
+  "change5dPct": 0.1,
+  "changeYtdPct": 22.9,
+  "marketCap": "$4.68T",
   "pe": 37.3,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-03-04",
-      "o": 264.65,
-      "h": 266.15,
-      "l": 261.42,
-      "c": 262.52
-    },
     {
       "t": "2026-03-05",
       "o": 260.79,
@@ -902,131 +895,138 @@
     },
     {
       "t": "2026-09-03",
-      "o": 324.95,
+      "o": 324.87,
       "h": 330.81,
       "l": 324.11,
       "c": 328.21
+    },
+    {
+      "t": "2026-09-04",
+      "o": 328.3,
+      "h": 328.93,
+      "l": 317.86,
+      "c": 319.97
     }
   ],
   "thesis": {
     "bull": [
-      "苹果在AI功能整合与硬件生态协同上持续投入，市场对其可折叠iPhone等新形态产品仍抱有期待，产品创新周期有望打开增量需求",
-      "国会议员Pelosi在2025年12月30日出现新建仓（new）记录，显示部分政治人物近期对AAPL仍保留多头敞口",
-      "英伟达CEO黄仁勋近期公开表态对苹果AI应用前景给予较高期待，带动市场对苹果AI叙事的关注度和买盘情绪"
+      "国会议员佩洛西在2025年12月30日申报了对AAPL的新建仓（new buy），显示部分建制派投资者在近期回调后逢低介入，短期情绪偏多",
+      "英伟达CEO黄仁勋公开表态对苹果AI功能寄予厚望，相关言论一度带动AI概念股买盘，显示产业链对Apple Intelligence商业化前景仍有期待",
+      "市场研究报告持续将AAPL与博通、壳牌等列为重点研究标的，反映机构对其基本面仍保持常规覆盖热度，未出现集中看空共识"
     ],
     "bear": [
-      "同一份2026年1月23日披露文件中，Pelosi账户对AAPL同时出现多笔减持（trim）与清仓（exit）动作，且过去一年多次交易均以减持为主，显示知情投资者仓位在趋势性降低",
-      "苹果在英国面临高达20亿英镑的用户隐私相关集体诉讼，若败诉可能带来财务及合规声誉双重压力",
-      "可折叠iPhone等新品发布前市场评价'预期分化'（mixed outlook），说明分析师和投资者对新产品能否如期兑现销量增长存在明显分歧"
+      "同一份佩洛西2026年1月披露文件中同时包含多笔AAPL减持（trim/exit）记录，且2025年10月、2025年1月的历史申报也均为减持方向，长期持仓趋势偏向获利了结而非加仓",
+      "近期新闻显示AAPL股价表现弱于大盘（跑输当日基准指数），且有报道质疑继任梯队人选约翰·特纳斯（John Ternus）需要走出「不是第二个库克」的独立路线，管理层交接叙事存在不确定性",
+      "市场层面弥漫「AI泡沫」担忧及AI相关资本开支侵蚀利润率的讨论，若AI硬件周期或消费电子需求不及预期，苹果作为消费电子龙头的估值溢价可能承压"
     ],
     "watch": [
-      "特朗普在Truth Social上就苹果地图更改地名一事发表声明，属地缘政治与舆论层面的噪音事件，需关注是否演变为更广泛的政策或监管关注",
-      "中东地区冲突升级、原油及柴油价格走高带来的宏观通胀压力，可能通过供应链成本和消费者支出间接影响苹果终端需求",
-      "科技板块估值集中于'Mag 7'及AI叙事，若英伟达等权重股波动加剧或AI相关债务泡沫担忧发酵，可能引发苹果等权重股联动回调，需持续关注板块资金流向"
+      "即将公布的通胀数据（CPI/PCE）及美联储利率路径，将直接影响科技股整体估值倍数，需关注AAPL股价对宏观数据的敏感度",
+      "公司高层继任与组织架构变化，尤其约翰·特纳斯等核心高管的角色演变是否会影响产品路线图与市场沟通节奏",
+      "跟踪者（如佩洛西）后续申报动向，若未来季度继续出现净减持，需重新评估建制派资金对AAPL的中长期态度"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球领先的消费电子及服务公司，核心产品包括iPhone、Mac、iPad、可穿戴设备及不断扩张的服务业务（App Store、云服务、订阅等）。近期市场关注点集中在其可折叠iPhone等新硬件形态的推出节奏，以及公司在生成式AI功能整合上的进展，这被视为下一阶段增长的关键变量。"
+        "body": "苹果（AAPL）是全球市值领先的消费电子与服务公司，核心产品线包括iPhone、Mac、iPad、可穿戴设备及不断扩张的服务业务（App Store、AI功能Apple Intelligence、云服务等）。公司正处于硬件创新周期放缓与服务/AI叙事接力的过渡阶段，市场关注其能否在AI浪潮中找到差异化定位"
       },
       {
-        "heading": "基本面与估值",
-        "body": "苹果作为'Mag 7'成分股，其股价与整体科技板块估值高度联动。当前板块处于历史高位区间附近，市场对AI相关资本开支及回报的可持续性存在争议，部分评论提及AI基础设施相关债务规模已引发部分机构（如BlackRock）警示，这类系统性因素可能影响苹果的估值倍数，即便公司自身基本面保持稳健。"
-      },
-      {
-        "heading": "产品与创新周期",
-        "body": "市场对苹果即将推出的可折叠iPhone持'喜忧参半'（mixed outlook）态度：乐观者认为这是继iPhone重大形态创新后的又一增长点，悲观者则担忧供应链成本、良率爬坡及消费者换机意愿能否支撑预期销量。苹果在AI应用生态（如与第三方硬件如Vision Pro的医疗应用合作）上也在持续拓展场景，但商业化节奏仍待观察。"
-      },
-      {
-        "heading": "监管与法律风险",
-        "body": "苹果在英国面临一起涉及应用隐私功能的约20亿英镑集体诉讼，反映其在数据隐私与反垄断监管方面持续承压。此类诉讼周期长、结果不确定，短期内主要影响市场情绪和合规成本预期，长期若形成不利判例可能波及其全球商业模式（如App Store抽成机制）。"
+        "heading": "基本面与业绩",
+        "body": "从公开新闻看，近期市场情绪整体倾向AI硬件链（如英伟达、美光、闪迪等）表现强劲，而苹果股价出现跑输大盘的情形，显示投资者对其AI变现节奏与硬件销售周期存在分歧。机构研报仍将AAPL与博通、壳牌并列为重点覆盖对象，说明其基本面依然受到持续跟踪，但尚未看到明确的业绩超预期催化剂被广泛报道"
       },
       {
         "heading": "跟踪者动向解读",
-        "body": "公开披露显示，Pelosi账户在2025年12月30日对AAPL既有新建仓记录也有同日减持记录，且2025年12月24日、10月22日及此前多个季度均以减持（exit/trim）为主，整体呈现仓位逐步降低的趋势，而非单向加仓。这种同期内多空信号并存的情况，提示投资者不宜简单将单笔交易解读为明确态度，需结合完整持仓变化脉络综合判断。此外，英伟达CEO黄仁勋对苹果AI前景的正面表态更多是行业层面的信心传导，而非苹果自身业绩指引。"
+        "body": "公开披露显示，众议院议长佩洛西在2025年12月30日的交易中既有新建仓（long/new）记录，也有多笔减持（exit/trim）记录，同一批次申报呈现方向不一致，可能反映组合再平衡而非单一方向的强烈信号。结合此前2025年10月及2025年1月的申报均为减持方向，其长期持仓趋势偏向逐步降低敞口，但2025年末的新增建仓又提示对短期回调后的估值存在一定兴趣，多空信号并存"
       },
       {
-        "heading": "宏观与行业环境",
-        "body": "当前中东地缘冲突持续升级，柴油等能源价格创纪录新高，全球供应链和运输成本面临压力，可能间接影响苹果硬件制造与物流成本。同时美联储官员表态（如Waller）对市场风险偏好形成支撑，科技股整体维持在历史高位附近震荡，苹果作为权重股将持续受到板块系统性波动的影响，而非完全由自身基本面单独定价。"
+        "heading": "行业与竞争格局",
+        "body": "英伟达CEO黄仁勋对苹果AI能力的正面评价，一定程度上反映产业链对苹果在端侧AI（on-device AI）生态中的潜在角色仍有期待，尤其是芯片与AI基础设施供应商希望苹果的AI功能能带动换机潮。但同期新闻也大量聚焦AI资本开支是否过度、利润率是否被侵蚀的争论，苹果作为终端品牌商需要在AI军备竞赛与自身利润结构之间寻找平衡"
+      },
+      {
+        "heading": "风险因素",
+        "body": "主要风险包括：一是管理层交接的不确定性，市场对潜在继任人选是否具备独立领导风格存在疑虑；二是sentiment 层面AI泡沫担忧若发酵，可能压制包括苹果在内的大型科技股估值；三是跟踪者持续减持的历史模式若延续，可能被市场解读为建制派资金信心下降的信号，尽管这类交易也可能出于税务或组合分散等非基本面原因"
+      },
+      {
+        "heading": "估值与关注要点",
+        "body": "当前公开信息未提供具体估值倍数或财务数据，但从新闻流看，市场焦点集中在即将公布的通胀数据、AI相关资本支出可持续性，以及苹果自身管理层与产品路线图的演变。投资者可重点关注后续财报指引、Apple Intelligence相关功能的用户采纳率，以及跟踪者是否延续减持趋势，这些因素将共同决定AAPL短中期的多空力量对比"
       }
     ],
     "comparables": [
       {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "AI芯片与网络互联领域可比标的，近期市场对其运营利润率扩张能否持续存在分歧，可与苹果的AI硬件叙事对照观察"
+        "ticker": "MSFT",
+        "name": "微软",
+        "note": "同为大型科技与AI基础设施相关标的，可用于比较AI变现节奏与云服务增长对比"
+      },
+      {
+        "ticker": "GOOGL",
+        "name": "谷歌母公司Alphabet",
+        "note": "在AI端侧应用与广告变现方面与苹果存在竞争与合作交织关系，可作为AI叙事对比对象"
       },
       {
         "ticker": "AVGO",
-        "name": "Broadcom",
-        "note": "同属AI基础设施相关权重股，尽管AI芯片销售增长强劲但股价表现疲软，反映市场对高预期兑现节奏的谨慎态度，可作为板块情绪参照"
-      },
-      {
-        "ticker": "NVDA",
-        "name": "NVIDIA",
-        "note": "AI产业链核心权重股，其市值占标普500比重创历史纪录，股价波动对包括苹果在内的科技权重股联动效应显著，可作为板块系统性风险的观察锚点"
+        "name": "博通",
+        "note": "新闻中与苹果一同被列为重点研究报告标的，芯片供应链关联度高，可比较AI硬件周期敏感度"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-03T23:07:36.017437Z"
+    "generatedAt": "2026-09-04T22:55:23.991907Z"
   },
   "news": [
     {
-      "id": "AAPL-141405197",
-      "title": "What Happens To Qualcomm Stock If The New Revenue Earns Less?",
+      "id": "AAPL-141460522",
+      "title": "Volkswagen Targets 10% Margin by 2030 With €135B Plan, 50,000 Job Cuts",
       "source": "Yahoo",
-      "publishedAt": "2026-09-03",
-      "url": "https://finnhub.io/api/news?id=ce1e6b3e51acf20cd12fa461927b38c7f2438f0f29170c798dff8c19306875dd",
+      "publishedAt": "2026-09-04",
+      "url": "https://finnhub.io/api/news?id=097b64f506ae901b599f98534aeefd8a718bcd48404c3bfdd42675afbf145a89",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141403743",
-      "title": "Apple (AAPL) Faces Mixed Outlook Ahead of Foldable iPhone Launch",
+      "id": "AAPL-141460497",
+      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
       "source": "Yahoo",
-      "publishedAt": "2026-09-03",
-      "url": "https://finnhub.io/api/news?id=7d3a3c69682920997c04ef30b0652d6cb53cd913b1854b9e0e452cfd10b9c33a",
+      "publishedAt": "2026-09-04",
+      "url": "https://finnhub.io/api/news?id=d03216108133aa4afcbdb834039cee863839189ba8da999efecd7e54466d934e",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141401419",
-      "title": "Wall Street Nears Record Highs With Help From Mag 7",
+      "id": "AAPL-141464454",
+      "title": "Why Apple (AAPL) Dipped More Than Broader Market Today",
       "source": "Yahoo",
-      "publishedAt": "2026-09-03",
-      "url": "https://finnhub.io/api/news?id=0dd29d7875103b3a39d52951c48618bee16a1342b27a377d187af1c76f13851c",
+      "publishedAt": "2026-09-04",
+      "url": "https://finnhub.io/api/news?id=c5da8996353355fc8eda64d31dfadbea20b47b4bfece6766c0c784fe0a4c77ab",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141403744",
-      "title": "Apple faces £2 bn lawsuit in UK over app privacy feature",
+      "id": "AAPL-141460507",
+      "title": "Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2'",
       "source": "Yahoo",
-      "publishedAt": "2026-09-03",
-      "url": "https://finnhub.io/api/news?id=b35e471fcbb7c23a13bab094d1acddbcd475b4fc166c778beea352f0d6ed066d",
+      "publishedAt": "2026-09-04",
+      "url": "https://finnhub.io/api/news?id=1d4bd0b4897745f3a22952da8fc4a48ef1e025aad70e9b517ea33bd0cb57526c",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141402704",
-      "title": "Stryker Launches FDA-Cleared Apple Vision Pro Surgical App",
+      "id": "AAPL-141464455",
+      "title": "Top Research Reports for Apple, Broadcom & Shell",
       "source": "Yahoo",
-      "publishedAt": "2026-09-03",
-      "url": "https://finnhub.io/api/news?id=b3b1ef4df8c77bd564b8c103e476159f06b03899b3c6c49a40a0d45a15c635c7",
+      "publishedAt": "2026-09-04",
+      "url": "https://finnhub.io/api/news?id=d180a4b55542c389cf6aba25f41a111377c11d398072f9790814e4a23b323580",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141401283",
-      "title": "Discover which dow jones stocks are making waves on Thursday.",
-      "source": "ChartMill",
-      "publishedAt": "2026-09-03",
-      "url": "https://finnhub.io/api/news?id=143eae70bc52137eaf641d1530c12a1dc1498df8ded75872f63b9e22f8933c67",
+      "id": "AAPL-141454927",
+      "title": "Magnificent Seven Flash Strong Signal Never Seen Before",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-04",
+      "url": "https://finnhub.io/api/news?id=b5233f0911623a89d9322be5bb38695f7f12f28da35fd56f85114ec31be4dfaa",
       "tags": [
         "AAPL"
       ]

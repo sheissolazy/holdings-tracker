@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 228.45,
-  "change5dPct": 0.2,
-  "changeYtdPct": 24.8,
-  "marketCap": "$5.48T",
+  "price": 230.36,
+  "change5dPct": 5.9,
+  "changeYtdPct": 25.6,
+  "marketCap": "$5.59T",
   "pe": 28.0,
   "revenue": "—",
   "revenueYoYPct": 83,
   "prices": [
-    {
-      "t": "2026-03-04",
-      "o": 180.44,
-      "h": 184.7,
-      "l": 180.06,
-      "c": 183.04
-    },
     {
       "t": "2026-03-05",
       "o": 181.17,
@@ -906,127 +899,139 @@
       "h": 230.4,
       "l": 224.75,
       "c": 228.45
+    },
+    {
+      "t": "2026-09-04",
+      "o": 231.14,
+      "h": 234.76,
+      "l": 229.63,
+      "c": 230.36
     }
   ],
   "thesis": {
     "bull": [
-      "数据中心与AI基础设施资本开支持续超预期，据市场消息NVDA向摩根大通表示如不受供应约束，营收同比增速可能超过100%，即便按公司自身可实现的约70%增速预估，FY27与FY28营收仍有望大幅扩张，显示下游云厂商与主权AI项目需求依然旺盛",
-      "公司通过收购Hugging Face（约129亿美元）等动作强化软件与开发者生态壁垒，叠加对Intel、Lambda、Mediatek等产业链关键环节的股权与合作布局，试图从纯芯片供应商升级为AI基础设施与生态平台，此前对Intel约50亿美元的投资据报道到6月已升值至约300亿美元，显示其产业投资眼光获得市场认可",
-      "Anthropic与NVDA支持的Lambda签署350亿美元算力协议、Broadcom等友商财报也显示AI芯片需求超预期（Broadcom FY27E约1150亿美元、FY28E约2300亿美元的展望），侧面印证行业整体AI算力需求仍处于供不应求状态，利好NVDA作为行业龙头的订单能见度"
+      "据社交媒体流传的信息，NVDA向摩根大通表示若无供给瓶颈营收增速可能超过100%，目前约70%的官方指引已属保守表述，反映数据中心GPU下游需求持续超出公司自身产能释放能力",
+      "财报公布后出现技术性买入信号，多家财经媒体提及NVDA、美光、SanDisk等AI产业链股票同步走强，黄仁勋在电话会上就AI泡沫质疑做出回应后，市场情绪出现阶段性修复",
+      "美国国会议员佩洛西在2025年末至2026年初多次新建NVDA多头仓位（交易日期2025-12-30及2026-01-16），显示部分掌握信息优势的政治圈人士对公司中期前景维持乐观"
     ],
     "bear": [
-      "NVDA目前占标普500指数权重约8%，为历史罕见的单一公司集中度，一旦AI资本开支周期出现放缓或情绪反转，不仅NVDA本身估值面临大幅波动，还可能引发对大盘整体的连锁冲击，波动风险被市场持续提及",
-      "BlackRock等机构警示AI相关债务融资规模已积累至约1000亿美元级别，叠加英伟达与华尔街机构达成的规模高达5000亿美元的AI算力融资安排，市场担忧数据中心建设是否存在过度杠杆化与循环融资（vendor financing）问题，一旦下游客户现金流或融资条件恶化，可能反噬供应链上游的NVDA",
-      "Broadcom等竞争对手ASIC定制芯片业务增速迅猛（据报道AVGO AI芯片销售同比增长显著），且谷歌、亚马逊、Meta等大客户持续加码自研芯片，长期看NVDA在数据中心AI芯片的市场份额可能面临结构性侵蚀，尽管短期仍保持技术代际优势"
+      "多篇财经报道对AI资本开支的可持续性提出质疑，包括对AI基建投资回报率的怀疑以及大型资管机构对AI相关债务规模（约千亿美元级别）的系统性风险警示",
+      "资金流向出现分化迹象：2026年8月ETF市场整体净流入约1826亿美元，但芯片类基金反而遭遇资金流出，暗示部分机构投资者开始对半导体与AI硬件板块获利了结或降低敞口",
+      "跟踪者披露记录中同期也包含减持退出类交易（标记为trim/exit，交易日期2025-12-24及2024-12-31），说明即便长期看多的投资者也存在阶段性获利了结行为，高估值下股价波动风险不可忽视"
     ],
     "watch": [
-      "Hugging Face收购案的监管审批进展、整合成效及其对NVDA软件与开发者生态战略的实际贡献，需持续跟踪其能否转化为长期护城河而非单纯的防御性收购",
-      "地缘政治与关税政策变化，包括对华AI芯片出口限制、汽车行业要求国会永久禁止中国联网汽车等贸易保护主义动向，以及中东地区冲突升级对能源价格和宏观风险偏好的影响，均可能间接波及NVDA供应链与终端需求",
-      "国会议员（如佩洛西）等跟踪者对NVDA持仓的动态变化，历史上呈现新建仓与获利了结交替出现的模式，需结合其后续披露判断是否代表对AI板块中期趋势的边际信号变化，而非简单的买卖建议"
+      "社交媒体流传NVDA拟以约129.3亿美元收购Hugging Face的消息尚未见官方公告或权威财经媒体独立确认，真实性与交易条款需要进一步核实",
+      "供应链与地缘政治因素值得持续关注：博通、台积电的产能扩张进度，以及欧洲（ASML、蔡司SMT等）、日本（东京电子等）关键半导体设备与材料环节的供给状况，加上中美贸易与出口管制动向，均可能直接影响NVDA的产能释放节奏",
+      "市场对NVDA未来两个财年营收给出约70%增速假设（对应FY27约4010亿美元、FY28约6820亿美元的市场测算），后续需持续跟踪季度实际交付与产能爬坡是否兑现该假设"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA是全球AI计算基础设施的核心供应商，业务涵盖数据中心GPU、网络互联、AI软件平台及近期通过收购Hugging Face等方式向AI开发者生态延伸。公司在标普500指数中权重已升至约8%，成为美股市场表现与整体风险偏好的重要风向标之一，其季度业绩与前瞻指引对科技板块乃至大盘情绪具有显著外溢效应"
+        "body": "NVIDIA是全球领先的GPU与AI加速计算平台提供商，产品线覆盖数据中心训练与推理芯片、网络互联方案及软件生态（如CUDA），是当前生成式AI基础设施建设的核心供应商之一，客户涵盖云计算巨头、企业及主权AI项目"
       },
       {
-        "heading": "业绩与增长驱动",
-        "body": "据市场传闻，NVDA向摩根大通表示若不受供应端约束，营收同比增速理论上可能超过100%，但公司基于自身产能规划给出约70%的增长预期，对应FY27、FY28营收预测分别达到约4010亿美元与6820亿美元的量级。需要说明的是，这类具体数字主要来自社交媒体二手转述，尚未获得公司官方财报或指引证实，存在被夸大或误读的可能，投资者应以公司正式披露为准，谨慎对待未经证实的传闻数据"
+        "heading": "基本面与增长驱动",
+        "body": "公司增长主要由数据中心AI芯片需求驱动，社交媒体流传信息显示公司对下游真实需求的判断显著高于官方指引，官方约70%的增速指引被部分观察者解读为受自身产能约束所致，而非需求不足"
       },
       {
-        "heading": "竞争格局",
-        "body": "Broadcom公布的AI芯片业务展望（FY27E约1150亿美元、FY28E约2300亿美元）显示定制ASIC路线的需求同样强劲，但其股价在财报后仍出现下跌，反映市场对AI芯片赛道整体估值与增长可持续性存在分歧。与此同时，NVDA通过参股Intel、Mediatek等方式扩大产业链影响力，试图巩固生态壁垒，但主要云厂商加速自研芯片的趋势仍是中长期需要关注的结构性变量"
+        "heading": "估值与资金面",
+        "body": "NVDA当前估值反映市场对AI长期需求的高预期，但2026年8月出现芯片类ETF资金流出而整体ETF市场净流入的分化现象，显示部分资金开始对板块集中度和估值水平保持谨慎"
       },
       {
-        "heading": "估值与资金流",
-        "body": "NVDA当前市值与权重处于历史高位，与5000亿美元级AI算力融资安排及机构对AI相关债务规模（据BlackRock估计约1000亿美元）的担忧同时存在，市场对「AI资本开支是否可持续」「是否存在循环融资」等问题存在明显多空分歧。看多者认为需求端（Anthropic、云厂商等）的真实算力缺口仍在扩大，看空者则担忧融资结构脆弱性和潜在的估值泡沫风险"
+        "heading": "多空分歧",
+        "body": "多方观点集中在供给受限反而印证需求旺盛，以及技术面买入信号的出现；空方观点则聚焦AI资本开支回报率存疑、相关债务规模扩大带来的系统性风险，以及机构资金阶段性获利了结的迹象"
       },
       {
-        "heading": "政策与宏观风险",
-        "body": "近期中东地区冲突升级、油价及柴油价格走高，叠加美国对华芯片出口管制、汽车行业呼吁国会立法限制中国联网汽车等贸易保护主义动向，共同构成影响NVDA全球供应链与终端市场准入的宏观与政策不确定性。此外，美联储官员表态（如沃勒）对市场流动性预期产生扰动，间接影响成长股估值中枢"
+        "heading": "跟踪者/内部人动向",
+        "body": "公开披露记录显示，佩洛西在过去两个年度末至次年初的窗口期均新建NVDA多头仓位，同时也伴随部分减持退出交易，整体呈现「逢低加仓、阶段性获利了结」的交易模式，而非单向持续增持"
       },
       {
-        "heading": "跟踪者与市场情绪",
-        "body": "国会议员佩洛西的历史披露显示其对NVDA持仓存在新建仓与部分退出交替出现的模式，2025年初及2026年初的申报均呈现类似节奏，暗示部分政治人物对AI龙头股采取阶段性获利了结而非单向持有的策略。社交媒体上关于NVDA收购、算力合作及供应链动态的讨论热度持续高企，反映市场对该股的关注度与分歧同步上升，投资者宜结合公司官方披露交叉验证相关信息"
+        "heading": "风险与催化剂",
+        "body": "主要风险包括AI资本开支可持续性受质疑、供应链上游设备材料环节的地缘政治不确定性、以及未经证实的并购传闻可能带来的预期差；潜在催化剂则包括产能爬坡进度、下游客户资本开支指引及官方并购公告等"
       }
     ],
     "comparables": [
       {
         "ticker": "AVGO",
-        "name": "Broadcom",
-        "note": "定制AI芯片（ASIC）路线的代表厂商，与NVDA形成部分替代与互补关系，其财报指引可作为观察AI芯片行业整体需求强度的参照"
+        "name": "Broadcom Inc",
+        "note": "AI网络与定制芯片（ASIC）领域重要竞争与合作对象，据报道其AI业务收入指引显著上调，反映行业整体需求扩张"
+      },
+      {
+        "ticker": "TSM",
+        "name": "Taiwan Semiconductor Manufacturing Company",
+        "note": "NVDA先进制程芯片的核心代工厂，其产能扩张与良率进度直接影响NVDA产品交付节奏"
       },
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "数据中心GPU领域的主要竞争者，产品定位与NVDA存在直接竞争，但市场份额与生态成熟度仍有差距"
+        "note": "数据中心GPU领域主要直接竞争对手，产品路线图与市场份额变化是观察NVDA竞争格局的重要参照"
       },
       {
-        "ticker": "TSM",
-        "name": "台湾积体电路制造",
-        "note": "NVDA先进制程芯片的核心代工伙伴，其产能与良率状况直接影响NVDA产品交付能力，二者股价走势具有较强联动性"
+        "ticker": "MU",
+        "name": "Micron Technology",
+        "note": "高带宽内存（HBM）等AI存储核心供应商，与NVDA同属AI硬件产业链，近期股价表现被部分媒体与NVDA一同提及"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-03T23:05:42.128859Z"
+    "generatedAt": "2026-09-04T22:53:13.424280Z"
   },
   "news": [
     {
-      "id": "NVDA-141405193",
-      "title": "Dow Jones Futures: Stocks Jump On Fed's Waller; Tesla Cybercab Event Private, Jobs Report In Focus",
+      "id": "NVDA-141460497",
+      "title": "Dow Jones Futures: Nvidia, Micron, Sandisk Flash Buy Signals; Apple, Inflation Reports Ahead",
       "source": "Yahoo",
-      "publishedAt": "2026-09-03",
-      "url": "https://finnhub.io/api/news?id=6c4204602180674b2508d93e7869f92f085937c882fca0782841a4ced3eac60f",
+      "publishedAt": "2026-09-04",
+      "url": "https://finnhub.io/api/news?id=d03216108133aa4afcbdb834039cee863839189ba8da999efecd7e54466d934e",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141405194",
-      "title": "BioNTech vs. Moderna: Which Is the Better Cancer Vaccine Stock to Buy Now?",
+      "id": "NVDA-141464425",
+      "title": "From Launch Party to Federal Probe: What Went Wrong With Tesla's Cybercab in 24 Hours",
       "source": "Yahoo",
-      "publishedAt": "2026-09-03",
-      "url": "https://finnhub.io/api/news?id=983d26415e41bc791b04d725868b5466a35d03b2fd4a91f0282aba978231dcef",
+      "publishedAt": "2026-09-04",
+      "url": "https://finnhub.io/api/news?id=c60d480af4ed2a78af0d7e2e7e913ee06adfc9a13b5ce57fc4547f9c586cd7fe",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141405180",
-      "title": "Nvidia’s $5 Billion Intel Bet Was Worth $30 Billion by June. Is the Partnership Still Mispriced?",
+      "id": "NVDA-141460507",
+      "title": "Apple's John Ternus needs to be his own type of CEO and 'not Tim Cook 2'",
       "source": "Yahoo",
-      "publishedAt": "2026-09-03",
-      "url": "https://finnhub.io/api/news?id=8316bfe61c35a3736280c7432450477ce7b65b3cb2e2b4370124e71ff192953e",
+      "publishedAt": "2026-09-04",
+      "url": "https://finnhub.io/api/news?id=1d4bd0b4897745f3a22952da8fc4a48ef1e025aad70e9b517ea33bd0cb57526c",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141404231",
-      "title": "HIVE stock pops 14% as crypto market heats up",
+      "id": "NVDA-141464428",
+      "title": "David Tepper Sold 41% of His Micron Shares and It Is Still His Second-Biggest Holding",
       "source": "Yahoo",
-      "publishedAt": "2026-09-03",
-      "url": "https://finnhub.io/api/news?id=680109e22fc10757af3aed5a67c98f9d4aa819c04b27b044844ae2527093b134",
+      "publishedAt": "2026-09-04",
+      "url": "https://finnhub.io/api/news?id=9d3350274a8c6433c826ac5b3e477c01df84cdf5320d257609a47ea71a307de9",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141405181",
-      "title": "Rosenblatt Doubles Down on Nvidia After Massive Deal",
+      "id": "NVDA-141460498",
+      "title": "Jensen Huang Said This Word Exactly 1 Time During Nvidia's Earnings Call, and That Was Enough to Put Artificial Intelligence (AI) Bubble Fears to Rest",
       "source": "Yahoo",
-      "publishedAt": "2026-09-03",
-      "url": "https://finnhub.io/api/news?id=1bf6f8843f780644c22602f7937c87c53524cf9d44b2fc1c010df9e34e549f2b",
+      "publishedAt": "2026-09-04",
+      "url": "https://finnhub.io/api/news?id=a5780ce71208da929d7e94afc0f406ffd8b63c5bfa672682bba81e20d449bd34",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-141405182",
-      "title": "Why Is Oracle Stock Up Today?",
+      "id": "NVDA-141460508",
+      "title": "Marvell Stock Had A Huge Year And Still Sits Well Below Its High",
       "source": "Yahoo",
-      "publishedAt": "2026-09-03",
-      "url": "https://finnhub.io/api/news?id=4f1ab5c5e09861d7f8e8ce73c4e074beefa13245688eb001735ffecff2909fe4",
+      "publishedAt": "2026-09-04",
+      "url": "https://finnhub.io/api/news?id=33a19c727a8e65adfa057a149bcbbd12eabac6a3f64ffc7c9bdb04767afab37c",
       "tags": [
         "NVDA"
       ]
