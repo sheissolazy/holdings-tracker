@@ -3,28 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 319.97,
-  "change5dPct": 0.1,
-  "changeYtdPct": 22.9,
+  "price": 316.22,
+  "change5dPct": -0.2,
+  "changeYtdPct": 21.7,
   "marketCap": "$4.67T",
   "pe": 36.2,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-03-05",
-      "o": 260.79,
-      "h": 261.56,
-      "l": 257.25,
-      "c": 260.29
-    },
-    {
-      "t": "2026-03-06",
-      "o": 258.63,
-      "h": 258.77,
-      "l": 254.37,
-      "c": 257.46
-    },
     {
       "t": "2026-03-09",
       "o": 255.69,
@@ -906,127 +892,134 @@
       "h": 328.93,
       "l": 317.86,
       "c": 319.97
+    },
+    {
+      "t": "2026-09-08",
+      "o": 317.12,
+      "h": 320.7,
+      "l": 314.92,
+      "c": 316.22
     }
   ],
   "thesis": {
     "bull": [
-      "苹果被越来越多分析人士视为「隐性AI股」，其自研芯片与端侧AI能力若在9月9日新品发布会上得到强化，可能成为下一阶段增长叙事，改变市场此前认为苹果在AI浪潮中掉队的看法",
-      "临近的秋季新品发布会被市场视为重要催化剂，若新一代iPhone及配套AI功能超预期，有望刺激换机周期并提振服务与硬件营收",
-      "标普100等主流指数基金近期调仓，将部分传统消费股换为AI相关权重股，苹果作为大盘核心科技股持续获得被动资金配置支撑，资金面存在结构性利好"
+      "苹果新一代iPhone发布会临近，市场预期新机型将搭载更强AI功能与首款折叠屏产品，若换机需求被激活，有望带动硬件销量与服务收入同步增长",
+      "英伟达CEO黄仁勋近期公开表态看好苹果AI前景，产业链联动效应带动市场对苹果AI生态商业化的乐观预期升温",
+      "台积电与ASML等上游厂商在先进制程上的合作有望降低芯片制造成本，若成本红利传导至终端，将有利于苹果硬件毛利率维持稳健"
     ],
     "bear": [
-      "跟踪数据显示佩洛西在2025年12月30日申报中既有新建仓又有清仓动作，且此前2025年10月、2025年1月的申报均以减持为主，政要动向本身呈现多空矛盾，难以形成一致方向性信号",
-      "中东局势持续升级，伊朗与美国及海湾国家冲突不断，若油价如高盛测算冲高至每桶120美元，全球通胀与消费支出压力上升，可能间接抑制苹果终端产品的消费需求",
-      "英伟达、博通、Marvell等AI芯片股近期表现强劲、屡创关注热点，若苹果在自研AI芯片与生成式AI功能上的进展不及预期，其「AI叙事」可能被质疑缺乏足够硬件端突破支撑，估值溢价存在回调风险"
+      "国会议员佩洛西近期多次申报减持苹果股票（2025年12月、2025年10月及2024年12月均有交易记录显示减仓），传递出内部人士对短期估值的谨慎态度，与其新增买入形成分歧信号",
+      "半导体与科技股在今年夏季经历约18%的板块回调，市场对AI相关资本开支是否已透支未来预期、是否存在泡沫风险的担忧尚未消散，情绪面对苹果估值形成压制",
+      "中东地缘局势升级（也门胡塞武装袭击、油价冲高至98美元附近）叠加通胀担忧，宏观风险偏好下降可能拖累消费电子板块整体估值与消费者购买力"
     ],
     "watch": [
-      "9月9日苹果新品发布会上具体披露的AI功能、芯片升级与新硬件定价策略",
-      "佩洛西等政要后续新增申报，观察其对苹果持仓是净增持还是延续减持趋势，以判断政要资金的真实态度",
-      "中东地缘冲突演变及油价走势对全球消费信心、供应链成本乃至科技硬件终端需求的传导路径"
+      "即将举行的苹果发布会上新任CEO John Ternus首次亮相，以及新品定价与市场初期反馈将是检验AI叙事能否落地的关键节点",
+      "AI功能是否能实质性转化为可衡量的换机周期缩短或服务业务ARPU提升，而非仅停留在预期层面",
+      "地缘政治紧张局势、潜在关税及出口管制政策变化对苹果全球供应链（尤其是亚洲制造环节）的潜在冲击"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值领先的消费电子与科技服务公司，核心业务涵盖iPhone、Mac、iPad、可穿戴设备及App Store、Apple Music、iCloud等服务生态，长期依靠品牌溢价与软硬件一体化构建护城河。近期市场关注焦点集中在其即将举行的秋季新品发布会及在生成式AI领域的战略布局进展"
+        "body": "苹果是全球市值最大的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品线以及快速增长的服务业务（App Store、iCloud、Apple Music等）。公司正处于新一轮产品周期节点，即将发布的新款iPhone被市场普遍认为是检验AI功能商业化能力的重要窗口，同时公司高管团队出现新任CEO John Ternus这一潜在变动，为公司战略连续性带来关注点。"
       },
       {
-        "heading": "基本面与估值观察",
-        "body": "苹果的营收结构中服务业务占比持续提升，硬件销售增速趋缓，市场对其估值的支撑更多来自品牌忠诚度、现金流稳定性及潜在的AI功能变现空间。多篇报道将苹果称为「没人叫它AI股的AI股」，反映市场对其AI相关收入尚未形成一致定价，估值分歧客观存在"
-      },
-      {
-        "heading": "政要与内部人动向",
-        "body": "跟踪数据显示，佩洛西在2025年12月30日的申报中同时出现新建仓与清仓记录，且此前2025年10月22日、2025年1月17日的申报均倾向减持。整体来看，其近一年对苹果的操作呈现「边买边卖」的复杂信号，难以简单解读为看多或看空，需结合后续申报动态持续观察"
+        "heading": "财务与估值",
+        "body": "苹果长期维持高毛利率与强劲自由现金流，服务业务占比提升被视为估值支撑的重要逻辑。但在AI资本开支热潮和半导体板块整体回调的背景下，市场对科技巨头估值合理性存在分歧，部分投资者担心AI相关叙事透支了短期业绩预期，另一部分则认为苹果软硬件一体化生态使其在AI变现路径上更具确定性。"
       },
       {
         "heading": "行业与竞争格局",
-        "body": "英伟达CEO黄仁勋近期公开言论被解读为对苹果AI前景的正面评价，带动市场对「苹果AI」概念的关注升温。与此同时，英伟达、博通、Marvell等AI芯片股表现分化，行业资金更多流向AI基础设施与芯片供应链环节，苹果能否将AI热度转化为自身产品竞争力仍有待验证"
+        "body": "当前AI芯片与算力军备竞赛持续升温，英伟达、博通、Marvell、AMD等公司在数据中心与定制芯片领域展开激烈竞争，相关新闻显示投资者正密集比较不同厂商的技术路线与增长前景。苹果虽不直接参与数据中心芯片竞赛，但其终端AI功能能否与云端算力生态形成协同，是决定其在AI浪潮中定位的关键变量。"
       },
       {
-        "heading": "宏观与地缘政治风险",
-        "body": "近期中东地区伊朗与美国及海湾国家的军事摩擦持续升级，市场担忧油价存在冲高至每桶120美元的可能性。若能源价格大幅上涨，可能通过推高全球通胀、压制消费者可支配支出，对苹果这类高度依赖消费终端需求的公司构成间接压力，同时也可能扰动其全球供应链成本结构"
+        "heading": "政策与地缘政治",
+        "body": "近期中东局势明显升级，胡塞武装对沙特多城发动袭击，美国财政部同步加码对伊朗的航空业制裁，叠加原油价格上冲至98美元附近，市场对通胀反弹和全球风险偏好下降的担忧升温。此类宏观与地缘风险可能通过消费者信心、供应链成本及美元汇率等渠道间接影响苹果的销售与利润率。"
       },
       {
-        "heading": "综合观点与分歧总结",
-        "body": "围绕苹果的多空分歧较为明显：看多方强调即将到来的新品发布会与AI功能升级可能重塑增长叙事，叠加指数基金调仓带来的被动资金支撑；看空方则指出政要申报数据本身信号混杂、地缘政治与油价风险可能拖累消费需求，且苹果在AI硬件层面的竞争力尚未被市场充分验证。投资者应结合9月9日发布会的实际内容及后续宏观数据变化，动态评估上述分歧的演变方向"
+        "heading": "跟踪者动向解读",
+        "body": "公开披露显示，国会议员佩洛西在过去一年多次交易苹果股票，其中2025年12月30日申报中同时出现新增持仓与减持记录，而此前2025年10月及2024年12月的申报均以减持为主，整体呈现谨慎而非单边乐观的信号。与此同时，产业界人物（如英伟达CEO）对苹果AI前景的公开积极评价，与国会内部人士的减仓行为形成一定信息分歧，投资者可结合自身判断权衡两类信号的参考价值。"
+      },
+      {
+        "heading": "风险与展望",
+        "body": "综合来看，苹果面临的核心变量包括新品发布后的市场反馈、AI功能能否转化为实际业绩增量、半导体板块估值波动的传导效应，以及中东地缘冲突和通胀预期对整体风险偏好的影响。看多逻辑集中于产品创新周期与AI生态潜力，看空逻辑则聚焦于估值透支风险与宏观不确定性，投资者应持续关注发布会后的实际销售数据与宏观局势演变。"
       }
     ],
     "comparables": [
       {
         "ticker": "NVDA",
         "name": "英伟达",
-        "note": "AI芯片与算力龙头，其CEO近期言论直接带动市场对苹果AI概念的关注，可作为AI产业链景气度的参照"
-      },
-      {
-        "ticker": "AVGO",
-        "name": "博通",
-        "note": "AI芯片与网络互联领域重要参与者，近期与Marvell等同业被反复对比，反映AI硬件层竞争格局的演变"
+        "note": "AI算力龙头，其管理层言论近期直接提振市场对苹果AI前景的乐观情绪，是观察AI产业链联动效应的重要参照"
       },
       {
         "ticker": "MRVL",
-        "name": "Marvell",
-        "note": "AI互联与定制芯片厂商，被媒体与博通并列讨论，可用于观察AI芯片赛道内部的强弱分化对科技板块整体情绪的影响"
+        "name": "Marvell Technology",
+        "note": "定制AI芯片领域的代表性公司，近期与博通等展开对比讨论，可作为半导体板块估值波动的参照对象"
+      },
+      {
+        "ticker": "AMD",
+        "name": "超威半导体",
+        "note": "在AI与高性能计算领域持续扩大收入规模，与苹果同处消费电子与半导体产业链上下游，可用于观察行业景气度变化"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-07T23:24:15.182577Z"
+    "generatedAt": "2026-09-08T23:17:55.556171Z"
   },
   "news": [
     {
-      "id": "AAPL-141763725",
-      "title": "There Are Only a Handful of Nasdaq-100 Stocks That Yield Over 3%. Here's My Top Pick to Buy Now.",
+      "id": "AAPL-141954985",
+      "title": "Dow Jones Futures: Dow Breaks Support But AMD, HPE Are New Buys; Apple iPhone Event Due",
       "source": "Yahoo",
-      "publishedAt": "2026-09-07",
-      "url": "https://finnhub.io/api/news?id=2174d70a766081bdd8a73346df33a60a96c42372d1e9faef2a5fadd7bbf61936",
+      "publishedAt": "2026-09-08",
+      "url": "https://finnhub.io/api/news?id=47d7a5442d85da8949b607aaab8abb9b545af247f0005bb552c9baf620801bbd",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141763751",
-      "title": "Is Apple Stock a Buy Now Ahead of its Product Launch Event?",
+      "id": "AAPL-141954986",
+      "title": "Prop Industry Leader The5ers Brings Single Stock Futures via CME Feed",
       "source": "Yahoo",
-      "publishedAt": "2026-09-07",
-      "url": "https://finnhub.io/api/news?id=3ee56adc580aeb1cfdce31ba37534e7d5f9b8531f9126d2dfb8877003cf73321",
+      "publishedAt": "2026-09-08",
+      "url": "https://finnhub.io/api/news?id=ad5a14d387fd40330dc15ab94d4d4d20bc067fa4028270991852405c7ba0517e",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141763616",
-      "title": "The S&P 100 ETF Just Dumped Nike and Colgate for 4 AI Stocks. Here’s What That Means for Your Portfolio",
+      "id": "AAPL-141955010",
+      "title": "Is Dell Making Money Where You Think It Is?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-07",
-      "url": "https://finnhub.io/api/news?id=42fbcd571f4e0ff319ea17c0fe94bd2d9085859a6a211459ff345ebc0a878b0d",
+      "publishedAt": "2026-09-08",
+      "url": "https://finnhub.io/api/news?id=6f01cbbf31a44e05c2a79df4830a60f01a057108063fef79c3e2516e7d80b721",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141763434",
-      "title": "Apple Just Made a Move Most Investors Overlooked. This Is Why I Keep Buying The Stock",
+      "id": "AAPL-141955004",
+      "title": "Apple Is Set to Reveal New iPhones Wednesday—Here’s What You Need to Know",
       "source": "Yahoo",
-      "publishedAt": "2026-09-07",
-      "url": "https://finnhub.io/api/news?id=159511197735622223a1ac598a177a9d78adfa4368e7ee238e0652b15dcff7aa",
+      "publishedAt": "2026-09-08",
+      "url": "https://finnhub.io/api/news?id=5dd1ac7b2cf74b799c031f765d204a7960cb585a8d27a66aae0ee826aa9e5345",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141762760",
-      "title": "Why Apple May Be the Safest AI Stock Nobody Calls an AI Stock",
+      "id": "AAPL-141955005",
+      "title": "Apple event expected to debut foldable iPhone and new CEO John Ternus",
       "source": "Yahoo",
-      "publishedAt": "2026-09-07",
-      "url": "https://finnhub.io/api/news?id=e4892590c0acf4caf6687e6804e32ca4e16379ef5abc4560a18eb47e8d755755",
+      "publishedAt": "2026-09-08",
+      "url": "https://finnhub.io/api/news?id=6114e523b7b7777133c1a8f7bfa88b5459a5b347717706a20ee666fd82e702cb",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141762761",
-      "title": "Apple’s Sept. 9 Event Could Change Everything",
+      "id": "AAPL-141955006",
+      "title": "AMD, Amgen, Novartis, Qualcomn, Corning, and More Stocks That Explain Today’s Market",
       "source": "Yahoo",
-      "publishedAt": "2026-09-07",
-      "url": "https://finnhub.io/api/news?id=7c46515f3e0360d092fa73827d57f18f53306c6242bdeedafe81ba35a78d0a87",
+      "publishedAt": "2026-09-08",
+      "url": "https://finnhub.io/api/news?id=d2230444116caaee267ba7fa13217fd189e5ab1e2ca883b2705ce76e6663f6e2",
       "tags": [
         "AAPL"
       ]
