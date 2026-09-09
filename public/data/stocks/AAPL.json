@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 316.22,
-  "change5dPct": -0.2,
-  "changeYtdPct": 21.7,
-  "marketCap": "$4.67T",
+  "price": 315.34,
+  "change5dPct": -3.0,
+  "changeYtdPct": 20.9,
+  "marketCap": "$4.61T",
   "pe": 36.2,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-03-09",
-      "o": 255.69,
-      "h": 261.15,
-      "l": 253.68,
-      "c": 259.88
-    },
     {
       "t": "2026-03-10",
       "o": 257.65,
@@ -895,131 +888,161 @@
     },
     {
       "t": "2026-09-08",
-      "o": 317.12,
+      "o": 317.1,
       "h": 320.7,
-      "l": 314.92,
+      "l": 314.9,
       "c": 316.22
+    },
+    {
+      "t": "2026-09-09",
+      "o": 315.41,
+      "h": 319.15,
+      "l": 309.9,
+      "c": 315.34
     }
   ],
   "thesis": {
     "bull": [
-      "苹果新一代iPhone发布会临近，市场预期新机型将搭载更强AI功能与首款折叠屏产品，若换机需求被激活，有望带动硬件销量与服务收入同步增长",
-      "英伟达CEO黄仁勋近期公开表态看好苹果AI前景，产业链联动效应带动市场对苹果AI生态商业化的乐观预期升温",
-      "台积电与ASML等上游厂商在先进制程上的合作有望降低芯片制造成本，若成本红利传导至终端，将有利于苹果硬件毛利率维持稳健"
+      {
+        "point": "新一代iPhone 18 Pro与首款可折叠iPhone Duo已正式发布，产品线时隔多年迎来重大形态创新，市场解读为苹果在乔布斯式产品驱动策略上的回归，或提振换机周期"
+      },
+      {
+        "point": "英伟达CEO黄仁勋公开表态对苹果AI寄予厚望，带动市场对苹果AI战略与端侧大模型应用前景的乐观预期，叠加苹果AI功能持续迭代"
+      },
+      {
+        "point": "新任产品负责人约翰·特恩斯主导的发布会获得外界积极评价，被认为准确把握了本次发布的核心叙事，有助于维持品牌创新形象与投资者信心"
+      }
     ],
     "bear": [
-      "国会议员佩洛西近期多次申报减持苹果股票（2025年12月、2025年10月及2024年12月均有交易记录显示减仓），传递出内部人士对短期估值的谨慎态度，与其新增买入形成分歧信号",
-      "半导体与科技股在今年夏季经历约18%的板块回调，市场对AI相关资本开支是否已透支未来预期、是否存在泡沫风险的担忧尚未消散，情绪面对苹果估值形成压制",
-      "中东地缘局势升级（也门胡塞武装袭击、油价冲高至98美元附近）叠加通胀担忧，宏观风险偏好下降可能拖累消费电子板块整体估值与消费者购买力"
+      {
+        "point": "国会议员佩洛西相关披露显示近几个季度对苹果持仓多次减持（2025年10月、2025年12月及此前2024年底均有清仓性质交易），仅在2025年12月末出现一笔新建仓，操作方向不一，反映专业投资者对后市判断存在分歧"
+      },
+      {
+        "point": "宏观环境承压：中东局势升级、布伦特原油突破每桶100美元、美股道指单日大跌逾600点，通胀数据发布前市场情绪偏向恐慌，科技成长股估值面临压缩风险"
+      },
+      {
+        "point": "折叠屏形态为苹果首次尝试，良率、定价、供应链成熟度及消费者接受度均存不确定性，同时华为在美刑事诉讼案凸显中国市场竞争与地缘政治摩擦仍是长期变量"
+      }
     ],
     "watch": [
-      "即将举行的苹果发布会上新任CEO John Ternus首次亮相，以及新品定价与市场初期反馈将是检验AI叙事能否落地的关键节点",
-      "AI功能是否能实质性转化为可衡量的换机周期缩短或服务业务ARPU提升，而非仅停留在预期层面",
-      "地缘政治紧张局势、潜在关税及出口管制政策变化对苹果全球供应链（尤其是亚洲制造环节）的潜在冲击"
+      {
+        "point": "iPhone Duo折叠屏及iPhone 18 Pro的实际市场反馈、预售数据与首批评测口碑，将决定本轮产品周期能否转化为实质销量增长"
+      },
+      {
+        "point": "美国通胀数据及美联储政策路径，将影响科技股估值倍数与整体风险偏好，进而传导至苹果股价表现"
+      },
+      {
+        "point": "中东冲突及油价走势对全球消费信心与供应链成本的潜在影响，以及华为反垄断刑事案件进展对中国市场竞争格局的长期意义"
+      }
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值最大的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品线以及快速增长的服务业务（App Store、iCloud、Apple Music等）。公司正处于新一轮产品周期节点，即将发布的新款iPhone被市场普遍认为是检验AI功能商业化能力的重要窗口，同时公司高管团队出现新任CEO John Ternus这一潜在变动，为公司战略连续性带来关注点。"
+        "body": "苹果公司是全球市值领先的消费电子与服务生态企业，核心产品包括iPhone、Mac、iPad、可穿戴设备及App Store、iCloud、Apple Music等服务业务。近期最重要的进展是发布新一代iPhone 18 Pro以及公司首款可折叠形态产品iPhone Duo，并搭载AI能力升级，此次发布会由新任产品负责人约翰·特恩斯主导，被媒体认为延续了史蒂夫·乔布斯时代的产品叙事策略"
       },
       {
-        "heading": "财务与估值",
-        "body": "苹果长期维持高毛利率与强劲自由现金流，服务业务占比提升被视为估值支撑的重要逻辑。但在AI资本开支热潮和半导体板块整体回调的背景下，市场对科技巨头估值合理性存在分歧，部分投资者担心AI相关叙事透支了短期业绩预期，另一部分则认为苹果软硬件一体化生态使其在AI变现路径上更具确定性。"
+        "heading": "业务与产品动态",
+        "body": "本次发布是苹果硬件产品线多年来最大幅度的形态创新，折叠屏产品的推出标志着公司正式进入这一此前由三星等厂商主导的品类。市场普遍关注该产品能否复制iPhone历史上的换机潮效应，同时AI功能的持续加码也是本轮产品周期的重要卖点，英伟达CEO黄仁勋公开表态看好苹果AI布局，为市场情绪提供一定支撑"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "当前AI芯片与算力军备竞赛持续升温，英伟达、博通、Marvell、AMD等公司在数据中心与定制芯片领域展开激烈竞争，相关新闻显示投资者正密集比较不同厂商的技术路线与增长前景。苹果虽不直接参与数据中心芯片竞赛，但其终端AI功能能否与云端算力生态形成协同，是决定其在AI浪潮中定位的关键变量。"
+        "heading": "资金与关注度动向",
+        "body": "公开披露显示，国会议员佩洛西相关账户在过去一年多次调整苹果持仓，既有清仓性质的减持（2024年底、2025年10月及12月），也有2025年12月末的一笔新建仓，交易方向并不一致，反映出即便是掌握更多信息优势的机构或个人投资者，对苹果中长期走势判断也存在分歧，不宜简单解读为单一方向的信号"
       },
       {
-        "heading": "政策与地缘政治",
-        "body": "近期中东局势明显升级，胡塞武装对沙特多城发动袭击，美国财政部同步加码对伊朗的航空业制裁，叠加原油价格上冲至98美元附近，市场对通胀反弹和全球风险偏好下降的担忧升温。此类宏观与地缘风险可能通过消费者信心、供应链成本及美元汇率等渠道间接影响苹果的销售与利润率。"
+        "heading": "宏观与行业环境",
+        "body": "当前宏观背景较为复杂：中东地缘冲突持续升级，布伦特原油价格升破每桶100美元，美国国债买回操作与通胀数据即将公布，道指近期出现单日超600点的大幅回调，市场恐慌情绪指数处于「恐惧」区间。这类宏观波动通常会放大科技成长股的估值敏感度，苹果作为权重股难以完全独立于大盘系统性风险之外"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "公开披露显示，国会议员佩洛西在过去一年多次交易苹果股票，其中2025年12月30日申报中同时出现新增持仓与减持记录，而此前2025年10月及2024年12月的申报均以减持为主，整体呈现谨慎而非单边乐观的信号。与此同时，产业界人物（如英伟达CEO）对苹果AI前景的公开积极评价，与国会内部人士的减仓行为形成一定信息分歧，投资者可结合自身判断权衡两类信号的参考价值。"
+        "heading": "竞争与供应链",
+        "body": "在中国市场，华为在美刑事诉讼案的开庭进一步凸显中美科技竞争与监管摩擦的长期性，可能间接影响苹果在中国市场的品牌与政策环境。同时，供应链相关公司如高通、Marvell等在AI与半导体领域的动态也从侧面反映出整个消费电子与半导体产业链景气度的变化，值得持续观察其与苹果零部件采购、成本结构的联动关系"
       },
       {
-        "heading": "风险与展望",
-        "body": "综合来看，苹果面临的核心变量包括新品发布后的市场反馈、AI功能能否转化为实际业绩增量、半导体板块估值波动的传导效应，以及中东地缘冲突和通胀预期对整体风险偏好的影响。看多逻辑集中于产品创新周期与AI生态潜力，看空逻辑则聚焦于估值透支风险与宏观不确定性，投资者应持续关注发布会后的实际销售数据与宏观局势演变。"
+        "heading": "多空分歧总结",
+        "body": "综合来看，市场对苹果的分歧主要集中在两方面：其一是新产品周期（尤其是折叠屏形态）能否真正驱动销量与利润的实质性增长，还是仅停留在概念与话题层面；其二是在当前高波动的宏观与地缘政治环境下，苹果的高估值是否具备足够的安全边际。公开披露的机构性交易方向不一，也印证了这种分歧的存在，投资者需持续跟踪产品销售数据与宏观流动性环境的变化"
       }
     ],
     "comparables": [
       {
-        "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "AI算力龙头，其管理层言论近期直接提振市场对苹果AI前景的乐观情绪，是观察AI产业链联动效应的重要参照"
+        "ticker": "005930.KS",
+        "name": "三星电子",
+        "note": "折叠屏手机领域的先发厂商，iPhone Duo的推出使其成为苹果在这一细分品类的直接竞争对手"
+      },
+      {
+        "ticker": "QCOM",
+        "name": "高通",
+        "note": "智能手机核心芯片与通信技术供应商，其业务表现可侧面反映智能手机产业链景气度"
       },
       {
         "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "定制AI芯片领域的代表性公司，近期与博通等展开对比讨论，可作为半导体板块估值波动的参照对象"
+        "name": "Marvell科技",
+        "note": "AI与数据中心半导体供应商，近期多次上调增长指引，可作为观察AI硬件产业链需求强弱的参照"
       },
       {
-        "ticker": "AMD",
-        "name": "超威半导体",
-        "note": "在AI与高性能计算领域持续扩大收入规模，与苹果同处消费电子与半导体产业链上下游，可用于观察行业景气度变化"
+        "ticker": "MSFT",
+        "name": "微软",
+        "note": "在AI软硬件生态布局上与苹果形成对比，可用于比较不同科技巨头的AI战略路径与估值水平"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-08T23:17:55.556171Z"
+    "generatedAt": "2026-09-09T23:06:09.621050Z"
   },
   "news": [
     {
-      "id": "AAPL-141954985",
-      "title": "Dow Jones Futures: Dow Breaks Support But AMD, HPE Are New Buys; Apple iPhone Event Due",
+      "id": "AAPL-142029708",
+      "title": "Dow Jones Futures: Oil Prices, Yields Hit Stocks, Apple Unfolds iPhone. Inflation Data Due.",
       "source": "Yahoo",
-      "publishedAt": "2026-09-08",
-      "url": "https://finnhub.io/api/news?id=47d7a5442d85da8949b607aaab8abb9b545af247f0005bb552c9baf620801bbd",
+      "publishedAt": "2026-09-09",
+      "url": "https://finnhub.io/api/news?id=e246f81492c8b86b3a9b20eb085588232fdf1ba9f3209a2ab8d0a9ac6ecb8686",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141954986",
-      "title": "Prop Industry Leader The5ers Brings Single Stock Futures via CME Feed",
+      "id": "AAPL-142029706",
+      "title": "How John Ternus understood the assignment in the Apple launch event opener",
       "source": "Yahoo",
-      "publishedAt": "2026-09-08",
-      "url": "https://finnhub.io/api/news?id=ad5a14d387fd40330dc15ab94d4d4d20bc067fa4028270991852405c7ba0517e",
+      "publishedAt": "2026-09-09",
+      "url": "https://finnhub.io/api/news?id=fbfdacfd335c34cc13695b7f5d965de4135eef511af71c77db5b2656bf43cbde",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141955010",
-      "title": "Is Dell Making Money Where You Think It Is?",
+      "id": "AAPL-142029701",
+      "title": "Apple Releases the iPhone 18 Pro Lineup and the Foldable iPhone Duo. Do These New Products Signal a Golden Age of Product Innovation Under CEO John Ternus?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-08",
-      "url": "https://finnhub.io/api/news?id=6f01cbbf31a44e05c2a79df4830a60f01a057108063fef79c3e2516e7d80b721",
+      "publishedAt": "2026-09-09",
+      "url": "https://finnhub.io/api/news?id=07e764c750f3dd8b21631c04b640f0636fcefa3a54f807830cd190ca9edc0bb9",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141955004",
-      "title": "Apple Is Set to Reveal New iPhones Wednesday—Here’s What You Need to Know",
+      "id": "AAPL-142029710",
+      "title": "Stock Market Today, Sept. 9: Apple Unveils iPhone Duo Foldable and iPhone 18 Pro with AI Upgrades",
       "source": "Yahoo",
-      "publishedAt": "2026-09-08",
-      "url": "https://finnhub.io/api/news?id=5dd1ac7b2cf74b799c031f765d204a7960cb585a8d27a66aae0ee826aa9e5345",
+      "publishedAt": "2026-09-09",
+      "url": "https://finnhub.io/api/news?id=9dd6f77af6d75e57041ff7cee8092c7d12025e51237e1f236d61912aeb04e066",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141955005",
-      "title": "Apple event expected to debut foldable iPhone and new CEO John Ternus",
+      "id": "AAPL-142029711",
+      "title": "iPhone Duo first impressions review: How it actually feels to fold an iPhone",
       "source": "Yahoo",
-      "publishedAt": "2026-09-08",
-      "url": "https://finnhub.io/api/news?id=6114e523b7b7777133c1a8f7bfa88b5459a5b347717706a20ee666fd82e702cb",
+      "publishedAt": "2026-09-09",
+      "url": "https://finnhub.io/api/news?id=e3b01bffb0633a0b48e17b6140037e67f23f10f19c80249bea94f0c3671e3662",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-141955006",
-      "title": "AMD, Amgen, Novartis, Qualcomn, Corning, and More Stocks That Explain Today’s Market",
+      "id": "AAPL-142029712",
+      "title": "Apple’s new CEO is reviving a Steve Jobs strategy from 25 years ago",
       "source": "Yahoo",
-      "publishedAt": "2026-09-08",
-      "url": "https://finnhub.io/api/news?id=d2230444116caaee267ba7fa13217fd189e5ab1e2ca883b2705ce76e6663f6e2",
+      "publishedAt": "2026-09-09",
+      "url": "https://finnhub.io/api/news?id=dfa13ae2da9d5d8edfd87c1f7ad394fb82f70134716cd34c8e848747cf1024d2",
       "tags": [
         "AAPL"
       ]

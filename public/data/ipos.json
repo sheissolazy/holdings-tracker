@@ -2,13 +2,25 @@
   {
     "ticker": "PTT",
     "name": "SIYATA PTT",
-    "date": "2026-09-08",
+    "date": "2026-09-30",
     "priceRange": [
       0,
       0
     ],
     "sector": "—",
     "exchange": "NASDAQ Capital",
+    "status": "expected"
+  },
+  {
+    "ticker": "HNUC",
+    "name": "Holtec Nuclear Corp",
+    "date": "2026-09-18",
+    "priceRange": [
+      15.0,
+      18.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ",
     "status": "expected"
   }
 ]
