@@ -398,37 +398,38 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-09-06",
+    "asOf": "2026-09-10",
     "sentiment": "watch",
-    "excerpt": "Trump cheers strong jobs report, calls for lower interest rates: https:// justthenews.com/politics-polic y/trump-cheers-strong-jobs-report-calls-lower-interest-rates",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117227003669020660",
-    "ticker": "",
+    "excerpt": "Tesla self-driving is awesome",
+    "postUrl": "https://x.com/elonmusk/status/2098052817391092113",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-09",
+    "sentiment": "watch",
+    "excerpt": "Wow, HBM reportedly drove up AI accelerator/card prices by 20-50% in China.\n\nSo $SKHY, Samsung, $MU, should be happy to hear this:\n\n- Huawei has raised indicated pricing for the Ascend 950DT 20–50% above quotes from just 2 months ago\n\n- Cam",
+    "postUrl": "https://x.com/aleabitoreddit/status/2097937708178186303",
+    "ticker": "MU",
     "topics": [
-      "美联储/利率",
-      "经济数据"
+      "通胀"
     ]
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-09-09",
     "sentiment": "watch",
-    "excerpt": "If you want to reach the smartest people in the world, advertise on 𝕏",
-    "postUrl": "https://x.com/elonmusk/status/2097753657714573749",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "musk",
-    "type": "social",
-    "asOf": "2026-09-09",
-    "sentiment": "watch",
-    "excerpt": "Gutless Gibney’s fatal flaw of fabricating a false film",
-    "postUrl": "https://x.com/elonmusk/status/2097747100473970711",
-    "ticker": "",
-    "topics": []
+    "excerpt": "Wow, HBM reportedly drove up AI accelerator/card prices by 20-50% in China.\n\nSo $SKHY, Samsung, $MU, should be happy to hear this:\n\n- Huawei has raised indicated pricing for the Ascend 950DT 20–50% above quotes from just 2 months ago\n\n- Cam",
+    "postUrl": "https://x.com/aleabitoreddit/status/2097937708178186303",
+    "ticker": "SKHY",
+    "topics": [
+      "通胀"
+    ]
   },
   {
     "personId": "serenity",
@@ -706,70 +707,6 @@
     "excerpt": "I don’t think I want to be in this timeline anymore. \n\nWe got AGI with Astra and Hunter Biden $LAPTOP in the same weekend.",
     "postUrl": "https://x.com/aleabitoreddit/status/2097005818302607682",
     "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-07",
-    "sentiment": "watch",
-    "excerpt": "Uhh chat, did we accidentally AI bottleneck-pill Warren Buffett's $BRK.B successor Greg Abel? https://t.co/FnHS87s6XN",
-    "postUrl": "https://x.com/aleabitoreddit/status/2096933313785242098",
-    "ticker": "BRK",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-07",
-    "sentiment": "watch",
-    "excerpt": "New report from Bloomberg on $IQE:\n\n“indium phosphide substrates is emerging as a key risk for the semiconductor industry.”\n\nI wonder who could have guessed this last year with $AXTI? https://t.co/ETW7Y2Pz7z",
-    "postUrl": "https://x.com/aleabitoreddit/status/2096904209371427277",
-    "ticker": "AXTI",
-    "topics": [
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-07",
-    "sentiment": "watch",
-    "excerpt": "New report from Bloomberg on $IQE:\n\n“indium phosphide substrates is emerging as a key risk for the semiconductor industry.”\n\nI wonder who could have guessed this last year with $AXTI? https://t.co/ETW7Y2Pz7z",
-    "postUrl": "https://x.com/aleabitoreddit/status/2096904209371427277",
-    "ticker": "IQE",
-    "topics": [
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-07",
-    "sentiment": "watch",
-    "excerpt": "I'll let you decide that for yourself since that was an illustrative laser revenue modeling off $SIVE 100M CW DFB laser/year target. \n\nBut... do you want to know the main reason I like laser companies so much?\n\nThey don't just have to stay ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2096890295128625153",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-07",
-    "sentiment": "watch",
-    "excerpt": "I'll let you decide that for yourself since that was an illustrative laser revenue modeling off $SIVE 100M CW DFB laser/year target. \n\nBut... do you want to know the main reason I like laser companies so much?\n\nThey don't just have to stay ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2096890295128625153",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-07",
-    "sentiment": "watch",
-    "excerpt": "I'll let you decide that for yourself since that was an illustrative laser revenue modeling off $SIVE 100M CW DFB laser/year target. \n\nBut... do you want to know the main reason I like laser companies so much?\n\nThey don't just have to stay ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2096890295128625153",
-    "ticker": "SIVE",
     "topics": []
   },
   {

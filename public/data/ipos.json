@@ -12,6 +12,18 @@
     "status": "expected"
   },
   {
+    "ticker": "OIG",
+    "name": "Orion180 Insurance Group Inc.",
+    "date": "2026-09-18",
+    "priceRange": [
+      15.0,
+      17.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global Select",
+    "status": "expected"
+  },
+  {
     "ticker": "HNUC",
     "name": "Holtec Nuclear Corp",
     "date": "2026-09-18",
