@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 326.57,
-  "change5dPct": 0.5,
-  "changeYtdPct": 25.2,
-  "marketCap": "$4.60T",
-  "pe": 35.4,
+  "price": 332.27,
+  "change5dPct": 1.2,
+  "changeYtdPct": 29.9,
+  "marketCap": "$4.89T",
+  "pe": 36.8,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-03-11",
-      "o": 261.09,
-      "h": 262.13,
-      "l": 259.55,
-      "c": 260.81
-    },
     {
       "t": "2026-03-12",
       "o": 258.66,
@@ -895,131 +888,138 @@
     },
     {
       "t": "2026-09-10",
-      "o": 316.79,
-      "h": 326.68,
-      "l": 316.57,
+      "o": 316.67,
+      "h": 326.74,
+      "l": 316.51,
       "c": 326.57
+    },
+    {
+      "t": "2026-09-11",
+      "o": 327.63,
+      "h": 336.22,
+      "l": 326.3,
+      "c": 332.27
     }
   ],
   "thesis": {
     "bull": [
-      "iPhone 18 系列及新款折叠屏「iPhone Duo」定价虽高但据分析师预测销量强劲，硬件驱动的换机周期有望支撑营收增长，Rogers 等运营商已同步上架显示渠道备货积极",
-      "三星被迫在折叠屏定价上采取防御姿态（对比苹果约1999美元的折叠新品），显示苹果在高端智能手机市场的品牌溢价与定价权依然稳固",
-      "英伟达CEO黄仁勋近期公开言论提振市场对苹果AI能力的预期，若苹果在设备端AI功能上有实质性突破，可能成为新的增长叙事"
+      "公司现金流与生态系统粘性依旧稳固，服务业务占比持续提升，为整体毛利率提供支撑",
+      "市场对苹果在AI领域的想象空间仍在，英伟达CEO黄仁勋近期公开言论一度带动市场对苹果AI应用前景的乐观情绪",
+      "折叠屏iPhone Duo等新品发布显示公司仍在尝试打开高端硬件新品类，若被市场接受可打开新的增长曲线"
     ],
     "bear": [
-      "跟踪者动向显示佩洛西家族账户在2024年底至2025年底期间多次减持或清仓AAPL相关头寸（trim/exit居多），仅在2025年12月底出现一笔新建仓记录，信号本身存在矛盾，需谨慎解读为分歧而非一致看空看多",
-      "苹果在印度市场大幅上调售价（最高达40%），测试当地消费者忠诚度，若价格敏感型新兴市场需求走弱，可能拖累苹果全球化增长战略",
-      "宏观环境承压：原油价格单日跳涨约6%、美国柴油价格突破每加仑6美元、美债收益率触及19年新高，输入性通胀与高利率环境可能抑制消费电子类可选消费支出，纳斯达克100指数已因此走弱"
+      "国会议员佩洛西在2025年底至2026年初的多份PTR披露中出现减持与清仓动作，且此前2024年底与2025年10月也有连续减持记录，显示部分知情投资者对估值或前景趋于谨慎",
+      "1999美元的折叠iPhone Duo定价偏高，多家分析师质疑其大众市场接受度，若销量不及预期可能拖累新品周期叙事",
+      "智能手机行业竞争加剧，AI相关资本开支热潮更多集中在英伟达博通等芯片与云基础设施厂商，苹果在生成式AI应用层面的落地进度和差异化仍待验证"
     ],
     "watch": [
-      "美联储9月议息会议决定及其对成长股估值的影响，市场普遍将其列为近期关键宏观变量",
-      "中东地缘政治局势持续紧张（伊朗核问题、地区制裁、代理人网络冲突），若原油价格进一步走高，可能通过通胀与消费信心渠道间接影响苹果终端需求",
-      "「硬件优先于AI功能」的产品策略能否在2026年新品周期中持续吸引消费者，以及苹果在设备端AI功能上的实际落地进展"
+      "折叠iPhone Duo后续销量数据与渠道反馈，将是判断公司能否延续硬件创新溢价的关键指标",
+      "国会议员及机构投资者后续披露的持仓变动，尤其是佩洛西是否延续减持趋势",
+      "宏观层面油价地缘冲突与利率波动对消费电子需求与整体风险偏好的传导效应"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值最高的消费电子公司之一，核心业务涵盖iPhone、Mac、iPad、可穿戴设备及服务业务（App Store、iCloud、Apple Music等）。公司以硬件与软件生态的高度整合、强品牌忠诚度和庞大的全球分销网络著称，服务业务近年来成为利润率提升的重要驱动力"
+        "body": "苹果是全球领先的消费电子与服务公司，核心产品线包括iPhone iPad Mac可穿戴设备以及App Store云服务广告等服务业务。公司凭借硬件生态与软件服务的深度绑定构建了较高的用户粘性和品牌溢价，长期是全球市值最高的公司之一"
       },
       {
-        "heading": "近期产品动态",
-        "body": "公开报道显示苹果正在推进新一代iPhone 18系列（含18 Pro、18 Pro Max）以及备受关注的折叠屏新品「iPhone Duo」，定价区间据报道可高达约3200美元。分析师预测该折叠机型尽管重量与售价较高，仍有望成为热门单品，同时带动三星在折叠屏市场转向防御性定价，反映出苹果新品发布对行业竞争格局的外溢影响"
+        "heading": "业务与增长驱动",
+        "body": "iPhone仍是营收支柱，但服务业务近年增速更快毛利率更高，正在成为盈利结构中的重要支撑。公司近期推出定价1999美元的折叠iPhone Duo，试图开拓高端硬件新品类，但市场对其大众化接受度存在分歧。生成式AI浪潮下，市场也在观察苹果能否将其生态优势转化为AI应用层面的差异化能力"
       },
       {
-        "heading": "区域市场与定价策略",
-        "body": "苹果在印度市场大幅上调产品售价（最高40%），此举被媒体解读为对当地消费者忠诚度的一次考验。印度作为苹果近年重点拓展的新兴市场，其定价策略的调整可能在短期内影响销量增速，也反映出苹果在关税、供应链成本及本地化战略间的权衡"
+        "heading": "近期新闻与产品动态",
+        "body": "公开报道显示苹果股价近期跑赢大盘，市场对其新品与整体科技板块情绪偏乐观。同时折叠屏新品发布引发分析师对定价策略和市场需求的质疑，反映出创新品类商业化路径仍存在不确定性。宏观层面油价地缘局势与通胀数据波动也在影响包括苹果在内的大盘科技股风险偏好"
       },
       {
-        "heading": "跟踪者与内部人动向",
-        "body": "公开披露记录显示，佩洛西关联账户对AAPL的交易呈现多次减持（trim）与清仓（exit）记录，时间跨度自2024年底至2025年底，仅2025年12月30日出现一笔新建仓（new）记录。整体信号方向不完全一致，存在多空分歧，不宜简单解读为单一看空或看多立场；黄仁勋近期公开言论也被市场解读为对苹果AI叙事的间接利好，但缺乏具体产品细节支撑"
+        "heading": "资金与跟踪者动向",
+        "body": "公开披露显示，国会议员佩洛西在2025年12月末的PTR中同时出现新建多头仓位与减持清仓的记录，此外2025年10月及2024年底也有连续减持动作，整体呈现谨慎甚至逐步降低敞口的倾向。同时英伟达CEO黄仁勋的公开言论一度带动市场对苹果AI相关前景的乐观预期，显示不同信息源对公司前景的解读并不一致"
       },
       {
-        "heading": "宏观与行业环境",
-        "body": "近期宏观面呈现多重压力：原油价格急剧上涨（单日涨幅约6%）、美国柴油价格突破每加仑6美元、美债收益率升至19年高位，叠加中东地缘政治紧张局势（伊朗核问题、地区制裁），纳斯达克100等成长股指数已现回调。同时，AI硬件领域（如HBM存储、AI服务器）持续受资金关注，苹果能否在这一叙事中占据一席之地仍待观察，市场焦点还包括美联储9月议息会议对利率路径的指引"
+        "heading": "多空观点分歧",
+        "body": "看多一方认为苹果生态壁垒服务收入增长与现金流稳定性依然是核心优势，且AI应用层面存在想象空间。看空一方则关注知情投资者的减持动作折叠新品定价过高可能限制销量，以及智能手机行业整体增长放缓的压力。两种观点在公司能否延续创新溢价这一问题上存在明显分歧"
       },
       {
-        "heading": "分歧与展望",
-        "body": "当前围绕苹果的核心分歧在于：一是硬件驱动策略（新款折叠屏与iPhone系列）能否在高定价背景下维持强劲销量，尤其在印度等价格敏感市场；二是苹果是否能够在设备端AI功能上兑现市场预期，缩小与其他科技巨头在AI叙事上的差距；三是跟踪者交易信号本身方向不一，加上宏观流动性与地缘风险上升，增加了短期股价波动的不确定性。总体而言，基本面叙事（新品周期、生态壁垒）与宏观风险（通胀、利率、地缘政治）之间的拉锯将是后续观察重点"
+        "heading": "风险与展望",
+        "body": "短期需关注折叠iPhone Duo的实际销售表现以及消费者对高定价新品类的接受度。中期风险包括智能手机行业竞争加剧AI应用落地进度不及预期，以及宏观层面地缘冲突油价波动对消费电子需求和整体市场风险偏好的潜在冲击。投资者可持续跟踪机构与政治人物的持仓披露变化作为情绪指标之一"
       }
     ],
     "comparables": [
       {
-        "ticker": "005930.KS",
-        "name": "三星电子",
-        "note": "折叠屏智能手机领域最直接的竞争对手，近期因苹果新款折叠机型定价被迫采取防御性定价策略，二者在高端手机市场份额与创新节奏上持续博弈"
+        "ticker": "MSFT",
+        "name": "微软",
+        "note": "同为大型科技与AI生态布局公司，可比较云服务与AI应用商业化进度"
       },
       {
         "ticker": "GOOGL",
-        "name": "Alphabet",
-        "note": "在设备端AI与操作系统生态层面与苹果构成竞争，尤其在语音助手、生成式AI功能集成方面，可作为衡量苹果AI叙事进展的参照"
+        "name": "谷歌母公司Alphabet",
+        "note": "在AI技术与广告服务业务上与苹果服务生态形成对照"
       },
       {
-        "ticker": "MSFT",
-        "name": "微软",
-        "note": "作为AI基础设施与生产力软件生态的主要参与者，其AI产品落地节奏可用于横向比较苹果设备端AI功能的市场反响与商业化进度"
+        "ticker": "005930.KS",
+        "name": "三星电子",
+        "note": "智能手机与消费电子领域直接竞争对手，可比较高端硬件新品类market reception"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-10T23:02:20.213483Z"
+    "generatedAt": "2026-09-11T23:06:58.889976Z"
   },
   "news": [
     {
-      "id": "AAPL-142066130",
-      "title": "Wall Street analysts predict Apple iPhone Duo will be a top seller, despite being heavy and costing up to $3,200",
+      "id": "AAPL-142090755",
+      "title": "How a 66-Year-Old’s $800,000 in JEPQ and QQQI Pays $8,200 a Month, and the IRS Only Sees Half of It",
       "source": "Yahoo",
-      "publishedAt": "2026-09-10",
-      "url": "https://finnhub.io/api/news?id=5d3182b09eddfbfd7937bafba6d262af76f10491ae4e3c71117c2a86bce74c3e",
+      "publishedAt": "2026-09-11",
+      "url": "https://finnhub.io/api/news?id=d46468504048cc2b3b15df69982561bb593df0f886c57b8bc524b2d8a815d0cd",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142066126",
-      "title": "Dow Jones Futures: S&P 500 Breaks Support As Oil Prices, Yields Surge; Oracle Jumps Late With CPI Inflation Due",
+      "id": "AAPL-142090770",
+      "title": "Apple (AAPL) Rises Higher Than Market: Key Facts",
       "source": "Yahoo",
-      "publishedAt": "2026-09-10",
-      "url": "https://finnhub.io/api/news?id=55a0614a108a76d33a5638cb70329f7ea996a430c8ee99da23e513d32c40de90",
+      "publishedAt": "2026-09-11",
+      "url": "https://finnhub.io/api/news?id=0f0de3e4b557ea61a3aff1c88641b79b1bda590288ce8ab6f9ac6db5bf233ea9",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142066132",
-      "title": "Apple is Testing its Loyalty in India with 40% Price Hike",
+      "id": "AAPL-142090764",
+      "title": "Fidelity’s Answer to JEPI Pays Out Again on Sept 18. Here’s What $100K Has Collected This Year",
       "source": "Yahoo",
-      "publishedAt": "2026-09-10",
-      "url": "https://finnhub.io/api/news?id=4c63345092adc1146fe9d5e09adf3fc8d4e33cfbfb6ef4b47f39ccb4fc8b0481",
+      "publishedAt": "2026-09-11",
+      "url": "https://finnhub.io/api/news?id=dba95fe86c25332a1667456a1179fd0eef5586ac8a11bf3c811c2d2523a732c4",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142064674",
-      "title": "Apple Jumps as $1,999 Foldable Forces Samsung Onto Defense",
+      "id": "AAPL-142090771",
+      "title": "Apple Launches $1,999 Foldable iPhone Duo, but Analysts Question Its Mass-Market Appeal",
       "source": "Yahoo",
-      "publishedAt": "2026-09-10",
-      "url": "https://finnhub.io/api/news?id=b16b18f703f3d0005e4fafe9d0cb00cce682565fdbf67917317207cdbfe89ab3",
+      "publishedAt": "2026-09-11",
+      "url": "https://finnhub.io/api/news?id=b081eaab0863ecfd4c029a9ebafd76c701e1a9669f9578c7b66829d797caeb18",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142064675",
-      "title": "Rogers to Offer iPhone Duo, iPhone 18 Pro, iPhone 18 Pro Max, Apple Watch Series 12, and Apple Watch Ultra 4",
+      "id": "AAPL-142090767",
+      "title": "SCHD’s 3% Yield Hides a $216,000 Decade-Long Performance Gap Investors Miss",
       "source": "Yahoo",
-      "publishedAt": "2026-09-10",
-      "url": "https://finnhub.io/api/news?id=13212fc05d6c15e34e802b79e5dd3a568bdbeb3dc18a4abf9d252c7d5d5947db",
+      "publishedAt": "2026-09-11",
+      "url": "https://finnhub.io/api/news?id=22572ca2af422f6632bf8b91deb4cf5b89b0001eea08059952e01616b81d3f19",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142064673",
-      "title": "Why hardware will attract buyers to Apple's new lineup over AI features",
+      "id": "AAPL-142090772",
+      "title": "Stock Market Today: Dow Soars 500 Points Amid Rate-Hike Bets; Apple Advances",
       "source": "Yahoo",
-      "publishedAt": "2026-09-10",
-      "url": "https://finnhub.io/api/news?id=de5bdc240768cd3beebc324f2c1f3704e8a329573e824e7e614954dea297dcdd",
+      "publishedAt": "2026-09-11",
+      "url": "https://finnhub.io/api/news?id=4315dae68de065915d5acea388f1bae14f04d3998417678eb401c81a664741a0",
       "tags": [
         "AAPL"
       ]
