@@ -1,170 +1,200 @@
 {
   "AAOI": {
-    "price": 105.36,
-    "prevClose": 100.38,
-    "chgPct": 4.96,
-    "asOf": "2026-09-11"
+    "price": 95.76,
+    "prevClose": 105.53,
+    "chgPct": -9.26,
+    "asOf": "2026-09-14"
   },
   "AAPL": {
-    "price": 332.27,
-    "prevClose": 328.21,
-    "chgPct": 1.24,
-    "asOf": "2026-09-11"
+    "price": 333.08,
+    "prevClose": 319.97,
+    "chgPct": 4.1,
+    "asOf": "2026-09-14"
   },
   "AB": {
     "price": 36.09,
-    "prevClose": 37.02,
-    "chgPct": -2.51,
-    "asOf": "2026-09-11"
+    "prevClose": 37.35,
+    "chgPct": -3.37,
+    "asOf": "2026-09-14"
   },
   "AMD": {
-    "price": 516.13,
-    "prevClose": 456.16,
-    "chgPct": 13.15,
-    "asOf": "2026-09-11"
+    "price": 493.41,
+    "prevClose": 477.57,
+    "chgPct": 3.32,
+    "asOf": "2026-09-14"
   },
   "AMZN": {
-    "price": 256.78,
-    "prevClose": 258.9,
-    "chgPct": -0.82,
-    "asOf": "2026-09-11"
+    "price": 253.54,
+    "prevClose": 258.51,
+    "chgPct": -1.92,
+    "asOf": "2026-09-14"
   },
   "AVGO": {
-    "price": 361.99,
-    "prevClose": 357.16,
-    "chgPct": 1.35,
-    "asOf": "2026-09-11"
+    "price": 344.72,
+    "prevClose": 357.9,
+    "chgPct": -3.68,
+    "asOf": "2026-09-14"
+  },
+  "AXTI": {
+    "price": 57.06,
+    "prevClose": 61.64,
+    "chgPct": -7.43,
+    "asOf": "2026-09-14"
   },
   "BE": {
-    "price": 275.75,
-    "prevClose": 235.55,
-    "chgPct": 17.07,
-    "asOf": "2026-09-11"
+    "price": 257.05,
+    "prevClose": 252.87,
+    "chgPct": 1.65,
+    "asOf": "2026-09-14"
   },
   "BWET": {
-    "price": 726.92,
-    "prevClose": 496.41,
-    "chgPct": 46.44,
-    "asOf": "2026-09-11"
+    "price": 769.72,
+    "prevClose": 505.17,
+    "chgPct": 52.37,
+    "asOf": "2026-09-14"
   },
   "COHR": {
-    "price": 305.37,
-    "prevClose": 264.41,
-    "chgPct": 15.49,
-    "asOf": "2026-09-11"
-  },
-  "COST": {
-    "price": 904.77,
-    "prevClose": 925.41,
-    "chgPct": -2.23,
-    "asOf": "2026-09-11"
+    "price": 266.5,
+    "prevClose": 281.86,
+    "chgPct": -5.45,
+    "asOf": "2026-09-14"
   },
   "CRWV": {
-    "price": 88.99,
-    "prevClose": 84.56,
-    "chgPct": 5.24,
-    "asOf": "2026-09-11"
+    "price": 82.98,
+    "prevClose": 89.36,
+    "chgPct": -7.14,
+    "asOf": "2026-09-14"
   },
   "DIS": {
-    "price": 106.55,
-    "prevClose": 107.16,
-    "chgPct": -0.57,
-    "asOf": "2026-09-11"
+    "price": 108.59,
+    "prevClose": 105.31,
+    "chgPct": 3.11,
+    "asOf": "2026-09-14"
   },
   "DRAM": {
-    "price": 59.1,
-    "prevClose": 55.99,
-    "chgPct": 5.55,
-    "asOf": "2026-09-11"
+    "price": 54.8,
+    "prevClose": 59.69,
+    "chgPct": -8.19,
+    "asOf": "2026-09-14"
+  },
+  "EQR": {
+    "price": 63.66,
+    "prevClose": 65.97,
+    "chgPct": -3.5,
+    "asOf": "2026-09-14"
   },
   "GLW": {
-    "price": 166.4,
-    "prevClose": 146.0,
-    "chgPct": 13.97,
-    "asOf": "2026-09-11"
+    "price": 143.6,
+    "prevClose": 154.3,
+    "chgPct": -6.93,
+    "asOf": "2026-09-14"
   },
   "GOOGL": {
-    "price": 338.5,
-    "prevClose": 342.48,
-    "chgPct": -1.16,
-    "asOf": "2026-09-11"
+    "price": 349.39,
+    "prevClose": 338.46,
+    "chgPct": 3.23,
+    "asOf": "2026-09-14"
   },
   "INTC": {
-    "price": 102.94,
-    "prevClose": 91.67,
-    "chgPct": 12.29,
-    "asOf": "2026-09-11"
+    "price": 97.19,
+    "prevClose": 95.8,
+    "chgPct": 1.45,
+    "asOf": "2026-09-14"
+  },
+  "IREN": {
+    "price": 43.17,
+    "prevClose": 44.68,
+    "chgPct": -3.38,
+    "asOf": "2026-09-14"
   },
   "LITE": {
-    "price": 927.03,
-    "prevClose": 847.37,
-    "chgPct": 9.4,
-    "asOf": "2026-09-11"
+    "price": 835.03,
+    "prevClose": 881.25,
+    "chgPct": -5.25,
+    "asOf": "2026-09-14"
   },
   "META": {
-    "price": 648.03,
-    "prevClose": 610.68,
-    "chgPct": 6.12,
-    "asOf": "2026-09-11"
+    "price": 665.6,
+    "prevClose": 616.77,
+    "chgPct": 7.92,
+    "asOf": "2026-09-14"
   },
   "MRVL": {
-    "price": 236.1,
-    "prevClose": 208.83,
-    "chgPct": 13.06,
-    "asOf": "2026-09-11"
+    "price": 218.82,
+    "prevClose": 223.55,
+    "chgPct": -2.12,
+    "asOf": "2026-09-14"
   },
   "MU": {
-    "price": 975.26,
-    "prevClose": 958.16,
-    "chgPct": 1.78,
-    "asOf": "2026-09-11"
+    "price": 924.03,
+    "prevClose": 1016.59,
+    "chgPct": -9.1,
+    "asOf": "2026-09-14"
+  },
+  "NBIS": {
+    "price": 212.19,
+    "prevClose": 226.39,
+    "chgPct": -6.27,
+    "asOf": "2026-09-14"
   },
   "NVDA": {
-    "price": 218.29,
-    "prevClose": 228.45,
-    "chgPct": -4.45,
-    "asOf": "2026-09-11"
+    "price": 210.96,
+    "prevClose": 230.36,
+    "chgPct": -8.42,
+    "asOf": "2026-09-14"
+  },
+  "ORCL": {
+    "price": 144.79,
+    "prevClose": 158.78,
+    "chgPct": -8.81,
+    "asOf": "2026-09-14"
   },
   "PANW": {
-    "price": 330.65,
-    "prevClose": 331.94,
-    "chgPct": -0.39,
-    "asOf": "2026-09-11"
+    "price": 373.94,
+    "prevClose": 333.26,
+    "chgPct": 12.21,
+    "asOf": "2026-09-14"
   },
   "PYPL": {
-    "price": 53.72,
-    "prevClose": 56.82,
-    "chgPct": -5.46,
-    "asOf": "2026-09-11"
+    "price": 54.03,
+    "prevClose": 54.96,
+    "chgPct": -1.69,
+    "asOf": "2026-09-14"
   },
   "SKHY": {
-    "price": 190.07,
-    "prevClose": 163.68,
-    "chgPct": 16.12,
-    "asOf": "2026-09-11"
-  },
-  "SNDK": {
-    "price": 1633.35,
-    "prevClose": 1554.99,
-    "chgPct": 5.04,
-    "asOf": "2026-09-11"
+    "price": 175.63,
+    "prevClose": 177.0,
+    "chgPct": -0.77,
+    "asOf": "2026-09-14"
   },
   "TEM": {
-    "price": 59.01,
-    "prevClose": 64.66,
-    "chgPct": -8.74,
-    "asOf": "2026-09-11"
+    "price": 62.21,
+    "prevClose": 64.62,
+    "chgPct": -3.73,
+    "asOf": "2026-09-14"
+  },
+  "TSLA": {
+    "price": 358.97,
+    "prevClose": 354.08,
+    "chgPct": 1.38,
+    "asOf": "2026-09-14"
+  },
+  "TSM": {
+    "price": 418.01,
+    "prevClose": 428.91,
+    "chgPct": -2.54,
+    "asOf": "2026-09-14"
   },
   "UBER": {
-    "price": 71.67,
-    "prevClose": 75.96,
-    "chgPct": -5.65,
-    "asOf": "2026-09-11"
+    "price": 72.63,
+    "prevClose": 75.76,
+    "chgPct": -4.13,
+    "asOf": "2026-09-14"
   },
   "VST": {
-    "price": 148.38,
-    "prevClose": 144.22,
-    "chgPct": 2.88,
-    "asOf": "2026-09-11"
+    "price": 140.73,
+    "prevClose": 149.3,
+    "chgPct": -5.74,
+    "asOf": "2026-09-14"
   }
 }

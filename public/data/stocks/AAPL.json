@@ -3,28 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 332.27,
-  "change5dPct": 1.2,
-  "changeYtdPct": 29.9,
-  "marketCap": "$4.89T",
-  "pe": 36.8,
+  "price": 333.08,
+  "change5dPct": 4.1,
+  "changeYtdPct": 31.7,
+  "marketCap": "$4.85T",
+  "pe": 37.6,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-03-12",
-      "o": 258.66,
-      "h": 258.95,
-      "l": 254.18,
-      "c": 255.76
-    },
-    {
-      "t": "2026-03-13",
-      "o": 255.48,
-      "h": 256.33,
-      "l": 249.52,
-      "c": 250.12
-    },
     {
       "t": "2026-03-16",
       "o": 252.11,
@@ -895,131 +881,138 @@
     },
     {
       "t": "2026-09-11",
-      "o": 327.63,
+      "o": 327.45,
       "h": 336.22,
       "l": 326.3,
       "c": 332.27
+    },
+    {
+      "t": "2026-09-14",
+      "o": 334.83,
+      "h": 335.5,
+      "l": 331.34,
+      "c": 333.08
     }
   ],
   "thesis": {
     "bull": [
-      "公司现金流与生态系统粘性依旧稳固，服务业务占比持续提升，为整体毛利率提供支撑",
-      "市场对苹果在AI领域的想象空间仍在，英伟达CEO黄仁勋近期公开言论一度带动市场对苹果AI应用前景的乐观情绪",
-      "折叠屏iPhone Duo等新品发布显示公司仍在尝试打开高端硬件新品类，若被市场接受可打开新的增长曲线"
+      "苹果在AI布局上出现积极信号,Nvidia首席执行官近期公开表态对Apple AI寄予厚望,叠加Siri重大升级预期,市场对其生态内AI变现路径的信心有所修复",
+      "硬件产品线呈现差异化亮点,折叠屏iPhone被部分分析师称为必买产品,并强调苹果强大的营销体系有望延续换机周期的定价能力与需求拉动",
+      "监管层面出现边际利好,X Corp与SpaceXAI已撤回针对苹果的反垄断诉讼,减少了潜在的法律与业务模式限制风险"
     ],
     "bear": [
-      "国会议员佩洛西在2025年底至2026年初的多份PTR披露中出现减持与清仓动作，且此前2024年底与2025年10月也有连续减持记录，显示部分知情投资者对估值或前景趋于谨慎",
-      "1999美元的折叠iPhone Duo定价偏高，多家分析师质疑其大众市场接受度，若销量不及预期可能拖累新品周期叙事",
-      "智能手机行业竞争加剧，AI相关资本开支热潮更多集中在英伟达博通等芯片与云基础设施厂商，苹果在生成式AI应用层面的落地进度和差异化仍待验证"
+      "国会议员Pelosi在同一披露文件中出现新建仓与多笔减持并存的矛盾操作,历史上其对AAPL的操作也以逐步减仓为主,长期持仓意愿存疑",
+      "当前市场正围绕AI硬件与算力支出出现明显的多空分歧,部分芯片与算力相关个股因AI建设放缓的担忧出现抛售,若情绪外溢至消费电子供应链,苹果的零部件成本与出货预期可能承压",
+      "OpenAI在与苹果的法律及合作关系中被指处于相对不利位置,反映出苹果在AI生态合作方面的策略调整存在不确定性,可能影响其AI功能落地节奏与合作伙伴关系"
     ],
     "watch": [
-      "折叠iPhone Duo后续销量数据与渠道反馈，将是判断公司能否延续硬件创新溢价的关键指标",
-      "国会议员及机构投资者后续披露的持仓变动，尤其是佩洛西是否延续减持趋势",
-      "宏观层面油价地缘冲突与利率波动对消费电子需求与整体风险偏好的传导效应"
+      "9月FOMC会议结果及新任美联储主席对利率路径的表态,将直接影响科技股估值锚定的无风险利率水平",
+      "Siri升级的实际功能落地时间表及市场反馈,是否能够真正驱动换机需求而非仅停留在营销叙事层面",
+      "折叠屏iPhone等新硬件品类的产能爬坡与实际市场接受度,尤其是在当前消费电子换机周期整体偏弱的宏观环境下"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球领先的消费电子与服务公司，核心产品线包括iPhone iPad Mac可穿戴设备以及App Store云服务广告等服务业务。公司凭借硬件生态与软件服务的深度绑定构建了较高的用户粘性和品牌溢价，长期是全球市值最高的公司之一"
+        "body": "苹果是全球市值最高的科技公司之一,核心业务涵盖iPhone、Mac、iPad等硬件产品线,以及服务、可穿戴设备等高毛利业务。近期公司战略重心之一在于将生成式AI能力深度整合进Siri及操作系统层面,试图在AI浪潮中重新定义消费电子的用户体验入口。"
       },
       {
-        "heading": "业务与增长驱动",
-        "body": "iPhone仍是营收支柱，但服务业务近年增速更快毛利率更高，正在成为盈利结构中的重要支撑。公司近期推出定价1999美元的折叠iPhone Duo，试图开拓高端硬件新品类，但市场对其大众化接受度存在分歧。生成式AI浪潮下，市场也在观察苹果能否将其生态优势转化为AI应用层面的差异化能力"
+        "heading": "业务与产品动态",
+        "body": "市场关注焦点集中在Siri的AI重大升级以及传闻中的折叠屏iPhone。部分分析师认为折叠屏产品具备成为必买爆款的潜力,并强调苹果的品牌与营销能力足以放大新品的市场声量,但也有观点提示,Siri升级本身并不必然带来强制性换机需求,产品体验的实际兑现程度仍待观察。"
       },
       {
-        "heading": "近期新闻与产品动态",
-        "body": "公开报道显示苹果股价近期跑赢大盘，市场对其新品与整体科技板块情绪偏乐观。同时折叠屏新品发布引发分析师对定价策略和市场需求的质疑，反映出创新品类商业化路径仍存在不确定性。宏观层面油价地缘局势与通胀数据波动也在影响包括苹果在内的大盘科技股风险偏好"
+        "heading": "资金与关键人物动向",
+        "body": "公开披露显示,国会议员Pelosi在2025年末至2026年初对AAPL持仓进行了多笔操作,既有新建仓记录,也有多笔标记为减持的交易,呈现出方向不完全一致的信号。结合其过去一年多次减仓的历史记录,难以从中提炼出清晰的一致性多空判断,更多反映短期仓位调整而非长期战略性押注。"
       },
       {
-        "heading": "资金与跟踪者动向",
-        "body": "公开披露显示，国会议员佩洛西在2025年12月末的PTR中同时出现新建多头仓位与减持清仓的记录，此外2025年10月及2024年底也有连续减持动作，整体呈现谨慎甚至逐步降低敞口的倾向。同时英伟达CEO黄仁勋的公开言论一度带动市场对苹果AI相关前景的乐观预期，显示不同信息源对公司前景的解读并不一致"
+        "heading": "行业与竞争环境",
+        "body": "当前AI硬件与算力板块正经历显著的情绪分化,部分芯片及AI基建相关个股因市场对AI模型训练与推理支出放缓的担忧而下跌,而云端超大规模厂商相关标的则相对受益。苹果作为终端消费电子巨头,与纯AI基建标的的驱动逻辑存在差异,但仍可能受到整体科技板块风险偏好波动的传导影响。"
       },
       {
-        "heading": "多空观点分歧",
-        "body": "看多一方认为苹果生态壁垒服务收入增长与现金流稳定性依然是核心优势，且AI应用层面存在想象空间。看空一方则关注知情投资者的减持动作折叠新品定价过高可能限制销量，以及智能手机行业整体增长放缓的压力。两种观点在公司能否延续创新溢价这一问题上存在明显分歧"
+        "heading": "法律与监管环境",
+        "body": "近期X Corp与SpaceXAI主动撤回了针对苹果的反垄断诉讼,短期内减轻了苹果面临的部分法律压力。与此同时,有报道指出OpenAI在与苹果的关系或协议安排中处于相对不利地位,这类AI生态合作关系的演变可能对苹果未来AI功能的合作伙伴选择及服务集成方式产生长期影响。"
       },
       {
-        "heading": "风险与展望",
-        "body": "短期需关注折叠iPhone Duo的实际销售表现以及消费者对高定价新品类的接受度。中期风险包括智能手机行业竞争加剧AI应用落地进度不及预期，以及宏观层面地缘冲突油价波动对消费电子需求和整体市场风险偏好的潜在冲击。投资者可持续跟踪机构与政治人物的持仓披露变化作为情绪指标之一"
+        "heading": "宏观与市场情绪",
+        "body": "整体市场正处在美联储9月议息会议前的观望期,新任主席的政策取向及加息预期成为影响风险资产估值的重要变量。同时市场对AI相关资本开支是否见顶存在分歧,部分评论认为当前抛售是短期情绪宣泄而非趋势反转,另一些声音则担忧AI叙事降温会持续压制相关板块估值,苹果作为兼具消费电子与AI应用双重属性的公司,其股价走势可能同时受到这两条主线的交织影响。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
-        "name": "微软",
-        "note": "同为大型科技与AI生态布局公司，可比较云服务与AI应用商业化进度"
+        "name": "Microsoft Corporation",
+        "note": "同样在探索AI与终端及操作系统深度融合的路径,可用于比较AI功能商业化节奏与市场接受度"
       },
       {
         "ticker": "GOOGL",
-        "name": "谷歌母公司Alphabet",
-        "note": "在AI技术与广告服务业务上与苹果服务生态形成对照"
+        "name": "Alphabet Inc.",
+        "note": "在AI助手与移动生态系统层面与苹果存在直接竞争关系,尤其是语音助手及AI搜索整合方面"
       },
       {
         "ticker": "005930.KS",
-        "name": "三星电子",
-        "note": "智能手机与消费电子领域直接竞争对手，可比较高端硬件新品类market reception"
+        "name": "Samsung Electronics",
+        "note": "作为折叠屏手机领域的先行者及全球主要消费电子竞争对手,可用于对比苹果折叠屏新品的市场竞争态势"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-11T23:06:58.889976Z"
+    "generatedAt": "2026-09-14T23:47:27.787960Z"
   },
   "news": [
     {
-      "id": "AAPL-142090755",
-      "title": "How a 66-Year-Old’s $800,000 in JEPQ and QQQI Pays $8,200 a Month, and the IRS Only Sees Half of It",
+      "id": "AAPL-142141308",
+      "title": "OpenAI Left Exposed After Apple's Surprise Legal Break",
       "source": "Yahoo",
-      "publishedAt": "2026-09-11",
-      "url": "https://finnhub.io/api/news?id=d46468504048cc2b3b15df69982561bb593df0f886c57b8bc524b2d8a815d0cd",
+      "publishedAt": "2026-09-14",
+      "url": "https://finnhub.io/api/news?id=f981a1af8463704c66004d8e5152dc621421ecce2be1e9b707dad15a84622fa6",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142090770",
-      "title": "Apple (AAPL) Rises Higher Than Market: Key Facts",
+      "id": "AAPL-142141309",
+      "title": "Apple's Siri Upgrade Does Not Require Every User to Buy Another iPhone",
       "source": "Yahoo",
-      "publishedAt": "2026-09-11",
-      "url": "https://finnhub.io/api/news?id=0f0de3e4b557ea61a3aff1c88641b79b1bda590288ce8ab6f9ac6db5bf233ea9",
+      "publishedAt": "2026-09-14",
+      "url": "https://finnhub.io/api/news?id=0396f3d364d15ba913e7c0c957b4ba2cb6cf1172c1e6059049b4d8127a0ef7df",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142090764",
-      "title": "Fidelity’s Answer to JEPI Pays Out Again on Sept 18. Here’s What $100K Has Collected This Year",
-      "source": "Yahoo",
-      "publishedAt": "2026-09-11",
-      "url": "https://finnhub.io/api/news?id=dba95fe86c25332a1667456a1179fd0eef5586ac8a11bf3c811c2d2523a732c4",
+      "id": "AAPL-142139935",
+      "title": "These S&P500 stocks are the most active in today's session",
+      "source": "ChartMill",
+      "publishedAt": "2026-09-14",
+      "url": "https://finnhub.io/api/news?id=b2261b4dc5b59c3755bfea444dc6f7112e692fae63d3f795e7b1e23428244bca",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142090771",
-      "title": "Apple Launches $1,999 Foldable iPhone Duo, but Analysts Question Its Mass-Market Appeal",
+      "id": "AAPL-142141310",
+      "title": "Jamf Announces Same-Day Support For macOS Golden Gate 27, iOS 27 And Other OS 27 Releases",
       "source": "Yahoo",
-      "publishedAt": "2026-09-11",
-      "url": "https://finnhub.io/api/news?id=b081eaab0863ecfd4c029a9ebafd76c701e1a9669f9578c7b66829d797caeb18",
+      "publishedAt": "2026-09-14",
+      "url": "https://finnhub.io/api/news?id=122d22296a1a065eb12fb6599c461abd6023cb64a32ffaad0e817a00886b7088",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142090767",
-      "title": "SCHD’s 3% Yield Hides a $216,000 Decade-Long Performance Gap Investors Miss",
+      "id": "AAPL-142141311",
+      "title": "Apple Duo Foldable iPhone a ‘Must Have Product,’ Gary Black Says ‘Don’t Underestimate the Power of the $AAPL Marketing Machine’",
       "source": "Yahoo",
-      "publishedAt": "2026-09-11",
-      "url": "https://finnhub.io/api/news?id=22572ca2af422f6632bf8b91deb4cf5b89b0001eea08059952e01616b81d3f19",
+      "publishedAt": "2026-09-14",
+      "url": "https://finnhub.io/api/news?id=9707185a8f63ab56075abfaf674ea99f6b03fd5f6e65ac33931a5ea1058fe3e0",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142090772",
-      "title": "Stock Market Today: Dow Soars 500 Points Amid Rate-Hike Bets; Apple Advances",
+      "id": "AAPL-142139109",
+      "title": "X Corp and SpaceXAI drop antitrust lawsuit against Apple",
       "source": "Yahoo",
-      "publishedAt": "2026-09-11",
-      "url": "https://finnhub.io/api/news?id=4315dae68de065915d5acea388f1bae14f04d3998417678eb401c81a664741a0",
+      "publishedAt": "2026-09-14",
+      "url": "https://finnhub.io/api/news?id=8d96f02c2ea6f17e279b25202fd2387903d3cb200dcd3f101f59b15e0ab27077",
       "tags": [
         "AAPL"
       ]
