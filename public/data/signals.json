@@ -354,6 +354,30 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-09-15",
+    "sentiment": "watch",
+    "excerpt": "It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117276639949770622",
+    "ticker": "AMZN",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-09-15",
+    "sentiment": "watch",
+    "excerpt": "Republicans just got another bad decision from the United States Supreme Court, one that the Court System took forever to give, and then blamed it, in part, on no time left to implement a solution to our totally CORRUPT and out of control M",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117275286602582454",
+    "ticker": "",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-09-14",
     "sentiment": "watch",
     "excerpt": "The only reason the AI/Data Center outburst is happening is because the United States is leading, by a lot, every other country. Don’t kill the Golden Goose! President DONALD J. TRUMP",
@@ -364,13 +388,85 @@
     ]
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-15",
+    "sentiment": "watch",
+    "excerpt": "Just as a pep-talk statistic ahead of Fed decisions tomorrow.\n\n50% of $NVDA employees are reportedly now worth over $25 Million.\n\nThey didn’t get to that number paperhanding shares ahead of every macro scare or rate hike. https://t.co/saulh",
+    "postUrl": "https://x.com/aleabitoreddit/status/2099999510898577543",
+    "ticker": "NVDA",
+    "topics": [
+      "美联储/利率"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-15",
+    "sentiment": "watch",
+    "excerpt": "$CCXI releases their Digit 5 next-generation humanoid.\n\nThoughts? https://t.co/r0Gb05cnd5",
+    "postUrl": "https://x.com/aleabitoreddit/status/2099830591663513642",
+    "ticker": "CCXI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-09-14",
     "sentiment": "watch",
-    "excerpt": "Charge your Tesla Semi 😉",
-    "postUrl": "https://x.com/elonmusk/status/2099588955796554233",
-    "ticker": "TSLA",
+    "excerpt": "Some color on current memory environments for the $MU / $SKHY bros:\n\n\"There is zero risk of memory prices dropping\" per Team Group GM Gerry Chen. \n\n- Memory module makers have received notices warning of drastic cuts to their 2027 supply al",
+    "postUrl": "https://x.com/aleabitoreddit/status/2099674926697545849",
+    "ticker": "MU",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-14",
+    "sentiment": "watch",
+    "excerpt": "Some color on current memory environments for the $MU / $SKHY bros:\n\n\"There is zero risk of memory prices dropping\" per Team Group GM Gerry Chen. \n\n- Memory module makers have received notices warning of drastic cuts to their 2027 supply al",
+    "postUrl": "https://x.com/aleabitoreddit/status/2099674926697545849",
+    "ticker": "SKHY",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-14",
+    "sentiment": "watch",
+    "excerpt": "I've seen comments from Jim Cramer today supporting hedge funds that short Leopold's \"nonsense\" $SNDK / $DRAM / SK Hynix type calls.  \n\nAs well Cramer calling $CRWD a \"Must Buy\".   \n\nI'm not sure if Jim Cramer sees a $241B company  labelled",
+    "postUrl": "https://x.com/aleabitoreddit/status/2099659874892386678",
+    "ticker": "BE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-14",
+    "sentiment": "watch",
+    "excerpt": "I've seen comments from Jim Cramer today supporting hedge funds that short Leopold's \"nonsense\" $SNDK / $DRAM / SK Hynix type calls.  \n\nAs well Cramer calling $CRWD a \"Must Buy\".   \n\nI'm not sure if Jim Cramer sees a $241B company  labelled",
+    "postUrl": "https://x.com/aleabitoreddit/status/2099659874892386678",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-14",
+    "sentiment": "watch",
+    "excerpt": "I've seen comments from Jim Cramer today supporting hedge funds that short Leopold's \"nonsense\" $SNDK / $DRAM / SK Hynix type calls.  \n\nAs well Cramer calling $CRWD a \"Must Buy\".   \n\nI'm not sure if Jim Cramer sees a $241B company  labelled",
+    "postUrl": "https://x.com/aleabitoreddit/status/2099659874892386678",
+    "ticker": "CRWD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-14",
+    "sentiment": "watch",
+    "excerpt": "I've seen comments from Jim Cramer today supporting hedge funds that short Leopold's \"nonsense\" $SNDK / $DRAM / SK Hynix type calls.  \n\nAs well Cramer calling $CRWD a \"Must Buy\".   \n\nI'm not sure if Jim Cramer sees a $241B company  labelled",
+    "postUrl": "https://x.com/aleabitoreddit/status/2099659874892386678",
+    "ticker": "CRWV",
     "topics": []
   },
   {
@@ -671,126 +767,6 @@
     "excerpt": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX Wells Fargo forecasts are ~$263B for 2027",
     "postUrl": "https://x.com/aleabitoreddit/status/2098306366167535766",
     "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-10",
-    "sentiment": "watch",
-    "excerpt": "It's a macro market right now https://t.co/12ySQqZWrO",
-    "postUrl": "https://x.com/aleabitoreddit/status/2098291179523899475",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-09",
-    "sentiment": "watch",
-    "excerpt": "Wow, HBM reportedly drove up AI accelerator/card prices by 20-50% in China.\n\nSo $SKHY, Samsung, $MU, should be happy to hear this:\n\n- Huawei has raised indicated pricing for the Ascend 950DT 20–50% above quotes from just 2 months ago\n\n- Cam",
-    "postUrl": "https://x.com/aleabitoreddit/status/2097937708178186303",
-    "ticker": "MU",
-    "topics": [
-      "通胀"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-09",
-    "sentiment": "watch",
-    "excerpt": "Wow, HBM reportedly drove up AI accelerator/card prices by 20-50% in China.\n\nSo $SKHY, Samsung, $MU, should be happy to hear this:\n\n- Huawei has raised indicated pricing for the Ascend 950DT 20–50% above quotes from just 2 months ago\n\n- Cam",
-    "postUrl": "https://x.com/aleabitoreddit/status/2097937708178186303",
-    "ticker": "SKHY",
-    "topics": [
-      "通胀"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-09",
-    "sentiment": "watch",
-    "excerpt": "Anthropic's Economic Scenario publication was a pretty interesting read:\n\n1. Anthropic's \"extreme\" scenario has GDP growth reaching 15.4% in 2030\n\nSo around 7.3x current rates (~2.1% Y/Y), which is consistent with what Elon Musk is saying a",
-    "postUrl": "https://x.com/aleabitoreddit/status/2097815176838017066",
-    "ticker": "AMZN",
-    "topics": [
-      "经济数据"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-09",
-    "sentiment": "watch",
-    "excerpt": "Anthropic's Economic Scenario publication was a pretty interesting read:\n\n1. Anthropic's \"extreme\" scenario has GDP growth reaching 15.4% in 2030\n\nSo around 7.3x current rates (~2.1% Y/Y), which is consistent with what Elon Musk is saying a",
-    "postUrl": "https://x.com/aleabitoreddit/status/2097815176838017066",
-    "ticker": "GOOGL",
-    "topics": [
-      "经济数据"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-09",
-    "sentiment": "watch",
-    "excerpt": "Anthropic's Economic Scenario publication was a pretty interesting read:\n\n1. Anthropic's \"extreme\" scenario has GDP growth reaching 15.4% in 2030\n\nSo around 7.3x current rates (~2.1% Y/Y), which is consistent with what Elon Musk is saying a",
-    "postUrl": "https://x.com/aleabitoreddit/status/2097815176838017066",
-    "ticker": "META",
-    "topics": [
-      "经济数据"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-09",
-    "sentiment": "watch",
-    "excerpt": "If you hid the ticker, you would think this was an AI bottleneck name. https://t.co/6rR1BWYRb9",
-    "postUrl": "https://x.com/aleabitoreddit/status/2097743984596861401",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-09",
-    "sentiment": "watch",
-    "excerpt": "Citibank TMT:  \"lasers and optical fibers are being positioned as the \"next HBM.\" \n\nI've been talking about lasers like $LITE / $AAOI since 2025... and architectural shifts toward CW, ahead of the current industry consensus.\n\nAnd fully agre",
-    "postUrl": "https://x.com/aleabitoreddit/status/2097660318369697875",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-09",
-    "sentiment": "watch",
-    "excerpt": "Citibank TMT:  \"lasers and optical fibers are being positioned as the \"next HBM.\" \n\nI've been talking about lasers like $LITE / $AAOI since 2025... and architectural shifts toward CW, ahead of the current industry consensus.\n\nAnd fully agre",
-    "postUrl": "https://x.com/aleabitoreddit/status/2097660318369697875",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-09",
-    "sentiment": "watch",
-    "excerpt": "Citibank TMT:  \"lasers and optical fibers are being positioned as the \"next HBM.\" \n\nI've been talking about lasers like $LITE / $AAOI since 2025... and architectural shifts toward CW, ahead of the current industry consensus.\n\nAnd fully agre",
-    "postUrl": "https://x.com/aleabitoreddit/status/2097660318369697875",
-    "ticker": "GLW",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-09",
-    "sentiment": "watch",
-    "excerpt": "Citibank TMT:  \"lasers and optical fibers are being positioned as the \"next HBM.\" \n\nI've been talking about lasers like $LITE / $AAOI since 2025... and architectural shifts toward CW, ahead of the current industry consensus.\n\nAnd fully agre",
-    "postUrl": "https://x.com/aleabitoreddit/status/2097660318369697875",
-    "ticker": "LITE",
     "topics": []
   },
   {

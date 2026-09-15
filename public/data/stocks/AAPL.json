@@ -3,10 +3,10 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 333.08,
-  "change5dPct": 4.1,
-  "changeYtdPct": 31.7,
-  "marketCap": "$4.85T",
+  "price": 331.34,
+  "change5dPct": 4.8,
+  "changeYtdPct": 31.1,
+  "marketCap": "$4.86T",
   "pe": 37.6,
   "revenue": "—",
   "revenueYoYPct": 14,
@@ -888,131 +888,138 @@
     },
     {
       "t": "2026-09-14",
-      "o": 334.83,
+      "o": 334.79,
       "h": 335.5,
       "l": 331.34,
       "c": 333.08
+    },
+    {
+      "t": "2026-09-15",
+      "o": 330.26,
+      "h": 331.76,
+      "l": 328.35,
+      "c": 331.34
     }
   ],
   "thesis": {
     "bull": [
-      "苹果在AI布局上出现积极信号,Nvidia首席执行官近期公开表态对Apple AI寄予厚望,叠加Siri重大升级预期,市场对其生态内AI变现路径的信心有所修复",
-      "硬件产品线呈现差异化亮点,折叠屏iPhone被部分分析师称为必买产品,并强调苹果强大的营销体系有望延续换机周期的定价能力与需求拉动",
-      "监管层面出现边际利好,X Corp与SpaceXAI已撤回针对苹果的反垄断诉讼,减少了潜在的法律与业务模式限制风险"
+      "市场对苹果新款可折叠iPhone预期强烈，有分析人士认为需求可能「非常惊人」，若成功将打开新的换机周期",
+      "英伟达首席执行官近期公开言论提振外界对苹果人工智能能力的信心，带动整个苹果供应链和AI应用预期回暖",
+      "苹果股价在道琼斯科技类股中被部分技术分析认为已接近或进入买入区间，显示中期趋势并未被破坏"
     ],
     "bear": [
-      "国会议员Pelosi在同一披露文件中出现新建仓与多笔减持并存的矛盾操作,历史上其对AAPL的操作也以逐步减仓为主,长期持仓意愿存疑",
-      "当前市场正围绕AI硬件与算力支出出现明显的多空分歧,部分芯片与算力相关个股因AI建设放缓的担忧出现抛售,若情绪外溢至消费电子供应链,苹果的零部件成本与出货预期可能承压",
-      "OpenAI在与苹果的法律及合作关系中被指处于相对不利位置,反映出苹果在AI生态合作方面的策略调整存在不确定性,可能影响其AI功能落地节奏与合作伙伴关系"
+      "市场对新一代iPhone Pro系列的初期需求评价为「平淡」，导致股价出现下跌，反映消费电子创新周期边际放缓的担忧",
+      "国会议员佩洛西相关的信息披露显示同期存在减持与退出仓位的记录，市场解读方向不一，部分被视为获利了结信号",
+      "三星等竞争对手近期在营销层面高调对标苹果，叠加安卓阵营在硬件与AI功能上的持续追赶，长期市场份额压力仍存"
     ],
     "watch": [
-      "9月FOMC会议结果及新任美联储主席对利率路径的表态,将直接影响科技股估值锚定的无风险利率水平",
-      "Siri升级的实际功能落地时间表及市场反馈,是否能够真正驱动换机需求而非仅停留在营销叙事层面",
-      "折叠屏iPhone等新硬件品类的产能爬坡与实际市场接受度,尤其是在当前消费电子换机周期整体偏弱的宏观环境下"
+      "关注即将披露的季度财报中iPhone及服务业务的实际出货与收入数据，以验证「平淡」需求传闻是否属实",
+      "关注苹果在生成式人工智能领域的产品化进展及与产业链伙伴（芯片、云端算力）合作的后续消息",
+      "关注美联储利率路径及整体「七巨头」科技股估值切换趋势，这将影响苹果这类高权重蓝筹股的资金流向"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值最高的科技公司之一,核心业务涵盖iPhone、Mac、iPad等硬件产品线,以及服务、可穿戴设备等高毛利业务。近期公司战略重心之一在于将生成式AI能力深度整合进Siri及操作系统层面,试图在AI浪潮中重新定义消费电子的用户体验入口。"
+        "body": "苹果是全球市值最大的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品以及快速增长的服务业务（App Store、云服务、订阅等）。公司近期战略重心之一是在人工智能能力上追赶行业步伐，同时通过新硬件形态（如可折叠设备）寻找新的增长点。"
       },
       {
-        "heading": "业务与产品动态",
-        "body": "市场关注焦点集中在Siri的AI重大升级以及传闻中的折叠屏iPhone。部分分析师认为折叠屏产品具备成为必买爆款的潜力,并强调苹果的品牌与营销能力足以放大新品的市场声量,但也有观点提示,Siri升级本身并不必然带来强制性换机需求,产品体验的实际兑现程度仍待观察。"
+        "heading": "基本面与业绩驱动",
+        "body": "公开新闻显示市场对新款iPhone系列的短期需求评价出现分歧：一方面有报道称iPhone 18 Pro初期需求「平淡」并引发股价下跌，另一方面部分分析师和评论人士（如知名财经评论员）对即将推出的可折叠新品表达了非常乐观的预期。这种分歧反映出投资者对苹果产品周期成色的判断尚未统一。"
       },
       {
-        "heading": "资金与关键人物动向",
-        "body": "公开披露显示,国会议员Pelosi在2025年末至2026年初对AAPL持仓进行了多笔操作,既有新建仓记录,也有多笔标记为减持的交易,呈现出方向不完全一致的信号。结合其过去一年多次减仓的历史记录,难以从中提炼出清晰的一致性多空判断,更多反映短期仓位调整而非长期战略性押注。"
+        "heading": "资金与关注度动向",
+        "body": "公开的国会议员交易披露记录中，围绕苹果股票出现了同一时间段内既有新增多头仓位、又有减持退出的记录，方向并不完全一致，说明即便是被密切关注的知情交易主体，对苹果短期走势也存在分歧，不宜简单解读为单一方向的强烈信号。"
       },
       {
-        "heading": "行业与竞争环境",
-        "body": "当前AI硬件与算力板块正经历显著的情绪分化,部分芯片及AI基建相关个股因市场对AI模型训练与推理支出放缓的担忧而下跌,而云端超大规模厂商相关标的则相对受益。苹果作为终端消费电子巨头,与纯AI基建标的的驱动逻辑存在差异,但仍可能受到整体科技板块风险偏好波动的传导影响。"
+        "heading": "行业与竞争格局",
+        "body": "从近期新闻流看，人工智能相关叙事仍是科技板块的核心焦点，英伟达等芯片公司及其生态动态（包括对外部软件与硬件资源的整合）持续吸引市场注意力，并间接带动市场对苹果AI布局的期待。同时，三星等竞争对手在营销层面正主动对标苹果，显示终端设备市场竞争依然激烈。"
       },
       {
-        "heading": "法律与监管环境",
-        "body": "近期X Corp与SpaceXAI主动撤回了针对苹果的反垄断诉讼,短期内减轻了苹果面临的部分法律压力。与此同时,有报道指出OpenAI在与苹果的关系或协议安排中处于相对不利地位,这类AI生态合作关系的演变可能对苹果未来AI功能的合作伙伴选择及服务集成方式产生长期影响。"
+        "heading": "宏观与市场环境",
+        "body": "整体市场环境仍受到利率路径、地缘政治局势（如中东局势带来的成本与油价扰动）以及联储议息会议预期的影响。有观点认为AI板块可能面临阶段性降温压力，作为「七巨头」成分股之一，苹果的股价表现将持续与大盘科技股估值切换、资金轮动的宏观趋势保持较高相关性。"
       },
       {
-        "heading": "宏观与市场情绪",
-        "body": "整体市场正处在美联储9月议息会议前的观望期,新任主席的政策取向及加息预期成为影响风险资产估值的重要变量。同时市场对AI相关资本开支是否见顶存在分歧,部分评论认为当前抛售是短期情绪宣泄而非趋势反转,另一些声音则担忧AI叙事降温会持续压制相关板块估值,苹果作为兼具消费电子与AI应用双重属性的公司,其股价走势可能同时受到这两条主线的交织影响。"
+        "heading": "多空分歧总结",
+        "body": "综合来看，市场在苹果新产品需求强弱、AI战略兑现节奏、以及短期资金动向上均存在明显分歧：乐观者押注新品类（可折叠设备）与AI叙事带来的估值重估，谨慎者则关注到近期需求信号偏弱及部分知情交易主体的减持行为。投资者需持续跟踪即将公布的财报及产品销售数据以修正判断，本分析不构成任何买卖建议。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
-        "name": "Microsoft Corporation",
-        "note": "同样在探索AI与终端及操作系统深度融合的路径,可用于比较AI功能商业化节奏与市场接受度"
-      },
-      {
-        "ticker": "GOOGL",
-        "name": "Alphabet Inc.",
-        "note": "在AI助手与移动生态系统层面与苹果存在直接竞争关系,尤其是语音助手及AI搜索整合方面"
+        "name": "微软",
+        "note": "同为大型科技权重股，AI与云服务战略进展常被市场用作对比苹果AI布局节奏的参照"
       },
       {
         "ticker": "005930.KS",
-        "name": "Samsung Electronics",
-        "note": "作为折叠屏手机领域的先行者及全球主要消费电子竞争对手,可用于对比苹果折叠屏新品的市场竞争态势"
+        "name": "三星电子",
+        "note": "苹果在高端智能手机市场的主要竞争对手，近期在营销上直接对标苹果，双方新品周期与市场份额变化值得对照观察"
+      },
+      {
+        "ticker": "GOOGL",
+        "name": "Alphabet",
+        "note": "在移动生态、AI模型能力及硬件业务上与苹果既竞争又合作，其AI进展常被视为衡量行业整体AI竞赛节奏的重要参照"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-14T23:47:27.787960Z"
+    "generatedAt": "2026-09-15T23:30:22.408789Z"
   },
   "news": [
     {
-      "id": "AAPL-142141308",
-      "title": "OpenAI Left Exposed After Apple's Surprise Legal Break",
+      "id": "AAPL-142168351",
+      "title": "TSMC’s 2nm Era Is Accelerating With MediaTek. Nvidia and Alphabet Already Have Money on the Table",
       "source": "Yahoo",
-      "publishedAt": "2026-09-14",
-      "url": "https://finnhub.io/api/news?id=f981a1af8463704c66004d8e5152dc621421ecce2be1e9b707dad15a84622fa6",
+      "publishedAt": "2026-09-15",
+      "url": "https://finnhub.io/api/news?id=86105b30bc518a119ef014f8b7c80f7f22eae6554c40f68f5a512b72d3a97b49",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142141309",
-      "title": "Apple's Siri Upgrade Does Not Require Every User to Buy Another iPhone",
+      "id": "AAPL-142168357",
+      "title": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
       "source": "Yahoo",
-      "publishedAt": "2026-09-14",
-      "url": "https://finnhub.io/api/news?id=0396f3d364d15ba913e7c0c957b4ba2cb6cf1172c1e6059049b4d8127a0ef7df",
+      "publishedAt": "2026-09-15",
+      "url": "https://finnhub.io/api/news?id=576fffea26bb6d499972aa862764216e0110bb231c1e53691e6f115e1da8fb04",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142139935",
-      "title": "These S&P500 stocks are the most active in today's session",
-      "source": "ChartMill",
-      "publishedAt": "2026-09-14",
-      "url": "https://finnhub.io/api/news?id=b2261b4dc5b59c3755bfea444dc6f7112e692fae63d3f795e7b1e23428244bca",
+      "id": "AAPL-142168380",
+      "title": "Samsung turns Tim Cook into its latest marketing weapon",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-15",
+      "url": "https://finnhub.io/api/news?id=e4c65b0b5b72780b8b1814b5bcbebcc0fce936c4d88b0d9c9326b7106e344dfd",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142141310",
-      "title": "Jamf Announces Same-Day Support For macOS Golden Gate 27, iOS 27 And Other OS 27 Releases",
+      "id": "AAPL-142168376",
+      "title": "Jim Cramer Believes Apple (AAPL) Could See “Off The Charts” Demand For Its New Foldable",
       "source": "Yahoo",
-      "publishedAt": "2026-09-14",
-      "url": "https://finnhub.io/api/news?id=122d22296a1a065eb12fb6599c461abd6023cb64a32ffaad0e817a00886b7088",
+      "publishedAt": "2026-09-15",
+      "url": "https://finnhub.io/api/news?id=ab47b3997149b11cbe7332f6e1c49fb9a8ae0e6c5b7b9f6b5c34e1c46f0c229f",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142141311",
-      "title": "Apple Duo Foldable iPhone a ‘Must Have Product,’ Gary Black Says ‘Don’t Underestimate the Power of the $AAPL Marketing Machine’",
+      "id": "AAPL-142168381",
+      "title": "Apple Stock Drops On 'Lukewarm' iPhone 18 Pro Demand",
       "source": "Yahoo",
-      "publishedAt": "2026-09-14",
-      "url": "https://finnhub.io/api/news?id=9707185a8f63ab56075abfaf674ea99f6b03fd5f6e65ac33931a5ea1058fe3e0",
+      "publishedAt": "2026-09-15",
+      "url": "https://finnhub.io/api/news?id=e0cb5799d32fbb4799af084901b9aaa971a9cb576a04ac5ec09af37a61807932",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142139109",
-      "title": "X Corp and SpaceXAI drop antitrust lawsuit against Apple",
+      "id": "AAPL-142168360",
+      "title": "Magnificent Seven Stocks Eye Breakout After Sideways 2026",
       "source": "Yahoo",
-      "publishedAt": "2026-09-14",
-      "url": "https://finnhub.io/api/news?id=8d96f02c2ea6f17e279b25202fd2387903d3cb200dcd3f101f59b15e0ab27077",
+      "publishedAt": "2026-09-15",
+      "url": "https://finnhub.io/api/news?id=8f0e7e0444665517404a63f82eb6b66a13f6e613940eec278de1606c190932eb",
       "tags": [
         "AAPL"
       ]
