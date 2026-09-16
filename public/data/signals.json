@@ -354,6 +354,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-09-16",
+    "sentiment": "watch",
+    "excerpt": "Interest Rates in the United States should be 1%, or less, because we are the Best Credit in the World — BY FAR. Our Country is BOOMING with new Investment! If we stopped Trading with every country that we have a Deficit with, which is most",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117282643318690567",
+    "ticker": "",
+    "topics": [
+      "美联储/利率"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-09-15",
     "sentiment": "watch",
     "excerpt": "It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like",
@@ -386,6 +398,76 @@
     "topics": [
       "AI/芯片"
     ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-16",
+    "sentiment": "watch",
+    "excerpt": "Reminiscent of $NVDA w/ $LITE + $COHR:\n\nFoxconn is now considering joint investments to avoid upstream material shortages.\n\nFoxconn Interconnect Chairman identifies CW lasers and fiber as the biggest bottleneck in photonics.\n\nVery interesti",
+    "postUrl": "https://x.com/aleabitoreddit/status/2100290486569505223",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-16",
+    "sentiment": "watch",
+    "excerpt": "Reminiscent of $NVDA w/ $LITE + $COHR:\n\nFoxconn is now considering joint investments to avoid upstream material shortages.\n\nFoxconn Interconnect Chairman identifies CW lasers and fiber as the biggest bottleneck in photonics.\n\nVery interesti",
+    "postUrl": "https://x.com/aleabitoreddit/status/2100290486569505223",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-16",
+    "sentiment": "watch",
+    "excerpt": "Reminiscent of $NVDA w/ $LITE + $COHR:\n\nFoxconn is now considering joint investments to avoid upstream material shortages.\n\nFoxconn Interconnect Chairman identifies CW lasers and fiber as the biggest bottleneck in photonics.\n\nVery interesti",
+    "postUrl": "https://x.com/aleabitoreddit/status/2100290486569505223",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-15",
+    "sentiment": "watch",
+    "excerpt": "$SIVE has its own piece in Digitimes btw, which is appreciated industry recognition outside of Sweden. \n\nI think Sivers 100M+ CW DFB laser capacity buildout forced the industry to revisit its models and generated considerably more coverage.",
+    "postUrl": "https://x.com/aleabitoreddit/status/2100008575229976995",
+    "ticker": "AVGO",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-15",
+    "sentiment": "watch",
+    "excerpt": "$SIVE has its own piece in Digitimes btw, which is appreciated industry recognition outside of Sweden. \n\nI think Sivers 100M+ CW DFB laser capacity buildout forced the industry to revisit its models and generated considerably more coverage.",
+    "postUrl": "https://x.com/aleabitoreddit/status/2100008575229976995",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-15",
+    "sentiment": "watch",
+    "excerpt": "$SIVE has its own piece in Digitimes btw, which is appreciated industry recognition outside of Sweden. \n\nI think Sivers 100M+ CW DFB laser capacity buildout forced the industry to revisit its models and generated considerably more coverage.",
+    "postUrl": "https://x.com/aleabitoreddit/status/2100008575229976995",
+    "ticker": "JBL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-15",
+    "sentiment": "watch",
+    "excerpt": "$SIVE has its own piece in Digitimes btw, which is appreciated industry recognition outside of Sweden. \n\nI think Sivers 100M+ CW DFB laser capacity buildout forced the industry to revisit its models and generated considerably more coverage.",
+    "postUrl": "https://x.com/aleabitoreddit/status/2100008575229976995",
+    "ticker": "LITE",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -717,56 +799,6 @@
     "excerpt": "X should go out and ban every network ring that pays others to quote/comment on their posts.\n\nIf you want to see how it’s done:\n\n> companies pay influencers to comment/quote their posts (now sometimes with labels)\n\n> they spawn new accounts",
     "postUrl": "https://x.com/aleabitoreddit/status/2098383837646725143",
     "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-11",
-    "sentiment": "watch",
-    "excerpt": "Haha I feel bad for the guy at the $SIVE booth.\n\nGenuinely thanks everyone for helping crowd source channel checks, really appreciate it!\n\nThink the most interesting update overall from Innolight channel checks was explicit confirmation tha",
-    "postUrl": "https://x.com/aleabitoreddit/status/2098358633960726788",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-11",
-    "sentiment": "watch",
-    "excerpt": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX Wells Fargo forecasts are ~$263B for 2027",
-    "postUrl": "https://x.com/aleabitoreddit/status/2098306366167535766",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-11",
-    "sentiment": "watch",
-    "excerpt": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX Wells Fargo forecasts are ~$263B for 2027",
-    "postUrl": "https://x.com/aleabitoreddit/status/2098306366167535766",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-11",
-    "sentiment": "watch",
-    "excerpt": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX Wells Fargo forecasts are ~$263B for 2027",
-    "postUrl": "https://x.com/aleabitoreddit/status/2098306366167535766",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-11",
-    "sentiment": "watch",
-    "excerpt": "Yep, I'm personally high conviction on the AI trade (especially photonics/memory) despite macro.\n\n- $NVDA gave forecasts for $1.3T hyperscaler capex ($100B+ above BofA analyst expectations)\n\n- $SPCX Wells Fargo forecasts are ~$263B for 2027",
-    "postUrl": "https://x.com/aleabitoreddit/status/2098306366167535766",
-    "ticker": "GOOGL",
     "topics": []
   },
   {

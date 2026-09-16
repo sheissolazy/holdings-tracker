@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 331.34,
-  "change5dPct": 4.8,
-  "changeYtdPct": 31.1,
-  "marketCap": "$4.86T",
-  "pe": 37.6,
+  "price": 332.41,
+  "change5dPct": 5.4,
+  "changeYtdPct": 30.8,
+  "marketCap": "$4.84T",
+  "pe": 37.5,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-03-16",
-      "o": 252.11,
-      "h": 253.89,
-      "l": 249.88,
-      "c": 252.82
-    },
     {
       "t": "2026-03-17",
       "o": 252.96,
@@ -895,131 +888,138 @@
     },
     {
       "t": "2026-09-15",
-      "o": 330.26,
-      "h": 331.76,
+      "o": 330.14,
+      "h": 331.78,
       "l": 328.35,
       "c": 331.34
+    },
+    {
+      "t": "2026-09-16",
+      "o": 332.42,
+      "h": 335.48,
+      "l": 330.7,
+      "c": 332.41
     }
   ],
   "thesis": {
     "bull": [
-      "市场对苹果新款可折叠iPhone预期强烈，有分析人士认为需求可能「非常惊人」，若成功将打开新的换机周期",
-      "英伟达首席执行官近期公开言论提振外界对苹果人工智能能力的信心，带动整个苹果供应链和AI应用预期回暖",
-      "苹果股价在道琼斯科技类股中被部分技术分析认为已接近或进入买入区间，显示中期趋势并未被破坏"
+      "苹果在AI功能上的想象空间获得产业领袖背书，英伟达CEO黄仁勋公开表达对苹果AI前景的乐观看法，一定程度提振市场情绪",
+      "服务业务与生态系统粘性持续为苹果提供稳定现金流，抗周期能力强于纯硬件公司，在利率高企环境下具备防御属性",
+      "部分国会议员在2025年末新建AAPL多头仓位，显示至少有资金方在当前价位重新布局，反映长期基本面仍受认可"
     ],
     "bear": [
-      "市场对新一代iPhone Pro系列的初期需求评价为「平淡」，导致股价出现下跌，反映消费电子创新周期边际放缓的担忧",
-      "国会议员佩洛西相关的信息披露显示同期存在减持与退出仓位的记录，市场解读方向不一，部分被视为获利了结信号",
-      "三星等竞争对手近期在营销层面高调对标苹果，叠加安卓阵营在硬件与AI功能上的持续追赶，长期市场份额压力仍存"
+      "近期报道聚焦「苹果毛利率持续下滑」的担忧，若成本压力与产品结构变化侵蚀利润率，估值支撑将被削弱",
+      "跟踪者信息中同一时间窗口出现多笔减持/退出记录，且过去一年内多次交易呈现「先减后未见明显加仓」的模式，显示部分知情资金对短期走势并不一致甚至偏谨慎",
+      "台湾地缘政治风险被多方提及，苹果供应链高度依赖台积电及亚洲制造体系，若地缘紧张升级可能冲击生产与交付节奏"
     ],
     "watch": [
-      "关注即将披露的季度财报中iPhone及服务业务的实际出货与收入数据，以验证「平淡」需求传闻是否属实",
-      "关注苹果在生成式人工智能领域的产品化进展及与产业链伙伴（芯片、云端算力）合作的后续消息",
-      "关注美联储利率路径及整体「七巨头」科技股估值切换趋势，这将影响苹果这类高权重蓝筹股的资金流向"
+      "密切关注苹果毛利率变化趋势及管理层在财报电话会上的相关表态，判断是否为结构性还是周期性压力",
+      "关注美联储利率路径与美债收益率走势，高利率环境对成长股估值倍数的压制效应是否持续",
+      "跟踪国会议员及机构投资者后续披露的AAPL交易动向，观察2025年12月出现的买入与减持并存现象是否会在下一次披露周期中出现方向性收敛"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值最大的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品以及快速增长的服务业务（App Store、云服务、订阅等）。公司近期战略重心之一是在人工智能能力上追赶行业步伐，同时通过新硬件形态（如可折叠设备）寻找新的增长点。"
+        "body": "苹果是全球市值最高的科技公司之一，核心业务包括iPhone、Mac、iPad、可穿戴设备及快速增长的服务业务（App Store、iCloud、Apple Music、广告等）。公司近年来持续强调生态系统协同与用户粘性，服务收入占比逐步提升，成为对冲硬件销售周期性波动的重要支柱。"
       },
       {
-        "heading": "基本面与业绩驱动",
-        "body": "公开新闻显示市场对新款iPhone系列的短期需求评价出现分歧：一方面有报道称iPhone 18 Pro初期需求「平淡」并引发股价下跌，另一方面部分分析师和评论人士（如知名财经评论员）对即将推出的可折叠新品表达了非常乐观的预期。这种分歧反映出投资者对苹果产品周期成色的判断尚未统一。"
+        "heading": "基本面与财务",
+        "body": "市场近期关注的焦点之一是苹果毛利率是否持续承压，相关报道以「若毛利率持续下滑，苹果股价将如何」为题进行讨论，反映投资者对成本结构、产品组合（尤其新兴市场定价策略与硬件竞争）以及汇率因素的担忧。与此同时，服务业务的高毛利特性仍是支撑整体盈利能力的关键变量，需结合后续季度财报数据具体验证。"
       },
       {
-        "heading": "资金与关注度动向",
-        "body": "公开的国会议员交易披露记录中，围绕苹果股票出现了同一时间段内既有新增多头仓位、又有减持退出的记录，方向并不完全一致，说明即便是被密切关注的知情交易主体，对苹果短期走势也存在分歧，不宜简单解读为单一方向的强烈信号。"
+        "heading": "产业链与供应链",
+        "body": "苹果的核心制造与先进制程芯片高度依赖台积电（TSM）等亚洲供应链伙伴。近期新闻中出现「台湾是AI产业链薄弱环节」的警示性观点，以及台积电高管对AI产业发展阶段的表态，均提示投资者需关注地缘政治风险对苹果供应链稳定性的潜在影响，尤其在半导体出口管制与两岸局势相关议题持续发酵的背景下。"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "从近期新闻流看，人工智能相关叙事仍是科技板块的核心焦点，英伟达等芯片公司及其生态动态（包括对外部软件与硬件资源的整合）持续吸引市场注意力，并间接带动市场对苹果AI布局的期待。同时，三星等竞争对手在营销层面正主动对标苹果，显示终端设备市场竞争依然激烈。"
+        "heading": "政策与地缘政治",
+        "body": "近期国际新闻涉及多项地缘政治与制裁议题（如伊朗制裁、也门胡塞武装局势等），虽非直接针对苹果，但整体反映出全球宏观环境的不确定性上升。此外美联储加息预期及债券收益率上行，共同构成对成长型科技股估值的宏观压力，苹果作为高权重科技股难以完全独立于大盘系统性风险之外。"
       },
       {
-        "heading": "宏观与市场环境",
-        "body": "整体市场环境仍受到利率路径、地缘政治局势（如中东局势带来的成本与油价扰动）以及联储议息会议预期的影响。有观点认为AI板块可能面临阶段性降温压力，作为「七巨头」成分股之一，苹果的股价表现将持续与大盘科技股估值切换、资金轮动的宏观趋势保持较高相关性。"
+        "heading": "资金与跟踪者动向",
+        "body": "公开披露信息显示，佩洛西相关账户在2025年12月30日新建AAPL多头仓位，但同一披露文件及此前的2025年10月、2024年12月披露中，也存在多笔标注为减持/退出的交易记录。这种买卖并存的信号在解读时需谨慎，可能涉及期权对冲、多账户分散操作或再平衡需求，不宜简单解读为方向性一致的看多或看空信号。另外，英伟达CEO黄仁勋在2026年6月的公开言论一度带动AI相关股票包括苹果的关注度和买盘情绪。"
       },
       {
-        "heading": "多空分歧总结",
-        "body": "综合来看，市场在苹果新产品需求强弱、AI战略兑现节奏、以及短期资金动向上均存在明显分歧：乐观者押注新品类（可折叠设备）与AI叙事带来的估值重估，谨慎者则关注到近期需求信号偏弱及部分知情交易主体的减持行为。投资者需持续跟踪即将公布的财报及产品销售数据以修正判断，本分析不构成任何买卖建议。"
+        "heading": "估值与展望",
+        "body": "综合来看，苹果当前面临的核心分歧在于：一方面AI叙事与生态系统韧性支撑长期看多逻辑；另一方面毛利率压力、供应链地缘风险与宏观利率环境构成短期不确定性。市场评论中也出现「对AI放缓的对冲而非退出」这类中性偏谨慎的策略建议，反映出专业投资者对包括苹果在内的AI相关权重股整体持谨慎乐观但保留风险敞口对冲的态度。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
         "name": "微软",
-        "note": "同为大型科技权重股，AI与云服务战略进展常被市场用作对比苹果AI布局节奏的参照"
+        "note": "同为大型科技权重股，云服务与AI布局对比可作为苹果服务业务增长潜力的参照"
       },
       {
-        "ticker": "005930.KS",
-        "name": "三星电子",
-        "note": "苹果在高端智能手机市场的主要竞争对手，近期在营销上直接对标苹果，双方新品周期与市场份额变化值得对照观察"
+        "ticker": "TSM",
+        "name": "台积电",
+        "note": "苹果核心芯片代工伙伴，其营运与地缘政治风险直接影响苹果供应链稳定性"
       },
       {
         "ticker": "GOOGL",
         "name": "Alphabet",
-        "note": "在移动生态、AI模型能力及硬件业务上与苹果既竞争又合作，其AI进展常被视为衡量行业整体AI竞赛节奏的重要参照"
+        "note": "在AI技术布局与生态系统广告业务方面与苹果存在竞合关系，可用于横向比较估值与增长预期"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-15T23:30:22.408789Z"
+    "generatedAt": "2026-09-16T23:37:08.161942Z"
   },
   "news": [
     {
-      "id": "AAPL-142168351",
-      "title": "TSMC’s 2nm Era Is Accelerating With MediaTek. Nvidia and Alphabet Already Have Money on the Table",
-      "source": "Yahoo",
-      "publishedAt": "2026-09-15",
-      "url": "https://finnhub.io/api/news?id=86105b30bc518a119ef014f8b7c80f7f22eae6554c40f68f5a512b72d3a97b49",
+      "id": "AAPL-142198960",
+      "title": "Uncover the latest developments among dow jones stocks in today's session.",
+      "source": "ChartMill",
+      "publishedAt": "2026-09-16",
+      "url": "https://finnhub.io/api/news?id=ee741aaaf6d4c596298525d052f23bfe3d78b5929e852d5db39941de9f83365c",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142168357",
-      "title": "Dow Jones Tech Titan Apple, Nvidia Chipmaker TSMC, AMD, Bloom Energy In Or Near Buy Zones",
-      "source": "Yahoo",
-      "publishedAt": "2026-09-15",
-      "url": "https://finnhub.io/api/news?id=576fffea26bb6d499972aa862764216e0110bb231c1e53691e6f115e1da8fb04",
+      "id": "AAPL-142198589",
+      "title": "These S&P500 stocks are the most active in today's session",
+      "source": "ChartMill",
+      "publishedAt": "2026-09-16",
+      "url": "https://finnhub.io/api/news?id=3d20960e9c2cadfe673a46daeed5f890004d55a06e129bf7d23e901b6ea94793",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142168380",
-      "title": "Samsung turns Tim Cook into its latest marketing weapon",
+      "id": "AAPL-142198093",
+      "title": "Sector Update: Tech Stocks Gain Wednesday Afternoon",
       "source": "Yahoo",
-      "publishedAt": "2026-09-15",
-      "url": "https://finnhub.io/api/news?id=e4c65b0b5b72780b8b1814b5bcbebcc0fce936c4d88b0d9c9326b7106e344dfd",
+      "publishedAt": "2026-09-16",
+      "url": "https://finnhub.io/api/news?id=4bcf1825de5549b624e89b64a8a7c7c17500d0ee77cd3ac6fb7c038a7af8f949",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142168376",
-      "title": "Jim Cramer Believes Apple (AAPL) Could See “Off The Charts” Demand For Its New Foldable",
+      "id": "AAPL-142198120",
+      "title": "What Happens To Apple Stock If Its Margin Keeps Slipping?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-15",
-      "url": "https://finnhub.io/api/news?id=ab47b3997149b11cbe7332f6e1c49fb9a8ae0e6c5b7b9f6b5c34e1c46f0c229f",
+      "publishedAt": "2026-09-16",
+      "url": "https://finnhub.io/api/news?id=0078e1032fb647f22424aca113b33ff13e324bfa087dec12eebd65031470726b",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142168381",
-      "title": "Apple Stock Drops On 'Lukewarm' iPhone 18 Pro Demand",
+      "id": "AAPL-142198121",
+      "title": "Warren Buffett Hates Bonds—and Berkshire’s Portfolio Is Loving Him Right Now",
       "source": "Yahoo",
-      "publishedAt": "2026-09-15",
-      "url": "https://finnhub.io/api/news?id=e0cb5799d32fbb4799af084901b9aaa971a9cb576a04ac5ec09af37a61807932",
+      "publishedAt": "2026-09-16",
+      "url": "https://finnhub.io/api/news?id=70a72d712faebc6fc1b1ca60b611a9ea416772e5a6233327e590f26dfacacc9e",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142168360",
-      "title": "Magnificent Seven Stocks Eye Breakout After Sideways 2026",
+      "id": "AAPL-142196944",
+      "title": "Top Midday Stories: Markets Await Key Fed Decision on Rates; SK Hynix Exploring Deal With Intel to Make Chips in US",
       "source": "Yahoo",
-      "publishedAt": "2026-09-15",
-      "url": "https://finnhub.io/api/news?id=8f0e7e0444665517404a63f82eb6b66a13f6e613940eec278de1606c190932eb",
+      "publishedAt": "2026-09-16",
+      "url": "https://finnhub.io/api/news?id=c9a171cfe1628977e26fc286fe7db700a421226ea642a4f71747a7eb9209def6",
       "tags": [
         "AAPL"
       ]

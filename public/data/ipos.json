@@ -12,6 +12,18 @@
     "status": "expected"
   },
   {
+    "ticker": "AMRO",
+    "name": "Amaero Inc.",
+    "date": "2026-09-23",
+    "priceRange": [
+      7.06,
+      7.06
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global Select",
+    "status": "expected"
+  },
+  {
     "ticker": "BMB",
     "name": "Bamboo Insurance Services, Inc.",
     "date": "2026-09-23",
