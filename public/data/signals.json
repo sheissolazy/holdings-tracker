@@ -400,6 +400,36 @@
     ]
   },
   {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-09-17",
+    "sentiment": "watch",
+    "excerpt": "Tesla cars feel alive",
+    "postUrl": "https://x.com/elonmusk/status/2100636554158813316",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-17",
+    "sentiment": "watch",
+    "excerpt": "Just in case you're wondering why I'm so bullish on legacy memory...\n\nTheir hikes seem a lot extreme than $NBIS reported +17-21% GPU rentals today or Taiyo-Murata type MLCC hikes. \n\nPrice hikes projections expected for H2:\n\n- SLC NAND: +120",
+    "postUrl": "https://x.com/aleabitoreddit/status/2100530507549425704",
+    "ticker": "NBIS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-17",
+    "sentiment": "watch",
+    "excerpt": "Just in case you're wondering why I'm so bullish on legacy memory...\n\nTheir hikes seem a lot extreme than $NBIS reported +17-21% GPU rentals today or Taiyo-Murata type MLCC hikes. \n\nPrice hikes projections expected for H2:\n\n- SLC NAND: +120",
+    "postUrl": "https://x.com/aleabitoreddit/status/2100530507549425704",
+    "ticker": "PSMC",
+    "topics": []
+  },
+  {
     "personId": "serenity",
     "type": "social",
     "asOf": "2026-09-16",
@@ -789,16 +819,6 @@
     "excerpt": "Looks like Situational Awareness is back:\n\nSources say Leopold bought options in $AMD, $BE, $CRWV, and $DRAM.\n\nAnd was active in other stocks such as $SKHY, and $SNDK.\n\nLittle surprising since option IV across the board is quite high. https",
     "postUrl": "https://x.com/aleabitoreddit/status/2098430387693433144",
     "ticker": "DRAM",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-11",
-    "sentiment": "watch",
-    "excerpt": "X should go out and ban every network ring that pays others to quote/comment on their posts.\n\nIf you want to see how it’s done:\n\n> companies pay influencers to comment/quote their posts (now sometimes with labels)\n\n> they spawn new accounts",
-    "postUrl": "https://x.com/aleabitoreddit/status/2098383837646725143",
-    "ticker": "",
     "topics": []
   },
   {

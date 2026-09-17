@@ -1,42 +1,42 @@
 {
-  "forDate": "2026-09-17",
-  "generatedAt": "2026-09-16T23:37:41Z",
+  "forDate": "2026-09-18",
+  "generatedAt": "2026-09-17T23:29:57Z",
   "model": "确定性技术位 + 风险计（无 AI、无编造）",
   "catalysts": [],
   "pendingSignals": [],
   "draftActions": [],
   "risk": {
     "available": true,
-    "asOf": "2026-09-16",
-    "score": -1,
-    "level": "偏高",
-    "label": "风险偏高 · 注意防守",
+    "asOf": "2026-09-17",
+    "score": 2,
+    "level": "中",
+    "label": "风险中性",
     "inputs": [
       {
         "name": "标普 · 趋势",
-        "value": "处于 50/200 日线之间",
-        "detail": "SPX 754.0 · 50DMA 759.2 · 200DMA 715.5",
-        "contribution": 0,
-        "note": "趋势转折区、方向未明"
+        "value": "位于 50/200 日线上方",
+        "detail": "SPX 762.6 · 50DMA 759.5 · 200DMA 715.9",
+        "contribution": 2,
+        "note": "中长期趋势均健康（risk-on）"
       },
       {
         "name": "标普 · 1月动量",
-        "value": "-2.9%",
+        "value": "-1.3%",
         "detail": "近 22 个交易日累计涨跌",
         "contribution": 0,
         "note": "区间震荡"
       },
       {
         "name": "10年美债 · 1月",
-        "value": "+31bp",
-        "detail": "当前 5.01%",
-        "contribution": -1,
-        "note": "利率上行、压制估值"
+        "value": "+22bp",
+        "detail": "当前 4.95%",
+        "contribution": 0,
+        "note": "利率波动有限"
       },
       {
         "name": "美元指数 · 1月",
-        "value": "+0.7%",
-        "detail": "当前 DXY 100.34",
+        "value": "+0.6%",
+        "detail": "当前 DXY 100.24",
         "contribution": 0,
         "note": "美元区间波动"
       }
@@ -45,57 +45,21 @@
   },
   "suggestions": [
     {
-      "id": "hedge-spy-put",
-      "kind": "hedge",
-      "ticker": "SPY",
-      "instrument": "put",
-      "refPrice": 754.05,
-      "strike": 754.05,
-      "expiration": "2026-10-16",
-      "sizingHint": "组合 1–3%",
-      "confidence": "med",
-      "headline": "对冲：买入 SPY Put（风险体制偏高）",
-      "reason": "风险计为「偏高」。考虑买入 SPY Put 对冲：行权价 ≈ $754.05（现价 $754.05 下方最近支撑），到期 2026-10-16（下一月度 OPEX）。仓位建议占组合 1–3%，按你自己的风险承受调整。",
-      "basis": [
-        "风险计：风险偏高 · 注意防守（10年美债 · 1月转弱）",
-        "SPY 现价 $754.05，下方支撑 $754.05（近 30 日低点）",
-        "到期 2026-10-16 为确定性月度 OPEX（第三个周五）"
-      ]
-    },
-    {
-      "id": "nvda-add",
-      "kind": "add",
+      "id": "nvda-watch",
+      "kind": "watch",
       "ticker": "NVDA",
       "instrument": "stock",
-      "refPrice": 213.9,
-      "addBelow": 213.58,
-      "trimAbove": null,
+      "refPrice": 219.34,
+      "addBelow": 213.88,
+      "trimAbove": 234.76,
       "stop": 196.89,
       "confidence": "med",
-      "headline": "NVDA · 回踩加仓参考位",
-      "reason": "现价 $213.9 已靠近支撑带 $207.25（近 30 日低点）/ 50 日线 $213.58；如回踩 $213.58 附近可分批考虑。止损参考跌破 $196.89。",
+      "headline": "NVDA · 区间观察",
+      "reason": "现价 $219.34 处于支撑 $207.25 与阻力 $234.76 之间；回踩 $213.88 偏积极，逼近 $234.76 偏谨慎。",
       "basis": [
         "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
-        "近 30 日支撑 $207.25 / 阻力 $234.76 / 50 日线 $213.58（真实价格历史）",
-        "现价 $213.9，距支撑 +3.1% · 距阻力 +9.8%"
-      ]
-    },
-    {
-      "id": "be-watch",
-      "kind": "watch",
-      "ticker": "BE",
-      "instrument": "stock",
-      "refPrice": 270.02,
-      "addBelow": 224.73,
-      "trimAbove": 283.83,
-      "stop": 176.63,
-      "confidence": "med",
-      "headline": "BE · 区间观察",
-      "reason": "现价 $270.02 处于支撑 $185.93 与阻力 $283.83 之间；回踩 $224.73 偏积极，逼近 $283.83 偏谨慎。",
-      "basis": [
-        "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
-        "近 30 日支撑 $185.93 / 阻力 $283.83 / 50 日线 $224.73（真实价格历史）",
-        "现价 $270.02，距支撑 +31.1% · 距阻力 +5.1%"
+        "近 30 日支撑 $207.25 / 阻力 $234.76 / 50 日线 $213.88（真实价格历史）",
+        "现价 $219.34，距支撑 +5.5% · 距阻力 +7.0%"
       ]
     },
     {
@@ -103,17 +67,35 @@
       "kind": "trim",
       "ticker": "AAPL",
       "instrument": "stock",
-      "refPrice": 332.41,
+      "refPrice": 337.0,
       "addBelow": null,
-      "trimAbove": 336.22,
+      "trimAbove": 338.34,
       "stop": 285.54,
       "confidence": "med",
       "headline": "AAPL · 逼近阻力减仓参考位",
-      "reason": "现价 $332.41 逼近阻力 $336.22（近 30 日高点）；突破不站稳可考虑分批减仓，回踩 $319.27 再评估。",
+      "reason": "现价 $337.0 逼近阻力 $338.34（近 30 日高点）；突破不站稳可考虑分批减仓，回踩 $319.74 再评估。",
       "basis": [
         "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
-        "近 30 日支撑 $300.57 / 阻力 $336.22 / 50 日线 $319.27（真实价格历史）",
-        "现价 $332.41，距支撑 +9.6% · 距阻力 +1.1%"
+        "近 30 日支撑 $300.57 / 阻力 $338.34 / 50 日线 $319.74（真实价格历史）",
+        "现价 $337.0，距支撑 +10.8% · 距阻力 +0.4%"
+      ]
+    },
+    {
+      "id": "be-trim",
+      "kind": "trim",
+      "ticker": "BE",
+      "instrument": "stock",
+      "refPrice": 280.76,
+      "addBelow": null,
+      "trimAbove": 288.0,
+      "stop": 176.63,
+      "confidence": "med",
+      "headline": "BE · 逼近阻力减仓参考位",
+      "reason": "现价 $280.76 逼近阻力 $288.0（近 30 日高点）；突破不站稳可考虑分批减仓，回踩 $225.26 再评估。",
+      "basis": [
+        "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
+        "近 30 日支撑 $185.93 / 阻力 $288.0 / 50 日线 $225.26（真实价格历史）",
+        "现价 $280.76，距支撑 +33.8% · 距阻力 +2.6%"
       ]
     }
   ],

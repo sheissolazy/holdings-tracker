@@ -70,5 +70,17 @@
     "sector": "—",
     "exchange": "NASDAQ",
     "status": "expected"
+  },
+  {
+    "ticker": "HYACU",
+    "name": "Haymaker Acquisition Corp V",
+    "date": "2026-09-17",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NYSE",
+    "status": "expected"
   }
 ]
