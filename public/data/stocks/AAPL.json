@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 337.0,
-  "change5dPct": 3.2,
-  "changeYtdPct": 34.8,
-  "marketCap": "$4.85T",
-  "pe": 37.5,
+  "price": 336.13,
+  "change5dPct": 1.2,
+  "changeYtdPct": 35.0,
+  "marketCap": "$4.92T",
+  "pe": 37.6,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-03-18",
-      "o": 252.63,
-      "h": 254.94,
-      "l": 249.0,
-      "c": 249.94
-    },
     {
       "t": "2026-03-19",
       "o": 249.4,
@@ -895,131 +888,156 @@
     },
     {
       "t": "2026-09-17",
-      "o": 334.76,
+      "o": 334.77,
       "h": 338.34,
-      "l": 330.19,
+      "l": 330.18,
       "c": 337.0
+    },
+    {
+      "t": "2026-09-18",
+      "o": 337.99,
+      "h": 338.49,
+      "l": 332.53,
+      "c": 336.13
     }
   ],
   "thesis": {
     "bull": [
-      "BofA等机构指出运营商补贴力度上升，有望支撑iPhone换机需求维持韧性",
-      "服务业务与生态粘性持续增长，为公司提供稳定的高毛利现金流并支撑回购计划",
-      "英伟达CEO近期言论一度带动市场对苹果AI落地的期待升温，AI叙事仍具想象空间"
+      {
+        "point": "iPhone 18系列开局强劲，媒体与分析师现场调研及CFRA等机构均指出门店排队热络、产能对应的机型几乎「悉数售罄」，渠道数据支持本季度出货预期上修，多家机构上调目标价"
+      },
+      {
+        "point": "生态协同持续扩展，通用汽车宣布重新引入CarPlay与Android Auto，显示苹果在车载互联生态的议价能力和粘性并未被替代方案削弱，软件与服务收入的想象空间仍在"
+      },
+      {
+        "point": "英伟达CEO黄仁勋公开表态看好苹果在AI端侧的应用前景，叠加市场对AI基础设施资本开支中长期维持3万亿至4万亿美元规模的预期，苹果作为消费终端龙头有望受益于端侧AI功能带动的换机周期"
+      }
     ],
     "bear": [
-      "有分析文章直言苹果「品质诚可贵，但估值令人却步」，认为当前估值已透支部分远期增长",
-      "另有研究给出下调评级观点，提示「现实检验」即将到来，虽未明确建议卖出但态度转谨慎",
-      "跟踪的国会议员佩洛西在2025年12月、2025年10月及2024年12月的多次申报中均出现减持（trim）方向披露，显示部分知情交易者近期偏谨慎"
+      {
+        "point": "国会议员佩洛西关联账户近几个季度多次出现减持或退出苹果仓位的披露记录（2025年10月、2025年12月及2024年12月均有trim/exit动作），显示部分知情投资者对估值或前景趋于谨慎，尽管同期也出现一笔新建多头，信号并不一致，更像是期权组合操作而非单纯方向性判断"
+      },
+      {
+        "point": "当前宏观环境中，油价上行与美债收益率走高对成长股整体构成压制，若「AI驱动的资本开支推升利率至4.5%」的判断兑现，苹果作为高估值权重股的估值倍数可能承压"
+      },
+      {
+        "point": "Coinbase计划推出苹果、特斯拉、英伟达的单股永续合约，衍生品化交易可能放大股价短期波动性，增加围绕财报和新品周期的投机性资金进出"
+      }
     ],
     "watch": [
-      "佩洛西2025年12月30日的申报中同时出现新增（new）与减持（trim）两笔方向相反交易，需持续关注后续PTR及13F披露以判断真实仓位变化",
-      "美联储鹰派立场及伊朗、台海等地缘政治不确定性可能通过风险偏好渠道影响苹果等大盘科技股估值",
-      "苹果在端侧AI及家庭场景AI产品路线图上的推进节奏，将是检验其能否维持「AI叙事」估值溢价的关键催化剂"
+      {
+        "point": "iPhone 18 Duo等新机型的实际供应链爬坡与库存周转情况，需持续跟踪渠道调研和供应商出货数据以验证「近乎卖光」说法能否延续至旺季后段"
+      },
+      {
+        "point": "苹果在设备端AI功能（如Apple Intelligence相关能力）的落地节奏和用户实际使用率，这将决定黄仁勋所述「AI换机」逻辑能否被财务数据证实"
+      },
+      {
+        "point": "国会及机构持仓变动的后续披露，尤其需观察佩洛西关联账户下一次13F或PTR是否延续减持趋势，还是此前的新建多头预示转向"
+      }
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值最大的科技公司之一，业务涵盖iPhone、Mac、iPad、可穿戴设备以及服务（App Store、iCloud、Apple Music、广告与支付等）。硬件销售仍是营收主体，但服务业务占比逐年提升，成为盈利结构中重要的高毛利增长点。公司在全球拥有庞大的用户生态与品牌忠诚度，护城河主要来自软硬件一体化体验与生态锁定效应。"
+        "body": "苹果是全球市值领先的消费电子与服务公司，核心产品线包括iPhone、Mac、iPad、可穿戴设备及不断扩张的服务业务（App Store、iCloud、Apple Music、AppleCare等）。公司正处于iPhone 18系列新品发布周期，同时通过CarPlay等生态产品维系与合作伙伴的深度绑定，服务收入占比持续提升为营收结构提供一定的抗周期缓冲"
       },
       {
-        "heading": "基本面与财务",
-        "body": "苹果长期保持强劲的自由现金流生成能力，并通过持续的股票回购与分红回馈股东。近期报道显示，在运营商加大补贴力度的背景下，iPhone需求呈现一定韧性，但市场同时存在对其估值是否已充分反映增长前景的争议，有分析认为当前股价对应的估值偏高，上行空间有限。"
+        "heading": "近期业绩与新品动态",
+        "body": "多家媒体报道iPhone 18 Pro及iPhone 18 Duo在发售初期需求强劲，实体门店出现排队与限购现象，行业分析机构CFRA判断新机将「基本售罄」，并有机构因此上调苹果目标价。市场普遍将本轮新机周期视为验证苹果换机需求和定价能力的重要观察窗口"
       },
       {
-        "heading": "多空观点梳理",
-        "body": "多头观点集中在换机周期支撑、服务业务的稳定增长以及AI叙事带来的估值想象空间；空头观点则聚焦于估值偏高、增长边际放缓以及「现实检验」将至的担忧。市场对苹果能否在AI浪潮中保持领先地位存在明显分歧，部分观点认为其AI落地节奏慢于云端及芯片类公司。"
+        "heading": "生态与合作动态",
+        "body": "通用汽车宣布重新在旗下车型中支持CarPlay与Android Auto，被解读为苹果车载互联生态韧性的体现。与此同时，迪士尼等大型媒体公司首次设立首席技术官职位，反映科技巨头与传统行业在技术整合上的竞争与合作态势持续演变，苹果的平台地位仍是行业观察焦点"
       },
       {
-        "heading": "跟踪者/知情交易动向",
-        "body": "公开披露显示，国会议员佩洛西账户在过去一年多次对苹果持仓进行调整：2025年12月30日申报中同时出现新增与减持两笔方向相反交易，同月24日、2025年10月22日及2024年12月31日的申报则均为减持方向。整体上看，近期披露中减持信号出现频率高于新增信号，值得持续跟踪后续披露以确认趋势。此外，英伟达CEO在2026年6月的公开言论曾提及对苹果AI前景的高期待，一度带动包括苹果在内的AI相关股票走强，但该表态属于第三方观点，不代表苹果自身业绩指引。"
+        "heading": "AI与行业叙事",
+        "body": "英伟达CEO黄仁勋公开表达对苹果AI应用前景的乐观预期，并重申AI基础设施资本开支到2030年有望达到3万亿至4万亿美元的判断。苹果尚未在生成式AI浪潮中扮演基础设施供应商角色，但作为终端设备龙头，其能否将AI能力转化为实际换机驱动力，是市场评估其长期成长性的关键变量之一"
       },
       {
-        "heading": "宏观与行业环境",
-        "body": "当前宏观环境中，美联储货币政策立场、伊朗局势及中东地缘风险、中美围绕台海议题的博弈等因素均可能通过风险偏好与流动性渠道影响包括苹果在内的大盘科技股表现。同时，行业层面AI算力与芯片供给紧张（如Arm、Marvell等公司相关报道所示）反映出整个科技板块对AI基础设施的高度关注，苹果作为终端消费电子龙头，其AI战略被认为相对聚焦于设备侧而非云端算力布局。"
+        "heading": "宏观与市场环境",
+        "body": "近期油价波动、美债收益率走高以及围绕AI资本开支是否推高利率的讨论，构成对包括苹果在内的高估值科技股的宏观扰动因素。同时纳斯达克指数在利好消息带动下多次反弹，市场情绪在AI叙事和宏观风险之间反复切换，苹果股价表现与大盘科技板块联动性较强"
       },
       {
-        "heading": "风险与关注点",
-        "body": "主要风险包括估值消化压力、iPhone需求可持续性存疑、AI产品竞争力能否兑现市场预期，以及宏观流动性收紧对成长股估值的压制。建议持续关注公司后续财报指引、AI相关产品发布节奏，以及包括国会议员在内的知情交易者披露动向，以获取增量信息。"
+        "heading": "跟踪者动向与分歧",
+        "body": "公开披露显示，佩洛西关联账户在过去一年中多次出现减持或退出苹果仓位的记录（2024年底、2025年10月、2025年12月），但2025年12月30日同一披露文件中也出现一笔新建多头，交易方向并不统一，可能涉及期权组合而非简单看多或看空。这种混合信号本身反映出即便是知情投资者群体，对苹果当前估值和后市空间也存在分歧，市场应谨慎解读单一交易记录的方向性含义"
       }
     ],
     "comparables": [
       {
-        "ticker": "MSFT",
-        "name": "微软",
-        "note": "同为大型科技平台公司，云与AI业务布局更为激进，可作为AI叙事估值对比参照"
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "与AAPL同属科技板块被广泛关注标的，近期因GlobalFoundries扩大合作及AI数据通信业务受到市场关注，可作为AI硬件产业链景气度的参照"
       },
       {
-        "ticker": "GOOGL",
-        "name": "Alphabet",
-        "note": "在广告、云计算与AI模型能力上与苹果形成生态竞争，估值与增长结构可作横向比较"
+        "ticker": "NVDA",
+        "name": "NVIDIA Corporation",
+        "note": "AI基础设施核心供应商，其CEO对苹果AI前景的表态直接影响市场对AAPL端侧AI叙事的预期，两者在AI产业链上下游形成联动"
       },
       {
-        "ticker": "SSNLF",
-        "name": "三星电子",
-        "note": "全球主要智能手机及消费电子竞争对手，可用于比较硬件业务的需求周期与供应链动态"
+        "ticker": "MU",
+        "name": "Micron Technology",
+        "note": "存储芯片龙头，近期涨幅显著且被视为AI「代币工厂」硬件周期受益者，可与苹果供应链中的存储需求形成交叉参照"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-17T23:29:31.341894Z"
+    "generatedAt": "2026-09-18T23:10:41.447055Z"
   },
   "news": [
     {
-      "id": "AAPL-142229483",
-      "title": "Discover which dow jones stocks are making waves on Thursday.",
-      "source": "ChartMill",
-      "publishedAt": "2026-09-17",
-      "url": "https://finnhub.io/api/news?id=dfb76a66e1436e85948b341453048bdf27d660ffca2da6ee1a728671127df0b6",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-142230740",
-      "title": "Apple's Quality Is Tempting, But I'm Put Off By The Valuation",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-09-17",
-      "url": "https://finnhub.io/api/news?id=9488e603d22ce4695d8e62c9979ce7e77e3b4b10d24aee3047843151e15c69d0",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-142228574",
-      "title": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "publishedAt": "2026-09-17",
-      "url": "https://finnhub.io/api/news?id=19743c4c516fff44e17aef6ad8aee7e45aa5ec507e86f2f5d35e75dfae85174e",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-142226585",
-      "title": "Apple iPhone Demand Should Hold Up On Higher Carrier Incentives, BofA Says",
+      "id": "AAPL-142261539",
+      "title": "Coinbase Files to List Single-Stock Perps on Apple, Tesla and Nvidia",
       "source": "Yahoo",
-      "publishedAt": "2026-09-17",
-      "url": "https://finnhub.io/api/news?id=773c44a3dc1e3a9009d4b2133db121a5286ecaccde473b2515de3b661c269317",
+      "publishedAt": "2026-09-18",
+      "url": "https://finnhub.io/api/news?id=5e42e3b920ebd3317db6c18727698362c541ddeb139e09848f40d6d19b4e11fa",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142228577",
-      "title": "Apple: Reality Check Coming, But I'm Not Selling (Downgrade)",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-09-17",
-      "url": "https://finnhub.io/api/news?id=2dd3fd2b95ccd0bc3aa7953041e37d82c839f8d2ecbfa1a5fe60f30ed2728f1b",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-142224999",
-      "title": "Top strategist thinks the Federal Reserve interest rate hike won't fix this huge earnings risk",
+      "id": "AAPL-142261558",
+      "title": "Stock Market Today: Nasdaq, S&P Reverse Slightly Higher; Sandisk, Lumentum Lead This Tech Rally (Live Coverage)",
       "source": "Yahoo",
-      "publishedAt": "2026-09-17",
-      "url": "https://finnhub.io/api/news?id=f96e7cc7d5570c2bb5bfcbc16e4626fabe35ac458d64001a2c92029563ecec65",
+      "publishedAt": "2026-09-18",
+      "url": "https://finnhub.io/api/news?id=e3af098458f9a0beaa2b04ff4e097daf7d06b8abd21453f00b28e2d75b4ae1b5",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-142261557",
+      "title": "GM is re-downloading Apple CarPlay, Android Auto to its cars",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-18",
+      "url": "https://finnhub.io/api/news?id=e2a11418050a909bee1794c2740a93d44ebeb2362de049f5537898beec3cde42",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-142261553",
+      "title": "Apple Stock Gets Stunning Price Target Hike on Strong iPhone Demand",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-18",
+      "url": "https://finnhub.io/api/news?id=1b31ab7450c84ff379deb80d2a13a20a6d41845686af4e48e332ad4c57804f0c",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-142261552",
+      "title": "Apple will essentially sell 'every single' iPhone Duo it makes: CFRA",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-18",
+      "url": "https://finnhub.io/api/news?id=79ed4a40b029765a0b9953d0c50f57466b5a877b9f880cab1e59f2c42df367a2",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-142261554",
+      "title": "Apple Stock Near Buy Point As iPhone 18 Pro Goes On Sale",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-18",
+      "url": "https://finnhub.io/api/news?id=74137b3be8176ceb189457dfd3226779cdc3846d9e9345ebc7ddfdf4a7986aa0",
       "tags": [
         "AAPL"
       ]

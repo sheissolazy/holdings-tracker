@@ -1,42 +1,42 @@
 {
-  "forDate": "2026-09-18",
-  "generatedAt": "2026-09-17T23:29:57Z",
+  "forDate": "2026-09-19",
+  "generatedAt": "2026-09-18T23:11:10Z",
   "model": "确定性技术位 + 风险计（无 AI、无编造）",
   "catalysts": [],
   "pendingSignals": [],
   "draftActions": [],
   "risk": {
     "available": true,
-    "asOf": "2026-09-17",
-    "score": 2,
+    "asOf": "2026-09-18",
+    "score": 1,
     "level": "中",
     "label": "风险中性",
     "inputs": [
       {
         "name": "标普 · 趋势",
         "value": "位于 50/200 日线上方",
-        "detail": "SPX 762.6 · 50DMA 759.5 · 200DMA 715.9",
+        "detail": "SPX 761.7 · 50DMA 759.7 · 200DMA 716.3",
         "contribution": 2,
         "note": "中长期趋势均健康（risk-on）"
       },
       {
         "name": "标普 · 1月动量",
-        "value": "-1.3%",
+        "value": "-0.8%",
         "detail": "近 22 个交易日累计涨跌",
         "contribution": 0,
         "note": "区间震荡"
       },
       {
         "name": "10年美债 · 1月",
-        "value": "+22bp",
-        "detail": "当前 4.95%",
-        "contribution": 0,
-        "note": "利率波动有限"
+        "value": "+29bp",
+        "detail": "当前 5.00%",
+        "contribution": -1,
+        "note": "利率上行、压制估值"
       },
       {
         "name": "美元指数 · 1月",
         "value": "+0.6%",
-        "detail": "当前 DXY 100.24",
+        "detail": "当前 DXY 100.22",
         "contribution": 0,
         "note": "美元区间波动"
       }
@@ -45,21 +45,39 @@
   },
   "suggestions": [
     {
+      "id": "be-watch",
+      "kind": "watch",
+      "ticker": "BE",
+      "instrument": "stock",
+      "refPrice": 265.63,
+      "addBelow": 225.43,
+      "trimAbove": 288.0,
+      "stop": 176.63,
+      "confidence": "med",
+      "headline": "BE · 区间观察",
+      "reason": "现价 $265.63 处于支撑 $185.93 与阻力 $288.0 之间；回踩 $225.43 偏积极，逼近 $288.0 偏谨慎。",
+      "basis": [
+        "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
+        "近 30 日支撑 $185.93 / 阻力 $288.0 / 50 日线 $225.43（真实价格历史）",
+        "现价 $265.63，距支撑 +30.0% · 距阻力 +8.4%"
+      ]
+    },
+    {
       "id": "nvda-watch",
       "kind": "watch",
       "ticker": "NVDA",
       "instrument": "stock",
-      "refPrice": 219.34,
-      "addBelow": 213.88,
+      "refPrice": 222.27,
+      "addBelow": 214.27,
       "trimAbove": 234.76,
       "stop": 196.89,
       "confidence": "med",
       "headline": "NVDA · 区间观察",
-      "reason": "现价 $219.34 处于支撑 $207.25 与阻力 $234.76 之间；回踩 $213.88 偏积极，逼近 $234.76 偏谨慎。",
+      "reason": "现价 $222.27 处于支撑 $207.25 与阻力 $234.76 之间；回踩 $214.27 偏积极，逼近 $234.76 偏谨慎。",
       "basis": [
         "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
-        "近 30 日支撑 $207.25 / 阻力 $234.76 / 50 日线 $213.88（真实价格历史）",
-        "现价 $219.34，距支撑 +5.5% · 距阻力 +7.0%"
+        "近 30 日支撑 $207.25 / 阻力 $234.76 / 50 日线 $214.27（真实价格历史）",
+        "现价 $222.27，距支撑 +6.8% · 距阻力 +5.6%"
       ]
     },
     {
@@ -67,35 +85,17 @@
       "kind": "trim",
       "ticker": "AAPL",
       "instrument": "stock",
-      "refPrice": 337.0,
+      "refPrice": 336.13,
       "addBelow": null,
-      "trimAbove": 338.34,
+      "trimAbove": 338.49,
       "stop": 285.54,
       "confidence": "med",
       "headline": "AAPL · 逼近阻力减仓参考位",
-      "reason": "现价 $337.0 逼近阻力 $338.34（近 30 日高点）；突破不站稳可考虑分批减仓，回踩 $319.74 再评估。",
+      "reason": "现价 $336.13 逼近阻力 $338.49（近 30 日高点）；突破不站稳可考虑分批减仓，回踩 $320.14 再评估。",
       "basis": [
         "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
-        "近 30 日支撑 $300.57 / 阻力 $338.34 / 50 日线 $319.74（真实价格历史）",
-        "现价 $337.0，距支撑 +10.8% · 距阻力 +0.4%"
-      ]
-    },
-    {
-      "id": "be-trim",
-      "kind": "trim",
-      "ticker": "BE",
-      "instrument": "stock",
-      "refPrice": 280.76,
-      "addBelow": null,
-      "trimAbove": 288.0,
-      "stop": 176.63,
-      "confidence": "med",
-      "headline": "BE · 逼近阻力减仓参考位",
-      "reason": "现价 $280.76 逼近阻力 $288.0（近 30 日高点）；突破不站稳可考虑分批减仓，回踩 $225.26 再评估。",
-      "basis": [
-        "1 位跟踪者 13F 持有：Nancy Pelosi·新建",
-        "近 30 日支撑 $185.93 / 阻力 $288.0 / 50 日线 $225.26（真实价格历史）",
-        "现价 $280.76，距支撑 +33.8% · 距阻力 +2.6%"
+        "近 30 日支撑 $300.57 / 阻力 $338.49 / 50 日线 $320.14（真实价格历史）",
+        "现价 $336.13，距支撑 +10.6% · 距阻力 +0.7%"
       ]
     }
   ],

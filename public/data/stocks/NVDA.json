@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 219.34,
-  "change5dPct": 0.4,
-  "changeYtdPct": 21.6,
-  "marketCap": "$5.15T",
-  "pe": 26.8,
+  "price": 222.27,
+  "change5dPct": 1.8,
+  "changeYtdPct": 24.5,
+  "marketCap": "$5.29T",
+  "pe": 27.4,
   "revenue": "—",
   "revenueYoYPct": 83,
   "prices": [
-    {
-      "t": "2026-03-18",
-      "o": 182.48,
-      "h": 183.38,
-      "l": 180.33,
-      "c": 180.4
-    },
     {
       "t": "2026-03-19",
       "o": 178.01,
@@ -895,149 +888,143 @@
     },
     {
       "t": "2026-09-17",
-      "o": 218.39,
-      "h": 219.9,
+      "o": 218.38,
+      "h": 219.91,
       "l": 217.15,
       "c": 219.34
+    },
+    {
+      "t": "2026-09-18",
+      "o": 219.35,
+      "h": 222.73,
+      "l": 218.04,
+      "c": 222.27
     }
   ],
   "thesis": {
     "bull": [
-      {
-        "point": "AI基础设施资本开支仍处于高速扩张阶段，云厂商与主权AI项目持续加单，公司在数据中心GPU市场维持事实垄断地位，Blackwell及后续Rubin平台订单能见度较长"
-      },
-      {
-        "point": "生态护城河深厚，CUDA软件栈、NVLink互联及全栈方案（芯片+网络+软件）使客户切换成本高，短期内竞争对手（AMD、自研ASIC）难以撼动其份额"
-      },
-      {
-        "point": "下游需求呈现多元化迹象，除超大规模云厂商外，主权AI、企业级推理、机器人及物理AI等新场景带来增量需求，管理层及产业链人士（如Arm、富士康、Oracle相关表态）持续释放供给紧张、需求旺盛的信号"
-      }
+      "黄仁勋在最新沟通中重申，AI基础设施支出到2030年将达到3万亿至4万亿美元这一预测与一年前一致，显示其对超大规模厂商资本开支长期上行趋势保持高度信心，Oracle等公司透露GPU容量续约溢价超过20%，佐证下游需求依旧紧俏。",
+      "HBM及存储供应链持续紧张，市场渠道调研显示2027年HBM平均售价可能上涨80%至100%，英特尔管理层亦警示部分存储价格已上涨5至7倍且短缺将在2027年加剧，反映AI服务器端需求旺盛，间接支撑英伟达GPU出货的能见度与议价能力。",
+      "英伟达的生态影响力正从核心GPU芯片向光通信、CW激光器、以太网互联等上游环节延伸，其被投或关联企业（如云平台Nscale）提交IPO申请，显示其平台化布局与产业链话语权持续扩大，构筑更深的竞争护城河。"
     ],
     "bear": [
-      {
-        "point": "估值处于历史高位，隐含极高增长预期，一旦资本开支增速边际放缓或大客户（如Meta、微软、亚马逊、谷歌）削减GPU采购指引，股价对预期修正非常敏感"
-      },
-      {
-        "point": "客户集中度风险上升，谷歌TPU、亚马逊Trainium、微软Maia等自研ASIC持续放量，叠加AMD MI系列追赶，中长期可能侵蚀公司毛利率与市场份额"
-      },
-      {
-        "point": "地缘政治与出口管制仍是不确定变量，对华销售限制、供应链（CoWoS封装、HBM存储）瓶颈及潜在关税政策变化，都可能对收入节奏和利润率造成扰动"
-      }
+      "有分析指出英伟达在同业可比公司中的「清洁倍数」估值处于最低水平，这一现象值得关注，可能反映市场对其未来盈利质量、库存策略或收入确认方式存在分歧，从而限制估值进一步扩张的空间。",
+      "围绕AI前沿模型发展是否会放缓的讨论持续存在分歧，部分评论者认为即便模型能力停止提升，仅将现有能力铺开也需要远超当前全球产能的算力，但这一乐观假设本身也隐含着对资本开支永续增长的强依赖，一旦融资环境收紧（有报道称AI支出可能推动利率升至4.5%），超大规模厂商资本开支节奏存在放缓风险。",
+      "上游HBM、CW激光器、光纤等关键材料的持续短缺，虽然反映需求旺盛，但也可能成为英伟达客户交付进度与整体AI基础设施建设速度的制约因素，叠加地缘政治层面对华出口限制等不确定性，供应链与政策风险仍不可忽视。"
     ],
     "watch": [
-      {
-        "point": "美联储利率路径及宏观流动性变化，作为高估值成长股，NVDA对无风险利率变动的敏感度较高，近期议息会议后市场波动需持续关注"
-      },
-      {
-        "point": "光通信/CW激光器等上游材料瓶颈（据产业链人士提及富士康、Coherent、Lumentum相关表态），若光模块供应紧张缓解或恶化，将影响数据中心建设节奏"
-      },
-      {
-        "point": "国会议员等政治人物的股票交易披露（如佩洛西多次买入并部分减持NVDA），虽不构成基本面信号，但可作为市场情绪与关注度的侧面参考指标"
-      }
+      "关注英伟达下一财季财报中管理层对2027财年资本开支指引、Hyperscaler客户合同细节及HBM等关键物料供应对GPU交付节奏影响的最新表态。",
+      "关注美联储利率决议及后续路径，高估值成长股尤其是AI资本开支敏感型公司的估值对利率变化较为敏感，需持续跟踪其传导效应。",
+      "关注国会议员（如佩洛西）在英伟达的持仓变动模式，以及更广泛的内部人与机构投资者交易动向，作为市场情绪与预期变化的间接观察指标。"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA是全球领先的加速计算与AI芯片设计公司，核心产品覆盖数据中心GPU（Hopper、Blackwell及规划中的Rubin架构）、网络互联（NVLink、InfiniBand、Spectrum-X以太网）以及CUDA软件生态。公司业务已从传统游戏显卡厂商转型为AI基础设施核心供应商，数据中心业务贡献了绝大部分营收，客户涵盖各大云计算厂商、主权AI项目及企业客户。"
+        "body": "英伟达是全球领先的图形处理器与人工智能加速计算平台提供商，业务已从传统游戏显卡延伸至数据中心GPU、网络互联、软件与全栈AI基础设施解决方案，是当前全球AI算力建设浪潮中的核心受益者之一，客户涵盖各大云计算厂商、企业及主权AI项目。"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "当前AI算力需求仍由大型云厂商资本开支驱动，Oracle、微软、Meta等公司近期财报及产业链消息显示GPU容量持续紧张甚至溢价续约，反映短期需求旺盛。但竞争格局正在变化：AMD MI系列产品加速迭代，谷歌TPU、亚马逊Trainium、微软自研芯片持续放量，Marvell、博通等公司在定制ASIC领域的合作规模扩大，长期可能分流部分市场份额，尤其是在推理场景。"
+        "heading": "基本面与业务驱动",
+        "body": "公司管理层持续强调AI基础设施长期资本开支前景，预计到2030年相关支出规模将达到3万亿至4万亿美元级别。超大规模云厂商在2027财年的资本开支预期呈上修趋势，叠加GPU容量续约溢价的市场信号，显示下游需求依旧强劲，但对营收增长可持续性的分歧也随之增加。"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "公开披露显示，国会议员佩洛西在2025年末至2026年初多次买入NVDA，同时穿插部分减持交易，属于典型的分批建仓兼获利了结模式，市场通常将此类交易视为情绪指标而非基本面信号，需谨慎解读，不构成投资建议依据。社交媒体上的产业观察人士则聚焦于光通信瓶颈、AI前沿模型算力需求、以及美联储决议前后的市场情绪，整体基调偏向对AI算力长期需求保持乐观，但对短期宏观扰动保持警惕。"
+        "heading": "估值与市场表现",
+        "body": "英伟达股价在过去半年内实现约21%的涨幅，但市场对其估值的看法出现分化，部分分析认为其在同业可比公司中的清洁倍数偏低，反映盈利质量或成长可持续性方面存在争议，而另一部分观点则认为当前定价尚未充分反映其长期平台化增长潜力。"
       },
       {
-        "heading": "财务与增长驱动",
-        "body": "公司近年营收与利润呈现爆发式增长，毛利率维持在业内极高水平，主要受益于数据中心GPU的强劲定价能力和供不应求的市场状态。增长驱动力包括Blackwell平台的持续放量爬坡、新一代Rubin架构的路线图执行、以及企业与主权AI项目带来的订单多元化。但高基数下，市场对未来几个季度环比增速能否维持存在分歧，任何指引不及预期都可能引发估值重估。"
+        "heading": "产业链与供应链",
+        "body": "HBM等存储器及光通信相关材料（如CW激光器、光纤）的供应紧张已成为整个AI硬件产业链的关键议题，渠道调研显示相关价格存在大幅上涨预期，这既反映下游需求旺盛，也可能对包括英伟达在内的产业链参与者的产能爬坡与交付节奏形成制约。"
       },
       {
-        "heading": "估值与市场情绪",
-        "body": "NVDA当前估值隐含了对AI资本开支持续高增长的乐观预期，市场情绪整体偏多，但波动性较高，对美联储利率决议、大客户资本开支指引及地缘政治消息高度敏感。近期市场表现显示，即便出现利空扰动（如鹰派议息、监管消息），资金仍倾向于在回调中逢低布局相关AI产业链标的，反映市场对AI长期叙事的信念仍然较强，但也埋下预期过高、波动放大的风险。"
+        "heading": "政策与宏观环境",
+        "body": "美联储利率路径、AI相关资本开支对整体利率环境的潜在影响，以及中美贸易与出口管制等地缘政治因素，均是影响英伟达估值与业务前景的重要宏观变量。此外，国会议员等公众人物的持仓变动也持续受到市场关注，被部分投资者视为情绪指标之一。"
       },
       {
-        "heading": "风险与展望",
-        "body": "主要风险包括：出口管制与地缘政治不确定性对中国区收入的持续压制、供应链上游（先进封装、HBM存储、光模块等）瓶颈可能限制出货节奏、自研ASIC与竞争对手产品放量对长期份额和毛利率的潜在侵蚀，以及宏观流动性收紧对高估值成长股估值中枢的压制。展望层面，若AI算力需求的现实兑现能持续匹配或超越市场预期，公司仍具备维持行业主导地位的基础，但投资者需持续跟踪资本开支指引、供应链动态及监管政策变化，审慎评估多空分歧。"
+        "heading": "风险与分歧总结",
+        "body": "市场对英伟达的核心分歧集中在AI资本开支的可持续性、估值合理性以及供应链瓶颈的持续时间三个方面。乐观者强调需求端能见度与产业链延展的护城河效应，谨慎者则担忧融资成本上升、前沿模型发展节奏放缓预期变化及估值倍数偏低等因素可能对股价形成压力，投资者需持续跟踪相关财报与宏观数据以校验判断。"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "数据中心GPU及CPU领域最主要的直接竞争对手，MI系列产品持续迭代，试图分流NVIDIA市场份额"
+        "note": "英伟达在GPU与数据中心加速计算领域的主要直接竞争对手，近年在AI芯片市场份额上持续追赶。"
       },
       {
         "ticker": "AVGO",
-        "name": "Broadcom Inc",
-        "note": "深度参与超大规模云厂商定制ASIC及网络芯片业务，是自研算力路线的重要受益者，与NVIDIA形成潜在替代关系"
+        "name": "Broadcom",
+        "note": "在定制化AI芯片（ASIC）与网络互联领域与英伟达形成部分竞争与合作关系，是超大规模厂商多元化算力布局的重要选项。"
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology",
+        "note": "HBM存储器核心供应商之一，其产能与定价走势直接影响英伟达GPU的供应链成本与交付节奏，被视为AI硬件产业链景气度的重要风向标。"
       },
       {
         "ticker": "TSM",
-        "name": "台湾积体电路制造公司",
-        "note": "NVIDIA先进制程与先进封装的核心代工伙伴，其产能与良率直接影响NVIDIA出货节奏"
+        "name": "Taiwan Semiconductor Manufacturing",
+        "note": "英伟达先进制程芯片的核心代工厂商，其产能扩张与良率进度对英伟达新一代产品的量产节奏具有决定性影响。"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-17T23:27:38.687058Z"
+    "generatedAt": "2026-09-18T23:08:30.073785Z"
   },
   "news": [
     {
-      "id": "NVDA-142229483",
-      "title": "Discover which dow jones stocks are making waves on Thursday.",
-      "source": "ChartMill",
-      "publishedAt": "2026-09-17",
-      "url": "https://finnhub.io/api/news?id=dfb76a66e1436e85948b341453048bdf27d660ffca2da6ee1a728671127df0b6",
-      "tags": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "NVDA-142229096",
-      "title": "Most active S&P500 stocks in Thursday's session",
-      "source": "ChartMill",
-      "publishedAt": "2026-09-17",
-      "url": "https://finnhub.io/api/news?id=0d852bd60c8de3c6239685cf2705b7e360785db1df8879cd5d21e530331f5afd",
-      "tags": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "NVDA-142228574",
-      "title": "These dow jones stocks are moving in today's session",
-      "source": "ChartMill",
-      "publishedAt": "2026-09-17",
-      "url": "https://finnhub.io/api/news?id=19743c4c516fff44e17aef6ad8aee7e45aa5ec507e86f2f5d35e75dfae85174e",
-      "tags": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "NVDA-142229847",
-      "title": "Palantir Stock: The AI Token Boom Is Hiding A Bigger Opportunity",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-09-17",
-      "url": "https://finnhub.io/api/news?id=a7c3a965b417831579c2e300db6fcb4cf5bd3b1d162242246505248f06a7b5a1",
-      "tags": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "NVDA-142229103",
-      "title": "Nebius: You Don't Raise Prices Into A Slowdown",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-09-17",
-      "url": "https://finnhub.io/api/news?id=09eaf33cb240fc920c3286d95f68b6c0c1fc399a616d3eb99dd6476d714abc91",
-      "tags": [
-        "NVDA"
-      ]
-    },
-    {
-      "id": "NVDA-142225673",
-      "title": "Arm’s CEO Says Demand Is ‘Off the Charts.’ The Problem Is Nobody Can Build Chips Fast Enough",
+      "id": "NVDA-142261543",
+      "title": "Why Gemini Space Station Stock Jumped 31.2% Today",
       "source": "Yahoo",
-      "publishedAt": "2026-09-17",
-      "url": "https://finnhub.io/api/news?id=f46086f78b26ca4653489c57be690d52c9c36258ecad07adb12416985611277d",
+      "publishedAt": "2026-09-18",
+      "url": "https://finnhub.io/api/news?id=c15840811b5281dd8acfc7b6f7e579f9ee045f0c06dfcd9b1649707c01f2a5c0",
+      "tags": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "NVDA-142261538",
+      "title": "Micron Turned $10,000 Into About $130,000 in 5 Years. Most of It Came in the Past 12 Months.",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-18",
+      "url": "https://finnhub.io/api/news?id=cb149a1b9c53bb6aa2904326b09ad9f277e28f169bcf6f363ca6c719e2e90e0e",
+      "tags": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "NVDA-142261526",
+      "title": "Jensen Huang Maintained His Prediction That AI Infrastructure Spending Will Hit $3 Trillion to $4 Trillion by 2030 -- the Same Forecast He Made a Year Ago to the Day. Is Nvidia Still a Buy at These Levels?",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-18",
+      "url": "https://finnhub.io/api/news?id=4f642ff2edb3533eff63c0ebc3f2596d61b5d0656f22c8839eeb9c25a56d1016",
+      "tags": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "NVDA-142261527",
+      "title": "Nvidia-Backed Cloud Platform Nscale Files For IPO — NVDA Stock In Focus",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-18",
+      "url": "https://finnhub.io/api/news?id=50c1c34384df051ae4f5c121e78eeedff943bd3ad02020e5a77f55b71b84a5e2",
+      "tags": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "NVDA-142261532",
+      "title": "3 Unstoppable Dividend Stocks to Buy Now (1 Yields 5.5%)",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-18",
+      "url": "https://finnhub.io/api/news?id=e44362836c3ebaecfb59dd379ee0d5d56429e47bfbb57dce8bf4e9e13e83fcba",
+      "tags": [
+        "NVDA"
+      ]
+    },
+    {
+      "id": "NVDA-142261528",
+      "title": "Nvidia Stock Is Up 21% in Six Months. Here’s What the Street Still Isn’t Pricing In",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-18",
+      "url": "https://finnhub.io/api/news?id=e7befb3770a062088a8edf03cd759e5ed1cae5fb96adb61293e80dd6891b3269",
       "tags": [
         "NVDA"
       ]

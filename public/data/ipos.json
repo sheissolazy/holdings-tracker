@@ -40,8 +40,8 @@
     "name": "Electra Therapeutics, Inc.",
     "date": "2026-09-18",
     "priceRange": [
-      14.0,
-      16.0
+      15.0,
+      15.0
     ],
     "sector": "—",
     "exchange": "NASDAQ Global Select",
@@ -52,8 +52,8 @@
     "name": "Orion180 Insurance Group Inc.",
     "date": "2026-09-18",
     "priceRange": [
-      15.0,
-      17.0
+      12.0,
+      12.0
     ],
     "sector": "—",
     "exchange": "NASDAQ Global Select",
@@ -72,15 +72,15 @@
     "status": "expected"
   },
   {
-    "ticker": "HYACU",
-    "name": "Haymaker Acquisition Corp V",
-    "date": "2026-09-17",
+    "ticker": "LEDRU",
+    "name": "Leader's Advantage Acquisition Corp.",
+    "date": "2026-09-18",
     "priceRange": [
       10.0,
       10.0
     ],
     "sector": "—",
-    "exchange": "NYSE",
+    "exchange": "NASDAQ Global",
     "status": "expected"
   }
 ]
