@@ -34,53 +34,5 @@
     "sector": "—",
     "exchange": "NYSE",
     "status": "expected"
-  },
-  {
-    "ticker": "ETRA",
-    "name": "Electra Therapeutics, Inc.",
-    "date": "2026-09-18",
-    "priceRange": [
-      15.0,
-      15.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global Select",
-    "status": "expected"
-  },
-  {
-    "ticker": "OIG",
-    "name": "Orion180 Insurance Group Inc.",
-    "date": "2026-09-18",
-    "priceRange": [
-      12.0,
-      12.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global Select",
-    "status": "expected"
-  },
-  {
-    "ticker": "HNUC",
-    "name": "Holtec Nuclear Corp",
-    "date": "2026-09-18",
-    "priceRange": [
-      15.0,
-      18.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ",
-    "status": "expected"
-  },
-  {
-    "ticker": "LEDRU",
-    "name": "Leader's Advantage Acquisition Corp.",
-    "date": "2026-09-18",
-    "priceRange": [
-      10.0,
-      10.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global",
-    "status": "expected"
   }
 ]
