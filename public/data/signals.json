@@ -425,16 +425,138 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-09-15",
+    "asOf": "2026-09-22",
     "sentiment": "watch",
-    "excerpt": "Republicans just got another bad decision from the United States Supreme Court, one that the Court System took forever to give, and then blamed it, in part, on no time left to implement a solution to our totally CORRUPT and out of control M",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117275286602582454",
-    "ticker": "",
+    "excerpt": "Grok @Bot now in your Tesla!",
+    "postUrl": "https://x.com/elonmusk/status/2102439262507725294",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-09-22",
+    "sentiment": "watch",
+    "excerpt": "Grok 4.7 doing real engineering work at Tesla",
+    "postUrl": "https://x.com/elonmusk/status/2102423241897705926",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-22",
+    "sentiment": "watch",
+    "excerpt": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks.\n\nThanks Trump. https://t.co/x7tJcKjfsc",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102427727987179692",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-22",
+    "sentiment": "watch",
+    "excerpt": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks.\n\nThanks Trump. https://t.co/x7tJcKjfsc",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102427727987179692",
+    "ticker": "SNDK",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-22",
+    "sentiment": "watch",
+    "excerpt": "I feel like traditional \"value investing\" went into hibernation.\n\nBefore it was finding a 10x -12x P/E company like $UPWK or $PYPL, Dominoes, Pepsi. Or even a cheap Japanese company below book value.\n\nThen just enjoying slow growth but buyb",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102391630515110126",
+    "ticker": "ESMT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-22",
+    "sentiment": "watch",
+    "excerpt": "I feel like traditional \"value investing\" went into hibernation.\n\nBefore it was finding a 10x -12x P/E company like $UPWK or $PYPL, Dominoes, Pepsi. Or even a cheap Japanese company below book value.\n\nThen just enjoying slow growth but buyb",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102391630515110126",
+    "ticker": "PYPL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-22",
+    "sentiment": "watch",
+    "excerpt": "I feel like traditional \"value investing\" went into hibernation.\n\nBefore it was finding a 10x -12x P/E company like $UPWK or $PYPL, Dominoes, Pepsi. Or even a cheap Japanese company below book value.\n\nThen just enjoying slow growth but buyb",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102391630515110126",
+    "ticker": "UPWK",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-21",
+    "sentiment": "watch",
+    "excerpt": "Wow Bitcoin + Ethereum pulled pretty extreme recoveries.  \n\nLooks like $HOOD / $COIN / Crypto is back? \n\nOn-chain equities trading + regulator exemptions probably put a lot of fuel into the fire for the sector.  \n\nThat aside... crypto is us",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102256045938852015",
+    "ticker": "COIN",
     "topics": [
-      "关税/贸易"
+      "加密"
     ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-21",
+    "sentiment": "watch",
+    "excerpt": "Wow Bitcoin + Ethereum pulled pretty extreme recoveries.  \n\nLooks like $HOOD / $COIN / Crypto is back? \n\nOn-chain equities trading + regulator exemptions probably put a lot of fuel into the fire for the sector.  \n\nThat aside... crypto is us",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102256045938852015",
+    "ticker": "HOOD",
+    "topics": [
+      "加密"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-21",
+    "sentiment": "watch",
+    "excerpt": "All right $META Muse is cooking. \n\nI can hear all the $AMD, $INTC, and $ARM CPUs vrrrring in the background.\n\nAlong with the memory + components (NICs, SSDs, DRAM) needed for all the browsers/VMs\n\nWhen I ask it to do a bunch of long form ta",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102247915251224980",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-21",
+    "sentiment": "watch",
+    "excerpt": "All right $META Muse is cooking. \n\nI can hear all the $AMD, $INTC, and $ARM CPUs vrrrring in the background.\n\nAlong with the memory + components (NICs, SSDs, DRAM) needed for all the browsers/VMs\n\nWhen I ask it to do a bunch of long form ta",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102247915251224980",
+    "ticker": "AMZN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-21",
+    "sentiment": "watch",
+    "excerpt": "All right $META Muse is cooking. \n\nI can hear all the $AMD, $INTC, and $ARM CPUs vrrrring in the background.\n\nAlong with the memory + components (NICs, SSDs, DRAM) needed for all the browsers/VMs\n\nWhen I ask it to do a bunch of long form ta",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102247915251224980",
+    "ticker": "ARM",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-21",
+    "sentiment": "watch",
+    "excerpt": "All right $META Muse is cooking. \n\nI can hear all the $AMD, $INTC, and $ARM CPUs vrrrring in the background.\n\nAlong with the memory + components (NICs, SSDs, DRAM) needed for all the browsers/VMs\n\nWhen I ask it to do a bunch of long form ta",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102247915251224980",
+    "ticker": "INTC",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -744,68 +866,6 @@
     "excerpt": "Reminiscent of $NVDA w/ $LITE + $COHR:\n\nFoxconn is now considering joint investments to avoid upstream material shortages.\n\nFoxconn Interconnect Chairman identifies CW lasers and fiber as the biggest bottleneck in photonics.\n\nVery interesti",
     "postUrl": "https://x.com/aleabitoreddit/status/2100290486569505223",
     "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-15",
-    "sentiment": "watch",
-    "excerpt": "$SIVE has its own piece in Digitimes btw, which is appreciated industry recognition outside of Sweden. \n\nI think Sivers 100M+ CW DFB laser capacity buildout forced the industry to revisit its models and generated considerably more coverage.",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100008575229976995",
-    "ticker": "AVGO",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-15",
-    "sentiment": "watch",
-    "excerpt": "$SIVE has its own piece in Digitimes btw, which is appreciated industry recognition outside of Sweden. \n\nI think Sivers 100M+ CW DFB laser capacity buildout forced the industry to revisit its models and generated considerably more coverage.",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100008575229976995",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-15",
-    "sentiment": "watch",
-    "excerpt": "$SIVE has its own piece in Digitimes btw, which is appreciated industry recognition outside of Sweden. \n\nI think Sivers 100M+ CW DFB laser capacity buildout forced the industry to revisit its models and generated considerably more coverage.",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100008575229976995",
-    "ticker": "JBL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-15",
-    "sentiment": "watch",
-    "excerpt": "$SIVE has its own piece in Digitimes btw, which is appreciated industry recognition outside of Sweden. \n\nI think Sivers 100M+ CW DFB laser capacity buildout forced the industry to revisit its models and generated considerably more coverage.",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100008575229976995",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-15",
-    "sentiment": "watch",
-    "excerpt": "Just as a pep-talk statistic ahead of Fed decisions tomorrow.\n\n50% of $NVDA employees are reportedly now worth over $25 Million.\n\nThey didn’t get to that number paperhanding shares ahead of every macro scare or rate hike. https://t.co/saulh",
-    "postUrl": "https://x.com/aleabitoreddit/status/2099999510898577543",
-    "ticker": "NVDA",
-    "topics": [
-      "美联储/利率"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-15",
-    "sentiment": "watch",
-    "excerpt": "$CCXI releases their Digit 5 next-generation humanoid.\n\nThoughts? https://t.co/r0Gb05cnd5",
-    "postUrl": "https://x.com/aleabitoreddit/status/2099830591663513642",
-    "ticker": "CCXI",
     "topics": []
   },
   {

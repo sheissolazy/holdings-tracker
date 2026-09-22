@@ -3,9 +3,9 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 227.38,
-  "change5dPct": 7.8,
-  "changeYtdPct": 29.5,
+  "price": 228.87,
+  "change5dPct": 7.9,
+  "changeYtdPct": 30.3,
   "marketCap": "$5.48T",
   "pe": 28.0,
   "revenue": "—",
@@ -888,141 +888,86 @@
     },
     {
       "t": "2026-09-21",
-      "o": 222.93,
+      "o": 222.94,
       "h": 228.5,
       "l": 221.56,
       "c": 227.38
+    },
+    {
+      "t": "2026-09-22",
+      "o": 226.91,
+      "h": 229.98,
+      "l": 226.5,
+      "c": 228.87
     }
   ],
   "thesis": {
-    "bull": [
-      "Nvidia二零二六財年二季度业绩显示超大规模云厂商资本开支预期上调，社交媒体信息显示二零二七年超大规模厂商资本开支仍在扩张，AI算力需求的长周期逻辑未被打破",
-      "AI乐观情绪重新点燃美股，芯片股整体走强，Marvell在一点六T光学技术与二纳米光学芯片方面的进展被解读为AI网络基础设施仍处于快速迭代期，间接印证Nvidia GPU与配套网络生态的增长空间",
-      "跟踪者佩洛西在二零二六年一月披露的PTR中出现对NVDA的新建仓记录（交易日期为二零二六年一月十六日与二零二五年十二月三十日），显示部分政治人物在近期继续保持对该股的多头敞口"
-    ],
-    "bear": [
-      "同期PTR记录亦显示存在减持动作（交易日期二零二五年十二月二十四日，方向为清仓/exit），且二零二五年一月同样出现「新建—清仓—再新建」的反复操作，说明即便是同一跟踪者对NVDA的仓位也并非单向乐观，存在获利了结与切换持仓的可能",
-      "市场对AI资本开支可持续性的分歧仍未消解，有评论直言「市场完全误解了AI放缓的潜在风险」，同时宏观面存在通胀、美联储偏鹰派立场、国债收益率高企等多重压力，道指曾出现六个月来最差单周表现，压制成长股估值弹性",
-      "Marvell、博通等公司在客制化ASIC与光学互联领域加速布局（如二纳米光学芯片、一点六T光学技术），若客制化ASIC路线在部分超大规模客户内部占比提升，理论上会分流原本流向Nvidia通用GPU平台的资本开支份额"
-    ],
-    "watch": [
-      "光子学/光学供应链瓶颈：社交信息提及CW激光器与光纤是行业最大瓶颈，若干厂商正考虑联合投资以规避上游材料短缺，需关注该瓶颈是否会传导至Nvidia及其生态伙伴（如Coherent、Lumentum等）的交付节奏",
-      "存储器涨价与供给紧张：有信息称部分存储价格已上涨五至七倍，且预计二零二七年短缺将恶化，机构渠道调研预计HBM合约价二零二七年可能上涨八成至一倍，需关注这是否会推高Nvidia系统级BOM成本或影响交付周期",
-      "宏观与政策事件：美联储利率决议、通胀数据、国债收益率走势，以及台积电、三星等晶圆代工与封装产能扩张进度，均可能通过成本端或需求端对Nvidia估值与业绩指引产生扰动，需持续跟踪二零二六年剩余时间的相关披露"
-    ],
-    "sections": [
-      {
-        "heading": "公司概览",
-        "body": "Nvidia是全球领先的GPU与AI加速计算平台提供商，业务涵盖数据中心AI训练与推理芯片、网络互联产品（如NVLink、InfiniBand及以太网方案）、专业可视化与游戏显卡等。公司当前营收增长主要由数据中心业务驱动，客户集中在超大规模云计算厂商、AI实验室及主权AI项目。近期新闻显示台积电先进封装产能扩张（CoWoS等）被视为支撑Nvidia及其他高端芯片厂商出货能力的关键变量之一。"
-      },
-      {
-        "heading": "业务驱动因素",
-        "body": "从公开信息看，超大规模厂商资本开支预期上修、以及围绕二零二七年AI基础设施建设周期的讨论，是当前市场对Nvidia保持乐观的核心叙事。社交媒体信息提到根据Nvidia财报电话会内容，超大规模厂商资本开支在二零二七年仍将增加，且行业内约六至七成超大规模厂商的支出计划被认为具有可持续性。与此同时，存储（HBM）与光学互联（CW激光器、光纤）被反复提及为潜在的供给瓶颈，这些上游环节的价格与产能变化会直接影响Nvidia整机系统的成本结构与交付节奏。"
-      },
-      {
-        "heading": "财务与估值考量",
-        "body": "公开新闻未提供Nvidia最新一期具体财务数字，但整体美股环境显示：国债收益率维持高位、通胀数据仍受关注、美联储货币政策立场偏紧，这些宏观变量通常会压缩高估值成长股的贴现倍数。另有报道指出道指曾录得六个月来最差单周表现，同时又有报道称AI乐观情绪推动大盘创下纪录收盘，显示市场情绪在宏观利空与AI叙事利好之间反复拉锯，Nvidia作为AI硬件核心标的对这种情绪切换较为敏感。"
-      },
-      {
-        "heading": "竞争格局",
-        "body": "新闻信息显示Marvell在光学网络与客制化ASIC领域动作频繁，包括发布一点六T光学技术、二纳米光学芯片，并被评论为「突破AI的功耗墙」；同时博通、AMD、英特尔等公司也在AI基础设施相关领域持续发力（如英特尔CPU股价因AI服务器需求上涨而大涨）。社交媒体信息还提到，若某些光学元件供应被少数厂商锁定，可能对包括Marvell、Alchip在内的ASIC竞争对手造成瓶颈，这一动态类似此前Nvidia与Lumentum、Coherent之间的供应关系，反映AI硬件生态内部竞争与合作关系复杂交织，Nvidia的市场地位需持续观察其网络与互联产品线相对客制化ASIC方案的竞争力变化。"
-      },
-      {
-        "heading": "宏观与政策环境",
-        "body": "公开新闻涉及多项宏观与地缘政治背景，包括特朗普政府支持率降至新低、美国拟出资协助重建海湾能源设施、也门胡塞武装局势、卡塔尔主权基金与摩根大通资产管理达成二百亿美元合作等。这些事件本身与Nvidia经营基本面关联有限，但整体反映当前宏观与地缘环境的不确定性仍然较高，叠加美联储利率决议、油价与柴油价格创纪录高位等因素，可能通过市场风险偏好间接影响包括Nvidia在内的成长股估值波动。"
-      },
-      {
-        "heading": "跟踪者与市场情绪信号",
-        "body": "公开的国会议员持股披露（PTR）显示，佩洛西在二零二六年一月与二零二五年一月均出现对NVDA「新建仓—清仓—再新建仓」的反复操作模式，说明即便是长期被市场视为科技股多头的知名跟踪者，其操作节奏也存在阶段性调仓而非单向持有。此外，社交媒体上的市场观察者持续关注AI供应链上游瓶颈（光学元件、存储芯片）与超大规模厂商资本开支节奏，情绪标签多为中性观察（watch）而非明确看多或看空，反映当前市场对Nvidia及AI硬件板块的态度趋于谨慎乐观、边走边看。"
-      }
-    ],
-    "comparables": [
-      {
-        "ticker": "AVGO",
-        "name": "博通",
-        "note": "在定制化ASIC与网络互联领域与Nvidia存在竞合关系，光学与激光供应链布局被社交媒体多次提及"
-      },
-      {
-        "ticker": "MRVL",
-        "name": "Marvell科技",
-        "note": "近期发布一点六T光学技术与二纳米光学芯片，被视为AI网络互联环节对Nvidia生态形成竞争的代表公司"
-      },
-      {
-        "ticker": "TSM",
-        "name": "台积电",
-        "note": "作为Nvidia核心晶圆代工与先进封装供应商，其CoWoS等封装产能扩张直接影响Nvidia出货能力"
-      },
-      {
-        "ticker": "AMD",
-        "name": "超威半导体",
-        "note": "数据中心GPU与AI加速卡领域的主要竞争对手之一"
-      },
-      {
-        "ticker": "MU",
-        "name": "美光科技",
-        "note": "HBM存储供应商，存储涨价与供给紧张会直接影响Nvidia系统级成本，二者存在上下游联动关系"
-      }
-    ],
-    "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-21T23:56:08.887693Z"
+    "bull": [],
+    "bear": [],
+    "watch": [],
+    "sections": [],
+    "comparables": [],
+    "model": "（分析暂不可用）",
+    "generatedAt": null,
+    "unavailable": true
   },
   "news": [
     {
-      "id": "NVDA-142315446",
-      "title": "3 Chip Stocks Set to Win TSMC’s Packaging Boom",
+      "id": "NVDA-142342933",
+      "title": "3 Monthly Income ETFs to Buy Once That Have Paid You Every Single Month for More Than a Decade",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=f275bd317b0b764600a2421b64c4269a9f7cb9b893845f90be3aa9d5a252b3bc",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=49523b64032dbd62d2f615ba6397c253636bb19be6ef3602f3e5329db83ddbd2",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142315440",
-      "title": "Inflation. The Iran War. A Hawkish Fed. Soaring Bond Yields. And Concerns About Artificial Intelligence. The Stock Market Faces Many Hurdles, But Only 1 Metric Truly Matters Right Now",
+      "id": "NVDA-142342930",
+      "title": "JEPI’s 4.42% Gain Looks Modest Next to FYEE’s 12.4% Run in 2026",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=060bb36df6b2d9ca737bed1fe002d3127c1c553c993d5f390394583688dce063",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=98f0833cf12dd65e061b16ff846203e0db1310ceab52f159a5eda56cdc169e52",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142315438",
-      "title": "Should You Forget Nvidia and Buy These 3 Millionaire-Maker AI Infrastructure Stocks Instead?",
+      "id": "NVDA-142342937",
+      "title": "Micron vs. SanDisk: Comparing Two Red-Hot AI Memory Stocks",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=908c26e1c27ebaff207c2b8ffd54dd49e00662a665e92c19b5f7862f9dfcd80e",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=0dc3b45bc78fe147c4dbcad938b62700559a26eaa41bd0fc28e272cbaf8caa1e",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142315439",
-      "title": "Dow Jones Futures: Falling Oil Prices, Yields Spark Market Rally; AMD, Intel, Micron, Nvidia, Sandisk Are Key Movers",
+      "id": "NVDA-142342931",
+      "title": "Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=2a965795bdbd096ed40eab32fa4f9c1b24ff1d694581a8ad0ef479a1e6ec4985",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=893ce9ee977f0b07e0ff21893bea32e8e3a3cb125875b638842f80f5fc6c16d8",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142315447",
-      "title": "Micron Stock Is Back Above $1,000. Is a Stock Split Coming?",
+      "id": "NVDA-142342934",
+      "title": "The AI Rally Is Back—and Facing a Wall of Worry",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=2783cb7f2e9847868619090f4aacb289a44fad4b60487027df45d0facfbd7dcd",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=84b330c0e7d29405debb222d91d5ab3fe81c4b0ac1b7e80b4f6608391f941737",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142315441",
-      "title": "Exxon Could Return to the Venezuelan Field It Was Forced Out of in 2007. Here's What Changed.",
+      "id": "NVDA-142342935",
+      "title": "Apple Just Misses $5 Trillion Market Cap. The Milestone Is Likely Coming Soon.",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=e6cc6bff0924106d75f201fca66d25403ed7e1c48bf22353056454b1538fa2fc",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=ee34c86a9b3c364e9b8c96d1e7bc6585d8e19a48111706810e000d639ea8d461",
       "tags": [
         "NVDA"
       ]

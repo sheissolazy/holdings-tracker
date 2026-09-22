@@ -3,10 +3,10 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 338.98,
-  "change5dPct": 1.8,
-  "changeYtdPct": 34.8,
-  "marketCap": "$4.94T",
+  "price": 339.75,
+  "change5dPct": 2.5,
+  "changeYtdPct": 35.1,
+  "marketCap": "$4.95T",
   "pe": 38.3,
   "revenue": "—",
   "revenueYoYPct": 14,
@@ -888,154 +888,138 @@
     },
     {
       "t": "2026-09-21",
-      "o": 335.2,
+      "o": 335.28,
       "h": 339.64,
       "l": 333.05,
       "c": 338.98
+    },
+    {
+      "t": "2026-09-22",
+      "o": 340.33,
+      "h": 345.34,
+      "l": 338.75,
+      "c": 339.75
     }
   ],
   "thesis": {
     "bull": [
-      {
-        "point": "苹果坐拥全球最强现金流之一，持续大规模回购与分红为股价提供长期支撑，资产负债表韧性远超多数科技同业"
-      },
-      {
-        "point": "英伟达黄仁勋近期公开言论提及对苹果AI布局的高预期，叠加苹果与谷歌等公司AI相关招聘信息引发关注，市场对Apple Intelligence后续产品化存在乐观预期"
-      },
-      {
-        "point": "iPhone、服务、可穿戴设备构成的软硬件生态壁垒依旧稳固，用户转换成本高，服务业务的高毛利率持续改善整体盈利结构"
-      }
+      "Apple在AI硬件差异化上打出新叙事，新款Mac主打「无按token成本」，试图在设备端推理层面弱化对英伟达式云端算力的依赖，若成立将改善长期毛利结构",
+      "市场情绪偏乐观，英伟达CEO公开表态对Apple AI寄予厚望，带动AI相关股票联动上涨，公司市值逼近5万亿美元关口，反映投资者对其生态与品牌溢价的持续认可",
+      "苹果硬件与服务双轮驱动的商业模式仍具备较强现金流韧性，在半导体板块整体因AI叙事波动的背景下，其消费电子属性提供了相对防御性"
     ],
     "bear": [
-      {
-        "point": "公开披露显示知名机构投资者自2024年底至2025年底多次减持苹果头寸（多笔trim与exit），释放出偏谨慎的信号，与部分市场乐观情绪形成对比"
-      },
-      {
-        "point": "当前宏观环境包含高关税成本、通胀压力、鹰派美联储与持续攀升的美债收益率，这类逆风对消费电子需求与成长股估值均构成压制"
-      },
-      {
-        "point": "与英伟达、Meta、Marvell等在AI基础设施与应用端展现出的强劲势头相比，市场普遍认为苹果在生成式AI落地速度上偏慢，存在被视为AI叙事「跟随者」而非「引领者」的风险"
-      }
+      "国会议员Pelosi在2025年12月至2026年1月期间多次减持AAPL头寸（12月24日、12月30日均为trim/exit方向），且此前2025年10月、2024年12月也持续减持，长期看空信号明显，需关注是否反映内部人士对估值或前景的谨慎判断",
+      "近5万亿美元市值下估值已相当充分，若「设备端AI降低token成本」的叙事未能兑现为实际的Services或硬件销量增长，股价存在均值回归风险",
+      "半导体与AI板块近期出现选择性抛售（如Cisco遭下调目标价、AMD被评「死钱」），显示市场对AI资本开支持续性的担忧升温，苹果作为AI生态一环也可能被情绪传染"
     ],
     "watch": [
-      {
-        "point": "关注苹果与谷歌近期AI相关招聘信息背后释放的团队扩张信号，以及是否会转化为下一代Apple Intelligence功能或新硬件发布"
-      },
-      {
-        "point": "Meta Muse等第三方AI应用竞争加剧（含与亚马逊的摩擦），需观察苹果设备端AI能否形成差异化壁垒，避免被边缘化为分发渠道"
-      },
-      {
-        "point": "持续跟踪美债收益率、油价走势及地缘局势（中东、台海供应链）对苹果硬件成本与整体估值倍数的传导效应"
-      }
+      "Pelosi申报中同日出现new(买入)与exit(卖出trim)两类相反方向记录，需要进一步核实具体交易细节及净头寸变化，避免误读为单一方向信号",
+      "苹果「无token成本」的AI战略叙事能否在下一财季财报中转化为可验证的Services营收或Mac/iPhone销量数据，是判断该叙事是否被市场过度定价的关键",
+      "宏观与地缘政治不确定性（如伊朗局势、中东紧张、贸易与关税动向）可能通过供应链或消费需求间接影响苹果基本面，需持续跟踪"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值最高的科技公司之一，业务涵盖iPhone、Mac、iPad、可穿戴设备及服务生态（App Store、iCloud、Apple Music、AppleCare等）。近年来公司战略重心逐步从硬件销量增长转向服务收入占比提升与设备端人工智能能力（Apple Intelligence）建设，试图在保持硬件生态壁垒的同时打开新的增长曲线。"
+        "body": "苹果是全球最大的消费电子与服务公司之一，产品线覆盖iPhone、Mac、iPad、可穿戴设备及不断增长的Services业务（App Store、iCloud、Apple Music等）。公司近期市值已逼近5万亿美元，显示其在全球科技股中的绝对权重地位，任何战略动向都对大盘及半导体产业链情绪具有外溢效应。"
       },
       {
-        "heading": "财务与资本回报",
-        "body": "苹果长期维持行业领先的自由现金流水平，并通过持续的股票回购与股息分配向股东返还资本，这一特征在市场波动加剧、利率维持高位的环境下被部分投资者视为防御性配置价值。不过高利率环境也会提高其巨额债务再融资成本，并压缩市场愿意给予成长股的估值倍数。"
+        "heading": "AI战略与产品动向",
+        "body": "公司硬件负责人公开强调新款Mac在设备端AI推理上「无按token计费成本」，试图以本地算力对冲云端GPU推理的持续性支出，被解读为针对英伟达式AI经济模型的差异化打法。这一叙事获得英伟达CEO本人的正面评价，被视为对Apple AI能力的外部背书，但市场对其能否真正落地为规模化产品优势仍存分歧。"
       },
       {
-        "heading": "AI布局与产品线进展",
-        "body": "围绕生成式AI的竞赛在科技行业持续升温，英伟达、Meta、Marvell等公司在基础设施与应用层面动作频密，相关新闻显示黄仁勋的公开表态曾一度提振市场对苹果AI前景的预期。同时苹果与谷歌近期出现的AI相关招聘信息引发外界关注，市场在等待苹果能否在设备端AI体验上给出更清晰、更具差异化的产品路线图。"
+        "heading": "跟踪者与内部人动向解读",
+        "body": "公开披露显示，国会议员Pelosi在过去一年多次交易AAPL，其中2026年1月申报的交易记录（对应2025年12月30日及12月24日交易日）同时出现new(新建/买入)与exit(退出/减持trim)两类相反方向条目，需谨慎解读为净头寸变化而非简单看多或看空。结合2025年10月及2024年12月同样出现的减持记录，整体呈现渐进式减仓的长期模式，值得持续观察但不宜过度解读为择时信号。"
       },
       {
-        "heading": "宏观与地缘政治环境",
-        "body": "近期宏观背景较为复杂：市场关注通胀、关税成本上升、美联储政策路径偏鹰派、美债收益率维持高位，以及中东地区局势（也门、加沙相关动态）与全球能源价格（柴油价格创纪录）等因素。这些宏观变量通过消费者购买力、供应链成本及整体风险偏好间接影响苹果的销售与估值。此外台海相关的半导体供应链话题（如台积电动态）也与苹果硬件生产密切相关。"
+        "heading": "行业与竞争格局",
+        "body": "近期新闻显示AI硬件板块情绪分化：英伟达、博通等芯片股受益于AI基建持续投入的乐观预期，而Cisco、AMD等则遭遇分析师下调或评级降级，反映市场开始对「AI建设周期是否可持续」产生分歧。苹果凭借「设备端AI」定位试图与纯云端算力提供商形成差异化竞争，但也面临三星、谷歌等厂商在端侧AI上的追赶。"
       },
       {
-        "heading": "跟踪者与机构动向",
-        "body": "公开披露记录显示，知名政治人物在2024年底至2025年底期间对苹果持仓进行了多次减持操作（多笔交易标记为trim或exit），而在2025年末又出现新建仓记录，交易方向并不完全一致，反映出即便是备受关注的知名投资者对苹果后市看法也存在分歧。与此同时，行业内如英伟达CEO的公开言论则从产业趋势角度传递出对苹果AI应用前景相对积极的信号，两类信息来源的侧重点和结论并不完全一致。"
+        "heading": "估值与市场情绪",
+        "body": "苹果股价逼近5万亿美元市值的里程碑，估值处于历史高位区间，市场对其后续增长的容忍度和预期已相当充分。在「AI乐观情绪回归、通胀担忧被暂时淡化」的宏观背景下，科技股整体估值弹性较大，但一旦出现基本面不及预期的信号，回调风险同样值得关注。"
       },
       {
-        "heading": "多空观点总结",
-        "body": "综合来看，苹果的多头逻辑主要建立在其现金流优势、生态粘性与服务业务成长性之上，并叠加市场对其AI应用落地的想象空间；空头逻辑则集中在宏观逆风、部分知名投资者近期减持行为，以及相对同业在AI基础设施与应用端进展偏慢的担忧。当前公开信息中多空信号并存，且不同信息来源（跟踪者披露、行业高管言论、宏观新闻）之间存在一定张力，投资者需结合自身研究框架综合判断，本分析不构成任何买卖建议。"
+        "heading": "风险与不确定性",
+        "body": "宏观层面，中东地缘政治紧张（伊朗局势）、贸易政策及国际关系的不确定性可能通过供应链成本或终端消费需求间接影响苹果业绩；行业层面，AI资本开支的可持续性尚存争议，若「AI建设热潮」出现降温，苹果的AI叙事溢价可能同步承压；此外，内部人及知名投资者的持续减持行为亦是需要跟踪的软性风险信号。"
       }
     ],
     "comparables": [
       {
-        "ticker": "MSFT",
-        "name": "Microsoft Corp",
-        "note": "同为现金流充沛的大型科技公司，AI与云业务布局较早，可作为AI转型速度的参照"
-      },
-      {
-        "ticker": "GOOGL",
-        "name": "Alphabet Inc",
-        "note": "近期同样出现AI相关招聘热点新闻，可比较双方在设备端与云端AI能力建设的差异"
-      },
-      {
-        "ticker": "META",
-        "name": "Meta Platforms Inc",
-        "note": "其AI应用Muse近期市场反响热烈，可作为衡量科技巨头AI产品化速度的参照对象"
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "AI算力龙头，与苹果在「云端GPU推理」与「设备端AI」路线上形成对比与潜在协同关系"
       },
       {
         "ticker": "MRVL",
-        "name": "Marvell Technology Inc",
-        "note": "作为AI基础设施与光学互联供应商，近期股价表现反映市场对AI基础设施环节的高关注度，与苹果的终端应用逻辑形成对比"
+        "name": "美满电子科技",
+        "note": "定制芯片与AI基础设施供应商，受益于AI建设周期但估值波动较大，可作为半导体产业链景气度参考"
+      },
+      {
+        "ticker": "AMD",
+        "name": "超威半导体",
+        "note": "近期遭分析师看空评级，与苹果在AI硬件叙事上的强势形成鲜明对比，可用于观察市场对AI硬件分化定价"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-21T23:58:16.091883Z"
+    "generatedAt": "2026-09-22T23:34:55.255089Z"
   },
   "news": [
     {
-      "id": "AAPL-142315455",
-      "title": "Meta Up 11% as Zuckerberg Bets Muse Will “Make You Money and Save You Money”",
+      "id": "AAPL-142342945",
+      "title": "Meta’s new AI agent just got me $250 in flight credits",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=acc65f6ecd20348f5dd7eb22ec27be1564ff8d2fc359ea61b64706d88ac52fea",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=6150954f108557c40cd9d78ed6b497043661babb78ae56f3bc29a0c2133874c0",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142315456",
-      "title": "Amazon kicks out Meta's Muse in split over AI shopping",
+      "id": "AAPL-142342933",
+      "title": "3 Monthly Income ETFs to Buy Once That Have Paid You Every Single Month for More Than a Decade",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=74d01eb8a1a5d9a83df97648cecc5ff4d77a2ac97ce6fbb31359e564fb04ac98",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=49523b64032dbd62d2f615ba6397c253636bb19be6ef3602f3e5329db83ddbd2",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142315457",
-      "title": "Stock Market Today, Sept. 21: Tech Strength Powers Nasdaq to Record Close",
+      "id": "AAPL-142342948",
+      "title": "Nasdaq Jumps To Close At Record As Chipmakers Climb, Oil Prices Cool — AAPL, META, SPCX, MSFT, VKTX In Focus",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=e47cb55db2b013246600f93235e702c47c4e8a8cf765e371861befd71a1cd2f7",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=cf6b359eed1be11cee0cd30e23e7dfbb5807a0232a285f9348f5ea355e5d4742",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142315454",
-      "title": "Google, Apple's new job postings go viral",
+      "id": "AAPL-142342935",
+      "title": "Apple Just Misses $5 Trillion Market Cap. The Milestone Is Likely Coming Soon.",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=7fb495b78c90bddcdb6012ad1c19db5d9cff953e011e226e671d9d0a9213e9e2",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=ee34c86a9b3c364e9b8c96d1e7bc6585d8e19a48111706810e000d639ea8d461",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142315122",
-      "title": "Meta stock jumps as Wells Fargo raises price target",
+      "id": "AAPL-142341954",
+      "title": "Apple Takes Aim at Nvidia’s AI Economics: New Macs Have ‘No Cost per Token,’ Hardware Chief Says",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=163ac05cb9893a0c19875072e3c4899ec8fcb4ea040753916e0106836fbce8ac",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=8be536b9f66f311cd9292e88ddcca6a526d8c4df315d49d5dace60341ff7b545",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142315123",
-      "title": "META Stock Set For Best Day In 13 Months On Muse Popularity As Amazon Moves to Block It",
+      "id": "AAPL-142342949",
+      "title": "Meta’s Muse Can Book Your Vacation—and Travel Stocks Are Paying the Price",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=93a725f617c9537bffcf1f08dc38a61ce776208f7421d1a2bc4c4d0d2f6cc0de",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=95d99496e96481b3a38931b990f3640d09d16bc5fb70c92c711ebe86342b6e48",
       "tags": [
         "AAPL"
       ]

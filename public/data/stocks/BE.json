@@ -3,11 +3,11 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 272.89,
-  "change5dPct": 6.2,
-  "changeYtdPct": 93.1,
-  "marketCap": "$81.3B",
-  "pe": 319.4,
+  "price": 276.53,
+  "change5dPct": 6.6,
+  "changeYtdPct": 95.7,
+  "marketCap": "$80.4B",
+  "pe": 329.5,
   "revenue": "—",
   "revenueYoYPct": 91,
   "prices": [
@@ -892,137 +892,82 @@
       "h": 282.0,
       "l": 265.36,
       "c": 272.89
+    },
+    {
+      "t": "2026-09-22",
+      "o": 274.16,
+      "h": 284.25,
+      "l": 269.0,
+      "c": 276.53
     }
   ],
   "thesis": {
-    "bull": [
-      "数据中心与AI算力扩张带来的电力缺口，是固体氧化物燃料电池最直接的需求催化剂，Bloom Energy凭借「Time-to-Power」（部署速度快于新建电网接入）优势，成为部分超大规模数据中心运营商的替代供电方案",
-      "公司近期获美国陆军相关电力租赁项目（Indelible-Bloom联合体）并被纳入S&P 500指数，订单与指数资金流入可能带来基本面和资金面双重支撑",
-      "国会议员佩洛西7月两次新增买入BE股票（2026-07-24、2026-07-28披露），作为对政策与产业趋势较敏感的跟踪对象，其新建仓行为释放偏乐观信号，但需注意这只是参考指标而非投资建议"
-    ],
-    "bear": [
-      "过去一年股价涨幅巨大（新闻标题显示「一年内股价翻三倍以上」），当前估值已计入大量乐观预期，若订单或交付节奏不及预期，股价存在明显回撤风险",
-      "Bloom的固体氧化物燃料电池目前主要以天然气为燃料，并非严格意义上的零碳方案，长期可能面临碳排放监管、ESG资金偏好变化及与电池储能、核能SMR等替代方案的竞争",
-      "燃料电池制造与项目部署属于重资产、高资本开支业务，在美债收益率维持高位、融资成本上升的宏观环境下，公司现金流与再融资压力值得关注"
-    ],
-    "watch": [
-      "后续是否有更多超大规模数据中心运营商或政府机构签署新的电力采购/租赁协议，订单能见度是判断中长期需求持续性的关键",
-      "公司季度毛利率、产能利用率及交付周期等运营指标，用以验证「Time-to-Power」叙事是否能转化为实际盈利改善",
-      "宏观层面美联储利率路径、油气及电力价格走势，以及数据中心用电政策（如部分地区数据中心建设临时限制）的变化，均可能影响公司订单节奏和融资环境"
-    ],
-    "sections": [
-      {
-        "heading": "公司概览",
-        "body": "Bloom Energy（纳斯达克代码BE）是一家专注于固体氧化物燃料电池技术的能源公司，主要产品为可现场部署的分布式发电系统，客户涵盖科技企业、制造业、政府机构及数据中心运营商。相较于传统电网扩容，其系统具备部署速度快、不依赖大规模输配电基础设施新建的特点，这一优势在近年AI算力对电力需求激增的背景下被市场重新定价，公司股价在过去一年出现大幅上涨，并已被纳入S&P 500指数。"
-      },
-      {
-        "heading": "业务与技术驱动",
-        "body": "公司核心叙事围绕「Time-to-Power」展开，即在传统电网新增接入普遍需要数年审批与建设周期的情况下，Bloom的模块化燃料电池系统可在更短时间内为数据中心、工业园区等提供稳定电力。近期新闻显示AI超大规模厂商加速采用固体氧化物燃料电池作为过渡性或补充性电源，同时公司与美国陆军相关的Indelible-Bloom联合体电力租赁项目，显示其客户结构正从商业企业向政府与国防领域延伸，订单来源趋于多元。"
-      },
-      {
-        "heading": "行业与需求驱动",
-        "body": "美国及全球数据中心建设面临电网接入瓶颈，报道提及包括SpaceX在内的多家企业正设法绕开部分地区的数据中心建设临时限制，反映出电力供给已成为AI基础设施扩张的核心制约因素之一。在此背景下，燃料电池、天然气发电、核能SMR、电池储能等多种「桥接型」或分布式电源方案均获得资金关注，Bloom是其中受益标的之一，但行业竞争格局仍在演变，尚未形成单一技术路线的绝对优势。"
-      },
-      {
-        "heading": "财务与估值观察",
-        "body": "公开新闻标题多次强调BE股价「一年内涨幅超过三倍」，反映市场对其增长前景给予较高溢价。在当前美债收益率维持相对高位、市场对AI相关资本开支能否持续存在分歧的宏观环境下，高估值股票对业绩不及预期或宏观利率变化的敏感度通常更高，投资者需关注公司后续财报中的订单积压（backlog）、交付进度与毛利率变化，以判断当前估值的可持续性。"
-      },
-      {
-        "heading": "政策与监管环境",
-        "body": "公司业务与美国能源、国防及数据中心政策密切相关，例如与美国陆军的电力租赁合作即体现出联邦政府对分布式能源的采购意愿。同时，宏观新闻显示白宫层面正推动能源基础设施相关的大规模投资计划（如拟议的500亿美元海湾能源设施重建基金），若类似政策进一步扩大对分布式发电或燃料电池技术的支持，可能对Bloom构成潜在利好；但政策方向也存在不确定性，需持续跟踪具体立法与预算落地情况。"
-      },
-      {
-        "heading": "跟踪者动向与市场情绪",
-        "body": "公开披露显示，国会议员佩洛西于2026年7月24日与7月28日两次新建仓买入BE股票，属于对产业政策与新兴技术趋势较为敏感的跟踪对象的新增多头仓位，可作为市场情绪的参考信号之一。结合近期「Bloom Energy因AI超大规模厂商采用固体氧化物燃料电池而上涨」「BE股价在纳入S&P 500消息前盘前跳涨」等新闻标题，可见市场对该股关注度和交易活跃度均在上升，但这类跟踪者披露存在滞后性，不构成对未来走势的确定性预测。"
-      }
-    ],
-    "comparables": [
-      {
-        "ticker": "FCEL",
-        "name": "FuelCell Energy",
-        "note": "同为燃料电池技术公司，但规模与订单能见度弱于Bloom，可作为行业景气度的参照"
-      },
-      {
-        "ticker": "PLUG",
-        "name": "Plug Power",
-        "note": "氢燃料电池与电解槽厂商，与Bloom同属分布式清洁能源赛道，但技术路线（氢能）不同，财务状况相对承压"
-      },
-      {
-        "ticker": "GEV",
-        "name": "GE Vernova",
-        "note": "提供燃气轮机等传统及新型发电设备，是数据中心电力缺口叙事下的另一受益标的，规模远大于Bloom"
-      },
-      {
-        "ticker": "CEG",
-        "name": "Constellation Energy",
-        "note": "核电为主的独立发电商，与科技公司签订长期购电协议，代表数据中心电力需求的另一种解决方案"
-      },
-      {
-        "ticker": "VST",
-        "name": "Vistra",
-        "note": "综合性电力生产商，同样受益于AI及数据中心用电需求增长，可用于对比传统电力资产与新兴分布式发电技术的估值差异"
-      }
-    ],
-    "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-21T23:57:27.566702Z"
+    "bull": [],
+    "bear": [],
+    "watch": [],
+    "sections": [],
+    "comparables": [],
+    "model": "（分析暂不可用）",
+    "generatedAt": null,
+    "unavailable": true
   },
   "news": [
     {
-      "id": "BE-142315260",
-      "title": "Why Did Bloom Energy Stock More Than Triple In A Year?",
+      "id": "BE-142343065",
+      "title": "Bloom Energy vs. NextEra Energy: Which Renewable Energy Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=e44dbda4a5d1074d956b352f4bde2fa409d0728321d5e73f928fb848808b319d",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=146fdfa7f6fedfd2e3e1e544ffe8d77e226f7c8f0119b6f02325fbc8de4bb756",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142314756",
-      "title": "Loren Finegold, Ed Comber Join Vinson & Elkins NY Practice, Finance & Infrastructure Growth",
+      "id": "BE-142343096",
+      "title": "Bloom Energy vs. Eos Energy Enterprises: Which Energy Storage Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=e0e67d12f4c6197eee18f644c47b1429b25cbe612a5269993c1f478a581a6e14",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=aa40407f069a20c0b8df848491ba6e03faac8a74fd2377a3dd312143bd997666",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142314448",
-      "title": "Bloom Energy (BE) Surges as AI Hyperscalers Adopt Solid Oxide Fuel Cells",
+      "id": "BE-142343097",
+      "title": "Bloom Energy (BE) Back In Focus Following Index Reshuffle As Undervalued Narrative Builds",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=c462c8c1548c5946b3653c28341edecbc960168959f59670206e49c9b9e50694",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=232f84b1b29836aed68017c865fcc1c81592fef5da867e5e104494cd5a6709f3",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142313856",
-      "title": "SpaceX Finds Way Around Data Center Moratorium As 300-Plus Restrictions Delay 3 Projects",
-      "source": "Benzinga",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=69a797021a6d33e3d55f37d8d2ec56d21e41a7555ebc46e9e03ee5637f55be57",
+      "id": "BE-142342144",
+      "title": "Bloom Energy vs. Plug Power: Which Fuel Cell Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=428bdb179d5fb0ad667576e44b0be88c976e91c66f346999736706f2e8ac1ca1",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142306180",
-      "title": "BE Stock Jumps Premarket Ahead Of S&P 500 Inclusion: US Army Awards Power Leases To Indelible-Bloom Coalition",
+      "id": "BE-142342145",
+      "title": "Bloom Energy Just Ripped 38% in a Month: Take Profits, or Buy More?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-21",
-      "url": "https://finnhub.io/api/news?id=638aafafb75bbc9a7f6994b0a103962e57df7365bc934c2d5564b0804f032180",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=1fbeacde05c583339fb24365bc00b1efc95be1f97c5672f10369692e97ebf77b",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142290341",
-      "title": "Bloom Energy’s “Time-to-Power” Moat",
+      "id": "BE-142340037",
+      "title": "BE vs. BLDP: Which Clean Energy Stock Has Stronger Growth Potential?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-20",
-      "url": "https://finnhub.io/api/news?id=67af06b6e6b0377853aa8aaefd08c2636d72c3a9fc28675bad52ad34278ad3ee",
+      "publishedAt": "2026-09-22",
+      "url": "https://finnhub.io/api/news?id=bcc902ff2ecca73f11284772bbcf6765f719c9a816741829f6e89c8e4aa8ef3d",
       "tags": [
         "BE"
       ]

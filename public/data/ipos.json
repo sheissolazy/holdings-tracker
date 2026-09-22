@@ -1,5 +1,17 @@
 [
   {
+    "ticker": "OURA",
+    "name": "Oura Inc.",
+    "date": "2026-09-30",
+    "priceRange": [
+      40.0,
+      44.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global Select",
+    "status": "expected"
+  },
+  {
     "ticker": "PTT",
     "name": "SIYATA PTT",
     "date": "2026-09-30",
@@ -9,6 +21,18 @@
     ],
     "sector": "—",
     "exchange": "NASDAQ Capital",
+    "status": "expected"
+  },
+  {
+    "ticker": "ADRX",
+    "name": "ADARx Pharmaceuticals, Inc.",
+    "date": "2026-09-25",
+    "priceRange": [
+      15.0,
+      17.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global Select",
     "status": "expected"
   },
   {
