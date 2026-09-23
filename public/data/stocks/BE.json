@@ -3,21 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 276.53,
-  "change5dPct": 6.6,
-  "changeYtdPct": 95.7,
-  "marketCap": "$80.4B",
-  "pe": 329.5,
+  "price": 275.19,
+  "change5dPct": 1.9,
+  "changeYtdPct": 88.6,
+  "marketCap": "$81.4B",
+  "pe": 330.8,
   "revenue": "—",
   "revenueYoYPct": 91,
   "prices": [
-    {
-      "t": "2026-03-23",
-      "o": 155.99,
-      "h": 157.39,
-      "l": 141.25,
-      "c": 141.33
-    },
     {
       "t": "2026-03-24",
       "o": 140.51,
@@ -897,77 +890,136 @@
       "t": "2026-09-22",
       "o": 274.16,
       "h": 284.25,
-      "l": 269.0,
+      "l": 268.97,
       "c": 276.53
+    },
+    {
+      "t": "2026-09-23",
+      "o": 276.96,
+      "h": 282.64,
+      "l": 271.02,
+      "c": 275.19
     }
   ],
   "thesis": {
-    "bull": [],
-    "bear": [],
-    "watch": [],
-    "sections": [],
-    "comparables": [],
-    "model": "（分析暂不可用）",
-    "generatedAt": null,
-    "unavailable": true
+    "bull": [
+      "AI数据中心用电需求爆发，摩根士丹利估算未来存在约33吉瓦的电力缺口，Bloom Energy的固体氧化物燃料电池具备模块化、部署周期短的特点，被市场视为潜在受益标的之一",
+      "公司股价2026年以来累计上涨约218%并新晋标普500指数成分股，反映资金流入与被动配置需求增加，也说明市场对其订单能见度和盈利路径的认可度提升",
+      "国会议员佩洛西在2026年7月28日与7月24日两次新建BE多头仓位并于8月披露，部分跟随型投资者会将高关注度政治人物的买入行为解读为积极信号"
+    ],
+    "bear": [
+      "燃料电池发电的度电成本相对传统电网及部分可再生能源仍偏高，业绩高度依赖大型企业和数据中心客户的集中订单，一旦关键客户延迟或缩减合作将对营收造成明显冲击",
+      "与Plug Power、FLNC等同业对比显示另类能源板块估值分化剧烈，BE当前股价已计入较高的成长预期，若AI资本开支增速放缓或数据中心建设进度不及预期，估值回调风险较大",
+      "宏观流动性环境趋紧，十年期美债收益率一度重返5%附近且油价因地缘局势走高，高估值成长型标的对利率和风险偏好变化的敏感度上升，可能放大股价波动"
+    ],
+    "watch": [
+      "后续是否有更多云计算或数据中心运营商与Bloom Energy签署大型燃料电池供电协议，以及现有在手订单的交付与确认收入节奏",
+      "国会及机构投资者后续披露的持仓变动，尤其关注买入后是否出现获利了结或减仓迹象，以判断此前买入是否仅为短期交易行为",
+      "美联储政策路径、长端利率走势以及整体AI资本开支周期变化，这些因素将持续影响市场对高成长清洁能源股的估值容忍度"
+    ],
+    "sections": [
+      {
+        "heading": "公司概览",
+        "body": "Bloom Energy是一家专注于固体氧化物燃料电池技术的清洁能源公司，产品主要用于分布式发电，客户覆盖数据中心、制造业、医疗机构等对电力可靠性要求较高的领域。公司近年来受益于电网升级压力和分布式能源需求增长，业务重心逐步向大型企业和数据中心供电场景倾斜。"
+      },
+      {
+        "heading": "行业与需求驱动",
+        "body": "人工智能算力扩张带动数据中心用电需求快速上升，多家机构包括摩根士丹利提出未来可能出现约33吉瓦的电力供应缺口。在此背景下，具备快速部署能力、不完全依赖传统电网扩容周期的燃料电池方案受到关注，Bloom Energy被部分媒体和分析机构列为潜在受益者之一，但行业内对燃料电池能否在成本和规模上真正替代或补充传统电网仍存在分歧。"
+      },
+      {
+        "heading": "股价表现与估值",
+        "body": "公司股价在2026年内累计上涨约218%，并因此符合条件新晋标普500指数成分股，带来被动资金配置的增量需求。但快速上涨也意味着当前估值已经反映了较为乐观的增长预期，市场对其能否持续兑现订单和盈利改善存在不同看法，部分观点认为估值透支未来数年的增长空间。"
+      },
+      {
+        "heading": "竞争格局",
+        "body": "多篇近期报道将Bloom Energy与Plug Power、Fluence Energy（FLNC）以及NextEra Energy等公司进行对比，反映另类能源与电网相关板块内部估值和商业模式的分化。Plug Power更偏重氢能源方向且财务状况相对承压，FLNC聚焦储能系统，NextEra作为传统公用事业与可再生能源巨头则提供了更稳健但增速较低的对照样本，三者共同构成评估Bloom Energy相对价值的参照系。"
+      },
+      {
+        "heading": "政策与宏观环境",
+        "body": "近期宏观新闻显示美国十年期国债收益率一度重回5%附近，叠加中东地缘局势推升油价，市场风险偏好受到扰动，成长型和高估值股票普遍面临更高的贴现率压力。同时政策层面对清洁能源补贴、电网基建投资的态度仍是影响公司长期业务节奏的重要变量，需持续跟踪相关立法与监管动向。"
+      },
+      {
+        "heading": "跟踪者动向解读",
+        "body": "公开披露显示，国会议员佩洛西在2026年7月下旬两次新建Bloom Energy的多头仓位，并已于8月完成披露。此类政治人物交易常被部分投资者视为潜在的信息优势信号，但也需注意国会议员交易披露存在滞后性，且不代表内部信息或投资建议，其参考价值和实际预测能力在业内仍存在争议。"
+      }
+    ],
+    "comparables": [
+      {
+        "ticker": "PLUG",
+        "name": "Plug Power",
+        "note": "氢能源与燃料电池领域的另一家代表性公司，近年财务压力较大，可作为行业景气度和融资环境的参照"
+      },
+      {
+        "ticker": "FLNC",
+        "name": "Fluence Energy",
+        "note": "专注于储能系统的公司，与Bloom Energy同属清洁能源基础设施赛道，但技术路线和客户结构不同"
+      },
+      {
+        "ticker": "NEE",
+        "name": "NextEra Energy",
+        "note": "传统公用事业与可再生能源龙头，业务更稳健，可作为高增长与稳健收益两类清洁能源标的的对照"
+      }
+    ],
+    "model": "claude-code（订阅）",
+    "generatedAt": "2026-09-23T23:30:19.895982Z"
   },
   "news": [
+    {
+      "id": "BE-142364180",
+      "title": "Morgan Stanley Sees a 33-GW AI Power Shortfall. These 2 Stocks Could Help Fill It",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-23",
+      "url": "https://finnhub.io/api/news?id=737092fb722e39661dd8e230e48524e2a55c50ea0788083c1738fee026259980",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-142362159",
+      "title": "Plug Power vs. Bloom Energy: Which Clean Energy Stock Has More Upside?",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-23",
+      "url": "https://finnhub.io/api/news?id=32732c4cbbf247891261806954f42cbd0fc6052a80e13dcdac9893a905ba6216",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-142362161",
+      "title": "FLNC or BE: Which Alternative Energy Stock Is Worth Buying Now?",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-23",
+      "url": "https://finnhub.io/api/news?id=6b60953350f5cf4cd4193f29d67bf74b1cadb8688f023da3dc036fe0cb2f0870",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-142362160",
+      "title": "Bloom Energy Stock Is Up 218% in 2026 and Just Joined the S&P 500. Is It Too Late to Buy?",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-23",
+      "url": "https://finnhub.io/api/news?id=7f5166fb82d03361bb84576adf4261439ef30f6a921f98aff866764ef1069313",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-142356106",
+      "title": "Top 3 Grid Stocks To Watch In September 2026",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-23",
+      "url": "https://finnhub.io/api/news?id=4aca954cb74c3e4687bfd3cbe77f3a7afc67ea68d1782d6f5ff1015d75f744d8",
+      "tags": [
+        "BE"
+      ]
+    },
     {
       "id": "BE-142343065",
       "title": "Bloom Energy vs. NextEra Energy: Which Renewable Energy Stock Is a Better Buy in 2026?",
       "source": "Yahoo",
       "publishedAt": "2026-09-22",
       "url": "https://finnhub.io/api/news?id=146fdfa7f6fedfd2e3e1e544ffe8d77e226f7c8f0119b6f02325fbc8de4bb756",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-142343096",
-      "title": "Bloom Energy vs. Eos Energy Enterprises: Which Energy Storage Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "publishedAt": "2026-09-22",
-      "url": "https://finnhub.io/api/news?id=aa40407f069a20c0b8df848491ba6e03faac8a74fd2377a3dd312143bd997666",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-142343097",
-      "title": "Bloom Energy (BE) Back In Focus Following Index Reshuffle As Undervalued Narrative Builds",
-      "source": "Yahoo",
-      "publishedAt": "2026-09-22",
-      "url": "https://finnhub.io/api/news?id=232f84b1b29836aed68017c865fcc1c81592fef5da867e5e104494cd5a6709f3",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-142342144",
-      "title": "Bloom Energy vs. Plug Power: Which Fuel Cell Stock Is a Better Buy in 2026?",
-      "source": "Yahoo",
-      "publishedAt": "2026-09-22",
-      "url": "https://finnhub.io/api/news?id=428bdb179d5fb0ad667576e44b0be88c976e91c66f346999736706f2e8ac1ca1",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-142342145",
-      "title": "Bloom Energy Just Ripped 38% in a Month: Take Profits, or Buy More?",
-      "source": "Yahoo",
-      "publishedAt": "2026-09-22",
-      "url": "https://finnhub.io/api/news?id=1fbeacde05c583339fb24365bc00b1efc95be1f97c5672f10369692e97ebf77b",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-142340037",
-      "title": "BE vs. BLDP: Which Clean Energy Stock Has Stronger Growth Potential?",
-      "source": "Yahoo",
-      "publishedAt": "2026-09-22",
-      "url": "https://finnhub.io/api/news?id=bcc902ff2ecca73f11284772bbcf6765f719c9a816741829f6e89c8e4aa8ef3d",
       "tags": [
         "BE"
       ]

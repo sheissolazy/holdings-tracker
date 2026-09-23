@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 228.87,
-  "change5dPct": 7.9,
-  "changeYtdPct": 30.3,
-  "marketCap": "$5.48T",
-  "pe": 28.0,
+  "price": 225.51,
+  "change5dPct": 5.4,
+  "changeYtdPct": 28.7,
+  "marketCap": "$5.52T",
+  "pe": 28.5,
   "revenue": "—",
   "revenueYoYPct": 83,
   "prices": [
-    {
-      "t": "2026-03-23",
-      "o": 177.26,
-      "h": 178.37,
-      "l": 174.76,
-      "c": 175.64
-    },
     {
       "t": "2026-03-24",
       "o": 174.83,
@@ -895,79 +888,143 @@
     },
     {
       "t": "2026-09-22",
-      "o": 226.91,
+      "o": 226.85,
       "h": 229.98,
       "l": 226.5,
       "c": 228.87
+    },
+    {
+      "t": "2026-09-23",
+      "o": 228.08,
+      "h": 228.95,
+      "l": 224.02,
+      "c": 225.51
     }
   ],
   "thesis": {
-    "bull": [],
-    "bear": [],
-    "watch": [],
-    "sections": [],
-    "comparables": [],
-    "model": "（分析暂不可用）",
-    "generatedAt": null,
-    "unavailable": true
+    "bull": [
+      "Spectrum-6 CPO及UHP光互联需求据渠道检查明显增强，显示英伟达在AI网络互联环节的份额与议价能力仍在扩大",
+      "据近期财报电话会及产业调研，超大规模云厂商2027年资本开支预期上调，且约七成超大规模资本开支流向英伟达生态，需求可见度较高",
+      "HBM等存储环节被指处于供给紧缺的超级周期，若2027年ASP大幅上涨，反映AI算力上游景气度持续，对英伟达平台型生态形成正向外溢"
+    ],
+    "bear": [
+      "国会议员Pelosi账户在2025年末至2026年初出现新建仓与部分减持并存的交易记录，反映即便是信息优势较强的投资者对短期节奏判断也存在分歧",
+      "10年期美债收益率重新升破5%，叠加中东局势（伊朗与美方谈判僵持）推升油价，宏观流动性收紧与风险偏好下降可能压制高估值成长股表现",
+      "AVGO若通过绑定Win Semi等激光供应加强自身CPO方案并挤压Marvell等竞争对手供给，长期可能加剧光互联环节的竞争格局，对英伟达之外的生态位次产生连锁影响，间接改变行业议价结构"
+    ],
+    "watch": [
+      "Lumentum在ECOC 2026会议上关于Spectrum-6 CPO与NPO需求的表态是否被更多产业链公司交叉验证，以及NPO放量节奏",
+      "2027年HBM ASP潜在80%-100%涨幅预期能否兑现，及其对英伟达GPU平台综合成本与毛利率的传导",
+      "中美元首会晤及伊核谈判等宏观地缘事件的进展，是否通过美债利率与风险偏好渠道对半导体板块估值造成阶段性扰动"
+    ],
+    "sections": [
+      {
+        "heading": "公司概览",
+        "body": "英伟达是全球领先的加速计算与AI基础设施提供商，产品覆盖数据中心GPU、网络互联（如Spectrum系列交换与CPO光互联方案）及软件生态CUDA。当前公司仍是AI算力供应链的核心枢纽，其数据中心业务的增长节奏与资本开支周期紧密绑定超大规模云厂商的建设计划。"
+      },
+      {
+        "heading": "基本面与财务",
+        "body": "市场普遍关注英伟达财报电话会中披露的超大规模厂商2027年资本开支上调信号，以及其中约七成流向英伟达生态的说法。若属实，将支撑公司数据中心收入的中期可见度；但需注意此类比例数据多来自产业调研与社媒引用，尚待公司正式披露与第三方数据交叉验证。"
+      },
+      {
+        "heading": "行业与竞争格局",
+        "body": "光互联与网络环节成为新的竞争焦点：产业调研显示英伟达Spectrum-6 CPO及UHP需求走强，同时也有消息称博通（AVGO）可能通过锁定激光供应商Win Semi（SIVE）产能来强化自身方案，并对Marvell（MRVL）、Alchip等ASIC竞争对手形成潜在瓶颈。这类供应链博弈若持续演化，可能重塑数据中心网络环节的份额分布。"
+      },
+      {
+        "heading": "存储与上游供给",
+        "body": "多方渠道检查指向HBM及相关存储环节（如美光、SK海力士）进入供给紧张的所谓超级周期，市场预期2027年HBM平均售价可能大幅上涨。这既反映下游AI算力需求旺盛，也意味着英伟达上游成本结构可能承压，需关注其毛利率能否维持。"
+      },
+      {
+        "heading": "跟踪者与市场情绪",
+        "body": "公开披露显示，佩洛西（Pelosi）关联账户在2025年12月至2026年1月期间对英伟达有新建仓记录，同时也存在部分减持（trim）操作，交易方向并不完全一致，说明即便是备受关注的政治人物交易信号，也难以单一解读为纯粹看多或看跌。社交媒体上关于CPO、光子学与存储周期的讨论热度较高，市场情绪整体偏向关注但存在分歧。"
+      },
+      {
+        "heading": "宏观与风险因素",
+        "body": "近期宏观环境呈现利率上行与地缘政治不确定性交织：10年期美债收益率重返5%上方，美股受油价与国债收益率上升影响出现回调；同时中美元首会晤与伊朗核谈判等事件为市场增添波动来源。此外，摩根士丹利提出的AI电力供给缺口（约33吉瓦）等基础设施瓶颈问题，也是英伟达下游需求能否顺利释放的潜在制约因素。"
+      }
+    ],
+    "comparables": [
+      {
+        "ticker": "AMD",
+        "name": "超威半导体",
+        "note": "同为数据中心GPU与AI加速芯片主要竞争者，据报道年内涨幅可观，市场关注其在AI算力市场份额提升的持续性"
+      },
+      {
+        "ticker": "AVGO",
+        "name": "博通",
+        "note": "在网络交换、CPO光互联及定制ASIC领域与英伟达既有合作也有竞争，其激光供应链布局可能影响行业整体供需格局"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "迈威尔科技",
+        "note": "专注于定制AI芯片（Celestial等项目）与光互联方案，是光模块及ASIC赛道的重要对照标的，近期获多家机构关注其AI基础设施业务"
+      },
+      {
+        "ticker": "MU",
+        "name": "美光科技",
+        "note": "HBM等存储产品供应商，与英伟达形成上下游关系，其产能与定价周期直接影响英伟达硬件成本结构"
+      }
+    ],
+    "model": "claude-code（订阅）",
+    "generatedAt": "2026-09-23T23:28:54.824708Z"
   },
   "news": [
     {
-      "id": "NVDA-142342933",
-      "title": "3 Monthly Income ETFs to Buy Once That Have Paid You Every Single Month for More Than a Decade",
+      "id": "NVDA-142365119",
+      "title": "Could SpaceX Stock Make You a Millionaire by 2036?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-22",
-      "url": "https://finnhub.io/api/news?id=49523b64032dbd62d2f615ba6397c253636bb19be6ef3602f3e5329db83ddbd2",
+      "publishedAt": "2026-09-23",
+      "url": "https://finnhub.io/api/news?id=148503a0c2ac0a956ca9cf264411e8902aef84fa3d5d054a98d52d4f6d502052",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142342930",
-      "title": "JEPI’s 4.42% Gain Looks Modest Next to FYEE’s 12.4% Run in 2026",
+      "id": "NVDA-142365106",
+      "title": "Stock Market Today, Sept. 23: IonQ Surges on Quantum Breakthrough and Nvidia Partnership",
       "source": "Yahoo",
-      "publishedAt": "2026-09-22",
-      "url": "https://finnhub.io/api/news?id=98f0833cf12dd65e061b16ff846203e0db1310ceab52f159a5eda56cdc169e52",
+      "publishedAt": "2026-09-23",
+      "url": "https://finnhub.io/api/news?id=e59c9cb6478a105fe7949c9bbb9722a6beb937562ea0f706bfbbf81cdc365e71",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142342937",
-      "title": "Micron vs. SanDisk: Comparing Two Red-Hot AI Memory Stocks",
+      "id": "NVDA-142365107",
+      "title": "Here's How Much You'd Need to Invest in SCHD to Generate $500 Per Month in Dividends",
       "source": "Yahoo",
-      "publishedAt": "2026-09-22",
-      "url": "https://finnhub.io/api/news?id=0dc3b45bc78fe147c4dbcad938b62700559a26eaa41bd0fc28e272cbaf8caa1e",
+      "publishedAt": "2026-09-23",
+      "url": "https://finnhub.io/api/news?id=07df39c2a8134302b37ed3759885d04f8e327ef8a6d20467f4fbb6dca9be4b27",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142342931",
-      "title": "Got $5,000? 2 Growth Stocks Building the Software Backbone of the AI Revolution",
+      "id": "NVDA-142365115",
+      "title": "A Recession Is Coming Eventually. Here's Why I'm Not Worried.",
       "source": "Yahoo",
-      "publishedAt": "2026-09-22",
-      "url": "https://finnhub.io/api/news?id=893ce9ee977f0b07e0ff21893bea32e8e3a3cb125875b638842f80f5fc6c16d8",
+      "publishedAt": "2026-09-23",
+      "url": "https://finnhub.io/api/news?id=867748dc7ecf0bf8b7b5eb211a10b12f35d9b71700e069c87fa2b3ccffcd2bd3",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142342934",
-      "title": "The AI Rally Is Back—and Facing a Wall of Worry",
+      "id": "NVDA-142365116",
+      "title": "Why AppLovin Stock Dived by 4% Today",
       "source": "Yahoo",
-      "publishedAt": "2026-09-22",
-      "url": "https://finnhub.io/api/news?id=84b330c0e7d29405debb222d91d5ab3fe81c4b0ac1b7e80b4f6608391f941737",
+      "publishedAt": "2026-09-23",
+      "url": "https://finnhub.io/api/news?id=01ba81e859bfe50242146c38988aaa7153c0efde94bf17e6ab830b48fc275247",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142342935",
-      "title": "Apple Just Misses $5 Trillion Market Cap. The Milestone Is Likely Coming Soon.",
+      "id": "NVDA-142365108",
+      "title": "The 10-Year Treasury Is Back Above 5%. Here Comes the Pain.",
       "source": "Yahoo",
-      "publishedAt": "2026-09-22",
-      "url": "https://finnhub.io/api/news?id=ee34c86a9b3c364e9b8c96d1e7bc6585d8e19a48111706810e000d639ea8d461",
+      "publishedAt": "2026-09-23",
+      "url": "https://finnhub.io/api/news?id=3410ab9c69d989380aeb17bc907ca813bd09a6b595cf15e8816913993e1afead",
       "tags": [
         "NVDA"
       ]

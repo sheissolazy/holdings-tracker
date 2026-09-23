@@ -401,47 +401,83 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-09-16",
+    "asOf": "2026-09-23",
     "sentiment": "watch",
-    "excerpt": "Interest Rates in the United States should be 1%, or less, because we are the Best Credit in the World — BY FAR. Our Country is BOOMING with new Investment! If we stopped Trading with every country that we have a Deficit with, which is most",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117282643318690567",
-    "ticker": "",
-    "topics": [
-      "美联储/利率"
-    ]
-  },
-  {
-    "personId": "trump",
-    "type": "social",
-    "asOf": "2026-09-15",
-    "sentiment": "watch",
-    "excerpt": "It was my Honor to write the Foreword for Brian Pannebecker’s incredible new Book, “Blue Collar Conservative: From Reagan to Trump.” As the head of Autoworkers for Trump, Brian has been with us from the very beginning, and understands, like",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117276639949770622",
-    "ticker": "AMZN",
-    "topics": [
-      "关税/贸易"
-    ]
-  },
-  {
-    "personId": "musk",
-    "type": "social",
-    "asOf": "2026-09-22",
-    "sentiment": "watch",
-    "excerpt": "Grok @Bot now in your Tesla!",
-    "postUrl": "https://x.com/elonmusk/status/2102439262507725294",
-    "ticker": "TSLA",
+    "excerpt": "I’ve actually entered positions in many tiny Korean companies recently…\n\nThat actively supply memory, test, machines, etc. to $MU, $SKHY, Samsung, and others like $SMTC + US companies.\n\nIt’s pretty interesting what you find in the $30-$250m",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102790422007550083",
+    "ticker": "MU",
     "topics": []
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-23",
+    "sentiment": "watch",
+    "excerpt": "I’ve actually entered positions in many tiny Korean companies recently…\n\nThat actively supply memory, test, machines, etc. to $MU, $SKHY, Samsung, and others like $SMTC + US companies.\n\nIt’s pretty interesting what you find in the $30-$250m",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102790422007550083",
+    "ticker": "SKHY",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-23",
+    "sentiment": "watch",
+    "excerpt": "I’ve actually entered positions in many tiny Korean companies recently…\n\nThat actively supply memory, test, machines, etc. to $MU, $SKHY, Samsung, and others like $SMTC + US companies.\n\nIt’s pretty interesting what you find in the $30-$250m",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102790422007550083",
+    "ticker": "SMTC",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-23",
+    "sentiment": "watch",
+    "excerpt": "So update from $LITE + Win Semi ( $SIVE ) foundry:  \n\nLumentum in a meeting with Stifel at ECOC 2026 stated:\n\n- $NVDA Spectrum-6 CPO UHP demands increased materially. \n- NPO as larger than CPO, with multi-wavelength external lasers lifting ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102763548715753927",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-23",
+    "sentiment": "watch",
+    "excerpt": "So update from $LITE + Win Semi ( $SIVE ) foundry:  \n\nLumentum in a meeting with Stifel at ECOC 2026 stated:\n\n- $NVDA Spectrum-6 CPO UHP demands increased materially. \n- NPO as larger than CPO, with multi-wavelength external lasers lifting ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102763548715753927",
+    "ticker": "ASML",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-23",
+    "sentiment": "watch",
+    "excerpt": "So update from $LITE + Win Semi ( $SIVE ) foundry:  \n\nLumentum in a meeting with Stifel at ECOC 2026 stated:\n\n- $NVDA Spectrum-6 CPO UHP demands increased materially. \n- NPO as larger than CPO, with multi-wavelength external lasers lifting ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102763548715753927",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-23",
+    "sentiment": "watch",
+    "excerpt": "So update from $LITE + Win Semi ( $SIVE ) foundry:  \n\nLumentum in a meeting with Stifel at ECOC 2026 stated:\n\n- $NVDA Spectrum-6 CPO UHP demands increased materially. \n- NPO as larger than CPO, with multi-wavelength external lasers lifting ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102763548715753927",
+    "ticker": "SIVE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-09-22",
     "sentiment": "watch",
-    "excerpt": "Grok 4.7 doing real engineering work at Tesla",
-    "postUrl": "https://x.com/elonmusk/status/2102423241897705926",
-    "ticker": "TSLA",
+    "excerpt": "Elon Musk: \"AI will beat [humans] in all fields by the end of next year or maybe 2028, at the latest.\"\n\nKind of maps to Anthropic's economic implications paper where 2026-2028 was the buildout.\n\nThen 2028-2030 was unprecedented economic gro",
+    "postUrl": "https://x.com/aleabitoreddit/status/2102565495342010529",
+    "ticker": "",
     "topics": []
   },
   {
@@ -776,96 +812,6 @@
     "excerpt": "So on optical vs. photonics... Memory like $MU / $SKHY is in it's current supercycle.  \n\n-> RBC channel checks for example projects 80-100% HBM ASP hikes for 2027.\n\n-> Per $NVDA ER, Hyperscaler capex goes up in 2027. Then you have 68% of hy",
     "postUrl": "https://x.com/aleabitoreddit/status/2100938001077674262",
     "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-17",
-    "sentiment": "watch",
-    "excerpt": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this... (from the AI Infra Summit 2026 in Sa",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100735673561174047",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-17",
-    "sentiment": "watch",
-    "excerpt": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this... (from the AI Infra Summit 2026 in Sa",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100735673561174047",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-17",
-    "sentiment": "watch",
-    "excerpt": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this... (from the AI Infra Summit 2026 in Sa",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100735673561174047",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-17",
-    "sentiment": "watch",
-    "excerpt": "TLDRs of things I found interesting this week: \n\n- $INTC CEO says some memory prices have risen 5-7× and warns the shortage will worsen in 2027. \n\n$SNDK / $MU / Samsung bros will be happy to hear this... (from the AI Infra Summit 2026 in Sa",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100735673561174047",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-17",
-    "sentiment": "watch",
-    "excerpt": "Just in case you're wondering why I'm so bullish on legacy memory...\n\nTheir hikes seem a lot extreme than $NBIS reported +17-21% GPU rentals today or Taiyo-Murata type MLCC hikes. \n\nPrice hikes projections expected for H2:\n\n- SLC NAND: +120",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100530507549425704",
-    "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-17",
-    "sentiment": "watch",
-    "excerpt": "Just in case you're wondering why I'm so bullish on legacy memory...\n\nTheir hikes seem a lot extreme than $NBIS reported +17-21% GPU rentals today or Taiyo-Murata type MLCC hikes. \n\nPrice hikes projections expected for H2:\n\n- SLC NAND: +120",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100530507549425704",
-    "ticker": "PSMC",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-16",
-    "sentiment": "watch",
-    "excerpt": "Reminiscent of $NVDA w/ $LITE + $COHR:\n\nFoxconn is now considering joint investments to avoid upstream material shortages.\n\nFoxconn Interconnect Chairman identifies CW lasers and fiber as the biggest bottleneck in photonics.\n\nVery interesti",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100290486569505223",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-16",
-    "sentiment": "watch",
-    "excerpt": "Reminiscent of $NVDA w/ $LITE + $COHR:\n\nFoxconn is now considering joint investments to avoid upstream material shortages.\n\nFoxconn Interconnect Chairman identifies CW lasers and fiber as the biggest bottleneck in photonics.\n\nVery interesti",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100290486569505223",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-16",
-    "sentiment": "watch",
-    "excerpt": "Reminiscent of $NVDA w/ $LITE + $COHR:\n\nFoxconn is now considering joint investments to avoid upstream material shortages.\n\nFoxconn Interconnect Chairman identifies CW lasers and fiber as the biggest bottleneck in photonics.\n\nVery interesti",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100290486569505223",
-    "ticker": "LITE",
     "topics": []
   },
   {
