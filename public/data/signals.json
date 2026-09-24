@@ -354,6 +354,30 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-09-24",
+    "sentiment": "watch",
+    "excerpt": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117326044871082645 This is a survey of people in business — the S&P Flash Survey — of purchasing, manufacturing and hiring. Guess what? The report shows impressive Growth. Composite",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117326047233268228",
+    "ticker": "",
+    "topics": [
+      "关税/贸易",
+      "通胀",
+      "能源/油价"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-09-23",
+    "sentiment": "watch",
+    "excerpt": "BIG DAY FOR BOEING AND AMERICAN MANUFACTURING! Today, Türkiye and Bangladesh announced purchases totaling 111 Boeing Airplanes—with options for 50 more—following support from Howard Lutnick and the Department of Commerce. TENS of BILLIONS o",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117323148147220269",
+    "ticker": "BA",
+    "topics": []
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-09-20",
     "sentiment": "watch",
     "excerpt": "Gas prices were much higher under Biden than under “TRUMP.” So were almost all other prices. President DJT",
@@ -399,6 +423,126 @@
     "topics": [
       "AI/芯片"
     ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-24",
+    "sentiment": "watch",
+    "excerpt": "$AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years.\n\n$AMD to $MU should be happy to hear this… \n\nAkamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex sp",
+    "postUrl": "https://x.com/aleabitoreddit/status/2103232350348001701",
+    "ticker": "AKAM",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-24",
+    "sentiment": "watch",
+    "excerpt": "$AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years.\n\n$AMD to $MU should be happy to hear this… \n\nAkamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex sp",
+    "postUrl": "https://x.com/aleabitoreddit/status/2103232350348001701",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-24",
+    "sentiment": "watch",
+    "excerpt": "$AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years.\n\n$AMD to $MU should be happy to hear this… \n\nAkamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex sp",
+    "postUrl": "https://x.com/aleabitoreddit/status/2103232350348001701",
+    "ticker": "MU",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-24",
+    "sentiment": "watch",
+    "excerpt": "If you're curious about the random $SPY / $QQQ candle: \n\nJust now, “US and Iran discuss phased deal to reopen Hormuz and end US blockade\" - Reuters\n\n- \"A deal before the midterms could benefit Trump, as reopening Hormuz could ease tensions ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2103161145934963178",
+    "ticker": "QQQ",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-24",
+    "sentiment": "watch",
+    "excerpt": "If you're curious about the random $SPY / $QQQ candle: \n\nJust now, “US and Iran discuss phased deal to reopen Hormuz and end US blockade\" - Reuters\n\n- \"A deal before the midterms could benefit Trump, as reopening Hormuz could ease tensions ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2103161145934963178",
+    "ticker": "SPY",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-24",
+    "sentiment": "watch",
+    "excerpt": "$AAOI has finished a $500m ATM In April.. $600m ATM in June. Then filed another $600m in August. \n\nIt's out of my control if management wants to abuse this trash repeated ATM structure. Instead following $AXTI like LTA prepayments and using",
+    "postUrl": "https://x.com/aleabitoreddit/status/2103151990146801812",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-24",
+    "sentiment": "watch",
+    "excerpt": "$AAOI has finished a $500m ATM In April.. $600m ATM in June. Then filed another $600m in August. \n\nIt's out of my control if management wants to abuse this trash repeated ATM structure. Instead following $AXTI like LTA prepayments and using",
+    "postUrl": "https://x.com/aleabitoreddit/status/2103151990146801812",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-24",
+    "sentiment": "watch",
+    "excerpt": "$AAOI has finished a $500m ATM In April.. $600m ATM in June. Then filed another $600m in August. \n\nIt's out of my control if management wants to abuse this trash repeated ATM structure. Instead following $AXTI like LTA prepayments and using",
+    "postUrl": "https://x.com/aleabitoreddit/status/2103151990146801812",
+    "ticker": "AXTI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-24",
+    "sentiment": "watch",
+    "excerpt": "$AAOI has finished a $500m ATM In April.. $600m ATM in June. Then filed another $600m in August. \n\nIt's out of my control if management wants to abuse this trash repeated ATM structure. Instead following $AXTI like LTA prepayments and using",
+    "postUrl": "https://x.com/aleabitoreddit/status/2103151990146801812",
+    "ticker": "IREN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-24",
+    "sentiment": "watch",
+    "excerpt": "Wow $NBIS relative outperformance is wild. \n\nBack in 2025 I wrote my Neocloud thesis on $IREN to $CRWV. But I made the decision months later to consolidate it all into Nebius...\n\nDespite the the hate from FinX back then.\n\nVery interesting t",
+    "postUrl": "https://x.com/aleabitoreddit/status/2103139052363133062",
+    "ticker": "CRWV",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-24",
+    "sentiment": "watch",
+    "excerpt": "Wow $NBIS relative outperformance is wild. \n\nBack in 2025 I wrote my Neocloud thesis on $IREN to $CRWV. But I made the decision months later to consolidate it all into Nebius...\n\nDespite the the hate from FinX back then.\n\nVery interesting t",
+    "postUrl": "https://x.com/aleabitoreddit/status/2103139052363133062",
+    "ticker": "IREN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-24",
+    "sentiment": "watch",
+    "excerpt": "Wow $NBIS relative outperformance is wild. \n\nBack in 2025 I wrote my Neocloud thesis on $IREN to $CRWV. But I made the decision months later to consolidate it all into Nebius...\n\nDespite the the hate from FinX back then.\n\nVery interesting t",
+    "postUrl": "https://x.com/aleabitoreddit/status/2103139052363133062",
+    "ticker": "NBIS",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -721,96 +865,6 @@
     "sentiment": "watch",
     "excerpt": "While everyone is focused on Bessent/He Lifeng talks today. Or $LITE / $MRVL / $SIVE at ECOC optical conference...\n\nI'm just curious why my followers can leave 2K+ comments if I post in Chinese... \n\nBut if I share something in English: I on",
     "postUrl": "https://x.com/aleabitoreddit/status/2101730902615486643",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-19",
-    "sentiment": "watch",
-    "excerpt": "我有点想在中国的社交平台上开个账号玩玩\n\n就玩一小段时间，跟用不了 X 的粉丝们互动一下\n\n大家推荐去哪个平台发帖？",
-    "postUrl": "https://x.com/aleabitoreddit/status/2101467035972894984",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-19",
-    "sentiment": "watch",
-    "excerpt": "Just floating out an idea to $AVGO:\n\nIf you lock up $SIVE laser supply for next few years since you need “more laser capacity”.\n\nYou could unintentionally cause bottlenecks across your main ASIC competitors:\n\nLike $MRVL (Celestial), AlChip,",
-    "postUrl": "https://x.com/aleabitoreddit/status/2101402656845808007",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-19",
-    "sentiment": "watch",
-    "excerpt": "Just floating out an idea to $AVGO:\n\nIf you lock up $SIVE laser supply for next few years since you need “more laser capacity”.\n\nYou could unintentionally cause bottlenecks across your main ASIC competitors:\n\nLike $MRVL (Celestial), AlChip,",
-    "postUrl": "https://x.com/aleabitoreddit/status/2101402656845808007",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-19",
-    "sentiment": "watch",
-    "excerpt": "Just floating out an idea to $AVGO:\n\nIf you lock up $SIVE laser supply for next few years since you need “more laser capacity”.\n\nYou could unintentionally cause bottlenecks across your main ASIC competitors:\n\nLike $MRVL (Celestial), AlChip,",
-    "postUrl": "https://x.com/aleabitoreddit/status/2101402656845808007",
-    "ticker": "AVGO",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-19",
-    "sentiment": "watch",
-    "excerpt": "Just floating out an idea to $AVGO:\n\nIf you lock up $SIVE laser supply for next few years since you need “more laser capacity”.\n\nYou could unintentionally cause bottlenecks across your main ASIC competitors:\n\nLike $MRVL (Celestial), AlChip,",
-    "postUrl": "https://x.com/aleabitoreddit/status/2101402656845808007",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-18",
-    "sentiment": "watch",
-    "excerpt": "So on optical vs. photonics... Memory like $MU / $SKHY is in it's current supercycle.  \n\n-> RBC channel checks for example projects 80-100% HBM ASP hikes for 2027.\n\n-> Per $NVDA ER, Hyperscaler capex goes up in 2027. Then you have 68% of hy",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100938001077674262",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-18",
-    "sentiment": "watch",
-    "excerpt": "So on optical vs. photonics... Memory like $MU / $SKHY is in it's current supercycle.  \n\n-> RBC channel checks for example projects 80-100% HBM ASP hikes for 2027.\n\n-> Per $NVDA ER, Hyperscaler capex goes up in 2027. Then you have 68% of hy",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100938001077674262",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-18",
-    "sentiment": "watch",
-    "excerpt": "So on optical vs. photonics... Memory like $MU / $SKHY is in it's current supercycle.  \n\n-> RBC channel checks for example projects 80-100% HBM ASP hikes for 2027.\n\n-> Per $NVDA ER, Hyperscaler capex goes up in 2027. Then you have 68% of hy",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100938001077674262",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-18",
-    "sentiment": "watch",
-    "excerpt": "So on optical vs. photonics... Memory like $MU / $SKHY is in it's current supercycle.  \n\n-> RBC channel checks for example projects 80-100% HBM ASP hikes for 2027.\n\n-> Per $NVDA ER, Hyperscaler capex goes up in 2027. Then you have 68% of hy",
-    "postUrl": "https://x.com/aleabitoreddit/status/2100938001077674262",
     "ticker": "SIVE",
     "topics": []
   },

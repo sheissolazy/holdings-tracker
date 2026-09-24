@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 337.02,
-  "change5dPct": 1.4,
-  "changeYtdPct": 33.9,
-  "marketCap": "$4.96T",
-  "pe": 38.6,
+  "price": 335.92,
+  "change5dPct": -0.3,
+  "changeYtdPct": 33.0,
+  "marketCap": "$4.92T",
+  "pe": 38.2,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-03-24",
-      "o": 250.35,
-      "h": 254.83,
-      "l": 249.55,
-      "c": 251.64
-    },
     {
       "t": "2026-03-25",
       "o": 254.1,
@@ -897,147 +890,136 @@
       "t": "2026-09-23",
       "o": 341.08,
       "h": 341.8,
-      "l": 335.61,
+      "l": 335.5,
       "c": 337.02
+    },
+    {
+      "t": "2026-09-24",
+      "o": 336.32,
+      "h": 338.91,
+      "l": 334.3,
+      "c": 335.92
     }
   ],
   "thesis": {
     "bull": [
-      {
-        "point": "英伟达CEO黄仁勋近期公开表态看好苹果AI前景，相关言论一度带动包括苹果在内的AI概念股走强，显示产业链人士对Apple Intelligence落地存在乐观预期"
-      },
-      {
-        "point": "苹果就Siri智能功能集体诉讼达成和解，符合条件的iPhone用户最高可获赔95美元，法律不确定性边际下降，且赔付规模相对公司体量有限，财务冲击可控"
-      },
-      {
-        "point": "跟踪数据显示2025年12月30日出现一笔标记为新增（new）多头方向的AAPL交易，说明在减持交易之外，仍有资金选择在近期建立或增加多头敞口"
-      }
+      "苹果在服务业务（App Store、iCloud、Apple Music、广告）持续保持双位数增长，毛利率显著高于硬件业务，为公司提供更稳定的利润结构",
+      "市场对苹果AI功能（Apple Intelligence）的预期升温，英伟达CEO黄仁勋公开表达对苹果AI前景的看好，产业链人士也在讨论苹果与英伟达、Marvell等公司在AI基础设施上的协同需求",
+      "新任运营负责人John Ternus上任后市场反应积极，被视为库克时代产品与工程路线的延续，管理层过渡风险低于市场此前担忧"
     ],
     "bear": [
-      {
-        "point": "美国银行报告指出iPhone18需求信号好坏参半，市场对新机型销售动能及换机周期能否如期兑现存在分歧"
-      },
-      {
-        "point": "跟踪的国会议员交易记录显示，过去约一年内针对AAPL的申报以减持（trim/exit）为主，分别出现在2024年末、2025年10月及2025年12月，减持频率高于新增，反映部分知名投资者对估值或增长前景趋于谨慎"
-      },
-      {
-        "point": "宏观环境偏紧：10年期美债收益率重新升破5%，叠加原油价格因伊朗局势上行约4%，风险资产尤其是高估值科技股面临贴现率上升和风险偏好下降的双重压力"
-      }
+      "国会议员Nancy Pelosi在2025年10月至2026年1月的多份PTR披露中多次出现减持（trim/exit）动作，虽然2025年12月30日也出现一笔新建仓（new），但整体信号偏空且方向不一致，反映出跟踪者本身对苹果看法存在分歧",
+      "宏观环境不确定性上升：美债收益率快速上行、中东局势（美伊博弈、也门/沙特导弹袭击等）持续扰动风险偏好，历史上快速加息周期容易引发金融体系脆弱环节暴露，对苹果这类高估值成长股的估值构成压力",
+      "苹果在生成式AI领域的自研进展相对英伟达、谷歌、Meta等公司仍被市场认为落后，若Apple Intelligence进展不及预期，可能削弱其作为AI叙事受益者的估值溢价"
     ],
     "watch": [
-      {
-        "point": "关注Apple Intelligence及Siri相关功能升级的实际落地节奏，以及这些功能对iPhone换机周期的拉动效果能否被后续数据验证"
-      },
-      {
-        "point": "关注iPhone18实际销售及库存数据的后续披露，以及美国银行等机构是否会基于新数据调整需求判断"
-      },
-      {
-        "point": "关注美债收益率与整体利率环境走势，以及中美高层会晤（Xi访美）、伊朗局势等宏观和地缘政治事件对科技股整体风险偏好的传导"
-      }
+      "后续Pelosi等政治人物的PTR披露是否延续减持趋势，或是否会有更多新建仓（new）信号出现以确认方向",
+      "苹果在AI硬件与生态整合上的具体产品线进展（包括与英伟达、Marvell等芯片供应链的合作深度），以及是否有实质性合作或订单披露",
+      "美债收益率与地缘政治局势（中东冲突、伊朗制裁及航运管制）对整体科技股风险偏好的传导，是否引发板块性估值重估"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果（AAPL）是全球市值领先的消费电子与服务公司，核心产品包括iPhone、Mac、iPad及可穿戴设备，同时通过App Store、Apple Music、iCloud等服务业务持续贡献高毛利收入。近年来公司将Apple Intelligence等生成式AI功能作为硬件升级和用户粘性的重要驱动因素之一，市场对其AI战略的执行力与商业化节奏保持高度关注。"
+        "body": "苹果是全球市值最大的科技公司之一，主营iPhone、Mac、iPad、可穿戴设备等硬件产品，同时拥有快速增长的服务业务（App Store、iCloud、Apple Music、广告及金融服务）。公司现金流充沛，长期通过股票回购和分红回报股东，管理层近期完成向新一代产品与运营负责人（如John Ternus）的过渡。"
       },
       {
-        "heading": "业务与产品动态",
-        "body": "苹果近期就Siri智能功能相关的集体诉讼达成和解，符合条件的iPhone用户可获最高95美元赔偿，这一事件一定程度上反映出市场和监管层对其AI功能宣传与实际表现之间差距的持续审视。与此同时，美国银行发布报告称iPhone18需求信号好坏参半，市场对新机型销售表现尚未形成一致预期。另有报道提及英伟达CEO黄仁勋公开表达对苹果AI前景的乐观看法，带动相关AI概念股情绪走强。"
+        "heading": "业务与AI布局",
+        "body": "市场关注焦点已从传统硬件周期转向苹果在生成式AI领域的布局，即所谓Apple Intelligence。英伟达CEO黄仁勋近期公开表态对苹果AI寄予厚望，带动相关AI概念股联动上涨。同时新闻显示AI可穿戴设备（如具备聆听功能的新品类）正成为行业新赛道，苹果与Meta等公司在这一领域存在潜在竞争与合作空间。"
       },
       {
-        "heading": "资金与知名投资者动向",
-        "body": "跟踪的公开申报数据显示，标记为佩洛西（pelosi）的AAPL相关交易在过去一年多次出现，且以减持（trim/exit）为主，分别发生在2024年12月底、2025年10月及2025年12月，最新一笔申报（asOf 2026-01-23）中同时出现一笔新增多头（new/long）与两笔减持记录，整体呈现操作分歧而非单一方向，需结合具体披露文件进一步核实持仓变化的净效应。"
+        "heading": "多头逻辑",
+        "body": "服务业务的高毛利率和持续增长为公司提供估值支撑；AI叙事下市场对苹果软硬件生态整合能力抱有期待；新管理层过渡平稳，未引发市场对执行力的担忧，反而被部分观点解读为积极信号。"
       },
       {
-        "heading": "宏观与行业环境",
-        "body": "近期宏观面偏紧，10年期美债收益率重新站上5%关口，原油价格因伊朗与美国和谈受阻、伊朗官员表态强硬而上涨约4%，风险资产整体承压，华尔街主要指数走低。与此同时，中美关系（特朗普与习近平会晤）、伊朗地缘局势等因素持续影响市场风险偏好，对包括苹果在内的大盘权重科技股形成外部扰动。行业层面，AI基础设施及芯片板块（英伟达、Marvell、AMD等）持续受到资金关注，间接影响市场对苹果AI战略估值的参照系。"
+        "heading": "空头逻辑",
+        "body": "跟踪者（如Pelosi）近期披露的交易记录以减持为主，显示部分政治人物或其关联账户在获利了结或降低仓位；宏观层面美债收益率上行、地缘政治风险（中东冲突）加剧，历史经验显示快速加息环境容易引发市场脆弱环节暴露，对高估值成长股不利；苹果在AI原生能力上是否能追赶英伟达、谷歌等公司仍存疑问。"
       },
       {
-        "heading": "多空分歧分析",
-        "body": "多头逻辑主要基于苹果在AI功能上的长期潜力、产业链人士（如英伟达CEO）的正面表态，以及部分资金近期出现的新增多头动作；空头逻辑则聚焦于iPhone18需求信号偏弱、知名投资者过去一年整体呈现减持倾向，以及宏观利率上行对高估值科技股的压制。整体来看，市场对苹果AI叙事能否转化为实际销售增长仍存在明显分歧，短期股价可能更多受宏观利率与地缘政治事件驱动，而非公司基本面单一因素。"
+        "heading": "跟踪者动向解读",
+        "body": "公开的PTR披露显示信号并不一致：2025年12月30日记录中同时出现new（新建仓）和exit（减持/清仓）两类方向相反的交易，且2025年10月与2024年12月的记录均为减持方向。整体来看，减持信号的出现频率更高，但由于同一披露文件中出现方向冲突的记录，需谨慎解读，不宜简单视为单一强烈信号，更可能反映投资组合再平衡而非对基本面的明确判断。"
       },
       {
-        "heading": "风险提示",
-        "body": "主要风险包括：iPhone18及后续机型实际销售不及预期；Apple Intelligence等AI功能商业化进度慢于市场预期；宏观利率持续上行压制成长股估值；地缘政治局势（如中美关系、中东局势）导致市场波动加剧；以及监管与诉讼（如Siri功能相关和解案）可能带来的额外合规成本。以上分析基于公开信息整理，不构成任何投资建议。"
+        "heading": "风险与关注点",
+        "body": "短期内需关注宏观流动性环境（利率路径、地缘政治冲突）对科技股整体估值的压制作用，以及苹果AI产品落地节奏是否能兑现市场预期。若AI相关进展不及预期，或宏观风险进一步升级，苹果作为高市值权重股可能面临估值波动放大的风险；反之若AI功能得到市场认可，服务业务增长动能有望进一步支撑估值。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "note": "同为大盘科技权重股，AI相关业务（Azure、Copilot）在近期新闻中被多次提及，可作为AI商业化落地节奏的对比参照"
+        "note": "同为AI叙事核心受益标的，云与生产力软件业务与苹果服务业务形成对比"
       },
       {
         "ticker": "GOOGL",
-        "name": "Alphabet Inc.",
-        "note": "在消费电子生态、AI模型与服务整合方面与苹果存在竞争与合作关系，可用于比较AI功能对用户体验和营收的拉动效果"
+        "name": "Alphabet Inc",
+        "note": "在生成式AI与端侧智能布局上与苹果存在直接竞争关系，近期市场关注其在Anthropic等AI资产上的估值"
       },
       {
-        "ticker": "QCOM",
-        "name": "Qualcomm Inc.",
-        "note": "近期新闻提及其针对智能手机端侧agentic AI推出新芯片，与苹果在端侧AI芯片及智能手机AI体验上形成直接竞争对比"
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "AI数据中心芯片供应链相关标的，新闻提及其与苹果、英伟达供应链需求的联动"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-23T23:31:00.373814Z"
+    "generatedAt": "2026-09-24T23:50:37.022304Z"
   },
   "news": [
     {
-      "id": "AAPL-142364035",
-      "title": "The 42-State AG Coalition: How State Attorneys General Are Building the Agent Liability Framework Congress Won’t",
+      "id": "AAPL-142386674",
+      "title": "3 Stocks Tied To Apple And Nvidia Supply Chain Demand",
       "source": "Yahoo",
-      "publishedAt": "2026-09-23",
-      "url": "https://finnhub.io/api/news?id=5489928e26a0a3bc811c882f5b88cf75c6eb06583a5dd94c6fa7c75e76a3f4b0",
+      "publishedAt": "2026-09-24",
+      "url": "https://finnhub.io/api/news?id=3eb68612bf87731f38d7cd25b413ab510ecc96b0b48bf343d201367abe512cf1",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142364022",
-      "title": "How Qualcomm is targeting agentic AI with its 2 new smartphone chips",
+      "id": "AAPL-142386672",
+      "title": "The era of AI wearables focused on listening is here",
       "source": "Yahoo",
-      "publishedAt": "2026-09-23",
-      "url": "https://finnhub.io/api/news?id=9b514b2b2e92ccff60d564b1e6c774f3f7ef3a67f6a4635adcda16bffb2ca133",
+      "publishedAt": "2026-09-24",
+      "url": "https://finnhub.io/api/news?id=8a048feb7dbc8f1370696fcd6c2cd8eebbb7a9aaa2a8bd681e4b6ea3e270bc21",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142364348",
-      "title": "Meta’s Muse AI Agent Triggers Worries About Brokerage Stocks",
+      "id": "AAPL-142386673",
+      "title": "Meta's new AI device changes everything",
       "source": "Yahoo",
-      "publishedAt": "2026-09-23",
-      "url": "https://finnhub.io/api/news?id=c77838b0a5e1491be36fa2a7e3a94032af84d571990be5b3a67ba32b6f4f336d",
+      "publishedAt": "2026-09-24",
+      "url": "https://finnhub.io/api/news?id=ac42db3b5bbfd71b487a5842da3fe6ea919f2cf368ea3937f2345d97dfdc9739",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142364033",
-      "title": "Apple Settlement Over Siri Intelligence Features Means Eligible iPhone Owners Can Receive Up to $95",
+      "id": "AAPL-142385570",
+      "title": "Apple stock is giving new CEO John Ternus plenty to smile about",
       "source": "Yahoo",
-      "publishedAt": "2026-09-23",
-      "url": "https://finnhub.io/api/news?id=12c809789e2530fda3d2bc17a527613498125b4b878d4a19a4a7be7fba5e55d2",
+      "publishedAt": "2026-09-24",
+      "url": "https://finnhub.io/api/news?id=d7ab2da6d96861c35d5c99bab5e7824381e0b07174e646754cd618cb62547f72",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142364034",
-      "title": "Bank of America Flags Mixed iPhone 18 Demand Signal",
+      "id": "AAPL-142385571",
+      "title": "AI Chip Boom Peaking in 2028? Analyst Says That’s ‘Utterly Wrong’ As Shortage Could Last Until 2030",
       "source": "Yahoo",
-      "publishedAt": "2026-09-23",
-      "url": "https://finnhub.io/api/news?id=5e4a7c85b78bf335525f83ad152ba037026b5f7ba19756e4d37292a3c2d2538d",
+      "publishedAt": "2026-09-24",
+      "url": "https://finnhub.io/api/news?id=211814a63a6197ce88047b7be676e841a9e15488cdefb24c869b55c1b7064385",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142364036",
-      "title": "Meta’s “10 Million Paid Users” Problem Has a Simple Solution",
+      "id": "AAPL-142385573",
+      "title": "These Dow Jones Stocks Buck Index's Dud Performance",
       "source": "Yahoo",
-      "publishedAt": "2026-09-23",
-      "url": "https://finnhub.io/api/news?id=35c5df3ca57ae49e0f35611f498323cf57a600cf6e8ba4e55050b01447c1539e",
+      "publishedAt": "2026-09-24",
+      "url": "https://finnhub.io/api/news?id=a65d2b456b76b0558f4463ce0af1ba0baa851c9563f34f6d1eb53d9d6bd09bb4",
       "tags": [
         "AAPL"
       ]
