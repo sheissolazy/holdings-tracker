@@ -354,6 +354,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-09-25",
+    "sentiment": "watch",
+    "excerpt": "Very productive meeting with President Xi for both the U.S.A. and China. Tremendous things will be happening. Like almost everyone else, he seemed to like calling the poorly and inaccurately named Artificial Intelligence to a far more accur",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117331749278785253",
+    "ticker": "",
+    "topics": [
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-09-24",
     "sentiment": "watch",
     "excerpt": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117326044871082645 This is a survey of people in business — the S&P Flash Survey — of purchasing, manufacturing and hiring. Guess what? The report shows impressive Growth. Composite",
@@ -423,6 +435,48 @@
     "topics": [
       "AI/芯片"
     ]
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-09-25",
+    "sentiment": "watch",
+    "excerpt": "Tesla Semi Factory",
+    "postUrl": "https://x.com/elonmusk/status/2103388450120737068",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-09-25",
+    "sentiment": "watch",
+    "excerpt": "Stainless Steel Starship https://t.co/1U6B2ELhA9",
+    "postUrl": "https://x.com/elonmusk/status/2103383018882896249",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-25",
+    "sentiment": "watch",
+    "excerpt": "People really need to stop thinking about 5% yields over 10 years or 30 years.\n\nEven the inflation of my $SUBWAY sandwich has gone up like 12% a year.\n\nToday it was like $20 after tax, when it used to be like $5… 12 years ago.\n\nThe best way",
+    "postUrl": "https://x.com/aleabitoreddit/status/2103490181525631382",
+    "ticker": "SPY",
+    "topics": [
+      "通胀"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-24",
+    "sentiment": "watch",
+    "excerpt": "我突然意识到, 原来我有这么多粉丝.\n\n第一次从第三方的视角看了一下自己的主页…感觉好像还有点吓人?\n\n如果我们办一场派对, 而且所有人都来了, 那应该不是塞满一个小房间的问题, 而是能塞满一整座城市吧?\n\n总之, 中秋节快乐！",
+    "postUrl": "https://x.com/aleabitoreddit/status/2103350532777943281",
+    "ticker": "",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -816,56 +870,6 @@
     "excerpt": "The main duo $SKHY and Samsung are having a fun day. \n\nI'm still long memory (eg. $EWY / $DRAM ) since if capacity agreements extend 3-5 years... and your analysts model 2.8-3.3x 2027E. Risk/reward is attractive over time. \n\nBut I think leg",
     "postUrl": "https://x.com/aleabitoreddit/status/2101906175046635887",
     "ticker": "PSMC",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-20",
-    "sentiment": "watch",
-    "excerpt": "The internet is now cooked soon?\n\nWith $RDDT to other social media like X more at risk due to AI.\n\nYou can have new decision models like Jev making autonomous computer interaction at near $0 cost. (With actions becoming more human-like/adap",
-    "postUrl": "https://x.com/aleabitoreddit/status/2101818303216013812",
-    "ticker": "RDDT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-20",
-    "sentiment": "watch",
-    "excerpt": "The internet is now cooked soon?\n\nWith $RDDT to other social media like X more at risk due to AI.\n\nYou can have new decision models like Jev making autonomous computer interaction at near $0 cost. (With actions becoming more human-like/adap",
-    "postUrl": "https://x.com/aleabitoreddit/status/2101818303216013812",
-    "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-20",
-    "sentiment": "watch",
-    "excerpt": "While everyone is focused on Bessent/He Lifeng talks today. Or $LITE / $MRVL / $SIVE at ECOC optical conference...\n\nI'm just curious why my followers can leave 2K+ comments if I post in Chinese... \n\nBut if I share something in English: I on",
-    "postUrl": "https://x.com/aleabitoreddit/status/2101730902615486643",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-20",
-    "sentiment": "watch",
-    "excerpt": "While everyone is focused on Bessent/He Lifeng talks today. Or $LITE / $MRVL / $SIVE at ECOC optical conference...\n\nI'm just curious why my followers can leave 2K+ comments if I post in Chinese... \n\nBut if I share something in English: I on",
-    "postUrl": "https://x.com/aleabitoreddit/status/2101730902615486643",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-20",
-    "sentiment": "watch",
-    "excerpt": "While everyone is focused on Bessent/He Lifeng talks today. Or $LITE / $MRVL / $SIVE at ECOC optical conference...\n\nI'm just curious why my followers can leave 2K+ comments if I post in Chinese... \n\nBut if I share something in English: I on",
-    "postUrl": "https://x.com/aleabitoreddit/status/2101730902615486643",
-    "ticker": "SIVE",
     "topics": []
   },
   {
