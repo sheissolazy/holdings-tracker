@@ -3,28 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 341.07,
-  "change5dPct": 1.5,
-  "changeYtdPct": 34.9,
-  "marketCap": "$4.90T",
-  "pe": 38.1,
+  "price": 338.4,
+  "change5dPct": 0.7,
+  "changeYtdPct": 37.2,
+  "marketCap": "$4.94T",
+  "pe": 38.5,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-03-26",
-      "o": 252.12,
-      "h": 257.0,
-      "l": 250.77,
-      "c": 252.89
-    },
-    {
-      "t": "2026-03-27",
-      "o": 253.9,
-      "h": 255.49,
-      "l": 248.07,
-      "c": 248.8
-    },
     {
       "t": "2026-03-30",
       "o": 250.07,
@@ -902,124 +888,72 @@
     }
   ],
   "thesis": {
-    "bull": [
-      "苹果在全球高端智能手机市场仍保持领先份额，品牌忠诚度和生态系统粘性为服务业务持续增长提供支撑",
-      "英伟达CEO黄仁勋公开表态看好苹果在AI领域的潜力，市场对苹果自研芯片与设备端AI能力的期待有所升温",
-      "国会议员佩洛西在2025年12月30日的最新披露中出现新建仓记录，显示部分政治关联投资者对苹果仍保留一定兴趣"
-    ],
-    "bear": [
-      "同一份披露文件显示佩洛西在同期及此前多个季度持续减持苹果仓位，2025年10月与2024年12月的交易记录均为减仓，长期趋势偏谨慎",
-      "Evercore ISI的iPhone看多调查在最新预购数据面前受到质疑，暗示市场对新机型需求的乐观预期可能被高估",
-      "当前宏观环境中美债收益率处于近十九年高位、地缘政治局势（如伊朗局势）持续扰动市场情绪，科技股估值面临压力，美银也警示美股存在回调风险"
-    ],
-    "watch": [
-      "苹果在设备端AI功能上的具体落地进展及其对Siri和iPhone换机周期的实际拉动效果",
-      "即将披露的国会交易记录中是否延续减仓趋势，作为政治关联资金情绪的风向标",
-      "四季度iPhone实际销量与预购数据的兑现情况，验证市场此前的乐观预期是否合理"
-    ],
-    "sections": [
-      {
-        "heading": "公司概览",
-        "body": "苹果是全球市值最高的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品线，以及快速增长的服务业务（App Store、iCloud、Apple Music、AppleCare等）。公司依靠软硬件一体化和庞大的用户生态系统维持高毛利率和用户粘性，是消费电子和科技板块的风向标企业。"
-      },
-      {
-        "heading": "业务与产品",
-        "body": "iPhone仍是苹果最主要的收入来源，市场对新机型的换机周期和AI功能整合高度关注。近期Evercore ISI的看多调查因预购数据不及预期而受到质疑，反映投资者对新品需求存在分歧。服务业务和可穿戴设备则被视为对冲硬件周期波动的重要增长点。"
-      },
-      {
-        "heading": "AI与创新布局",
-        "body": "英伟达CEO黄仁勋近期公开表态对苹果AI前景抱有较高期待，一定程度上带动了市场对苹果AI相关股票的买盘情绪。市场普遍关注苹果能否在设备端AI能力上追赶竞争对手，尤其是在Siri升级和端侧大模型部署方面的进展，这将是决定其未来几年产品竞争力的关键变量。"
-      },
-      {
-        "heading": "跟踪者与市场动向",
-        "body": "公开披露显示，美国国会议员佩洛西对苹果的持仓操作呈现出复杂信号：2025年12月30日出现新建仓记录，但同期及此前（2025年10月、2024年12月）的多笔交易均为减仓操作。整体来看，其交易历史更多呈现逐步减持的态势，多空信号并存，需结合后续披露持续观察。"
-      },
-      {
-        "heading": "宏观与行业背景",
-        "body": "当前市场环境受多重因素扰动，包括十年期美债收益率触及近十九年高位、中东局势（伊朗与以美方的博弈）持续存在不确定性，以及美银等机构对美股估值过高、存在回调风险的警示。半导体与科技板块内部也出现资金从头部集中标的向更均衡配置轮动的迹象，反映投资者风险偏好正在调整。"
-      },
-      {
-        "heading": "风险与展望",
-        "body": "苹果面临的主要风险包括新品需求能否兑现市场预期、AI功能落地进度是否滞后于竞争对手，以及宏观流动性收紧对成长股估值的压制。同时，政治关联投资者持仓的分歧信号也提示市场对公司长期基本面存在不同解读。整体而言，苹果的护城河依然稳固，但短期股价可能受宏观情绪和产品周期扰动而波动。"
-      }
-    ],
-    "comparables": [
-      {
-        "ticker": "MSFT",
-        "name": "微软",
-        "note": "同为AI转型代表性科技巨头，近期Copilot升级获市场积极反馈，可作为AI产品化进展的对比参照"
-      },
-      {
-        "ticker": "GOOGL",
-        "name": "谷歌母公司Alphabet",
-        "note": "在AI与移动生态上与苹果存在竞争关系，可比较双方在端侧AI布局上的差异"
-      },
-      {
-        "ticker": "005930.KS",
-        "name": "三星电子",
-        "note": "作为苹果在高端智能手机市场的主要竞争对手，其新机销量和存储芯片业务可作为参照基准"
-      }
-    ],
-    "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-25T23:55:58.916775Z"
+    "bull": [],
+    "bear": [],
+    "watch": [],
+    "sections": [],
+    "comparables": [],
+    "model": "（分析暂不可用）",
+    "generatedAt": null,
+    "unavailable": true
   },
   "news": [
     {
-      "id": "AAPL-142426057",
-      "title": "Evercore ISI’s Bullish iPhone Survey Faces a Reality Check From Pre-Order Data",
+      "id": "AAPL-142471930",
+      "title": "Why Qualcomm (QCOM) Stock Is Down Today",
       "source": "Yahoo",
-      "publishedAt": "2026-09-25",
-      "url": "https://finnhub.io/api/news?id=7d95251990763b952df69250107146d1b5977a195fb91c87b2e7bacc3bbaad0d",
+      "publishedAt": "2026-09-28",
+      "url": "https://finnhub.io/api/news?id=e00b00c59c64bf7b068009f761b8eb20afdd3d75823ac2d3a64c5f418600e7a7",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142426055",
-      "title": "Apple (AAPL) Rises Higher Than Market: Key Facts",
+      "id": "AAPL-142471922",
+      "title": "1 Monster AI Stock Greg Abel and Warren Buffett Are Extremely Bullish On",
       "source": "Yahoo",
-      "publishedAt": "2026-09-25",
-      "url": "https://finnhub.io/api/news?id=436869c3b68c85d4ff9aaa26b7340070b20e28ff9b257c7f3308e1110b29f398",
+      "publishedAt": "2026-09-28",
+      "url": "https://finnhub.io/api/news?id=8ffa71ff00307bfeefda924e9a40c9f0f291abdf22791184ab10849c7b231464",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142426058",
-      "title": "Weekly Wrap: The Crypto Rally Continues",
+      "id": "AAPL-142471927",
+      "title": "Forget SPY: Invesco’s Fund Gives the Smallest S&P 500 Company the Same Say as the Largest",
       "source": "Yahoo",
-      "publishedAt": "2026-09-25",
-      "url": "https://finnhub.io/api/news?id=3068acf212cc473a3b68b600630d5806d653b11916150af9d7a1eeabcba144fd",
+      "publishedAt": "2026-09-28",
+      "url": "https://finnhub.io/api/news?id=86d39c567b8cca0a401b12f9558a06de109f19c8c96417e2ce71f34053332fbf",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142425434",
-      "title": "Trump says China's Xi 'seemed to like' renaming AI as super intelligence",
+      "id": "AAPL-142471413",
+      "title": "Dell Stock Looks Less Expensive Once You Count The AI Backlog",
       "source": "Yahoo",
-      "publishedAt": "2026-09-25",
-      "url": "https://finnhub.io/api/news?id=8c2ec3376950bd2a46d04388f72c3a6db8689fcff3c3c5b41c04b368c360e8f9",
+      "publishedAt": "2026-09-28",
+      "url": "https://finnhub.io/api/news?id=1ec61976c2b3e422b8dfe9e3e08452f3bed362fc9654a3fe7c40982015933db8",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142425459",
-      "title": "Deer Park Town Center Trades For $125M, Suburban Retail Buying Spree Rolls On",
+      "id": "AAPL-142471183",
+      "title": "Motorola (MSI) Has Cash to Deploy. Where Can it Create the Most Value?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-25",
-      "url": "https://finnhub.io/api/news?id=5d8d45bff71ac44f71fc5a6a215c9f18d46d05fbbbaf8db101f99b85d398c96f",
+      "publishedAt": "2026-09-28",
+      "url": "https://finnhub.io/api/news?id=4fdaee38186d8cdb55548b60a749dd4d491fdb120af000ec322296cd78b86d25",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142425311",
-      "title": "Exploring the top movers within the dow jones index during today's session.",
-      "source": "ChartMill",
-      "publishedAt": "2026-09-25",
-      "url": "https://finnhub.io/api/news?id=57fe018b3402c0dd7a0c4f897a79d04dab37b2ed6e6f995fcb25f081db824dbe",
+      "id": "AAPL-142471161",
+      "title": "What Nvidia's $150 billion stock buyback means for shareholders and potential investors",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-28",
+      "url": "https://finnhub.io/api/news?id=985e806adaa766bbae28f8a24924df0604a4e2bf934bdf1454c38c8d252fca34",
       "tags": [
         "AAPL"
       ]

@@ -3,28 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 288.7,
-  "change5dPct": 8.7,
-  "changeYtdPct": 116.2,
-  "marketCap": "$78.5B",
-  "pe": 319.7,
+  "price": 262.87,
+  "change5dPct": -1.0,
+  "changeYtdPct": 120.0,
+  "marketCap": "$77.4B",
+  "pe": 315.9,
   "revenue": "—",
   "revenueYoYPct": 91,
   "prices": [
-    {
-      "t": "2026-03-26",
-      "o": 145.0,
-      "h": 149.51,
-      "l": 131.5,
-      "c": 133.52
-    },
-    {
-      "t": "2026-03-27",
-      "o": 132.99,
-      "h": 149.27,
-      "l": 129.05,
-      "c": 133.24
-    },
     {
       "t": "2026-03-30",
       "o": 133.32,
@@ -903,123 +889,123 @@
   ],
   "thesis": {
     "bull": [
-      "Oracle重申2.4GW燃料电池合同，即便此前发出不可抗力通知，仍释放出核心大客户订单基本盘保持稳固的信号，AI数据中心电力需求为公司提供长期增长催化剂",
-      "公司股价近期成为标普500单日涨幅居前个股，市场对其作为数据中心与AI算力配套电力解决方案的稀缺性给予估值溢价，国会人士申报的新增BE多头持仓也被部分投资者解读为积极信号",
-      "燃料电池技术具备快速部署、模块化、不完全依赖电网扩容排队周期等优势，在美国电网互联排队严重、传统电厂建设周期偏长的背景下具备相对竞争力"
+      "公司主打的固体氧化物燃料电池（SOFC）系统可在电网连接前快速为数据中心提供分布式电力，契合AI算力扩张背景下电力紧缺的迫切需求，近期新闻反复出现AI电力供给类议题，为公司叙事提供支撑",
+      "国会议员佩洛西在2026年7月下旬两次新增买入BE股票并于8月披露，显示部分市场参与者对公司中期前景持乐观态度，可作为情绪指标之一",
+      "公司近年与大型科技企业及数据中心运营商签订供电协议，若AI资本开支维持高位，公司在手订单与产能利用率有望进一步提升，为收入增长提供能见度"
     ],
     "bear": [
-      "此前出现的不可抗力通知本身反映供应链或产能交付存在不确定性，即便大客户重申合同，后续能否按期完整履约仍需持续验证",
-      "公司长期依赖持续融资与资本开支扩产，盈利能力与自由现金流兑现节奏仍是市场分歧焦点，当前偏高估值对业绩不及预期的容错空间有限",
-      "天然气发电机组、电网升级方案以及其他分布式能源或储能技术构成潜在替代，若数据中心业主转向成本更低的电力方案，公司订单能见度可能受到冲击"
+      "市场对BE估值已提出明确质疑，有报道直接以「AI电力热潮能否支撑约850亿美元估值」为题，反映股价已计入大量乐观预期，安全边际有限",
+      "近期股价「较大盘跌幅更为显著」，显示BE作为高贝塔AI关联标的，在利率上行、油价走高及AI泡沫担忧升温的宏观环境下承受更大回撤压力",
+      "知名做空/宏观投资人迈克尔·伯里公开表示AI泡沫可能比预期更早破裂，若AI资本开支叙事出现转向，高度依赖该叙事定价的BE估值面临重估风险"
     ],
     "watch": [
-      "关注公司后续是否披露Oracle 2.4GW合同的具体交付时间表与产能爬坡进展，以验证此前不可抗力事件是否已实质解决",
-      "国会议员申报的股票交易只反映历史某一时点的买入行为，披露存在滞后且不构成投资建议，需持续跟踪是否有新增披露或反向操作",
-      "美联储利率路径及美债收益率变化对资本密集、尚未持续稳定盈利的成长股估值敏感度较高，需关注宏观利率环境变化对公司融资成本与估值倍数的影响"
+      "10年期美债收益率走势及其对高估值成长股折现率的影响，近期新闻明确提及收益率上行是拖累股市的重要因素",
+      "AI资本开支及数据中心建设节奏的边际变化，包括大型科技公司资本开支指引调整，将直接影响市场对BE电力需求叙事的信心",
+      "公司后续财报中订单积压、产能扩张进度及毛利率变化，用以验证当前估值是否有基本面支撑，而非单纯依赖题材炒作"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy是一家专注于固体氧化物燃料电池技术的能源公司，主要产品Bloom Energy Server可为企业、数据中心、医院及工业客户提供现场发电与备用电力解决方案。公司近年来受益于AI算力扩张带来的数据中心电力需求激增，被市场视为传统电网扩容之外的补充性电力供应方之一"
+        "body": "Bloom Energy是一家专注于固体氧化物燃料电池（SOFC）发电系统的公司，主要产品为「Bloom Energy Server」，可在现场为企业、工业设施及数据中心提供分布式、相对稳定的电力供应。近年来，随着AI算力扩张带来电网连接排队周期拉长的问题，公司被市场重新定位为AI电力基础设施相关标的，股价与叙事联动明显。"
       },
       {
-        "heading": "近期业务动态",
-        "body": "近期最受关注的事件是Oracle重申与Bloom Energy的2.4吉瓦燃料电池采购合同，此前市场曾传出不可抗力通知引发对该合同履约的担忧，消息公布后公司股价单日大涨约8%，一度成为标普500指数当日表现最好的个股之一。此外公司近期也参与了社区活动及品牌曝光，显示其在拓展商业与公共形象"
+        "heading": "增长驱动与AI电力叙事",
+        "body": "公司增长的核心逻辑是数据中心与AI算力扩张导致电网供给紧张，企业转向分布式发电作为过渡或补充方案。近期新闻涉及英伟达、美光、Meta等AI产业链公司的资本开支与业务动态，间接反映AI基础设施投资仍处于扩张周期，这是支撑BE电力设备需求的宏观背景，但该叙事的持续性尚待观察。"
       },
       {
         "heading": "财务与估值",
-        "body": "公司股价年内涨幅显著，市场对其成长性给予较高估值倍数，反映出投资者对AI数据中心电力需求长期增长的乐观预期。但需注意公司历史上持续依赖外部融资支持资本开支扩产，实现持续稳定盈利与正向自由现金流的时间表仍是市场关注和分歧所在，高估值意味着对业绩不及预期的容忍度较低"
+        "body": "有报道直接提出「AI电力热潮能否支撑Bloom Energy约850亿美元估值」的疑问，说明市场内部对其估值合理性存在明显分歧。高估值意味着股价对未来增长兑现的敏感度较高，一旦订单增速或毛利率不及预期，估值收缩风险较大；同时近期报道显示BE股价跌幅一度超过大盘，反映其波动性高于普通标的。"
       },
       {
-        "heading": "国会人士交易披露解读",
-        "body": "根据公开的众议院议员财产交易披露（PTR），有议员在近期申报了两笔BE股票的新增多头持仓，交易日期分别为2026年7月24日与7月28日，披露日期为2026年8月21日。此类披露存在法定滞后期，反映的是历史某一时点的买入行为，不代表对未来走势的预测，也不构成投资建议，但可作为市场情绪的参考信号之一"
+        "heading": "竞争格局",
+        "body": "在分布式发电与燃料电池领域，BE面临Plug Power、FuelCell Energy等同业竞争，同时在广义的AI电力基础设施赛道上，还与燃气轮机、储能及传统公用事业类公司（如GE Vernova、Constellation Energy等）存在此消彼长的资金配置竞争关系。若客户转向传统电网升级或核能、天然气等替代方案，可能分流对SOFC技术的资本投入。"
       },
       {
-        "heading": "多空分歧",
-        "body": "多头逻辑主要基于AI数据中心电力需求爆发、大客户订单能见度（如Oracle合同）以及燃料电池部署速度快于传统电网扩容的比较优势。空头逻辑则聚焦于此前不可抗力通知暴露的执行与产能交付不确定性、持续融资依赖对股权稀释的潜在压力，以及天然气发电、储能等替代方案的竞争威胁。市场当前对公司订单能否如期兑现、盈利拐点何时到来存在明显分歧"
+        "heading": "风险因素",
+        "body": "主要风险包括：一是AI资本开支若因「泡沫论」升温而放缓，公司电力需求叙事可能受挫；二是宏观层面油价、10年期美债收益率上行及地缘政治局势（如伊朗局势、中东局势）持续对高估值成长股构成压力；三是公司自身产能爬坡、技术良率及新签订单节奏存在不确定性，若不及预期可能引发股价大幅波动。"
       },
       {
-        "heading": "风险提示",
-        "body": "主要风险包括：大客户合同执行与产能交付不及预期、持续资本开支导致的融资与稀释压力、行业竞争加剧、宏观利率环境变化对高估值成长股的压制，以及政策与补贴环境变化对清洁能源类公司经营的潜在影响。投资者应结合自身风险承受能力独立判断，本分析不构成买卖建议"
+        "heading": "跟踪者与市场情绪",
+        "body": "公开披露显示，国会议员佩洛西在2026年7月下旬两次新增买入BE，属于看多信号之一，但国会交易披露存在滞后性，且交易动机与个人认知未必能代表公司基本面全貌，投资者应结合公司财报与行业数据综合判断，而非单纯跟随此类信号。"
       }
     ],
     "comparables": [
       {
         "ticker": "PLUG",
         "name": "Plug Power",
-        "note": "同属氢能与燃料电池赛道，同样面临持续融资与盈利兑现压力，可作为行业执行风险的参照"
+        "note": "氢燃料电池及电解槽领域同业，同样受益于清洁能源与分布式电力叙事，但财务状况与盈利路径与BE存在差异，可作为技术路线对比参照"
       },
       {
         "ticker": "FCEL",
         "name": "FuelCell Energy",
-        "note": "另一家固体氧化物与熔融碳酸盐燃料电池厂商，规模相对较小，可用于比较行业竞争格局"
+        "note": "燃料电池发电设备提供商，业务模式与BE相近，市值规模远小于BE，可用于观察行业整体估值分化程度"
       },
       {
-        "ticker": "VST",
-        "name": "Vistra",
-        "note": "传统与清洁能源发电商，受益于数据中心用电需求增长，可作为数据中心电力主题的另一类替代标的"
+        "ticker": "GEV",
+        "name": "GE Vernova",
+        "note": "提供燃气轮机等传统及新型发电设备，是数据中心电力供给的另一路径代表，可与BE的分布式燃料电池方案形成对照"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-25T23:55:32.337344Z"
+    "generatedAt": "2026-09-29T00:54:22.444347Z"
   },
   "news": [
     {
-      "id": "BE-142425579",
-      "title": "Bloom Energy Stock Is Today’s Top S&P 500 Performer. It Has a Lot to Do With Oracle.",
+      "id": "BE-142471312",
+      "title": "S&P 500's Newest Member Is Monday's Biggest Loser",
       "source": "Yahoo",
-      "publishedAt": "2026-09-25",
-      "url": "https://finnhub.io/api/news?id=536697f03e2f5be9133ee46ad0389ea71a1084d6aa45b6c5893474c08a761465",
+      "publishedAt": "2026-09-28",
+      "url": "https://finnhub.io/api/news?id=37e9b8891865b3998ec668c602ca17ac461fb2f0c92789fce972ac333db97b3a",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142424617",
-      "title": "Prediction: These 4 Stocks Will 4x in the Next 10 Years",
+      "id": "BE-142471960",
+      "title": "Why the Midterm Elections Matter for the Stock Market This Year",
       "source": "Yahoo",
-      "publishedAt": "2026-09-25",
-      "url": "https://finnhub.io/api/news?id=d7fabdf1dce0003afa0118132806ca87fc3cfaac305214f54c456b287bae6bfe",
+      "publishedAt": "2026-09-28",
+      "url": "https://finnhub.io/api/news?id=aa4fcb8033ae1a60c28a8ae9821647e465166f4daa476414cf759e6cd229fa17",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142424913",
-      "title": "Powering Community Resilience, Bloom Energy Supports First Responders in State College during ESPN College Campus Tour",
+      "id": "BE-142472109",
+      "title": "Bloom Energy (BE) Sees a More Significant Dip Than Broader Market: Some Facts to Know",
       "source": "Yahoo",
-      "publishedAt": "2026-09-25",
-      "url": "https://finnhub.io/api/news?id=a84195ddd59fa2e098ecec52db96d379d1cff3e2cb3c9c4a4522a291b24cc6ae",
+      "publishedAt": "2026-09-28",
+      "url": "https://finnhub.io/api/news?id=b7a8a821da70510850770c3e6e1b4adc2ce66f3a0e45df7ba7db7d9a2f4d3b71",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142424820",
-      "title": "Bloom Energy Jumps 8% as Oracle Reaffirms 2.4 GW Fuel Cell Contract After Force Majeure Notice",
+      "id": "BE-142471370",
+      "title": "Can the AI Power Boom Justify Bloom Energy’s (BE) $85 Billion Valuation?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-25",
-      "url": "https://finnhub.io/api/news?id=72eefe0f81b501e479bfe442814e566c12e9c2badba9a9ef82c4455b2ef23e7e",
+      "publishedAt": "2026-09-28",
+      "url": "https://finnhub.io/api/news?id=121f55c1cfd2d0c62dc038be4f3d0d6d229467e263ff799f25efc098015054cf",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142421144",
-      "title": "Dow Jones Futures Signal Rebound For Resilient Market; Tesla, Akamai, Taiwan Semi In Focus",
-      "source": "Yahoo",
-      "publishedAt": "2026-09-25",
-      "url": "https://finnhub.io/api/news?id=24ee99cacf6450bc4588a67a6b0f3cdd1856b24cc2c800cfd2cda37107ae5a94",
+      "id": "BE-142469836",
+      "title": "Stay informed with the top movers within the S&P500 index on Monday.",
+      "source": "ChartMill",
+      "publishedAt": "2026-09-28",
+      "url": "https://finnhub.io/api/news?id=c12fd4505fe17fdad5ac70e1ca08de2c446637afd094d810b99c6d6f5a82993e",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142421246",
-      "title": "3 Industrials Stocks to Consider Right Now",
+      "id": "BE-142470276",
+      "title": "Weight of Evidence Points Higher for US Stocks, Led by AI",
       "source": "Yahoo",
-      "publishedAt": "2026-09-25",
-      "url": "https://finnhub.io/api/news?id=1ad5e4482e720e285da87a654020a6ec7eb95ff6cb697524d416df511da914d8",
+      "publishedAt": "2026-09-28",
+      "url": "https://finnhub.io/api/news?id=c556e54eeff5880ebee20182951cd3ae8c77bd9f08608782ea73464dce18ea2a",
       "tags": [
         "BE"
       ]
