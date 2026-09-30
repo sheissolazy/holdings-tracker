@@ -3,11 +3,11 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 338.4,
-  "change5dPct": 0.7,
-  "changeYtdPct": 37.2,
-  "marketCap": "$4.94T",
-  "pe": 38.5,
+  "price": 329.4,
+  "change5dPct": -2.8,
+  "changeYtdPct": 33.6,
+  "marketCap": "$4.81T",
+  "pe": 37.6,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
@@ -885,75 +885,134 @@
       "h": 341.67,
       "l": 334.53,
       "c": 341.07
+    },
+    {
+      "t": "2026-09-28",
+      "o": 340.37,
+      "h": 342.99,
+      "l": 338.04,
+      "c": 338.4
     }
   ],
   "thesis": {
-    "bull": [],
-    "bear": [],
-    "watch": [],
-    "sections": [],
-    "comparables": [],
-    "model": "（分析暂不可用）",
-    "generatedAt": null,
-    "unavailable": true
+    "bull": [
+      "新任CEO John Ternus上任后战略方向逐渐清晰，市场对其产品与工程背景抱有期待，被认为有望强化Apple在硬件与AI融合上的执行力",
+      "英伟达CEO黄仁勋公开表态看好Apple在AI领域的潜力，带动市场对Apple Intelligence落地节奏的乐观情绪",
+      "苹果生态壁垒（硬件、服务、开发者体系）依然稳固，服务收入持续增长为公司提供了不完全依赖硬件周期的利润缓冲"
+    ],
+    "bear": [
+      "有报道称Ternus正计划裁员，原因是内存芯片成本上升侵蚀硬件毛利率，反映出供应链成本压力正在向公司内部治理层面传导",
+      "知名投资人指出Meta的Muse等新产品可能对Apple App Store 30%的分成模式构成挑战，长期或影响苹果高毛利的服务业务",
+      "国会跟踪交易显示佩洛西在2025年末至2026年初对AAPL持仓多次减持（trim/exit），仅有一笔标记为新建仓位，整体信号偏谨慎甚至矛盾，难以形成一致方向判断"
+    ],
+    "watch": [
+      "社交媒体上关于「Serenity」等匿名账号讨论AMD收购World Labs等AI布局动向，虽未直接涉及AAPL，但反映市场对AI算力与生态格局重新洗牌的关注，需观察是否波及苹果的AI合作伙伴关系",
+      "宏观层面美债收益率走高、中东地缘局势（伊朗制裁、Netanyahu相关表态）持续扰动市场风险偏好，可能通过估值折现率渠道影响科技股整体表现",
+      "关注Ternus执行裁员的具体规模、涉及部门以及是否伴随资本开支或研发投入的结构性调整，这将是判断降本增效是否伤及创新能力的关键信号"
+    ],
+    "sections": [
+      {
+        "heading": "公司概览",
+        "body": "苹果近期经历管理层更替，John Ternus接任CEO，市场对其工程与产品背景抱有期待，认为其执行力有望在AI硬件融合、供应链管理等方面带来变化。公司仍是全球市值最高的科技企业之一，硬件与服务双轮驱动的商业模式保持稳定，但内存等零部件成本上升给毛利率带来新的压力。"
+      },
+      {
+        "heading": "跟踪者动向解读",
+        "body": "公开披露数据显示，佩洛西对AAPL的操作在2025年10月至2026年1月期间以减持（trim/exit）为主，仅2025年12月30日出现一笔标记为新建仓（new/long）的交易，同日又有减持记录，信号存在内部矛盾，不宜简单解读为方向性看多或看空。此外，社交平台与新闻中出现的黄仁勋关于苹果AI前景的正面评价，以及围绕AMD、World Labs收购的AI生态讨论，均提示市场对AI基础设施格局变化保持高度关注，苹果作为终端与生态入口的角色可能间接受益或承压，需持续观察。"
+      },
+      {
+        "heading": "行业与新闻动态",
+        "body": "近期新闻聚焦AI板块整体估值分歧，一方面有观点认为AI泡沫已现裂纹，另一方面又有44亿美元级别资金重新流入AI相关权益基金，显示市场情绪反复。与苹果直接相关的报道集中在管理层过渡（Ternus）、潜在裁员与成本压力、以及Meta新品Muse对App Store分成模式的潜在冲击。同期美债收益率上行、地缘政治风险（伊朗、中东局势）持续存在，构成科技股估值的外部扰动因素。"
+      },
+      {
+        "heading": "多空分歧",
+        "body": "看多逻辑主要基于新管理层执行力预期、AI战略逐步清晰以及英伟达CEO的正面表态；看空逻辑则集中在成本上升导致的裁员压力、服务业务分成模式面临新兴竞品挑战，以及跟踪者交易记录中减持信号占多数。两方分歧的核心在于市场如何权衡短期成本与治理调整的阵痛，与中长期AI及生态壁垒带来的潜在增长空间。"
+      },
+      {
+        "heading": "估值与同业比较",
+        "body": "在当前AI主题反复波动、大盘对科技股估值分歧加大的背景下，苹果与微软、谷歌母公司Alphabet、Meta等同业相比，其AI叙事相对滞后，但硬件生态与用户粘性仍是差异化优势。App Store分成模式面临的竞争压力（如Meta Muse）值得持续跟踪其对苹果服务收入结构的潜在影响。"
+      },
+      {
+        "heading": "风险与展望",
+        "body": "短期需关注新CEO主导的裁员计划落地情况、内存等零部件成本走势对硬件毛利率的持续影响，以及App Store商业模式在新型AI产品冲击下的韧性。中长期则取决于苹果能否将AI能力真正整合进产品体验，从而维持其生态溢价。宏观层面的利率与地缘政治风险仍是不可忽视的外部变量。本分析仅基于公开信息整理，不构成任何买卖建议。"
+      }
+    ],
+    "comparables": [
+      {
+        "ticker": "MSFT",
+        "name": "Microsoft Corporation",
+        "note": "AI叙事更为领先，云与生产力软件业务受益于生成式AI落地，可作为苹果AI战略执行力的参照系"
+      },
+      {
+        "ticker": "META",
+        "name": "Meta Platforms Inc.",
+        "note": "新产品Muse被指可能挑战苹果App Store分成模式，是苹果服务业务潜在竞争与合作关系的关键观察对象"
+      },
+      {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices Inc.",
+        "note": "近期涉及对World Labs等AI资产的收购动作，反映AI算力与生态格局的重新洗牌，间接影响苹果上下游合作伙伴关系"
+      }
+    ],
+    "model": "claude-code（订阅）",
+    "generatedAt": "2026-09-30T00:11:30.376468Z"
   },
   "news": [
     {
-      "id": "AAPL-142471930",
-      "title": "Why Qualcomm (QCOM) Stock Is Down Today",
+      "id": "AAPL-142501378",
+      "title": "Stock Market Today: Dow, Nasdaq Finish In The Red; AI Play Offers Entry",
       "source": "Yahoo",
-      "publishedAt": "2026-09-28",
-      "url": "https://finnhub.io/api/news?id=e00b00c59c64bf7b068009f761b8eb20afdd3d75823ac2d3a64c5f418600e7a7",
+      "publishedAt": "2026-09-29",
+      "url": "https://finnhub.io/api/news?id=79c7a893ec5daed7c98543b5c5124ecded32b84776e595d9a6c888023d0cd856",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142471922",
-      "title": "1 Monster AI Stock Greg Abel and Warren Buffett Are Extremely Bullish On",
+      "id": "AAPL-142501398",
+      "title": "Has MSFT Stock Run Out Of Steam?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-28",
-      "url": "https://finnhub.io/api/news?id=8ffa71ff00307bfeefda924e9a40c9f0f291abdf22791184ab10849c7b231464",
+      "publishedAt": "2026-09-29",
+      "url": "https://finnhub.io/api/news?id=5269c26441c3abf13e705ed88d84cca3c0a1b94315f7cd480a5b50aa8846f2a8",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142471927",
-      "title": "Forget SPY: Invesco’s Fund Gives the Smallest S&P 500 Company the Same Say as the Largest",
+      "id": "AAPL-142501396",
+      "title": "New Apple CEO John Ternus is reportedly planning layoffs as memory chip costs rise",
       "source": "Yahoo",
-      "publishedAt": "2026-09-28",
-      "url": "https://finnhub.io/api/news?id=86d39c567b8cca0a401b12f9558a06de109f19c8c96417e2ce71f34053332fbf",
+      "publishedAt": "2026-09-29",
+      "url": "https://finnhub.io/api/news?id=3a3c53f4d1935a882ea9318c808bf456252017decb3265b930b297a89f89735b",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142471413",
-      "title": "Dell Stock Looks Less Expensive Once You Count The AI Backlog",
+      "id": "AAPL-142500255",
+      "title": "New Apple CEO John Ternus is reportedly planning layoffs as costs rise",
       "source": "Yahoo",
-      "publishedAt": "2026-09-28",
-      "url": "https://finnhub.io/api/news?id=1ec61976c2b3e422b8dfe9e3e08452f3bed362fc9654a3fe7c40982015933db8",
+      "publishedAt": "2026-09-29",
+      "url": "https://finnhub.io/api/news?id=daf366ca1789623436e32dbebedb36d24272dca7b9e4a25bf31d5d33397d6656",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142471183",
-      "title": "Motorola (MSI) Has Cash to Deploy. Where Can it Create the Most Value?",
+      "id": "AAPL-142500256",
+      "title": "Billionaire Investor: Meta’s Muse Puts Apple’s “30% Rev Share on Notice”",
       "source": "Yahoo",
-      "publishedAt": "2026-09-28",
-      "url": "https://finnhub.io/api/news?id=4fdaee38186d8cdb55548b60a749dd4d491fdb120af000ec322296cd78b86d25",
+      "publishedAt": "2026-09-29",
+      "url": "https://finnhub.io/api/news?id=cdb05e0a9f13723996cf6c32c7f4812e8ec3d2514488f07253d7b2c86d6720ad",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142471161",
-      "title": "What Nvidia's $150 billion stock buyback means for shareholders and potential investors",
+      "id": "AAPL-142500233",
+      "title": "Stock Market Today: Dow Dips, But Nasdaq Turns Green; AI Stock, Energy Play Test These Entries (Live Coverage)",
       "source": "Yahoo",
-      "publishedAt": "2026-09-28",
-      "url": "https://finnhub.io/api/news?id=985e806adaa766bbae28f8a24924df0604a4e2bf934bdf1454c38c8d252fca34",
+      "publishedAt": "2026-09-29",
+      "url": "https://finnhub.io/api/news?id=e570742dde964085813a411711a0c25d2345706adb3681f6d551833a5e85778d",
       "tags": [
         "AAPL"
       ]
