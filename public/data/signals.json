@@ -354,6 +354,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-09-30",
+    "sentiment": "watch",
+    "excerpt": "The Inspector General’s Report just came out on Jerome “Too Late” Powell’s “renovation” of the Federal Reserve Headquarters in Washington, D.C. The IG’s Report states that there were “deficiencies in the management of the renovation project",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117361716972225267",
+    "ticker": "",
+    "topics": [
+      "美联储/利率"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-09-28",
     "sentiment": "watch",
     "excerpt": "Axios just released a story that “Trump” offered Sanctions Relief and Frozen Funds to Iran. This is untrue. I offered them NOTHING! Axios’ story, like most others, is a HOAX, used only for purposes of satisfying their Trump Derangement Synd",
@@ -362,6 +374,98 @@
     "topics": [
       "中美/制裁"
     ]
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-09-30",
+    "sentiment": "watch",
+    "excerpt": "My guess for real GDP growth next year is >50% higher than 2026, so >3.3%",
+    "postUrl": "https://x.com/elonmusk/status/2105361313392476174",
+    "ticker": "",
+    "topics": [
+      "经济数据"
+    ]
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-09-29",
+    "sentiment": "watch",
+    "excerpt": "Best way to sandbox an AI is to put it on a Delta flight – it will have no chance of accessing the Internet!",
+    "postUrl": "https://x.com/elonmusk/status/2105139959720014101",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-30",
+    "sentiment": "watch",
+    "excerpt": "$GOOGL Gemini 4 Argon benchmarks got released.\n\nAgainst GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5.\n\nStill coughing nonstop, so will comment on $MU / $JBL  earnings later. \n\nI've always thought Google's internal models were stellar, but a",
+    "postUrl": "https://x.com/aleabitoreddit/status/2105397070681248021",
+    "ticker": "GOOGL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-30",
+    "sentiment": "watch",
+    "excerpt": "$GOOGL Gemini 4 Argon benchmarks got released.\n\nAgainst GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5.\n\nStill coughing nonstop, so will comment on $MU / $JBL  earnings later. \n\nI've always thought Google's internal models were stellar, but a",
+    "postUrl": "https://x.com/aleabitoreddit/status/2105397070681248021",
+    "ticker": "JBL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-30",
+    "sentiment": "watch",
+    "excerpt": "$GOOGL Gemini 4 Argon benchmarks got released.\n\nAgainst GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5.\n\nStill coughing nonstop, so will comment on $MU / $JBL  earnings later. \n\nI've always thought Google's internal models were stellar, but a",
+    "postUrl": "https://x.com/aleabitoreddit/status/2105397070681248021",
+    "ticker": "MU",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-29",
+    "sentiment": "watch",
+    "excerpt": "Bro, $AMZN semi ETF portfolio is probably going to end up more compelling than what $NVDA owns... \n\nToday Amazon signed a $49.8M private placement into PCB maker Gold Circuit Electronics (2368). So now Amazon has ownership/warrants in:\n\n- $",
+    "postUrl": "https://x.com/aleabitoreddit/status/2105151002760679706",
+    "ticker": "MRVL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-29",
+    "sentiment": "watch",
+    "excerpt": "Bro, $AMZN semi ETF portfolio is probably going to end up more compelling than what $NVDA owns... \n\nToday Amazon signed a $49.8M private placement into PCB maker Gold Circuit Electronics (2368). So now Amazon has ownership/warrants in:\n\n- $",
+    "postUrl": "https://x.com/aleabitoreddit/status/2105151002760679706",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-29",
+    "sentiment": "watch",
+    "excerpt": "Bro, $AMZN semi ETF portfolio is probably going to end up more compelling than what $NVDA owns... \n\nToday Amazon signed a $49.8M private placement into PCB maker Gold Circuit Electronics (2368). So now Amazon has ownership/warrants in:\n\n- $",
+    "postUrl": "https://x.com/aleabitoreddit/status/2105151002760679706",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-09-29",
+    "sentiment": "watch",
+    "excerpt": "Bro, $AMZN semi ETF portfolio is probably going to end up more compelling than what $NVDA owns... \n\nToday Amazon signed a $49.8M private placement into PCB maker Gold Circuit Electronics (2368). So now Amazon has ownership/warrants in:\n\n- $",
+    "postUrl": "https://x.com/aleabitoreddit/status/2105151002760679706",
+    "ticker": "ALAB",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -613,66 +717,6 @@
     "excerpt": "So update from $LITE + Win Semi ( $SIVE ) foundry:  \n\nLumentum in a meeting with Stifel at ECOC 2026 stated:\n\n- $NVDA Spectrum-6 CPO UHP demands increased materially. \n- NPO as larger than CPO, with multi-wavelength external lasers lifting ",
     "postUrl": "https://x.com/aleabitoreddit/status/2102763548715753927",
     "ticker": "SIVE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-22",
-    "sentiment": "watch",
-    "excerpt": "Elon Musk: \"AI will beat [humans] in all fields by the end of next year or maybe 2028, at the latest.\"\n\nKind of maps to Anthropic's economic implications paper where 2026-2028 was the buildout.\n\nThen 2028-2030 was unprecedented economic gro",
-    "postUrl": "https://x.com/aleabitoreddit/status/2102565495342010529",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-22",
-    "sentiment": "watch",
-    "excerpt": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks.\n\nThanks Trump. https://t.co/x7tJcKjfsc",
-    "postUrl": "https://x.com/aleabitoreddit/status/2102427727987179692",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-22",
-    "sentiment": "watch",
-    "excerpt": "I guess I need to start calling $SNDK or $LITE Super Intelligence stocks.\n\nThanks Trump. https://t.co/x7tJcKjfsc",
-    "postUrl": "https://x.com/aleabitoreddit/status/2102427727987179692",
-    "ticker": "SNDK",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-22",
-    "sentiment": "watch",
-    "excerpt": "I feel like traditional \"value investing\" went into hibernation.\n\nBefore it was finding a 10x -12x P/E company like $UPWK or $PYPL, Dominoes, Pepsi. Or even a cheap Japanese company below book value.\n\nThen just enjoying slow growth but buyb",
-    "postUrl": "https://x.com/aleabitoreddit/status/2102391630515110126",
-    "ticker": "ESMT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-22",
-    "sentiment": "watch",
-    "excerpt": "I feel like traditional \"value investing\" went into hibernation.\n\nBefore it was finding a 10x -12x P/E company like $UPWK or $PYPL, Dominoes, Pepsi. Or even a cheap Japanese company below book value.\n\nThen just enjoying slow growth but buyb",
-    "postUrl": "https://x.com/aleabitoreddit/status/2102391630515110126",
-    "ticker": "PYPL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-22",
-    "sentiment": "watch",
-    "excerpt": "I feel like traditional \"value investing\" went into hibernation.\n\nBefore it was finding a 10x -12x P/E company like $UPWK or $PYPL, Dominoes, Pepsi. Or even a cheap Japanese company below book value.\n\nThen just enjoying slow growth but buyb",
-    "postUrl": "https://x.com/aleabitoreddit/status/2102391630515110126",
-    "ticker": "UPWK",
     "topics": []
   },
   {

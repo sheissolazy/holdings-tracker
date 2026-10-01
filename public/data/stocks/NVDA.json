@@ -3,28 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 227.21,
-  "change5dPct": -0.1,
-  "changeYtdPct": 37.6,
-  "marketCap": "$5.48T",
-  "pe": 28.7,
+  "price": 228.38,
+  "change5dPct": -0.2,
+  "changeYtdPct": 29.9,
+  "marketCap": "$5.50T",
+  "pe": 28.8,
   "revenue": "—",
   "revenueYoYPct": 83,
   "prices": [
-    {
-      "t": "2026-03-30",
-      "o": 168.78,
-      "h": 169.45,
-      "l": 164.27,
-      "c": 165.17
-    },
-    {
-      "t": "2026-03-31",
-      "o": 166.97,
-      "h": 174.62,
-      "l": 166.96,
-      "c": 174.4
-    },
     {
       "t": "2026-04-01",
       "o": 176.0,
@@ -892,132 +878,134 @@
       "h": 233.21,
       "l": 228.04,
       "c": 228.86
+    },
+    {
+      "t": "2026-09-29",
+      "o": 230.97,
+      "h": 232.82,
+      "l": 227.03,
+      "c": 227.21
     }
   ],
   "thesis": {
     "bull": [
-      "行业交流信息显示英伟达下一代Spectrud-6级网络产品需求走强：光模块合作伙伴在业内会议上表示CPO超高性能交换机与NPO需求material增加，暗示数据中心网络升级周期动能延续",
-      "黄仁勋公开表示美国AI数据中心建设浪潮预计创造约一百万个就业岗位，反映下游资本开支意愿依然旺盛，为英伟达算力芯片需求提供中长期支撑",
-      "国会议员佩洛西在2026年1月申报的交易记录显示其对英伟达新建多头仓位（含2026年1月16日与2025年12月30日两笔），部分市场观察者将其视为对公司前景的正面信号，但此类披露存在滞后性，不构成投资依据"
+      "供应链反馈显示英伟达Spectrum-6 CPO高端互联需求materially增加，Lumentum等光模块供应商在ECOC 2026行业会议上证实NPO与多波长外部激光方案需求同步放大，指向数据中心网络侧订单能见度较好",
+      "美光等存力与AI硬件上游厂商最新季度营收大幅超预期，印证云厂商资本开支与AI基础设施建设仍在加速，为英伟达GPU及周边生态需求提供间接佐证",
+      "知名政治人物（如佩洛西）在2025年末至2026年初多次申报新建英伟达多头头寸，显示部分长期资金对公司前景维持关注和配置意愿"
     ],
     "bear": [
-      "AMD以约82亿美元收购World Labs，显示竞争对手正加速布局空间智能与AI基础设施生态，行业竞争格局可能进一步分散英伟达的市场份额与长期议价能力",
-      "多篇市场评论指出AI板块估值已出现「实质性裂痕」，叠加美债收益率维持高位对成长股估值形成压制，英伟达作为AI交易核心标的对市场风险偏好波动尤为敏感",
-      "同一披露窗口内佩洛西记录也包含对英伟达仓位的减持（2025年12月24日exit/trim），显示即便重要市场参与者内部，仓位调整方向也并不一致，多空分歧明显，不宜单凭此类披露形成一致预期"
+      "美债收益率持续走高（30年期触及2002年以来高点），市场对高估值成长科技股的折现率敏感度上升，「Magnificent Seven」类权重股估值承压的讨论增多，可能压制英伟达股价表现",
+      "竞争格局趋于复杂：AMD以约82亿美元收购World Labs强化AI软硬件布局，亚马逊等云厂商持续投资PCB及半导体供应链（如向金像电子注资），叠加Marvell、Cerebras、Rambus等公司在细分AI芯片与互联领域发力，长期可能分流英伟达的市场份额与定价权",
+      "跟踪者交易记录并非单向看多：佩洛西申报中同时存在多笔减持（trim/exit）记录，显示即便长期持有者也在阶段性获利了结，提示股价在高位后存在波动与分歧"
     ],
     "watch": [
-      "需持续跟踪光模块供应链（Lumentum、Win Semi等）关于Spectrum-6 CPO与NPO放量节奏的最新表态，这是验证下一代网络产品需求能否兑现的关键先行指标",
-      "埃隆·马斯克提出「能源规模化」是AI长期发展的核心制约因素，电力供应与数据中心用电成本瓶颈是否会限制下游客户算力扩张节奏值得关注",
-      "中期选举临近，市场讨论其对AI交易情绪与财政政策方向的潜在影响，需跟踪相关政策不确定性是否影响数据中心资本开支预期"
+      "10月15日被多篇报道列为英伟达、博通、AMD投资者需要重点关注的日期，可能涉及重要财报或行业事件，需跟踪届时披露内容对AI硬件板块情绪的影响",
+      "美国在AI监管政策上的态度（如「华盛顿拒绝监管AI」相关报道）及中期选举可能带来的政策不确定性，均可能影响AI产业链整体估值逻辑",
+      "云厂商自研芯片与供应链多元化布局（如亚马逊同时参股多家半导体供应链企业）是否会在中长期侵蚀英伟达在数据中心GPU市场的议价能力和份额，需持续观察"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达是全球领先的GPU与AI加速计算平台提供商，产品线覆盖数据中心训练与推理加速卡、网络互联（如Spectrum系列交换机）以及配套软件生态。公司当前营收与市值高度依赖数据中心业务，是本轮AI资本开支周期中的核心受益标的之一。"
+        "body": "英伟达（NVIDIA Corporation，NVDA）是全球领先的图形处理器与AI加速计算芯片供应商，产品覆盖数据中心GPU、网络互联（如Spectrum系列交换与CPO光互联方案）、游戏显卡及专业可视化等领域。公司近年来受益于生成式AI与大模型训练推理需求的爆发式增长，数据中心业务已成为营收与利润的核心驱动力，在AI基础设施产业链中处于关键枢纽地位。"
+      },
+      {
+        "heading": "基本面与业绩",
+        "body": "产业链上游信号积极：美光等存储与AI硬件厂商最新季度营收大幅增长，被市场解读为云厂商AI资本开支仍在持续甚至加速的佐证，对英伟达GPU及配套网络产品的需求形成间接支撑。同时供应链反馈显示其新一代Spectrum-6 CPO高速互联产品需求出现材料性增长，光模块与多波长激光等配套环节景气度上升，显示公司在数据中心网络侧的产品矩阵持续获得订单验证。"
       },
       {
         "heading": "行业与竞争格局",
-        "body": "AI基础设施领域竞争持续加剧，AMD近期以约82亿美元收购World Labs布局空间智能，Marvell、Broadcom、Arm、Qualcomm等公司在网络芯片与定制化ASIC领域的动作也频繁见诸报道。英伟达在通用GPU与CUDA生态上仍占据领先地位，但客户自研芯片与竞争对手方案的替代压力是中长期需要持续观察的变量。"
+        "body": "AI芯片与基础设施赛道竞争持续加剧。AMD近期以约82亿美元收购AI公司World Labs，强化其在AI软硬件一体化方面的布局；亚马逊等云厂商一方面是英伟达的大客户，另一方面也在加大对半导体供应链（如PCB制造商金像电子）的直接投资，被部分市场观察者认为其自建AI芯片生态的雄心可能长期对英伟达构成替代性竞争。此外，Marvell、Cerebras、Rambus等公司在定制芯片、互联IP等细分领域的进展也在持续受到市场关注，整个AI硬件格局正从英伟达一家独大逐步演变为多元竞争。"
       },
       {
-        "heading": "需求与供应链信号",
-        "body": "社交媒体上的行业观察者引用Lumentum等光模块厂商在业内会议上的表态，指出英伟达Spectrum-6 CPO超高性能交换机需求material增加，NPO规模可能大于CPO，多波长外部激光器方案也在推进，显示下一代网络产品出货动能可能强于此前预期，但这类信息来自二手转述，需结合后续财报与官方指引交叉验证。"
+        "heading": "跟踪者/机构动向",
+        "body": "公开披露显示，美国国会议员佩洛西在2025年末至2026年初多次申报英伟达相关交易，既有新建多头头寸（2025-12-20、2025-12-30、2026-01-16交易日），也有减持记录（2025-12-24、2024-12-31交易日），呈现建仓与获利了结交替出现的特征，并非单一方向的强烈信号。社交媒体上的行业观察者则更多聚焦于英伟达与AMD、亚马逊等公司在AI供应链生态位上的相对竞争力比较，整体情绪偏向中性观望而非明确看多或看空。"
       },
       {
-        "heading": "宏观与政策环境",
-        "body": "近期宏观环境呈现多重不确定性：中东地缘局势（伊朗相关制裁与外交表态）、美债收益率维持高位对成长股估值形成压制、以及中期选举临近带来的财政与产业政策不确定性，均可能通过风险偏好渠道影响AI板块整体估值中枢，英伟达作为板块权重股难以独善其身。"
+        "heading": "风险因素",
+        "body": "主要风险包括：一是宏观流动性环境，美债收益率持续攀升可能压制包括英伟达在内的高估值成长股估值倍数；二是竞争格局变化，云厂商自研芯片及AMD等对手通过并购强化产品线，长期可能侵蚀英伟达的市场份额或定价权；三是地缘政治与监管不确定性，包括出口管制、AI监管政策走向及中期选举可能带来的政策扰动；四是市场对AI资本开支可持续性的分歧，一旦部分云厂商或企业客户的AI投入节奏放缓，可能对产业链情绪形成冲击。"
       },
       {
-        "heading": "跟踪者与市场情绪",
-        "body": "公开披露显示国会议员佩洛西在过去两个财年的1月申报周期内均对英伟达进行了新建多头仓位的操作，同时也伴随部分减持记录，反映其仓位调整较为频繁、方向并不单一。社交媒体上的行业观察人士（如Serenity）近期更多聚焦供应链细节与行业交叉验证，情绪标签以观察为主，尚未形成明确一致的多空立场。"
-      },
-      {
-        "heading": "风险与展望",
-        "body": "英伟达的核心看点在于AI数据中心资本开支周期能否延续，以及下一代网络与计算产品能否如预期放量；主要风险包括竞争对手加速布局带来的份额与利润率压力、宏观流动性与估值收缩风险、以及AI板块整体叙事是否会因中期选举或政策变化而出现阶段性降温。投资者需持续关注官方财报指引与供应链交叉验证信息，而非单一渠道的传闻或披露。"
+        "heading": "估值与展望",
+        "body": "市场对英伟达的分歧主要集中在：AI基础设施建设的长期可持续性与当前估值是否已充分或过度反映未来增长预期。短期看，10月中旬的行业事件及后续财报季将是检验需求能见度的重要窗口；中长期看，公司能否持续在GPU、网络互联（CPO/NPO等）及软件生态上保持技术代际领先，将决定其能否抵御日益激烈的竞争格局变化。投资者应结合利率环境、竞争动态及自身风险承受能力综合判断，本分析不构成任何买卖建议。"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "近期以约82亿美元收购World Labs布局空间智能，是英伟达在数据中心GPU与AI加速计算领域最主要的直接竞争对手"
-      },
-      {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "2026年至今股价涨幅约210%，在定制化AI芯片与数据中心网络互联领域与英伟达存在部分竞合关系"
+        "note": "GPU与AI加速芯片主要竞争对手，近期通过收购World Labs强化AI软硬件布局"
       },
       {
         "ticker": "AVGO",
         "name": "Broadcom",
-        "note": "在定制ASIC与网络交换芯片领域是英伟达数据中心网络业务的重要竞争与合作对手之一"
+        "note": "数据中心网络芯片与定制ASIC供应商，与英伟达在AI基础设施互联环节存在竞合关系"
       },
       {
-        "ticker": "ARM",
-        "name": "Arm Holdings",
-        "note": "近期因芯片板块情绪回暖而上涨，其IP架构广泛应用于AI服务器生态，与英伟达存在生态层面的间接关联"
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "在定制AI芯片与高速互联IP领域布局，被视为英伟达生态之外的潜在替代方案提供商"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-30T00:09:24.159930Z"
+    "generatedAt": "2026-10-01T00:26:50.271703Z"
   },
   "news": [
     {
-      "id": "NVDA-142501386",
-      "title": "Eli Lilly Stock Barely Moved Following Viking Therapeutics' Impressive Clinical Results. Here's Why.",
+      "id": "NVDA-142524812",
+      "title": "Warren Buffett's Record: $1,000 Became About $61 Million. Can Greg Abel Keep Compounding It?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=6f6b3cf1a3c74c2d1826f7f2f3569e7d7308ccbeed5a7969241e149f191d1e88",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=f64cf8d0bfe65ab93a4ead735ee19ec12352ebade3499f14b6d76e7e942b0c07",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142501374",
-      "title": "Jensen Huang: AI data center push will create 1 million US jobs",
+      "id": "NVDA-142524815",
+      "title": "Novo Is Open to Acquisitions. Here Are 2 Companies That Would Be Great Candidates to Buy",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=9061e7bc0076edb9f92cad9e4e4b803ddb998ace2b6165229e674df74a4644b4",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=88b7df9c9d61e720043af10293f6dff5981ba23098b746adcd33aa8c361ae5f2",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142501375",
-      "title": "Elon Musk: 'Scaling energy' is the long-term challenge with AI",
+      "id": "NVDA-142524816",
+      "title": "Why Synopsys Stock Soared Nearly 5% Higher Today",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=6f0e83394def60c48e567b2e8d35cbb3ca3d40f1ccb14f12ed6c609429e6249c",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=1b2bd181aec3441518397bd1259c3041b6cbdc56fb2a4d6b3dc4ae8db09b6cc6",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142501387",
-      "title": "JPMorgan Runs 2 Income ETFs Built for Monthly Cash Flow in 2026",
+      "id": "NVDA-142524813",
+      "title": "Micron’s Revenue More Than Quadrupled. Here’s What Comes Next for the AI Chipmaker.",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=15c2babb1572211f08fdb33ba803ae73d8961c4cc15f1d57e8ca29a0fc780774",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=f44b47335c1166f97f5a80826ad4aee231198581f39f1c005d754e956aa4f302",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142501381",
-      "title": "Anthropic filing discloses up to $84.5B SpaceX commitment",
+      "id": "NVDA-142524817",
+      "title": "Forget Waiting Three Months for SPY’s Dividend. Invesco’s High-Dividend Fund Pays Every Month",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=2dec95ae1380f8c23a3707778b243d4801f50eb4c7a6b01250de3b187f2ab17a",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=ff7223554078df0ced7983593f33c82ca9484f684de84a872f948b0a1901ab86",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142501388",
-      "title": "Anthropic is 'Heart, Lungs of AI Revolution': Dan Ives Says IPO Will Lift Tech Sector",
+      "id": "NVDA-142524809",
+      "title": "Nvidia, Broadcom, and AMD Investors Need to Have Oct. 15 Circled on Their Calendars",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=dacb79db96a19aa8ff14ed594497b85720d36ce5d784b28733fb423e8fb2347e",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=4a438b5d0e95cb6bd7403fa88539f5348b58651232f9615f1d3f5d35a122dbaa",
       "tags": [
         "NVDA"
       ]

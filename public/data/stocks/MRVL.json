@@ -3,28 +3,14 @@
   "name": "Marvell Technology",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 263.27,
-  "change5dPct": 2.3,
-  "changeYtdPct": 199.8,
-  "marketCap": "$230.9B",
-  "pe": 87.5,
+  "price": 264.21,
+  "change5dPct": 0.7,
+  "changeYtdPct": 147.6,
+  "marketCap": "$231.7B",
+  "pe": 87.8,
   "revenue": "—",
   "revenueYoYPct": 31,
   "prices": [
-    {
-      "t": "2026-03-30",
-      "o": 95.12,
-      "h": 96.5,
-      "l": 86.61,
-      "c": 87.81
-    },
-    {
-      "t": "2026-03-31",
-      "o": 96.4,
-      "h": 99.56,
-      "l": 93.05,
-      "c": 99.05
-    },
     {
       "t": "2026-04-01",
       "o": 100.82,
@@ -892,75 +878,134 @@
       "h": 261.78,
       "l": 248.14,
       "c": 251.9
+    },
+    {
+      "t": "2026-09-29",
+      "o": 258.55,
+      "h": 264.4,
+      "l": 256.88,
+      "c": 263.27
     }
   ],
   "thesis": {
-    "bull": [],
-    "bear": [],
-    "watch": [],
-    "sections": [],
-    "comparables": [],
-    "model": "（分析暂不可用）",
-    "generatedAt": null,
-    "unavailable": true
+    "bull": [
+      "公司在定制化ASIC与硅光互联领域深度绑定云计算巨头，数据中心业务占营收比重持续提升，AI相关订单可见度较高，英伟达CEO黄仁勋公开称其有望成为下一个万亿市值公司，市场关注度与估值预期随之抬升",
+      "与亚马逊AWS等超大规模云厂商在定制芯片上建立长期合作关系，若Trainium等自研芯片放量，Marvell作为关键供应商有望持续受益于资本开支扩张周期",
+      "光互联、下一代网络交换及电气互连产品组合较为齐全，在AI集群从单节点向超大规模集群演进过程中，其互联与I/O技术具备结构性受益逻辑"
+    ],
+    "bear": [
+      "客户集中度偏高，对少数几家超大规模云厂商的自研芯片项目依赖明显，一旦某个大客户转向自研或切换供应商，收入波动风险较大",
+      "股价在过去数月因黄仁勋等名人喊单及AI叙事大幅上涨，估值已计入较高增长预期，若后续季度指引不及预期，存在估值回调风险",
+      "行业竞争加剧，博通等公司在定制硅片与网络芯片领域同样具备强势地位，资本开支放缓或AI需求不及预期的宏观风险也可能压制订单增速"
+    ],
+    "watch": [
+      "关注10月中旬英伟达、博通、AMD等同业绩与资本开支指引，这些节点可能成为验证或证伪当前AI硬件需求叙事的关键时点",
+      "关注亚马逊等超大规模客户自研芯片与第三方供应商合作格局的变化，包括是否出现新的供应商分散化迹象",
+      "关注公司自身季度财报中数据中心业务的环比增速、毛利率变化以及管理层对下一代产品路线图和客户结构的表述"
+    ],
+    "sections": [
+      {
+        "heading": "公司概览",
+        "body": "Marvell Technology是一家专注于数据基础设施的半导体公司，产品覆盖数据中心、企业网络、运营商基础设施、汽车及消费电子等领域，近年来业务重心明显向云计算与AI数据中心定制化芯片倾斜，包括ASIC定制芯片、光电互联、交换芯片及高速互连等产品线"
+      },
+      {
+        "heading": "AI与数据中心叙事",
+        "body": "2026年以来，Marvell因与超大规模云厂商在定制AI芯片领域的合作而受到市场高度关注，英伟达CEO黄仁勋多次公开表示看好公司前景，甚至称其有望成为下一个万亿市值公司，相关言论在6月至7月间多次被媒体引用并带动股价大幅波动，但这种由第三方喊单驱动的叙事也引发了对预期是否过度透支的讨论"
+      },
+      {
+        "heading": "多空分歧焦点",
+        "body": "多头观点认为，随着AI算力需求从通用GPU向定制化ASIC分化，具备硅光互联与定制芯片设计能力的Marvell将持续承接云厂商资本开支溢出；空头观点则担忧客户集中度、与博通等对手的竞争压力，以及当前股价已较大程度计入乐观预期，一旦客户资本开支或自研芯片节奏放缓，业绩和估值可能同时承压"
+      },
+      {
+        "heading": "行业竞争格局",
+        "body": "在定制硅片与网络互联赛道，Marvell的主要竞争对手包括博通、Credo、Astera Labs等公司，同时也与英伟达自身的网络产品线存在一定竞合关系，客户端如亚马逊、微软、谷歌等在自研芯片与外部采购之间的平衡将持续影响行业供应商格局"
+      },
+      {
+        "heading": "近期市场与宏观背景",
+        "body": "近期市场环境呈现美债长端利率上行、大盘科技股估值承压的特征，叠加对AI资本开支是否可持续的宏观讨论增多，半导体板块个股波动加大，Marvell作为AI叙事中的热门标的，其股价对相关新闻和同业财报的敏感度较高"
+      },
+      {
+        "heading": "需要持续跟踪的变量",
+        "body": "后续应重点关注公司季度财报中数据中心收入增速与毛利率趋势、主要客户采购节奏变化、同业博通和AMD的产品与客户进展，以及整体AI资本开支周期是否出现放缓迹象，这些因素都将直接影响市场对公司长期成长逻辑的重新评估"
+      }
+    ],
+    "comparables": [
+      {
+        "ticker": "AVGO",
+        "name": "博通",
+        "note": "在定制ASIC与网络交换芯片领域是Marvell最直接的竞争对手，客户群体与业务结构高度重叠"
+      },
+      {
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "GPU与网络互联领域的行业龙头，与Marvell既存在客户端竞合关系，其CEO言论也是推动Marvell股价叙事的重要因素"
+      },
+      {
+        "ticker": "AMD",
+        "name": "超威半导体",
+        "note": "同属AI算力生态的重要参与者，近期收购World Labs等动作也反映出行业对AI基础设施布局的加速"
+      }
+    ],
+    "model": "claude-code（订阅）",
+    "generatedAt": "2026-10-01T00:27:26.996058Z"
   },
   "news": [
     {
-      "id": "MRVL-142501505",
-      "title": "Marvel Biosciences Announces Closing of Private Placement For Up To $3.0 Million",
+      "id": "MRVL-142523991",
+      "title": "What Changed In Marvell's Story?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=21c0a404106adf8a47e0ba3f4c22a22076f53ba0a207a5ac5b987fd8426742f7",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=b05b1e969245e0bfbedb856808dedb6899f5e29074591516279fb401e99f90d5",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-142499986",
-      "title": "These S&P500 stocks are moving in today's session",
-      "source": "ChartMill",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=315e57ce622f8cc62888c5533b64c07666c88222f0472c993343a6500fe225eb",
-      "tags": [
-        "MRVL"
-      ]
-    },
-    {
-      "id": "MRVL-142500240",
-      "title": "Marvell Is Up 210% in 2026: Take Profits, or Buy More?",
+      "id": "MRVL-142524036",
+      "title": "Is Cerebras' Next Big Thing Already Here?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=513f74c8c35d4f0cfed1620f5cbe2dbf7603340c1e5c30742f2664c172d78bf0",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=5cc48d59eda873553181be54ce757e32bedc8ce18c017060ac2b51c76d383f17",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-142498701",
-      "title": "Discover which S&P500 stocks are making waves on Tuesday.",
-      "source": "ChartMill",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=f6b7a069adaf871e261f2825af527c06bbfb2dcde9abb3dcfcf97b7dd45a42fc",
+      "id": "MRVL-142523622",
+      "title": "Washington Refuses To Regulate AI",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=bd6dcad00dcb357187fce1e7713a91d262f823f473d2ce2e7cd252cfb7d2d8b8",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-142498024",
-      "title": "What Was AMD Telling You Before Its Stock Ran?",
+      "id": "MRVL-142520752",
+      "title": "What Is The True Hidden Price Of Marvell Stock?",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=3a520b48f86487096365118a06265cd32c7f21d67a8ed307b26ed068e08dbfe3",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=888ec320330a8ad11e78ebd02c93477bb6f654dca972a24c53839945704648a4",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-142498240",
-      "title": "Arm Jumps 5% as Chip Selloff Unwinds; Marvell Climbs 4%, Qualcomm Inches Higher",
+      "id": "MRVL-142518876",
+      "title": "Prediction: Rambus Could Be a Quiet Winner From Exploding AI Demand",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=4922c0685c8237a023b42b66dc0317eb0195f1ace54e4fc26927e3490ff4dfbf",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=38926159928e913e3c277f80b72b96ddad30f14057169f60b8ff91d4c97ceb84",
+      "tags": [
+        "MRVL"
+      ]
+    },
+    {
+      "id": "MRVL-142520753",
+      "title": "When AMD's CEO and the Chart Say the Same Thing, Pay Attention",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=a1f0ba3993e440d81774f61887138fb655dfb4f1e88750b61b5526734a600a55",
       "tags": [
         "MRVL"
       ]

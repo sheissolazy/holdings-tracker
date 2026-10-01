@@ -3,28 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 329.4,
-  "change5dPct": -2.8,
-  "changeYtdPct": 33.6,
-  "marketCap": "$4.81T",
-  "pe": 37.6,
+  "price": 333.02,
+  "change5dPct": -2.0,
+  "changeYtdPct": 30.3,
+  "marketCap": "$4.86T",
+  "pe": 38.1,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-03-30",
-      "o": 250.07,
-      "h": 250.87,
-      "l": 245.51,
-      "c": 246.63
-    },
-    {
-      "t": "2026-03-31",
-      "o": 247.91,
-      "h": 255.48,
-      "l": 247.1,
-      "c": 253.79
-    },
     {
       "t": "2026-04-01",
       "o": 254.08,
@@ -892,127 +878,134 @@
       "h": 342.99,
       "l": 338.04,
       "c": 338.4
+    },
+    {
+      "t": "2026-09-29",
+      "o": 336.97,
+      "h": 337.09,
+      "l": 328.7,
+      "c": 329.4
     }
   ],
   "thesis": {
     "bull": [
-      "新任CEO John Ternus上任后战略方向逐渐清晰，市场对其产品与工程背景抱有期待，被认为有望强化Apple在硬件与AI融合上的执行力",
-      "英伟达CEO黄仁勋公开表态看好Apple在AI领域的潜力，带动市场对Apple Intelligence落地节奏的乐观情绪",
-      "苹果生态壁垒（硬件、服务、开发者体系）依然稳固，服务收入持续增长为公司提供了不完全依赖硬件周期的利润缓冲"
+      "AI硬件升级周期预期：英伟达CEO黄仁勋近期公开表态「对苹果AI能力抱有很高期待」，市场解读为苹果在生成式AI端侧应用上存在想象空间，带动相关AI硬件概念股联动走强",
+      "iPhone及可穿戴设备生态壁垒稳固，品牌忠诚度与服务业务（App Store、订阅、支付）持续贡献高毛利现金流，为公司提供较强的盈利韧性",
+      "作为「七巨头」核心成员，苹果在机构配置中仍具标杆地位，近期有报道称部分大型交易释放出对七巨头股票看涨的信号，情绪面存在支撑"
     ],
     "bear": [
-      "有报道称Ternus正计划裁员，原因是内存芯片成本上升侵蚀硬件毛利率，反映出供应链成本压力正在向公司内部治理层面传导",
-      "知名投资人指出Meta的Muse等新产品可能对Apple App Store 30%的分成模式构成挑战，长期或影响苹果高毛利的服务业务",
-      "国会跟踪交易显示佩洛西在2025年末至2026年初对AAPL持仓多次减持（trim/exit），仅有一笔标记为新建仓位，整体信号偏谨慎甚至矛盾，难以形成一致方向判断"
+      "知名国会议员佩洛西在2025年12月、2025年10月及2025年1月的多份PTR披露中均显示对AAPL持仓的减持（trim/exit）动作，仅2025年12月末出现一笔「new」多头建仓，整体轨迹偏谨慎，多空信号并存但减持频率更高",
+      "宏观流动性环境承压：近期报道指出30年期美债收益率触及2002年以来高点，市场评论「5%收益率下，大型科技股正走向死亡地带」，高估值的科技龙头估值敏感度上升",
+      "市场对AI资本开支竞赛的分配存在分歧，AMD以82亿美元收购World Labs、英伟达/博通等同业持续加码，资金与叙事焦点可能从苹果式「应用层AI」转向上游芯片与基础设施厂商，分流投资者关注度"
     ],
     "watch": [
-      "社交媒体上关于「Serenity」等匿名账号讨论AMD收购World Labs等AI布局动向，虽未直接涉及AAPL，但反映市场对AI算力与生态格局重新洗牌的关注，需观察是否波及苹果的AI合作伙伴关系",
-      "宏观层面美债收益率走高、中东地缘局势（伊朗制裁、Netanyahu相关表态）持续扰动市场风险偏好，可能通过估值折现率渠道影响科技股整体表现",
-      "关注Ternus执行裁员的具体规模、涉及部门以及是否伴随资本开支或研发投入的结构性调整，这将是判断降本增效是否伤及创新能力的关键信号"
+      "2026年10月15日被多篇报道列为英伟达、博通、AMD投资者需要重点关注的日期，若AI芯片供应链出现重大消息，可能间接影响苹果的AI硬件合作叙事",
+      "社交媒体上代号「serenity」的匿名账号在2026年9月28日发帖提及AMD对World Labs的收购并暗示近期将减少关注，该信息来源为社交平台匿名发言，真实性与影响力有待观察，暂列为观察项而非定论",
+      "中期选举临近，有报道讨论「中期选举可能如何打破AI交易」，政策与监管层面对AI及大型科技公司的态度变化（含「华盛顿拒绝监管AI」等报道）值得持续跟踪"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果近期经历管理层更替，John Ternus接任CEO，市场对其工程与产品背景抱有期待，认为其执行力有望在AI硬件融合、供应链管理等方面带来变化。公司仍是全球市值最高的科技企业之一，硬件与服务双轮驱动的商业模式保持稳定，但内存等零部件成本上升给毛利率带来新的压力。"
+        "body": "苹果（AAPL）是全球市值最大的消费电子与服务公司之一，核心业务涵盖iPhone、Mac、iPad、可穿戴设备及App Store、iCloud、Apple Pay等高毛利服务业务。公司凭借硬件生态与软件服务的深度绑定构筑了较高的用户转换成本与品牌护城河，长期被视为「七巨头」中现金流最稳健的代表之一。"
+      },
+      {
+        "heading": "近期动态",
+        "body": "近期公开新闻流中，苹果多次与其他「七巨头」成分股一同出现在市场综述类报道中，例如「S&P 500、道指在通胀数据好于预期后仍收低，AAPL等个股受关注」以及「摩根大通向七巨头投资者发出强烈信号」等。英伟达CEO黄仁勋关于苹果AI能力的积极表态也在报道中被提及，但尚无具体产品或财报层面的实质性新信息披露。"
       },
       {
         "heading": "跟踪者动向解读",
-        "body": "公开披露数据显示，佩洛西对AAPL的操作在2025年10月至2026年1月期间以减持（trim/exit）为主，仅2025年12月30日出现一笔标记为新建仓（new/long）的交易，同日又有减持记录，信号存在内部矛盾，不宜简单解读为方向性看多或看空。此外，社交平台与新闻中出现的黄仁勋关于苹果AI前景的正面评价，以及围绕AMD、World Labs收购的AI生态讨论，均提示市场对AI基础设施格局变化保持高度关注，苹果作为终端与生态入口的角色可能间接受益或承压，需持续观察。"
+        "body": "国会议员佩洛西的多份定期交易报告（PTR）显示其AAPL相关持仓在2025年多次出现减持（exit/trim）动作，时间跨度从2025年1月延续到2025年12月，但在2025年12月30日同时披露了一笔新建多头仓位，呈现出「边减边建」的复杂信号，不宜简单解读为单一方向的看涨或看跌判断。英伟达CEO的公开言论则偏向积极，但属于行业领袖对同业的泛泛表态，权重应低于财务数据。"
       },
       {
-        "heading": "行业与新闻动态",
-        "body": "近期新闻聚焦AI板块整体估值分歧，一方面有观点认为AI泡沫已现裂纹，另一方面又有44亿美元级别资金重新流入AI相关权益基金，显示市场情绪反复。与苹果直接相关的报道集中在管理层过渡（Ternus）、潜在裁员与成本压力、以及Meta新品Muse对App Store分成模式的潜在冲击。同期美债收益率上行、地缘政治风险（伊朗、中东局势）持续存在，构成科技股估值的外部扰动因素。"
+        "heading": "行业与宏观背景",
+        "body": "当前市场环境呈现两条主线：一是AI资本开支与算力竞赛持续升温，AMD、英伟达、博通、美光等芯片及周边公司频繁成为资金关注焦点；二是长端美债收益率走高给高估值科技股带来估值压力，有评论称「5%收益率下大型科技股正走向死亡地带」。苹果作为非纯芯片类科技龙头，受益于AI硬件叙事的同时也面临利率敏感度带来的估值波动风险。"
       },
       {
-        "heading": "多空分歧",
-        "body": "看多逻辑主要基于新管理层执行力预期、AI战略逐步清晰以及英伟达CEO的正面表态；看空逻辑则集中在成本上升导致的裁员压力、服务业务分成模式面临新兴竞品挑战，以及跟踪者交易记录中减持信号占多数。两方分歧的核心在于市场如何权衡短期成本与治理调整的阵痛，与中长期AI及生态壁垒带来的潜在增长空间。"
+        "heading": "多空分歧焦点",
+        "body": "市场对苹果的分歧主要集中在：其AI应用层价值能否兑现为新一轮硬件升级周期（乐观论点），抑或AI投资红利更多流向上游芯片与云基础设施厂商而苹果仅是被动受益者（谨慎论点）。此外，机构及政治人物的持仓变动信号本身存在矛盾（如佩洛西披露中减持与建仓并存），增加了情绪面判断的不确定性。"
       },
       {
-        "heading": "估值与同业比较",
-        "body": "在当前AI主题反复波动、大盘对科技股估值分歧加大的背景下，苹果与微软、谷歌母公司Alphabet、Meta等同业相比，其AI叙事相对滞后，但硬件生态与用户粘性仍是差异化优势。App Store分成模式面临的竞争压力（如Meta Muse）值得持续跟踪其对苹果服务收入结构的潜在影响。"
-      },
-      {
-        "heading": "风险与展望",
-        "body": "短期需关注新CEO主导的裁员计划落地情况、内存等零部件成本走势对硬件毛利率的持续影响，以及App Store商业模式在新型AI产品冲击下的韧性。中长期则取决于苹果能否将AI能力真正整合进产品体验，从而维持其生态溢价。宏观层面的利率与地缘政治风险仍是不可忽视的外部变量。本分析仅基于公开信息整理，不构成任何买卖建议。"
+        "heading": "可比公司观察",
+        "body": "在「七巨头」及消费电子/半导体板块中，微软、英伟达、AMD、博通等公司因直接涉及AI基础设施建设，近期新闻热度与资金关注度更高；苹果则更多作为AI应用场景的潜在受益方被提及。投资者可结合这些可比公司的资本开支、产品发布节奏，交叉验证苹果AI叙事的真实落地进度。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "note": "AI叙事更为领先，云与生产力软件业务受益于生成式AI落地，可作为苹果AI战略执行力的参照系"
+        "note": "同为七巨头成分股，云与AI基础设施布局更直接，可作为AI资本开支叙事的对照"
       },
       {
-        "ticker": "META",
-        "name": "Meta Platforms Inc.",
-        "note": "新产品Muse被指可能挑战苹果App Store分成模式，是苹果服务业务潜在竞争与合作关系的关键观察对象"
+        "ticker": "NVDA",
+        "name": "NVIDIA Corporation",
+        "note": "AI算力核心供应商，其CEO近期公开言论涉及对苹果AI前景的评价，二者叙事存在联动"
       },
       {
         "ticker": "AMD",
-        "name": "Advanced Micro Devices Inc.",
-        "note": "近期涉及对World Labs等AI资产的收购动作，反映AI算力与生态格局的重新洗牌，间接影响苹果上下游合作伙伴关系"
+        "name": "Advanced Micro Devices",
+        "note": "近期以82亿美元收购World Labs布局AI，资金与媒体关注度上升，可比较AI投资重心的资金分流效应"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-09-30T00:11:30.376468Z"
+    "generatedAt": "2026-10-01T00:28:47.045605Z"
   },
   "news": [
     {
-      "id": "AAPL-142501378",
-      "title": "Stock Market Today: Dow, Nasdaq Finish In The Red; AI Play Offers Entry",
+      "id": "AAPL-142524822",
+      "title": "Mynd.ai's Promethean Brand Launches On-Device AI Companion to Help Teachers Create Lesson Content in Seconds",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=79c7a893ec5daed7c98543b5c5124ecded32b84776e595d9a6c888023d0cd856",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=8e0e46d1595aeb9135a6a0f0607b4bdc6d4ccc7f050aa8a064f1565ed34e8fe6",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142501398",
-      "title": "Has MSFT Stock Run Out Of Steam?",
+      "id": "AAPL-142523981",
+      "title": "JPMorgan sends a strong message to Mag-7 stock investors",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=5269c26441c3abf13e705ed88d84cca3c0a1b94315f7cd480a5b50aa8846f2a8",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=5d3c1a924a076dd4a318800346bb7a073aa74b0c7fb9e2beed62fe6dc73e49f5",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142501396",
-      "title": "New Apple CEO John Ternus is reportedly planning layoffs as memory chip costs rise",
+      "id": "AAPL-142524007",
+      "title": "S&P 500, Dow End Lower As Investors Shrug Off Cooler-Than-Expected Inflation Data — MGM, SPCX, AAPL, TSM In Focus",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=3a3c53f4d1935a882ea9318c808bf456252017decb3265b930b297a89f89735b",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=a8ee20b68da4f30c86817c3e8c558746e67664bb035e14246f6f82f294a2fc4a",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142500255",
-      "title": "New Apple CEO John Ternus is reportedly planning layoffs as costs rise",
+      "id": "AAPL-142524003",
+      "title": "Primaris REIT Announces $411 Million Acquisition of Leading GTA Shopping Centre, Upper Canada Mall",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=daf366ca1789623436e32dbebedb36d24272dca7b9e4a25bf31d5d33397d6656",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=b74a5d3a3d7c0136304af610e1df113a87cd265348512314af1086a09df548e2",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142500256",
-      "title": "Billionaire Investor: Meta’s Muse Puts Apple’s “30% Rev Share on Notice”",
+      "id": "AAPL-142524004",
+      "title": "AI demand fuels Micron earnings beat",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=cdb05e0a9f13723996cf6c32c7f4812e8ec3d2514488f07253d7b2c86d6720ad",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=7aede7e34f728a8a2083bb7cb45abee7e4d14ba18a36a34a855cd773d82e5178",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142500233",
-      "title": "Stock Market Today: Dow Dips, But Nasdaq Turns Green; AI Stock, Energy Play Test These Entries (Live Coverage)",
+      "id": "AAPL-142524002",
+      "title": "Top Analyst Reports for Apple, Microsoft & Broadcom",
       "source": "Yahoo",
-      "publishedAt": "2026-09-29",
-      "url": "https://finnhub.io/api/news?id=e570742dde964085813a411711a0c25d2345706adb3681f6d551833a5e85778d",
+      "publishedAt": "2026-09-30",
+      "url": "https://finnhub.io/api/news?id=ca3b626f6371b67d4ed3a6fb6d3bb6adcab9be810769197aff832a5dc7207b7f",
       "tags": [
         "AAPL"
       ]
