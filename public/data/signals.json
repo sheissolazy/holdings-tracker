@@ -354,6 +354,26 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-10-01",
+    "sentiment": "watch",
+    "excerpt": "RT @ realDonaldTrump Congratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do. It was an amazing show of precise and po",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117366242139776153",
+    "ticker": "BA",
+    "topics": []
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-09-30",
+    "sentiment": "watch",
+    "excerpt": "Congratulations to the GREAT Boeing Company for producing a plane, the 737 Max, that was able to withstand G Forces and Strain far beyond what it was designed and expected to do. It was an amazing show of precise and powerful structural pla",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117363810994521058",
+    "ticker": "BA",
+    "topics": []
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-09-30",
     "sentiment": "watch",
     "excerpt": "The Inspector General’s Report just came out on Jerome “Too Late” Powell’s “renovation” of the Federal Reserve Headquarters in Washington, D.C. The IG’s Report states that there were “deficiencies in the management of the renovation project",
@@ -376,25 +396,43 @@
     ]
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-09-30",
+    "asOf": "2026-10-01",
     "sentiment": "watch",
-    "excerpt": "My guess for real GDP growth next year is >50% higher than 2026, so >3.3%",
-    "postUrl": "https://x.com/elonmusk/status/2105361313392476174",
-    "ticker": "",
-    "topics": [
-      "经济数据"
-    ]
+    "excerpt": "\"Potential FCC rules on optical transceivers more likely to come at 3.2T\" - $LITE, $AAOI, $COHR, $SIVE.\n\nMorgan Stanley met with Washington officials:\n\n- Restrictions would likely start at 3.2T modules made in China (800g/1.6T would be left",
+    "postUrl": "https://x.com/aleabitoreddit/status/2105709782854435274",
+    "ticker": "AAOI",
+    "topics": []
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-09-29",
+    "asOf": "2026-10-01",
     "sentiment": "watch",
-    "excerpt": "Best way to sandbox an AI is to put it on a Delta flight – it will have no chance of accessing the Internet!",
-    "postUrl": "https://x.com/elonmusk/status/2105139959720014101",
-    "ticker": "",
+    "excerpt": "\"Potential FCC rules on optical transceivers more likely to come at 3.2T\" - $LITE, $AAOI, $COHR, $SIVE.\n\nMorgan Stanley met with Washington officials:\n\n- Restrictions would likely start at 3.2T modules made in China (800g/1.6T would be left",
+    "postUrl": "https://x.com/aleabitoreddit/status/2105709782854435274",
+    "ticker": "AXTI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-01",
+    "sentiment": "watch",
+    "excerpt": "\"Potential FCC rules on optical transceivers more likely to come at 3.2T\" - $LITE, $AAOI, $COHR, $SIVE.\n\nMorgan Stanley met with Washington officials:\n\n- Restrictions would likely start at 3.2T modules made in China (800g/1.6T would be left",
+    "postUrl": "https://x.com/aleabitoreddit/status/2105709782854435274",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-01",
+    "sentiment": "watch",
+    "excerpt": "\"Potential FCC rules on optical transceivers more likely to come at 3.2T\" - $LITE, $AAOI, $COHR, $SIVE.\n\nMorgan Stanley met with Washington officials:\n\n- Restrictions would likely start at 3.2T modules made in China (800g/1.6T would be left",
+    "postUrl": "https://x.com/aleabitoreddit/status/2105709782854435274",
+    "ticker": "LITE",
     "topics": []
   },
   {
@@ -647,76 +685,6 @@
     "excerpt": "Wow $NBIS relative outperformance is wild. \n\nBack in 2025 I wrote my Neocloud thesis on $IREN to $CRWV. But I made the decision months later to consolidate it all into Nebius...\n\nDespite the the hate from FinX back then.\n\nVery interesting t",
     "postUrl": "https://x.com/aleabitoreddit/status/2103139052363133062",
     "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-23",
-    "sentiment": "watch",
-    "excerpt": "I’ve actually entered positions in many tiny Korean companies recently…\n\nThat actively supply memory, test, machines, etc. to $MU, $SKHY, Samsung, and others like $SMTC + US companies.\n\nIt’s pretty interesting what you find in the $30-$250m",
-    "postUrl": "https://x.com/aleabitoreddit/status/2102790422007550083",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-23",
-    "sentiment": "watch",
-    "excerpt": "I’ve actually entered positions in many tiny Korean companies recently…\n\nThat actively supply memory, test, machines, etc. to $MU, $SKHY, Samsung, and others like $SMTC + US companies.\n\nIt’s pretty interesting what you find in the $30-$250m",
-    "postUrl": "https://x.com/aleabitoreddit/status/2102790422007550083",
-    "ticker": "SKHY",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-23",
-    "sentiment": "watch",
-    "excerpt": "I’ve actually entered positions in many tiny Korean companies recently…\n\nThat actively supply memory, test, machines, etc. to $MU, $SKHY, Samsung, and others like $SMTC + US companies.\n\nIt’s pretty interesting what you find in the $30-$250m",
-    "postUrl": "https://x.com/aleabitoreddit/status/2102790422007550083",
-    "ticker": "SMTC",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-23",
-    "sentiment": "watch",
-    "excerpt": "So update from $LITE + Win Semi ( $SIVE ) foundry:  \n\nLumentum in a meeting with Stifel at ECOC 2026 stated:\n\n- $NVDA Spectrum-6 CPO UHP demands increased materially. \n- NPO as larger than CPO, with multi-wavelength external lasers lifting ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2102763548715753927",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-23",
-    "sentiment": "watch",
-    "excerpt": "So update from $LITE + Win Semi ( $SIVE ) foundry:  \n\nLumentum in a meeting with Stifel at ECOC 2026 stated:\n\n- $NVDA Spectrum-6 CPO UHP demands increased materially. \n- NPO as larger than CPO, with multi-wavelength external lasers lifting ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2102763548715753927",
-    "ticker": "ASML",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-23",
-    "sentiment": "watch",
-    "excerpt": "So update from $LITE + Win Semi ( $SIVE ) foundry:  \n\nLumentum in a meeting with Stifel at ECOC 2026 stated:\n\n- $NVDA Spectrum-6 CPO UHP demands increased materially. \n- NPO as larger than CPO, with multi-wavelength external lasers lifting ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2102763548715753927",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-23",
-    "sentiment": "watch",
-    "excerpt": "So update from $LITE + Win Semi ( $SIVE ) foundry:  \n\nLumentum in a meeting with Stifel at ECOC 2026 stated:\n\n- $NVDA Spectrum-6 CPO UHP demands increased materially. \n- NPO as larger than CPO, with multi-wavelength external lasers lifting ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2102763548715753927",
-    "ticker": "SIVE",
     "topics": []
   },
   {
