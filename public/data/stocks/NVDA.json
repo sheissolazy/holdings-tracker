@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 230.86,
-  "change5dPct": 2.4,
-  "changeYtdPct": 30.1,
-  "marketCap": "$5.56T",
-  "pe": 28.8,
+  "price": 233.95,
+  "change5dPct": 4.2,
+  "changeYtdPct": 31.7,
+  "marketCap": "$5.64T",
+  "pe": 29.7,
   "revenue": "—",
   "revenueYoYPct": 83,
   "prices": [
-    {
-      "t": "2026-04-02",
-      "o": 172.18,
-      "h": 177.49,
-      "l": 171.37,
-      "c": 177.39
-    },
     {
       "t": "2026-04-06",
       "o": 177.16,
@@ -885,142 +878,82 @@
       "h": 232.37,
       "l": 228.17,
       "c": 228.38
+    },
+    {
+      "t": "2026-10-01",
+      "o": 229.98,
+      "h": 232.29,
+      "l": 228.16,
+      "c": 230.86
     }
   ],
   "thesis": {
-    "bull": [
-      "NVIDIA宣布规模约2350亿美元的股票回购计划，显示管理层对自由现金流及长期业务前景的信心，也为每股收益提供支撑",
-      "多篇报道指出AI基础设施资本支出正进入下一阶段，超大规模云厂商持续加码数据中心建设，NVIDIA在GPU与配套网络方案中仍保持主导份额",
-      "国会议员佩洛西在2026年1月披露的PTR记录显示其对NVDA新建多头仓位（交易日2026-01-16、2025-12-30），说明部分长期跟踪者近期仍持看多态度"
-    ],
-    "bear": [
-      "同一份PTR披露中也出现对NVDA仓位的减持记录（交易日2025-12-24），说明即便存在买入也伴随获利了结或降仓操作，跟踪者内部信号并不一致",
-      "有市场评论提到亚马逊正通过对半导体供应链企业（如PCB厂商Gold Circuit Electronics）进行私募配售及认股权证布局，构建自研AI芯片生态，长期可能分散部分客户对NVIDIA的依赖",
-      "多篇报道聚焦Marvell、Credo等定制芯片与网络互联厂商在AI基础设施中的份额扩张，并有报道直接提出NVIDIA是否正在增加投资组合市场风险的疑问，反映市场对AI硬件高度集中敞口的担忧"
-    ],
-    "watch": [
-      "社交媒体分析师serenity近期多次评论半导体供应链相关标的（如AAOI、AXTI）的融资结构及亚马逊在同业的布局，内容未对NVDA给出明确方向性判断，值得持续关注其后续更新",
-      "2026年10月15日前后台积电财报及产能扩张进展，将是验证NVDA上游晶圆代工供给是否充足的重要观察窗口",
-      "美光潜在的更大规模回购计划及AI存储业绩表现，可作为判断AI硬件链景气度是否扩散至其他环节的参照指标"
-    ],
-    "sections": [
-      {
-        "heading": "公司概览",
-        "body": "NVIDIA是全球领先的图形处理器与人工智能计算平台提供商，业务涵盖数据中心加速计算、游戏显卡、专业可视化及汽车电子等领域。近年来公司营收增长高度依赖数据中心与AI训练、推理硬件需求，是美股七巨头（Magnificent Seven）成分股之一，也是近期多篇市场报道和焦点新闻中反复出现的核心标的"
-      },
-      {
-        "heading": "业务与护城河",
-        "body": "NVIDIA在AI加速计算硬件与CUDA软件生态上建立了较深的技术壁垒，但公开报道显示竞争对手（如AMD、Marvell及网络互联厂商Credo等）正在争夺AI数据中心建设中的增量份额，部分超大规模云厂商也在加速自研定制芯片及多元化供应链布局，这对单一厂商的长期议价能力构成潜在分散效应"
-      },
-      {
-        "heading": "财务与资本配置",
-        "body": "公开报道提及公司规模约2350亿美元的股票回购计划，反映管理层在现金流管理与股东回报上的积极态度；与此同时市场也在讨论美光等同行是否会推出规模更大的回购，侧面说明行业整体现金流充裕，但也引发关于资本开支与股东回报节奏之间如何平衡的讨论"
-      },
-      {
-        "heading": "行业格局与竞争",
-        "body": "报道显示AI基础设施支出正进入下一阶段，相关受益环节已扩展至网络互联（Credo）、定制芯片（Marvell等）、数据中心能源（Bloom Energy）等上下游细分领域，显示行业资金并非单一集中于NVIDIA，而是呈现扩散趋势，这对其市场份额与定价权存在潜在分散影响"
-      },
-      {
-        "heading": "风险因素",
-        "body": "其一，有报道直接提出NVIDIA是否正在增加投资组合市场风险的疑问，反映市场对AI硬件集中度风险的关注；其二，跟踪者持仓记录显示买入与卖出并存，说明长期关注该股的投资者内部也存在分歧；其三，云厂商加大自研芯片及供应链多元化投资，长期可能削弱NVIDIA在部分客户群体中的议价地位"
-      },
-      {
-        "heading": "跟踪者与市场情绪",
-        "body": "国会议员佩洛西2026年初的PTR记录显示对NVDA存在新建多头与部分减持的混合操作，社交媒体分析师serenity的近期言论更多聚焦同业供应链标的，并未对NVDA给出明确方向性判断，整体跟踪者情绪呈现中性偏分歧，而非一致乐观或一致悲观"
-      }
-    ],
-    "comparables": [
-      {
-        "ticker": "AMD",
-        "name": "Advanced Micro Devices",
-        "note": "GPU与AI计算领域最主要的直接竞争对手之一，近期因收购World Labs等消息股价活跃"
-      },
-      {
-        "ticker": "TSM",
-        "name": "台湾积体电路制造",
-        "note": "NVIDIA最主要的晶圆代工合作伙伴，其财报与产能扩张被视为验证AI芯片供给链景气度的关键指标"
-      },
-      {
-        "ticker": "MU",
-        "name": "美光科技",
-        "note": "受益于AI存储需求增长，市场讨论其潜在回购规模可能超过NVIDIA，是判断AI硬件链景气度扩散程度的参照标的"
-      },
-      {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "在定制芯片与网络方案领域被视为AI基础设施支出扩散的受益者，也是对NVIDIA份额的潜在分散力量"
-      },
-      {
-        "ticker": "CRDO",
-        "name": "Credo Technology Group",
-        "note": "专注AI数据中心网络互联方案，财报后股价表现活跃，反映AI基础设施支出正扩散至上下游细分环节"
-      },
-      {
-        "ticker": "AMZN",
-        "name": "亚马逊",
-        "note": "通过自研AI芯片及对半导体供应链企业的战略投资构建自有AI硬件生态，部分市场评论认为长期可能对NVIDIA构成竞争"
-      }
-    ],
-    "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-02T00:36:58.308815Z"
+    "bull": [],
+    "bear": [],
+    "watch": [],
+    "sections": [],
+    "comparables": [],
+    "model": "（分析暂不可用）",
+    "generatedAt": null,
+    "unavailable": true
   },
   "news": [
     {
-      "id": "NVDA-142563680",
-      "title": "Why Thomson Reuters Stock Topped the Market on Thursday",
+      "id": "NVDA-142593572",
+      "title": "The Copper Shortage Is Real, and It Is the Metal AI Can't Live Without. Here's the Best Way to Invest.",
       "source": "Yahoo",
-      "publishedAt": "2026-10-01",
-      "url": "https://finnhub.io/api/news?id=05b6f025e2b6c3fbd5c2f7a655266e64ab89cd73c643c287c80abb8ec3a51ca7",
+      "publishedAt": "2026-10-02",
+      "url": "https://finnhub.io/api/news?id=041ddd09e8e27d596d61d0b9b95d44267f3038d916e26b5abcd63e3d49812f60",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142563682",
-      "title": "S&P 500, Nasdaq, Dow Futures Inch Higher As Investors Cheer Cooling Yields — GOOGL, MU, MAT, NVDA In Focus",
+      "id": "NVDA-142593577",
+      "title": "Micron's Last 5 Post-Earnings Dips Turned Into Gains. This Time, the Stock Rose Instead.",
       "source": "Yahoo",
-      "publishedAt": "2026-10-01",
-      "url": "https://finnhub.io/api/news?id=08849f65268b05479a386e4e1416205e9ce4b6026de02408d117e683d1982533",
+      "publishedAt": "2026-10-02",
+      "url": "https://finnhub.io/api/news?id=eef4d5def078b35894a2b8baffd91473d30452794967b020127647b8d7969cbb",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142563674",
-      "title": "SpaceX's Terafab Will Be Bigger Than Any Building on Earth. Here's When Investors Will Profit.",
+      "id": "NVDA-142593582",
+      "title": "Jim Cramer Highlights NVIDIA (NVDA) Architecture Framework And Historic Share Buyback",
       "source": "Yahoo",
-      "publishedAt": "2026-10-01",
-      "url": "https://finnhub.io/api/news?id=63395871752fee879b3e515bdb10b779f546c89449fca1ba4207249a07807220",
+      "publishedAt": "2026-10-02",
+      "url": "https://finnhub.io/api/news?id=a10cd465475cc83dc7c5e184694d9e4e5d085924c8369881f9de18d19fc34525",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142563681",
-      "title": "Why Jacobs Solutions (J) Stock Is Up Today",
+      "id": "NVDA-142593578",
+      "title": "Why General Mills Stock Dived by Almost 22% Last Month",
       "source": "Yahoo",
-      "publishedAt": "2026-10-01",
-      "url": "https://finnhub.io/api/news?id=45a7bf9f61e7f101706e7677b2a88821c42ff57d1250ea33a2ad5f501ac9de85",
+      "publishedAt": "2026-10-02",
+      "url": "https://finnhub.io/api/news?id=1c14463bc1eff0e2067475b5140d52db6099653dead0cf611842fc1ee78bafac",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142563675",
-      "title": "Prediction: Taiwan Semiconductor Manufacturing Stock Will Skyrocket After Oct. 15",
+      "id": "NVDA-142593583",
+      "title": "Tilray Is Down 57% in 2026. Here's What History Says About Buying Pot Stocks at the Bottom",
       "source": "Yahoo",
-      "publishedAt": "2026-10-01",
-      "url": "https://finnhub.io/api/news?id=af6dad4c2fe6a4c9ea9366915719e20622689d8207876c32b663b1b4b9ff7e45",
+      "publishedAt": "2026-10-02",
+      "url": "https://finnhub.io/api/news?id=642ef731beebfffdfa2e23e7e044f1e9c0a8b888540b18fd80ba27a8fc0c56d6",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-142563676",
-      "title": "What Is the Worst-Performing \"Magnificent Seven\" Stock in 2026?",
+      "id": "NVDA-142593584",
+      "title": "Here's How SpaceX Saved $120 Million With (and Without) a Really Big Fishnet",
       "source": "Yahoo",
-      "publishedAt": "2026-10-01",
-      "url": "https://finnhub.io/api/news?id=5d002362d28ea51b061603294f50bfe031ceb96722ba9ca4b14173d4d31ef1d0",
+      "publishedAt": "2026-10-02",
+      "url": "https://finnhub.io/api/news?id=5ae214a43b4078a0e82425d867551ad577fa158554ac7821d521342a43feb0e9",
       "tags": [
         "NVDA"
       ]

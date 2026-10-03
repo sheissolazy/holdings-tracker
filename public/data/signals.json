@@ -396,6 +396,26 @@
     ]
   },
   {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-10-02",
+    "sentiment": "watch",
+    "excerpt": "Travel anywhere with Tesla Superchargers",
+    "postUrl": "https://x.com/elonmusk/status/2106101160008720499",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-02",
+    "sentiment": "watch",
+    "excerpt": "$LITE CEO: \"Next year with the advent of CPO and NPO in 2027, our estimates are that we'll be undershipping demand...\n\nBy 70%. Literally 70%. So we can only supply 30%. \n\nAnd this has caught us by supply. By 2029-2030, we get to some level ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2105943565918703696",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
     "personId": "serenity",
     "type": "social",
     "asOf": "2026-10-01",
@@ -556,136 +576,6 @@
     "topics": [
       "通胀"
     ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-24",
-    "sentiment": "watch",
-    "excerpt": "我突然意识到, 原来我有这么多粉丝.\n\n第一次从第三方的视角看了一下自己的主页…感觉好像还有点吓人?\n\n如果我们办一场派对, 而且所有人都来了, 那应该不是塞满一个小房间的问题, 而是能塞满一整座城市吧?\n\n总之, 中秋节快乐！",
-    "postUrl": "https://x.com/aleabitoreddit/status/2103350532777943281",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-24",
-    "sentiment": "watch",
-    "excerpt": "$AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years.\n\n$AMD to $MU should be happy to hear this… \n\nAkamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex sp",
-    "postUrl": "https://x.com/aleabitoreddit/status/2103232350348001701",
-    "ticker": "AKAM",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-24",
-    "sentiment": "watch",
-    "excerpt": "$AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years.\n\n$AMD to $MU should be happy to hear this… \n\nAkamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex sp",
-    "postUrl": "https://x.com/aleabitoreddit/status/2103232350348001701",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-24",
-    "sentiment": "watch",
-    "excerpt": "$AKAM signs $11.6B compute deal with Anthropic for accelerated CPU workloads demands over 7 years.\n\n$AMD to $MU should be happy to hear this… \n\nAkamai ests. ~$5.5B of capex to service the $11.6B commitment. Including +$1.7B of 2026 capex sp",
-    "postUrl": "https://x.com/aleabitoreddit/status/2103232350348001701",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-24",
-    "sentiment": "watch",
-    "excerpt": "If you're curious about the random $SPY / $QQQ candle: \n\nJust now, “US and Iran discuss phased deal to reopen Hormuz and end US blockade\" - Reuters\n\n- \"A deal before the midterms could benefit Trump, as reopening Hormuz could ease tensions ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2103161145934963178",
-    "ticker": "QQQ",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-24",
-    "sentiment": "watch",
-    "excerpt": "If you're curious about the random $SPY / $QQQ candle: \n\nJust now, “US and Iran discuss phased deal to reopen Hormuz and end US blockade\" - Reuters\n\n- \"A deal before the midterms could benefit Trump, as reopening Hormuz could ease tensions ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2103161145934963178",
-    "ticker": "SPY",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-24",
-    "sentiment": "watch",
-    "excerpt": "$AAOI has finished a $500m ATM In April.. $600m ATM in June. Then filed another $600m in August. \n\nIt's out of my control if management wants to abuse this trash repeated ATM structure. Instead following $AXTI like LTA prepayments and using",
-    "postUrl": "https://x.com/aleabitoreddit/status/2103151990146801812",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-24",
-    "sentiment": "watch",
-    "excerpt": "$AAOI has finished a $500m ATM In April.. $600m ATM in June. Then filed another $600m in August. \n\nIt's out of my control if management wants to abuse this trash repeated ATM structure. Instead following $AXTI like LTA prepayments and using",
-    "postUrl": "https://x.com/aleabitoreddit/status/2103151990146801812",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-24",
-    "sentiment": "watch",
-    "excerpt": "$AAOI has finished a $500m ATM In April.. $600m ATM in June. Then filed another $600m in August. \n\nIt's out of my control if management wants to abuse this trash repeated ATM structure. Instead following $AXTI like LTA prepayments and using",
-    "postUrl": "https://x.com/aleabitoreddit/status/2103151990146801812",
-    "ticker": "AXTI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-24",
-    "sentiment": "watch",
-    "excerpt": "$AAOI has finished a $500m ATM In April.. $600m ATM in June. Then filed another $600m in August. \n\nIt's out of my control if management wants to abuse this trash repeated ATM structure. Instead following $AXTI like LTA prepayments and using",
-    "postUrl": "https://x.com/aleabitoreddit/status/2103151990146801812",
-    "ticker": "IREN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-24",
-    "sentiment": "watch",
-    "excerpt": "Wow $NBIS relative outperformance is wild. \n\nBack in 2025 I wrote my Neocloud thesis on $IREN to $CRWV. But I made the decision months later to consolidate it all into Nebius...\n\nDespite the the hate from FinX back then.\n\nVery interesting t",
-    "postUrl": "https://x.com/aleabitoreddit/status/2103139052363133062",
-    "ticker": "CRWV",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-24",
-    "sentiment": "watch",
-    "excerpt": "Wow $NBIS relative outperformance is wild. \n\nBack in 2025 I wrote my Neocloud thesis on $IREN to $CRWV. But I made the decision months later to consolidate it all into Nebius...\n\nDespite the the hate from FinX back then.\n\nVery interesting t",
-    "postUrl": "https://x.com/aleabitoreddit/status/2103139052363133062",
-    "ticker": "IREN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-24",
-    "sentiment": "watch",
-    "excerpt": "Wow $NBIS relative outperformance is wild. \n\nBack in 2025 I wrote my Neocloud thesis on $IREN to $CRWV. But I made the decision months later to consolidate it all into Nebius...\n\nDespite the the hate from FinX back then.\n\nVery interesting t",
-    "postUrl": "https://x.com/aleabitoreddit/status/2103139052363133062",
-    "ticker": "NBIS",
-    "topics": []
   },
   {
     "personId": "jensen",
