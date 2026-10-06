@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T00:22:41Z",
+  "generatedAt": "2026-10-06T01:46:46Z",
   "mode": "live",
   "sources": {
     "13f": "SEC EDGAR",
@@ -22,10 +22,10 @@
   ],
   "health": {
     "x": "ok",
-    "checkedAt": "2026-10-03T00:22:41Z",
+    "checkedAt": "2026-10-06T01:46:46Z",
     "maobidao": {
-      "lastPost": null,
-      "daysSince": null,
+      "lastPost": "2026-10-04",
+      "daysSince": 2,
       "stale": true
     }
   },
