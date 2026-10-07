@@ -3,21 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 286.65,
-  "change5dPct": 9.0,
-  "changeYtdPct": 112.3,
-  "marketCap": "$84.4B",
-  "pe": 345.7,
+  "price": 295.78,
+  "change5dPct": 12.5,
+  "changeYtdPct": 117.6,
+  "marketCap": "$87.1B",
+  "pe": 360.1,
   "revenue": "—",
   "revenueYoYPct": 91,
   "prices": [
-    {
-      "t": "2026-04-06",
-      "o": 136.18,
-      "h": 140.3,
-      "l": 133.57,
-      "c": 135.0
-    },
     {
       "t": "2026-04-07",
       "o": 134.95,
@@ -902,72 +895,129 @@
     }
   ],
   "thesis": {
-    "bull": [],
-    "bear": [],
-    "watch": [],
-    "sections": [],
-    "comparables": [],
-    "model": "（分析暂不可用）",
-    "generatedAt": null,
-    "unavailable": true
+    "bull": [
+      "数据中心与AI算力扩张带动分布式发电需求，Bloom Energy的固体氧化物燃料电池可快速部署、不依赖电网接入排队，2026年第二季度业绩被媒体称为「renewable energy pack」中的领先者，订单与收入增速明显加快",
+      "近期多家公司因数据中心电力合作消息股价大涨，Bloom Energy同日上涨约4%，显示市场对其在算力供电这一主题中的定位认可度提升，与FuelCell Energy、Generac等同类标的形成共振行情",
+      "跟踪者动向显示国会议员佩洛西在2026年7月两次新建BE相关多头仓位，市场情绪指标标记为看多，若该交易反映对政策或订单信息的提前判断，可能预示潜在利好"
+    ],
+    "bear": [
+      "燃料电池设备资本开支大、历史上长期亏损，盈利拐点能否持续兑现仍需观察，股价短期已因AI供电叙事大幅上涨，估值隐含了较高的长期增长与利润率假设",
+      "议员个人交易披露存在滞后（披露日与交易日相差数周），且不构成对公司基本面的直接判断，媒体仅报道其「新建仓位」，无法确认其信息来源或该仓位占比，不应被过度解读为强烈看多信号",
+      "行业竞争加剧，Plug Power、FuelCell Energy等同类公司同样受益于数据中心供电题材，且电网侧替代方案（如天然气调峰机组、小型模块化核电、储能）可能分流部分数据中心电力订单，技术路线竞争尚无定论"
+    ],
+    "watch": [
+      "后续季度订单积压（backlog）与新签数据中心电力采购协议的规模、客户集中度，判断当前增长是结构性还是数据中心建设周期性高峰的短期拉动",
+      "毛利率与现金流持续改善趋势，尤其是产品成本下降曲线能否支撑长期盈利能力，而非仅依赖收入规模扩张",
+      "政策面变化，包括美国对清洁能源/氢能的税收抵免政策走向，以及是否有更多内部人或知情机构在近期增减持中给出一致方向的信号"
+    ],
+    "sections": [
+      {
+        "heading": "公司概览",
+        "body": "Bloom Energy是一家专注于固体氧化物燃料电池技术的美国能源公司，产品可将天然气、生物气或氢气转化为电力，具备模块化、快速部署、不依赖传统电网扩容排队等特点。近年来公司的核心叙事从传统工商业备用电源逐步转向为数据中心、AI算力中心提供分布式、低延迟的现场发电解决方案，这与当前市场对AI基础设施耗电量快速上升的担忧形成呼应"
+      },
+      {
+        "heading": "业务驱动因素",
+        "body": "近期新闻显示，电力供应紧张已成为AI基建扩张的瓶颈，多家公司因数据中心供电合作消息股价大幅拉升，Bloom Energy被归入这一主题股行列，同日上涨约4%。公司2026年第二季度财报被媒体评价为「renewable energy pack」中表现领先，显示订单与收入端已出现实质性加速，而不仅是题材炒作"
+      },
+      {
+        "heading": "财务与估值",
+        "body": "燃料电池行业历史上普遍面临高资本开支与长期亏损压力，Bloom Energy亦不例外，其近期股价上涨更多反映市场对未来数据中心供电需求的预期重估，而非当前已兑现的稳定盈利。投资者需关注公司毛利率、经营性现金流能否伴随收入增长同步改善，以判断本轮估值扩张的可持续性"
+      },
+      {
+        "heading": "风险因素",
+        "body": "主要风险包括：行业竞争加剧（Plug Power、FuelCell Energy等同类公司同样受益于相同题材）；替代供电技术路线（天然气调峰机组、储能、小型模块化核电）可能分流数据中心电力订单；以及股价短期涨幅较大后，若后续订单或业绩不及预期，可能出现较大回撤"
+      },
+      {
+        "heading": "跟踪者动向解读",
+        "body": "公开披露显示，国会议员佩洛西在2026年7月28日和7月24日两次新建与BE相关的多头仓位，披露情绪标记为看多。需要注意的是，国会议员交易披露存在法定滞后（通常数周），且交易本身可能基于多种个人财务规划考量，不能直接等同于对公司基本面的专业判断，仅作为市场情绪的参考信号之一"
+      },
+      {
+        "heading": "行业对比与结论",
+        "body": "将Bloom Energy与FuelCell Energy、Plug Power、GE Vernova、Constellation Energy等同类或相关标的对比，可以看到数据中心供电已成为贯穿多家公司的共同题材，但各公司技术路线、客户结构和财务健康程度差异较大。综合来看，Bloom Energy当前兼具结构性需求驱动与估值已部分反映乐观预期的双重特征，多空分歧主要集中在增长可持续性与竞争格局演变上，本分析不构成买卖建议"
+      }
+    ],
+    "comparables": [
+      {
+        "ticker": "FCEL",
+        "name": "FuelCell Energy",
+        "note": "同为燃料电池技术路线，近期同样受益于数据中心供电合作消息，股价波动性较大"
+      },
+      {
+        "ticker": "PLUG",
+        "name": "Plug Power",
+        "note": "氢能与燃料电池领域主要竞争者，业务结构偏向氢气供应链，财务压力相对更大"
+      },
+      {
+        "ticker": "GEV",
+        "name": "GE Vernova",
+        "note": "涉及燃气轮机与电网设备，是数据中心供电与电网升级主题中的大型设备供应商"
+      },
+      {
+        "ticker": "CEG",
+        "name": "Constellation Energy",
+        "note": "核电及清洁能源发电商，与科技公司签订长期供电协议，代表另一种数据中心供电解决路径"
+      }
+    ],
+    "model": "claude-code（订阅）",
+    "generatedAt": "2026-10-07T00:31:34.090058Z"
   },
   "news": [
     {
-      "id": "BE-142636704",
-      "title": "Final Opportunity to Join More Than 155 Technology Leaders Tomorrow at HMG Strategy's 18th Annual Silicon Valley C-Level Technology Leadership Summit",
+      "id": "BE-142668537",
+      "title": "Dow Jones Futures: S&P 500 Hits High As Astera, GE Vernova, Arista Lead Buys, But These Stocks Tumble",
       "source": "Yahoo",
-      "publishedAt": "2026-10-05",
-      "url": "https://finnhub.io/api/news?id=e782d0cbf27e558b4b650af512093a0a42beb5018f34dd5a19601349993be6de",
+      "publishedAt": "2026-10-06",
+      "url": "https://finnhub.io/api/news?id=721d6d5edcfaf9ef44effdde15fa410c28c6a281fe4be4edd2c0f998f6ab351a",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142634891",
-      "title": "Why Bloom Energy Stock Soared 34% in September, and Why It Might Have More Room to Run",
+      "id": "BE-142668843",
+      "title": "Generac, American Superconductor, Bloom Energy, Redwire, and Matrix Service Shares Skyrocket, What You Need To Know",
       "source": "Yahoo",
-      "publishedAt": "2026-10-05",
-      "url": "https://finnhub.io/api/news?id=91fbb36f221b80cfaa2d74351f1bb5897e1007f23e659c8c55e7e44a687f263f",
+      "publishedAt": "2026-10-06",
+      "url": "https://finnhub.io/api/news?id=87f785abce8ecc4a7f1313ae8c48eda98826a569605e33e612dec83185a5e45a",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142628728",
-      "title": "Dow Jones Futures Fall; Nasdaq At Highs With Nvidia, SpaceX Buys, But Note These Risks",
+      "id": "BE-142667664",
+      "title": "CEG, VST, TLN Jump: Google’s Power Deal Sparks A Nuclear Rally",
       "source": "Yahoo",
-      "publishedAt": "2026-10-05",
-      "url": "https://finnhub.io/api/news?id=f9cb22afd5b4a0bea77b4d49dca0ee11cd7c3f6961d0ef032d9daee9e5db6b89",
+      "publishedAt": "2026-10-06",
+      "url": "https://finnhub.io/api/news?id=2530723524186edfad2fd6e733b0c13c1a155eaed32777e4940ccfa634595340",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142628143",
-      "title": "Dow Jones Futures: Nasdaq At Highs With Nvidia, SpaceX Buys, But Note These Risks",
+      "id": "BE-142666938",
+      "title": "Bloom Energy (NYSE:BE) Q2 Earnings: Leading The Renewable Energy Pack",
       "source": "Yahoo",
-      "publishedAt": "2026-10-05",
-      "url": "https://finnhub.io/api/news?id=95515edf8625c65646c59aae6665a58471cbad4ef0db3f5781513ffcae260ea3",
+      "publishedAt": "2026-10-06",
+      "url": "https://finnhub.io/api/news?id=fdc46853d7f33636cb3d81111b423d488d471df07d083d1b397ed96b78ab6715",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142628208",
-      "title": "Morgan Stanley spots 3 game-changing Bloom Energy opportunities",
+      "id": "BE-142666939",
+      "title": "FuelCell Energy Surges 11% on Fit Energy’s Pennsylvania Data Center Plan; Bloom Energy Climbs 4%, Plug Power Barely Budges",
       "source": "Yahoo",
-      "publishedAt": "2026-10-05",
-      "url": "https://finnhub.io/api/news?id=2f3a96166d33f93e87c4d3061f8990a0c8508740115f255896ab6130ada1a185",
+      "publishedAt": "2026-10-06",
+      "url": "https://finnhub.io/api/news?id=01035a3d58499c195656fcee04110847c4c38b67af3bdc6e925f5bd8d56eb43a",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142626134",
-      "title": "Dow Jones Futures Rise; Nasdaq At Highs With Nvidia, SpaceX Buys, But Note These Risks",
+      "id": "BE-142661753",
+      "title": "Six Companies Just Grew 100% Or More — Four May Surprise You",
       "source": "Yahoo",
-      "publishedAt": "2026-10-04",
-      "url": "https://finnhub.io/api/news?id=4da7d798d8edfdaf5ce500dad9feeb202cf1ae6d7cc9fb5f313555a279665c9b",
+      "publishedAt": "2026-10-06",
+      "url": "https://finnhub.io/api/news?id=479cc4a7369ce9956508f30c866a89ace3775f9e7b2da3eab49cedc2bc9aec8f",
       "tags": [
         "BE"
       ]

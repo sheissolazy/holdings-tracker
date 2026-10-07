@@ -1,5 +1,29 @@
 [
   {
+    "ticker": "TRXB",
+    "name": "TRex Bio, Inc.",
+    "date": "2026-10-09",
+    "priceRange": [
+      14.0,
+      16.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global Select",
+    "status": "expected"
+  },
+  {
+    "ticker": "RTSN",
+    "name": "Retension Pharmaceuticals, Inc.",
+    "date": "2026-10-09",
+    "priceRange": [
+      11.0,
+      13.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Capital",
+    "status": "expected"
+  },
+  {
     "ticker": "AFNXU",
     "name": "AfterNext Acquisition I Corp.",
     "date": "2026-10-07",

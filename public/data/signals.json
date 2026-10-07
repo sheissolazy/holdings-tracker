@@ -354,6 +354,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-10-05",
+    "sentiment": "watch",
+    "excerpt": "HUGE INVESTMENT WIN for NEBRASKA AND THE U.S.! Beckton Dickenson (BD), one of the largest Medical Device Manufacturers, has agreed to an Investment of 3 BILLION DOLLARS to Onshore Manufacturing of Essential Medical Products (syringes, needl",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117391801119298224",
+    "ticker": "",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-10-04",
     "sentiment": "watch",
     "excerpt": "Trump credits tariffs for bringing pharmaceutical manufacturing campus to Ohio: https:// justthenews.com/government/whi te-house/trump-credits-tariffs-bringing-pharmaceutical-manufacturing-campus-ohio",
@@ -395,6 +407,16 @@
     "excerpt": "Newt Gingrich has written an incredible new book, “America's Golden Age: Trumpism and an Era of Limitless Possibilities.” From the very beginning, Newt has understood the power of “MAGA,” which is propelling our Country forward to achieve u",
     "postUrl": "https://truthsocial.com/@realDonaldTrump/117374710858193847",
     "ticker": "AMZN",
+    "topics": []
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-10-06",
+    "sentiment": "watch",
+    "excerpt": "Track the change log of @Grok Bot & Build\n https://t.co/S6Sj2Plhpi",
+    "postUrl": "https://x.com/elonmusk/status/2107495875576824197",
+    "ticker": "",
     "topics": []
   },
   {
@@ -535,46 +557,6 @@
     "excerpt": "Bro, $AMZN semi ETF portfolio is probably going to end up more compelling than what $NVDA owns... \n\nToday Amazon signed a $49.8M private placement into PCB maker Gold Circuit Electronics (2368). So now Amazon has ownership/warrants in:\n\n- $",
     "postUrl": "https://x.com/aleabitoreddit/status/2105151002760679706",
     "ticker": "ALAB",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-28",
-    "sentiment": "watch",
-    "excerpt": "Everyone is asking \"Where is Serenity\" or \"Who is Serenity\". But nobody is asking...\n\n\"How is Serenity\"?  \n\nI do read things from $AMD $8.2B acquisition of World Labs... but feeling pretty sick right now, so taking a little break. \n\nI remem",
-    "postUrl": "https://x.com/aleabitoreddit/status/2104698369591706069",
-    "ticker": "AAPL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-28",
-    "sentiment": "watch",
-    "excerpt": "Everyone is asking \"Where is Serenity\" or \"Who is Serenity\". But nobody is asking...\n\n\"How is Serenity\"?  \n\nI do read things from $AMD $8.2B acquisition of World Labs... but feeling pretty sick right now, so taking a little break. \n\nI remem",
-    "postUrl": "https://x.com/aleabitoreddit/status/2104698369591706069",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-28",
-    "sentiment": "watch",
-    "excerpt": "Everyone is asking \"Where is Serenity\" or \"Who is Serenity\". But nobody is asking...\n\n\"How is Serenity\"?  \n\nI do read things from $AMD $8.2B acquisition of World Labs... but feeling pretty sick right now, so taking a little break. \n\nI remem",
-    "postUrl": "https://x.com/aleabitoreddit/status/2104698369591706069",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-28",
-    "sentiment": "watch",
-    "excerpt": "Everyone is asking \"Where is Serenity\" or \"Who is Serenity\". But nobody is asking...\n\n\"How is Serenity\"?  \n\nI do read things from $AMD $8.2B acquisition of World Labs... but feeling pretty sick right now, so taking a little break. \n\nI remem",
-    "postUrl": "https://x.com/aleabitoreddit/status/2104698369591706069",
-    "ticker": "AMD",
     "topics": []
   },
   {

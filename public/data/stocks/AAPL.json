@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 332.89,
-  "change5dPct": -1.6,
-  "changeYtdPct": 28.6,
-  "marketCap": "$4.86T",
-  "pe": 37.8,
+  "price": 333.63,
+  "change5dPct": -1.4,
+  "changeYtdPct": 31.6,
+  "marketCap": "$4.87T",
+  "pe": 37.7,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-04-06",
-      "o": 256.51,
-      "h": 262.16,
-      "l": 256.46,
-      "c": 258.86
-    },
     {
       "t": "2026-04-07",
       "o": 256.16,
@@ -903,141 +896,123 @@
   ],
   "thesis": {
     "bull": [
-      {
-        "point": "AI端侧化预期升温，Nvidia等行业领袖近期公开表态对苹果AI方向抱有期待，市场情绪边际转暖"
-      },
-      {
-        "point": "新任硬件负责人Ternus上任后重新强调设计语言与产品差异化，若能在明年机型上落地有望提振换机周期"
-      },
-      {
-        "point": "苹果在芯片、生态与现金流上的护城河依然稳固，服务业务持续贡献高毛利收入，为AI投入提供缓冲"
-      }
+      "英伟达CEO黄仁勋近期公开表态称对苹果AI布局抱有较高期待，相关言论带动AI概念股买盘情绪，显示产业链人士对苹果AI叙事保持乐观",
+      "据报道苹果正与LG电子合作进军智能家居设备市场，若落地顺利，有望为苹果开辟除iPhone、服务之外的新增长曲线，强化生态协同",
+      "当前标普500与纳斯达克100指数在科技权重股带动下屡创历史新高，整体风险偏好偏强，为苹果这类大盘权重股提供有利的市场环境"
     ],
     "bear": [
-      {
-        "point": "国会议员佩洛西近两个季度的披露显示其持仓以减持、清仓动作为主，仅最新一期出现一笔新建仓，信号并不一致"
-      },
-      {
-        "point": "相较英伟达、博通、Marvell等AI算力链公司涨幅，苹果在本轮AI叙事中被资金边缘化，股价弹性明显落后"
-      },
-      {
-        "point": "十年期美债收益率走高对成长股估值形成压制，科技股整体面临重新定价风险，苹果估值溢价可能承压"
-      }
+      "公开披露显示，自2024年底至2025年底，相关国会议员的AAPL交易记录以多次减持（trim/exit）为主，仅在2025年12月30日出现一笔新建仓，交易方向并不一致，释放的信号偏向谨慎而非持续加仓",
+      "美债收益率持续走高、伊朗局势及俄乌冲突升级等地缘政治风险正在干扰市场情绪，若长端利率继续上行，可能压制苹果这类高估值成长股的估值倍数",
+      "市场同时出现「指数创新高」与「市场仍超卖」等矛盾表述，反映上涨广度可能不足，一旦AI及科技板块轮动降温，高权重的苹果股价波动风险随之上升"
     ],
     "watch": [
-      {
-        "point": "关注苹果在AI功能（如Siri升级、端侧大模型）上的具体产品路线图与发布节奏是否能兑现市场期待"
-      },
-      {
-        "point": "跟踪国会议员及机构持仓变化的后续披露，确认是短期调仓还是趋势性减持"
-      },
-      {
-        "point": "关注宏观利率与美股整体估值环境变化，尤其是科技板块轮动是否会影响苹果资金流向"
-      }
+      "苹果与LG电子智能家居合作的具体产品形态、上市时间表及商业模式尚未披露，需关注后续官方公告以判断其实际业绩贡献",
+      "国会议员后续申报的交易变动（尤其是否出现新的建仓或进一步清仓）可作为市场情绪的补充观察指标，但需注意申报存在延迟，不代表实时持仓",
+      "10年期美债收益率（TNX）走势及美联储政策预期的变化，将直接影响市场对苹果等成长股估值倍数的定价逻辑"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值最大的消费电子与科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品线，以及App Store、iCloud、Apple Music等高毛利服务业务。公司近期人事上出现变化，新任高管Ternus被外部报道形容为将重心重新拉回产品设计，被视为管理层对硬件创新节奏的一次调整信号。"
+        "body": "苹果（AAPL）是全球市值最大的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品，以及App Store、iCloud、Apple Music等高毛利服务业务。公司近年持续推进生态系统整合，并被市场视为「七巨头」中AI应用落地的重要观察对象之一"
       },
       {
-        "heading": "基本面与业绩",
-        "body": "苹果的收入结构仍以iPhone为主导，服务业务增速和毛利率是近年业绩增长的重要支撑。市场普遍关注其硬件换机周期能否在新产品设计与潜在AI功能加持下重新加速，但目前公开信息中缺乏具体财务指引，需结合后续财报验证。"
+        "heading": "近期动态",
+        "body": "公开报道显示苹果正与LG电子接洽，拟合作进入智能家居设备市场，这被视为苹果拓展硬件版图、尝试在手机业务之外寻找新增长点的信号。与此同时，英伟达CEO黄仁勋在公开场合表达了对苹果AI能力的期待，相关言论一度带动市场对AI概念股的买入情绪"
       },
       {
-        "heading": "AI与产品战略",
-        "body": "与英伟达、博通、Marvell等AI算力链公司相比，苹果在本轮AI浪潮中的叙事相对滞后，市场此前对其端侧AI能力存在疑虑。近期英伟达CEO黄仁勋公开发言被媒体解读为对苹果AI前景的期待提升，推动相关概念股情绪回暖，但这更多是行业评论层面的信号，尚未转化为苹果自身明确的产品路线图披露。"
+        "heading": "多头逻辑",
+        "body": "支持苹果股价表现的因素包括：一是产业链人士及科技圈对苹果AI叙事仍持乐观态度，市场预期其未来产品线会进一步融入AI能力；二是智能家居等新业务线若推进顺利，有望丰富苹果的收入结构；三是当前大盘科技股整体走强，指数创历史新高，为权重股提供顺风环境。但需注意，这些逻辑多数仍停留在预期层面，尚未有明确的财务数据验证"
       },
       {
-        "heading": "资金与重要股东动向",
-        "body": "公开的国会议员交易披露显示，佩洛西在2025年四季度至2026年初对苹果持仓的操作以减持、清仓为主，仅在最新一期披露中出现一笔新建仓记录，两种方向的信号同时存在，难以简单判断为单一多头或空头立场，反映出该类主体对苹果后续走势存在分歧或仓位再平衡需求。"
+        "heading": "空头逻辑",
+        "body": "看空或谨慎的理由主要来自三方面：其一，公开披露的国会议员交易记录在过去一年多以减持为主，释放的信号并不完全支持持续看多；其二，美债收益率上行和中东、俄乌等地缘政治风险可能压制高估值成长股的表现空间；其三，有市场评论指出当前大盘「创新高但仍超卖」，暗示上涨动能可能集中在少数权重股，一旦出现板块轮动，苹果股价或面临较大波动"
       },
       {
-        "heading": "估值与市场环境",
-        "body": "当前美股科技板块整体处于高位，纳斯达克及标普指数多次刷新纪录，但十年期美债收益率上行对成长股估值构成潜在压制，市场评论中也出现对AI牛市风险的提示。苹果作为权重股，其估值表现与大盘及科技板块轮动节奏密切相关，若资金持续流向算力链硬件公司，苹果的相对估值吸引力可能受到挑战。"
+        "heading": "跟踪者动向解读",
+        "body": "根据披露数据，相关人士在2025年10月至2025年12月期间对AAPL的交易多为减持（exit/trim），仅在2025年12月30日出现一笔新建仓，交易方向存在分歧，不能简单解读为单边看多或看空。需要注意的是，国会议员的股票交易披露存在法定延迟，且交易动机可能涉及资产配置或税务规划等非基本面因素，不宜直接等同于对公司基本面的判断"
       },
       {
-        "heading": "风险与展望",
-        "body": "综合来看，苹果面临的主要不确定性包括：AI产品化进度能否匹配市场预期、硬件创新能否在新管理层设计导向下形成实质性差异化、以及宏观利率环境对高估值科技股的持续压制。看多与看空观点在当前阶段并存，公开持仓披露信号也不统一，投资者需持续跟踪后续产品发布与财报数据以修正判断。"
+        "heading": "宏观与行业背景",
+        "body": "当前市场正处于AI驱动的科技股估值重估周期中，半导体及AI基础设施相关公司（如英伟达、Marvell等）业绩指引向好，带动整体风险偏好。但与此同时，美债收益率上升、地缘政治冲突（伊朗局势、俄乌战争）等不确定性因素并存，市场呈现「指数新高与结构性谨慎并存」的特征，苹果作为权重股将同时受益于科技板块的整体情绪，也会受到宏观流动性变化的影响"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
         "name": "微软",
-        "note": "同为超大型科技公司，近期因AI转型获资本市场正面重估，常被作为苹果AI叙事的对比对象"
+        "note": "同为AI应用落地的重点观察对象，与苹果同属市值领先的大盘科技权重股，可作为AI叙事兑现节奏的参照"
       },
       {
         "ticker": "GOOGL",
-        "name": "谷歌母公司Alphabet",
-        "note": "在搜索、云计算与AI模型层面均有布局，常与苹果在消费科技与AI整合能力上被并列讨论"
+        "name": "Alphabet",
+        "note": "在智能家居（Nest生态）及AI硬件布局上与苹果存在一定业务重叠，可用于比较双方在智能家居新业务线上的推进节奏"
       },
       {
-        "ticker": "005930.KS",
-        "name": "三星电子",
-        "note": "智能手机与消费电子领域的主要竞争对手，产品周期与供应链动态与苹果高度相关"
+        "ticker": "066570.KS",
+        "name": "LG电子",
+        "note": "据报道为苹果智能家居合作的潜在伙伴，其智能家电及平台能力将直接影响该合作项目的落地效果"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-06T01:44:58.386811Z"
+    "generatedAt": "2026-10-07T00:32:19.757951Z"
   },
   "news": [
     {
-      "id": "AAPL-142639132",
-      "title": "BlackBerry (BB) Lost the Smartphone War. Is QNX Winning Big Enough to Justify the Price?",
+      "id": "AAPL-142669485",
+      "title": "Apple Reportedly Partners With LG Electronics To Enter Smart Home Device Market",
       "source": "Yahoo",
-      "publishedAt": "2026-10-05",
-      "url": "https://finnhub.io/api/news?id=77fa92f2f0851d55f3e3cb11339f0a843b3ae02619e1baf42dd316c0bf56b10c",
+      "publishedAt": "2026-10-06",
+      "url": "https://finnhub.io/api/news?id=79b88a718a6cc948a43f141351948a7ed6739832ece94c370e7fb162db1e1e0f",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142639114",
-      "title": "Nvidia Stock Hits Record as Key Supplier’s Revenue Booms on AI Demand",
+      "id": "AAPL-142669487",
+      "title": "3 Value ETFs Head to Head. One Charges 0.03% and Returned 19% Over the Past Year",
       "source": "Yahoo",
-      "publishedAt": "2026-10-05",
-      "url": "https://finnhub.io/api/news?id=9c3db8474410a71734247fa7738ace797d360325a264e1b995bd97f8d85db759",
+      "publishedAt": "2026-10-06",
+      "url": "https://finnhub.io/api/news?id=d98ea365f596b0099f33913b9eb30a1a5f663aae7c5c2f4375c54798bd1ee58a",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142639134",
-      "title": "SpaceX Stock Jumps 7.6%. It’s Now a Super Intelligence Company.",
+      "id": "AAPL-142669470",
+      "title": "XLK Does Not Own Alphabet, Amazon, Meta, Netflix or Tesla. Three Stocks Are 35.87% of It",
       "source": "Yahoo",
-      "publishedAt": "2026-10-05",
-      "url": "https://finnhub.io/api/news?id=21fae98bbd56f77b3c8015409ea52e59d7ebce6dce6a01e6cd5f85b3eb909d8f",
+      "publishedAt": "2026-10-06",
+      "url": "https://finnhub.io/api/news?id=e89cf9ca966b15c06f25ef68871e73a4c203607efcaa3cec2e74e247d5ad4c89",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142638434",
-      "title": "OKX and ICE Plan 24/7 Trading for Tokenized U.S. Stocks",
+      "id": "AAPL-142668633",
+      "title": "Markets climb as a handful of tech stocks power the rally",
       "source": "Yahoo",
-      "publishedAt": "2026-10-05",
-      "url": "https://finnhub.io/api/news?id=37631e2d2b7c068be1530b46a20dc41aa0568f703ccca87cf0859f6c90de1d0d",
+      "publishedAt": "2026-10-06",
+      "url": "https://finnhub.io/api/news?id=55a8e5bb533d90a5d1368fe19791af10890c2e9b710b8e98c805a045441ce5e4",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142638433",
-      "title": "Apple New CEO Ternus Puts Focus Back on Design",
-      "source": "Yahoo",
-      "publishedAt": "2026-10-05",
-      "url": "https://finnhub.io/api/news?id=fcf5889ea10d6a4b3b40766a65856e6d3aa5c5f6a5230f4b2645b06309f7e858",
+      "id": "AAPL-142667426",
+      "title": "Stay informed with the top movers within the dow jones index on Tuesday.",
+      "source": "ChartMill",
+      "publishedAt": "2026-10-06",
+      "url": "https://finnhub.io/api/news?id=d746261ff29e9cc44ef27036fcaea7bc30f5ad242ea1e6c22ec443fb552f4afd",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142637662",
-      "title": "3 US Tech Stocks Investors Are Repricing As Treasury Yields Pressure Growth",
+      "id": "AAPL-142667642",
+      "title": "Should Dell Stock Be Part Of Your Portfolio?",
       "source": "Yahoo",
-      "publishedAt": "2026-10-05",
-      "url": "https://finnhub.io/api/news?id=83cf16ce3b0f8b4d4fe9d48407e4607ddb2834990f26fb5207dc671d5fd814d0",
+      "publishedAt": "2026-10-06",
+      "url": "https://finnhub.io/api/news?id=714d6632561b3d3087d22dcf7220053b676d296e9b11fa0f4e159abfdba18f4f",
       "tags": [
         "AAPL"
       ]
