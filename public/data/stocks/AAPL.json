@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 333.63,
-  "change5dPct": -1.4,
-  "changeYtdPct": 31.6,
-  "marketCap": "$4.87T",
-  "pe": 37.7,
+  "price": 336.67,
+  "change5dPct": 2.2,
+  "changeYtdPct": 30.0,
+  "marketCap": "$4.91T",
+  "pe": 38.0,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-04-07",
-      "o": 256.16,
-      "h": 256.2,
-      "l": 245.7,
-      "c": 253.5
-    },
     {
       "t": "2026-04-08",
       "o": 258.45,
@@ -892,127 +885,134 @@
       "h": 336.21,
       "l": 331.65,
       "c": 332.89
+    },
+    {
+      "t": "2026-10-06",
+      "o": 332.28,
+      "h": 334.38,
+      "l": 330.62,
+      "c": 333.63
     }
   ],
   "thesis": {
     "bull": [
-      "英伟达CEO黄仁勋近期公开表态称对苹果AI布局抱有较高期待，相关言论带动AI概念股买盘情绪，显示产业链人士对苹果AI叙事保持乐观",
-      "据报道苹果正与LG电子合作进军智能家居设备市场，若落地顺利，有望为苹果开辟除iPhone、服务之外的新增长曲线，强化生态协同",
-      "当前标普500与纳斯达克100指数在科技权重股带动下屡创历史新高，整体风险偏好偏强，为苹果这类大盘权重股提供有利的市场环境"
+      "Dan Ives等分析师将AAPL列入AI布局核心受益股名单，叠加英伟达CEO黄仁勋公开表态对苹果AI前景看好，市场对苹果未来硬件与AI服务融合的预期有所升温",
+      "苹果服务业务（App Store、iCloud、AppleCare等）占比持续提升，高毛利经常性收入能够平滑硬件换机周期带来的波动，财务结构更具韧性",
+      "公司现金流充裕，长期坚持大规模股票回购与分红计划，资本配置策略稳健，为估值提供一定支撑"
     ],
     "bear": [
-      "公开披露显示，自2024年底至2025年底，相关国会议员的AAPL交易记录以多次减持（trim/exit）为主，仅在2025年12月30日出现一笔新建仓，交易方向并不一致，释放的信号偏向谨慎而非持续加仓",
-      "美债收益率持续走高、伊朗局势及俄乌冲突升级等地缘政治风险正在干扰市场情绪，若长端利率继续上行，可能压制苹果这类高估值成长股的估值倍数",
-      "市场同时出现「指数创新高」与「市场仍超卖」等矛盾表述，反映上涨广度可能不足，一旦AI及科技板块轮动降温，高权重的苹果股价波动风险随之上升"
+      "公开披露的跟踪者交易记录显示，2025年12月至2026年1月间多笔申报方向为减持（trim/exit），仅12月30日有一笔新增买入，整体信号偏谨慎甚至偏负面，且过去一年同一跟踪者多次减持AAPL持仓",
+      "相较于英伟达、美光、博通等直接受益于AI算力建设的芯片与基础设施类公司，苹果在本轮AI叙事中的业绩兑现路径相对间接，市场存在「苹果在AI浪潮中进展落后」的担忧，Nvidia单季利润已接近苹果两倍但市值溢价有限的对比被广泛讨论",
+      "美债收益率走高、大盘科技股估值集中度风险上升，叠加「AI炒作」与「牛市陷阱」等质疑声音频现，对包括苹果在内的高估值权重股构成潜在压力"
     ],
     "watch": [
-      "苹果与LG电子智能家居合作的具体产品形态、上市时间表及商业模式尚未披露，需关注后续官方公告以判断其实际业绩贡献",
-      "国会议员后续申报的交易变动（尤其是否出现新的建仓或进一步清仓）可作为市场情绪的补充观察指标，但需注意申报存在延迟，不代表实时持仓",
-      "10年期美债收益率（TNX）走势及美联储政策预期的变化，将直接影响市场对苹果等成长股估值倍数的定价逻辑"
+      "后续跟踪者（如Pelosi等）是否继续减持或重新增持AAPL，观察其申报方向是否出现反转",
+      "Apple Intelligence等AI功能的实际落地进度、用户采用率，以及其能否带动新一轮iPhone换机周期",
+      "美债收益率与宏观流动性环境变化，及其对纳斯达克高估值科技股整体估值中枢的传导影响"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果（AAPL）是全球市值最大的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品，以及App Store、iCloud、Apple Music等高毛利服务业务。公司近年持续推进生态系统整合，并被市场视为「七巨头」中AI应用落地的重要观察对象之一"
+        "body": "苹果是全球市值最大的消费电子与科技公司之一，核心产品包括iPhone、Mac、iPad、可穿戴设备，并持续扩展App Store、iCloud、AppleCare、广告等高毛利服务业务。公司以强大的品牌生态、垂直整合的软硬件能力和庄大的现金储备著称，长期是全球权重指数中的核心成分股之一"
       },
       {
-        "heading": "近期动态",
-        "body": "公开报道显示苹果正与LG电子接洽，拟合作进入智能家居设备市场，这被视为苹果拓展硬件版图、尝试在手机业务之外寻找新增长点的信号。与此同时，英伟达CEO黄仁勋在公开场合表达了对苹果AI能力的期待，相关言论一度带动市场对AI概念股的买入情绪"
+        "heading": "业务结构与增长驱动",
+        "body": "硬件业务仍是收入主体，但增速相对放缓，服务业务凭借经常性收入特征成为增长与利润率提升的重要引擎。市场关注苹果能否通过Apple Intelligence等AI功能驱动新一轮硬件换机需求，从而带动iPhone等核心产品线重拾增长动能"
       },
       {
-        "heading": "多头逻辑",
-        "body": "支持苹果股价表现的因素包括：一是产业链人士及科技圈对苹果AI叙事仍持乐观态度，市场预期其未来产品线会进一步融入AI能力；二是智能家居等新业务线若推进顺利，有望丰富苹果的收入结构；三是当前大盘科技股整体走强，指数创历史新高，为权重股提供顺风环境。但需注意，这些逻辑多数仍停留在预期层面，尚未有明确的财务数据验证"
+        "heading": "跟踪者与机构动向",
+        "body": "公开披露数据显示，知名跟踪者在2025年末至2026年初的多笔AAPL相关申报以减持（trim/exit）为主，仅有一笔新增买入，释放出偏谨慎的信号。同期也有如英伟达CEO黄仁勋等行业人士公开表达对苹果AI前景的看好，形成跟踪者谨慎与行业人士乐观之间的微妙对比"
       },
       {
-        "heading": "空头逻辑",
-        "body": "看空或谨慎的理由主要来自三方面：其一，公开披露的国会议员交易记录在过去一年多以减持为主，释放的信号并不完全支持持续看多；其二，美债收益率上行和中东、俄乌等地缘政治风险可能压制高估值成长股的表现空间；其三，有市场评论指出当前大盘「创新高但仍超卖」，暗示上涨动能可能集中在少数权重股，一旦出现板块轮动，苹果股价或面临较大波动"
+        "heading": "AI叙事与竞争格局",
+        "body": "当前市场资金高度聚焦AI算力建设相关公司（如英伟达、美光、博通、Marvell等），苹果在这一叙事中更多被视为AI应用与终端侧的潜在受益者，而非算力基础设施的直接受益方。有分析认为苹果AI商业化节奏落后于芯片与云厂商，但也有观点将其列入AI长期布局的核心名单，分歧较为明显"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "根据披露数据，相关人士在2025年10月至2025年12月期间对AAPL的交易多为减持（exit/trim），仅在2025年12月30日出现一笔新建仓，交易方向存在分歧，不能简单解读为单边看多或看空。需要注意的是，国会议员的股票交易披露存在法定延迟，且交易动机可能涉及资产配置或税务规划等非基本面因素，不宜直接等同于对公司基本面的判断"
+        "heading": "宏观与行业环境",
+        "body": "近期宏观层面美债收益率走高对大盘成长股估值形成压力，市场同时存在对AI板块估值过热、「牛市陷阱」及板块集中度风险的讨论。整体行业新闻以AI基础设施投资（芯片、数据中心、私募信贷融资AI硬件等）为主线，消费电子类个股的边际关注度相对分散"
       },
       {
-        "heading": "宏观与行业背景",
-        "body": "当前市场正处于AI驱动的科技股估值重估周期中，半导体及AI基础设施相关公司（如英伟达、Marvell等）业绩指引向好，带动整体风险偏好。但与此同时，美债收益率上升、地缘政治冲突（伊朗局势、俄乌战争）等不确定性因素并存，市场呈现「指数新高与结构性谨慎并存」的特征，苹果作为权重股将同时受益于科技板块的整体情绪，也会受到宏观流动性变化的影响"
+        "heading": "多空分歧与关注点",
+        "body": "多方逻辑聚焦于苹果服务业务的稳定现金流、资本回报能力以及AI功能带来的潜在换机周期；空方逻辑则聚焦于跟踪者近期持续减持的信号、苹果在AI算力叙事中相对间接的受益路径，以及宏观利率环境对高估值科技股的压制。两类逻辑并存，尚无明确一致结论"
       }
     ],
     "comparables": [
       {
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "AI算力硬件核心受益股，近期市场热度与业绩兑现度均高于苹果，常被用作AI叙事对比标杆"
+      },
+      {
         "ticker": "MSFT",
         "name": "微软",
-        "note": "同为AI应用落地的重点观察对象，与苹果同属市值领先的大盘科技权重股，可作为AI叙事兑现节奏的参照"
+        "note": "软硬件与云服务结合的大型科技公司，在AI商业化布局上与苹果存在一定对标性"
       },
       {
-        "ticker": "GOOGL",
-        "name": "Alphabet",
-        "note": "在智能家居（Nest生态）及AI硬件布局上与苹果存在一定业务重叠，可用于比较双方在智能家居新业务线上的推进节奏"
-      },
-      {
-        "ticker": "066570.KS",
-        "name": "LG电子",
-        "note": "据报道为苹果智能家居合作的潜在伙伴，其智能家电及平台能力将直接影响该合作项目的落地效果"
+        "ticker": "AVGO",
+        "name": "博通",
+        "note": "受益于AI基础设施投资热潮的半导体与网络设备公司，反映市场对AI硬件供应链的关注"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-07T00:32:19.757951Z"
+    "generatedAt": "2026-10-08T00:52:14.494449Z"
   },
   "news": [
     {
-      "id": "AAPL-142669485",
-      "title": "Apple Reportedly Partners With LG Electronics To Enter Smart Home Device Market",
+      "id": "AAPL-142700277",
+      "title": "Dow Jones Futures: Stocks Pare Losses As Yields Back Off; Samsung, Micron, Taiwan Semi, Sandisk In Focus",
       "source": "Yahoo",
-      "publishedAt": "2026-10-06",
-      "url": "https://finnhub.io/api/news?id=79b88a718a6cc948a43f141351948a7ed6739832ece94c370e7fb162db1e1e0f",
+      "publishedAt": "2026-10-07",
+      "url": "https://finnhub.io/api/news?id=6980cc535c30123e751f7d600799ef0c4e6331fcd62f12d88ae5168a3b2648b1",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142669487",
-      "title": "3 Value ETFs Head to Head. One Charges 0.03% and Returned 19% Over the Past Year",
+      "id": "AAPL-142700250",
+      "title": "Nvidia Earned About Twice as Much as Apple Last Quarter. Its Stock Is Worth Only About 20% More.",
       "source": "Yahoo",
-      "publishedAt": "2026-10-06",
-      "url": "https://finnhub.io/api/news?id=d98ea365f596b0099f33913b9eb30a1a5f663aae7c5c2f4375c54798bd1ee58a",
+      "publishedAt": "2026-10-07",
+      "url": "https://finnhub.io/api/news?id=0b51d15b94025beab21a4481217c3fc9b789b407ad3b6b701798b84c43842e14",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142669470",
-      "title": "XLK Does Not Own Alphabet, Amazon, Meta, Netflix or Tesla. Three Stocks Are 35.87% of It",
+      "id": "AAPL-142699234",
+      "title": "The tech industry wants you to run AI models at home, but it's not for everyone",
       "source": "Yahoo",
-      "publishedAt": "2026-10-06",
-      "url": "https://finnhub.io/api/news?id=e89cf9ca966b15c06f25ef68871e73a4c203607efcaa3cec2e74e247d5ad4c89",
+      "publishedAt": "2026-10-07",
+      "url": "https://finnhub.io/api/news?id=37889a445f5abc29ffa14d87e1e613b277bcab8a600246ee90e97d26bc1a23e7",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142668633",
-      "title": "Markets climb as a handful of tech stocks power the rally",
-      "source": "Yahoo",
-      "publishedAt": "2026-10-06",
-      "url": "https://finnhub.io/api/news?id=55a8e5bb533d90a5d1368fe19791af10890c2e9b710b8e98c805a045441ce5e4",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-142667426",
-      "title": "Stay informed with the top movers within the dow jones index on Tuesday.",
+      "id": "AAPL-142699052",
+      "title": "Top dow jones movers in Wednesday's session",
       "source": "ChartMill",
-      "publishedAt": "2026-10-06",
-      "url": "https://finnhub.io/api/news?id=d746261ff29e9cc44ef27036fcaea7bc30f5ad242ea1e6c22ec443fb552f4afd",
+      "publishedAt": "2026-10-07",
+      "url": "https://finnhub.io/api/news?id=79cbbb6a9394d74f43ed5875e5d2b638c156a24824ea95997addfce18685ce40",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142667642",
-      "title": "Should Dell Stock Be Part Of Your Portfolio?",
+      "id": "AAPL-142699240",
+      "title": "Dan Ives Thinks AI Buildout Still In Early Stages, With NVDA, MSFT, PLTR, AAPL And CRWD As Top AI Picks",
       "source": "Yahoo",
-      "publishedAt": "2026-10-06",
-      "url": "https://finnhub.io/api/news?id=714d6632561b3d3087d22dcf7220053b676d296e9b11fa0f4e159abfdba18f4f",
+      "publishedAt": "2026-10-07",
+      "url": "https://finnhub.io/api/news?id=1bc7e28d7009bc9b9c4a2a723dd899b3dd853fe658552bbb86d0f15bad9a4ad1",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-142699236",
+      "title": "Microsoft debuts Nvidia-powered Surface Laptop Ultra, as it aims for AI market",
+      "source": "Yahoo",
+      "publishedAt": "2026-10-07",
+      "url": "https://finnhub.io/api/news?id=4a3d7e999ecd62a34c4a32506e4fa4b3082e274b85fe7e5cb619a2f8d891874d",
       "tags": [
         "AAPL"
       ]
