@@ -354,6 +354,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-10-08",
+    "sentiment": "watch",
+    "excerpt": "The White House considers anyone that uses the term, “Artificial Intelligence,” as opposed to the highly accepted new and more accurate term, “Super Intelligence,” THE ENEMY! President DONALD J. TRUMP",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117406176604364910",
+    "ticker": "",
+    "topics": [
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-10-05",
     "sentiment": "watch",
     "excerpt": "HUGE INVESTMENT WIN for NEBRASKA AND THE U.S.! Beckton Dickenson (BD), one of the largest Medical Device Manufacturers, has agreed to an Investment of 3 BILLION DOLLARS to Onshore Manufacturing of Essential Medical Products (syringes, needl",
@@ -388,16 +400,34 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-10-02",
+    "asOf": "2026-10-08",
     "sentiment": "watch",
-    "excerpt": "The Fake News reports regarding the ongoing investigation into the disastrous renovation of the Federal Reserve Building are total lies. The newly confirmed Fed Chairman, Kevin Warsh, has announced an in depth, independent audit, and Attorn",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117374886219696225",
+    "excerpt": "This will sound super crazy, but I see a path to SpaceX being worth orders of magnitude more than the current Earth economy",
+    "postUrl": "https://x.com/elonmusk/status/2108315261044445330",
     "ticker": "",
-    "topics": [
-      "美联储/利率"
-    ]
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-08",
+    "sentiment": "watch",
+    "excerpt": "Can someone explain how media headlines about OpenAI’s ~$50B ARR…\n\n(vs. ~$70B from incorrect accounting comparisons with Anthropic)\n\nSomehow ends a 3-5 year laser shortage with $AAOI or memory shortage with $MU?\n\nHint: it doesn’t. https://t",
+    "postUrl": "https://x.com/aleabitoreddit/status/2108272287908860377",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-08",
+    "sentiment": "watch",
+    "excerpt": "Can someone explain how media headlines about OpenAI’s ~$50B ARR…\n\n(vs. ~$70B from incorrect accounting comparisons with Anthropic)\n\nSomehow ends a 3-5 year laser shortage with $AAOI or memory shortage with $MU?\n\nHint: it doesn’t. https://t",
+    "postUrl": "https://x.com/aleabitoreddit/status/2108272287908860377",
+    "ticker": "MU",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -467,36 +497,6 @@
     "excerpt": "\"Potential FCC rules on optical transceivers more likely to come at 3.2T\" - $LITE, $AAOI, $COHR, $SIVE.\n\nMorgan Stanley met with Washington officials:\n\n- Restrictions would likely start at 3.2T modules made in China (800g/1.6T would be left",
     "postUrl": "https://x.com/aleabitoreddit/status/2105709782854435274",
     "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-30",
-    "sentiment": "watch",
-    "excerpt": "$GOOGL Gemini 4 Argon benchmarks got released.\n\nAgainst GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5.\n\nStill coughing nonstop, so will comment on $MU / $JBL  earnings later. \n\nI've always thought Google's internal models were stellar, but a",
-    "postUrl": "https://x.com/aleabitoreddit/status/2105397070681248021",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-30",
-    "sentiment": "watch",
-    "excerpt": "$GOOGL Gemini 4 Argon benchmarks got released.\n\nAgainst GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5.\n\nStill coughing nonstop, so will comment on $MU / $JBL  earnings later. \n\nI've always thought Google's internal models were stellar, but a",
-    "postUrl": "https://x.com/aleabitoreddit/status/2105397070681248021",
-    "ticker": "JBL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-09-30",
-    "sentiment": "watch",
-    "excerpt": "$GOOGL Gemini 4 Argon benchmarks got released.\n\nAgainst GPT-6 Astra + Anthropic Fable 5.1 / Opus 5.5.\n\nStill coughing nonstop, so will comment on $MU / $JBL  earnings later. \n\nI've always thought Google's internal models were stellar, but a",
-    "postUrl": "https://x.com/aleabitoreddit/status/2105397070681248021",
-    "ticker": "MU",
     "topics": []
   },
   {
