@@ -3,21 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 280.5,
-  "change5dPct": 1.1,
-  "changeYtdPct": 68.3,
-  "marketCap": "$82.6B",
-  "pe": 333.6,
+  "price": 262.28,
+  "change5dPct": -8.5,
+  "changeYtdPct": 48.5,
+  "marketCap": "$77.2B",
+  "pe": 312.6,
   "revenue": "—",
   "revenueYoYPct": 91,
   "prices": [
-    {
-      "t": "2026-04-10",
-      "o": 161.88,
-      "h": 170.88,
-      "l": 160.35,
-      "c": 166.7
-    },
     {
       "t": "2026-04-13",
       "o": 164.72,
@@ -892,127 +885,141 @@
       "h": 286.95,
       "l": 264.5,
       "c": 272.82
+    },
+    {
+      "t": "2026-10-09",
+      "o": 275.85,
+      "h": 280.5,
+      "l": 271.0,
+      "c": 280.5
+    },
+    {
+      "t": "2026-10-12",
+      "o": 275.33,
+      "h": 275.99,
+      "l": 257.76,
+      "c": 262.28
     }
   ],
   "thesis": {
     "bull": [
-      "AI数据中心对电力需求激增，Bloom Energy的固态氧化物燃料电池可快速部署、不依赖电网排队，使其成为微软、甲骨文等大型云服务商的现场发电备选方案，相关新闻提到公司出现「数十亿美元级」订单季度与AI电力协议",
-      "公司近期营收与盈利能力明显改善，市场评价其正从单纯设备销售商转向提供长期服务协议的能源基础设施公司，经营杠杆有望随装机规模扩大而提升",
-      "国会议员佩洛西在2026年7月24日与7月28日两次新建BE多头仓位，披露文件标注为看涨信号，显示部分对政策与行业信息敏感的投资者对其长期前景持乐观态度"
+      "AI与数据中心电力需求爆发式增长，Bloom的固体氧化物燃料电池可绕开电网排队、快速并网，时效优势明显，近期在手订单和产能扩张持续推进",
+      "与SK新能源及其他国际合作伙伴的订单扩大，叠加美国相关税收抵免政策，为公司提供较长的收入可见度",
+      "公司毛利率近几个季度持续改善，规模效应与成本下降曲线有望支撑其向经营性盈利靠近"
     ],
     "bear": [
-      "市场对AI资本支出可持续性的担忧正在升温，近期OpenAI相关营收预期不及预期的报道已引发芯片及AI产业链股票普遍回调，Bloom Energy作为AI电力叙事的受益标的，估值同样容易受情绪冲击",
-      "公司历史上长期依赖大客户集中度（如数据中心与工业客户）与融资租赁结构，营收确认与现金流质量常被空头质疑，「能否在规模翻倍时保持盈利」本身仍是市场争论焦点",
-      "燃料电池设备单位成本与天然气价格、碳信用政策、各州对分布式发电的监管态度密切相关，政策与补贴若收紧，将直接影响项目经济性与新增订单节奏"
+      "当前估值已大幅走高，有研究观点认为即便未来产能翻倍，公司当前股价仍难以被基本面支撑，隐含了过于乐观的增长与利润率假设",
+      "燃料电池长期仍主要依赖天然气作为燃料来源，在清洁能源叙事、碳排放政策和电价竞争上存在不确定性",
+      "电力解决方案领域竞争加剧，NextEra Energy等传统公用事业巨头及其他分布式能源厂商可能挤占市场份额，资本开支压力大，自由现金流仍偏紧"
     ],
     "watch": [
-      "后续季度财报中服务与产品毛利率的走势，判断盈利改善是结构性的还是一次性大单带来的短期现象",
-      "与超大规模云计算公司新签的现场发电或电力采购协议规模、期限及是否包含独家性条款",
-      "国会及其他知情投资者在BE及同类电力基础设施股上的后续交易披露，以及是否有新的买入或卖出动向"
+      "近期披露显示有国会议员密集买入BE股票，需关注后续是否有更多数据中心电力相关政策或法规落地，验证这类交易背后的信息面",
+      "关注即将公布季度财报中的订单积压（backlog）、毛利率和现金流趋势，判断盈利拐点是否真正兑现",
+      "关注AI算力资本开支周期及英伟达、美光等芯片股波动对整体AI电力需求叙事情绪的外溢影响，这可能通过联动效应传导至BE估值"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy是一家总部位于美国加州的固态氧化物燃料电池技术公司，产品可将天然气、氢气等燃料转化为电力，主要用于企业、数据中心、工业设施及部分公用事业场景的现场发电与备用电源。相比传统电网接入，其模块化系统部署周期更短，这使公司在近两年AI算力扩张带来的电力紧缺背景下获得了额外的市场关注。"
+        "body": "Bloom Energy是固体氧化物燃料电池技术提供商，产品可在现场为数据中心、工业企业等用户提供发电与备用电力方案，近年来受益于AI驱动的数据中心电力紧缺叙事，市场关注度显著提升"
       },
       {
-        "heading": "增长驱动与财务表现",
-        "body": "近期多篇报道提到Bloom Energy迎来「数十亿美元级」订单季度，并与大型云计算及AI基础设施客户达成电力合作，带动营收与市场情绪同步走强。公司股价表现也被统计为跑赢大盘，媒体以「五年前投入100美元如今价值多少」类文章回顾其长期波动性。但这种增长在多大程度上可持续，市场仍存分歧，部分评论直接以「能否在规模翻倍时保持盈利」为题进行讨论。"
+        "heading": "行业与需求驱动",
+        "body": "随着AI训练与推理负载快速扩张，美国多地电网接入排队时间拉长，企业对现场发电、分布式能源的需求上升，Bloom的产品部署周期相对电网扩容更短，被视为缓解短期电力缺口的潜在方案之一，但该叙事也带来市场预期的快速升温"
       },
       {
-        "heading": "政策与市场环境",
-        "body": "当前宏观与行业背景呈现两条主线交织：一方面AI相关电力需求被视为结构性利好，纳斯达克相关报道甚至出现「AI超级繁荣」式乐观叙事；另一方面近期OpenAI营收预期不及市场预估的消息已引发芯片与AI产业链股票整体回调，显示投资者对AI资本支出能否兑现回报的担忧正在上升。Bloom Energy作为电力基础设施与AI叙事的交叉标的，情绪面波动可能被同时放大。"
+        "heading": "财务与估值",
+        "body": "公司收入与毛利率近几个季度呈改善趋势，但目前市场给予的估值倍数已显著高于传统工业与电力设备公司，部分研究观点指出即便假设产能大幅扩张，当前股价仍可能透支了远期增长，估值分歧较大"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "根据披露记录，国会议员南希·佩洛西在2026年7月24日与7月28日两次新建BE多头仓位，两笔交易均被标注为看涨信号，且均于2026年8月21日完成披露。国会议员交易历来受到市场关注，一方面因其可能接触到政策制定相关信息，另一方面此类披露具有滞后性，投资者应理性看待其信号价值，不宜简单等同于买卖建议。"
+        "heading": "政策与监管",
+        "body": "美国清洁能源与基础设施相关的税收抵免政策对公司具有支持作用，但政策存在随政治周期调整的风险；同时天然气作为燃料来源也使公司在清洁能源属性上面临部分争议"
       },
       {
-        "heading": "估值与竞争格局",
-        "body": "燃料电池与分布式发电赛道竞争者包括Plug Power、FuelCell Energy等氢能及燃料电池公司，以及Generac、Vertiv、GE Vernova等更广义的备用电源与数据中心基础设施供应商。Bloom Energy在固态氧化物技术路线上具有一定差异化优势，但该赛道历史上整体盈利能力偏弱、股价波动剧烈，估值更多建立在未来订单能否持续兑现的预期之上，而非当前稳定的现金流基础。"
+        "heading": "竞争格局",
+        "body": "公司在分布式燃料电池发电领域具备一定先发优势，但面临NextEra Energy等公用事业巨头在大规模电力供应上的竞争，也面临Plug Power等同业在细分市场的角逐，长期护城河是否稳固仍有分歧"
       },
       {
-        "heading": "风险与展望",
-        "body": "短期来看，AI资本支出叙事的任何边际降温（如近期OpenAI营收报道引发的连锁反应）都可能对Bloom Energy这类「AI电力受益股」造成估值压力；中长期则需关注公司能否将当前的大额订单转化为可持续、可预测的服务收入与稳定毛利率。投资者宜同时关注公司基本面披露与宏观AI投资情绪的变化，而非仅依赖单一事件或个别交易披露做判断。"
+        "heading": "跟踪者动向与市场情绪",
+        "body": "公开披露显示有国会议员在近期密集买入BE股票，显示出部分政治圈人士对公司前景持乐观看法，但此类交易披露本身不构成投资建议，也不代表未披露的信息优势，市场情绪仍随AI算力板块整体波动而起伏"
       }
     ],
     "comparables": [
       {
-        "ticker": "PLUG",
-        "name": "Plug Power",
-        "note": "氢能与燃料电池设备商，与Bloom Energy同属清洁发电技术赛道，但技术路线以氢燃料电池及电解槽为主"
+        "ticker": "NEE",
+        "name": "NextEra Energy",
+        "note": "传统公用事业与清洁能源巨头，规模和资本实力远超Bloom，可作为电力供应赛道的保守对照"
       },
       {
-        "ticker": "FCEL",
-        "name": "FuelCell Energy",
-        "note": "另一家固态氧化物及熔融碳酸盐燃料电池厂商，规模较小，常被与Bloom Energy对比估值与订单节奏"
+        "ticker": "PLUG",
+        "name": "Plug Power",
+        "note": "同属氢能与燃料电池赛道，但财务状况与现金流压力更为突出，可用于观察行业估值分化"
       },
       {
         "ticker": "GEV",
         "name": "GE Vernova",
-        "note": "电力设备与电网基础设施龙头，受益于同一轮数据中心用电需求增长，可作为更大体量的行业对照"
+        "note": "电力设备与能源基建供应商，受益于类似的数据中心电力需求增长叙事，可比较订单与利润率趋势"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-10T00:37:33.847475Z"
+    "generatedAt": "2026-10-13T02:31:05.535877Z"
   },
   "news": [
     {
-      "id": "BE-142768023",
-      "title": "Bloom’s Billion-Dollar Quarter And AI Power Deals Could Be A Game Changer For Bloom Energy (BE)",
+      "id": "BE-142825373",
+      "title": "How Much Could You Lose In Plug Power Stock?",
       "source": "Yahoo",
-      "publishedAt": "2026-10-09",
-      "url": "https://finnhub.io/api/news?id=f9440e04e61927921aa9ff1e962e356ed5d9bccf3eab05963b5c96a6060c04d8",
+      "publishedAt": "2026-10-12",
+      "url": "https://finnhub.io/api/news?id=b8fe4e6993df71d203999c176a28ced41f282046b5ff05a80835446d4771133b",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142768024",
-      "title": "Bloom Energy (BE) Outpaces Stock Market Gains: What You Should Know",
+      "id": "BE-142825312",
+      "title": "It’s a High-Stakes Earnings Season, Especially for AI Stocks",
       "source": "Yahoo",
-      "publishedAt": "2026-10-09",
-      "url": "https://finnhub.io/api/news?id=68d9db7e7a7112bcf81816f32f358effcfcfd7b5755d0a184582e926e84d95d3",
+      "publishedAt": "2026-10-12",
+      "url": "https://finnhub.io/api/news?id=532dc6ef41c9b3f5bbeebe68e2eae21e0cdf41f8a2a0c74f7aeab65b0b469f88",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142741702",
-      "title": "Can Bloom Energy Stay Profitable as It Doubles in Size?",
-      "source": "Yahoo",
-      "publishedAt": "2026-10-09",
-      "url": "https://finnhub.io/api/news?id=d6dc9833cfda4724175be878e0e141bf221d75825ba880a43f53e39af9a2b86b",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-142731798",
-      "title": "Top S&P500 movers in Thursday's session",
+      "id": "BE-142823403",
+      "title": "Discover which S&P500 stocks are making waves on Monday.",
       "source": "ChartMill",
-      "publishedAt": "2026-10-08",
-      "url": "https://finnhub.io/api/news?id=00e3f6f428848d7b5f56e2fc7a444b52168551d6bb7094884d5ba564cf35c7c7",
+      "publishedAt": "2026-10-12",
+      "url": "https://finnhub.io/api/news?id=7d346a60f670e8f9ddc8279296e8c4fd9cae67d242e655a952cce9bcd63808f9",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142731159",
-      "title": "Stocks Sink After OpenAI Report Sours AI Trade",
+      "id": "BE-142822884",
+      "title": "Stock Market Midday, Oct. 12: Dow Edges Higher as Investors Rotate Into Value Stocks",
       "source": "Yahoo",
-      "publishedAt": "2026-10-08",
-      "url": "https://finnhub.io/api/news?id=da8154472d3bc6c344e7ce1d613acdb4acbcbf4c89cc4ed527ddb5d345b5066f",
+      "publishedAt": "2026-10-12",
+      "url": "https://finnhub.io/api/news?id=d305eab7c8d01bf01ed064d5d557d7cd65368d0a3d59499cad5d3e5fa1d1d72f",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142762810",
-      "title": "Here's How Much $100 Invested In Bloom Energy 5 Years Ago Would Be Worth Today",
-      "source": "Benzinga",
-      "publishedAt": "2026-10-08",
-      "url": "https://finnhub.io/api/news?id=57b6d3508ee0a2d6d20a80e89832cb8e3747d36c19eb256e01eed53861dd378c",
+      "id": "BE-142821722",
+      "title": "Bloom Energy vs. NextEra Energy: Which Industrials Stock Is a Better Buy in 2026?",
+      "source": "Yahoo",
+      "publishedAt": "2026-10-12",
+      "url": "https://finnhub.io/api/news?id=f11d5104249a44531735a7dbc4774f70938d7842aed2cd72334ea800b212df7c",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-142823553",
+      "title": "Bloom Energy: Even Doubling Output Leaves The Stock Overvalued",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-10-12",
+      "url": "https://finnhub.io/api/news?id=22ccdc03dc2e376fca624110095c63f2e165362780e3e9a3c808277e9d05cf82",
       "tags": [
         "BE"
       ]
