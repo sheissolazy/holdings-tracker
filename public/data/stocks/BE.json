@@ -3,21 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 263.45,
-  "change5dPct": -8.1,
-  "changeYtdPct": 20.3,
-  "marketCap": "$77.6B",
+  "price": 239.34,
+  "change5dPct": -17.8,
+  "changeYtdPct": 11.9,
+  "marketCap": "$75.4B",
   "pe": 314.4,
   "revenue": "—",
   "revenueYoYPct": 91,
   "prices": [
-    {
-      "t": "2026-04-14",
-      "o": 202.78,
-      "h": 219.27,
-      "l": 197.4,
-      "c": 219.03
-    },
     {
       "t": "2026-04-15",
       "o": 218.99,
@@ -892,127 +885,146 @@
       "h": 275.99,
       "l": 257.76,
       "c": 262.28
+    },
+    {
+      "t": "2026-10-13",
+      "o": 251.55,
+      "h": 264.14,
+      "l": 248.35,
+      "c": 263.45
+    },
+    {
+      "t": "2026-10-14",
+      "o": 257.5,
+      "h": 258.52,
+      "l": 235.7,
+      "c": 239.34
     }
   ],
   "thesis": {
     "bull": [
-      "Oracle等云计算巨头在AI数据中心电力紧张背景下与Bloom Energy合作（如Project Jupiter），公司固体氧化物燃料电池方案可模块化快速部署，绕开电网排队瓶颈，受益于AI算力扩张带来的现场发电需求",
-      "美国国会议员佩洛西在2026年7月两次新建BE相关多头仓位并于8月披露，显示部分对政策与产业信息敏感的内部人士对公司前景持乐观态度",
-      "公司产品定位于分布式发电与微电网场景，在电网扩容和输变电基础设施建设普遍滞后的宏观环境中具备差异化竞争优势，且已获得大型云厂商订单验证商业模式"
+      "AI数据中心用电需求快速增长,电网接入排队周期拉长,Bloom的固体氧化物燃料电池可实现现场快速部署发电,公司与Oracle、美国电力公司（AEP）等大型客户签署供货协议,被视为算力缺电主题的核心受益标的之一",
+      "公司产品毛利率与整体盈利能力持续改善,规模效应逐步显现,管理层对未来订单与产能爬坡保持乐观展望",
+      "公开披露显示有国会议员（Pelosi）于2026年7月下旬两次新建BE多头仓位,显示政治人物及部分市场参与者对该主题的新增关注"
     ],
     "bear": [
-      "近期新闻显示BE股价出现明显下跌，提示市场对其高估值和执行风险存在担忧，此前围绕AI电力叙事形成的乐观预期可能已较大程度计入股价",
-      "固体氧化物燃料电池长期依赖天然气作为原料，单位发电成本高于传统燃气轮机和电网电力，并非严格意义上的零碳方案，若相关税收抵免或补贴政策收紧，盈利能力存疑",
-      "与Oracle等少数大客户的高度集中合作存在客户集中度风险，若数据中心建设计划放缓、项目延期或合同条款重新谈判，将对收入可见性和增长节奏造成明显冲击"
+      "股价过去一段时间累计涨幅巨大,当前估值隐含较高的持续增长预期,一旦AI资本支出或数据中心用电需求增速放缓,存在较大回调风险",
+      "近期出现AI基础设施相关股票集体回落的报道,叠加通胀数据走高、市场重新押注本月可能加息,高beta高估值成长股情绪面承压,BE容易被联动抛售",
+      "公司历史上存在现金消耗与复杂合同结构（如经营租赁、服务协议）问题,长期自由现金流能否持续转正及盈利质量仍有待进一步验证"
     ],
     "watch": [
-      "Project Jupiter及其他Oracle相关协议的具体合同细节、最高5500万美元年度电费抵免安排及交付时间表的后续披露",
-      "公司季度财报中毛利率、积压订单(backlog)及产能扩张(新建工厂)的进展，用以判断盈利拐点是否真正兑现",
-      "国会议员及机构持仓的后续申报变化，以及是否有更广泛机构资金跟随，同时关注清洁能源税收抵免等政策变量的走向"
+      "跟踪与Oracle、AEP等大客户的新增订单、合作扩展及产能爬坡进度公告",
+      "跟踪美联储利率路径与通胀数据走势,利率预期变化对高增长、高估值成长股估值的影响",
+      "跟踪国会议员等公开披露者后续是否持续加仓或减仓BE,作为市场情绪的辅助观察信号,但不构成投资建议依据"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy是一家总部位于美国加州的固体氧化物燃料电池(SOFC)制造商，产品可将天然气、氢气等燃料转化为电力，主要服务于数据中心、工业企业及公用事业客户，是分布式发电与微电网领域的代表性公司之一"
+        "body": "Bloom Energy是美国固体氧化物燃料电池技术提供商,核心产品为模块化Energy Server发电系统,可使用天然气、氢气等多种燃料实现现场发电,主要应用于数据中心、工业设施等场景。近年来公司受益于AI驱动的数据中心用电需求激增,市场关注度显著提升"
       },
       {
-        "heading": "核心业务与技术",
-        "body": "公司核心产品Energy Server基于SOFC技术，具备发电效率较高、模块化快速部署等特点，可在电网接入受限或对供电可靠性要求较高的场景提供稳定电力，近年重点拓展与超大规模数据中心(hyperscaler)客户的合作，Oracle牵头的Project Jupiter项目是其代表性案例"
+        "heading": "业务与增长驱动",
+        "body": "公司与Oracle、美国电力公司（AEP）等大型客户签署供货与合作协议,聚焦在电网扩容滞后背景下为数据中心提供可快速部署的现场发电解决方案。近期多篇报道提及数据中心电力缺口题材受资金追捧,Bloom被视为该主题中的核心标的之一"
       },
       {
-        "heading": "财务表现",
-        "body": "公司历史上收入波动较大，毛利率受产品结构(自有发电服务与设备销售占比)及规模效应影响，盈利能力长期不稳定；2026年以来受益于AI电力需求叙事，市场预期与估值明显抬升，但近期出现的股价回调反映出获利回吐与估值消化的压力"
+        "heading": "财务与估值",
+        "body": "近期财报显示公司收入与毛利率有所改善,市场预期其盈利能力将逐步增强,但股价累计涨幅较大,当前估值隐含偏高的未来增长预期,对基本面不及预期或宏观利率上行较为敏感"
       },
       {
-        "heading": "增长驱动与数据中心电力需求",
-        "body": "AI算力扩张带来数据中心用电需求激增，而电网扩容与输变电基础设施建设普遍滞后，为Bloom Energy这类现场发电方案创造结构性机会；与Oracle等云厂商签订的含电费抵免安排的合作协议，被市场视为验证其商业模式可行性的重要信号"
+        "heading": "多空分歧",
+        "body": "多头观点认为AI算力扩张带来的电力缺口是结构性、多年期的趋势,Bloom在技术路径与大客户关系上具备先发优势；空头观点则认为当前估值已过度透支未来增长,且近期AI相关股票集体回落、通胀走高推升加息预期的宏观环境可能持续压制高beta成长股表现"
       },
       {
-        "heading": "风险与竞争格局",
-        "body": "公司面临传统燃气轮机厂商(如GE Vernova)、电池储能方案以及其他燃料电池与氢能企业(如Plug Power、FuelCell Energy)的竞争；天然气价格波动、碳排放及清洁能源税收抵免政策变化、以及对少数大客户的高度依赖，均构成潜在经营风险"
+        "heading": "跟踪者动向解读",
+        "body": "公开披露记录显示,有国会议员（Pelosi）于2026年7月下旬两次新建BE多头仓位,披露日期为2026年8月21日,显示部分政治人物对该主题存在新增关注。需注意此类披露通常存在滞后性,且不构成投资建议,仅可作为市场情绪观察的辅助参考"
       },
       {
-        "heading": "政策监管与跟踪者动向",
-        "body": "美国国会议员佩洛西在2026年7月分别新建两笔BE相关多头仓位，并于当年8月依规披露，市场可能将其解读为积极信号，但国会议员交易披露本身存在滞后性，不构成投资建议；与此同时，联邦清洁能源税收抵免政策的存续情况及数据中心用电监管动态，仍是影响公司中长期前景的重要变量"
+        "heading": "风险提示",
+        "body": "需持续关注AI资本支出周期是否出现降温迹象、美联储加息路径及其对高估值成长股的压制、天然气与氢气等燃料成本及供应链稳定性、对Oracle等少数大客户的依赖程度,以及储能、传统发电设备等替代技术的竞争压力"
       }
     ],
     "comparables": [
       {
         "ticker": "PLUG",
         "name": "Plug Power",
-        "note": "氢燃料电池与电解槽制造商，同属另类发电与氢能赛道，但现金流与盈利状况相较Bloom Energy更为紧张"
+        "note": "氢能与燃料电池领域同业,同样受益于清洁能源与现场发电题材,但财务状况与盈利路径分化明显"
       },
       {
         "ticker": "FCEL",
         "name": "FuelCell Energy",
-        "note": "同样生产固体氧化物与熔融碳酸盐燃料电池，业务规模远小于Bloom Energy，可作为同行业小市值对照"
+        "note": "固体氧化物与熔融碳酸盐燃料电池技术同业,规模相对较小,商业化进度与客户集中度是关键差异点"
+      },
+      {
+        "ticker": "VRT",
+        "name": "Vertiv",
+        "note": "数据中心配套基础设施与电力管理供应商,同处AI数据中心供电产业链,但业务模式偏向设备与服务而非发电本身"
       },
       {
         "ticker": "GEV",
         "name": "GE Vernova",
-        "note": "传统燃气轮机与电网设备巨头，是数据中心电力市场中Bloom Energy面临的主要竞争对手之一"
+        "note": "传统电力设备与燃气轮机龙头,是数据中心大规模供电需求的另一主要受益及竞争路径,与Bloom在现场发电市场形成部分替代关系"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-14T00:14:34.631850Z"
+    "generatedAt": "2026-10-14T23:48:54.783183Z"
   },
   "news": [
     {
-      "id": "BE-142851267",
-      "title": "Oracle Proposes Up To $55M In Annual Power Bill Credits, Reaffirms Bloom Energy's Role At Project Jupiter",
+      "id": "BE-142888531",
+      "title": "Stock Market Today, Oct. 14: Plug Power Falls on Analyst Target Cuts and Concerns Over Rising Interest Rates",
       "source": "Yahoo",
-      "publishedAt": "2026-10-13",
-      "url": "https://finnhub.io/api/news?id=a9ac98d760c90fb96b959ede450f8fd1e367ecb7fee336a03ca6099c13b12c53",
+      "publishedAt": "2026-10-14",
+      "url": "https://finnhub.io/api/news?id=ed61a3aa1d89464b67a3f614bdf4220244103bad2e0c4081e3f4c86bef874c37",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142847926",
-      "title": "Tuesday's pre-market session: top gainers and losers in the S&P500 index",
+      "id": "BE-142888460",
+      "title": "What Are Bloom Energy Investors Betting On?",
+      "source": "Yahoo",
+      "publishedAt": "2026-10-14",
+      "url": "https://finnhub.io/api/news?id=94e80542a5a61c0d9800e46a17cdbc5171fcb113e028bf1ec345c01ffa5c335e",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-142887222",
+      "title": "Top S&P500 movers in Wednesday's session",
       "source": "ChartMill",
-      "publishedAt": "2026-10-13",
-      "url": "https://finnhub.io/api/news?id=123cdc6d0ab0a2796cf336c8a3776abd50b85fd1ff13a6aa674423cb8464ac24",
+      "publishedAt": "2026-10-14",
+      "url": "https://finnhub.io/api/news?id=0b7c292179b56ca652306005b9567d0a0523eab678139849606472987ea2e20f",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142848570",
-      "title": "Jim Cramer Calls the Chip Trade Broken, but Semiconductors Are Still Up 62% in 2026",
+      "id": "BE-142885916",
+      "title": "Exploring the top movers within the S&P500 index during today's session.",
+      "source": "ChartMill",
+      "publishedAt": "2026-10-14",
+      "url": "https://finnhub.io/api/news?id=b622cb959cbffaf6a3f606c989db14bb104d90fd68454f6db70586c3daa7cf5d",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-142887492",
+      "title": "Oracle executive walks back El Paso Electric proposal after county pushback: Report",
       "source": "Yahoo",
-      "publishedAt": "2026-10-13",
-      "url": "https://finnhub.io/api/news?id=08bd7107706792c61866b1c9d72b5409be7efda281b7af89b2d94db79e08777c",
+      "publishedAt": "2026-10-14",
+      "url": "https://finnhub.io/api/news?id=5306e1f155d6d0baa8bc71028c2b05edd10b7fe2b7c209c85222ee6bbd3a376d",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142850155",
-      "title": "Calm Down, The AI Bubble Won't Burst Just Yet",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-10-13",
-      "url": "https://finnhub.io/api/news?id=f6503a5cb4bc6512606e24e9ff0ef80f1ac4ac3cf0b16de33d8debc8d1c015c1",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-142848495",
-      "title": "Bloom Energy Stock Is Falling Tuesday: What's Going On?",
-      "source": "Benzinga",
-      "publishedAt": "2026-10-13",
-      "url": "https://finnhub.io/api/news?id=9425006adfc8d3cab8ed954b5e7fd6d6f972b5db1ee0c88a68fd4896d5fd3c8b",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-142838780",
-      "title": "3 Market-Beating Stocks to Own for Decades",
+      "id": "BE-142885084",
+      "title": "Is Bloom Energy Stock a Millionaire Maker?",
       "source": "Yahoo",
-      "publishedAt": "2026-10-13",
-      "url": "https://finnhub.io/api/news?id=9566143c225170c8d213dd1c642dcda08b5b8bd24c870161e46ddbf087a996f5",
+      "publishedAt": "2026-10-14",
+      "url": "https://finnhub.io/api/news?id=200d9585260c062f48c94d8d2be8ee7e8ae8491814dd7275a5d28b6069692dc6",
       "tags": [
         "BE"
       ]
