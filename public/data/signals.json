@@ -354,6 +354,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-10-13",
+    "sentiment": "watch",
+    "excerpt": "The Houthis are behaving very badly. I thought they learned their lesson a year ago when we bombed the HELL out of them and, at their request, stopped. They’ve been silent for a long time, but now they’ve emerged again, probably at the behe",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117434446535757477",
+    "ticker": "",
+    "topics": [
+      "通胀"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-10-09",
     "sentiment": "watch",
     "excerpt": "This is the woman who received the Nobel Peace Prize over the Great United States of America, whose Representative, ME, settled eight Wars, and many other things. I know nothing about this woman, and neither does anyone else! In fact, to th",
@@ -364,16 +376,110 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-10-08",
+    "asOf": "2026-10-13",
     "sentiment": "watch",
-    "excerpt": "The White House considers anyone that uses the term, “Artificial Intelligence,” as opposed to the highly accepted new and more accurate term, “Super Intelligence,” THE ENEMY! President DONALD J. TRUMP",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117406176604364910",
-    "ticker": "",
+    "excerpt": "Tesla self-driving feels like magic",
+    "postUrl": "https://x.com/elonmusk/status/2110154332553597413",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-13",
+    "sentiment": "watch",
+    "excerpt": "Guess like we found out why Elon has been going on a crusade against memory in his recent posts.\n\n$SKHY and Samsung have been price hiking memory too much? https://t.co/r3sTYkd7TX",
+    "postUrl": "https://x.com/aleabitoreddit/status/2110146513766900019",
+    "ticker": "SKHY",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-13",
+    "sentiment": "watch",
+    "excerpt": "$AGLT (Agility Robotics) has cleared SEC review for public listing through $CCXI\n\nIf you want an estimate timeline:\n\n~Oct 13 (today): SEC S-4 declared effective\n\n~Nov 2nd (shareholder vote): for merger approval\n\n~November: Merger closing an",
+    "postUrl": "https://x.com/aleabitoreddit/status/2110142633716965836",
+    "ticker": "AGLT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-13",
+    "sentiment": "watch",
+    "excerpt": "$AGLT (Agility Robotics) has cleared SEC review for public listing through $CCXI\n\nIf you want an estimate timeline:\n\n~Oct 13 (today): SEC S-4 declared effective\n\n~Nov 2nd (shareholder vote): for merger approval\n\n~November: Merger closing an",
+    "postUrl": "https://x.com/aleabitoreddit/status/2110142633716965836",
+    "ticker": "CCXI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-13",
+    "sentiment": "watch",
+    "excerpt": "Physical AI + Humanoids are the next progression of AI.\n\n$NVDA CES 2025 projections and Elon's prediction on $TSLA + 1 Billion humanoids in the next decade, seems to be speeding up. \n\nNew statement from Unitree CEO after testing GPT-6 on th",
+    "postUrl": "https://x.com/aleabitoreddit/status/2109937773440577755",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-13",
+    "sentiment": "watch",
+    "excerpt": "Physical AI + Humanoids are the next progression of AI.\n\n$NVDA CES 2025 projections and Elon's prediction on $TSLA + 1 Billion humanoids in the next decade, seems to be speeding up. \n\nNew statement from Unitree CEO after testing GPT-6 on th",
+    "postUrl": "https://x.com/aleabitoreddit/status/2109937773440577755",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-12",
+    "sentiment": "watch",
+    "excerpt": "So spent some more time to look at more DBS conference material: \n\n- \"Two semiconductor giants, $AVGO and $INTC, both stated that breakthroughs in AI will keep demand for chip investment elevated for at least another 2 years. As current sup",
+    "postUrl": "https://x.com/aleabitoreddit/status/2109900353349300590",
+    "ticker": "AVGO",
     "topics": [
+      "美联储/利率",
       "AI/芯片"
     ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-12",
+    "sentiment": "watch",
+    "excerpt": "So spent some more time to look at more DBS conference material: \n\n- \"Two semiconductor giants, $AVGO and $INTC, both stated that breakthroughs in AI will keep demand for chip investment elevated for at least another 2 years. As current sup",
+    "postUrl": "https://x.com/aleabitoreddit/status/2109900353349300590",
+    "ticker": "INTC",
+    "topics": [
+      "美联储/利率",
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-12",
+    "sentiment": "watch",
+    "excerpt": "Wow this is sad to see Korean markets with $SKHY / Samsung crash like this.\n\nSpecial thanks to $AVGO CEO adding fuel the fire… \n\nCalling AI investors gamblers and saying enterprise AI isn’t delivering ROI. https://t.co/fHzsD9Na4s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2109852646484201736",
+    "ticker": "AVGO",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-12",
+    "sentiment": "watch",
+    "excerpt": "Wow this is sad to see Korean markets with $SKHY / Samsung crash like this.\n\nSpecial thanks to $AVGO CEO adding fuel the fire… \n\nCalling AI investors gamblers and saying enterprise AI isn’t delivering ROI. https://t.co/fHzsD9Na4s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2109852646484201736",
+    "ticker": "SKHY",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -483,26 +589,6 @@
     "excerpt": "Can someone explain how media headlines about OpenAI’s ~$50B ARR…\n\n(vs. ~$70B from incorrect accounting comparisons with Anthropic)\n\nSomehow ends a 3-5 year laser shortage with $AAOI or memory shortage with $MU?\n\nHint: it doesn’t. https://t",
     "postUrl": "https://x.com/aleabitoreddit/status/2108272287908860377",
     "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-05",
-    "sentiment": "watch",
-    "excerpt": "$AAOI is... finally... done...\n\nWith their $600m ATM program, turns out it's ~$105.36 average. \n\nI do think AOI outperforms $LITE, as long as they stop filing these ATM programs. \n\nJust due to their sheer magnitude of ramp with $471m/month ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2107143846027268373",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-05",
-    "sentiment": "watch",
-    "excerpt": "$AAOI is... finally... done...\n\nWith their $600m ATM program, turns out it's ~$105.36 average. \n\nI do think AOI outperforms $LITE, as long as they stop filing these ATM programs. \n\nJust due to their sheer magnitude of ramp with $471m/month ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2107143846027268373",
-    "ticker": "LITE",
     "topics": []
   },
   {

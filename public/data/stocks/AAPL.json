@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 340.97,
-  "change5dPct": 2.4,
-  "changeYtdPct": 31.5,
+  "price": 341.27,
+  "change5dPct": 2.5,
+  "changeYtdPct": 31.9,
   "marketCap": "$4.98T",
-  "pe": 38.4,
+  "pe": 38.8,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-04-13",
-      "o": 259.73,
-      "h": 260.18,
-      "l": 256.66,
-      "c": 259.2
-    },
     {
       "t": "2026-04-14",
       "o": 259.25,
@@ -903,123 +896,123 @@
   ],
   "thesis": {
     "bull": [
-      "英伟达CEO黄仁勋近期公开表态看好苹果在人工智能方面的前景，市场情绪为之提振，部分资金在芯片股走弱之际转向苹果等大型科技股寻求避风港",
-      "苹果服务业务占比持续提升，高毛利特性为整体盈利能力提供支撑，即便硬件销售增速放缓仍能维持稳健现金流",
-      "近期美股科技板块在芯片股回调背景下出现风格轮动，苹果与Meta等权重股获资金青睐，技术面显示其股价正逼近历史高点附近的关键买点"
+      "苹果股价近期创历史新高，反映市场对其长期现金流与品牌护城河的持续认可，HomeView智能家居新品显示公司仍在拓展消费电子生态边界",
+      "英伟达CEO黄仁勋公开表态看好苹果在AI领域的潜力，带动市场对苹果端侧AI与软硬件整合前景的乐观预期，若苹果智能功能加速渗透iPhone用户群，有望打开新一轮换机周期",
+      "2025年12月底国会议员佩洛西披露新建AAPL多头仓位，显示部分知情投资者在当期对苹果估值与前景仍持建设性看法"
     ],
     "bear": [
-      "知名国会议员佩洛西在2025年12月至2026年1月期间多次减持苹果仓位，交易披露显示其近一年内多次呈现离场而非加仓的方向，释放出谨慎信号",
-      "相较于同业在生成式AI产品落地速度，苹果在Siri升级与自有大模型能力方面的进展被市场认为落后，存在错失AI红利周期的担忧",
-      "半导体与AI硬件板块近期出现明显回调，若AI投资热度降温或需求不及预期，可能通过供应链与消费电子需求传导影响苹果硬件业务"
+      "佩洛西同一批及此前多次披露显示持续减持或退出AAPL仓位（2025年12月、10月及2024年12月均有trim/exit记录），减持频率高于新建仓，净趋势偏谨慎，与其新建多头仓位形成矛盾信号，解读需谨慎",
+      "苹果正卷入与OpenAI的商业秘密诉讼，法院已要求OpenAI提交招聘记录，若案件升级可能涉及人才争夺、AI战略机密外泄等声誉与法律风险",
+      "当前美股涨幅高度集中于少数科技与半导体权重股，多位市场人士警告AI交易「过热」和行业集中度风险，若AI叙事降温或估值修正，苹果作为权重股可能被动承压"
     ],
     "watch": [
-      "苹果后续季度财报中AI相关功能对iPhone换机周期的实际拉动数据，以及服务业务增速是否维持",
-      "国会议员及其他知情交易者后续披露的持仓变动，观察是否延续减持趋势或出现反转",
-      "台积电等核心供应链企业即将发布的财报与资本开支指引，判断其对苹果产品线成本与出货节奏的影响"
+      "关注苹果AI功能（Apple Intelligence等）在新产品周期中的用户采纳速度及其对硬件销售的实际拉动效果，而非仅停留在预期层面",
+      "持续跟踪OpenAI商业秘密诉讼的进展及可能的法律与声誉影响",
+      "关注国会议员等知情交易者后续披露动向，判断其对AAPL仓位增减是短期调仓还是趋势性信号"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值领先的消费电子与软件服务公司，核心业务涵盖iPhone、Mac、iPad等硬件产品以及App Store、iCloud、Apple Music等服务生态。公司正处于向服务与生态收入结构转型的阶段，同时面临行业对其人工智能战略布局的高度关注。"
+        "body": "苹果（AAPL）是全球市值最大的消费电子与软件服务公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品线，以及App Store、iCloud、Apple Music等高毛利服务业务。公司近期推出HomeView智能家居中枢等新硬件，显示其持续拓展生态版图、强化设备互联与家庭场景覆盖的战略方向。股价近期创下历史新高，反映市场对其基本面与增长叙事的整体认可。"
       },
       {
-        "heading": "基本面",
-        "body": "苹果服务业务收入占比逐年提升，具备较高毛利率，为公司整体盈利能力提供缓冲。硬件销售增速相对放缓，市场普遍关注即将到来的产品周期能否通过AI功能升级刺激换机需求，从而带动业绩重新加速。"
+        "heading": "AI布局与竞争态势",
+        "body": "苹果在生成式AI浪潮中的定位是市场长期关注的焦点。英伟达CEO黄仁勋近期公开表态对苹果AI前景抱有较高期待，一定程度上提振了市场情绪并带动相关AI概念股走高。但相较于微软、谷歌等在云端大模型上的高调投入，苹果的AI战略更偏重端侧与生态整合，市场对其AI变现路径及商业化节奏仍存在分歧，部分观点认为苹果的「稳健打法」有其合理性，另一部分则担心其落后于行业AI基础设施建设节奏。"
       },
       {
-        "heading": "资金与持仓动向",
-        "body": "公开披露显示，知名国会议员佩洛西在2025年底至2026年初对苹果持仓进行了多次减持操作，近一年多个披露周期中方向均偏向离场而非加仓，这与部分市场人士对苹果AI前景的乐观表态形成一定反差，反映出机构与知情交易者之间观点存在分歧。"
+        "heading": "跟踪者动向解读",
+        "body": "公开披露数据显示，国会议员佩洛西在2025年12月30日同时出现新建AAPL多头仓位（new/long）与减持（trim/exit）记录，且此前2025年10月及2024年12月均有减持记录，整体呈现减持频率更高、净态度偏谨慎的格局。这种同期内方向不一致的披露，可能反映的是账户层面的仓位再平衡而非单一、清晰的多空判断，解读时应避免过度简化为「知情者看多」或「知情者看空」的单一结论。"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "当前市场资金在AI叙事驱动下呈现结构性分化，芯片与AI硬件股近期出现回调压力，而苹果、微软等具备现金流与生态护城河的大型科技公司获得资金关注。英伟达等产业链龙头公司高管对苹果AI前景的正面表态，一定程度上提升了市场对苹果后续产品周期的预期，但苹果能否在自研大模型与端侧AI能力上真正追赶同业仍存不确定性。"
+        "heading": "多空分歧",
+        "body": "多头逻辑集中在苹果的品牌壁垒、服务业务的持续增长、以及AI端侧应用对硬件升级周期的潜在拉动；股价创新高本身也被部分投资者视为趋势延续的信号。空头逻辑则聚焦于：其一，知情交易者净减持的信号可能暗示部分聪明钱对短期估值已偏谨慎；其二，整体美股及AI板块估值集中度偏高，市场对「AI泡沫」的担忧情绪升温；其三，与OpenAI的商业秘密诉讼存在不确定的法律与声誉风险敞口。"
       },
       {
-        "heading": "风险因素",
-        "body": "主要风险包括：AI功能落地进度与用户采用率不及预期；全球宏观环境（如关税、地缘政治及供应链波动）可能影响硬件成本与出货；行业资金轮动若重新转向芯片与AI基础设施类资产，可能削弱苹果股价的相对强势；知情交易者持续减持亦可能被市场解读为负面信号。"
+        "heading": "风险与关注点",
+        "body": "主要风险包括：AI商业化节奏不及预期导致估值修正；与OpenAI诉讼可能产生的法律成本或商业机密纠纷；宏观层面半导体与科技权重股集中度过高带来的系统性回调风险；以及消费电子需求周期性波动对硬件销售的影响。需持续关注公司季度财报中服务业务增速、硬件换机周期数据，以及AI相关产品的用户采纳率等关键指标。"
       },
       {
-        "heading": "结论与分歧",
-        "body": "综合来看，市场对苹果的看法呈现明显分歧：一方面产业人士看好其AI叙事带来的估值与换机周期提升，资金在板块轮动中偏向配置苹果等权重股；另一方面知情交易者近期披露的减持行为，以及苹果在生成式AI产品化方面相对同业的滞后，构成了谨慎看待的理由。投资者应结合即将发布的财报指引与供应链数据，持续跟踪上述分歧点的演变，而非依赖单一信号做出判断。"
+        "heading": "同业比较参考",
+        "body": "在消费电子与AI生态布局的比较维度上，微软、谷歌母公司Alphabet及三星电子可作为参照对象，分别代表云端AI基础设施打法、搜索与多模态AI整合打法，以及硬件制造与供应链协同打法，三者与苹果在AI商业化路径及盈利结构上存在显著差异，有助于投资者多角度评估苹果AI战略的相对定位。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
         "name": "微软",
-        "note": "同为现金流稳健的大型科技龙头，服务与云业务占比更高，AI产品化进度被市场认为领先，可作为苹果服务转型与AI叙事的参照对象"
+        "note": "云端AI基础设施与企业软件服务布局领先，AI商业化路径与苹果的端侧打法形成对比"
       },
       {
         "ticker": "GOOGL",
-        "name": "谷歌母公司Alphabet",
-        "note": "在生成式AI与自研大模型方面布局较早，其产品落地节奏可用于衡量苹果端侧AI能力的相对进度"
+        "name": "Alphabet",
+        "note": "搜索与多模态大模型并重，广告与云业务为主要盈利来源，AI变现路径与苹果硬件驱动模式不同"
       },
       {
-        "ticker": "SPX",
-        "name": "标普500指数",
-        "note": "作为大盘基准，近期在芯片股拖累下走势分化，可用于观察苹果股价相对大盘与科技权重股的强弱表现"
+        "ticker": "005930.KS",
+        "name": "三星电子",
+        "note": "消费电子硬件与半导体供应链双线布局，与苹果在智能终端市场存在直接竞争关系"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-13T02:31:47.174636Z"
+    "generatedAt": "2026-10-14T00:15:15.614254Z"
   },
   "news": [
     {
-      "id": "AAPL-142825278",
-      "title": "Broadcom vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
+      "id": "AAPL-142855309",
+      "title": "If You Own SPY, This Lower-Cost Fund Tracks Identical Holdings for Less Than Half the Fee",
       "source": "Yahoo",
-      "publishedAt": "2026-10-12",
-      "url": "https://finnhub.io/api/news?id=ec4d56eebd1e30e3510ad274efc17621d59bfae4f1bf5e3515e2389cbe5f2fe9",
+      "publishedAt": "2026-10-13",
+      "url": "https://finnhub.io/api/news?id=8286ecf0d7f8fdcf36763076b84789e585f1f2e8480cb3ef54ae7172c68f02fd",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142825279",
-      "title": "Why Every Snap Investor Is Looking At This One Number",
+      "id": "AAPL-142854645",
+      "title": "Garmin Stock Rises on Luxury Watch Upgrades. It Keeps Moving Beyond Navigation.",
       "source": "Yahoo",
-      "publishedAt": "2026-10-12",
-      "url": "https://finnhub.io/api/news?id=9a8df028aa67ce205bbc123b28f4dd137d5259648224248c95c64e738943dee8",
+      "publishedAt": "2026-10-13",
+      "url": "https://finnhub.io/api/news?id=60df50c5045fb37460f69fb188f3aae151431a1df4b72f5b3a1b228f232a036b",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142824444",
-      "title": "You Bought VOO to Own the S&P 500. On $500,000, One Chipmaker Is $40,400 of It",
+      "id": "AAPL-142854329",
+      "title": "Judge orders OpenAI to turn over hiring records in Apple trade secrets case",
       "source": "Yahoo",
-      "publishedAt": "2026-10-12",
-      "url": "https://finnhub.io/api/news?id=168c2e81b310c99e844075634ccb02350cf9070d35303be37bec2dcf182d63cd",
+      "publishedAt": "2026-10-13",
+      "url": "https://finnhub.io/api/news?id=d8b44040b589a5fe5501bb3afd3f6d352961ae093b194516d4cb21e6a6bda49c",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142824459",
-      "title": "Dow Jones Futures: Micron, Nvidia Lead AI Trade Lower; Apple, Meta Rally Near Buy Points",
+      "id": "AAPL-142854330",
+      "title": "Apple Introduces HomeView Smart Home Hub, Other Gadgets",
       "source": "Yahoo",
-      "publishedAt": "2026-10-12",
-      "url": "https://finnhub.io/api/news?id=7640625929204e2af1763dfe7765c394471896e6f5ab1a20d5e6b8900deffa75",
+      "publishedAt": "2026-10-13",
+      "url": "https://finnhub.io/api/news?id=ce7a88b9fb8c5a0d207e7094110b33b3f10ae63439d6c6201ef3ac7662dc009c",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142824469",
-      "title": "Apple co-founder's forgotten company lands Nasdaq deal",
+      "id": "AAPL-142854314",
+      "title": "Apple Hits Fresh All-Time High",
       "source": "Yahoo",
-      "publishedAt": "2026-10-12",
-      "url": "https://finnhub.io/api/news?id=e530db2028221496e0e623374c88926859cd3657560d8bd11857c81dd46a3a35",
+      "publishedAt": "2026-10-13",
+      "url": "https://finnhub.io/api/news?id=059b9e0bfd7ec96186e9e0efbfe7c139ce592a448d305af1b1062628d17ed7e2",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142824474",
-      "title": "The AI Rally, Mega-Cap Dominance & What Comes Next",
+      "id": "AAPL-142854333",
+      "title": "Can You Make Money Off Netflix Stock Now?",
       "source": "Yahoo",
-      "publishedAt": "2026-10-12",
-      "url": "https://finnhub.io/api/news?id=0c98f456b9ec9a637447ea02a6ec05e6c6d234ea1702ee979563d829f612b74c",
+      "publishedAt": "2026-10-13",
+      "url": "https://finnhub.io/api/news?id=0d0badd83ba3f3a760eb27dcfc404b41c82c4cd93009b793044fd870a4b7496a",
       "tags": [
         "AAPL"
       ]
