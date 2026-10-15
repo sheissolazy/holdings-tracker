@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 342.96,
-  "change5dPct": 1.9,
-  "changeYtdPct": 28.7,
+  "price": 342.0,
+  "change5dPct": 0.5,
+  "changeYtdPct": 29.8,
   "marketCap": "$5.05T",
-  "pe": 38.8,
+  "pe": 38.7,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-04-15",
-      "o": 258.16,
-      "h": 266.56,
-      "l": 257.81,
-      "c": 266.43
-    },
     {
       "t": "2026-04-16",
       "o": 266.8,
@@ -896,130 +889,137 @@
     {
       "t": "2026-10-14",
       "o": 344.61,
-      "h": 347.07,
+      "h": 347.09,
       "l": 341.72,
       "c": 342.96
+    },
+    {
+      "t": "2026-10-15",
+      "o": 346.95,
+      "h": 347.85,
+      "l": 341.6,
+      "c": 342.0
     }
   ],
   "thesis": {
     "bull": [
-      "苹果股价近期突破5万亿美元市值里程碑，显示市场对其品牌、生态与现金流韧性仍保持高度认可，在科技股普遍回调的背景下相对抗跌",
-      "英伟达CEO黄仁勋近期公开言论提振市场对苹果在人工智能领域布局的期待，带动相关AI概念股买盘情绪升温",
-      "苹果持续推进Apple Intelligence等服务与软件生态布局，服务收入占比提升有助于平滑硬件销售周期波动，为估值提供额外支撑"
+      "市场仍将苹果视为AI应用端的潜在受益者，英伟达CEO黄仁勋在公开场合表达对苹果AI布局的乐观预期，带动相关联想",
+      "多篇财经评论将苹果列为当前AI板块剧烈调整中相对防御性的选择，理由是其现金流稳健、生态粘性强，受AI资本开支泡沫担忧的直接冲击较小",
+      "硬件创新与品牌营销持续发力，如新品发布中强调手工细节等差异化叙事，显示公司在维持高端定位和用户心智方面仍具竞争力"
     ],
     "bear": [
-      "公开披露显示佩洛西在2025年12月至2026年1月期间多次申报减持苹果持仓，从2024年底、2025年10月到2025年12月的多份PTR文件呈现持续性的「trim」操作，释放出谨慎信号",
-      "2026年9月通胀数据超预期走高，市场重新计入美联储本月再度加息的可能性，高估值科技股普遍承压，苹果作为权重股难以完全独善其身",
-      "近期AI基础设施相关股票集体大幅回调，叠加市场对AI泡沫与科技板块整体估值过高的担忧升温，拖累包括苹果在内的大型科技股情绪面"
+      "国会议员佩洛西在2025年12月至2026年1月期间的多份PTR披露中显示减仓动作，2024年底、2025年10月以及2025年12月均出现退出或trim记录，显示部分知情交易者对苹果持谨慎态度",
+      "近期新闻环境显示AI相关股票出现大幅回调，单日蒸发数百亿美元市值，市场情绪偏向AI交易全面降温，苹果作为科技权重股难以完全独立于板块系统性风险",
+      "通胀数据超预期引发利率担忧，科技股估值对利率敏感，叠加债券市场被部分评论视为AI交易面临的最大挑战，可能压制苹果等高估值科技股表现"
     ],
     "watch": [
-      "关注苹果在人工智能硬件与软件方向的后续产品线进展，以及此前媒体报道的前OpenAI员工涉密文件事件是否有监管或法律层面的后续影响",
-      "关注美联储本月议息会议结果及通胀数据的持续演变，这将直接影响市场对科技股估值体系的重新定价",
-      "观察苹果5万亿美元市值能否在当前AI板块与整体科技股普遍回调的宏观环境下维持，还是会跟随板块联动修正"
+      "关注苹果AI相关产品与服务（如设备端AI功能）的商业化进度是否能兑现市场预期，这是黄仁勋等行业人士看好情绪能否持续的关键",
+      "关注国会议员等公开披露交易者后续申报动向，判断此前减仓是否为阶段性获利了结还是趋势性减持信号",
+      "关注宏观流动性环境变化，包括通胀数据、利率路径以及AI板块整体资金流向，这些因素将决定苹果股价的贝塔敞口大小"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果公司（AAPL）是全球市值领先的消费电子与科技公司，核心业务涵盖iPhone、Mac、iPad等硬件产品线，以及App Store、Apple Music、iCloud等高毛利服务业务。近期公司股价表现强劲，市值一度突破5万亿美元，成为市场关注的焦点标的之一"
+        "body": "苹果公司是全球市值最大的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品线，以及服务业务（App Store、iCloud、Apple Music等）和可穿戴设备。公司以高毛利率、强大品牌忠诚度和庞大活跃设备装机量著称，近年来持续推动服务收入占比提升以平滑硬件销售周期性波动。"
       },
       {
         "heading": "近期动态",
-        "body": "公开报道显示苹果股价在近期科技板块普遍承压的背景下逆势走高并触及5万亿美元市值关口，市场对其能否在AI交易退潮的环境下继续保持相对强势存在分歧。同时有媒体报道称一名前OpenAI员工涉嫌将相关AI设备文件提交给苹果高层，引发外界对苹果AI战略布局的进一步关注"
+        "body": "近期新闻显示苹果通过强调产品手工细节等差异化营销策略维持高端品牌形象，市场评论中也出现将苹果视为当前时点值得关注标的的声音。与此同时，苹果新品定价及配套保险方案也引发消费者对实际持有成本的讨论，反映出公司在维持溢价策略与消费者敏感度之间的平衡压力。"
       },
       {
         "heading": "跟踪者动向解读",
-        "body": "从公开的国会议员交易披露（PTR）记录看，佩洛西在2024年底、2025年10月及2025年12月至2026年1月期间多次申报涉及苹果股票的交易，整体呈现持续减持（trim/exit）的模式，但同期也存在一笔标记为新建多头仓位的记录，反映出交易披露本身存在的仓位调整复杂性，并不能简单解读为单一方向的明确信号。此外，英伟达CEO黄仁勋的相关公开言论被市场解读为对苹果AI前景的正面评价，带动短期关注度上升"
+        "body": "公开披露数据显示，国会议员佩洛西在2025年12月30日的PTR文件中同时出现新建仓和减仓记录，且此前2025年10月及2024年12月均有退出或减仓动作，整体呈现多空交织但减仓频次较高的特征。需注意国会议员交易披露存在滞后性，且交易动机可能涉及税务规划、分散配置等非纯粹基本面判断因素，不宜简单解读为对公司前景的直接信号。另外，英伟达CEO黄仁勋公开表达对苹果AI布局的乐观看法，曾带动AI概念股联动上涨，显示行业内部人士对苹果在AI浪潮中角色的关注。"
       },
       {
-        "heading": "宏观与行业背景",
-        "body": "近期公开新闻显示，2026年9月美国通胀数据走高，市场重新计入美联储年内进一步加息的可能性，这一宏观环境对高估值科技股整体构成压力。与此同时，多只AI基础设施及芯片相关个股出现明显回调，市场对AI交易是否存在泡沫、科技股估值是否已经透支未来增长预期的讨论升温，相关报道中出现「2008式风险循环」等较为悲观的类比表述"
+        "heading": "行业与宏观环境",
+        "body": "当前市场正经历AI板块的剧烈调整，多篇新闻提及单日数百亿美元市值蒸发、AI交易全面降温，以及债券市场可能成为AI交易下一个考验。叠加通胀数据强于预期引发的加息担忧，整体科技股估值面临压力。苹果作为权重科技股，其股价走势与板块整体情绪及利率环境的相关性值得关注，但其业务结构（硬件为主、AI资本开支敞口相对有限）可能使其波动性略低于纯AI算力相关标的。"
       },
       {
-        "heading": "多空分歧",
-        "body": "看多一方认为苹果作为生态壁垒深厚、现金流稳健的龙头公司，其5万亿市值体现了市场对其长期竞争力的认可，且在AI硬件与服务融合方面具备潜在想象空间。看空或谨慎一方则指出，国会议员等跟踪者的持续减持动作、通胀与加息预期升温、以及AI板块整体回调的宏观与行业背景，均对苹果估值的可持续性提出了质疑，当前多空观点在公开信息层面呈现较为明显的分歧"
+        "heading": "多空分歧焦点",
+        "body": "多头观点聚焦于苹果生态粘性、现金流稳健及作为AI应用端潜在受益者的叙事，认为其相对抗跌。空头观点则强调公开披露的减仓动作、科技股估值对利率敏感，以及AI板块系统性回调可能拖累包括苹果在内的权重股。两种观点的核心分歧在于如何评估苹果在AI浪潮中究竟是受益者还是仅被动承受板块贝塔风险。"
       },
       {
-        "heading": "风险与展望",
-        "body": "短期风险主要来自宏观流动性环境变化，包括美联储政策路径的不确定性以及AI板块估值回调的外溢效应；个股层面需关注苹果AI产品落地节奏及相关知识产权或人事争议事件的后续发展。整体而言，苹果当前估值与股价表现处于市场多空力量交织的阶段，后续走势将较大程度取决于宏观数据与AI板块情绪的进一步演变，投资者需结合自身风险偏好审慎评估，本分析不构成任何买卖建议"
+        "heading": "风险提示",
+        "body": "本分析基于公开新闻及国会议员交易披露信息整理，国会议员交易披露本身存在时间滞后、动机不透明等局限性，不构成对公司基本面的直接判断依据。宏观环境（利率、通胀）及AI板块情绪的快速变化可能在短期内显著影响科技股整体表现，投资者需结合更全面的财务数据与行业研究进行独立判断。"
       }
     ],
     "comparables": [
       {
-        "ticker": "MSFT",
-        "name": "微软",
-        "note": "近期发布自研AI芯片，被部分市场评论类比为潜在的「英伟达挑战者」，是AI基础设施叙事中的重要对比对象"
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "同属科技板块且被频繁与AI算力叙事关联，近期新闻中多次与苹果等标的并列讨论估值与前景"
       },
       {
         "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "公司CEO近期言论直接提振了市场对苹果AI前景的期待，同时英伟达自身股价也受到芯片板块回调的影响"
+        "name": "NVIDIA Corporation",
+        "note": "AI算力核心标的，其CEO公开言论直接影响市场对苹果AI布局的乐观预期，二者股价联动性较强"
       },
       {
-        "ticker": "GOOGL",
-        "name": "谷歌母公司Alphabet",
-        "note": "同为大型科技龙头，在AI与云计算领域与苹果存在生态与战略层面的间接竞争关系"
+        "ticker": "BE",
+        "name": "Bloom Energy",
+        "note": "与AI算力相关的电力能源标的，近期随AI交易降温同步回调，可作为观察AI板块整体风险偏好的参照"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-14T23:49:33.816190Z"
+    "generatedAt": "2026-10-15T23:37:34.670233Z"
   },
   "news": [
     {
-      "id": "AAPL-142888319",
-      "title": "Here's What a $10,000 Investment in Apple Stock Could Be Worth in 5 Years",
+      "id": "AAPL-142922193",
+      "title": "Is Apple the Ultimate Stock to Buy Right Now?",
       "source": "Yahoo",
-      "publishedAt": "2026-10-14",
-      "url": "https://finnhub.io/api/news?id=8ed23560931cc36bcd39bbe4e1979ea7d2d5e0bedbc18df73f45b5ffcd1e5c9a",
+      "publishedAt": "2026-10-15",
+      "url": "https://finnhub.io/api/news?id=f71f28e99aeb9d57c0ae9a2b30f40d2f9f45124040fd7bf690c5a79a75ac46bf",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142888325",
-      "title": "Global X Investments Canada Inc. Closes the Market",
+      "id": "AAPL-142922214",
+      "title": "Think the iPhone Duo is expensive? Skip Apple's insurance plan and 1 mishap could send your real cost soaring",
       "source": "Yahoo",
-      "publishedAt": "2026-10-14",
-      "url": "https://finnhub.io/api/news?id=485974371363c4f246ad64396587f5693e16cd313c619b26d9a546c34671e965",
+      "publishedAt": "2026-10-15",
+      "url": "https://finnhub.io/api/news?id=9a7bffe1df0db070ca672a60650a4814da9c3d964384f2969f410cf6aba808dd",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142888323",
-      "title": "Apple Hits $5 Trillion Milestone as Rest of Tech Trade Falters. Can It Hold?",
+      "id": "AAPL-142921686",
+      "title": "AI Stocks Are Hurting. Look at These Other Sectors for Protection.",
       "source": "Yahoo",
-      "publishedAt": "2026-10-14",
-      "url": "https://finnhub.io/api/news?id=e23910ee61c703fdc038368355e98c300d13cad65db3e938aa05a7db0f699574",
+      "publishedAt": "2026-10-15",
+      "url": "https://finnhub.io/api/news?id=1acfb8f181fa92d06970adec64ca819ba0b9d8103d77fe0fefad6234be53ccb8",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142887390",
-      "title": "Reese Witherspoon Buys Back Production Firm With Mediawan",
+      "id": "AAPL-142921306",
+      "title": "These 2 Stocks Have Run Circles Around the Magnificent Seven This Year, and Wall Street Says There Is More Upside Ahead",
       "source": "Yahoo",
-      "publishedAt": "2026-10-14",
-      "url": "https://finnhub.io/api/news?id=6857b9706ce035c2f5a9a2aec152cc0c80734b636ec1e51e38f6fcfb36811a6d",
+      "publishedAt": "2026-10-15",
+      "url": "https://finnhub.io/api/news?id=423a910da1e18e0cf9ae9a1bda7a373012ba8db302e228d6a9de79a43f79a63b",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142887388",
-      "title": "OpenAI Employee Allegedly Took Secret AI Device Files to Apple, Presented it to Top Executives.",
-      "source": "Yahoo",
-      "publishedAt": "2026-10-14",
-      "url": "https://finnhub.io/api/news?id=252335dc37040956d687a3d63f615a7fa10bb89532c0075e58f641cd35267f21",
+      "id": "AAPL-142921152",
+      "title": "Discover which dow jones stocks are making waves on Thursday.",
+      "source": "ChartMill",
+      "publishedAt": "2026-10-15",
+      "url": "https://finnhub.io/api/news?id=545db4733871e90a22820d700146d007479454afeb887e72faa3fb5e27048e68",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142887391",
-      "title": "A $1,000 Investment in This AI Stock Became $22,715. The Real Story Is the Last 12 Months",
+      "id": "AAPL-142922215",
+      "title": "What Apple’s hand-embroidered product launch reveals about advertising in the age of AI slop",
       "source": "Yahoo",
-      "publishedAt": "2026-10-14",
-      "url": "https://finnhub.io/api/news?id=5c9707e52a8a7efc8b7d5124cd8a97326abb391e062ce708fe60b07486f74eba",
+      "publishedAt": "2026-10-15",
+      "url": "https://finnhub.io/api/news?id=0c7c136c9b0ae4cb461f39617f3ae1de4d35f65c16f876174f8afec41d1080da",
       "tags": [
         "AAPL"
       ]

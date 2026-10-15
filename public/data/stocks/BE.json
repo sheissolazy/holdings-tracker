@@ -3,21 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 239.34,
-  "change5dPct": -17.8,
-  "changeYtdPct": 11.9,
-  "marketCap": "$75.4B",
-  "pe": 314.4,
+  "price": 236.3,
+  "change5dPct": -13.4,
+  "changeYtdPct": 12.5,
+  "marketCap": "$65.5B",
+  "pe": 288.0,
   "revenue": "—",
   "revenueYoYPct": 91,
   "prices": [
-    {
-      "t": "2026-04-15",
-      "o": 218.99,
-      "h": 229.55,
-      "l": 211.16,
-      "c": 213.84
-    },
     {
       "t": "2026-04-16",
       "o": 213.5,
@@ -899,132 +892,139 @@
       "h": 258.52,
       "l": 235.7,
       "c": 239.34
+    },
+    {
+      "t": "2026-10-15",
+      "o": 224.28,
+      "h": 239.85,
+      "l": 215.12,
+      "c": 236.3
     }
   ],
   "thesis": {
     "bull": [
-      "AI数据中心用电需求快速增长,电网接入排队周期拉长,Bloom的固体氧化物燃料电池可实现现场快速部署发电,公司与Oracle、美国电力公司（AEP）等大型客户签署供货协议,被视为算力缺电主题的核心受益标的之一",
-      "公司产品毛利率与整体盈利能力持续改善,规模效应逐步显现,管理层对未来订单与产能爬坡保持乐观展望",
-      "公开披露显示有国会议员（Pelosi）于2026年7月下旬两次新建BE多头仓位,显示政治人物及部分市场参与者对该主题的新增关注"
+      "公司被视为AI数据中心电力紧缺的直接受益者，氧化物燃料电池可快速部署、绕开电网排队问题，Oracle等大型云厂商的订单被媒体视为需求验证信号",
+      "国会议员佩洛西在2026年7月连续两次新增买入BE股票并被跟踪者标记为看涨信号，显示部分精明资金仍在逢低介入",
+      "公司即将公布财报，市场预期营收与盈利保持增长，若订单积压(backlog)和毛利率继续改善，可能缓解近期估值过高的质疑"
     ],
     "bear": [
-      "股价过去一段时间累计涨幅巨大,当前估值隐含较高的持续增长预期,一旦AI资本支出或数据中心用电需求增速放缓,存在较大回调风险",
-      "近期出现AI基础设施相关股票集体回落的报道,叠加通胀数据走高、市场重新押注本月可能加息,高beta高估值成长股情绪面承压,BE容易被联动抛售",
-      "公司历史上存在现金消耗与复杂合同结构（如经营租赁、服务协议）问题,长期自由现金流能否持续转正及盈利质量仍有待进一步验证"
+      "近期出现「AI电力交易退潮」的报道，BE与Generac、Caterpillar等受益于AI用电叙事的股票同步回调，说明股价对AI资本开支情绪高度敏感，存在叙事降温风险",
+      "有分析质疑BE相对同业估值是否偏高，即便收到Oracle的利好消息股价仍下跌，反映市场可能已提前消化乐观预期，追高风险上升",
+      "宏观面偏空：通胀数据偏热推升利率担忧，债券市场被部分评论视为AI交易的「最大挑战」，若利率维持高位，资本密集型的燃料电池扩产项目融资成本将上升"
     ],
     "watch": [
-      "跟踪与Oracle、AEP等大客户的新增订单、合作扩展及产能爬坡进度公告",
-      "跟踪美联储利率路径与通胀数据走势,利率预期变化对高增长、高估值成长股估值的影响",
-      "跟踪国会议员等公开披露者后续是否持续加仓或减仓BE,作为市场情绪的辅助观察信号,但不构成投资建议依据"
+      "即将发布的季度财报及管理层对订单积压、产能爬坡和毛利率趋势的指引，是检验AI电力叙事能否兑现的关键节点",
+      "AI算力资本开支整体情绪变化，包括英伟达链条股票波动及「AI抛售」相关报道是否持续，将影响BE估值倍数的外部环境",
+      "与Oracle等大客户后续是否有追加订单或项目细节披露，以及Generac、Caterpillar等同类「AI电力受益股」的联动走势"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy是美国固体氧化物燃料电池技术提供商,核心产品为模块化Energy Server发电系统,可使用天然气、氢气等多种燃料实现现场发电,主要应用于数据中心、工业设施等场景。近年来公司受益于AI驱动的数据中心用电需求激增,市场关注度显著提升"
+        "body": "Bloom Energy是一家从事固体氧化物燃料电池(SOFC)技术的能源公司，主要产品为可现场部署的发电设备，近年来因数据中心和AI算力集群对电力的迫切需求，被市场重新定位为「AI电力」受益标的之一。公司产品的核心卖点是部署速度快于传统电网扩容或新建燃气电厂，能够绕开区域电网并网排队的瓶颈。"
       },
       {
-        "heading": "业务与增长驱动",
-        "body": "公司与Oracle、美国电力公司（AEP）等大型客户签署供货与合作协议,聚焦在电网扩容滞后背景下为数据中心提供可快速部署的现场发电解决方案。近期多篇报道提及数据中心电力缺口题材受资金追捧,Bloom被视为该主题中的核心标的之一"
+        "heading": "业务与技术",
+        "body": "公司业务围绕燃料电池系统的销售、租赁与长期服务合同展开，客户涵盖工业企业、数据中心运营商及公用事业公司。近期新闻提到Oracle与Bloom Energy存在合作关系，被解读为云计算巨头在电力获取上寻求非传统电网方案的信号，但具体合同规模与落地时间表仍需财报或官方披露进一步确认。"
       },
       {
-        "heading": "财务与估值",
-        "body": "近期财报显示公司收入与毛利率有所改善,市场预期其盈利能力将逐步增强,但股价累计涨幅较大,当前估值隐含偏高的未来增长预期,对基本面不及预期或宏观利率上行较为敏感"
+        "heading": "财务状况",
+        "body": "市场预期BE即将发布的季度财报将显示盈利同比增长，反映公司产能扩张与订单交付节奏正在改善。不过作为资本密集型制造业务，公司的毛利率、现金流和资产负债表杠杆水平是判断其能否独立消化AI电力需求放量的关键指标，目前公开报道未给出具体数字，需结合正式财报数据验证。"
       },
       {
-        "heading": "多空分歧",
-        "body": "多头观点认为AI算力扩张带来的电力缺口是结构性、多年期的趋势,Bloom在技术路径与大客户关系上具备先发优势；空头观点则认为当前估值已过度透支未来增长,且近期AI相关股票集体回落、通胀走高推升加息预期的宏观环境可能持续压制高beta成长股表现"
+        "heading": "估值分析",
+        "body": "有媒体直接提出「Bloom Energy估值相对同业是否合理」的疑问，而公司在收到Oracle相关利好消息后股价仍出现下跌，显示当前股价可能已包含较高的AI电力增长预期。与Generac、Caterpillar等同步回调的现象表明，BE的估值很大程度上绑定于市场对「AI电力」这一主题叙事的情绪波动，而非仅由自身基本面驱动。"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "公开披露记录显示,有国会议员（Pelosi）于2026年7月下旬两次新建BE多头仓位,披露日期为2026年8月21日,显示部分政治人物对该主题存在新增关注。需注意此类披露通常存在滞后性,且不构成投资建议,仅可作为市场情绪观察的辅助参考"
+        "heading": "政策与宏观环境",
+        "body": "近期宏观新闻偏空：通胀数据高于预期加剧了市场对利率维持高位的担忧，债券市场被部分评论视为AI交易面临的最大风险来源之一。对于BE这类依赖长期资本开支和项目融资的公司，利率环境的变化会直接影响其项目经济性和估值倍数，需持续关注美联储政策路径及长端利率走势。"
       },
       {
-        "heading": "风险提示",
-        "body": "需持续关注AI资本支出周期是否出现降温迹象、美联储加息路径及其对高估值成长股的压制、天然气与氢气等燃料成本及供应链稳定性、对Oracle等少数大客户的依赖程度,以及储能、传统发电设备等替代技术的竞争压力"
+        "heading": "风险与催化剂",
+        "body": "多空分歧集中在：看多方认为AI数据中心电力紧缺是结构性、长期的趋势，Bloom Energy具备先发部署优势，且有国会议员等外部资金逢低买入作为佐证；看空方则担忧「AI电力交易退潮」及加息预期可能导致主题性溢价快速收窄，叠加估值已偏高，即使有Oracle利好仍未能支撑股价。即将公布的财报与AI资本开支整体情绪将是短期内最重要的催化剂。"
       }
     ],
     "comparables": [
       {
-        "ticker": "PLUG",
-        "name": "Plug Power",
-        "note": "氢能与燃料电池领域同业,同样受益于清洁能源与现场发电题材,但财务状况与盈利路径分化明显"
+        "ticker": "GNRC",
+        "name": "Generac Holdings",
+        "note": "同为被市场归类为AI电力受益股，近期与BE同步出现约3%的回调，反映两者股价对AI电力主题情绪的联动性较高"
       },
       {
-        "ticker": "FCEL",
-        "name": "FuelCell Energy",
-        "note": "固体氧化物与熔融碳酸盐燃料电池技术同业,规模相对较小,商业化进度与客户集中度是关键差异点"
+        "ticker": "CAT",
+        "name": "Caterpillar",
+        "note": "因提供发电机组等设备同样被纳入AI电力叙事，近期报道显示其股价与BE同日出现下滑，可作为传统重工装备商在该主题下的参照"
+      },
+      {
+        "ticker": "PLUG",
+        "name": "Plug Power",
+        "note": "另一家氢燃料电池公司，与Bloom Energy同属清洁能源发电技术路线，但财务状况与商业化进度不同，可用于比较燃料电池赛道内部的分化"
       },
       {
         "ticker": "VRT",
-        "name": "Vertiv",
-        "note": "数据中心配套基础设施与电力管理供应商,同处AI数据中心供电产业链,但业务模式偏向设备与服务而非发电本身"
-      },
-      {
-        "ticker": "GEV",
-        "name": "GE Vernova",
-        "note": "传统电力设备与燃气轮机龙头,是数据中心大规模供电需求的另一主要受益及竞争路径,与Bloom在现场发电市场形成部分替代关系"
+        "name": "Vertiv Holdings",
+        "note": "专注数据中心电力与散热基础设施，与Bloom Energy同受AI数据中心资本开支驱动，但业务模式更偏配套设备而非发电本身"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-14T23:48:54.783183Z"
+    "generatedAt": "2026-10-15T23:37:00.866446Z"
   },
   "news": [
     {
-      "id": "BE-142888531",
-      "title": "Stock Market Today, Oct. 14: Plug Power Falls on Analyst Target Cuts and Concerns Over Rising Interest Rates",
+      "id": "BE-142922325",
+      "title": "Is Bloom Energy Stock Priced Right Against Its Peers?",
       "source": "Yahoo",
-      "publishedAt": "2026-10-14",
-      "url": "https://finnhub.io/api/news?id=ed61a3aa1d89464b67a3f614bdf4220244103bad2e0c4081e3f4c86bef874c37",
+      "publishedAt": "2026-10-15",
+      "url": "https://finnhub.io/api/news?id=ffdbfdc483a45476bfca0690eb1318b719635be0908fd4efcaabceb325126177",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142888460",
-      "title": "What Are Bloom Energy Investors Betting On?",
+      "id": "BE-142920409",
+      "title": "Bloom Energy Retreats 4% as AI Power Trade Unwinds; Caterpillar Slides 3%, Generac Slips",
       "source": "Yahoo",
-      "publishedAt": "2026-10-14",
-      "url": "https://finnhub.io/api/news?id=94e80542a5a61c0d9800e46a17cdbc5171fcb113e028bf1ec345c01ffa5c335e",
+      "publishedAt": "2026-10-15",
+      "url": "https://finnhub.io/api/news?id=b583541c4ceae0523240a5b03ef102ce69aeecf07a6751357bb92d7cc6dc0c74",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-142887222",
-      "title": "Top S&P500 movers in Wednesday's session",
+      "id": "BE-142921333",
+      "title": "CoreWeave, International Paper, Dell, FMC, Bloom Energy, Rocket Lab, and More Stocks That Explain Today’s Market",
+      "source": "Yahoo",
+      "publishedAt": "2026-10-15",
+      "url": "https://finnhub.io/api/news?id=9a4469d4ebbd49905fa089eaa777fa273303692dee565fb036ca7651edcb4e7f",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-142919462",
+      "title": "Bloom Energy (BE) Reports Next Week: Wall Street Expects Earnings Growth",
+      "source": "Yahoo",
+      "publishedAt": "2026-10-15",
+      "url": "https://finnhub.io/api/news?id=71bc35ddef44a7c4bc36e3053fd4c50373673539eb8e3098415884a791263b5e",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-142916437",
+      "title": "Bloom Energy Got Good News From Oracle and Fell Anyway. Is It Time to Buy?",
+      "source": "Yahoo",
+      "publishedAt": "2026-10-15",
+      "url": "https://finnhub.io/api/news?id=314d1f1f2882bd533812625ed3e61d7abad82a4cc086c72b8f89b0804acfd6ea",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-142914169",
+      "title": "These S&P500 stocks that are showing activity before the opening bell on Thursday.",
       "source": "ChartMill",
-      "publishedAt": "2026-10-14",
-      "url": "https://finnhub.io/api/news?id=0b7c292179b56ca652306005b9567d0a0523eab678139849606472987ea2e20f",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-142885916",
-      "title": "Exploring the top movers within the S&P500 index during today's session.",
-      "source": "ChartMill",
-      "publishedAt": "2026-10-14",
-      "url": "https://finnhub.io/api/news?id=b622cb959cbffaf6a3f606c989db14bb104d90fd68454f6db70586c3daa7cf5d",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-142887492",
-      "title": "Oracle executive walks back El Paso Electric proposal after county pushback: Report",
-      "source": "Yahoo",
-      "publishedAt": "2026-10-14",
-      "url": "https://finnhub.io/api/news?id=5306e1f155d6d0baa8bc71028c2b05edd10b7fe2b7c209c85222ee6bbd3a376d",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-142885084",
-      "title": "Is Bloom Energy Stock a Millionaire Maker?",
-      "source": "Yahoo",
-      "publishedAt": "2026-10-14",
-      "url": "https://finnhub.io/api/news?id=200d9585260c062f48c94d8d2be8ee7e8ae8491814dd7275a5d28b6069692dc6",
+      "publishedAt": "2026-10-15",
+      "url": "https://finnhub.io/api/news?id=45e466476d944aaa59304ce5e17b91f9de13abdc33bda39579f837d9a3c671e3",
       "tags": [
         "BE"
       ]
