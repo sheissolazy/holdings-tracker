@@ -1,38 +1,26 @@
 [
   {
+    "ticker": "TCXB",
+    "name": "TCGX Acquisition Corp. II",
+    "date": "2026-10-16",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Capital",
+    "status": "expected"
+  },
+  {
     "ticker": "CTY",
     "name": "CITY THERAPEUTICS, INC.",
     "date": "2026-10-16",
     "priceRange": [
-      17.0,
-      19.0
+      18.0,
+      18.0
     ],
     "sector": "—",
     "exchange": "NASDAQ Global",
-    "status": "expected"
-  },
-  {
-    "ticker": "IAM",
-    "name": "Iambic Therapeutics, Inc.",
-    "date": "2026-10-15",
-    "priceRange": [
-      16.0,
-      16.0
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Global Select",
-    "status": "expected"
-  },
-  {
-    "ticker": "AMRO",
-    "name": "Amaero Inc.",
-    "date": "2026-10-15",
-    "priceRange": [
-      4.25,
-      4.25
-    ],
-    "sector": "—",
-    "exchange": "NASDAQ Capital",
     "status": "expected"
   }
 ]
