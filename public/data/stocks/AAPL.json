@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 343.46,
-  "change5dPct": 2.0,
-  "changeYtdPct": 27.1,
-  "marketCap": "$5.01T",
+  "price": 342.94,
+  "change5dPct": 1.9,
+  "changeYtdPct": 25.6,
+  "marketCap": "$5.00T",
   "pe": 38.8,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-04-17",
-      "o": 266.96,
-      "h": 272.3,
-      "l": 266.72,
-      "c": 270.23
-    },
     {
       "t": "2026-04-20",
       "o": 270.33,
@@ -895,7 +888,7 @@
     },
     {
       "t": "2026-10-16",
-      "o": 346.08,
+      "o": 346.09,
       "h": 347.82,
       "l": 340.46,
       "c": 343.46
@@ -903,123 +896,123 @@
   ],
   "thesis": {
     "bull": [
-      "iPhone Duo预售火爆，积压订单已排至2027年，显示新品需求和产品创新获得市场认可",
-      "2026年以来苹果在「七巨头」中涨幅居首，表现超过英伟达、特斯拉和亚马逊，资金有向苹果集中的迹象",
-      "英伟达CEO黄仁勋公开表态看好苹果AI布局，带动市场对苹果端侧AI应用前景的乐观预期"
+      "10月28日「Pro and Tell」发布会预期推出首款触控屏MacBook Pro，若获市场认可有望打开高端笔记本新增量，提振产品周期叙事",
+      "英伟达CEO黄仁勋公开看好苹果AI布局，相关言论带动AI概念股包括苹果在内出现反弹情绪，显示产业链对苹果AI硬件前景仍有期待",
+      "公司被曝正在开发更高端的HomeView产品线，显示苹果持续向智能家居等新品类扩张，产品矩阵多元化有助分散对iPhone的依赖"
     ],
     "bear": [
-      "多篇报道质疑Duo的热度能否真正抵消iPhone 18常规机型需求偏软的问题，爆款可能集中在少数型号",
-      "近期科技股及半导体板块整体回调，AI泡沫担忧、信用市场收紧预期以及美股恐慌指数走高，压制高估值成长股情绪",
-      "跟踪者历史动向显示佩洛西在2024年底至2025年多次减持苹果仓位，2025年12月交易记录中新增买入与减持同时出现，信号并不一致，部分知情资金态度趋于谨慎"
+      "知名跟踪者佩洛西在2025年12月30日及12月24日的多笔交易中出现减持（exit/trim）动作，叠加2025年10月及2024年12月此前多次减持记录，呈现持续性减仓而非单次获利了结",
+      "近期科技股整体遭遇抛售，Gartner分析师指出AI相关回报尚不足以支撑「新云」基建投入，市场对AI资本开支效率的质疑可能波及苹果的AI相关估值溢价",
+      "宏观与地缘政治不确定性（中美俄三方会晤传闻、中东局势紧张等）持续扰动风险资产情绪，大盘科技股包括苹果在内对宏观消息敏感度上升"
     ],
     "watch": [
-      "关注Duo预订积压订单的实际交付节奏及产能爬坡情况，能否顺利转化为下一财季营收和毛利表现",
-      "关注通胀数据（9月CPI同比3.7%）及美联储政策路径演变，利率与流动性环境变化对苹果等高估值成长股估值倍数的影响",
-      "关注AI相关信用与债务市场的动荡（如CoreWeave等公司债务问题）是否外溢至科技硬件供应链及整体风险偏好，进而影响苹果估值"
+      "10月28日发布会的实际产品发布细节及市场反应，尤其是触控屏MacBook Pro的定价与功能是否符合预期",
+      "佩洛西同一份披露文件中出现「新建仓（new/long）」与「减持（exit/trim）」并存的矛盾信号，需关注后续披露以判断其真实仓位方向",
+      "本周及后续科技巨头财报季（含Meta、Netflix等同期公布）对AI支出与需求的表态，可能影响市场对苹果AI硬件需求的预期修正"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值领先的消费电子与科技公司，核心业务涵盖iPhone、Mac、iPad、可穿戴设备以及服务业务（App Store、云服务、订阅等）。公司近期因新品iPhone Duo的预订表现成为市场关注焦点，并在2026年以来的「七巨头」股价表现中暂时领先。"
+        "body": "苹果（AAPL）是全球市值最高的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品及服务业务。公司正处在新一轮产品周期与AI功能整合的关键节点，市场对其能否通过新品类（如传闻中的HomeView）及AI功能提振增长保持关注。"
       },
       {
-        "heading": "近期动态",
-        "body": "市场报道显示iPhone Duo预订火爆，积压订单已排至2027年，推动股价在10月中旬小幅上涨。与此同时，也有评论指出需要观察Duo的热度是否只是局部爆款，而iPhone 18其他机型需求可能偏软，二者之间存在分歧。另外，英伟达CEO黄仁勋在公开场合表达了对苹果AI方向的看好，一定程度上带动了市场对苹果AI叙事的关注。"
+        "heading": "产品与事件动态",
+        "body": "公司预计于2026年10月28日举行名为「Pro and Tell」的发布会，市场预期将推出首款触控屏MacBook Pro，这将是苹果笔记本产品线的重大交互方式革新。同时有报道称苹果已在开发更高端的HomeView产品，显示其在智能家居领域的布局正在加深，产品矩阵呈现多元化扩张趋势。"
       },
       {
-        "heading": "增长驱动与机会",
-        "body": "短期增长驱动主要来自新品周期，尤其是Duo类新形态产品带来的换机需求和产品差异化卖点。中长期看，服务业务的稳定性、生态粘性以及潜在的端侧AI功能迭代被部分投资者视为估值支撑点。苹果在2026年「七巨头」中相对强势的表现也反映出资金在AI硬件周期波动中对其现金流稳定性的偏好。"
+        "heading": "AI布局与行业竞争",
+        "body": "英伟达CEO黄仁勋近期公开言论被市场解读为对苹果AI前景的看好，带动包括苹果在内的AI相关股票出现买盘情绪。但同期也有分析师（如Gartner）警示AI相关资本开支的投资回报尚未充分显现，市场对「AI叙事」能否持续支撑科技股估值存在分歧，这一分歧同样适用于评估苹果自身AI功能的商业化节奏。"
       },
       {
-        "heading": "风险与挑战",
-        "body": "主要风险包括：一是新品热度的持续性和广度存疑，若Duo热销未能覆盖整体iPhone系列，可能对后续季度收入预期形成压力；二是宏观环境层面，通胀回升、利率路径不确定以及AI相关信用市场的波动，可能通过估值压缩渠道影响高倍数科技股；三是行业层面AI硬件链条（芯片、算力相关公司）近期普遍承压，情绪面存在负反馈的可能性。"
+        "heading": "跟踪者资金动向解读",
+        "body": "公开披露显示，知名政治人物佩洛西在2025年末（12月30日、12月24日）及此前（2025年10月22日、2024年12月31日）的多笔交易记录中，呈现以减持（exit/trim）为主的动作模式，但最新一份披露文件（2026年1月23日披露）中同时出现一笔标记为「新建仓/看多」的记录。两类标记在同一文件中并存，反映出披露细节的复杂性，也说明不应简单依据单一信号判断整体仓位方向，需结合后续披露持续跟踪。"
       },
       {
-        "heading": "估值与市场定位",
-        "body": "苹果作为「七巨头」中相对防御性的标的，在近期AI相关股票普遍回调的背景下表现出一定的抗跌性和相对收益。但其估值仍需新品销售和服务收入增长的持续验证支撑，市场对其AI叙事的定价存在预期差，具体取决于后续产品和财报数据的兑现情况。"
+        "heading": "宏观与市场环境",
+        "body": "近期大盘科技股经历一轮抛售后出现反弹，但多方评论（如「AI抛售本质是融资问题」「反弹不值得庆祝」等标题）显示市场对反弹的持续性仍存疑虑。与此同时，中东局势、俄乌及中美俄三方会晤传闻等地缘政治因素，以及债券与大宗商品市场的异常相关性，都为风险资产整体情绪增添不确定性，苹果作为权重科技股难以独立于大盘波动之外。"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "公开披露的交易记录显示，相关人员对苹果的持仓操作在不同时间点呈现减持为主的趋势（2024年底至2025年多次交易记录为减持），但2025年12月底的最新披露中同时出现新增买入和减持记录，信号并不完全一致，难以简单解读为单一方向的信心表达，需结合后续披露持续观察。"
+        "heading": "风险提示与关注点",
+        "body": "投资者应关注即将召开的产品发布会细节、AI相关资本开支效率的后续数据验证，以及知名跟踪者披露信息的后续更新。同时，宏观地缘政治事件、科技板块整体估值波动及财报季同业表态，均可能对苹果股价构成扰动，相关信息存在多空分歧，不构成买卖建议。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
         "name": "微软",
-        "note": "同属「七巨头」，业务结构更偏向云计算与企业软件及AI基础设施投入，与苹果消费电子为主的收入结构形成对比"
-      },
-      {
-        "ticker": "TSM",
-        "name": "台积电",
-        "note": "作为苹果芯片代工核心供应商，其业绩与资本开支指引是观察苹果产品供应链状况的重要参照，尽管近期利润创纪录但股价仍受AI硬件板块情绪拖累"
+        "note": "同为超大市值科技公司，AI与云服务布局是市场比较重点，其资本开支效率同样受市场关注"
       },
       {
         "ticker": "GOOGL",
-        "name": "Alphabet（谷歌母公司）",
-        "note": "同为「七巨头」成员，在AI模型与应用布局上与苹果形成竞争和对照，是市场比较AI叙事兑现节奏的常见参考对象"
+        "name": "谷歌母公司Alphabet",
+        "note": "在AI模型与硬件生态上与苹果存在竞合关系，财报季表态常被用作行业风向参考"
+      },
+      {
+        "ticker": "AMZN",
+        "name": "亚马逊",
+        "note": "同为权重科技股，云计算与AI基建投入节奏可作为判断「AI资本开支回报」争议的参照"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-16T23:22:33.923510Z"
+    "generatedAt": "2026-10-20T00:12:08.249564Z"
   },
   "news": [
     {
-      "id": "AAPL-142950783",
-      "title": "Stock Market Today, Oct. 16: Apple Edges Higher on iPhone Duo Preorder Surge",
+      "id": "AAPL-143010415",
+      "title": "Sector Update: Tech Stocks Rise Late Afternoon",
       "source": "Yahoo",
-      "publishedAt": "2026-10-16",
-      "url": "https://finnhub.io/api/news?id=8760fa2b760ec495891c243172b61d8880f629c24c105b7efeb44c945884b3b7",
+      "publishedAt": "2026-10-19",
+      "url": "https://finnhub.io/api/news?id=3de7006c404a02abe84ed0a390bbfeb500e86b524026545c03a4ca76a719f421",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142950013",
-      "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+      "id": "AAPL-143010406",
+      "title": "This High-Yielding Dividend Stock Has Soared Past the \"Magnificent Seven\" in 2026",
       "source": "Yahoo",
-      "publishedAt": "2026-10-16",
-      "url": "https://finnhub.io/api/news?id=1229d4787c40b7b8f11a55216fdc1bf6ac0d2db8b66023404a67249f422305a0",
+      "publishedAt": "2026-10-19",
+      "url": "https://finnhub.io/api/news?id=9c0b7d5f7a42a4079aea07e4a9ffd3aa84ed9ab9a9d726a383b08cb6eec22c99",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142950006",
-      "title": "Can Apple's Duo hype offset soft iPhone 18 demand?",
+      "id": "AAPL-143010419",
+      "title": "Want to live off dividends in retirement? Here’s how much you’d need to invest — and 5 strategies to generate income",
       "source": "Yahoo",
-      "publishedAt": "2026-10-16",
-      "url": "https://finnhub.io/api/news?id=b4c5f229f006c0df5387b67c3da6c8cfdbf80359c9a1dd7ecdd2a8172420a8a1",
+      "publishedAt": "2026-10-19",
+      "url": "https://finnhub.io/api/news?id=f3053df93a24267af425acc0ce965f38bf52dd19434dea4410adcebb468aa3ff",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142950007",
-      "title": "9 Dow Jones Stocks Make Bullish Moves In A Defensive Market Rotation",
+      "id": "AAPL-143010416",
+      "title": "Apple Already Developing Higher-End HomeView",
       "source": "Yahoo",
-      "publishedAt": "2026-10-16",
-      "url": "https://finnhub.io/api/news?id=af9cc9e28f3a10ea2145e9aa2ce346b5f10ea949ca6edd0654727a5baaf6a007",
+      "publishedAt": "2026-10-19",
+      "url": "https://finnhub.io/api/news?id=93151bbdd963709760dcf63b5152a707492015e6ccdcd16e1902beb224c069a4",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142950008",
-      "title": "iPhone Duo already backordered until 2027 as pre-order sales soar",
+      "id": "AAPL-143010420",
+      "title": "Mag 7 Pull Dow Back to Breakeven Line",
       "source": "Yahoo",
-      "publishedAt": "2026-10-16",
-      "url": "https://finnhub.io/api/news?id=16603b60e699bd57c649c912acc2158f422bfb4534474401ad98179157cdc37b",
+      "publishedAt": "2026-10-19",
+      "url": "https://finnhub.io/api/news?id=4b3795852bcfc5e18255fceff8619cb04cde136310b2dd1219a6d93cc477c373",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-142949982",
-      "title": "Apple is Now the Top-Performing Magnificent 7 Stock in 2026. Here’s why it’s Beating NVIDIA, Tesla, and Amazon",
+      "id": "AAPL-143009450",
+      "title": "Apple Confirms October 28 ‘Pro And Tell’ Event — First Touchscreen MacBook Pro Expected",
       "source": "Yahoo",
-      "publishedAt": "2026-10-16",
-      "url": "https://finnhub.io/api/news?id=f831231eaab13eb8aeb433db1cbbdbf1fe067161173a318013a30dfc63d8ee53",
+      "publishedAt": "2026-10-19",
+      "url": "https://finnhub.io/api/news?id=522773942a919b923a94eb66756e848a851f89569c35a3e3afdb53e4bc65736e",
       "tags": [
         "AAPL"
       ]
