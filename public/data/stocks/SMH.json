@@ -3,21 +3,14 @@
   "name": "VanEck Semiconductor ETF",
   "exchange": "NASDAQ",
   "sector": "半导体 ETF",
-  "price": 556.7,
-  "change5dPct": -1.4,
-  "changeYtdPct": 16.8,
+  "price": 523.35,
+  "change5dPct": -6.4,
+  "changeYtdPct": 8.6,
   "marketCap": "—",
   "pe": null,
   "revenue": "—",
   "revenueYoYPct": null,
   "prices": [
-    {
-      "t": "2026-04-22",
-      "o": 471.05,
-      "h": 477.42,
-      "l": 467.17,
-      "c": 476.83
-    },
     {
       "t": "2026-04-23",
       "o": 480.4,
@@ -895,75 +888,60 @@
     },
     {
       "t": "2026-10-21",
-      "o": 556.48,
+      "o": 556.34,
       "h": 559.19,
       "l": 549.52,
       "c": 556.7
+    },
+    {
+      "t": "2026-10-22",
+      "o": 536.52,
+      "h": 540.86,
+      "l": 520.53,
+      "c": 523.35
     }
   ],
   "thesis": {
-    "bull": [
-      "AI基础设施资本支出持续扩张，云厂商与超大规模数据中心运营商在GPU、网络芯片和存储方面的投入尚未见顶，SMH前十大持仓集中于英伟达、博通、台积电等核心受益标的",
-      "半导体行业周期性库存调整基本结束，部分细分领域如存储芯片价格回暖，叠加AI驱动的高性能计算需求，为板块盈利提供支撑",
-      "SpaceX等新兴算力需求与非Mag7资本开支（如Marvell、博通定制芯片业务）显示AI硬件需求正在从单一巨头扩散到更广泛的供应链，利好ETF分散持仓的结构"
-    ],
-    "bear": [
-      "市场对AI支出可持续性的质疑升温，部分知名投资人公开称AI存在泡沫风险，一旦云厂商资本开支指引转弱，半导体股估值回调风险较大",
-      "SMH近一年表现落后于同类基金（如Invesco旗下芯片基金），反映其持仓结构（对英伟达、台积电等头部权重过高）在板块轮动中可能跑输更均衡的竞品",
-      "地缘政治与贸易风险持续存在，包括对伊朗相关实体的制裁、中东局势紧张等宏观不确定性，可能通过供应链成本、出口管制等渠道影响半导体公司业绩"
-    ],
-    "watch": [
-      "关注英伟达、台积电、博通等权重股的季度业绩与前瞻指引，尤其是数据中心与AI加速器业务的订单可见度",
-      "关注美联储利率路径与十年期美债收益率变化，半导体为高估值成长板块，对利率敏感度较高",
-      "关注AI资本开支领先指标，如主要云厂商资本支出指引、电力与冷却等配套基础设施投资进展，以及Marvell、Credo等细分龙头的业绩变化作为板块健康度的佐证"
-    ],
-    "sections": [
-      {
-        "heading": "公司概览",
-        "body": "SMH（VanEck半导体ETF）跟踪MVIS美国上市半导体25指数，持仓集中于全球半导体设计、制造及设备龙头，包括英伟达、台积电、博通、ASML、AMD等。该基金采用改良市值加权法，前十大持仓占比通常超过六成，因此基金表现高度依赖少数巨头的走势，是投资者获取AI与半导体产业链整体曝光的常用工具之一"
-      },
-      {
-        "heading": "行业与需求端",
-        "body": "当前半导体行业的核心驱动力是人工智能基础设施建设，云厂商、企业及新兴算力公司（如SpaceX相关生态）持续加大GPU、网络芯片、存储及先进制程产能投入。与此同时，传统消费电子（手机、PC）需求温和复苏，库存周期接近尾声，为板块整体盈利提供额外支撑。但市场对AI资本开支能否长期维持高增速存在分歧，部分资金管理人已公开表达谨慎甚至泡沫担忧"
-      },
-      {
-        "heading": "竞争格局",
-        "body": "SMH内部权重分布并非均衡，英伟达、台积电等巨头占比显著高于Marvell、博通等公司，使得基金表现容易被少数股票的波动主导。近期有报道指出同类芯片基金（如Invesco旗下产品）过去一年回报率跑赢SMH，提示持仓集中度和成分股选择差异正在导致同类ETF业绩分化，投资者需关注指数构建方法的差异"
-      },
-      {
-        "heading": "财务与估值",
-        "body": "半导体板块整体估值处于历史相对高位，主要受益于AI叙事下的盈利预期上修，但高估值也意味着对业绩不及预期或指引转弱的敏感度更高。由于SMH为被动指数基金，其估值水平直接反映成分股（尤其头部权重股）的市盈率与成长预期，缺乏主动管理对单一风险的缓冲"
-      },
-      {
-        "heading": "风险与催化因素",
-        "body": "主要风险包括：AI资本开支增速放缓或云厂商削减指引、地缘政治及出口管制升级（如对华半导体设备与先进芯片限制）、宏观利率上行压制成长股估值，以及电力和数据中心配套基础设施（如冷却、能源供应）瓶颈可能制约AI硬件部署节奏。潜在正面催化因素包括头部客户资本开支指引上修、新产品周期（如下一代AI加速器）放量以及非Mag7公司订单增长验证需求广度"
-      },
-      {
-        "heading": "多空分歧总结",
-        "body": "多头观点认为AI基础设施建设处于长周期早期阶段，半导体需求将持续扩张，且SMH提供了对该主题最直接的板块曝光；空头观点则担忧当前估值已过度反映乐观预期，一旦头部云厂商资本开支指引转弱或AI投资回报率受到质疑，板块可能面临剧烈回调，加之SMH持仓集中度higher的结构性缺陷，可能使其在下跌周期中跌幅更为显著。整体而言，SMH的走势与AI资本开支叙事高度绑定，是判断该主题是否持续的重要观察窗口之一"
-      }
-    ],
-    "comparables": [
-      {
-        "ticker": "SOXX",
-        "name": "iShares半导体ETF",
-        "note": "同类半导体行业ETF，持仓结构与权重分布与SMH存在差异，可作为业绩对比基准"
-      },
-      {
-        "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "SMH第一大权重股之一，AI加速器龙头，其业绩与指引对SMH表现影响显著"
-      },
-      {
-        "ticker": "AVGO",
-        "name": "博通",
-        "note": "SMH重要权重股，定制AI芯片与网络业务是AI基础设施需求广度的重要观察指标"
-      }
-    ],
-    "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-22T00:00:02.661472Z"
+    "bull": [],
+    "bear": [],
+    "watch": [],
+    "sections": [],
+    "comparables": [],
+    "model": "（分析暂不可用）",
+    "generatedAt": null,
+    "unavailable": true
   },
   "news": [
+    {
+      "id": "SMH-143078205",
+      "title": "ETF League Tables: Inflows Total $360M For VanEck",
+      "source": "Yahoo",
+      "publishedAt": "2026-10-21",
+      "url": "https://finnhub.io/api/news?id=5dd63948536ac045ab90cf5e8c3535c72691af45855c916845898d47ffd93b2a",
+      "tags": [
+        "SMH"
+      ]
+    },
+    {
+      "id": "SMH-143099646",
+      "title": "SpaceX Jumps 10%, Nasdaq 100 Rises as AI Trade Returns: Stock Market Today",
+      "source": "Benzinga",
+      "publishedAt": "2026-10-21",
+      "url": "https://finnhub.io/api/news?id=40a002bac31f89e89aeb12faf4369cb5c13b8e81859c5403ce5c45d49494b244",
+      "tags": [
+        "SMH"
+      ]
+    },
+    {
+      "id": "SMH-143100209",
+      "title": "The Earnings Twist In The AI Chip Bubble Debate",
+      "source": "Benzinga",
+      "publishedAt": "2026-10-21",
+      "url": "https://finnhub.io/api/news?id=f2146d26b98f5bb4bea71858125053238185930c814dd787b45739159b22da81",
+      "tags": [
+        "SMH"
+      ]
+    },
     {
       "id": "SMH-143069780",
       "title": "Semiconductor Stocks May Face An Explosive Move This Week",
@@ -990,36 +968,6 @@
       "source": "SeekingAlpha",
       "publishedAt": "2026-10-21",
       "url": "https://finnhub.io/api/news?id=9460a107e5487b6c483802ad6df76bca2132523fe7f6016fe3eb2af5f22be105",
-      "tags": [
-        "SMH"
-      ]
-    },
-    {
-      "id": "SMH-143061522",
-      "title": "Market's Uneven Response To Higher Rates",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-10-21",
-      "url": "https://finnhub.io/api/news?id=29fedab3c535668051edc1d298ef2c63f5cada64a294130d8bf61add146ca69e",
-      "tags": [
-        "SMH"
-      ]
-    },
-    {
-      "id": "SMH-143033415",
-      "title": "Forget SMH. Invesco’s Chip Fund Returned 67.69% Over the Past Year Against SMH’s 61.32%.",
-      "source": "Yahoo",
-      "publishedAt": "2026-10-20",
-      "url": "https://finnhub.io/api/news?id=6a975d87992a6a6e40def8da8ab8c3fbdf0b56ef8eaac6502e5af45b15bd521e",
-      "tags": [
-        "SMH"
-      ]
-    },
-    {
-      "id": "SMH-143067092",
-      "title": "Health Care Stocks Hit Record Highs, GM Drops Nearly 8%: Stock Market Today",
-      "source": "Benzinga",
-      "publishedAt": "2026-10-20",
-      "url": "https://finnhub.io/api/news?id=3482c1924b89e162572ba246e9d18ef4c7056d94d57c36f352953a973a66610a",
       "tags": [
         "SMH"
       ]
