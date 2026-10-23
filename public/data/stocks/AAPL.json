@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 348.22,
-  "change5dPct": 1.8,
-  "changeYtdPct": 27.4,
-  "marketCap": "$5.04T",
-  "pe": 39.0,
+  "price": 347.73,
+  "change5dPct": 1.2,
+  "changeYtdPct": 28.3,
+  "marketCap": "$5.08T",
+  "pe": 39.1,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-04-23",
-      "o": 275.05,
-      "h": 275.77,
-      "l": 271.65,
-      "c": 273.43
-    },
     {
       "t": "2026-04-24",
       "o": 272.76,
@@ -895,126 +888,138 @@
     },
     {
       "t": "2026-10-22",
-      "o": 344.93,
+      "o": 344.94,
       "h": 348.36,
       "l": 342.28,
       "c": 348.22
+    },
+    {
+      "t": "2026-10-23",
+      "o": 349.11,
+      "h": 351.73,
+      "l": 345.75,
+      "c": 347.73
     }
   ],
   "thesis": {
     "bull": [
-      "苹果据报道将11月2日发布的新款折叠屏iPhone（iPhone Duo）生产目标大幅上调约44%，显示其对新品类需求的信心强于此前市场预期",
-      "特朗普在社交媒体公开提及苹果承诺采购约1亿美元宾夕法尼亚州钛金属用于新iPhone，体现供应链本土化进展，可能在当前政策环境下获得额外关注与潜在支持",
-      "英伟达CEO黄仁勋对苹果AI前景的积极表态带动市场对苹果AI相关产品与服务线的期待，有望成为后续财报的叙事亮点"
+      "iPhone 17/新机型双机发布开启假期销售旺季，渠道铺货与换机周期可能支撑硬件营收",
+      "英伟达CEO黄仁勋近期公开表态对苹果AI前景看好，推动市场对苹果AI硬件生态（智能家居、端侧AI）重新定价",
+      "年内股价已上涨约28%，显示资金持续认可其现金流稳定性与品牌护城河，在成长股普遍承压的环境下具备防御属性"
     ],
     "bear": [
-      "美国众议院议员佩洛西在2025年10月至2026年1月期间的多份PTR披露显示其对苹果持仓以减持（trim/exit）为主，缺乏新增买入信号，反映部分知情资金对估值或前景趋于谨慎",
-      "苹果新款折叠屏iPhone被曝存在应用生态适配不足、部分应用加收高达2000美元级别费用等问题，可能拖累新品类早期口碑与采用速度",
-      "近期美股科技及AI芯片板块出现明显抛售（如Marvell、AMD、英特尔等跌幅显著），资金转向防御型板块，纳斯达克波动加剧，苹果作为权重股估值情绪可能被动承压"
+      "佩洛西家族在2025年12月底申报中出现减持（trim）记录，且过去多次申报均以退出性质为主，显示部分政治人物对持续加仓苹果转向谨慎",
+      "近期Meta等科技巨头AI资本开支引发市场对AI泡沫的担忧，纳斯达克连续下跌，若情绪外溢可能拖累苹果估值",
+      "10年期美债收益率波动、油价走高（WTI触及111美元附近）等宏观因素可能压制高估值成长股包括苹果的进一步上行空间"
+    ],
+    "watch": [
+      "关于苹果能否通过智能家居品类打开第二增长曲线（如报道『苹果是否会接管你的智能家居』）需持续跟踪产品发布与市场反馈",
+      "当前市场讨论『年内已涨28%，是获利了结还是继续持有』，反映多空分歧明显，后续财报与指引将是关键验证点",
+      "跟踪者（如佩洛西）申报中新建仓（new）与减持（trim）同时出现，需关注后续季度申报是否出现方向性转变"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值领先的消费电子与软件服务公司，核心产品包括iPhone、Mac、iPad、可穿戴设备及App Store、iCloud、Apple Music等服务业务。公司正通过即将发布的折叠屏新机型（市场称iPhone Duo）拓展产品矩阵，并持续加码AI功能整合，服务业务的收入占比与毛利率近年来持续提升，成为驱动整体盈利质量的重要变量"
+        "body": "苹果公司（AAPL）是全球市值最大的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品及App Store、iCloud、Apple Music等服务业务。公司近期处于新一代iPhone双机型发布周期，并被市场广泛讨论其在智能家居与端侧AI领域的潜在布局。"
       },
       {
-        "heading": "基本面与估值",
-        "body": "苹果的硬件业务具有较强的季节性，11月2日前后的新品发布与假期购物季销售数据将是检验业绩的关键窗口。市场对折叠屏新机的生产目标上调反映乐观预期，但历史上苹果新品类（如Vision Pro）的早期销售往往不及硬件产能规划，估值层面需关注预期与实际出货的落差风险"
+        "heading": "近期动态",
+        "body": "近期新闻聚焦于iPhone新品发布带来的『关键数周』窗口期，以及市场对苹果是否会通过智能家居产品线开辟新增长点的讨论。同时有报道引用英伟达CEO对苹果AI前景的正面评价，一定程度上带动市场对相关AI硬件股的买兴。"
       },
       {
-        "heading": "产业链与供应链",
-        "body": "特朗普提及的宾州钛金属采购案例显示苹果在关键材料本土化方面的布局，这既可能带来政策层面的正面关注，也反映出供应链成本结构可能因地缘政治及关税环境变化而调整。折叠屏机型涉及更复杂的铰链、屏幕及结构件供应链，良率与成本控制是观察重点"
+        "heading": "跟踪者动向解读",
+        "body": "公开披露显示，众议院前议长佩洛西家族在2025年12月30日的交易申报中同时出现『新建仓』与『减持』记录，而更早的2025年10月及2025年1月申报均为减持性质，整体呈现谨慎偏空的减仓倾向，但最新一笔『新建仓』记录又传递出一定程度的分歧信号，需结合后续季度申报进一步确认趋势方向。"
       },
       {
-        "heading": "政策与监管",
-        "body": "在当前中美贸易与关税环境下，苹果的供应链本土化举措（如钛金属采购）可能被解读为对美国制造政策的呼应，有助于降低潜在关税或监管摩擦风险。但同时，科技巨头的App Store生态定价、应用收费模式（如折叠屏新应用被曝高额收费）仍可能面临监管与舆论审视"
+        "heading": "宏观与行业背景",
+        "body": "当前宏观环境存在多重不确定性：市场对AI资本开支可持续性的担忧（如Meta财报引发的『AI泡沫』讨论）导致纳斯达克连续两日下跌；同时国际地缘局势（伊朗、古巴相关表态）及油价上行（WTI突破百美元关口附近）亦对风险资产情绪形成压制。半导体板块（如SOXL相关ETF）近期出现大幅回撤，反映科技硬件链条的波动性上升。"
       },
       {
-        "heading": "资金与持仓动向",
-        "body": "公开披露的国会议员交易记录显示，佩洛西在过去一年多次减持苹果仓位，2025年10月、12月及2026年1月的PTR均以退出（exit）为主，未见新增买入记录，这与部分市场对苹果估值已充分反映增长预期的担忧相印证，但国会议员交易动机多元，不宜单一解读为对基本面的直接判断"
+        "heading": "多空分歧",
+        "body": "多头观点认为，苹果凭借强大品牌力、稳定现金流及新品周期，在当前成长股普遍承压环境下具备相对防御性，且AI与智能家居故事提供新的估值支撑。空头观点则担忧：其一，年内已有明显涨幅（约28%），估值消化压力上升；其二，部分政治人物持仓动向显示谨慎情绪；其三，若AI资本开支泡沫担忧扩散，苹果作为高权重科技股难以完全独善其身。"
       },
       {
-        "heading": "风险与展望",
-        "body": "短期关键催化剂是11月2日新品发布会及随后的销售反馈，折叠屏机型能否顺利放量将直接影响市场对苹果新一轮产品周期的信心。同时需关注纳斯达克整体科技股及AI相关板块的轮动风险——近期AI芯片股抛售表明市场对高估值科技资产的容忍度有所下降，苹果虽非纯AI芯片标的，但作为权重股仍可能受大盘情绪波及。多空分歧核心在于：乐观者看重新品类放量与供应链本土化的政策红利，谨慎者则关注新应用生态定价问题及知情资金减持信号"
+        "heading": "关注要点",
+        "body": "投资者可重点关注：iPhone新机型发布后的实际销售与渠道反馈数据；智能家居及AI相关新产品线的落地进展；后续财报中服务业务与硬件毛利率的变化趋势；以及宏观流动性（美债收益率、油价）对高估值科技股整体情绪的传导效应。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
-        "name": "微软",
-        "note": "同为大型科技平台公司，AI与云服务布局更为激进，可作为AI叙事下资金偏好对比的参照"
-      },
-      {
-        "ticker": "005930.KS",
-        "name": "三星电子",
-        "note": "折叠屏手机领域的主要竞争对手，其长期市场表现可为苹果iPhone Duo的早期采用前景提供参考"
+        "name": "Microsoft Corporation",
+        "note": "同为大型科技龙头，受益于AI云服务叙事，可作为苹果在AI布局与估值对比的参照"
       },
       {
         "ticker": "GOOGL",
-        "name": "Alphabet",
-        "note": "同属消费科技与AI应用竞争格局中的重要参与者，可用于比较AI功能整合对硬件生态吸引力的影响"
+        "name": "Alphabet Inc.",
+        "note": "同样面临AI资本开支与终端生态整合的双重叙事，估值与情绪往往和苹果联动"
+      },
+      {
+        "ticker": "NVDA",
+        "name": "NVIDIA Corporation",
+        "note": "作为AI硬件核心供应商，其CEO对苹果AI前景的表态直接影响市场对苹果AI硬件化路径的预期"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-22T23:58:17.134836Z"
+    "generatedAt": "2026-10-23T23:49:55.622158Z"
   },
   "news": [
     {
-      "id": "AAPL-143104035",
-      "title": "Dow Jones Futures: Moderna Crashes, Meta Fuels AI Meltdown, But Warren Buffett Market Thriving",
+      "id": "AAPL-143136900",
+      "title": "Will Apple Take Over Your (Smart) Home?",
       "source": "Yahoo",
-      "publishedAt": "2026-10-22",
-      "url": "https://finnhub.io/api/news?id=f2043248724c6702d304287d04dbb5fe81c19e5c040b5136715db0bbddd5dc4f",
+      "publishedAt": "2026-10-23",
+      "url": "https://finnhub.io/api/news?id=e146adee7ed6f5dcffaccda44facbc11367a369e42aa36fbcdec298f9cc6f6e9",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143104036",
-      "title": "Meta Eyes an Early Equity Deal for Its AI War Chest—and Berkshire Could Be a Buyer",
+      "id": "AAPL-143136911",
+      "title": "Tesla Stock Lags Apple Because Of ‘Communications Problem,’ Says Investor Gary Black",
       "source": "Yahoo",
-      "publishedAt": "2026-10-22",
-      "url": "https://finnhub.io/api/news?id=03304755e1669e8fa539e66a0f637158ca3612fb620abed9e8de2eade97bf3b5",
+      "publishedAt": "2026-10-23",
+      "url": "https://finnhub.io/api/news?id=1a32ae511329471acda20b1207114e05fe001cf6483bfd786481844cbe82e4f7",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143104030",
-      "title": "Apple’s foldable iPhone has a $2,000 app problem",
+      "id": "AAPL-143136673",
+      "title": "DEPH Labs Appoints Lisa Loud as CEO to Accelerate Privacy-Centric Precision Health and Biological Age Testing",
       "source": "Yahoo",
-      "publishedAt": "2026-10-22",
-      "url": "https://finnhub.io/api/news?id=44f7e2c85ac670d2eca210b86d3ddd07a722d4b77e3c3685c25fb464e0f88e87",
+      "publishedAt": "2026-10-23",
+      "url": "https://finnhub.io/api/news?id=d144ce0342728dc74cf435d393f5cf78efd38b1d429af5f38dd095335a047035",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143104033",
-      "title": "Here Are 4 ETFs That Run an Entire Retirement Portfolio for Less Than $50 a Year on $100,000",
+      "id": "AAPL-143136909",
+      "title": "Top Stock Reports for Apple, Berkshire Hathaway & Goldman Sachs",
       "source": "Yahoo",
-      "publishedAt": "2026-10-22",
-      "url": "https://finnhub.io/api/news?id=33a11f53c903d790959d41305ae4a56d2d9e5ab2f42dbc2a3c537e65f6f42b91",
+      "publishedAt": "2026-10-23",
+      "url": "https://finnhub.io/api/news?id=545b3fc8aeb74968aa0ef0b69987b1cd4e7d014a0b4efcd8da0706b2f6ab895e",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143104031",
-      "title": "Apple Reportedly Raised Its iPhone Duo Target 44%. Here’s What November 2 Has to Show",
+      "id": "AAPL-143136906",
+      "title": "The iPhone Duo Launch Kicks Off a Crucial Few Weeks for Apple",
       "source": "Yahoo",
-      "publishedAt": "2026-10-22",
-      "url": "https://finnhub.io/api/news?id=4fe983b29a7fa808125e898fb5812a9bb07bb8e5b67c2d399786bc6e494da761",
+      "publishedAt": "2026-10-23",
+      "url": "https://finnhub.io/api/news?id=d785010198f95cde7609b110185876b490a53c6cc083289353e226aeb037f1b1",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143104034",
-      "title": "Resideo Announces Expected Q1 Software Update to Honeywell Home Smart Thermostats for Compatibility with Apple HomeView",
+      "id": "AAPL-143136674",
+      "title": "Apple Is Up 28% This Year: Take Profits, or Hold On for the Ride?",
       "source": "Yahoo",
-      "publishedAt": "2026-10-22",
-      "url": "https://finnhub.io/api/news?id=be95b1d3419bc390707345cd2c8deeea8eb9697cac24e777bac99b9d249291ce",
+      "publishedAt": "2026-10-23",
+      "url": "https://finnhub.io/api/news?id=f679afade98b1b481cd4eef606cf94d0bc9749abd42071bfae07349f3f1d5683",
       "tags": [
         "AAPL"
       ]

@@ -354,36 +354,90 @@
   {
     "personId": "trump",
     "type": "social",
-    "asOf": "2026-10-21",
+    "asOf": "2026-10-22",
     "sentiment": "watch",
-    "excerpt": "American Manufacturing is BOOMING. Jobs are coming HOME. We're breaking ALL Economic Estimates. Now Apple is committing to purchasing 100 MILLION DOLLARS of PENNSYLVANIA Titanium for its NEW iPhone. The Radical Left said it couldn't be done",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117482204261904691",
-    "ticker": "AAPL",
+    "excerpt": "Getting ready to land in Iowa. Big Rally happening. Inflation and Prices coming down, FAST! Campaigning for Ashley Hinson for U.S. Senate, Zach Lahn for Governor, Brenna Bird for Attorney General, Mariannette Miller-Meeks for Iowa’s First C",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117487124994548876",
+    "ticker": "",
+    "topics": [
+      "通胀"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-23",
+    "sentiment": "watch",
+    "excerpt": "Pretty crazy Reuters piece on the global selloff.\n\n- October 22 marked the 1st time since the COVID crash that long/short, systematic, and multi-strategy hedge funds tracked by Goldman Sachs ALL lost more than 1% in a single day.\n\n- Tech-fo",
+    "postUrl": "https://x.com/aleabitoreddit/status/2113575601390936238",
+    "ticker": "NBIS",
+    "topics": [
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-23",
+    "sentiment": "watch",
+    "excerpt": "Pretty crazy Reuters piece on the global selloff.\n\n- October 22 marked the 1st time since the COVID crash that long/short, systematic, and multi-strategy hedge funds tracked by Goldman Sachs ALL lost more than 1% in a single day.\n\n- Tech-fo",
+    "postUrl": "https://x.com/aleabitoreddit/status/2113575601390936238",
+    "ticker": "SNDK",
+    "topics": [
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-23",
+    "sentiment": "watch",
+    "excerpt": "Pretty crazy Reuters piece on the global selloff.\n\n- October 22 marked the 1st time since the COVID crash that long/short, systematic, and multi-strategy hedge funds tracked by Goldman Sachs ALL lost more than 1% in a single day.\n\n- Tech-fo",
+    "postUrl": "https://x.com/aleabitoreddit/status/2113575601390936238",
+    "ticker": "TSM",
+    "topics": [
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-22",
+    "sentiment": "watch",
+    "excerpt": "Actually $ESMT and my legacy memory names held up better than the rest of the AI trade. \n\nProbably did better... since ESMT is around 1.6x runrate P/E, annualized off July earnings.\n\nThis was more of a durability/PSMC hike sensitivity type ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2113437977749999628",
+    "ticker": "ESMT",
     "topics": []
   },
   {
-    "personId": "trump",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-10-21",
+    "asOf": "2026-10-22",
     "sentiment": "watch",
-    "excerpt": "RT @ realDonaldTrump Numerous people, who requested that sanctions be immediately imposed on Russia, have called to apologize to President Trump in that they didn’t know that he was negotiating the release of Stephen Hubbard, a truly big an",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117480043339306684",
-    "ticker": "",
-    "topics": [
-      "中美/制裁"
-    ]
+    "excerpt": "$NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. \n\nThe CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the memory sector a red ocean in 2029.\"\n\n\"One o",
+    "postUrl": "https://x.com/aleabitoreddit/status/2113433338522546399",
+    "ticker": "NVDA",
+    "topics": []
   },
   {
-    "personId": "trump",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-10-21",
+    "asOf": "2026-10-22",
     "sentiment": "watch",
-    "excerpt": "Numerous people, who requested that sanctions be immediately imposed on Russia, have called to apologize to President Trump in that they didn’t know that he was negotiating the release of Stephen Hubbard, a truly big and important deal for ",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117478508731391744",
-    "ticker": "",
-    "topics": [
-      "中美/制裁"
-    ]
+    "excerpt": "$NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. \n\nThe CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the memory sector a red ocean in 2029.\"\n\n\"One o",
+    "postUrl": "https://x.com/aleabitoreddit/status/2113433338522546399",
+    "ticker": "GOOGL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-22",
+    "sentiment": "watch",
+    "excerpt": "$NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. \n\nThe CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the memory sector a red ocean in 2029.\"\n\n\"One o",
+    "postUrl": "https://x.com/aleabitoreddit/status/2113433338522546399",
+    "ticker": "KOSPI",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -685,88 +739,6 @@
     "excerpt": "Just some words of emotional support for your SK Hynix, $SNDK, $MU fanclub. \n\n$DELL CEO on memory, suggested: \"It's a 4 year problem because there's just not enough supply\"\n\nFactories take about 4 years to build, meaning new production woul",
     "postUrl": "https://x.com/aleabitoreddit/status/2111206827790885288",
     "ticker": "SNDK",
-    "topics": [
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-15",
-    "sentiment": "watch",
-    "excerpt": "好吧，这视频也太酷了吧... \n\n$TSLA 现在居然都有飞行汽车了，感觉我们真的活在未来了 https://t.co/WjY9tP9JIF",
-    "postUrl": "https://x.com/aleabitoreddit/status/2110934540252512696",
-    "ticker": "TSLA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-15",
-    "sentiment": "watch",
-    "excerpt": "Glad we finally got a word too from $NVDA Jensen Huang today from an event at Stockholm...\n\nAbout $CRWV amid the broader Neocloud selloff. \n\nWhen asked about the markets reactions to Coreweave, Jensen responded: \n\n- \"Coreweave's strength is",
-    "postUrl": "https://x.com/aleabitoreddit/status/2110848740559126575",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-15",
-    "sentiment": "watch",
-    "excerpt": "Glad we finally got a word too from $NVDA Jensen Huang today from an event at Stockholm...\n\nAbout $CRWV amid the broader Neocloud selloff. \n\nWhen asked about the markets reactions to Coreweave, Jensen responded: \n\n- \"Coreweave's strength is",
-    "postUrl": "https://x.com/aleabitoreddit/status/2110848740559126575",
-    "ticker": "CRWV",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-15",
-    "sentiment": "watch",
-    "excerpt": "Glad we finally got a word too from $NVDA Jensen Huang today from an event at Stockholm...\n\nAbout $CRWV amid the broader Neocloud selloff. \n\nWhen asked about the markets reactions to Coreweave, Jensen responded: \n\n- \"Coreweave's strength is",
-    "postUrl": "https://x.com/aleabitoreddit/status/2110848740559126575",
-    "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-15",
-    "sentiment": "watch",
-    "excerpt": "$GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. \n\nSamsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for $MU, $SKHY, and th",
-    "postUrl": "https://x.com/aleabitoreddit/status/2110823066595131768",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-15",
-    "sentiment": "watch",
-    "excerpt": "$GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. \n\nSamsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for $MU, $SKHY, and th",
-    "postUrl": "https://x.com/aleabitoreddit/status/2110823066595131768",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-15",
-    "sentiment": "watch",
-    "excerpt": "$GOOGL is now discussing deals to extend their memory LTAs through 2035 from KeyBanc channel checks. \n\nSamsung already has 70% of their capacity allocated through 2031, and this move would suggest a more durable cycle for $MU, $SKHY, and th",
-    "postUrl": "https://x.com/aleabitoreddit/status/2110823066595131768",
-    "ticker": "SKHY",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-15",
-    "sentiment": "watch",
-    "excerpt": "$TSM released earnings today. I was more curious about commentary given recent the market panic.\n\nFor analyst Q&A rounds: \n\nQ: Citi explicitly challenged TSMC on AI financing, HBM, CoWoS, lasers and the risk of overbuilding capacity \n\nA: $T",
-    "postUrl": "https://x.com/aleabitoreddit/status/2110645575469461611",
-    "ticker": "TSM",
     "topics": [
       "AI/芯片"
     ]
