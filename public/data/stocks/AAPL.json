@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 347.73,
-  "change5dPct": 1.2,
-  "changeYtdPct": 28.3,
-  "marketCap": "$5.08T",
-  "pe": 39.1,
+  "price": 343.91,
+  "change5dPct": 0.1,
+  "changeYtdPct": 28.5,
+  "marketCap": "$5.02T",
+  "pe": 38.8,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-04-24",
-      "o": 272.76,
-      "h": 273.06,
-      "l": 269.65,
-      "c": 271.06
-    },
     {
       "t": "2026-04-27",
       "o": 266.09,
@@ -895,7 +888,7 @@
     },
     {
       "t": "2026-10-23",
-      "o": 349.11,
+      "o": 349.12,
       "h": 351.73,
       "l": 345.75,
       "c": 347.73
@@ -903,123 +896,123 @@
   ],
   "thesis": {
     "bull": [
-      "iPhone 17/新机型双机发布开启假期销售旺季，渠道铺货与换机周期可能支撑硬件营收",
-      "英伟达CEO黄仁勋近期公开表态对苹果AI前景看好，推动市场对苹果AI硬件生态（智能家居、端侧AI）重新定价",
-      "年内股价已上涨约28%，显示资金持续认可其现金流稳定性与品牌护城河，在成长股普遍承压的环境下具备防御属性"
+      "iPhone及服务业务基本盘稳固，Apple Intelligence功能逐步铺开，若明年换机周期加速，有望带动硬件与服务双重增长",
+      "公司现金流及资本回报能力行业领先，持续大规模回购为每股收益提供支撑，即使营收增速放缓也能维持EPS表现",
+      "英伟达CEO黄仁勋近期公开表态看好苹果AI布局，市场情绪一度因此转为乐观，显示AI叙事仍可能为AAPL带来估值修复空间"
     ],
     "bear": [
-      "佩洛西家族在2025年12月底申报中出现减持（trim）记录，且过去多次申报均以退出性质为主，显示部分政治人物对持续加仓苹果转向谨慎",
-      "近期Meta等科技巨头AI资本开支引发市场对AI泡沫的担忧，纳斯达克连续下跌，若情绪外溢可能拖累苹果估值",
-      "10年期美债收益率波动、油价走高（WTI触及111美元附近）等宏观因素可能压制高估值成长股包括苹果的进一步上行空间"
+      "跟踪者动向显示知情交易者Pelosi在2025年12月30日、12月24日及10月22日多次减持AAPL，2024年12月31日也曾减持，整体呈现持续性获利了结或降低仓位的倾向，尽管同日披露中也出现一笔新建多头，信号并不单一，但减持频率明显占优，值得关注",
+      "近期多篇报道提及AAPL与Alphabet等大型科技股估值偏高、存在下行风险，市场对AI驱动的科技股整体估值是否过度透支存在分歧",
+      "本轮AI资本开支热潮的叙事中心集中在英伟达、Marvell等算力与芯片供应链公司，苹果作为终端设备厂商在AI基础设施投资故事中相对边缘化，资金与关注度可能持续向上游芯片股分流"
     ],
     "watch": [
-      "关于苹果能否通过智能家居品类打开第二增长曲线（如报道『苹果是否会接管你的智能家居』）需持续跟踪产品发布与市场反馈",
-      "当前市场讨论『年内已涨28%，是获利了结还是继续持有』，反映多空分歧明显，后续财报与指引将是关键验证点",
-      "跟踪者（如佩洛西）申报中新建仓（new）与减持（trim）同时出现，需关注后续季度申报是否出现方向性转变"
+      "内存芯片供应商高管公开表示DRAM等存储芯片短缺可能持续到2027年之后，若成本上升向下游传导，可能压缩iPhone及Mac的硬件毛利率，需持续跟踪供应链成本变化",
+      "中东地缘局势（以色列—伊朗及周边地区冲突）持续推高油价，叠加美联储政策路径不确定，宏观通胀及消费支出压力可能间接影响iPhone等消费电子的终端需求",
+      "市场情绪波动剧烈，近期纳斯达克单日大幅下挫后又现反弹预期，AAPL股价对大盘科技股整体风险偏好变化较为敏感，需关注后续财报及市场风险偏好修复节奏"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果公司（AAPL）是全球市值最大的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品及App Store、iCloud、Apple Music等服务业务。公司近期处于新一代iPhone双机型发布周期，并被市场广泛讨论其在智能家居与端侧AI领域的潜在布局。"
+        "body": "苹果公司是全球领先的消费电子与软件服务企业，核心产品包括iPhone、Mac、iPad及可穿戴设备，并通过App Store、iCloud、Apple Music等构建了规模庞大的服务生态。近年来公司持续强调将生成式AI能力（Apple Intelligence）整合进其硬件与操作系统，试图以软硬一体的方式在AI浪潮中建立差异化竞争力。"
       },
       {
-        "heading": "近期动态",
-        "body": "近期新闻聚焦于iPhone新品发布带来的『关键数周』窗口期，以及市场对苹果是否会通过智能家居产品线开辟新增长点的讨论。同时有报道引用英伟达CEO对苹果AI前景的正面评价，一定程度上带动市场对相关AI硬件股的买兴。"
+        "heading": "财务与估值",
+        "body": "苹果长期保持强劲的自由现金流与净利润率，并通过持续的股票回购和分红维持资本回报率。公司估值通常对应其服务业务的高毛利及硬件业务的规模效应，但也因增速放缓而被部分投资者质疑估值是否偏贵，近期媒体报道提及AAPL与Alphabet等巨头股价存在下行风险，反映市场对高估值科技股的谨慎情绪有所上升。"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "公开披露显示，众议院前议长佩洛西家族在2025年12月30日的交易申报中同时出现『新建仓』与『减持』记录，而更早的2025年10月及2025年1月申报均为减持性质，整体呈现谨慎偏空的减仓倾向，但最新一笔『新建仓』记录又传递出一定程度的分歧信号，需结合后续季度申报进一步确认趋势方向。"
+        "heading": "行业与竞争格局",
+        "body": "当前市场关注焦点更多集中在AI基础设施层（芯片、数据中心、内存），英伟达、Marvell、博通等公司在相关叙事中获得更高关注度和资金追逐，苹果作为终端消费电子厂商，其AI应用层价值能否兑现仍待观察。同时，内存芯片供应紧张的预期（可能持续至2027年后）对所有依赖存储器的终端厂商构成潜在成本压力，苹果亦不例外。"
       },
       {
-        "heading": "宏观与行业背景",
-        "body": "当前宏观环境存在多重不确定性：市场对AI资本开支可持续性的担忧（如Meta财报引发的『AI泡沫』讨论）导致纳斯达克连续两日下跌；同时国际地缘局势（伊朗、古巴相关表态）及油价上行（WTI突破百美元关口附近）亦对风险资产情绪形成压制。半导体板块（如SOXL相关ETF）近期出现大幅回撤，反映科技硬件链条的波动性上升。"
+        "heading": "跟踪者/知情交易者动向解读",
+        "body": "公开披露显示，国会议员Pelosi在过去一年多次交易AAPL，交易记录以减持为主：2025年12月30日、12月24日及10月22日均有减持记录，2024年12月31日同样为减持；值得注意的是12月30日披露中也包含一笔新建多头，显示该时点存在仓位调整而非单纯看空，但从时间序列看减持频率明显高于增持，整体传递出较为谨慎或获利了结的信号，而非持续加码的强烈看多信号。"
       },
       {
-        "heading": "多空分歧",
-        "body": "多头观点认为，苹果凭借强大品牌力、稳定现金流及新品周期，在当前成长股普遍承压环境下具备相对防御性，且AI与智能家居故事提供新的估值支撑。空头观点则担忧：其一，年内已有明显涨幅（约28%），估值消化压力上升；其二，部分政治人物持仓动向显示谨慎情绪；其三，若AI资本开支泡沫担忧扩散，苹果作为高权重科技股难以完全独善其身。"
+        "heading": "风险因素",
+        "body": "主要风险包括：AI功能商业化进展不及预期、硬件创新周期放缓导致换机需求疲软、存储芯片等核心零部件成本上升侵蚀硬件毛利、地缘政治及宏观经济（如中东冲突推升油价、美联储政策路径）带来的消费支出压力，以及大型科技股整体估值高企背景下的系统性回调风险。"
       },
       {
-        "heading": "关注要点",
-        "body": "投资者可重点关注：iPhone新机型发布后的实际销售与渠道反馈数据；智能家居及AI相关新产品线的落地进展；后续财报中服务业务与硬件毛利率的变化趋势；以及宏观流动性（美债收益率、油价）对高估值科技股整体情绪的传导效应。"
+        "heading": "宏观环境影响",
+        "body": "当前宏观环境受中东地缘冲突、油价上涨及美联储政策预期等多重因素交织影响，大盘科技股（Nasdaq）近期波动加大，既有因Anthropic等AI相关消息带来的情绪提振，也有因利率与通胀担忧引发的阶段性抛售。苹果作为消费属性较强的科技龙头，其股价表现与大盘风险偏好及消费者支出信心高度相关，需密切关注宏观数据与地缘局势演变。"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
-        "name": "Microsoft Corporation",
-        "note": "同为大型科技龙头，受益于AI云服务叙事，可作为苹果在AI布局与估值对比的参照"
+        "name": "微软",
+        "note": "同为大型科技与AI应用层代表，软件服务占比更高，可作为估值与AI商业化进展的对比参照"
       },
       {
         "ticker": "GOOGL",
-        "name": "Alphabet Inc.",
-        "note": "同样面临AI资本开支与终端生态整合的双重叙事，估值与情绪往往和苹果联动"
+        "name": "Alphabet",
+        "note": "近期报道同样提及其股价存在下行风险，可用于观察大型科技股整体估值分歧"
       },
       {
-        "ticker": "NVDA",
-        "name": "NVIDIA Corporation",
-        "note": "作为AI硬件核心供应商，其CEO对苹果AI前景的表态直接影响市场对苹果AI硬件化路径的预期"
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "代表AI基础设施/芯片供应链叙事中心，与苹果终端消费电子定位形成对比，反映资金关注点的分流"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-23T23:49:55.622158Z"
+    "generatedAt": "2026-10-27T00:20:02.371406Z"
   },
   "news": [
     {
-      "id": "AAPL-143136900",
-      "title": "Will Apple Take Over Your (Smart) Home?",
+      "id": "AAPL-143204952",
+      "title": "S&P 500, Nasdaq, Dow Begin Week Higher As Anthropic IPO Filing Rekindles AI Enthusiasm — MSFT, AAPL, CART, VZ In Focus",
       "source": "Yahoo",
-      "publishedAt": "2026-10-23",
-      "url": "https://finnhub.io/api/news?id=e146adee7ed6f5dcffaccda44facbc11367a369e42aa36fbcdec298f9cc6f6e9",
+      "publishedAt": "2026-10-26",
+      "url": "https://finnhub.io/api/news?id=ec15ce234b3a6fa4a707d47de37778686a8c8b739674bb3c1618f1353725d7ee",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143136911",
-      "title": "Tesla Stock Lags Apple Because Of ‘Communications Problem,’ Says Investor Gary Black",
+      "id": "AAPL-143204951",
+      "title": "Mark Cuban puts Bitcoin and Apple in the same bucket",
       "source": "Yahoo",
-      "publishedAt": "2026-10-23",
-      "url": "https://finnhub.io/api/news?id=1a32ae511329471acda20b1207114e05fe001cf6483bfd786481844cbe82e4f7",
+      "publishedAt": "2026-10-26",
+      "url": "https://finnhub.io/api/news?id=933f3cf313dcb03d654316838f7f933ef7c43444300374a1cd1d4082e0dbdeb1",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143136673",
-      "title": "DEPH Labs Appoints Lisa Loud as CEO to Accelerate Privacy-Centric Precision Health and Biological Age Testing",
+      "id": "AAPL-143203911",
+      "title": "Apple (AAPL) Stock Falls Amid Market Uptick: What Investors Need to Know",
       "source": "Yahoo",
-      "publishedAt": "2026-10-23",
-      "url": "https://finnhub.io/api/news?id=d144ce0342728dc74cf435d393f5cf78efd38b1d429af5f38dd095335a047035",
+      "publishedAt": "2026-10-26",
+      "url": "https://finnhub.io/api/news?id=01c9bf3cd214a6322e7c1c652fba6cfaa1f68dc8641718e7e6bad9dafa3aaa68",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143136909",
-      "title": "Top Stock Reports for Apple, Berkshire Hathaway & Goldman Sachs",
+      "id": "AAPL-143203912",
+      "title": "Billionaire predicts 'unhinged' future for iPhone Duo",
       "source": "Yahoo",
-      "publishedAt": "2026-10-23",
-      "url": "https://finnhub.io/api/news?id=545b3fc8aeb74968aa0ef0b69987b1cd4e7d014a0b4efcd8da0706b2f6ab895e",
+      "publishedAt": "2026-10-26",
+      "url": "https://finnhub.io/api/news?id=ae7ee8154896d06803e7da99f8b87a45643417ce637f78727811f71e76793237",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143136906",
-      "title": "The iPhone Duo Launch Kicks Off a Crucial Few Weeks for Apple",
-      "source": "Yahoo",
-      "publishedAt": "2026-10-23",
-      "url": "https://finnhub.io/api/news?id=d785010198f95cde7609b110185876b490a53c6cc083289353e226aeb037f1b1",
+      "id": "AAPL-143203619",
+      "title": "Most-Active S&P 500 Stocks in the Oct. 26 Session",
+      "source": "ChartMill",
+      "publishedAt": "2026-10-26",
+      "url": "https://finnhub.io/api/news?id=5bdcba2d3052bccb9e09fa68c31b14bf09d8396b1dc379d2be7d046f1dfc7c2d",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143136674",
-      "title": "Apple Is Up 28% This Year: Take Profits, or Hold On for the Ride?",
+      "id": "AAPL-143202588",
+      "title": "Apple and Alphabet Stocks Look Vulnerable. Here’s How Far They Could Drop.",
       "source": "Yahoo",
-      "publishedAt": "2026-10-23",
-      "url": "https://finnhub.io/api/news?id=f679afade98b1b481cd4eef606cf94d0bc9749abd42071bfae07349f3f1d5683",
+      "publishedAt": "2026-10-26",
+      "url": "https://finnhub.io/api/news?id=430ed564159f59e2f546a05e81ac450f2ef05ebf6b8ac4a1cc0b71223e031d1e",
       "tags": [
         "AAPL"
       ]
