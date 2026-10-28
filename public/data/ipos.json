@@ -1,14 +1,50 @@
 [
   {
-    "ticker": "SCQCU",
-    "name": "SPACCircle Acquisition Corp.",
-    "date": "2026-10-27",
+    "ticker": "OPAY",
+    "name": "OPAY Ltd",
+    "date": "2026-10-30",
     "priceRange": [
-      10.0,
-      10.0
+      19.0,
+      21.0
     ],
     "sector": "—",
-    "exchange": "NASDAQ Global",
+    "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
+    "ticker": "ASPE",
+    "name": "Aspen Neuroscience, Inc.",
+    "date": "2026-10-30",
+    "priceRange": [
+      15.0,
+      17.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global Select",
+    "status": "expected"
+  },
+  {
+    "ticker": "BBTX",
+    "name": "Bambusa Therapeutics, Inc.",
+    "date": "2026-10-30",
+    "priceRange": [
+      15.0,
+      17.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global Select",
+    "status": "expected"
+  },
+  {
+    "ticker": "GBC",
+    "name": "GEORGIA BANKING CO INC",
+    "date": "2026-10-29",
+    "priceRange": [
+      0,
+      0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Capital",
     "status": "expected"
   }
 ]

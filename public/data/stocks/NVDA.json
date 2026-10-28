@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 216.0,
-  "change5dPct": 0.9,
-  "changeYtdPct": -0.3,
-  "marketCap": "$5.21T",
-  "pe": 26.9,
+  "price": 217.94,
+  "change5dPct": 0.4,
+  "changeYtdPct": 2.2,
+  "marketCap": "$5.25T",
+  "pe": 27.2,
   "revenue": "—",
   "revenueYoYPct": 83,
   "prices": [
-    {
-      "t": "2026-04-27",
-      "o": 209.65,
-      "h": 216.83,
-      "l": 207.38,
-      "c": 216.61
-    },
     {
       "t": "2026-04-28",
       "o": 209.49,
@@ -892,127 +885,144 @@
       "h": 213.85,
       "l": 210.18,
       "c": 210.96
+    },
+    {
+      "t": "2026-10-26",
+      "o": 213.11,
+      "h": 217.75,
+      "l": 212.61,
+      "c": 216.0
     }
   ],
   "thesis": {
     "bull": [
-      "黄仁勋在近期访谈中表示光学规模扩展（scale-up to optical domain）聚合运算量有望提升约15倍，显示公司在网络互联与光通信领域布局领先，若兑现将进一步拉大与竞争对手的技术差距",
-      "NVIDIA近期与基板、先进封装、测试及光引擎供应商（Ibiden、三星电机、欣兴电子、安靠等）签订扩产协议，产能扩张2.5倍左右，显示下游需求可见度较高，供应链已提前锁定未来产能",
-      "SpaceX将第四季度资本开支指引由约184亿美元上修至350至400亿美元区间，市场解读为其中相当比例将用于采购NVIDIA GPU，若属实将为2027上半年需求提供额外增量，带动存储、网络等配套需求"
+      "英伟达近期密集宣布产能扩张协议，包括与Ibiden、三星电机、Unimicron等基板供应商、Amkor封装测试商以及光学引擎厂商的合作，产能规划扩大约2.5倍，显示下游AI基础设施需求持续超出此前预期",
+      "通过对Meta约30亿美元的股权投资及与SpaceX卫星互联网业务的间接绑定，英伟达进一步巩固在超大规模客户生态中的核心供应商地位，增强长期收入可见度",
+      "管理层公开表态强调内存供应紧张态势将维持至2029年，且硅光/光互联需求有望扩大约15倍，意味着公司在算力瓶颈环节具备较强的议价能力和结构性成长空间"
     ],
     "bear": [
-      "市场对「AI基建泡沫」的担忧持续发酵，部分社交媒体评论将包括SpaceX、特斯拉相关融资与资本开支扩张解读为自我循环式融资，质疑AI算力投资的可持续性与真实终端需求",
-      "纳斯达克指数近期单日下挫约700点，显示市场对高估值AI硬件股的波动容忍度在下降，若宏观流动性或利率环境恶化，NVDA作为权重股估值回调风险上升",
-      "存储芯片供应持续紧张，黄仁勋本人也公开表示到2029年之前存储供应过剩的可能性较低，若HBM等关键存储组件长期短缺，可能制约NVIDIA新一代GPU的出货节奏和毛利空间"
+      "受出口管制影响，英伟达对华AI芯片出货量在2026年上半年同比下滑约44%，地缘政治与关税政策的不确定性持续对公司在中国市场的收入构成实质性压制",
+      "市场对AI资本支出是否存在泡沫的担忧明显升温，知名投资人Michael Burry将当前行情类比互联网泡沫前夜，循环式供应商融资与股权投资模式（如对客户的直接入股）引发外界对需求真实性与收入质量的质疑",
+      "跟踪的国会议员交易记录显示近期出现减持动作，与此同时高盛等机构提示资金正从AI板块去风险，表明部分资金对短期估值和拥挤交易风险保持警惕"
     ],
     "watch": [
-      "Marvell、博通等公司在定制ASIC（如超大规模客户自研AI芯片）领域持续获得订单和市场份额，有评论认为Marvell而非AMD才是NVIDIA在数据中心芯片份额上最需要关注的潜在挑战者",
-      "佩洛西在2026年1月披露的交易报告中显示其1月16日和2025年12月30日两次新增NVDA多头仓位，但同时在2025年12月24日有一笔减持记录，显示即便是知名跟踪对象内部操作也存在多空交织，并非单边看多",
-      "光学与激光供应链（如Lumentum、Coherent等）被频繁提及为NVIDIA光通信战略的受益方，但也有分析指出「卖光产能」不等于「可规模化扩产」，需持续关注这些供应商的实际交付能力是否能跟上NVIDIA的扩张节奏"
+      "英伟达近期对Meta等客户的战略股权投资以及对供应链上游的产能承诺，是否会被市场和监管方解读为变相创造自身需求，进而影响财报质量与毛利率评价",
+      "内存供应格局的演变路径——黄仁勋认为紧张态势将持续至2029年，而部分韩国媒体观点认为2029年后行业可能转为供给过剩，这将直接影响英伟达的成本结构和毛利空间",
+      "Oracle、Alphabet、Amazon等云计算巨头即将公布的资本支出指引，以及Anthropic等AI公司的IPO进展，将为判断全球AI基础设施投资的持续性提供关键交叉验证"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA是全球领先的GPU与AI加速计算平台提供商，业务已从传统图形芯片扩展至数据中心AI训练与推理芯片、网络互联（如InfiniBand、NVLink）以及光通信互联技术。公司近年收入结构高度依赖数据中心业务，核心客户包括各大云计算厂商及新兴AI基建参与者。近期管理层公开谈及光学规模扩展及存储供应趋势，显示公司战略重心正从单一芯片设计转向全栈系统（计算+网络+封装+光互联）整合。"
+        "body": "英伟达（NVIDIA Corporation，NVDA）是全球领先的图形处理器（GPU）与加速计算平台供应商，业务已从传统游戏显卡扩展至数据中心AI训练与推理、网络互联、自动驾驶及机器人等领域。公司目前是全球AI基础设施建设的核心供应商之一，产品线覆盖GPU芯片、高速网络（如Infiniband/NVLink）、软件生态（CUDA）以及系统级解决方案，客户群体包括各大云计算厂商、企业及主权AI项目"
       },
       {
-        "heading": "产业链与供应链动态",
-        "body": "近期NVIDIA公布与Ibiden、三星电机、欣兴电子在基板领域，以及安靠在先进封装领域的扩产协议，整体产能规划扩大约2.5倍，同时涉及测试与光引擎供应商。这类长期产能锁定协议通常被解读为公司对未来数年需求保持高度信心的信号，但也意味着资本开支和固定成本承诺同步上升，一旦终端需求不及预期，供应链冗余的消化将成为潜在压力点。"
+        "heading": "行业与供应链动态",
+        "body": "近期公司密集披露与封装、基板、测试及光学器件供应商的扩产协议，涉及Ibiden、三星电机、Unimicron、Amkor等公司，产能规划扩大约2.5倍，反映出其对未来需求的强烈信心。黄仁勋在公开场合提及硅光集成与规模化光互联的重要性，预计相关领域需求将扩大约15倍，这将带动LITE、COHR等光学元件企业的协同成长。同时管理层表态认为内存供应紧张状况将延续至2029年，与部分市场观点（认为2029年后内存行业可能转为供给过剩）存在分歧"
       },
       {
-        "heading": "需求侧信号与地缘政治",
-        "body": "社交媒体与新闻流中反复出现SpaceX资本开支指引大幅上修的讨论，部分评论将其与NVIDIA GPU采购直接挂钩，认为这是AI基建需求扩张的又一证据；但也有评论对马斯克在X平台上同时传播「崩溃论」叙事与其自身公司（SpaceX、特斯拉）利益冲突表示警惧，提示市场情绪本身存在被放大或扭曲的风险。中东地缘局势（以色列—伊朗、胡塞武装等）持续推高能源价格，对AI数据中心运营成本及整体宏观流动性环境构成间接压力。"
+        "heading": "客户生态与战略投资",
+        "body": "英伟达近期对Meta进行约30亿美元的股权投资，被部分媒体解读为深化与超大规模客户的绑定关系；同时市场关注SpaceX相关融资对英伟达GPU采购需求的间接拉动。这类围绕客户端的战略投资和产能承诺，一方面强化了英伟达在AI算力供应链中的核心地位，另一方面也引发外界对收入质量与循环融资模式可持续性的讨论"
       },
       {
-        "heading": "存储与成本结构",
-        "body": "黄仁勋公开表示到2029年之前存储芯片供应过剩的可能性较低，回应了关于三星、SK海力士等存储厂商可能在2029年陷入供给过剩「红海」的韩国媒体观点。对NVIDIA而言，存储供应持续偏紧既是下游HBM等关键物料成本压力的来源，也从侧面印证了整个AI硬件生态链条的需求旺盛程度，是一把双刃剑。"
+        "heading": "地缘政治与政策风险",
+        "body": "受美国对华出口管制政策影响，英伟达对中国市场的AI芯片出货量在2026年上半年同比下滑约44%，显示政策环境对公司海外收入结构产生了实质性冲击。有报道提及黄仁勋与美国总统之间保持密切沟通，这类政治接触渠道被视为影响未来对华芯片出口政策走向的重要因素，但政策本身仍存在高度不确定性"
       },
       {
-        "heading": "竞争格局",
-        "body": "近期新闻流中多次提及Marvell、博通等公司在定制ASIC领域的强劲增长，有评论认为Marvell而非AMD才是NVIDIA在数据中心份额上最值得警惧的对手，显示超大规模客户自研芯片（custom silicon）的趋势正在加速，可能在特定工作负载场景中对NVIDIA通用GPU形成替代压力。同时，光通信供应商（Lumentum、Coherent等）作为NVIDIA产业链伙伴也被纳入市场叙事，但也有分析提醒「订单饱满」不代表「产能可无限扩张」。"
+        "heading": "跟踪者动向与市场情绪",
+        "body": "公开披露记录显示，国会议员佩洛西在2025年末至2026年初的交易中呈现先建仓后部分减持的模式，释放出谨慎信号。社交媒体上的活跃评论者持续跟踪英伟达在产能、供应链和技术路线（如光互联、内存供应）方面的最新动态，整体情绪偏向观察而非单边多空判断。与此同时，宏观层面出现高盛等机构提示资金从AI板块去风险、知名投资人将当前市场类比互联网泡沫前夜等偏谨慎的声音，显示市场对AI板块估值和可持续性的分歧正在扩大"
       },
       {
-        "heading": "市场情绪与跟踪者动向",
-        "body": "国会议员佩洛西在2026年1月披露的交易记录显示其在1月16日及2025年12月30日两次新增NVDA相关多头仓位，但同期2025年12月24日也存在一笔减持记录，整体呈现增持为主、局部获利了结的操作特征，并非单一方向的强烈看多或看空信号。社交媒体上围绕NVIDIA的讨论呈现「watch」情绪为主，关注点集中在光学互联、存储供应及下游资本开支指引等基本面催化剂，整体市场叙事在「AI基建仍在加速」与「估值已过度透支」两种观点之间持续拉锯，纳斯达克指数近期单日大幅下挫700点也反映出市场对高估值科技股波动的敏感度上升。"
+        "heading": "风险与展望",
+        "body": "英伟达的核心看点在于AI基础设施建设的持续性与广度，包括算力、网络、内存及光互联等多环节的协同扩张，这为公司提供了较长的增长跑道。但同时面临地缘政治出口限制、AI资本支出是否可持续、以及围绕客户股权投资和产能承诺是否构成循环收入等多重不确定性。投资者应重点关注即将公布的主要云厂商资本支出指引、内存供应格局演变以及对华政策变化，这些因素将共同决定公司中长期基本面走向"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "GPU与数据中心加速卡领域的直接竞争对手，但近期部分评论认为其在客户自研定制芯片趋势下的竞争地位不及Marvell"
+        "note": "GPU与加速计算领域的主要竞争对手，近期因AI芯片定价和市场份额话题被多次与英伟达对比"
       },
       {
         "ticker": "AVGO",
-        "name": "Broadcom Inc",
-        "note": "在定制ASIC及网络互联芯片领域与NVIDIA存在竞争重叠，是超大规模客户自研芯片浪潮的主要受益者之一"
+        "name": "Broadcom",
+        "note": "在网络互联与定制AI芯片（ASIC）领域与英伟达存在竞合关系，同时是数据中心网络设备的重要供应商"
       },
       {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "新闻流中被多次提及为NVIDIA数据中心份额的潜在挑战者，近一年股价涨幅显著，市场关注其能否兑现2026年200亿美元收入指引"
+        "ticker": "MU",
+        "name": "Micron Technology",
+        "note": "高带宽内存（HBM）核心供应商，其产能与定价直接影响英伟达GPU的成本结构，也是内存供应紧张议题的关键相关方"
+      },
+      {
+        "ticker": "TSM",
+        "name": "Taiwan Semiconductor Manufacturing",
+        "note": "英伟达先进制程芯片的代工厂，产能分配情况直接影响英伟达新产品出货节奏"
+      },
+      {
+        "ticker": "COHR",
+        "name": "Coherent Corp",
+        "note": "光学元件与激光器供应商，受益于英伟达规模化光互联需求扩张的相关叙事"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-27T00:17:14.333538Z"
+    "generatedAt": "2026-10-28T00:19:41.632701Z"
   },
   "news": [
     {
-      "id": "NVDA-143203890",
-      "title": "Boost Run stock surges on AI infrastructure deployment",
+      "id": "NVDA-143240390",
+      "title": "Nvidia’s New $3 Billion AI Bet Is on One of Its Own Customers",
       "source": "Yahoo",
-      "publishedAt": "2026-10-26",
-      "url": "https://finnhub.io/api/news?id=c614f224e20ca9ee7c3bc4ecdac170d88d47df7bfc21c5313dd3aac6510ddee4",
+      "publishedAt": "2026-10-27",
+      "url": "https://finnhub.io/api/news?id=995b09e1776ebfbb47f422fd5d6dadf7dcb149e84ac3a45287398f342a51db9e",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143203897",
-      "title": "Will Palantir Technologies Stock Hit $300 Before the End of 2026?",
+      "id": "NVDA-143240391",
+      "title": "Jensen Huang's Late-Night Calls With President Trump Come as Nvidia's China AI Chip Shipments Fall 44% in the First Half of 2026. Here's Why His Access Matters.",
       "source": "Yahoo",
-      "publishedAt": "2026-10-26",
-      "url": "https://finnhub.io/api/news?id=90dfb5ab699650921423b1902c33a242267aba6eda1084938cebfc5b1b055f9f",
+      "publishedAt": "2026-10-27",
+      "url": "https://finnhub.io/api/news?id=2bd5147d1bbd37ead4a993d669e21660010ab4ba55377370ce14f8c7ee422eff",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143203898",
-      "title": "Why Arcos Dorados Stock Got Socked Today",
+      "id": "NVDA-143240407",
+      "title": "Why Noble Stock Tumbled on Tuesday",
       "source": "Yahoo",
-      "publishedAt": "2026-10-26",
-      "url": "https://finnhub.io/api/news?id=d313f1c6350af7d6d93a7d35b44c45841326d568897964e33b0eb0e80c6b3caa",
+      "publishedAt": "2026-10-27",
+      "url": "https://finnhub.io/api/news?id=4da90b1ccec4100fd423b694bcc179267f47ab1f1419cb54bef134987c307db9",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143203891",
-      "title": "The Nasdaq Crashed 700 Points in a Day Last Week. One Major Wall Street Firm is Predicting the Correction Will End After Midterms.",
+      "id": "NVDA-143240392",
+      "title": "NVIDIA Is Buying a Piece of Meta: What the $3 Billion Stake Means",
       "source": "Yahoo",
-      "publishedAt": "2026-10-26",
-      "url": "https://finnhub.io/api/news?id=9d3e8909ad9a519d30477bc742cb54cf9fb5e9e5e65ae098f4b8121e609b7653",
+      "publishedAt": "2026-10-27",
+      "url": "https://finnhub.io/api/news?id=67efecb897dc4a3fe14157c8f0124022052a3997d1028ec4b6d4d9017d1a3618",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143203899",
-      "title": "iPronics Names Co-Founder & Photonics Pioneer Dr. Daniel Pérez-López as CEO to Drive Commercial Scale for AI Optical Circuit Switching",
+      "id": "NVDA-143238245",
+      "title": "Nvidia, AMD Get Their Jollies Hooking Up With Meta's Muse",
       "source": "Yahoo",
-      "publishedAt": "2026-10-26",
-      "url": "https://finnhub.io/api/news?id=5471a2d85524298eb565bd6b6088275946c12afef39792fb9fd55dc8a6138d73",
+      "publishedAt": "2026-10-27",
+      "url": "https://finnhub.io/api/news?id=e9fbfac689c4f6b9e750a8ac7270e5d1bcaeefd6f25760c5067178e33f65db96",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143203900",
-      "title": "Vertiv Simplifies High-Density AI Infrastructure Deployment Across Data Center Environments",
+      "id": "NVDA-143240394",
+      "title": "S&P Global Inc. Q3 2026 Earnings Call Summary",
       "source": "Yahoo",
-      "publishedAt": "2026-10-26",
-      "url": "https://finnhub.io/api/news?id=218add4d2d3573610cb88bc7e3aa73ccae70726747ddb329d69b37bf675151cd",
+      "publishedAt": "2026-10-27",
+      "url": "https://finnhub.io/api/news?id=d51b88cab8d16e03d6b18fd547bcdef28fca78afa9b75c327982b1aa0a202ca4",
       "tags": [
         "NVDA"
       ]
