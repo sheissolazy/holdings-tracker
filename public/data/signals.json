@@ -400,16 +400,14 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-10-25",
+    "asOf": "2026-10-28",
     "sentiment": "watch",
-    "excerpt": "RT: https://truthsocial.com/users/realDonaldTrump/statuses/117462449149582042 To the people of Israel, to those who haven’t seen it, I am attaching the Endorsement I gave one week ago to your Prime Minister, Bibi Netanyahu. As everyone is a",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117504022227510179",
-    "ticker": "",
-    "topics": [
-      "通胀"
-    ]
+    "excerpt": "At Tesla, we even care about the chipmunks",
+    "postUrl": "https://x.com/elonmusk/status/2115447957843821013",
+    "ticker": "TSLA",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -875,62 +873,6 @@
     "excerpt": "$NVDA today announces capacity agreements with substrate, packaging, testing and optical engine suppliers.\n\n- Substrate agreements with Ibiden, Samsung Electro-Mechanics and Unimicron to expand by 2.5x\n- $AMKR to increase advanced packaging",
     "postUrl": "https://x.com/aleabitoreddit/status/2113094859439690104",
     "ticker": "AMKR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-20",
-    "sentiment": "watch",
-    "excerpt": "Divergence between fundamental demand and valuations are now at extreme levels. \n\nYou're seeing accelerating procurement from $SMCI to $SPCX vs. collapsing equity prices on $AAOI to colo players. \n\nAfter ERs, I think Oct 2026 will be seen a",
-    "postUrl": "https://x.com/aleabitoreddit/status/2112684521174999529",
-    "ticker": "AAOI",
-    "topics": [
-      "关税/贸易"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-20",
-    "sentiment": "watch",
-    "excerpt": "Divergence between fundamental demand and valuations are now at extreme levels. \n\nYou're seeing accelerating procurement from $SMCI to $SPCX vs. collapsing equity prices on $AAOI to colo players. \n\nAfter ERs, I think Oct 2026 will be seen a",
-    "postUrl": "https://x.com/aleabitoreddit/status/2112684521174999529",
-    "ticker": "SMCI",
-    "topics": [
-      "关税/贸易"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-20",
-    "sentiment": "watch",
-    "excerpt": "Divergence between fundamental demand and valuations are now at extreme levels. \n\nYou're seeing accelerating procurement from $SMCI to $SPCX vs. collapsing equity prices on $AAOI to colo players. \n\nAfter ERs, I think Oct 2026 will be seen a",
-    "postUrl": "https://x.com/aleabitoreddit/status/2112684521174999529",
-    "ticker": "SPCX",
-    "topics": [
-      "关税/贸易"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-20",
-    "sentiment": "watch",
-    "excerpt": "Yeah not sure how anyone thinks it's over on AI semis like $NVDA GPUs, memory, to photonics, after $SPCX earnings. \n\n- Previous Q4 capex outlook ~$18.4B... Now $35–40 billion Q4 capex guidance, basically doubling previous outlook\n\n\"Q3 and Q",
-    "postUrl": "https://x.com/aleabitoreddit/status/2112674175446089985",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-20",
-    "sentiment": "watch",
-    "excerpt": "Yeah not sure how anyone thinks it's over on AI semis like $NVDA GPUs, memory, to photonics, after $SPCX earnings. \n\n- Previous Q4 capex outlook ~$18.4B... Now $35–40 billion Q4 capex guidance, basically doubling previous outlook\n\n\"Q3 and Q",
-    "postUrl": "https://x.com/aleabitoreddit/status/2112674175446089985",
-    "ticker": "SPCX",
     "topics": []
   },
   {
