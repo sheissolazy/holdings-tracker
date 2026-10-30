@@ -354,6 +354,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-10-29",
+    "sentiment": "watch",
+    "excerpt": "Today I am pleased to report, in Breaking News this morning, that the U.S. Economy is BOOMING at 3.4 PERCENT — A Historic Level of Economic Growth. Consumer spending is WAY UP, Business Investment is WAY UP, and Investment in new Equipment ",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117525706731349400",
+    "ticker": "",
+    "topics": [
+      "通胀"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-10-27",
     "sentiment": "watch",
     "excerpt": "When will The Wall Street Journal start calling Artificial Intelligence (AI), a very bad and inaccurate name, SI (Super Intelligence), the name which virtually everyone else is using, or soon will be. In short order, we will be officially B",
@@ -364,49 +376,23 @@
     ]
   },
   {
-    "personId": "trump",
-    "type": "social",
-    "asOf": "2026-10-26",
-    "sentiment": "watch",
-    "excerpt": "It is my Great Honor to endorse America First Patriot, Marty O'Donnell, who is running to represent the incredible people of Nevada’s 3rd Congressional District. Marty is running against Susie Lee, a true Radical Left Extremist who does not",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117509187649468671",
-    "ticker": "",
-    "topics": [
-      "财政/税收"
-    ]
-  },
-  {
-    "personId": "trump",
-    "type": "social",
-    "asOf": "2026-10-26",
-    "sentiment": "watch",
-    "excerpt": "It is my Great Honor to endorse Highly Respected State Senator, Carrie Buck, who is running to represent the fantastic people of Nevada’s 1st Congressional District. Carrie is running against a Career Politician named Dina Titus, who tried ",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117509186034962819",
-    "ticker": "",
-    "topics": [
-      "财政/税收"
-    ]
-  },
-  {
-    "personId": "trump",
-    "type": "social",
-    "asOf": "2026-10-25",
-    "sentiment": "watch",
-    "excerpt": "Let’s talk about this COMPLETE AND TOTAL LOSER, Bill Maher. He’s got a Low Rated Show on equally Low Rated HBO, which was once, long ago, a Network of Quality and Excitement — But that’s all gone. It’s not “HOT” anymore! Maher’s friend and ",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117504266048722465",
-    "ticker": "",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-10-28",
     "sentiment": "watch",
-    "excerpt": "At Tesla, we even care about the chipmunks",
-    "postUrl": "https://x.com/elonmusk/status/2115447957843821013",
-    "ticker": "TSLA",
+    "excerpt": "Holy sht, $MRVL is in the final stages of a deal to acquire $LITE.\n\nAttempting to vertically integrate the most supply constrained chokepoints… with lasers.\n\nIs very big brain if they pull it off and suddenly makes other laser players more ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2115624832947917083",
+    "ticker": "MRVL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-28",
+    "sentiment": "watch",
+    "excerpt": "Holy sht, $MRVL is in the final stages of a deal to acquire $LITE.\n\nAttempting to vertically integrate the most supply constrained chokepoints… with lasers.\n\nIs very big brain if they pull it off and suddenly makes other laser players more ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2115624832947917083",
+    "ticker": "LITE",
     "topics": []
   },
   {
@@ -853,26 +839,6 @@
     "excerpt": "I don't own $ASTS and not advice, but if you're capitulating just because a stock price went down.. \n\nThere's little investment thesis or conviction in the first place.\n\nPeople always have multi-year ideas like $RKLB becoming the next $SPCX",
     "postUrl": "https://x.com/aleabitoreddit/status/2113240389813780923",
     "ticker": "RKLB",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-21",
-    "sentiment": "watch",
-    "excerpt": "$NVDA today announces capacity agreements with substrate, packaging, testing and optical engine suppliers.\n\n- Substrate agreements with Ibiden, Samsung Electro-Mechanics and Unimicron to expand by 2.5x\n- $AMKR to increase advanced packaging",
-    "postUrl": "https://x.com/aleabitoreddit/status/2113094859439690104",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-21",
-    "sentiment": "watch",
-    "excerpt": "$NVDA today announces capacity agreements with substrate, packaging, testing and optical engine suppliers.\n\n- Substrate agreements with Ibiden, Samsung Electro-Mechanics and Unimicron to expand by 2.5x\n- $AMKR to increase advanced packaging",
-    "postUrl": "https://x.com/aleabitoreddit/status/2113094859439690104",
-    "ticker": "AMKR",
     "topics": []
   },
   {

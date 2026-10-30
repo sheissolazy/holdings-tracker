@@ -3,21 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 228.08,
-  "change5dPct": 2.4,
-  "changeYtdPct": -20.8,
-  "marketCap": "$67.4B",
-  "pe": 130.8,
+  "price": 222.3,
+  "change5dPct": -6.8,
+  "changeYtdPct": -21.5,
+  "marketCap": "$65.7B",
+  "pe": 126.0,
   "revenue": "—",
   "revenueYoYPct": 111,
   "prices": [
-    {
-      "t": "2026-04-29",
-      "o": 276.55,
-      "h": 290.5,
-      "l": 267.46,
-      "c": 287.97
-    },
     {
       "t": "2026-04-30",
       "o": 295.73,
@@ -892,76 +885,113 @@
       "h": 224.17,
       "l": 211.29,
       "c": 218.5
+    },
+    {
+      "t": "2026-10-28",
+      "o": 225.97,
+      "h": 231.66,
+      "l": 217.9,
+      "c": 228.08
     }
   ],
   "thesis": {
     "bull": [
-      "AI数据中心对电力的需求快速增长，Bloom Energy的固态氧化物燃料电池可绕开电网排队、实现数月内本地化部署，公司在近期财报电话会议上上调了全年业绩指引并公布了新的产能扩张计划",
-      "佩洛西在2026年7月28日和7月24日两次披露新建BE多头仓位，市场解读为部分国会议员及其关联账户对公司前景持乐观态度，带动短期关注度上升",
-      "公司现金流状况较此前明显改善，订单积压（backlog）持续增长，长期服务协议（PPA）与产品销售相结合的商业模式为未来收入提供了较好的可见性"
+      "AI数据中心电力需求快速增长,Bloom Energy的固态氧化物燃料电池可现场快速部署,绕开传统电网并网等待周期,与云计算及电力公司的合作持续推进,订单可见度提升",
+      "近期季度业绩显示营收与出货量同比明显增长,毛利率较此前有所改善,管理层上调指引,显示规模效应逐步显现,市场评论聚焦其财报表现是否支撑估值",
+      "国会议员佩洛西在2026年7月24日与7月28日两次新建BE多头仓位,并于8月21日完成披露,市场部分解读为对分布式发电与数据中心电力赛道关注度的间接信号"
     ],
     "bear": [
-      "股价在AI电力叙事推动下已大幅上涨，媒体文章「Is Bloom Energy Stock Cheap After AI Demand And Cash Flow Concerns」反映市场对估值是否已经透支未来多年增长存在明显分歧",
-      "行业评论指出天然气资源本身充裕，但将天然气接入到AI数据中心所需的管网、压缩与互联基础设施仍是瓶颈，可能拖慢Bloom Energy Server的实际交付与并网节奏",
-      "公司历史上长期处于亏损或微利状态，资本开支和产能扩张计划需要持续融资支持，执行层面的规模化风险（供应链、良率、交付周期）仍需观察"
+      "当前股价已大幅计入AI数据中心电力叙事的乐观预期,一旦相关AI资本支出或科技股情绪降温,股价对板块联动的敏感度较高,波动风险较大",
+      "公司历史上盈利能力与自由现金流表现存在波动,长期服务协议下的现金流确认节奏、客户集中度与大型合同执行仍是待验证的问题",
+      "天然气发电、电网升级、储能及其他分布式发电技术竞争激烈,近期报道指出数据中心供电瓶颈更多在于天然气接入与设备交付周期,Bloom并非唯一解方,市场份额与定价权存在不确定性"
     ],
     "watch": [
-      "关注管理层在后续财报与投资者交流中，对2027年及以后产能利用率、订单转化率的进一步指引更新",
-      "关注天然气接入与电网互联基础设施的实际进展，判断是否会对已公布的交付节奏造成延迟",
-      "持续跟踪国会议员及机构投资者持仓变化，作为市场情绪参考指标，但不应据此直接推断个股买卖时机"
+      "关注后续财报中订单积压、毛利率及自由现金流指引的变化,判断业绩能否持续兑现市场对AI电力叙事的预期",
+      "关注国会及机构持仓后续披露,以及公司与大型云计算、公用事业客户新合约的落地进展",
+      "关注美联储利率路径(当前目标区间3.75%至4%,部分官员主张进一步加息)及科技股整体估值波动,这些宏观因素可能通过资金面影响BE这类高beta成长股的估值"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy是一家专注于固态氧化物燃料电池（SOFC）技术的能源公司，核心产品Bloom Energy Server可在无需等待电网扩容的情况下，于相对较短时间内为数据中心、工业设施及公用事业客户提供本地化、模块化发电能力，近年来公司将AI数据中心作为重要增长方向进行市场拓展"
+        "body": "Bloom Energy总部位于美国加州,主营固态氧化物燃料电池(SOFC)技术,产品为模块化、现场部署的发电系统,可利用天然气、氢气等多种燃料实现较低排放的本地化发电,主要客户覆盖数据中心、工业制造及公用事业等领域,近年受益于AI驱动的数据中心电力需求增长叙事而获得市场关注"
       },
       {
-        "heading": "行业与需求驱动",
-        "body": "随着AI训练与推理对算力和电力消耗的需求持续攀升，传统电网扩容与新建发电项目普遍面临审批与建设周期过长的问题，这为Bloom Energy等提供分布式、快速部署发电方案的公司创造了市场窗口，媒体报道「Natural Gas Is Plentiful. Getting It Into AI Power Is the Hard Part」反映出天然气供应充裕但基础设施配套不足是行业普遍面临的结构性问题"
+        "heading": "近期业绩与指引",
+        "body": "公司近期季度财报显示营收与产品出货量同比增长明显,毛利率较此前有所改善,市场关注焦点集中在订单积压、与大型电力及云计算客户的合作进展,以及管理层对全年业绩指引的调整,相关评论文章包括围绕财报变化及是否应逢低买入的讨论,反映市场对其业绩解读存在分歧"
       },
       {
-        "heading": "财务与业绩",
-        "body": "公司在最近一次财报电话会议中上调了全年业绩指引，并公布了新的产能扩张计划，市场解读为订单能见度和现金流状况较此前周期有所改善，但具体毛利率、自由现金流转正的可持续性仍需结合后续季度数据持续验证"
-      },
-      {
-        "heading": "估值与多空分歧",
-        "body": "围绕Bloom Energy估值是否合理存在明显分歧，部分评论如「Bloom Energy: One Year Later, I'm Still Long」持续看多AI电力叙事下的长期增长空间，另一部分评论如「Is Bloom Energy (BE) Stock Cheap After AI Demand And Cash Flow Concerns」则对当前估值是否已充分甚至过度反映未来增长预期提出质疑"
+        "heading": "行业与叙事驱动因素",
+        "body": "当前美股市场对AI数据中心所需电力基础设施关注度显著提升,相关报道涉及英伟达、Marvell等公司的巨额AI相关交易,以及天然气资源充裕但接入AI电力系统存在实际难度的讨论,这类叙事为Bloom Energy等分布式发电与燃料电池公司提供了想象空间,但也使其股价与AI硬件板块情绪高度联动,近期Alphabet、英伟达等科技股出现大幅波动,可能通过板块联动影响BE估值表现"
       },
       {
         "heading": "跟踪者动向解读",
-        "body": "公开披露显示众议院议长佩洛西在2026年7月分两次新建BE多头仓位，披露文件于2026年8月21日公开，这类披露通常被市场作为情绪参考信号之一，但其交易动机、持仓规模及退出时点均不透明，不应单独作为投资决策依据"
+        "body": "公开披露显示,国会议员南希·佩洛西在2026年7月24日及7月28日两次新建BE多头仓位,并于2026年8月21日完成披露。国会交易公开信息常被市场解读为对相关产业政策或监管动向的间接信号,但需注意此类披露存在滞后性,且不代表专业基本面判断,投资者应结合公司自身财务数据综合评估,不宜单纯依赖跟踪者动向作为决策依据"
       },
       {
-        "heading": "风险与催化剂",
-        "body": "主要风险包括天然气接入与电网互联基础设施瓶颈、资本密集型扩张带来的融资与执行风险，以及整体AI资本开支周期若放缓对下游电力需求预期的连带影响；潜在催化剂包括新增大型数据中心客户订单的落地、产能爬坡进度超预期，以及政策层面对分布式发电与能源基础设施的支持力度变化"
+        "heading": "风险因素",
+        "body": "主要风险包括客户集中度与大型合同执行风险、长期服务协议下现金流确认节奏的不确定性、天然气发电与储能等替代技术的竞争压力、AI资本支出周期性波动对下游电力需求预期的影响,以及宏观利率环境(美联储近期维持3.75%至4%目标区间,但部分官员主张进一步加息)对成长型公司估值的潜在压制"
+      },
+      {
+        "heading": "估值与展望",
+        "body": "市场对Bloom Energy的分歧主要体现在,乐观者认为公司处于AI数据中心电力基础设施建设的核心赛道,具备先发优势与订单可见度;谨慎者则认为当前股价已大幅计入乐观预期,且公司历史上盈利能力与现金流表现存在波动,一旦AI相关资本支出或科技股整体情绪降温,BE作为高beta标的可能面临较大回撤压力,整体估值消化情况仍需结合后续财报与订单数据持续观察"
       }
     ],
     "comparables": [
       {
-        "ticker": "PLUG",
-        "name": "Plug Power",
-        "note": "氢燃料电池与电解槽制造商，同样受益于清洁能源与分布式发电需求，但盈利能力与现金流状况长期承压，可作为燃料电池板块风险对照"
-      },
-      {
         "ticker": "FCEL",
         "name": "FuelCell Energy",
-        "note": "固定式燃料电池系统供应商，业务模式与Bloom Energy较为接近，规模相对较小，可用于比较同类技术路线公司的订单与交付节奏"
+        "note": "同属燃料电池发电技术路线的直接可比公司,规模较小,可用于对比技术路径与商业化进度"
       },
       {
         "ticker": "GEV",
         "name": "GE Vernova",
-        "note": "电力设备与燃气轮机制造商，是AI数据中心电力基础设施建设的另一主要受益标的，近期财报表现与市场反应可作为行业景气度的参照"
+        "note": "电力设备与电网基础设施龙头,受益于同一轮数据中心及电网升级需求,可作为传统电力设备侧的对照"
       },
       {
         "ticker": "GNRC",
-        "name": "Generac Holdings",
-        "note": "备用发电机制造商，提供分布式发电的另一种技术路线，可用于对比不同发电技术在应对电网扩容滞后问题上的市场定位差异"
+        "name": "Generac",
+        "note": "备用及分布式发电设备厂商,近期亦被市场关注为数据中心电力需求受益标的之一"
+      },
+      {
+        "ticker": "CEG",
+        "name": "Constellation Energy",
+        "note": "大型核电及清洁电力运营商,代表数据中心电力需求叙事中公用事业端的可比标的"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-29T00:42:56.843695Z"
+    "generatedAt": "2026-10-30T00:43:28.421496Z"
   },
   "news": [
+    {
+      "id": "BE-143292458",
+      "title": "3 Growth Stocks With Earnings Growth Up To 66%",
+      "source": "Yahoo",
+      "publishedAt": "2026-10-29",
+      "url": "https://finnhub.io/api/news?id=eee9a6a971e4b51aeafcb54dcaac1f4c3caa9dd0b8bdfb923c9a0d09ba75a50d",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-143286908",
+      "title": "What Did Bloom Energy's Quarter Change For Its Stock?",
+      "source": "Yahoo",
+      "publishedAt": "2026-10-29",
+      "url": "https://finnhub.io/api/news?id=bdf400e88b28aaa2e4d611c81336db8f0a0f4d392026f13c8c9b3afacfe18039",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-143268512",
+      "title": "Should You Buy The Dip In Bloom Energy Stock?",
+      "source": "Yahoo",
+      "publishedAt": "2026-10-29",
+      "url": "https://finnhub.io/api/news?id=4a8a8599d9c42ff684de70a4f448b1d6cb5673cd55d9ef4845d59c3cb599339b",
+      "tags": [
+        "BE"
+      ]
+    },
     {
       "id": "BE-143264299",
       "title": "Generac Is Getting Within Range Of My Buy Target",
@@ -983,41 +1013,11 @@
       ]
     },
     {
-      "id": "BE-143256611",
-      "title": "Bloom Energy Q3 Earnings Call Highlights Guidance Hike & Capacity Plan",
-      "source": "Yahoo",
+      "id": "BE-140003739",
+      "title": "SOLV Energy Q4 2025 Sales $793.630M Beat $593.347M Estimate, Net Income Of $35.54M Vs. $9.78M YoY",
+      "source": "Benzinga",
       "publishedAt": "2026-10-28",
-      "url": "https://finnhub.io/api/news?id=c6b6191b5517c705fe03bc28ce2ca054a096890319b389ba1e8e20aa36a1a535",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-143258905",
-      "title": "Bloom Energy: One Year Later, I'm Still Long",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-10-28",
-      "url": "https://finnhub.io/api/news?id=f5d6e696b28478f281e2d7620a5922596dcbb59fd16351ba8caa4f0bb2df32f0",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-143253602",
-      "title": "Stock Market Today: AI Trade Rebounds as Wall Street Braces for a Fed-and-Big-Tech Super Wednesday",
-      "source": "ChartMill",
-      "publishedAt": "2026-10-28",
-      "url": "https://finnhub.io/api/news?id=659a001cbbb44157199a500f4a6e0963f6216d9388f8bb352a5ce27f78ec69fe",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-143252466",
-      "title": "Is Bloom Energy (BE) Stock Cheap After AI Demand And Cash Flow Concerns?",
-      "source": "Yahoo",
-      "publishedAt": "2026-10-28",
-      "url": "https://finnhub.io/api/news?id=e616868c95908304dd280c981caafd4abd0466361cb200ab16fdc12996073d88",
+      "url": "https://finnhub.io/api/news?id=947a0b7b2088f715b134ec7498df15b6536b957aaf3210837985cffd6cbc24fa",
       "tags": [
         "BE"
       ]
