@@ -354,6 +354,31 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-10-30",
+    "sentiment": "watch",
+    "excerpt": "INFLATION IS WAY DOWN UNDER “TRUMP.” INCOME FOR PEOPLE & COMPANIES IS WAY UP! The Golden Age of America Is Upon Us.",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117529394978444089",
+    "ticker": "",
+    "topics": [
+      "通胀"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-10-30",
+    "sentiment": "watch",
+    "excerpt": "RT @ marklevinshow THE DEMOCRAT PARTY AND THEIR MEDIA ARE LYING ABOUT OUR ECONOMY AND MUCH MORE! CAPITALISM WORKS, SOCIALISM IS A DISASTER! Have you looked at the price of gasoline today? It is DOWN. Have you looked at the price of food tod",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117529191919987147",
+    "ticker": "",
+    "topics": [
+      "关税/贸易",
+      "通胀"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-10-29",
     "sentiment": "watch",
     "excerpt": "Today I am pleased to report, in Breaking News this morning, that the U.S. Economy is BOOMING at 3.4 PERCENT — A Historic Level of Economic Growth. Consumer spending is WAY UP, Business Investment is WAY UP, and Investment in new Equipment ",
@@ -364,16 +389,24 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-10-27",
+    "asOf": "2026-10-30",
     "sentiment": "watch",
-    "excerpt": "When will The Wall Street Journal start calling Artificial Intelligence (AI), a very bad and inaccurate name, SI (Super Intelligence), the name which virtually everyone else is using, or soon will be. In short order, we will be officially B",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117513761542349273",
+    "excerpt": "Even F1 champions love Tesla self-driving",
+    "postUrl": "https://x.com/elonmusk/status/2116287873918140737",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-10-30",
+    "sentiment": "watch",
+    "excerpt": "Trump: “This is Biden’s market” https://t.co/zvCtnHJPf7",
+    "postUrl": "https://x.com/aleabitoreddit/status/2116221086107111712",
     "ticker": "",
-    "topics": [
-      "AI/芯片"
-    ]
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -760,86 +793,6 @@
     "topics": [
       "AI/芯片"
     ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-22",
-    "sentiment": "watch",
-    "excerpt": "Actually $ESMT and my legacy memory names held up better than the rest of the AI trade. \n\nProbably did better... since ESMT is around 1.6x runrate P/E, annualized off July earnings.\n\nThis was more of a durability/PSMC hike sensitivity type ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2113437977749999628",
-    "ticker": "ESMT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-22",
-    "sentiment": "watch",
-    "excerpt": "$NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. \n\nThe CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the memory sector a red ocean in 2029.\"\n\n\"One o",
-    "postUrl": "https://x.com/aleabitoreddit/status/2113433338522546399",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-22",
-    "sentiment": "watch",
-    "excerpt": "$NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. \n\nThe CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the memory sector a red ocean in 2029.\"\n\n\"One o",
-    "postUrl": "https://x.com/aleabitoreddit/status/2113433338522546399",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-22",
-    "sentiment": "watch",
-    "excerpt": "$NVDA Jensen Huang: Surplus of memory supply is unlikely by 2029. \n\nThe CNBC question referenced a Korean newspaper opinion on $KOSPI / Samsung / SK Hynix that predicted \"new supply will leave the memory sector a red ocean in 2029.\"\n\n\"One o",
-    "postUrl": "https://x.com/aleabitoreddit/status/2113433338522546399",
-    "ticker": "KOSPI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-22",
-    "sentiment": "watch",
-    "excerpt": "I don't own $ASTS and not advice, but if you're capitulating just because a stock price went down.. \n\nThere's little investment thesis or conviction in the first place.\n\nPeople always have multi-year ideas like $RKLB becoming the next $SPCX",
-    "postUrl": "https://x.com/aleabitoreddit/status/2113240389813780923",
-    "ticker": "ASTS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-22",
-    "sentiment": "watch",
-    "excerpt": "I don't own $ASTS and not advice, but if you're capitulating just because a stock price went down.. \n\nThere's little investment thesis or conviction in the first place.\n\nPeople always have multi-year ideas like $RKLB becoming the next $SPCX",
-    "postUrl": "https://x.com/aleabitoreddit/status/2113240389813780923",
-    "ticker": "HOOD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-22",
-    "sentiment": "watch",
-    "excerpt": "I don't own $ASTS and not advice, but if you're capitulating just because a stock price went down.. \n\nThere's little investment thesis or conviction in the first place.\n\nPeople always have multi-year ideas like $RKLB becoming the next $SPCX",
-    "postUrl": "https://x.com/aleabitoreddit/status/2113240389813780923",
-    "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-22",
-    "sentiment": "watch",
-    "excerpt": "I don't own $ASTS and not advice, but if you're capitulating just because a stock price went down.. \n\nThere's little investment thesis or conviction in the first place.\n\nPeople always have multi-year ideas like $RKLB becoming the next $SPCX",
-    "postUrl": "https://x.com/aleabitoreddit/status/2113240389813780923",
-    "ticker": "RKLB",
-    "topics": []
   },
   {
     "personId": "jensen",
