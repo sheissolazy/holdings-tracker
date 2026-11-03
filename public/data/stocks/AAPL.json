@@ -3,28 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 344.63,
-  "change5dPct": -1.0,
-  "changeYtdPct": 27.0,
-  "marketCap": "$5.03T",
-  "pe": 39.3,
+  "price": 338.32,
+  "change5dPct": -1.6,
+  "changeYtdPct": 22.2,
+  "marketCap": "$4.94T",
+  "pe": 38.2,
   "revenue": "—",
   "revenueYoYPct": 14,
   "prices": [
-    {
-      "t": "2026-04-30",
-      "o": 270.5,
-      "h": 276.0,
-      "l": 268.14,
-      "c": 271.35
-    },
-    {
-      "t": "2026-05-01",
-      "o": 278.86,
-      "h": 287.22,
-      "l": 278.37,
-      "c": 280.14
-    },
     {
       "t": "2026-05-04",
       "o": 279.66,
@@ -899,127 +885,141 @@
       "h": 351.43,
       "l": 347.3,
       "c": 348.91
+    },
+    {
+      "t": "2026-10-30",
+      "o": 346.72,
+      "h": 349.19,
+      "l": 334.35,
+      "c": 344.63
+    },
+    {
+      "t": "2026-11-02",
+      "o": 342.67,
+      "h": 343.8,
+      "l": 335.82,
+      "c": 338.32
     }
   ],
   "thesis": {
     "bull": [
-      "苹果近期在科技股普遍遭遇抛售之际逆势上涨，市值一度超越英伟达重夺全球最高市值公司位置，显示资金在AI叙事降温时转向现金流稳健、估值相对保守的龙头，具备防御属性",
-      "市场对苹果AI整合（Apple Intelligence相关功能及生态布局）仍抱有期待，英伟达CEO此前言论曾带动市场对苹果AI前景的乐观情绪，若后续产品周期兑现，有望打开新的增长曲线",
-      "硬件与服务双轮驱动的商业模式使苹果对单一环节（如内存、晶圆代工）价格波动的敏感度低于纯AI硬件或半导体公司，在当前内存/显存供应紧张、AI光学及算力股普跌的背景下相对抗跌"
+      "跟踪者动向显示佩洛西在2025年12月30日对AAPL建立了一笔新的长仓（new/long），显示部分政治人物对苹果仍保持边际加仓兴趣",
+      "英伟达CEO黄仁勋公开表态「对苹果AI抱有很高期待」，若苹果在Apple Intelligence及第三方AI应用整合上取得进展，有望打开新的收入增长点",
+      "尽管Q4财报后股价回落，但期权市场在财报前已出现大幅波动预期，显示市场仍高度关注苹果作为核心科技权重股的长期定价权与现金流稳定性"
     ],
     "bear": [
-      "跟踪数据显示佩洛西在2025年12月、2025年10月及2024年12月均有多次减持/退出苹果持仓的记录，仅在2025年12月底出现一次新建仓记录，整体呈现「多次减仓、偶尔小幅加仓」的矛盾信号，难以构成明确的多头指引",
-      "宏观环境明显承压：圣路易斯联储官员穆萨勒姆称需尽快收紧货币政策，叠加中东（霍尔木兹海峡油轮遭袭、伊朗相关地缘风险）、乌克兰局势等不确定性，风险偏好下降对高估值科技股估值形成压制",
-      "近期新闻显示英特尔、博通、Arm、Marvell等半导体与AI硬件链条个股大幅下挫，市场担忧「AI泡沫」降温与超大规模云厂商资本开支增速放缓，若AI相关需求预期走弱，苹果自身的AI产品路线图及供应链（存储器、代工）成本也可能受到波及"
+      "同一份跟踪者记录中，佩洛西在2025年12月24日、12月30日及此前2025年10月22日、2024年12月31日多次出现减仓（exit/trim）动作，累计减持频率明显高于新建仓，长期趋势偏谨慎",
+      "近期新闻显示苹果Q4财报为「喜忧参半」（mixed earnings），财报后股价下跌，叠加大盘因AI资本开支担忧（capex concerns）承压，科技板块情绪偏弱",
+      "服务与生态竞争加剧，如「亚马逊Prime Video超越Apple TV」的报道，反映苹果在流媒体与内容服务领域的竞争地位受到挑战"
     ],
     "watch": [
-      "关注内存及存储芯片供应紧张的持续时间——社交媒体援引亚马逊CEO在a16z访谈中的说法称，内存短缺预计不会在2027年前结束，这可能影响苹果终端产品的物料成本与毛利率",
-      "关注苹果股价与英伟达等AI龙头的市值排位变化，当前苹果重夺全球市值第一的格局是否具有持续性，还是短期资金避险轮动的结果，需观察后续财报及AI产品进展加以验证",
-      "关注美联储货币政策路径及中东地缘局势演变对整体风险偏好的影响，这些宏观变量目前是压制包括苹果在内的大盘科技股估值的主要外部因素"
+      "苹果在第三方AI应用整合及AI商业化路径上的具体进展，包括是否能通过开放生态为AI应用增加抽成或新收入来源",
+      "即将到来的美国中期选举及其对科技监管、关税政策的潜在影响，可能间接影响苹果供应链与海外市场表现",
+      "跟踪者公开披露的交易节奏（如佩洛西系列PTR文件）是否延续减仓趋势，需持续关注后续季度披露以判断机构性或政治圈资金的真实仓位变化"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果（AAPL）是全球市值最高的科技公司之一，业务涵盖iPhone、Mac、iPad等硬件产品及App Store、云服务、广告等服务业务。近期在科技股普遍回调的背景下，苹果股价表现相对坚挺，一度带动其市值重新超越英伟达，成为全球市值最高的上市公司，显示出资金在高波动环境下向其大盘龙头属性的再配置"
+        "body": "苹果（AAPL）是全球市值最高的科技公司之一，核心业务包括iPhone、Mac、iPad等硬件产品，以及快速增长的服务业务（App Store、iCloud、Apple Music、AppleCare等）。公司以强大的品牌忠诚度、垂直整合的软硬件生态和稳定的现金流著称，是市场公认的核心科技权重股之一。"
       },
       {
-        "heading": "业务与增长驱动",
-        "body": "苹果的增长逻辑主要围绕硬件换机周期与服务业务的持续渗透展开，同时市场对其AI功能（Apple Intelligence等）整合进展保有期待。公开信息中提到英伟达CEO此前言论曾引发市场对苹果AI前景的乐观预期，但具体产品落地节奏与用户采用率仍待观察，这是判断公司未来增长曲线的关键变量"
+        "heading": "财务与估值概览",
+        "body": "根据近期新闻，苹果最新一季度（Q4）财报表现「喜忧参半」，财报公布后股价出现下跌，反映市场对其增长动能或指引存在分歧。期权市场在财报前预期出现较大幅度波动，说明投资者对其短期业绩不确定性保持高度关注。整体估值仍处于科技龙头的高位区间，对盈利增长和AI叙事的兑现较为敏感。"
       },
       {
-        "heading": "资金与跟踪者动向",
-        "body": "根据国会议员交易披露（PTR）记录，佩洛西在2025年10月、12月以及2024年12月底多次出现减持或退出苹果持仓的记录（标注为减仓/退出，情绪偏空），但在2025年12月30日同时也出现一笔新建仓记录（情绪偏多）。整体来看，该跟踪者的操作呈现「减持为主、局部加仓」的矛盾信号，不构成清晰的方向性指引，需结合其披露的具体仓位规模与时间点谨慎解读"
+        "heading": "产品与竞争格局",
+        "body": "硬件端，iPhone仍是收入主力，但增长已趋于成熟；服务端面临新的竞争压力，如报道中提到亚马逊Prime Video在流媒体领域已超越Apple TV，显示苹果在内容生态上并非没有短板。与此同时，苹果正探索通过第三方AI应用增加收入的可能路径，显示其在生态开放度上有调整空间，但具体商业模式尚未明确。"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "近期新闻显示半导体与AI硬件产业链（英特尔、博通、Arm、Marvell、Coherent等）出现明显下挫，市场担忧超大规模云厂商资本开支增速放缓及「AI泡沫」降温。与这些AI算力/光学上游公司相比，苹果作为终端消费电子与服务公司，其业绩对AI资本开支周期的直接敞口较小，但仍可能通过存储器成本、代工产能分配等间接渠道受到AI硬件链条波动的影响"
+        "heading": "AI战略与进展",
+        "body": "英伟达CEO黄仁勋公开表示对苹果AI抱有较高期待，一定程度上提振了市场对Apple Intelligence相关叙事的信心。但整体看，苹果在生成式AI浪潮中的产品化进度相对落后于部分同业，目前更多依赖「与第三方AI合作/开放生态」的路径来补齐短板，这一战略的落地效果和商业化节奏仍有待观察。"
       },
       {
-        "heading": "宏观与风险因素",
-        "body": "宏观层面存在多重不确定性：圣路易斯联储官员表态显示货币政策可能进一步收紧；中东局势（霍尔木兹海峡油轮遭袭、伊朗相关地缘事件）、俄乌局势（泽连斯基拟赴土耳其会谈）等地缘政治风险持续存在；此外有报道提及内存供应短缺可能延续至2027年之后，这些因素共同构成对包括苹果在内的大盘科技股估值与成本结构的外部压力"
+        "heading": "跟踪者/机构动向",
+        "body": "公开披露记录显示，国会议员佩洛西对AAPL的交易呈现「多次减仓、偶有新建仓」的混合信号：2025年12月30日出现一笔新建长仓，但同一批次及此前（2025年12月24日、2025年10月22日、2024年12月31日）披露中多次出现减仓（exit/trim）记录。整体减仓频次高于建仓，可能反映持仓结构调整或获利了结，而非单一方向的强烈看多或看空信号，需结合后续披露持续跟踪。"
       },
       {
-        "heading": "多空分歧与观察要点",
-        "body": "当前市场对苹果的分歧主要体现在：一是其「重夺全球市值第一」是否反映了基本面的实质改善，还是仅为科技股普跌中的避险轮动；二是跟踪者（如佩洛西）交易记录中减持与新建仓并存，信号并不一致；三是AI相关产品路线图能否如市场预期兑现，仍需后续财报与产品发布验证。整体应结合宏观流动性环境及同业比较持续跟踪，不宜单凭当前信息得出确定性结论"
+        "heading": "风险与展望",
+        "body": "短期风险包括：财报指引不及预期引发的股价波动、AI资本开支担忧拖累科技板块整体估值、美国中期选举带来的政策不确定性，以及服务业务在流媐媒体等细分领域的竞争压力。展望层面，苹果能否通过AI生态开放及第三方应用整合打开新的收入曲线，将是后续观察的核心变量，但目前多空分歧仍较为明显，尚无清晰共识。"
       }
     ],
     "comparables": [
       {
-        "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "AI算力硬件龙头，近期与苹果在全球市值排名上交替领先，是衡量市场对「AI叙事」与「大盘消费科技」相对偏好的重要参照"
+        "ticker": "MSFT",
+        "name": "Microsoft Corporation",
+        "note": "同为大型科技权重股，在AI商业化（Copilot等）进展上被市场认为领先苹果，可作为AI叙事兑现速度的对比对象"
       },
       {
-        "ticker": "INTC",
-        "name": "英特尔",
-        "note": "近期因财报后大幅下挫受到市场关注，反映半导体板块对业绩不及预期的敏感度，可作为硬件成本与行业景气度的参照"
+        "ticker": "AMZN",
+        "name": "Amazon.com Inc",
+        "note": "在流媒体服务（Prime Video）上被报道已超越Apple TV，可作为苹果服务生态竞争力的直接对比"
       },
       {
-        "ticker": "MRVL",
-        "name": "Marvell",
-        "note": "AI光学及数据中心芯片供应商，近期因超大规模云厂商支出担忧而下挫，可用于观察AI硬件链条景气度对苹果供应链成本的潜在传导"
+        "ticker": "GOOGL",
+        "name": "Alphabet Inc",
+        "note": "同样布局生成式AI与移动生态，其Android开放生态与苹果的封闭生态形成战略对比，可用于评估第三方AI应用整合路径的差异"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-31T00:36:09.272558Z"
+    "generatedAt": "2026-11-03T02:51:16.094308Z"
   },
   "news": [
     {
-      "id": "AAPL-143351441",
-      "title": "What Are Dell Investors Betting On?",
+      "id": "AAPL-143407316",
+      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
       "source": "Yahoo",
-      "publishedAt": "2026-10-30",
-      "url": "https://finnhub.io/api/news?id=9d0b64e854886794173ce73cf005afddf88f18023c6c4ea57047b9708ca28cd8",
+      "publishedAt": "2026-11-03",
+      "url": "https://finnhub.io/api/news?id=29284d441a86610b2ba9e2919d049958a796cd24d93ef45445cd0aff1f36dc1d",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143351433",
-      "title": "Strong Growth Momentum and Rising Revisions Fuel Bright Earnings Outlook",
+      "id": "AAPL-143406740",
+      "title": "U.S. stock futures steady; Apple dips after mixed earnings",
       "source": "Yahoo",
-      "publishedAt": "2026-10-30",
-      "url": "https://finnhub.io/api/news?id=18581d1d4941e001756b0c2ea76c22edb1e2badb8c4cadf2244d406b380973cb",
+      "publishedAt": "2026-11-03",
+      "url": "https://finnhub.io/api/news?id=2d3e46ba6d51e2f89491c613400fa8d8c6374c06707bc9c7d4931147e2a5d434",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143350409",
-      "title": "Apple overtakes Nvidia to become world’s most valuable company amid tech selloff",
+      "id": "AAPL-143405599",
+      "title": "Match Group Q3 Earnings Call Highlights",
       "source": "Yahoo",
-      "publishedAt": "2026-10-30",
-      "url": "https://finnhub.io/api/news?id=2ab228d2c7435ae6a789946286b6875a9a2b6f5ed02e52ebacb8a3b4484d8a59",
+      "publishedAt": "2026-11-03",
+      "url": "https://finnhub.io/api/news?id=9857e840400aab242aa887dd0bf86044f9c7c2c9790e9fa58089030bcefafcff",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143350439",
-      "title": "Dow Jones Futures: Stock Market Sells Off As Apple, Palantir, Midterm Elections Loom; What To Do",
+      "id": "AAPL-143406741",
+      "title": "Apple Q4 Earnings Call Highlights",
       "source": "Yahoo",
-      "publishedAt": "2026-10-30",
-      "url": "https://finnhub.io/api/news?id=0cef08ea889b2b7e946c4c2bede5dc95d1a4873376275e0c36a9e292b8615a57",
+      "publishedAt": "2026-11-03",
+      "url": "https://finnhub.io/api/news?id=69dee7b1e1453341add22fe29786c46c64bdb663479c12c6106d73dffb61faab",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143350440",
-      "title": "Apple Overtakes Nvidia to Become World’s Most Valuable Company",
+      "id": "AAPL-143404010",
+      "title": "S&P 500, Nasdaq Drop As Capex Concerns Grip Tech Investors, Outweighing US-Iran Diplomacy Hope —  ORCL, META, PLTR, AAPL In Focus",
       "source": "Yahoo",
-      "publishedAt": "2026-10-30",
-      "url": "https://finnhub.io/api/news?id=2cce39e7c544718ce1780b4d7962325d477aaf3386c1ea94b83af14319ff0e0b",
+      "publishedAt": "2026-11-03",
+      "url": "https://finnhub.io/api/news?id=e9a70de4daf9bfe53dd942cfad843b8cd4eed3f0a808ef7818d3204090d84f3a",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143351443",
-      "title": "Nasdaq Falls Another 747 Points as Intel Is Way Outside: Stock Market Today",
+      "id": "AAPL-143406747",
+      "title": "Amazon Prime Video beats Apple TV",
       "source": "Yahoo",
-      "publishedAt": "2026-10-30",
-      "url": "https://finnhub.io/api/news?id=5aa8ed08ace9a382c8690181b1a90f58456598226c5d21a27a61e808dceb79f5",
+      "publishedAt": "2026-11-03",
+      "url": "https://finnhub.io/api/news?id=d2d91298c8f1493bc7243b07817bd82bb6879fffda97c063539b24ebe6531679",
       "tags": [
         "AAPL"
       ]

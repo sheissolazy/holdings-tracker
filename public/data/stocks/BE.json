@@ -3,28 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 203.17,
-  "change5dPct": -6.7,
-  "changeYtdPct": -28.3,
-  "marketCap": "$60.1B",
-  "pe": 113.9,
+  "price": 196.25,
+  "change5dPct": -3.8,
+  "changeYtdPct": -32.0,
+  "marketCap": "$58.0B",
+  "pe": 112.6,
   "revenue": "—",
   "revenueYoYPct": 111,
   "prices": [
-    {
-      "t": "2026-04-30",
-      "o": 295.73,
-      "h": 296.5,
-      "l": 261.52,
-      "c": 283.36
-    },
-    {
-      "t": "2026-05-01",
-      "o": 283.94,
-      "h": 291.69,
-      "l": 273.21,
-      "c": 290.52
-    },
     {
       "t": "2026-05-04",
       "o": 297.5,
@@ -899,127 +885,141 @@
       "h": 229.5,
       "l": 219.01,
       "c": 222.3
+    },
+    {
+      "t": "2026-10-30",
+      "o": 203.48,
+      "h": 215.45,
+      "l": 194.15,
+      "c": 203.17
+    },
+    {
+      "t": "2026-11-02",
+      "o": 206.03,
+      "h": 210.09,
+      "l": 194.86,
+      "c": 196.25
     }
   ],
   "thesis": {
     "bull": [
-      "跟踪者动向：佩洛西议员在2026年7月下旬两次新建BE多头头寸（7月24日和7月28日），国会议员提前布局常被市场解读为对公司前景的积极信号",
-      "公司于2026年10月底正式纳入标普500指数，被动跟踪型基金的强制性买入在短期内带来增量资金与流动性改善，提升了市场关注度",
-      "AI及数据中心用电需求持续攀升，电网扩容滞后的背景下，燃料电池等分布式发电方案被视为缓解电力瓶颈的潜在解决方案之一，长期叙事仍未被证伪"
+      "公司与California Resources Corporation（CRC）及其子公司Carbon TerraVault宣布战略合作，目标在加州部署约1GW燃料电池产能，消息公布后股价出现明显盘后上涨，显示市场对增量订单的正面定价",
+      "众议院前议长佩洛西在2026年7月下旬新建两笔BE多头仓位（均为新开仓），8月申报，被部分市场参与者视为对公司前景的正面信号",
+      "AI数据中心建设对电力基础设施的旺盛需求被视为结构性利好，Bloom Energy可快速部署、不依赖电网扩容的固体氧化物燃料电池方案契合这一供电缺口叙事"
     ],
     "bear": [
-      "多篇报道指出BE在纳入标普500时估值接近400倍市盈率，处于历史极端水平，历史数据显示以如此高估值新进成分股的公司后续往往跑输大盘",
-      "同业FuelCell Energy完成融资消息公布后，BE单日重挫约10%，显示市场情绪对负面消息反应剧烈，股价脆弱性较高",
-      "英特尔、Alphabet、亚马逊等科技巨头近期财报引发对AI资本支出泡沫的广泛质疑，科技股遭遇抛售，BE作为AI电力相关叙事受益股估值同样承压，缺乏独立于大盘科技情绪的支撑"
+      "Clough Capital在2026年三季度持仓报告中提及BE对其组合表现形成拖累（weighed on），显示并非所有机构投资者对当前股价或仓位配置持正面态度",
+      "近期大盘科技与半导体板块因资本支出担忧出现剧烈回调（如Marvell、Lumentum等AI产业链个股大跌），作为AI电力叙事高beta标的，BE股价对市场情绪波动的敏感度较高",
+      "燃料电池行业历来依赖大型订单的季度确认节奏及相关税收抵免政策，公开信息未披露具体财务细节，CRC合作的分阶段落地与盈利贡献仍待验证"
     ],
     "watch": [
-      "关注BE后续季度财报与新增订单能否兑现增长预期，以消化当前历史高位的估值水平",
-      "观察标普500被动基金完成建仓后，是否出现获利资金撤离导致的股价回吐压力",
-      "跟踪FuelCell Energy、Plug Power等同业的融资与经营动态，这些消息近期已显示出对整个燃料电池板块情绪的联动传导效应"
+      "CRC与Carbon TerraVault合作的1GW项目后续合同条款、分阶段交付时间表及首批订单确认节奏",
+      "公开持仓动向的后续变化，包括国会议员新增申报及Clough Capital等机构下一季度仓位调整方向",
+      "2026年11月美国中期选举结果及其对能源与气候相关税收抵免政策走向的潜在影响"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy是一家从事固体氧化物燃料电池（SOFC）技术研发与销售的清洁能源公司，产品主要用于数据中心、工业设施等场景的分布式发电与备用电力。公司近期因被纳入标普500指数以及AI数据中心电力需求叙事而受到市场广泛关注。"
+        "body": "Bloom Energy是一家总部位于美国加州的固体氧化物燃料电池技术公司，主营产品为模块化的Energy Server发电系统，面向数据中心、工业客户及电网侧提供分布式、低碳或零碳发电解决方案，近年来受益于AI驱动的数据中心用电需求增长叙事"
       },
       {
-        "heading": "基本面与估值",
-        "body": "报道显示BE在纳入标普500时估值已接近400倍市盈率，处于历史罕见的高位。支持者认为这反映了市场对其在AI用电需求增长背景下业务加速的预期，但怀疑者认为估值已明显脱离公司当前盈利能力，存在较大的回调风险。"
+        "heading": "近期业务动态",
+        "body": "公司与California Resources Corporation（CRC）及其子公司Carbon TerraVault宣布战略合作，目标在加州部署约1GW燃料电池产能以支持脱碳电力供应，消息公布后股价出现明显盘后上涨反应，显示市场对新增订单潜力给予正面定价，但项目仍处于早期阶段，具体合同条款与交付节奏尚待进一步披露"
       },
       {
-        "heading": "近期股价与事件驱动",
-        "body": "近期股价波动剧烈：一方面受益于纳入标普500带来的被动资金买入，另一方面在同业FuelCell Energy公布融资消息后，BE单日重挫约10%，同期Plug Power等同业也出现下跌，显示板块联动性较强。与此同时，英特尔、Alphabet等科技巨头财报引发的AI支出泡沫担忧，也拖累了包括BE在内的AI电力相关概念股。"
+        "heading": "跟踪者与机构动向",
+        "body": "公开披露显示，佩洛西在2026年7月下旬新建两笔BE多头仓位，于8月申报；与此同时，Clough Capital在2026年三季度的持仓报告中提及BE对其组合表现形成拖累，反映政治人物与机构投资者对该股的态度存在分歧，不宜简单视为一致看多或看空的信号"
       },
       {
-        "heading": "多空分歧",
-        "body": "多头观点聚焦于AI数据中心电力需求增长的长期结构性机会，以及标普500纳入带来的资金与关注度提升；空头观点则强调当前估值已严重透支未来增长，且公司盈利能力尚未匹配市场预期，叠加整体科技股估值回调压力，短期内下行风险不容忽视。双方分歧的核心在于AI电力需求增长的实际落地速度能否支撑现有估值。"
+        "heading": "行业与宏观环境",
+        "body": "AI数据中心建设对电力基础设施的需求被广泛视为推动分布式发电及燃料电池需求的结构性因素之一，但同期大盘科技与半导体板块因资本支出担忧出现剧烈波动（如Marvell、Lumentum等AI产业链个股大跌），显示市场对AI相关资本开支可持续性仍存分歧，BE作为电力侧受益标的其股价与该情绪高度联动"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "公开披露显示，国会议员佩洛西在2026年7月下旬两次新建BE多头仓位。此类交易常被市场视为潜在的积极信号，但需注意，国会议员交易披露存在滞后性，且不代表其掌握非公开信息，投资者应谨慎解读，不宜作为独立投资依据。"
+        "heading": "财务与估值讨论",
+        "body": "燃料电池行业历来具有资本密集、毛利率受订单结构与规模效应影响较大的特点；现有公开信息侧重订单公告与持仓变动，未提供BE最新季度营收、利润率或在手订单（backlog）细节，估值判断需结合即将披露的季度财报及产能利用率变化，当前分析存在信息缺口"
       },
       {
-        "heading": "风险与展望",
-        "body": "主要风险包括：估值回调风险（历史高估值个股在纳入指数后的中长期表现往往承压）、AI资本支出放缓风险（若科技巨头削减数据中心投资，将直接影响BE的订单预期）、同业负面消息的联动冲击风险。展望来看，公司能否通过持续的订单增长与盈利改善来逐步消化当前估值，将是决定后续走势的关键。"
+        "heading": "风险与分歧展望",
+        "body": "多空分歧核心在于，一方面公司手握CRC百万瓦级订单与AI电力叙事的顺风，另一方面机构持仓数据显示并非所有投资者认同当前估值；公司对大型单一客户或项目订单的依赖、潜在政策（如中期选举后能源税收抵免走向）及宏观资本支出情绪的敏感性，均构成不确定性来源，建议持续关注订单落地节奏与机构仓位变化，而非短期股价波动本身"
       }
     ],
     "comparables": [
       {
-        "ticker": "FCEL",
-        "name": "FuelCell Energy",
-        "note": "同属燃料电池技术路线的同业公司，近期完成出口信贷融资后股价下跌，并带动BE与Plug Power同步走弱，反映板块情绪联动"
-      },
-      {
         "ticker": "PLUG",
         "name": "Plug Power",
-        "note": "氢能与燃料电池领域的另一主要参与者，常与BE被市场并列比较长期成长空间与现金流压力"
+        "note": "氢能与PEM燃料电池设备商，同样受清洁能源政策与资本开支周期影响，但技术路线与商业模式与Bloom Energy不同，可作对比参照"
       },
       {
-        "ticker": "GEV",
-        "name": "GE Vernova",
-        "note": "电网与发电设备供应商，受益于AI数据中心用电需求增长的叙事与BE有一定重叠，可作为更大市值、更分散业务结构的对比参照"
+        "ticker": "FCEL",
+        "name": "FuelCell Energy",
+        "note": "固体氧化物与熔融碳酸盐燃料电池同业，业务规模远小于Bloom Energy，可用于观察行业整体景气度"
+      },
+      {
+        "ticker": "CRC",
+        "name": "California Resources Corporation",
+        "note": "此次1GW燃料电池合作的直接客户方，其后续资本开支节奏与项目推进情况将直接影响BE相关订单的确认速度"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-10-31T00:35:27.474452Z"
+    "generatedAt": "2026-11-03T02:50:38.411450Z"
   },
   "news": [
     {
-      "id": "BE-143349357",
-      "title": "Bloom Energy Just Joined the S&P 500. Here's What History Says Happens Next.",
+      "id": "BE-143403251",
+      "title": "BE Stock Rallies After-Hours On CRC Tie-Up Targeting 1GW Of Fuel-Cell Capacity",
       "source": "Yahoo",
-      "publishedAt": "2026-10-30",
-      "url": "https://finnhub.io/api/news?id=6d709a7921a8c1c43a8fdc0575b75cbe6c6311b221acff47cd1ffbe4f92cf0b7",
+      "publishedAt": "2026-11-03",
+      "url": "https://finnhub.io/api/news?id=8572bf1bf775321d90c7f57ef027c18b09d0f23e9974b110af8945fdc758888c",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143349528",
-      "title": "FuelCell Energy Sinks 12% Despite Completing $49 Million Export-Import Bank Financing; Bloom Energy Tumbles 10%, Plug Power Falls 4%",
+      "id": "BE-143401967",
+      "title": "4 Energy Stocks for Midterm Elections That Could Go Either Way",
       "source": "Yahoo",
-      "publishedAt": "2026-10-30",
-      "url": "https://finnhub.io/api/news?id=a7d8c6b7a24923091b6dbfb157e8a02195fc869e22a3e6bb112f9fb38ae26286",
+      "publishedAt": "2026-11-02",
+      "url": "https://finnhub.io/api/news?id=fee5dcf760ec8ad3ef6621fb44cb83e73b337c85d7e61ac6cdcfd34054f2e394",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143348569",
-      "title": "Bloom Energy or Plug Power: Which Offers Better Long-Term Upside Now?",
+      "id": "BE-143401570",
+      "title": "Carbon TerraVault Provides Third Quarter 2026 Update",
       "source": "Yahoo",
-      "publishedAt": "2026-10-30",
-      "url": "https://finnhub.io/api/news?id=f4645c539507a450bb32f1b5380d08f28fcc2f4d2319d70d812f0a5a41d2ea81",
+      "publishedAt": "2026-11-02",
+      "url": "https://finnhub.io/api/news?id=aa9d51a9aa951f6a965b74f9649514d2ba434f178081c211882b5d71d18ba694",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143347059",
-      "title": "Bloom Energy Joined the S&P 500 at Nearly 400 Times Earnings. History Says This Is What Happens Next.",
+      "id": "BE-143401571",
+      "title": "California Resources Corporation Announces Strategic Collaboration with Bloom Energy to Advance Decarbonized Power Across California",
       "source": "Yahoo",
-      "publishedAt": "2026-10-30",
-      "url": "https://finnhub.io/api/news?id=7630db7ca07a29e95bb13be536ecf08919c01708d9a869c232390eb7438f3990",
+      "publishedAt": "2026-11-02",
+      "url": "https://finnhub.io/api/news?id=53bbb30552593a51cdf1e6dff2c519eb8dd504dbd737ed652e3551fe7f555d45",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143342996",
-      "title": "S&P 500 Premarket Gainers and Losers on Oct. 30, 2026",
-      "source": "ChartMill",
-      "publishedAt": "2026-10-30",
-      "url": "https://finnhub.io/api/news?id=f22872d6e0272c8669e32fbda3463c3c58797c748cc6622ca28248a3310b49eb",
+      "id": "BE-143401172",
+      "title": "Bloom Energy Corporation (BE) Weighed on Clough Capital’s Portfolio in Q3 2026",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-02",
+      "url": "https://finnhub.io/api/news?id=df2b4d66eb4d4ceca59bcfe76f72df90968fcf10f70ee7d610adb815b4101d82",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143341967",
-      "title": "3 Growth Stocks With Revenue Growth Up To 31%",
+      "id": "BE-143400025",
+      "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
       "source": "Yahoo",
-      "publishedAt": "2026-10-30",
-      "url": "https://finnhub.io/api/news?id=36df6ac2c807466496868154a2618a9e1d35465a5a82adbf292d326a0046e52c",
+      "publishedAt": "2026-11-02",
+      "url": "https://finnhub.io/api/news?id=061c13d7438d48a64c5e5a70c6c2755e23be706ffdcc8016737ebc83728491ea",
       "tags": [
         "BE"
       ]
