@@ -3,13 +3,13 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 338.32,
-  "change5dPct": -1.6,
-  "changeYtdPct": 22.2,
-  "marketCap": "$4.94T",
-  "pe": 38.2,
+  "price": 331.9,
+  "change5dPct": -3.5,
+  "changeYtdPct": 19.9,
+  "marketCap": "$4.84T",
+  "pe": 36.7,
   "revenue": "—",
-  "revenueYoYPct": 14,
+  "revenueYoYPct": 15,
   "prices": [
     {
       "t": "2026-05-04",
@@ -903,123 +903,141 @@
   ],
   "thesis": {
     "bull": [
-      "跟踪者动向显示佩洛西在2025年12月30日对AAPL建立了一笔新的长仓（new/long），显示部分政治人物对苹果仍保持边际加仓兴趣",
-      "英伟达CEO黄仁勋公开表态「对苹果AI抱有很高期待」，若苹果在Apple Intelligence及第三方AI应用整合上取得进展，有望打开新的收入增长点",
-      "尽管Q4财报后股价回落，但期权市场在财报前已出现大幅波动预期，显示市场仍高度关注苹果作为核心科技权重股的长期定价权与现金流稳定性"
+      {
+        "point": "英伟达CEO黄仁勋公开表态看好苹果在AI领域的布局，带动市场对苹果端侧AI产品线的乐观预期，若iPhone端侧AI功能形成实质卖点，有望催化新一轮换机周期"
+      },
+      {
+        "point": "近期科技与半导体板块已从AI抛售中出现修复，大型科技股与半导体股同步反弹，显示市场整体风险偏好并未根本转弱，苹果作为现金流与品牌壁垒稳固的龙头仍具备防御属性"
+      },
+      {
+        "point": "国会议员佩洛西在2025年12月30日的申报中出现新建仓苹果的记录，表明部分受关注投资者在同一时间点仍愿意新增苹果仓位"
+      }
     ],
     "bear": [
-      "同一份跟踪者记录中，佩洛西在2025年12月24日、12月30日及此前2025年10月22日、2024年12月31日多次出现减仓（exit/trim）动作，累计减持频率明显高于新建仓，长期趋势偏谨慎",
-      "近期新闻显示苹果Q4财报为「喜忧参半」（mixed earnings），财报后股价下跌，叠加大盘因AI资本开支担忧（capex concerns）承压，科技板块情绪偏弱",
-      "服务与生态竞争加剧，如「亚马逊Prime Video超越Apple TV」的报道，反映苹果在流媒体与内容服务领域的竞争地位受到挑战"
+      {
+        "point": "同一份申报及此前多次记录显示佩洛西在2025年12月30日、2025年12月24日、2025年10月22日、2024年12月31日多次减持或退出苹果仓位，整体呈持续获利了结倾向，与同期的新建仓动作形成矛盾信号"
+      },
+      {
+        "point": "知名评论员Jim Cramer将苹果与Palantir一并列为可能被「砍仓」的对象，反映部分市场声音对高估值科技股的谨慎情绪正在上升"
+      },
+      {
+        "point": "市场对AI资本支出可持续性与商业化变现能力的疑虑升温，包括对大模型公司估值的质疑以及对「AI货币化」前景的担忧，若AI叙事整体降温，可能压制苹果相关AI产品预期与估值倍数"
+      }
     ],
     "watch": [
-      "苹果在第三方AI应用整合及AI商业化路径上的具体进展，包括是否能通过开放生态为AI应用增加抽成或新收入来源",
-      "即将到来的美国中期选举及其对科技监管、关税政策的潜在影响，可能间接影响苹果供应链与海外市场表现",
-      "跟踪者公开披露的交易节奏（如佩洛西系列PTR文件）是否延续减仓趋势，需持续关注后续季度披露以判断机构性或政治圈资金的真实仓位变化"
+      {
+        "point": "美国中期选举结果及地缘政治局势（伊朗局势、对以色列援助政策变化）带来的宏观与政策不确定性，可能通过消费信心和全球供应链间接影响苹果终端需求"
+      },
+      {
+        "point": "半导体与科技供应链的持续波动，例如Marvell收购Lumentum、AMD与高通等公司财报表现，可作为观察苹果供应链景气度与市场情绪的参考指标"
+      },
+      {
+        "point": "苹果自身AI产品落地节奏能否兑现黄仁勋等人的乐观表态，以及云端AI相关监管规则变化，需要持续跟踪以验证当前乐观叙事的真实支撑力"
+      }
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果（AAPL）是全球市值最高的科技公司之一，核心业务包括iPhone、Mac、iPad等硬件产品，以及快速增长的服务业务（App Store、iCloud、Apple Music、AppleCare等）。公司以强大的品牌忠诚度、垂直整合的软硬件生态和稳定的现金流著称，是市场公认的核心科技权重股之一。"
+        "body": "苹果是全球市值最高的消费电子与软件服务公司之一，核心产品包括iPhone、Mac、iPad、可穿戴设备以及服务业务（App Store、Apple Music、iCloud等）。公司长期以强品牌效应、高利润率硬件与快速增长的服务业务作为核心竞争力，现金流充沛且常年保持大规模股票回购与分红。近期市场关注点集中在苹果能否在端侧AI方面形成差异化竞争力，以推动新一轮硬件升级周期。"
       },
       {
-        "heading": "财务与估值概览",
-        "body": "根据近期新闻，苹果最新一季度（Q4）财报表现「喜忧参半」，财报公布后股价出现下跌，反映市场对其增长动能或指引存在分歧。期权市场在财报前预期出现较大幅度波动，说明投资者对其短期业绩不确定性保持高度关注。整体估值仍处于科技龙头的高位区间，对盈利增长和AI叙事的兑现较为敏感。"
+        "heading": "业务与财务基本面",
+        "body": "苹果的收入结构仍以iPhone为主，服务业务占比持续提升，是利润率改善的重要驱动力。公司在AI领域的战略更多体现为端侧智能与生态整合，而非自建大规模AI基础设施，这使其在本轮AI资本支出热潮中的位置与英伟达、微软等基础设施类公司有所不同。苹果的供应链覆盖半导体、光学元件等多个领域，因此半导体板块及相关并购动态（如近期Marvell与Lumentum的交易）会间接影响市场对苹果供应链景气度的判断。"
       },
       {
-        "heading": "产品与竞争格局",
-        "body": "硬件端，iPhone仍是收入主力，但增长已趋于成熟；服务端面临新的竞争压力，如报道中提到亚马逊Prime Video在流媒体领域已超越Apple TV，显示苹果在内容生态上并非没有短板。与此同时，苹果正探索通过第三方AI应用增加收入的可能路径，显示其在生态开放度上有调整空间，但具体商业模式尚未明确。"
+        "heading": "近期新闻与市场背景",
+        "body": "近期市场新闻呈现出科技股在经历AI相关抛售后出现修复的特征，标普500与纳斯达克指数在美国中期选举日前后随半导体板块反弹而回升。与此同时，市场评论出现分化：一方面有「科技股交易仿佛ChatGPT从未发生」这类质疑AI叙事降温的声音，另一方面黄仁勋对苹果AI前景的正面表态被视为利好催化剂。Jim Cramer将苹果与Palantir并列为可能遭减持的标的，也反映出部分投资者对高估值科技股趋于谨慎。整体新闻背景中，地缘政治（伊朗局势、对以色列援助变化）与中期选举结果等宏观事件为市场增添了不确定性。"
       },
       {
-        "heading": "AI战略与进展",
-        "body": "英伟达CEO黄仁勋公开表示对苹果AI抱有较高期待，一定程度上提振了市场对Apple Intelligence相关叙事的信心。但整体看，苹果在生成式AI浪潮中的产品化进度相对落后于部分同业，目前更多依赖「与第三方AI合作/开放生态」的路径来补齐短板，这一战略的落地效果和商业化节奏仍有待观察。"
+        "heading": "跟踪者动向解读",
+        "body": "从公开披露的国会议员交易记录看，佩洛西在2025年12月30日同时出现新建仓与减持苹果的记录，且在2025年12月24日、2025年10月22日及2024年12月31日也多次记录为减持或退出，整体呈现出持续获利了结的倾向，而非单一方向的坚定增持。这种同期多空交织的记录提示，跟踪者行为更可能反映仓位再平衡或税务规划等因素，而非对苹果基本面的单一明确判断，解读时应保持谨慎，不宜简单视为强烈多头或空头信号。"
       },
       {
-        "heading": "跟踪者/机构动向",
-        "body": "公开披露记录显示，国会议员佩洛西对AAPL的交易呈现「多次减仓、偶有新建仓」的混合信号：2025年12月30日出现一笔新建长仓，但同一批次及此前（2025年12月24日、2025年10月22日、2024年12月31日）披露中多次出现减仓（exit/trim）记录。整体减仓频次高于建仓，可能反映持仓结构调整或获利了结，而非单一方向的强烈看多或看空信号，需结合后续披露持续跟踪。"
+        "heading": "多空分歧",
+        "body": "多头逻辑主要建立在苹果端侧AI潜力、科技股整体情绪修复以及公司现金流与品牌壁垒的防御属性之上；空头逻辑则聚焦于高估值科技股在AI叙事降温背景下的回调风险，以及跟踪者持续减持所反映出的获利了结压力。双方分歧的核心在于：市场是否会继续给予苹果AI叙事估值溢价，还是会因AI资本开支与商业化变现的不确定性而重新评估其增长预期。"
       },
       {
-        "heading": "风险与展望",
-        "body": "短期风险包括：财报指引不及预期引发的股价波动、AI资本开支担忧拖累科技板块整体估值、美国中期选举带来的政策不确定性，以及服务业务在流媐媒体等细分领域的竞争压力。展望层面，苹果能否通过AI生态开放及第三方应用整合打开新的收入曲线，将是后续观察的核心变量，但目前多空分歧仍较为明显，尚无清晰共识。"
+        "heading": "风险与后续关注",
+        "body": "需要持续关注的风险包括：中期选举后的政策走向及地缘政治局势演变对消费电子需求和供应链的潜在影响；AI资本支出可持续性与大模型公司估值预期的变化是否会外溢至苹果相关AI叙事；以及苹果自身AI产品在未来财报周期中的实际落地表现，这将是验证当前乐观与谨慎两种市场声音孰是孰非的关键节点。"
       }
     ],
     "comparables": [
       {
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "AI芯片与算力基础设施龙头，其CEO对苹果AI前景的正面表态是本期苹果多头逻辑的重要催化来源，也是观察AI板块整体情绪的重要参照"
+      },
+      {
         "ticker": "MSFT",
-        "name": "Microsoft Corporation",
-        "note": "同为大型科技权重股，在AI商业化（Copilot等）进展上被市场认为领先苹果，可作为AI叙事兑现速度的对比对象"
+        "name": "微软",
+        "note": "同为现金流稳健的大型科技龙头，但在AI基础设施与云端投入上的策略与苹果端侧AI路线存在差异，可用于对比不同AI布局方式下的市场估值表现"
       },
       {
-        "ticker": "AMZN",
-        "name": "Amazon.com Inc",
-        "note": "在流媒体服务（Prime Video）上被报道已超越Apple TV，可作为苹果服务生态竞争力的直接对比"
-      },
-      {
-        "ticker": "GOOGL",
-        "name": "Alphabet Inc",
-        "note": "同样布局生成式AI与移动生态，其Android开放生态与苹果的封闭生态形成战略对比，可用于评估第三方AI应用整合路径的差异"
+        "ticker": "QCOM",
+        "name": "高通",
+        "note": "移动芯片领域重要供应链与竞争参照，近期财报表现受到市场关注，其业绩与指引可间接反映智能终端市场的需求景气度"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-03T02:51:16.094308Z"
+    "generatedAt": "2026-11-04T01:09:39.017122Z"
   },
   "news": [
     {
-      "id": "AAPL-143407316",
-      "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+      "id": "AAPL-143452754",
+      "title": "Jim Cramer Says the Executioner Is “Axing Palantir and Apple.” What Investors Should Make of It",
       "source": "Yahoo",
-      "publishedAt": "2026-11-03",
-      "url": "https://finnhub.io/api/news?id=29284d441a86610b2ba9e2919d049958a796cd24d93ef45445cd0aff1f36dc1d",
+      "publishedAt": "2026-11-04",
+      "url": "https://finnhub.io/api/news?id=bb2c5c1845bd214a9a1f3e9787c8054e35030394f2f77b450c183cffe9cc901e",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143406740",
-      "title": "U.S. stock futures steady; Apple dips after mixed earnings",
+      "id": "AAPL-143449828",
+      "title": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day —  META, AAPL, AMD, SKHY In Focus",
       "source": "Yahoo",
       "publishedAt": "2026-11-03",
-      "url": "https://finnhub.io/api/news?id=2d3e46ba6d51e2f89491c613400fa8d8c6374c06707bc9c7d4931147e2a5d434",
+      "url": "https://finnhub.io/api/news?id=e450ea498b8f23de5b0eaad0757d576e4fec76e9c2160498ae380e11fd54c8be",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143405599",
-      "title": "Match Group Q3 Earnings Call Highlights",
+      "id": "AAPL-143449831",
+      "title": "Stock Market Today, Nov. 3: Markets Edge Higher as Semiconductor Stocks Rebound",
       "source": "Yahoo",
       "publishedAt": "2026-11-03",
-      "url": "https://finnhub.io/api/news?id=9857e840400aab242aa887dd0bf86044f9c7c2c9790e9fa58089030bcefafcff",
+      "url": "https://finnhub.io/api/news?id=de37a3796a4b947676a9ff15fb1f12a777133a8ceda8acc403b3a46dab067a1f",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143406741",
-      "title": "Apple Q4 Earnings Call Highlights",
+      "id": "AAPL-143449827",
+      "title": "US tech stocks recover after selloff spooks investors over AI spending",
       "source": "Yahoo",
       "publishedAt": "2026-11-03",
-      "url": "https://finnhub.io/api/news?id=69dee7b1e1453341add22fe29786c46c64bdb663479c12c6106d73dffb61faab",
+      "url": "https://finnhub.io/api/news?id=f8e6bccb7e47a9a1770bad604e31251b18e31af88af3181f075f7843724b2e4c",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143404010",
-      "title": "S&P 500, Nasdaq Drop As Capex Concerns Grip Tech Investors, Outweighing US-Iran Diplomacy Hope —  ORCL, META, PLTR, AAPL In Focus",
+      "id": "AAPL-143449388",
+      "title": "What Just Happened To Copart Stock?",
       "source": "Yahoo",
       "publishedAt": "2026-11-03",
-      "url": "https://finnhub.io/api/news?id=e9a70de4daf9bfe53dd942cfad843b8cd4eed3f0a808ef7818d3204090d84f3a",
+      "url": "https://finnhub.io/api/news?id=91311157a120b32f8a2b819be13dc4a8864e13880baee14ab0ed2a08d77ed5dc",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143406747",
-      "title": "Amazon Prime Video beats Apple TV",
+      "id": "AAPL-143449830",
+      "title": "Tech in a “needed reset:” 5 sectors to own right now",
       "source": "Yahoo",
       "publishedAt": "2026-11-03",
-      "url": "https://finnhub.io/api/news?id=d2d91298c8f1493bc7243b07817bd82bb6879fffda97c063539b24ebe6531679",
+      "url": "https://finnhub.io/api/news?id=76db113a813dcf20d6d5e4294b4391fea36870665740938da4fca386df60c3f5",
       "tags": [
         "AAPL"
       ]
