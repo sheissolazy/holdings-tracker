@@ -1,424 +1,413 @@
 [
   {
-    "id": "AAPL-143452754",
-    "title": "Jim Cramer Says the Executioner Is “Axing Palantir and Apple.” What Investors Should Make of It",
+    "id": "AAPL-143498180",
+    "title": "What Cirrus Logic (CRUS) Said on Its Q2 Earnings Call",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-05",
+    "url": "https://finnhub.io/api/news?id=2abf1703fee8030e4bc8efe52248e2991280806265bc6d4023d3f0db39058bbf",
+    "tags": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "gen-8717695",
+    "title": "Beaten at home, Trump faces stark choice on Iran: deal or escalation - Reuters",
+    "source": "Reuters",
+    "publishedAt": "2026-11-04",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc3dTRDFGYS1HSWtZcGh3ZTh2MjRleFhNUkwtR0wwSUd3TWlsQU1tcjI2ZG1fa1RxNHEyRDJsSUpjTzNGb0xTRE90Umh1RVdncGxtN29NNVhXel9PMlZ3UEQ1bDJzTkh4V052MEh5UFFteDRHakRVTzVQLS1rdjEzM2xjZDlYdjhCWkxwMkZOMjVSUlhOV2NCVl9ETFROeEN3ZENWQmZiejJhLXctcHFDUkc5d3k?oc=5",
+    "tags": [
+      "宏观",
+      "双边关系"
+    ]
+  },
+  {
+    "id": "gen-8718229",
+    "title": "Trump says Hegseth doing 'a very good job' as questions swirl about his future - Reuters",
+    "source": "Reuters",
+    "publishedAt": "2026-11-04",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYTEzMDVoRDFiSGh1VHBhVGVTV2JlZ2g3dVk0a2VCMjNVdENMQkQ1bk5vVDA5OHBIS0daTVVfeUJWYnpZdzdBMld1VXZPTGdBdVRScG4xSlpKWHRScXpOcFhFS2MxbzZ6OGF2OHNwSXBEczh3b2doemhkSHFKWFFxZjZDWVpHVFVheFhXcWYxS0tyYlVBbS00dnl3aDlLYTd5MEx4MVMzdHl1TWJ0OHo4dF9aeWRhU3JPOWc?oc=5",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8718123",
+    "title": "Republicans call for Trump to change course after midterm drubbing - Reuters",
+    "source": "Reuters",
+    "publishedAt": "2026-11-04",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamFhVEozSjRLb3lJNlFlTTZ4dmtZbjBGdTJHOGNXdmZqXzh6VGhqN3Z2czQ5VUdTaE5KeTMwdHNtUWhVRldhb2hhbGJMNUhDR3NfbF9sOWYyWHVFZHdPeU43OElBMzhnQnQzenpkdzJlQWVya0tMQUhaV1pPN1UwWlVlMXZpMXQxa191LVN5SEZSdWh5T21jcXRycHpOUkI5ZWhhZm4xSktCQnRfRnFhcDZn?oc=5",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8717063",
+    "title": "Explainer: How the Democratic sweep could change US energy policy - Reuters",
+    "source": "Reuters",
+    "publishedAt": "2026-11-04",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVlEaW9lb05hT0RtOW5tUnZ1Yk5RUXV0aU5sTFlodXZ6T3dnVWdkUHpqdm45VU5mYlZIT1dFcmdCRmo1UmwxUHljMnMzX2w2S3lkMXdHQy1ZZFhCTlkyTTYzejluSF9GdXFoSEdnN0E3NjlSd0xWWEo1NEhzR1VNLWN1U21OamxGS2V6Nk5uTjZjWXAyVHNTVUhCdTJhRGRzR29Tcg?oc=5",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8717796",
+    "title": "Cramer: What must happen for Home Depot to keep its 25% monthlong rally going",
+    "source": "CNBC",
+    "publishedAt": "2026-11-04",
+    "url": "https://www.cnbc.com/investingclub/2026/11/04/cramer-what-must-happen-for-home-depot-to-keep-its-25percent-monthlong-rally-going.html",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8717795",
+    "title": "Prediction markets cement their status after forecasting Democratic sweep of Congress",
+    "source": "CNBC",
+    "publishedAt": "2026-11-04",
+    "url": "https://www.cnbc.com/2026/11/04/prediction-markets-2026-midterms-election-results.html",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8716944",
+    "title": "Vance repudiates Iran war after US electoral defeat - Reuters",
+    "source": "Reuters",
+    "publishedAt": "2026-11-04",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa013TjNzRzN3VjI3QVg1bEtHRjdHNjFyeVpZTURvOWw1M1cwX2dpZXhKUXVTVEZRUjJTS20tNjBHSUlSS3NnOU4zZENjTmRoTHZmN1lEZE9lS0dRU1ROWWxnaFlhRXNtZUkzTGlHVnZ6YmpfTERySXRfV3FzOEd0bmgzOW5oVlJqa1FONmI3NjVleWVZR2d6LTY1dlZqUURPMnU3ZkpDQQ?oc=5",
+    "tags": [
+      "宏观",
+      "双边关系"
+    ]
+  },
+  {
+    "id": "gen-8718002",
+    "title": "Democratic Congress could test decades of US support for Israel - Reuters",
+    "source": "Reuters",
+    "publishedAt": "2026-11-04",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR0hYQWE5dUNLaGI1dmd2V1J0a0lodEcxd3Vac2RhT1MxSkJZbE56NTRPOVMyYm16dzR6MzBKVzVTSTZCSi1UTEE1ekl4NHB3NWduajg5NkdrVXBubEVhMmZQMUlTS01tZERtNm1zc2xNN0ZWTEdQalFUX0pibUVfVk5PMU9Tc3h2S1dDX0JodUphYXQwN2d1czB1Z0lxM3o0d3Q0?oc=5",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8715775",
+    "title": "Markets cheer Democratic win, betting divided Washington means fewer policy shocks - Reuters",
+    "source": "Reuters",
+    "publishedAt": "2026-11-04",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa19fZ0FrSFljZ2xPQlpBRmJ4NUFwcGZfME5lOGRNYnVKb2dtdldILTNDRHBwM3c1YzRiWVpXVUY1c3NzWVlINHAweEFjTUNaeTZwNjc3Q2swM2U4ZEk3SWJvdHJkVEQ4dUU4WEFnaEhoMDFONGhSd1I3TkthSkRmbWtQUzRBRjRuNGprcEEweUJTb3RXRktwaHZKMVlEM1RyaGZTVUluX3o5dXRlcElQVS1XVVVuTlE2?oc=5",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8713806",
+    "title": "Oil slumps after midterm election rebuke to Trump raises bets on Iran war exit - Reuters",
+    "source": "Reuters",
+    "publishedAt": "2026-11-04",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQUEyU0pEVG8xTHJtT2xCU0ltcXVTalphM0RNTEZ0UVlCTW5Qbjg4cS1RQnh5QXZnVEZvdnBacmZRM2FhMWJLWXVjU08yNkpvOHZiLTUtSGN0Mk55NGFBNWdxTmR4b3ZBeGNlX3ptUGNaRVFzRzhyNDZodklncGFZaV96cUxHY1Q1ODZWdmpTVWlWRVp4bVdJb0Zrb1pLaXVsUFFySUd4cm40cFphNGZB?oc=5",
+    "tags": [
+      "宏观",
+      "双边关系"
+    ]
+  },
+  {
+    "id": "gen-8717797",
+    "title": "Saudi, Syrian defence ministries sign cooperation agreement, SPA reports - Reuters",
+    "source": "Reuters",
+    "publishedAt": "2026-11-04",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQmUtR3gzU3paNkVHcE1aTUhvSXZ0YUVRdlpJak41aE1CMDdxLW1DUG5YOWI4cm1ZVTNabWcxR3hQNnlkRW5makZQeVhmRU1XcXZzN0VwMXpTaVQyeWo5SGFjYVQtUHlxXzEzUUxDdFd6WWl6TDNSanVycmhvVFRXTzNEd2lrS2JZSUNPZE5MajdJUEhKY1NjNnBMUzdBcFpnQ2dKTE5KVHJzd2lka3V1RW9KNFFUQkxGNnMyeVg3NDZsQQ?oc=5",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8717366",
+    "title": "Why we're kicking CVS out of our Bullpen watchlist. Plus, Intel's CEO makes a stand",
+    "source": "CNBC",
+    "publishedAt": "2026-11-04",
+    "url": "https://www.cnbc.com/investingclub/2026/11/04/why-were-kicking-cvs-out-of-our-bullpen-watchlist-plus-intels-ceo-makes-a-stand.html",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "NVDA-143495630",
+    "title": "If You'd Invested $5,000 in VOO 15 Years Ago, Here's What You'd Have Today",
     "source": "Yahoo",
     "publishedAt": "2026-11-04",
-    "url": "https://finnhub.io/api/news?id=bb2c5c1845bd214a9a1f3e9787c8054e35030394f2f77b450c183cffe9cc901e",
-    "tags": [
-      "AAPL"
-    ]
-  },
-  {
-    "id": "gen-8713295",
-    "title": "US has no immediate plan to strike Iran, Trump tells FT - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-03",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0FkNGEyakJsS3Z6clp1MWY0LURUZFRrUTVmWlBQRVQ4NTJVQzJyei1qcDVVMjRXbEJiYlVXSnQtdTZ1ZUJuRGZOYno5bUNQM0tpSEsxUWJ1ampYcm0zYnZMZ3dKRzdQMlVyRDlpNTBpMlZ1a2RLamxrMU9EVFdKaHNHMzVWTkQ5QjRna0R0MmZBUjZKcjItTg?oc=5",
-    "tags": [
-      "宏观",
-      "双边关系"
-    ]
-  },
-  {
-    "id": "gen-8713098",
-    "title": "As Americans vote, Trump says US will stop $4 billion in aid to Israel - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-03",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTnAzZzVDS3N1RTJJdnkxYUJPQkl1X3h4d3hZaC1MX0RwXzRHOGRybmM3QjEzR1kybkJIUmNYcnVPbkNPMkt6TFBnTEdOYWFJemJkelBhVXZsRDQ5VG4wc1lSS0Q2dlRlUmV0VHI2Y3YxNWstRWVPUV95Y2pNUVp5TUlES3pCMC1GUzNTTXVfWWlGd1JlQ3p1XzJUWmJmbzlWUmtYTFlXNDFlZw?oc=5",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8713032",
-    "title": "Election Day: Here is the No. 1 issue we're watching as a signal for stocks",
-    "source": "CNBC",
-    "publishedAt": "2026-11-03",
-    "url": "https://www.cnbc.com/investingclub/2026/11/03/election-day-here-is-the-no-1-issue-were-watching-as-a-signal-for-stocks.html",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8713018",
-    "title": "Ex-Amex CEO shares when business leaders need to speak up about politics: 'You should care about what happens in our society'",
-    "source": "CNBC",
-    "publishedAt": "2026-11-03",
-    "url": "https://www.cnbc.com/make-it/2026/11/03/ken-chenault-ceo-politics-voting-rights.html",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8713108",
-    "title": "Marathon profit beats estimates on soaring margins; strikes $4.2 billion refinery deal with CVR - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-03",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYk1jSlk5alhjdDdoMVY1U240WngyaDYwVGhJWUtKX2tmdDBaTXJ5MXlCaGZ5VVJjRTNRZE9nWHo2UkdjbXlDT0h6RE0tNTJFZlYxT2RRN1M5TTJTS2hUV25nMnRUbzNBeGhlalI0bjFIejktLUkwZ3QtLThGU1g1R3pnYkhjVHk0Q2VHb2tjNHFZT0xNWC1zRWhrOG9zWnFCaVJYQm1KZkhKTFhYMlVuMTFuVmtLR3VM?oc=5",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8713110",
-    "title": "Israeli ex-generals condemn settler violence, help Palestinian farmers - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-03",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcXVPVE1ZTHdtRTFaaW9Ga2dYeGNoNmJiSlBVd29tZGZZdHdEMVNVMEZzcmRvelJrdjJSaXZ3TGJRNEpYdWlhSmFIa0ozYXhYQWJvMEpTY21hMUZfel90QTkxalRvelZKTGpjWExJUEtGZ3VxVlNaLTAyU2d0VUt6eGZyMEtReFdqRVFhdmJPNG1hbkkyNGlaTFRBZFZmZlNucXh3MWdoQzhLaXZPd3JpTUtXd0JOcnAyb09EcUJXX3I?oc=5",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8713015",
-    "title": "Ghosted after a job interview? There's a website for that—and thousands of frustrated job seekers have weighed in",
-    "source": "CNBC",
-    "publishedAt": "2026-11-03",
-    "url": "https://www.cnbc.com/make-it/2026/11/03/employer-ghosting-job-interviews.html",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8713096",
-    "title": "EXCLUSIVE: US intelligence sharing has fractured under Trump, officials say - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-03",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ1RQX29mdC10ZFVoTm51R3Z1YkkzMmVDdHFtYUN5RzdhZG8yNEFXM2M4blI1ZnZNRHM1SXVNc2dNbFdSb0Zoam55N25mX0o3RFNlQmY4ejNFRE9zenpSRjVDNklUaDBvZ1pjdUU2ZlhKUnFKVVc3MFNuM2tGVXhjZkJtd3h4MjZIdWtTSk8zdmNuZ0Qxal9EN3IxVnRyYW9iWWRMUVN2R1lvck81N2ota2x6WlI?oc=5",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8712999",
-    "title": "Binance co-CEO Richard Teng says hackers used fake job interviews, AI tool to steal $6.3 billion in crypto 108511116",
-    "source": "CNBC",
-    "publishedAt": "2026-11-03",
-    "url": "https://www.cnbc.com/2026/11/03/binance-co-ceo-teng-says-hackers-used-fake-job-interviews-to-steal-6point3-billion-in-crypto.html",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8713089",
-    "title": "COMMENTARY: On AI and Iran, Trump risks bombing himself in the foot - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-03",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmtQdFh0bkk2aXhMdk5pZTFnWkxib1RjTmlZMnFva0pNUFprSExfMHB0VW95QnI1aUZQR3p2b093Vmo4cFI1NzJKZl9XWEFCUmp1QkE3Z20xdEFiMWZOVk5kT3JUUG92bkpEZ1ZrZm9ZV3RXMFRrQ2h1T0hCOFVyZnhiMkk3a3lrVXg4Y29NOGdWX0ZEWFBvMTk4NzRfOWRKYmFZNWNBTjUzQWw0a2RCMXlKY3BuMTBOejVvcEZ6TkFzY2s?oc=5",
-    "tags": [
-      "宏观",
-      "双边关系"
-    ]
-  },
-  {
-    "id": "gen-8713092",
-    "title": "Gulf oil flows dip in October from post-Iran war high, data shows - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-03",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNHNPY2VaUDh6Wm5mQi1obXBHZkJBVUVTODF0d1drdkY2XzBlMDZMQ3gxdFQyUnpxR1B0Y2I0QXdiSndDelZ4UUJEY1p6a1hSX0hYWnZQb0Q1aWJvdkFjek44dEliMVlwZHlrc29FYVNmOTlvSjlwS3NSc2FKaWtRQnNjOEtXeUo2RVAxOG1LUWF4UjVIakptR3g5RHhTX3llXzBxaVZMY0JfN1d1?oc=5",
-    "tags": [
-      "宏观",
-      "双边关系"
-    ]
-  },
-  {
-    "id": "gen-8713093",
-    "title": "Oil services firms face major cost pressure from Iran crisis, execs say - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-03",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOczMwcS1vUnEzdnFTRElKeTJhSUt3Q2F3bTZJMFRkT0h3cU5OSHFpTUFzWDRMd1FzaDR6RGV4U3FlbFZodDFuXzNjZGRNZUdYeUFPdzZqQXFqRWxnaTVBYkViYkZ3VFVxZ3ZkRDV4Q09TRjlUSUh3WXZRZjgxUkMxXzB6VWl1bjl2eW5YZzVacjFycGdHMHc4NHlpbjZZTG9aekFBaGVfcHNNZkktUTRKMGdNWjVoVkpK?oc=5",
-    "tags": [
-      "宏观",
-      "双边关系"
-    ]
-  },
-  {
-    "id": "NVDA-143449290",
-    "title": "Stock Market Election Night: Dow Futures, AI Stocks, Elon Musk In Focus; AMD, Arista Lead Earnings Winners (Live)",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=66a957fd9ea828523ddd20d41168ae0df47ca0ad1c179b59c013acc2a0811fbe",
+    "url": "https://finnhub.io/api/news?id=a8717cc5117332907ac443bedafd12967ae0ef2a60b791f12c16fd6af5ca8ba7",
     "tags": [
       "NVDA"
     ]
   },
   {
-    "id": "NVDA-143449850",
-    "title": "What Is Nvidia (NVDA) Asking Cloud Clients To Change Under New China Rules?",
+    "id": "NVDA-143495614",
+    "title": "Nuvectis Pharma, Inc. Q3 2026 Earnings Call Summary",
     "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=6c60cb8e77fc34073aa007e7725e51d40ea1927e99fa47c552ec067b46ec44f4",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=e34c300d26bdc85f68821900d864f47260bdebf14325d783e6d4dc3aee0734a0",
     "tags": [
       "NVDA"
     ]
   },
   {
-    "id": "NVDA-143449863",
-    "title": "3 Key Takeaways From Upstart's Latest Report",
+    "id": "NVDA-143495615",
+    "title": "Natural Resource Partners L.P. Q3 2026 Earnings Call Summary",
     "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=d04046ad277011fd7e40e9b74c99553605078d6b09a7aa97fb0977620097a80c",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=7e69db937a9b659406741334110dcc5dd5229b951953063ef07ce8c653c1c319",
     "tags": [
       "NVDA"
     ]
   },
   {
-    "id": "NVDA-143449867",
-    "title": "Should You Buy Qualcomm Stock Before Its Nov. 4 Report?",
+    "id": "NVDA-143495616",
+    "title": "Royalty Pharma plc Q3 2026 Earnings Call Summary",
     "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=80c10546ae9e61958f1a2bd774bd8e5996cf71bb88f66b46b3b5f9603c85237c",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=9c07f0c980397106b1d5f0a46fec2cb65638a0207a724f091d46ce392ccfe936",
     "tags": [
       "NVDA"
     ]
   },
   {
-    "id": "NVDA-143449851",
-    "title": "Ferrari N.V. Q3 2026 Earnings Call Summary",
+    "id": "NVDA-143495617",
+    "title": "NNN REIT, Inc. Q3 2026 Earnings Call Summary",
     "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=79587de4f2fda7c1e82d28e4dcb6e00bddbebd0bcf675815a6851a3b11b285a8",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=0950c0d4b9fd07b8ec9ed4ab389e454db488231a0b30b50f0f2f66f1a5031cc3",
     "tags": [
       "NVDA"
     ]
   },
   {
-    "id": "NVDA-143449852",
-    "title": "Regal Rexnord Corporation Q3 2026 Earnings Call Summary",
+    "id": "NVDA-143495618",
+    "title": "Navios Maritime Partners L.P. Q3 2026 Earnings Call Summary",
     "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=c2a23315c1ec1f89e300f267a29adb2237fe1f5fd1210371fc4a27f6b62f17c0",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=e5b0bb11b6fb8568c12468f729a688f32500dcaf0f372e8b9a7612f8e952fc64",
     "tags": [
       "NVDA"
     ]
   },
   {
-    "id": "MRVL-143449881",
-    "title": "Stock Market Today, Nov. 3: Marvell Shares Edge Higher After Premarket Drop on $115 Billion Lumentum Deal",
+    "id": "MRVL-143495687",
+    "title": "5 Best Performing AI Stocks in 2026",
     "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=27f6903643289b9fe21b21f193cc476823a7199b632ad3886fee1e45e9c15de3",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=b4f4fba4c22dff881a379c0e07375a5464c456e61f6431b08b19d5031de69066",
     "tags": [
       "MRVL"
     ]
   },
   {
-    "id": "MRVL-143449929",
-    "title": "What Just Happened To Lumentum Shares?",
+    "id": "MRVL-143495655",
+    "title": "Marvell Sinks 7% as Democratic Sweep Hits AI Data-Center Stocks",
     "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=62847bf1b355d8b3865dc88c3523287c218671eabe5e32bd836b35a1600ffc3f",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=819a9e84e7ef8488c492bf38b2fbc4fcc093853382f3865ed08a4334bcde5be4",
     "tags": [
       "MRVL"
     ]
   },
   {
-    "id": "MRVL-143449895",
-    "title": "Q4 QQQ Roadmap: Navigating AI Turbulence & Market Headwinds",
+    "id": "MRVL-143495809",
+    "title": "Marvell Technology (MRVL) Stock Sinks As Market Gains: What You Should Know",
     "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=041824fbece43af3d68ecd4999d536276956cccdefa16c904ec9c7beefe6dda2",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=9e57ef044e544f2ac9924574dfc519cb004a27a6dfe577951fc172c84956e2b7",
     "tags": [
       "MRVL"
     ]
   },
   {
-    "id": "MRVL-143449135",
-    "title": "Fabrinet Lost 32% in a Month. Barclays Sees 58% Upside From Here",
+    "id": "MRVL-143494582",
+    "title": "Lumentum Fell to $750 With Marvell’s Offer Worth $820. Its November 5 Report Tests the Floor",
     "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=d1c4cb2e700eeaf8845af3a4c569c82861a7d043b1f90595379f70b40d8b1c52",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=b64c482432c8a914dcbed67c231ae26e33d3ab29b10f1e97b49d73b05ee4620c",
     "tags": [
       "MRVL"
     ]
   },
   {
-    "id": "MRVL-143449001",
-    "title": "Did The Market Read Cerebras Stock Right?",
+    "id": "MRVL-143494558",
+    "title": "Top Research Reports for Microsoft, SpaceX & Marvell",
     "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=7a7f53556ad9a08fe67c7ead69fd2f5d77b96602ee7d7f1b6cb3c1b555643ffa",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=2229ed9c420b9f0425a952b065d7e7a13514eafd745c423921cbd5fd47b8db32",
     "tags": [
       "MRVL"
     ]
   },
   {
-    "id": "MRVL-143449134",
-    "title": "Marvell to Acquire Lumentum in Historic $115B Tech Deal",
+    "id": "MRVL-143493715",
+    "title": "Lumentum Sinks 10% With Marvell as Blue Wave Hits Data-Center Stocks: “Premium Can Quickly Go Negative”",
     "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=75638c7805549cdb7a033a5344423db553a233499530c9342fa9eaad4b5d806c",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=1cdceec657cbed53cfa2bd887931d3c3f56bc03fe74c6f4e321f5c81643ce669",
     "tags": [
       "MRVL"
     ]
   },
   {
-    "id": "BE-143452110",
-    "title": "S&P 500 After-Hours Gainers: Tuesday Postmarket Movers",
-    "source": "ChartMill",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=b841c0cf723b24b85d977911a7fc41eb245d56271544418191a11d5cc383e566",
+    "id": "BE-143494862",
+    "title": "Bloom Energy Stock In Focus After California Power Deal",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=037173d5093abc4b507210b70424f93520c0ac4913aec1745c2d4f174a32f02d",
     "tags": [
       "BE"
     ]
   },
   {
-    "id": "BE-143448198",
-    "title": "Apple, Palantir, Pfizer, Marvell, AMD, Bloom Energy, Gartner, and More Stocks That Explain Today’s Market",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=4a1c1a5f2bbf2ce994b251c5a1229ae53dd8d66167dabc857cd0a767af92a13b",
-    "tags": [
-      "BE"
-    ]
-  },
-  {
-    "id": "BE-143449196",
-    "title": "What California Resources (CRC) Said on Its Q3 Earnings Call",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=567ce4453c4ef8ff58f76b8db044d9aafbe4d32c98b544251936993d0e82b430",
-    "tags": [
-      "BE"
-    ]
-  },
-  {
-    "id": "BE-143452107",
-    "title": "S&P 500 Top Movers for Today: Gainers and Losers",
-    "source": "ChartMill",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=7ec64d703f666f974768c541ddf76f51f8ef6236393ec9baa9390a7e6afbe0e0",
-    "tags": [
-      "BE"
-    ]
-  },
-  {
-    "id": "BE-143448403",
-    "title": "Bloom Energy (BE) Signed A Carbon Captured Power Deal In California",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=92b0a4dccec7f33999f3d1c93b774925dcc39c27e39a0b05c0ac40218c93a9cf",
-    "tags": [
-      "BE"
-    ]
-  },
-  {
-    "id": "BE-143447008",
-    "title": "Why Did Bloom Energy Stock Jump 10% Today?",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=8ff3199841725ac13d8ba91136d8ed8c35ccfa5dc1e1971b742a770176f161f7",
-    "tags": [
-      "BE"
-    ]
-  },
-  {
-    "id": "AAPL-143449828",
-    "title": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day —  META, AAPL, AMD, SKHY In Focus",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=e450ea498b8f23de5b0eaad0757d576e4fec76e9c2160498ae380e11fd54c8be",
-    "tags": [
-      "AAPL"
-    ]
-  },
-  {
-    "id": "AAPL-143449831",
-    "title": "Stock Market Today, Nov. 3: Markets Edge Higher as Semiconductor Stocks Rebound",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=de37a3796a4b947676a9ff15fb1f12a777133a8ceda8acc403b3a46dab067a1f",
-    "tags": [
-      "AAPL"
-    ]
-  },
-  {
-    "id": "AAPL-143449827",
-    "title": "US tech stocks recover after selloff spooks investors over AI spending",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=f8e6bccb7e47a9a1770bad604e31251b18e31af88af3181f075f7843724b2e4c",
-    "tags": [
-      "AAPL"
-    ]
-  },
-  {
-    "id": "AAPL-143449388",
-    "title": "What Just Happened To Copart Stock?",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=91311157a120b32f8a2b819be13dc4a8864e13880baee14ab0ed2a08d77ed5dc",
-    "tags": [
-      "AAPL"
-    ]
-  },
-  {
-    "id": "AAPL-143449830",
-    "title": "Tech in a “needed reset:” 5 sectors to own right now",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=76db113a813dcf20d6d5e4294b4391fea36870665740938da4fca386df60c3f5",
-    "tags": [
-      "AAPL"
-    ]
-  },
-  {
-    "id": "SMH-143448948",
-    "title": "Two 2026 Midterm Results, Two Portfolio Ideas, Risk On/Risk Off",
+    "id": "BE-143495393",
+    "title": "Bloom Energy: Why This Selloff Looks Overdone",
     "source": "SeekingAlpha",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=16aba1ecd04243ba7bdbcfc6121e60b0b90b0775ee2130acca32b4cd17340a22",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=2f6fd41aa4f9848ed26797b86838d92289ca0b3a2e2a2f7d455dead196082f31",
     "tags": [
-      "SMH"
+      "BE"
     ]
   },
   {
-    "id": "SMH-143442151",
-    "title": "Tech Stocks Are Trading as If ChatGPT Never Happened, Data Shows",
-    "source": "Benzinga",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=babeed393c3ca79a478f0dd7d00212006c416e70f5f29ad54e62bd0435069337",
+    "id": "BE-143492763",
+    "title": "Bloom Energy Sinks 8%, Lumentum Down 11% as AI Power Stocks Fade After Democrat Sweep",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=a556fc7dd49dff32da21650be7f26b70e6be1ff2c799e911fdc89d31a9c3584c",
     "tags": [
-      "SMH"
+      "BE"
     ]
   },
   {
-    "id": "SMH-143442152",
-    "title": "EXCLUSIVE: 'AI Monetization' Is the Real Threat: Why China's Cheap Models Could Rattle These ETFs",
-    "source": "Benzinga",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=212507ddfcf8a8e7187dbd7af069fa20664a328534836ede78a679c49d8b4e62",
+    "id": "BE-143490701",
+    "title": "Bloom Energy (BE) Raises Full-Year Outlook Following 166% Revenue Surge",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=25c3bdb40ede9007fdd269c5ba242cee3c1879325eb926871f0ed504e19b4a61",
     "tags": [
-      "SMH"
+      "BE"
     ]
   },
   {
-    "id": "SMH-143441698",
-    "title": "Tech's Biggest Winners Just Became The Market's Biggest Trap",
+    "id": "BE-143490702",
+    "title": "Argan (AGX) Shares Fall After Record Q2 Earnings as Backlog Dips to $2.5 Billion",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=6e7651d62b8387bdf2232fe50da178a4441a3769c48854da71cdca4f07d0db04",
+    "tags": [
+      "BE"
+    ]
+  },
+  {
+    "id": "BE-143493241",
+    "title": "Bloom Energy: The AI Revolution Needs Electricity Now",
     "source": "SeekingAlpha",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=4c8f29c7b4f65ceb83b2e85b6becb35a98a0785d8b59212bcca37426a0a5e37f",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=eae0348543b4f7bca5afde837a580c7ae9eedb95d03c582689ee8c93b018994e",
     "tags": [
-      "SMH"
+      "BE"
     ]
   },
   {
-    "id": "SMH-143442153",
-    "title": "Howard Marks Questions Anthropic's $1.5 Trillion-Plus Valuation: 'Can We Really Fool Ourselves Into Thinking We Know...'",
-    "source": "Benzinga",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=d4ee44071a6c1e4bbd5cdbac42fb40b98f4edcbc02f4a69d016c576ef6f12875",
+    "id": "AAPL-143495593",
+    "title": "Dow Jones Futures Rise After Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally. CoreWeave, SpaceX Skid.",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=bd94200a841a17ec957529ce3b50994f2869aecca695dd519db6c16500753c39",
     "tags": [
-      "SMH"
+      "AAPL"
     ]
   },
   {
-    "id": "SMH-143412716",
-    "title": "The Next Phase Of AI: Why Selectivity Matters",
+    "id": "AAPL-143495598",
+    "title": "S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil — AAPL, SNAP, INTC, CRWV, QCOM In Focus",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=6f3d7c047349d14f6b8382fc5fd11ffc05bed15ab9f436012100122b5315ca3d",
+    "tags": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "AAPL-143495599",
+    "title": "Why an equal-weight S&P 500 fund can reduce Big Tech risk",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=b65867e7b650c9bbce3e248e568bcaa1feba62b7e1012d187ad9d3807e0904b2",
+    "tags": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "AAPL-143497822",
+    "title": "Qualcomm’s Stock Falls After It Warns Chip Margins Are Getting Squeezed",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=fd5c67802042ffc675c0678a9b793c29aa1ed2f577945b184c29b55b493dcfcf",
+    "tags": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "AAPL-143494518",
+    "title": "Dow Jones Futures: Elections, Plunging Oil Fuel Big Rally; Apple, Microsoft, Amazon Flash Buy Signals. CoreWeave, SpaceX Skid.",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=52279df7ab8987a60569cafcbfad0ecbaf0a195517a6c27e52b0b5dd73208f7f",
+    "tags": [
+      "AAPL"
+    ]
+  },
+  {
+    "id": "SMH-143495025",
+    "title": "Post-Election AI Infrastructure And Data Center Rethink",
     "source": "SeekingAlpha",
-    "publishedAt": "2026-11-03",
-    "url": "https://finnhub.io/api/news?id=e7d5317b5ab4fb0bb403231bbdc7dc09a51de7f19466250d90aacacbed25dc67",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=5ccec8dcd6795e9ce2ec748a9e3b114f2f8c65e0290782d51c338c4ab39d7c26",
+    "tags": [
+      "SMH"
+    ]
+  },
+  {
+    "id": "SMH-143494377",
+    "title": "The Semiconductor Sector May Be Nearing A Meltdown",
+    "source": "SeekingAlpha",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=14ac528463784f1efde3cd39866ca5901aa1748543f2ffa71a01e05deb60ee6d",
+    "tags": [
+      "SMH"
+    ]
+  },
+  {
+    "id": "SMH-143491335",
+    "title": "Stocks shrugged off the blue wave overnight — history says don't trust the bounce yet",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=7d29f16d1856097531d9525a519d30d4bd5d4ba8bfc12569bb2a888f7e69df1f",
+    "tags": [
+      "SMH"
+    ]
+  },
+  {
+    "id": "SMH-143491901",
+    "title": "Tech Now Accounts For Three-Quarters Of The U.S. Trade Deficit",
+    "source": "SeekingAlpha",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=b17bf1469feb15d7be6ac70f9dd59caa3d1ffa547951e00276399b6084ff207c",
+    "tags": [
+      "SMH"
+    ]
+  },
+  {
+    "id": "SMH-143485361",
+    "title": "US Elections, Tech Optimism Lift Wall Street Pre-Bell; Asia Mixed, Europe Up",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-04",
+    "url": "https://finnhub.io/api/news?id=c2aad3d1d0ce3c59fe9d58e56c0e637f5134a49385cd958213c7da9a6b1d2ebd",
     "tags": [
       "SMH"
     ]

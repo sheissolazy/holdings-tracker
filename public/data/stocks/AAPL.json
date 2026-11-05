@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 331.9,
-  "change5dPct": -3.5,
-  "changeYtdPct": 19.9,
-  "marketCap": "$4.84T",
-  "pe": 36.7,
+  "price": 349.51,
+  "change5dPct": 0.7,
+  "changeYtdPct": 23.0,
+  "marketCap": "$5.10T",
+  "pe": 39.0,
   "revenue": "—",
   "revenueYoYPct": 15,
   "prices": [
-    {
-      "t": "2026-05-04",
-      "o": 279.66,
-      "h": 280.63,
-      "l": 274.86,
-      "c": 276.83
-    },
     {
       "t": "2026-05-05",
       "o": 276.93,
@@ -899,145 +892,134 @@
       "h": 343.8,
       "l": 335.82,
       "c": 338.32
+    },
+    {
+      "t": "2026-11-03",
+      "o": 325.58,
+      "h": 334.5,
+      "l": 325.33,
+      "c": 331.9
     }
   ],
   "thesis": {
     "bull": [
-      {
-        "point": "英伟达CEO黄仁勋公开表态看好苹果在AI领域的布局，带动市场对苹果端侧AI产品线的乐观预期，若iPhone端侧AI功能形成实质卖点，有望催化新一轮换机周期"
-      },
-      {
-        "point": "近期科技与半导体板块已从AI抛售中出现修复，大型科技股与半导体股同步反弹，显示市场整体风险偏好并未根本转弱，苹果作为现金流与品牌壁垒稳固的龙头仍具备防御属性"
-      },
-      {
-        "point": "国会议员佩洛西在2025年12月30日的申报中出现新建仓苹果的记录，表明部分受关注投资者在同一时间点仍愿意新增苹果仓位"
-      }
+      "民主党横扫中期选举后市场情绪转向乐观，美股盘前报道提及苹果等科技股出现技术性买入信号，显示部分投资者认为政策不确定性下降有利于消费和企业支出",
+      "英伟达CEO黄仁勋公开表态对苹果在人工智能领域的布局持乐观态度，可能提振市场对iPhone及苹果生态系统整合AI功能的预期",
+      "作为果链核心供应商之一，Cirrus Logic最新财报电话会表态若反映下游需求稳健，可间接支持对苹果硬件出货的乐观判断"
     ],
     "bear": [
-      {
-        "point": "同一份申报及此前多次记录显示佩洛西在2025年12月30日、2025年12月24日、2025年10月22日、2024年12月31日多次减持或退出苹果仓位，整体呈持续获利了结倾向，与同期的新建仓动作形成矛盾信号"
-      },
-      {
-        "point": "知名评论员Jim Cramer将苹果与Palantir一并列为可能被「砍仓」的对象，反映部分市场声音对高估值科技股的谨慎情绪正在上升"
-      },
-      {
-        "point": "市场对AI资本支出可持续性与商业化变现能力的疑虑升温，包括对大模型公司估值的质疑以及对「AI货币化」前景的担忧，若AI叙事整体降温，可能压制苹果相关AI产品预期与估值倍数"
-      }
+      "跟踪美国国会议员公开披露显示，相关人士在二零二五年十二月至二零二六年一月期间多次减持苹果仓位，而此前一年也有类似减持记录，长期趋势偏谨慎而非单纯新建仓位",
+      "有报道指出科技板块占美国贸易逆差比重已上升至约四分之三，若中美贸易或关税政策出现反复，苹果这类高度依赖海外制造与销售的公司可能首当其冲",
+      "市场评论提示半导体板块可能面临阶段性回调风险，且有分析认为AI数据中心相关股票估值溢价在政策环境变化下可能快速收窄，若情绪传导至消费电子链条，苹果估值也可能承压"
     ],
     "watch": [
-      {
-        "point": "美国中期选举结果及地缘政治局势（伊朗局势、对以色列援助政策变化）带来的宏观与政策不确定性，可能通过消费信心和全球供应链间接影响苹果终端需求"
-      },
-      {
-        "point": "半导体与科技供应链的持续波动，例如Marvell收购Lumentum、AMD与高通等公司财报表现，可作为观察苹果供应链景气度与市场情绪的参考指标"
-      },
-      {
-        "point": "苹果自身AI产品落地节奏能否兑现黄仁勋等人的乐观表态，以及云端AI相关监管规则变化，需要持续跟踪以验证当前乐观叙事的真实支撑力"
-      }
+      "关注国会议员后续披露动态，判断此前减持是常规再平衡还是对苹果基本面或估值的持续看法转变",
+      "关注黄仁勋及其他行业人士对苹果AI战略的进一步表态是否能转化为具体产品或合作细节，而非单纯情绪性推高",
+      "关注Cirrus Logic等核心供应商后续营收指引变化，作为苹果硬件出货与库存周期的间接验证指标"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值最高的消费电子与软件服务公司之一，核心产品包括iPhone、Mac、iPad、可穿戴设备以及服务业务（App Store、Apple Music、iCloud等）。公司长期以强品牌效应、高利润率硬件与快速增长的服务业务作为核心竞争力，现金流充沛且常年保持大规模股票回购与分红。近期市场关注点集中在苹果能否在端侧AI方面形成差异化竞争力，以推动新一轮硬件升级周期。"
+        "body": "苹果公司是全球市值最大的消费电子与科技公司之一，主营iPhone、Mac、iPad等硬件产品，以及服务业务包括App Store、Apple Music、iCloud等。公司商业模式高度依赖全球供应链，尤其是亚洲代工与零部件供应商，同时服务业务近年来成为营收和利润增长的重要驱动力。苹果在消费者品牌忠诚度、生态系统粘性方面具备较强护城河，但也面临硬件创新周期放缓与地缘政治供应链风险。"
       },
       {
-        "heading": "业务与财务基本面",
-        "body": "苹果的收入结构仍以iPhone为主，服务业务占比持续提升，是利润率改善的重要驱动力。公司在AI领域的战略更多体现为端侧智能与生态整合，而非自建大规模AI基础设施，这使其在本轮AI资本支出热潮中的位置与英伟达、微软等基础设施类公司有所不同。苹果的供应链覆盖半导体、光学元件等多个领域，因此半导体板块及相关并购动态（如近期Marvell与Lumentum的交易）会间接影响市场对苹果供应链景气度的判断。"
-      },
-      {
-        "heading": "近期新闻与市场背景",
-        "body": "近期市场新闻呈现出科技股在经历AI相关抛售后出现修复的特征，标普500与纳斯达克指数在美国中期选举日前后随半导体板块反弹而回升。与此同时，市场评论出现分化：一方面有「科技股交易仿佛ChatGPT从未发生」这类质疑AI叙事降温的声音，另一方面黄仁勋对苹果AI前景的正面表态被视为利好催化剂。Jim Cramer将苹果与Palantir并列为可能遭减持的标的，也反映出部分投资者对高估值科技股趋于谨慎。整体新闻背景中，地缘政治（伊朗局势、对以色列援助变化）与中期选举结果等宏观事件为市场增添了不确定性。"
+        "heading": "近期市场与新闻解读",
+        "body": "近期新闻显示美国中期选举结果导致民主党在国会取得多数席位，市场普遍解读为政策不确定性下降，带动美股包括苹果在内的大型科技股出现盘前技术性买入信号。同期油价因地缘政治预期变化而下跌，整体风险偏好有所回升。但同一批新闻也提到半导体与AI数据中心相关股票在选举后出现明显回调，显示市场对科技板块的乐观情绪并非一致，而是存在结构性分化。"
       },
       {
         "heading": "跟踪者动向解读",
-        "body": "从公开披露的国会议员交易记录看，佩洛西在2025年12月30日同时出现新建仓与减持苹果的记录，且在2025年12月24日、2025年10月22日及2024年12月31日也多次记录为减持或退出，整体呈现出持续获利了结的倾向，而非单一方向的坚定增持。这种同期多空交织的记录提示，跟踪者行为更可能反映仓位再平衡或税务规划等因素，而非对苹果基本面的单一明确判断，解读时应保持谨慎，不宜简单视为强烈多头或空头信号。"
+        "body": "公开披露记录显示，有国会议员在二零二五年十二月三十日新建苹果多头仓位，但同一披露文件中也包含同日及此前二零二五年十二月二十四日的减持记录，二零二五年十月及二零二五年一月也有类似减持记录。整体看，减持信号出现频率高于新建仓位，提示该跟踪者对苹果仓位管理偏谨慎或存在税务、再平衡等非基本面因素，不宜简单解读为方向性判断。另外，英伟达CEO黄仁勋在公开场合表达对苹果AI布局的乐观看法，属于行业人士表态，更多反映对苹果潜在AI产品的期待，而非具体业绩指引。"
       },
       {
         "heading": "多空分歧",
-        "body": "多头逻辑主要建立在苹果端侧AI潜力、科技股整体情绪修复以及公司现金流与品牌壁垒的防御属性之上；空头逻辑则聚焦于高估值科技股在AI叙事降温背景下的回调风险，以及跟踪者持续减持所反映出的获利了结压力。双方分歧的核心在于：市场是否会继续给予苹果AI叙事估值溢价，还是会因AI资本开支与商业化变现的不确定性而重新评估其增长预期。"
+        "body": "看多一方认为，选举后政策不确定性下降、市场风险偏好回升，加上行业人士看好苹果AI布局前景，可能支撑苹果股价短期表现。看空或谨慎一方则关注跟踪者持续减持的历史记录、科技板块占贸易逆差比重上升带来的政策风险，以及半导体与AI相关板块估值溢价可能快速收窄的风险传导。两种观点的核心分歧在于，当前乐观情绪是否具备可持续的基本面支撑，还是更多由短期政策预期驱动的情绪性反弹。"
       },
       {
-        "heading": "风险与后续关注",
-        "body": "需要持续关注的风险包括：中期选举后的政策走向及地缘政治局势演变对消费电子需求和供应链的潜在影响；AI资本支出可持续性与大模型公司估值预期的变化是否会外溢至苹果相关AI叙事；以及苹果自身AI产品在未来财报周期中的实际落地表现，这将是验证当前乐观与谨慎两种市场声音孰是孰非的关键节点。"
+        "heading": "估值与同业比较",
+        "body": "苹果作为超大型科技公司，估值水平通常参考同类大型科技及半导体供应链企业。在当前AI叙事下，市场对苹果能否在AI功能落地方面跟上同业步伐存在分歧，这也体现在其估值相对同业的溢价或折价变化中。供应链上游公司如Cirrus Logic的业绩表现可作为苹果硬件需求的间接参考指标。"
+      },
+      {
+        "heading": "风险与关注点",
+        "body": "主要风险包括地缘政治与贸易政策变化对全球供应链的冲击、半导体及科技板块估值回调对整体科技股情绪的传导效应，以及AI相关产品落地进度不及预期的风险。此外，跟踪者持仓变化虽具参考价值，但样本有限且可能受非基本面因素影响，解读时应保持谨慎，避免过度依赖单一信号做出判断。"
       }
     ],
     "comparables": [
       {
-        "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "AI芯片与算力基础设施龙头，其CEO对苹果AI前景的正面表态是本期苹果多头逻辑的重要催化来源，也是观察AI板块整体情绪的重要参照"
-      },
-      {
         "ticker": "MSFT",
-        "name": "微软",
-        "note": "同为现金流稳健的大型科技龙头，但在AI基础设施与云端投入上的策略与苹果端侧AI路线存在差异，可用于对比不同AI布局方式下的市场估值表现"
+        "name": "微软公司",
+        "note": "同为选举后被提及出现买入信号的大型科技公司，可用于比较市场对科技板块整体情绪的变化"
       },
       {
         "ticker": "QCOM",
-        "name": "高通",
-        "note": "移动芯片领域重要供应链与竞争参照，近期财报表现受到市场关注，其业绩与指引可间接反映智能终端市场的需求景气度"
+        "name": "高通公司",
+        "note": "同属消费电子及半导体供应链，近期因芯片利润率承压警示而受到关注，可作为上游成本压力的参考"
+      },
+      {
+        "ticker": "CRUS",
+        "name": "思睿逻辑",
+        "note": "苹果核心零部件供应商之一，其财报电话会表态可作为苹果硬件需求的间接验证指标"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-04T01:09:39.017122Z"
+    "generatedAt": "2026-11-05T01:25:35.575766Z"
   },
   "news": [
     {
-      "id": "AAPL-143452754",
-      "title": "Jim Cramer Says the Executioner Is “Axing Palantir and Apple.” What Investors Should Make of It",
+      "id": "AAPL-143498180",
+      "title": "What Cirrus Logic (CRUS) Said on Its Q2 Earnings Call",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-05",
+      "url": "https://finnhub.io/api/news?id=2abf1703fee8030e4bc8efe52248e2991280806265bc6d4023d3f0db39058bbf",
+      "tags": [
+        "AAPL"
+      ]
+    },
+    {
+      "id": "AAPL-143495593",
+      "title": "Dow Jones Futures Rise After Apple, Microsoft, Amazon Flash Buy Signals In Postelection Rally. CoreWeave, SpaceX Skid.",
       "source": "Yahoo",
       "publishedAt": "2026-11-04",
-      "url": "https://finnhub.io/api/news?id=bb2c5c1845bd214a9a1f3e9787c8054e35030394f2f77b450c183cffe9cc901e",
+      "url": "https://finnhub.io/api/news?id=bd94200a841a17ec957529ce3b50994f2869aecca695dd519db6c16500753c39",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143449828",
-      "title": "S&P 500, Nasdaq Recover From AI Rout On US Midterm Election Day —  META, AAPL, AMD, SKHY In Focus",
+      "id": "AAPL-143495598",
+      "title": "S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil — AAPL, SNAP, INTC, CRWV, QCOM In Focus",
       "source": "Yahoo",
-      "publishedAt": "2026-11-03",
-      "url": "https://finnhub.io/api/news?id=e450ea498b8f23de5b0eaad0757d576e4fec76e9c2160498ae380e11fd54c8be",
+      "publishedAt": "2026-11-04",
+      "url": "https://finnhub.io/api/news?id=6f3d7c047349d14f6b8382fc5fd11ffc05bed15ab9f436012100122b5315ca3d",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143449831",
-      "title": "Stock Market Today, Nov. 3: Markets Edge Higher as Semiconductor Stocks Rebound",
+      "id": "AAPL-143495599",
+      "title": "Why an equal-weight S&P 500 fund can reduce Big Tech risk",
       "source": "Yahoo",
-      "publishedAt": "2026-11-03",
-      "url": "https://finnhub.io/api/news?id=de37a3796a4b947676a9ff15fb1f12a777133a8ceda8acc403b3a46dab067a1f",
+      "publishedAt": "2026-11-04",
+      "url": "https://finnhub.io/api/news?id=b65867e7b650c9bbce3e248e568bcaa1feba62b7e1012d187ad9d3807e0904b2",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143449827",
-      "title": "US tech stocks recover after selloff spooks investors over AI spending",
+      "id": "AAPL-143497822",
+      "title": "Qualcomm’s Stock Falls After It Warns Chip Margins Are Getting Squeezed",
       "source": "Yahoo",
-      "publishedAt": "2026-11-03",
-      "url": "https://finnhub.io/api/news?id=f8e6bccb7e47a9a1770bad604e31251b18e31af88af3181f075f7843724b2e4c",
+      "publishedAt": "2026-11-04",
+      "url": "https://finnhub.io/api/news?id=fd5c67802042ffc675c0678a9b793c29aa1ed2f577945b184c29b55b493dcfcf",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143449388",
-      "title": "What Just Happened To Copart Stock?",
+      "id": "AAPL-143494518",
+      "title": "Dow Jones Futures: Elections, Plunging Oil Fuel Big Rally; Apple, Microsoft, Amazon Flash Buy Signals. CoreWeave, SpaceX Skid.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-03",
-      "url": "https://finnhub.io/api/news?id=91311157a120b32f8a2b819be13dc4a8864e13880baee14ab0ed2a08d77ed5dc",
-      "tags": [
-        "AAPL"
-      ]
-    },
-    {
-      "id": "AAPL-143449830",
-      "title": "Tech in a “needed reset:” 5 sectors to own right now",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-03",
-      "url": "https://finnhub.io/api/news?id=76db113a813dcf20d6d5e4294b4391fea36870665740938da4fca386df60c3f5",
+      "publishedAt": "2026-11-04",
+      "url": "https://finnhub.io/api/news?id=52279df7ab8987a60569cafcbfad0ecbaf0a195517a6c27e52b0b5dd73208f7f",
       "tags": [
         "AAPL"
       ]

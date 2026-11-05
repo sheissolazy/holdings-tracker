@@ -2,6 +2,16 @@
   {
     "personId": "jensen",
     "type": "statement",
+    "asOf": "2026-11-04",
+    "sentiment": "watch",
+    "excerpt": "Marvell Stock Has Plunged 46% Since Jensen Huang Called It the Next $1 Trillion Company. Here's Why.",
+    "postUrl": "https://finnhub.io/api/news?id=67a62b69218529e9bffe471e715649084d0686b95b61c2e199fe013a8b998e05",
+    "topics": [],
+    "ticker": "MRVL"
+  },
+  {
+    "personId": "jensen",
+    "type": "statement",
     "asOf": "2026-07-06",
     "sentiment": "watch",
     "excerpt": "Jensen Huang Just Named Marvell the Next $1 Trillion Stock. Is the Stock a Buy Following a 129% Surge?",
