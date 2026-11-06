@@ -354,6 +354,30 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-11-05",
+    "sentiment": "watch",
+    "excerpt": "The Stock Market crashed today because the Dumocrats had a big Tuesday — So sad to see, you only have yourselves to blame! President DONALD J. TRUMP",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117566560747501657",
+    "ticker": "",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-11-05",
+    "sentiment": "watch",
+    "excerpt": "The Stock Market suffered one of the Worst Days in History based on the results of the Election. Such a sad thing to watch! It took so much work to get us to a level that no one has ever seen before, and then this. Your 401(k)s have, theref",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117566389105992268",
+    "ticker": "",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-11-04",
     "sentiment": "watch",
     "excerpt": "Stock Market just hit another Record High — 91 Days in just a short period of time — Less than two years. Your 401(k)s are through the roof. Record Setting All! President DONALD J. TRUMP",
@@ -374,6 +398,98 @@
     "topics": [
       "美联储/利率"
     ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-05",
+    "sentiment": "watch",
+    "excerpt": "$GLXY CEO after pushing back on Texas political uncertainty:\n\n\"I see a massive disconnect between where Galaxy trades and what I believe this company is worth. \n\nThat’s why I’m buying more stock, starting today.\"\n\nGood vote of confidence to",
+    "postUrl": "https://x.com/aleabitoreddit/status/2118446295274901803",
+    "ticker": "GLXY",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-05",
+    "sentiment": "watch",
+    "excerpt": "$GOOGL formally announces a new $17 Billion DC in Wyoming.\n\nGoogle also announced they’re using $BE fuel cells for this project. \n\nGuess this news means it’s all over for the AI buildout. https://t.co/WFzqUOiTcH",
+    "postUrl": "https://x.com/aleabitoreddit/status/2118422637320007721",
+    "ticker": "BE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-05",
+    "sentiment": "watch",
+    "excerpt": "$GOOGL formally announces a new $17 Billion DC in Wyoming.\n\nGoogle also announced they’re using $BE fuel cells for this project. \n\nGuess this news means it’s all over for the AI buildout. https://t.co/WFzqUOiTcH",
+    "postUrl": "https://x.com/aleabitoreddit/status/2118422637320007721",
+    "ticker": "GOOGL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-05",
+    "sentiment": "watch",
+    "excerpt": "Don’t look at the indexes https://t.co/nmzrhW9u6L",
+    "postUrl": "https://x.com/aleabitoreddit/status/2118389649941160083",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-05",
+    "sentiment": "watch",
+    "excerpt": "Citadel in October: Tech companies created an AI bubble reminiscent of the dot-com crash.\n\nCitadel in November: “The setup has improved” \n\nEarnings continue to beat while AI infrastructure valuations compressed sharply. https://t.co/qlC9s03",
+    "postUrl": "https://x.com/aleabitoreddit/status/2118272043288547413",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-04",
+    "sentiment": "watch",
+    "excerpt": "I think this is the time for AI companies to appoint representatives on X.\n\nTo directly combat misleading AI narratives affecting ecosystem valuations and their financing ability.\n\nThe financial incentives to amplify overblown fears are eno",
+    "postUrl": "https://x.com/aleabitoreddit/status/2118247436733055110",
+    "ticker": "",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-04",
+    "sentiment": "watch",
+    "excerpt": "$COHR earnings transcript TLDR:\n\nQ: On $LITE + $MRVL merger.\n\nA. Customers will prefer an independent optical supplier without competitive conflicts (opportunity for other merchant laser suppliers)\n\nQ: Loop Capital asked about 2028 laser in",
+    "postUrl": "https://x.com/aleabitoreddit/status/2118200689453314341",
+    "ticker": "MRVL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-04",
+    "sentiment": "watch",
+    "excerpt": "$COHR earnings transcript TLDR:\n\nQ: On $LITE + $MRVL merger.\n\nA. Customers will prefer an independent optical supplier without competitive conflicts (opportunity for other merchant laser suppliers)\n\nQ: Loop Capital asked about 2028 laser in",
+    "postUrl": "https://x.com/aleabitoreddit/status/2118200689453314341",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-04",
+    "sentiment": "watch",
+    "excerpt": "$COHR earnings transcript TLDR:\n\nQ: On $LITE + $MRVL merger.\n\nA. Customers will prefer an independent optical supplier without competitive conflicts (opportunity for other merchant laser suppliers)\n\nQ: Loop Capital asked about 2028 laser in",
+    "postUrl": "https://x.com/aleabitoreddit/status/2118200689453314341",
+    "ticker": "LITE",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -747,204 +863,6 @@
     "excerpt": "Just to show a point... AI names have crashed so much to the point $POET as a business is now considered close to worthless.\n\nIt's now $829.7M MC vs. ~$788M net cash. And below its $847.5M book value.\n\nConsidering institutions were funding ",
     "postUrl": "https://x.com/aleabitoreddit/status/2117539121434591711",
     "ticker": "POET",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "Nah markets are trolling now… $ESMT ($2.3B MC) memory earnings + investor conference:\n\n- Revenue: $679.4M\n- Gross profit: $526.2M (77.44% margin)\n- Operating profit: $403.4M (59.37% margin)\n\nAnnualized Q3 would be $1.61B operating profit. \n",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117493886100918684",
-    "ticker": "ESMT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "People on X (now YC companies included) learned that it’s easier to doompost for impressions.\n\n$SPCX + Elon wouldn’t be heavily building in the Neocloud space if they didn’t see the ROI.\n\nSamsung wouldn’t be selling 5-10Y LTAs to Chinese bi",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117437833820672397",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "People on X (now YC companies included) learned that it’s easier to doompost for impressions.\n\n$SPCX + Elon wouldn’t be heavily building in the Neocloud space if they didn’t see the ROI.\n\nSamsung wouldn’t be selling 5-10Y LTAs to Chinese bi",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117437833820672397",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "People on X (now YC companies included) learned that it’s easier to doompost for impressions.\n\n$SPCX + Elon wouldn’t be heavily building in the Neocloud space if they didn’t see the ROI.\n\nSamsung wouldn’t be selling 5-10Y LTAs to Chinese bi",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117437833820672397",
-    "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "People on X (now YC companies included) learned that it’s easier to doompost for impressions.\n\n$SPCX + Elon wouldn’t be heavily building in the Neocloud space if they didn’t see the ROI.\n\nSamsung wouldn’t be selling 5-10Y LTAs to Chinese bi",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117437833820672397",
-    "ticker": "SNDK",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "$LITE standalone would likely be up on earnings after their new $5B CPO/NPO announcement (separate from $NVDA).\n\nThe margins on that are likely 60%+… which shows how profitable laser players would be at scale.\n\n(Greensboro alone would be $5",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117296667108278605",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "$LITE standalone would likely be up on earnings after their new $5B CPO/NPO announcement (separate from $NVDA).\n\nThe margins on that are likely 60%+… which shows how profitable laser players would be at scale.\n\n(Greensboro alone would be $5",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117296667108278605",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "$LITE standalone would likely be up on earnings after their new $5B CPO/NPO announcement (separate from $NVDA).\n\nThe margins on that are likely 60%+… which shows how profitable laser players would be at scale.\n\n(Greensboro alone would be $5",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117296667108278605",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "Following the Lumentum / Marvell deal: \n\nMy opinion is that independent Western laser players, like $AAOI, $COHR, and $SIVE became a lot more strategically valuable. \n\n$MTSI and $SMTC should get some attention too as emerging laser players ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117255303301612014",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "Following the Lumentum / Marvell deal: \n\nMy opinion is that independent Western laser players, like $AAOI, $COHR, and $SIVE became a lot more strategically valuable. \n\n$MTSI and $SMTC should get some attention too as emerging laser players ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117255303301612014",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "Following the Lumentum / Marvell deal: \n\nMy opinion is that independent Western laser players, like $AAOI, $COHR, and $SIVE became a lot more strategically valuable. \n\n$MTSI and $SMTC should get some attention too as emerging laser players ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117255303301612014",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "Following the Lumentum / Marvell deal: \n\nMy opinion is that independent Western laser players, like $AAOI, $COHR, and $SIVE became a lot more strategically valuable. \n\n$MTSI and $SMTC should get some attention too as emerging laser players ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117255303301612014",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "$MRVL actually did it and bought $LITE, no way. https://t.co/bxuDpbaxSp",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117229519178498541",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "$MRVL actually did it and bought $LITE, no way. https://t.co/bxuDpbaxSp",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117229519178498541",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "We've finally made it to November... holy crap October was brutal. \n\nPer Morgan Stanley data, the recent hedge fund de-grossing was the highest in the past 10 years. \n\nExceeding the:  \n- 2016 Chinese stock market crash\n- 2018 Volmageddon\n- ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117220957622255727",
-    "ticker": "AAOI",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "We've finally made it to November... holy crap October was brutal. \n\nPer Morgan Stanley data, the recent hedge fund de-grossing was the highest in the past 10 years. \n\nExceeding the:  \n- 2016 Chinese stock market crash\n- 2018 Volmageddon\n- ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117220957622255727",
-    "ticker": "AEHR",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "We've finally made it to November... holy crap October was brutal. \n\nPer Morgan Stanley data, the recent hedge fund de-grossing was the highest in the past 10 years. \n\nExceeding the:  \n- 2016 Chinese stock market crash\n- 2018 Volmageddon\n- ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117220957622255727",
-    "ticker": "AEVA",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-02",
-    "sentiment": "watch",
-    "excerpt": "We've finally made it to November... holy crap October was brutal. \n\nPer Morgan Stanley data, the recent hedge fund de-grossing was the highest in the past 10 years. \n\nExceeding the:  \n- 2016 Chinese stock market crash\n- 2018 Volmageddon\n- ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117220957622255727",
-    "ticker": "AMZN",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-10-30",
-    "sentiment": "watch",
-    "excerpt": "Trump: “This is Biden’s market” https://t.co/zvCtnHJPf7",
-    "postUrl": "https://x.com/aleabitoreddit/status/2116221086107111712",
-    "ticker": "",
     "topics": []
   },
   {

@@ -3,21 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 200.4,
-  "change5dPct": -8.3,
-  "changeYtdPct": -32.1,
-  "marketCap": "$59.2B",
-  "pe": 113.1,
+  "price": 167.52,
+  "change5dPct": -26.6,
+  "changeYtdPct": -41.3,
+  "marketCap": "$49.5B",
+  "pe": 97.8,
   "revenue": "—",
   "revenueYoYPct": 111,
   "prices": [
-    {
-      "t": "2026-05-05",
-      "o": 294.01,
-      "h": 299.51,
-      "l": 287.02,
-      "c": 295.25
-    },
     {
       "t": "2026-05-06",
       "o": 299.0,
@@ -899,127 +892,139 @@
       "h": 220.5,
       "l": 208.03,
       "c": 214.01
+    },
+    {
+      "t": "2026-11-04",
+      "o": 205.5,
+      "h": 213.96,
+      "l": 190.6,
+      "c": 200.4
     }
   ],
   "thesis": {
     "bull": [
-      "公司2026年第二季度营收同比大增166%，并上调全年业绩指引，显示固态燃料电池产品在数据中心备用电源和分布式发电市场的需求持续放量，订单可见度改善",
-      "在加州等地连续签下新的电力供应合同（如近期的加州电力协议），表明其产品在电网扩容缓慢、AI数据中心急需快速部署电力的背景下具备现实的商业化落地能力",
-      "国会跟踪者佩洛西在7月下旬两次新建BE多头仓位，市场解读为对AI相关电力基础设施长期需求的认可，但需注意国会议员交易披露存在滞后，不能等同于实时买入信号"
+      "Bloom Energy近期获得NTT DATA约900MW固体氧化物燃料电池订单，显示数据中心运营商对其分布式发电方案的大规模采购仍在持续，订单能见度较高",
+      "据跟踪者动向，Google母公司Alphabet在怀俄明州170亿美元新数据中心项目中采用Bloom Energy燃料电池，意味着头部云厂商正式将其技术路线纳入基础设施方案，具备标杆意义",
+      "在电网扩容和新增并网审批普遍滞后的背景下，燃料电池可实现比传统电网接入更快的现场发电部署，公司处于AI算力基建电力缺口这一结构性趋势的受益位置"
     ],
     "bear": [
-      "美国中期选举后民主党横扫国会，市场预期能源与气候政策方向生变，叠加AI数据中心电力建设节奏的重新评估，BE股价一度大跌约8%，与Lumentum等同类「AI电力」概念股同步回调，显示情绪脆弱",
-      "油价在选举后明显下滑，缓解了部分传统能源紧张预期，若天然气与电网电价维持低位，分布式燃料电池相对电网的经济性优势可能被削弱",
-      "此前股价已因166%营收增速与上调指引大幅上涨，当前估值隐含了较高的持续高增长预期，一旦后续季度订单或交付节奏不及预期，「溢价可能迅速转为折价」的风险在同类AI电力股上已引发担忧"
+      "近期公开披露显示，在900MW大单及Google合作消息公布当日，股价仍下跌约16%，表明市场对AI算力相关资本支出前景的担忧已阶段性压制利好消息的提振作用",
+      "中期选举后市场对AI板块整体抛售压力显著，英伟达、Marvell、Credo等AI产业链股票同期大幅下挫，若科技巨头资本开支指引转弱，Bloom Energy下游订单增速预期可能被下修",
+      "公司估值长期建立在持续高增长订单假设之上，而其历史盈利能力与自由现金流仍被部分投资者质疑，一旦大客户订单节奏或规模出现变化，估值修正风险相对较大"
     ],
     "watch": [
-      "关注公司下一财季财报中新增电力采购协议与数据中心客户合同的落地进度，判断166%增速是否可持续或为阶段性爆发",
-      "跟踪国会及白宫在民主党控制国会后对清洁能源税收抵免、电网互联许可等政策的具体立法动向，判断是利好分布式发电还是转向支持公用事业电网投资",
-      "观察佩洛西等国会议员后续是否继续加仓或减仓BE及同类AI电力股，同时结合其披露存在数周滞后的特点，交叉验证与机构持仓、空头仓位变化等其他信号"
+      "关注Alphabet怀俄明州数据中心项目后续细节，包括Bloom Energy在该项目中的燃料电池供应规模、交付周期及合同条款是否披露",
+      "关注中期选举后国会及监管层在电网互联审批、分布式能源税收抵免等政策上的走向，这将直接影响分布式发电需求增长速度",
+      "关注科技巨头四季度及未来资本开支指引，以及整体AI基建投资情绪能否企稳，这是判断Bloom Energy订单可持续性的关键宏观变量"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy是一家专注于固态氧化物燃料电池技术的分布式发电设备制造商，其产品可在不依赖传统电网扩建的情况下为数据中心、工业设施等场景提供现场发电能力，近年因AI算力扩张带来的电力短缺问题而成为市场关注的AI电力概念股之一"
+        "body": "Bloom Energy是一家专注于固体氧化物燃料电池技术的能源公司，产品主要用于为数据中心、工业设施等提供现场分布式发电。近年来受益于AI算力扩张带来的电力需求激增，公司订单量和市场关注度明显上升，客户群体逐步扩展至大型云服务商及科技基础设施运营商。"
       },
       {
-        "heading": "近期财务与业务动态",
-        "body": "公司公布的最新季度营收同比增长约166%，管理层据此上调了全年业绩指引，反映出下游数据中心客户对快速部署电力解决方案的强烈需求；市场消息还提到公司在加州达成新的电力供应合作，进一步验证其商业化订单正在加速兑现"
+        "heading": "行业与需求驱动",
+        "body": "AI数据中心建设对电力的需求增长速度远超传统电网扩容和并网审批的速度，这为分布式、可快速部署的发电方案创造了结构性机会。Bloom Energy的燃料电池可绕开部分电网接入瓶颈，是其近期获得大额订单的核心逻辑。但该逻辑高度依赖AI资本支出周期是否持续。"
       },
       {
-        "heading": "政策与行业环境",
-        "body": "美国中期选举出现民主党横扫国会的结果，市场预期这可能带来能源与气候政策方向的调整，同时也引发了对AI数据中心建设节奏是否会因政策、融资环境变化而放缓的讨论，这是近期BE、Lumentum等AI电力与数据中心相关股票集体回调的重要背景之一"
+        "heading": "近期动态",
+        "body": "公开信息显示，Bloom Energy近期与NTT DATA达成约900MW的燃料电池供应合作，同时有信息指出Google在怀俄明州一项170亿美元的新数据中心项目中采用了其燃料电池技术。然而同期股价仍出现约16%的单日下跌，显示市场情绪与中期选举后的宏观及板块轮动因素相互交织，个股利好未能完全对冲板块系统性压力。"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "公开披露显示，国会议员佩洛西在7月下旬两次新建BE多头仓位，披露时间为8月下旬，二者间存在数周时间差；这类交易常被市场视为对相关主题长期前景的信号，但由于披露滞后、交易动机不透明，不宜将其直接等同于对短期股价走势的判断"
+        "heading": "财务与估值",
+        "body": "市场对Bloom Energy的定价很大程度上反映了对未来订单增长和AI电力需求持续性的预期，而非当前已实现的盈利水平。在AI相关股票近期普遍大幅回调的背景下，公司估值对宏观情绪和板块资金流向的敏感度较高，公开信息未提供具体财务指标用于进一步量化评估。"
       },
       {
-        "heading": "估值与市场表现",
-        "body": "在166%营收增速与上调指引的提振下，BE股价此前经历了明显上涨，但选举结果公布后又出现约8%的单日下跌，与同类AI电力及数据中心供应链股票同步回调，显示市场对该板块估值的分歧和对高增长预期能否持续存在担忧，溢价快速转为折价的说法在相关报道中被反复提及"
+        "heading": "风险因素",
+        "body": "主要风险包括：AI资本支出周期性放缓导致下游大客户订单延迟或规模收缩；利率及宏观政策不确定性影响市场对高增长叙事股票的估值容忍度；中期选举后能源与电网相关政策走向尚不明确，可能影响分布式能源补贴与审批环境；板块整体抛售情绪可能导致个股出现与基本面脱钩的剧烈波动。"
       },
       {
-        "heading": "风险与关注点",
-        "body": "主要风险包括：政策不确定性对分布式能源补贴与并网许可的潜在影响、油气价格波动对燃料电池经济性的冲击、以及市场对AI数据中心电力需求增速预期过高后可能出现的修正；此外公司高增长的可持续性仍需后续季度订单与交付数据进一步验证"
+        "heading": "多空分歧总结",
+        "body": "多头观点聚焦于AI数据中心电力缺口带来的结构性订单增长，以及与NTT DATA、Google等头部客户合作的验证效应；空头观点则强调股价对AI板块系统性风险的高敏感度，以及公司长期盈利能力与估值持续性之间的矛盾。两种观点均指向同一关键变量——AI资本支出的持续性，这将是后续判断分歧收敛方向的核心线索。"
       }
     ],
     "comparables": [
       {
         "ticker": "PLUG",
         "name": "Plug Power",
-        "note": "同为氢能与燃料电池技术路线的公司，可用于对比分布式清洁能源设备商的商业化进度与盈利路径差异"
+        "note": "同属氢能与燃料电池领域，与Bloom Energy在分布式清洁能源发电叙事上存在一定可比性，但技术路线与客户结构不同"
       },
       {
-        "ticker": "GEV",
-        "name": "GE Vernova",
-        "note": "覆盖燃气轮机与电网设备，是传统电网与发电设备扩产路线的代表，可与BE的分布式发电路线形成对照"
+        "ticker": "FCEL",
+        "name": "FuelCell Energy",
+        "note": "同为燃料电池技术公司，规模与订单体量相对较小，可作为行业景气度的参考样本"
+      },
+      {
+        "ticker": "VST",
+        "name": "Vistra Corp",
+        "note": "大型独立发电商，受益于AI数据中心用电需求增长，可作为电力供给端受益逻辑的对照"
       },
       {
         "ticker": "CEG",
         "name": "Constellation Energy",
-        "note": "大型核电与清洁能源公用事业公司，受益于数据中心长期购电协议需求，可作为电网侧AI电力受益标的的对比参照"
+        "note": "核电及清洁能源发电龙头，同样受AI数据中心用电需求提振，可用于比较不同发电技术路线的市场定价差异"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-05T01:24:58.186532Z"
+    "generatedAt": "2026-11-06T01:27:56.106338Z"
   },
   "news": [
     {
-      "id": "BE-143494862",
-      "title": "Bloom Energy Stock In Focus After California Power Deal",
+      "id": "BE-143547342",
+      "title": "Bloom Energy Sinks 16% Despite 900 MW NTT DATA Deal as Midterm Fears Hit AI Power Stocks",
       "source": "Yahoo",
-      "publishedAt": "2026-11-04",
-      "url": "https://finnhub.io/api/news?id=037173d5093abc4b507210b70424f93520c0ac4913aec1745c2d4f174a32f02d",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=aae5889124372912dfdb07d31ee0388d6fca755eb980f9aff3328d0bd9f807dd",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143495393",
-      "title": "Bloom Energy: Why This Selloff Looks Overdone",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-11-04",
-      "url": "https://finnhub.io/api/news?id=2f6fd41aa4f9848ed26797b86838d92289ca0b3a2e2a2f7d455dead196082f31",
+      "id": "BE-143548633",
+      "title": "S&P 500 Top Movers: Gainers and Losers in Nov. 5, 2026 Session",
+      "source": "ChartMill",
+      "publishedAt": "2026-11-05",
+      "url": "https://finnhub.io/api/news?id=d946045c52036d63964febb6fb508ce4e092cf56e438ce86e3f3afb5497bb4dd",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143492763",
-      "title": "Bloom Energy Sinks 8%, Lumentum Down 11% as AI Power Stocks Fade After Democrat Sweep",
+      "id": "BE-143541954",
+      "title": "Credo Sinks Another 14% as Democratic Sweep Stokes “Left-Tail Event” Fears for AI",
       "source": "Yahoo",
-      "publishedAt": "2026-11-04",
-      "url": "https://finnhub.io/api/news?id=a556fc7dd49dff32da21650be7f26b70e6be1ff2c799e911fdc89d31a9c3584c",
+      "publishedAt": "2026-11-05",
+      "url": "https://finnhub.io/api/news?id=a0a9e542bf68bfb4535fcba1405402b6444b4ca25a26cf98531642d013147929",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143490701",
-      "title": "Bloom Energy (BE) Raises Full-Year Outlook Following 166% Revenue Surge",
+      "id": "BE-143548631",
+      "title": "Most Active S&P 500 Stocks: Marvell, Oracle, Ford Lead Nov. 5 Trading",
+      "source": "ChartMill",
+      "publishedAt": "2026-11-05",
+      "url": "https://finnhub.io/api/news?id=ccdee529daf98cebd042cc9c18710b9bf10bf1549adde12ec054ff3e77786a1a",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-143540697",
+      "title": "The Stock Market Celebrated Election Day. Then the AI Trade Imploded.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-04",
-      "url": "https://finnhub.io/api/news?id=25c3bdb40ede9007fdd269c5ba242cee3c1879325eb926871f0ed504e19b4a61",
+      "publishedAt": "2026-11-05",
+      "url": "https://finnhub.io/api/news?id=61f6ee8a4bde58d4e45111754e58a5d6ddf0cc07c0a85fb6cbc161846a94ecff",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143490702",
-      "title": "Argan (AGX) Shares Fall After Record Q2 Earnings as Backlog Dips to $2.5 Billion",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-04",
-      "url": "https://finnhub.io/api/news?id=6e7651d62b8387bdf2232fe50da178a4441a3769c48854da71cdca4f07d0db04",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-143493241",
-      "title": "Bloom Energy: The AI Revolution Needs Electricity Now",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-11-04",
-      "url": "https://finnhub.io/api/news?id=eae0348543b4f7bca5afde837a580c7ae9eedb95d03c582689ee8c93b018994e",
+      "id": "BE-143548626",
+      "title": "S&P 500 Top Movers: AppLovin Leads Today's Session With 29.19% Gain",
+      "source": "ChartMill",
+      "publishedAt": "2026-11-05",
+      "url": "https://finnhub.io/api/news?id=d0d789d0fbfdece788b4443bb7721d4d64e7b743b3438bef707a65381ed45e4d",
       "tags": [
         "BE"
       ]

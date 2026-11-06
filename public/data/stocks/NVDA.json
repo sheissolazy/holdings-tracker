@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 200.13,
-  "change5dPct": -8.2,
-  "changeYtdPct": 1.8,
-  "marketCap": "$4.82T",
-  "pe": 25.8,
+  "price": 181.6,
+  "change5dPct": -15.7,
+  "changeYtdPct": -12.6,
+  "marketCap": "$4.38T",
+  "pe": 25.0,
   "revenue": "—",
   "revenueYoYPct": 83,
   "prices": [
-    {
-      "t": "2026-05-05",
-      "o": 199.3,
-      "h": 200.24,
-      "l": 196.03,
-      "c": 196.5
-    },
     {
       "t": "2026-05-06",
       "o": 199.89,
@@ -899,127 +892,139 @@
       "h": 209.14,
       "l": 205.93,
       "c": 206.69
+    },
+    {
+      "t": "2026-11-04",
+      "o": 203.5,
+      "h": 206.79,
+      "l": 199.68,
+      "c": 200.13
     }
   ],
   "thesis": {
     "bull": [
-      "跟踪者动向显示对NVDA的多头建仓仍在持续，包括2026年1月披露的多笔新建多头交易，反映部分机构与政治人物对AI基础设施长期叙事仍保持信心",
-      "社媒追踪显示NVDA的战略触角已从训练芯片延伸至人形机器人等新兴领域（如被提及对Agility Robotics等公司的生态布局），为未来增长打开新曲线",
-      "上游光学与网络供应链持续出现结构性紧张（如激光器、CPO/NPO相关产能短缺），说明AI数据中心建设的底层需求动能依然强劲，间接支撑NVDA系统级产品的旺盛需求"
+      "数据中心AI算力需求仍处于高速扩张周期，Blackwell等新一代平台持续放量，公司在训练与推理两端的生态与软件栈（CUDA）护城河短期内难以被替代",
+      "Jim Cramer等评论指出此次股价大幅回调（约22%）后估值已降至近十年低位，若业绩与指引未实质性恶化，存在估值修复空间",
+      "公司通过战略投资（如Agility Robotics等人形机器人项目）布局数据中心之外的AI硬件新场景，长期成长故事并非单一依赖云端资本支出"
     ],
     "bear": [
-      "同一批跟踪记录中也出现获利了结或减仓动作，说明即便长期看多的参与者也在分批调整仓位，多空信号并不一致",
-      "美国中期选举后民主党夺回国会多数，市场重新评估AI数据中心资本支出的政策与监管前景，Marvell、Lumentum、Bloom Energy等产业链公司股价大幅下挫，反映投资者对AI基建周期可持续性的担忧有所升温",
-      "有评论提示半导体板块可能临近较剧烈的回调风险，叠加同业Qualcomm被指出毛利率受到挤压，显示AI硬件链景气度边际变化值得警惕，不能简单线性外推过去的高增长"
+      "近期科技与AI板块出现系统性抛售，纳斯达克进入调整区间，散户单日抛售规模为疫情以来最大，情绪面脆弱，若出现负面催化剂股价可能进一步下探",
+      "市场对数据中心扩张放缓与潜在数据中心限制政策的担忧升温，叠加Marvell、Credo、Lumentum等供应链相关公司同期大幅下挫，提示AI硬件产业链整体需求能见度正在被重新评估",
+      "跟踪者（如Pelosi）的交易记录显示并非单边加仓，存在买入后又减持退出的操作，说明即便政治人物投资者内部对后续走势也缺乏一致看多共识"
     ],
     "watch": [
-      "11月陆续公布的产业链财报（如Marvell、Lumentum等）将是检验AI数据中心资本支出是否放缓的重要观察窗口",
-      "国会权力格局变化后，能源政策、关税及对华出口管制等议题的走向，可能影响NVDA芯片出口节奏以及数据中心电力成本结构",
-      "上游光模块与激光器供应紧张（即便需求端出现20到30%的理论性回落也难以消化短缺）与下游资本支出预期波动之间的张力，需持续跟踪是否传导至NVDA整机与模组采购节奏"
+      "关注光学/激光元件（如SIVE、AAOI相关表述）供需紧张状况是否会外溢影响GPU配套系统（如光互连）的交付节奏，这被社交媒体观察者视为下一轮架构升级前的早期信号",
+      "中期选举后政治格局变化及其对AI相关产业政策、出口管制、数据中心监管的潜在影响，需跟踪后续具体政策表态",
+      "关注Pelosi等国会议员最新申报（2026-01-23披露，交易日期覆盖2025年12月至2026年1月）是否有后续加仓或减持更新，以及是否有新的PTR文件披露"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA是目前全球AI加速计算领域的核心供应商，产品线覆盖数据中心GPU、网络互联及配套软件生态，是过去几年AI资本支出周期中最受关注的受益标的之一。公司业务已不再局限于传统图形芯片，而是逐步演变为涵盖训练、推理、机器人及边缘计算等多领域的AI基础设施平台型企业。"
+        "body": "NVIDIA是全球领先的GPU与AI加速计算公司，产品覆盖数据中心训练与推理芯片、网络互连方案、以及面向机器人与边缘计算的平台。公司收入高度集中于数据中心业务，核心客户为大型云服务商与AI模型开发企业，CUDA软件生态是其长期竞争优势的重要来源。"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "公开披露的交易记录显示相关人物在2025年底至2026年初对NVDA既有新建多头仓位，也有同期的退出或减仓动作，呈现典型的「分批建仓、分批兑现」特征，而非单向押注。这种模式提示即便是长期看多AI主题的参与者，也会结合估值与短期波动做战术性调整，市场对NVDA的态度存在内部分歧，而非一致乐观。"
+        "heading": "业务驱动与增长逻辑",
+        "body": "短期看，新一代Blackwell等平台的产能爬坡与出货节奏是股价波动的核心变量；中长期看，公司试图通过投资人形机器人（如公开报道中提到的Agility Robotics项目，参与方还包括亚马逊、富士康、软银等）、自动驾驶等新场景拓展算力需求边界，降低对单一数据中心资本支出周期的依赖，但这些新业务目前对营收贡献有限，更多属于叙事层面的长期期权。"
       },
       {
-        "heading": "产业链与供应链观察",
-        "body": "社媒讨论聚焦于光学与网络供应链的结构性紧张，例如激光器及相关光模块厂商被认为即便面对数据中心需求的阶段性放缓，短缺格局仍难以完全消化，同时Lumentum与Marvell等公司的并购及合作动态被视为提升独立光学厂商战略价值的信号。这类上游紧张通常被解读为下游算力建设需求仍具韧性的间接证据，但也可能意味着成本压力正沿产业链传导。"
+        "heading": "近期股价与市场环境",
+        "body": "近期新闻显示NVDA股价出现约22%的大幅回调，带动费城半导体指数（SMH）及相关ETF出现自2020年以来最差单日表现，纳斯达克整体进入调整区间，市场恐慌情绪指标（VIX类指标）出现自4月以来最大单日跳升。回调背景包括对数据中心需求放缓、潜在数据中心限制性政策的担忧，以及中期选举后政治不确定性对AI交易整体情绪的冲击，供应链相关个股（Marvell、Credo、Lumentum、CoreWeave、Sandisk等）同期同步大跌，显示这是板块性而非公司特异性事件。"
       },
       {
-        "heading": "宏观与政策环境",
-        "body": "近期美国中期选举后民主党夺回国会控制权，市场围绕财政、能源、对华政策及AI基建监管前景展开重新定价，包括对数据中心电力供应、关税及出口管制等议题的预期调整。相关AI数据中心概念股在选举结果公布后出现明显回调，显示政策不确定性正成为影响AI硬件链估值的重要变量，NVDA作为板块龙头难以完全免受情绪波动影响。"
+        "heading": "跟踪者与社交情绪",
+        "body": "国会议员佩洛西（Pelosi）在2026-01-23披露的PTR文件中显示其在2025年12月至2026年1月期间既有新建多头仓位，也有部分仓位的退出或减持，去年同期（2025-01-17披露）也呈现类似的买入与减持交织的模式，说明即便是长期被市场视为AI利好信号来源的政治人物交易，也并非持续单向加仓。社交媒体上的观察者（如用户serenity）更多聚焦于光学元件供需紧张、AI主题的两党属性、以及人形机器人生态投资等细分话题，整体情绪标签为中性观察（watch）而非明确看多或看空。"
       },
       {
-        "heading": "新兴应用与生态布局",
-        "body": "除核心数据中心业务外，NVDA被提及参与人形机器人等前沿领域的生态投资与合作（如相关公司获NVDA等多方支持并即将上市），显示其正尝试将算力与AI能力延伸至物理世界自动化场景。这类布局若能逐步兑现，有望成为传统数据中心训练推理需求之外的增量增长点，但目前仍处于早期阶段，商业化节奏与规模效应有待观察。"
+        "heading": "风险因素",
+        "body": "主要风险包括：数据中心资本支出增速边际放缓的可能性；潜在的出口管制或数据中心相关监管政策变化；AI板块估值此前积累的泡沫化压力在市场情绪转弱时被集中释放；供应链上游（光模块、存储、互连等环节）若持续出现产能或需求信号恶化，可能通过产业链传导影响公司交付与订单可见度；此外中期选举后的政治格局变化也为政策环境增加了不确定性。"
       },
       {
-        "heading": "风险与展望",
-        "body": "综合来看，市场对NVDA及整个AI硬件产业链的分歧正在加大：一方面上游供应短缺与新兴应用布局支持长期需求叙事，另一方面政策环境变化、同业毛利率承压以及部分评论提示的板块回调风险，提示短期波动可能加剧。投资者应关注即将公布的产业链财报、政策面变化及供应链紧张状况的演变，以判断AI资本支出周期的下一阶段走向，而非简单依赖过去的高增长外推。"
+        "heading": "估值与同业比较",
+        "body": "此次回调后，部分市场评论（如Cramer）认为公司估值已回落至历史相对低位，但这一判断建立在增长预期不显著下修的假设上，若后续数据中心资本支出指引或大客户订单出现实质性下调，当前估值水平是否足够便宜仍存争议，市场多空双方在此问题上尚未形成一致结论。"
       }
     ],
     "comparables": [
       {
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices",
+        "note": "数据中心GPU与AI加速卡的直接竞争对手，同样受益或受损于AI资本支出周期的边际变化"
+      },
+      {
         "ticker": "AVGO",
         "name": "Broadcom",
-        "note": "数据中心网络与定制AI芯片（ASIC）供应商，与NVDA在部分AI算力场景中既竞争又互补"
+        "note": "定制AI芯片（ASIC）与网络互连龙头，与NVIDIA在部分云厂商的自研芯片策略上形成竞争与替代关系"
       },
       {
         "ticker": "MRVL",
         "name": "Marvell Technology",
-        "note": "数据中心互联与定制芯片厂商，近期因选举后市场对AI基建资本支出预期调整而股价大幅波动，可作为产业链景气度参考"
+        "note": "AI网络与定制硅片供应商，近期股价大幅下挫，是观察AI硬件供应链整体景气度的重要参照"
       },
       {
-        "ticker": "AMD",
-        "name": "Advanced Micro Devices",
-        "note": "GPU与AI加速芯片的主要竞争对手，产品定位与NVDA在训练推理市场形成直接对标"
+        "ticker": "CRDO",
+        "name": "Credo Technology",
+        "note": "数据中心高速互连方案提供商，近期跌幅显著，反映市场对数据中心需求放缓担忧的敏感度"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-05T01:22:30.411042Z"
+    "generatedAt": "2026-11-06T01:26:18.107703Z"
   },
   "news": [
     {
-      "id": "NVDA-143495630",
-      "title": "If You'd Invested $5,000 in VOO 15 Years Ago, Here's What You'd Have Today",
+      "id": "NVDA-143546352",
+      "title": "Box Unveils AI Agent Tools and NVIDIA Partnership at BoxWorks 2026",
       "source": "Yahoo",
-      "publishedAt": "2026-11-04",
-      "url": "https://finnhub.io/api/news?id=a8717cc5117332907ac443bedafd12967ae0ef2a60b791f12c16fd6af5ca8ba7",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=a4c105f2c4ed4758f2ab2c0159252a781e7e9d4c230b80a286f661520b0428d2",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143495614",
-      "title": "Nuvectis Pharma, Inc. Q3 2026 Earnings Call Summary",
+      "id": "NVDA-143546353",
+      "title": "Nvidia Stock Just Crashed 22%. Jim Cramer Says It’s the Cheapest in a Decade",
       "source": "Yahoo",
-      "publishedAt": "2026-11-04",
-      "url": "https://finnhub.io/api/news?id=e34c300d26bdc85f68821900d864f47260bdebf14325d783e6d4dc3aee0734a0",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=fb53db2219cbdf79acadf79f9ce1f148fde100725be35265f6b568489e6a2b47",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143495615",
-      "title": "Natural Resource Partners L.P. Q3 2026 Earnings Call Summary",
+      "id": "NVDA-143546367",
+      "title": "Palantir Is Down 16% From Its High. History Suggests This Is What Happens Next.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-04",
-      "url": "https://finnhub.io/api/news?id=7e69db937a9b659406741334110dcc5dd5229b951953063ef07ce8c653c1c319",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=3fb0d8bef833a80c15c5c36ff527d1cab928c429017a7e8c8f4bb7829c7b291b",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143495616",
-      "title": "Royalty Pharma plc Q3 2026 Earnings Call Summary",
+      "id": "NVDA-143543013",
+      "title": "Dow Jones Futures Fall; Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI",
       "source": "Yahoo",
-      "publishedAt": "2026-11-04",
-      "url": "https://finnhub.io/api/news?id=9c07f0c980397106b1d5f0a46fec2cb65638a0207a724f091d46ce392ccfe936",
+      "publishedAt": "2026-11-05",
+      "url": "https://finnhub.io/api/news?id=b5f259a08cafeabcb7baa95c693afa494b1a20d608b9ca9a5f54b28f0f41e392",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143495617",
-      "title": "NNN REIT, Inc. Q3 2026 Earnings Call Summary",
+      "id": "NVDA-143543032",
+      "title": "Amylyx Pharmaceuticals, Inc. Q3 2026 Earnings Call Summary",
       "source": "Yahoo",
-      "publishedAt": "2026-11-04",
-      "url": "https://finnhub.io/api/news?id=0950c0d4b9fd07b8ec9ed4ab389e454db488231a0b30b50f0f2f66f1a5031cc3",
+      "publishedAt": "2026-11-05",
+      "url": "https://finnhub.io/api/news?id=05ec68ff12361241899c3426c7c8b989feea86f0cc6dfea59a2c07249f8dc228",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143495618",
-      "title": "Navios Maritime Partners L.P. Q3 2026 Earnings Call Summary",
+      "id": "NVDA-143543014",
+      "title": "Evolent Health, Inc. Q3 2026 Earnings Call Summary",
       "source": "Yahoo",
-      "publishedAt": "2026-11-04",
-      "url": "https://finnhub.io/api/news?id=e5b0bb11b6fb8568c12468f729a688f32500dcaf0f372e8b9a7612f8e952fc64",
+      "publishedAt": "2026-11-05",
+      "url": "https://finnhub.io/api/news?id=926f9a10c4ee12c75b126cf2fff293c8a8cb59b72e2624d37a071600386b7fa9",
       "tags": [
         "NVDA"
       ]
