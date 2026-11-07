@@ -3,21 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 167.52,
-  "change5dPct": -26.6,
-  "changeYtdPct": -41.3,
-  "marketCap": "$49.5B",
-  "pe": 97.8,
+  "price": 173.24,
+  "change5dPct": -14.7,
+  "changeYtdPct": -33.0,
+  "marketCap": "$51.2B",
+  "pe": 99.1,
   "revenue": "—",
   "revenueYoYPct": 111,
   "prices": [
-    {
-      "t": "2026-05-06",
-      "o": 299.0,
-      "h": 299.0,
-      "l": 281.84,
-      "c": 285.47
-    },
     {
       "t": "2026-05-07",
       "o": 284.4,
@@ -899,132 +892,141 @@
       "h": 213.96,
       "l": 190.6,
       "c": 200.4
+    },
+    {
+      "t": "2026-11-05",
+      "o": 188.0,
+      "h": 188.8,
+      "l": 156.0,
+      "c": 167.52
+    },
+    {
+      "t": "2026-11-06",
+      "o": 183.31,
+      "h": 186.33,
+      "l": 168.84,
+      "c": 173.24
     }
   ],
   "thesis": {
     "bull": [
-      "Bloom Energy近期获得NTT DATA约900MW固体氧化物燃料电池订单，显示数据中心运营商对其分布式发电方案的大规模采购仍在持续，订单能见度较高",
-      "据跟踪者动向，Google母公司Alphabet在怀俄明州170亿美元新数据中心项目中采用Bloom Energy燃料电池，意味着头部云厂商正式将其技术路线纳入基础设施方案，具备标杆意义",
-      "在电网扩容和新增并网审批普遍滞后的背景下，燃料电池可实现比传统电网接入更快的现场发电部署，公司处于AI算力基建电力缺口这一结构性趋势的受益位置"
+      "AI数据中心电力需求快速增长，谷歌宣布在怀俄明州投资170亿美元新建数据中心并计划实现100%自供电，项目采用Bloom Energy燃料电池，验证了公司产品在超大规模数据中心场景的落地能力",
+      "燃料电池可现场部署、无需排队等待电网扩容和输电线路审批，相比传统电网接入更灵活快速，契合美国电网紧张背景下的过渡性供电需求",
+      "国会议员佩洛西于2026年7月披露新增BE股票多头持仓，显示部分信息灵通的机构或个人投资者对其业务前景持乐观态度"
     ],
     "bear": [
-      "近期公开披露显示，在900MW大单及Google合作消息公布当日，股价仍下跌约16%，表明市场对AI算力相关资本支出前景的担忧已阶段性压制利好消息的提振作用",
-      "中期选举后市场对AI板块整体抛售压力显著，英伟达、Marvell、Credo等AI产业链股票同期大幅下挫，若科技巨头资本开支指引转弱，Bloom Energy下游订单增速预期可能被下修",
-      "公司估值长期建立在持续高增长订单假设之上，而其历史盈利能力与自由现金流仍被部分投资者质疑，一旦大客户订单节奏或规模出现变化，估值修正风险相对较大"
+      "公司估值已计入较高的订单增长和利润率改善预期，AI概念股板块近期因中期选举后情绪转弱而出现剧烈波动，股价对宏观利率预期和市场风险偏好高度敏感",
+      "公司产品仍以天然气为主要燃料来源，清洁能源属性存在争议，联邦及各州在补贴、碳排放政策上的变化可能影响其长期成本结构和需求假设",
+      "客户集中度偏高，谷歌、甲骨文、Equinix等少数大型科技公司贡献主要新增订单，一旦这些客户资本开支放缓、项目延期或转向自建电力（如燃气电厂、小型核能），公司收入增速存在不确定性"
     ],
     "watch": [
-      "关注Alphabet怀俄明州数据中心项目后续细节，包括Bloom Energy在该项目中的燃料电池供应规模、交付周期及合同条款是否披露",
-      "关注中期选举后国会及监管层在电网互联审批、分布式能源税收抵免等政策上的走向，这将直接影响分布式发电需求增长速度",
-      "关注科技巨头四季度及未来资本开支指引，以及整体AI基建投资情绪能否企稳，这是判断Bloom Energy订单可持续性的关键宏观变量"
+      "谷歌怀俄明项目的具体合同规模、交付时间表及后续是否有更多类似超大规模数据中心订单落地",
+      "美联储12月利率决议及其对高估值AI与数据中心电力概念股估值的影响",
+      "后续财报中数据中心相关收入占比、订单积压（backlog）及毛利率的变化趋势，以及其他机构或议员持仓的后续变动"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy是一家专注于固体氧化物燃料电池技术的能源公司，产品主要用于为数据中心、工业设施等提供现场分布式发电。近年来受益于AI算力扩张带来的电力需求激增，公司订单量和市场关注度明显上升，客户群体逐步扩展至大型云服务商及科技基础设施运营商。"
+        "body": "Bloom Energy（纳斯达克代码BE）总部位于加州圣何塞，是固体氧化物燃料电池（SOFC）技术的主要制造商之一。核心产品Bloom Energy Server可利用天然气、生物气或氢气进行现场发电，主要客户群体包括数据中心运营商、工业设施及公用事业公司，定位为不完全依赖传统电网的分布式发电解决方案提供商"
       },
       {
-        "heading": "行业与需求驱动",
-        "body": "AI数据中心建设对电力的需求增长速度远超传统电网扩容和并网审批的速度，这为分布式、可快速部署的发电方案创造了结构性机会。Bloom Energy的燃料电池可绕开部分电网接入瓶颈，是其近期获得大额订单的核心逻辑。但该逻辑高度依赖AI资本支出周期是否持续。"
+        "heading": "商业模式与护城河",
+        "body": "公司收入来源包括设备销售、长期服务协议以及电力采购协议（PPA）。其核心竞争优势在于部署周期明显短于新建输电线路或传统燃气轮机电厂，产品具备模块化、可按需扩容的特性。当前美国电网接入排队周期拉长、AI数据中心建设对电力的需求激增，为这类现场发电方案创造了新的市场窗口"
       },
       {
-        "heading": "近期动态",
-        "body": "公开信息显示，Bloom Energy近期与NTT DATA达成约900MW的燃料电池供应合作，同时有信息指出Google在怀俄明州一项170亿美元的新数据中心项目中采用了其燃料电池技术。然而同期股价仍出现约16%的单日下跌，显示市场情绪与中期选举后的宏观及板块轮动因素相互交织，个股利好未能完全对冲板块系统性压力。"
+        "heading": "近期催化剂",
+        "body": "公开报道显示，谷歌宣布在怀俄明州投资170亿美元新建数据中心并计划实现100%自供电，项目将采用Bloom Energy燃料电池。与此同时，国会议员佩洛西在2026年7月披露了新增的BE股票多头仓位。股价在中期选举后AI股票板块经历剧烈震荡，随后随科技股整体反弹出现回升，市场情绪仍较为波动"
       },
       {
         "heading": "财务与估值",
-        "body": "市场对Bloom Energy的定价很大程度上反映了对未来订单增长和AI电力需求持续性的预期，而非当前已实现的盈利水平。在AI相关股票近期普遍大幅回调的背景下，公司估值对宏观情绪和板块资金流向的敏感度较高，公开信息未提供具体财务指标用于进一步量化评估。"
+        "body": "作为AI基础设施供电概念股，BE近期营收增速较快，但公司历史上盈利能力波动较大，市场预期与AI资本开支周期高度绑定。当前估值隐含了较高的订单增长和利润率改善预期，投资者需持续关注毛利率、自由现金流及订单积压（backlog）等指标的季度变化，以判断增长叙事能否兑现"
       },
       {
         "heading": "风险因素",
-        "body": "主要风险包括：AI资本支出周期性放缓导致下游大客户订单延迟或规模收缩；利率及宏观政策不确定性影响市场对高增长叙事股票的估值容忍度；中期选举后能源与电网相关政策走向尚不明确，可能影响分布式能源补贴与审批环境；板块整体抛售情绪可能导致个股出现与基本面脱钩的剧烈波动。"
+        "body": "主要风险包括：一，AI数据中心资本开支若因宏观环境或融资条件收紧而放缓，将直接影响公司新增订单节奏；二，以天然气为主要燃料的模式在不同联邦与州政策环境下可能面临碳排放监管或补贴政策变化的不确定性；三，大型科技客户集中度较高，且部分客户可能自建或采用其他替代电力方案（如燃气电厂、小型模块化核能），从而分流市场份额"
       },
       {
         "heading": "多空分歧总结",
-        "body": "多头观点聚焦于AI数据中心电力缺口带来的结构性订单增长，以及与NTT DATA、Google等头部客户合作的验证效应；空头观点则强调股价对AI板块系统性风险的高敏感度，以及公司长期盈利能力与估值持续性之间的矛盾。两种观点均指向同一关键变量——AI资本支出的持续性，这将是后续判断分歧收敛方向的核心线索。"
+        "body": "多头观点认为，Bloom是美国AI电力缺口下的核心受益标的之一，谷歌等大型科技公司的采购决定验证了其商业模式的可扩展性，且公司在现场快速供电方面具备稀缺性优势。空头观点则认为，当前股价已充分计入甚至透支了未来增长预期，一旦AI资本开支周期放缓、利率维持高位或大型客户转向自建电力，叙事驱动型估值存在明显回调风险。市场对Bloom究竟是「长期电力基础设施赢家」还是「阶段性主题炒作」尚未形成一致看法，仍需后续财报与订单数据加以验证"
       }
     ],
     "comparables": [
       {
+        "ticker": "OKLO",
+        "name": "Oklo",
+        "note": "专注小型模块化核反应堆（SMR），同属数据中心供电主题标的，近期财报因亏损小于预期带动股价反弹，与Bloom在长期清洁电力叙事上形成互补或竞争关系"
+      },
+      {
         "ticker": "PLUG",
         "name": "Plug Power",
-        "note": "同属氢能与燃料电池领域，与Bloom Energy在分布式清洁能源发电叙事上存在一定可比性，但技术路线与客户结构不同"
+        "note": "另一家氢燃料电池公司，业务更聚焦氢能叉车及氢能基础设施，财务状况相对较弱，可作为燃料电池赛道内风险偏好更高的对照标的"
       },
       {
-        "ticker": "FCEL",
-        "name": "FuelCell Energy",
-        "note": "同为燃料电池技术公司，规模与订单体量相对较小，可作为行业景气度的参考样本"
-      },
-      {
-        "ticker": "VST",
-        "name": "Vistra Corp",
-        "note": "大型独立发电商，受益于AI数据中心用电需求增长，可作为电力供给端受益逻辑的对照"
-      },
-      {
-        "ticker": "CEG",
-        "name": "Constellation Energy",
-        "note": "核电及清洁能源发电龙头，同样受AI数据中心用电需求提振，可用于比较不同发电技术路线的市场定价差异"
+        "ticker": "GEV",
+        "name": "GE Vernova",
+        "note": "传统燃气轮机与电力设备制造商，是数据中心备用及主力电力供应的传统竞争者，也是现场发电市场格局的重要参照"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-06T01:27:56.106338Z"
+    "generatedAt": "2026-11-07T00:45:34.003193Z"
   },
   "news": [
     {
-      "id": "BE-143547342",
-      "title": "Bloom Energy Sinks 16% Despite 900 MW NTT DATA Deal as Midterm Fears Hit AI Power Stocks",
+      "id": "BE-143591764",
+      "title": "Bloom Energy Supports Oxford Firefighters and Local Families Ahead of Georgia-Ole Miss Matchup",
       "source": "Yahoo",
       "publishedAt": "2026-11-06",
-      "url": "https://finnhub.io/api/news?id=aae5889124372912dfdb07d31ee0388d6fca755eb980f9aff3328d0bd9f807dd",
+      "url": "https://finnhub.io/api/news?id=8dc125cc11ab17fdb9363abedfcd3a8cf75cf8502896cdeeb3487b5ab0482019",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143548633",
-      "title": "S&P 500 Top Movers: Gainers and Losers in Nov. 5, 2026 Session",
-      "source": "ChartMill",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=d946045c52036d63964febb6fb508ce4e092cf56e438ce86e3f3afb5497bb4dd",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-143541954",
-      "title": "Credo Sinks Another 14% as Democratic Sweep Stokes “Left-Tail Event” Fears for AI",
+      "id": "BE-143590778",
+      "title": "Google Is Spending $17 Billion on a Wyoming Data Center and Says It Will Pay for 100% of Its Power",
       "source": "Yahoo",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=a0a9e542bf68bfb4535fcba1405402b6444b4ca25a26cf98531642d013147929",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=e7e79fff72bc352399da626e75c4b5c1a108dc905ec2eb8d68afb2d280c56293",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143548631",
-      "title": "Most Active S&P 500 Stocks: Marvell, Oracle, Ford Lead Nov. 5 Trading",
-      "source": "ChartMill",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=ccdee529daf98cebd042cc9c18710b9bf10bf1549adde12ec054ff3e77786a1a",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-143540697",
-      "title": "The Stock Market Celebrated Election Day. Then the AI Trade Imploded.",
+      "id": "BE-143590825",
+      "title": "Bloom Energy Rises 2%, AMD Up 8% as AI Stocks Rebound From Midterm Rout",
       "source": "Yahoo",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=61f6ee8a4bde58d4e45111754e58a5d6ddf0cc07c0a85fb6cbc161846a94ecff",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=e80c2718152d9d95a521e7cacafa6ba01144f7746695d8b6f95b1e9a55a10b41",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143548626",
-      "title": "S&P 500 Top Movers: AppLovin Leads Today's Session With 29.19% Gain",
+      "id": "BE-143590821",
+      "title": "AI Stocks Plunge: Buy, Sell or Hold?",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=4977d499ec7135b29a3b0d5131ac6c4f5c3eef0fd08259ce377460201dae5c1b",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-143588289",
+      "title": "Oklo Soars 16% as Narrower-Than-Expected Q3 Loss Sparks Rebound From Election Sell-Off",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=af8aa3e25d3c01fb9d0795003888dcaa8657f3ca2ee9f6d39ec0be5bc2184114",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-143584076",
+      "title": "S&P 500 Premarket Movers: Tech and Semiconductor Stocks Lead Gainers as AXON and ROL Fall",
       "source": "ChartMill",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=d0d789d0fbfdece788b4443bb7721d4d64e7b743b3438bef707a65381ed45e4d",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=3ddd5756ebb49544a30f152edd7763c7482f382d299c3762604eac63883a5699",
       "tags": [
         "BE"
       ]

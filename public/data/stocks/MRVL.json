@@ -3,21 +3,14 @@
   "name": "Marvell Technology",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 133.55,
-  "change5dPct": -46.9,
-  "changeYtdPct": -22.4,
-  "marketCap": "$117.1B",
-  "pe": 44.4,
+  "price": 141.2,
+  "change5dPct": -28.1,
+  "changeYtdPct": -11.8,
+  "marketCap": "$123.8B",
+  "pe": 46.9,
   "revenue": "—",
   "revenueYoYPct": 31,
   "prices": [
-    {
-      "t": "2026-05-06",
-      "o": 172.6,
-      "h": 175.8,
-      "l": 165.0,
-      "c": 172.15
-    },
     {
       "t": "2026-05-07",
       "o": 171.2,
@@ -899,137 +892,146 @@
       "h": 166.32,
       "l": 154.78,
       "c": 159.8
+    },
+    {
+      "t": "2026-11-05",
+      "o": 151.41,
+      "h": 152.15,
+      "l": 132.54,
+      "c": 133.55
+    },
+    {
+      "t": "2026-11-06",
+      "o": 145.07,
+      "h": 146.32,
+      "l": 135.34,
+      "c": 141.2
     }
   ],
   "thesis": {
     "bull": [
-      "Marvell在定制化AI芯片(ASIC/XPU)领域持续获得云厂商设计订单，数据中心以太网交换与互联芯片组合覆盖AI基础设施关键环节，长期受益于算力建设趋势",
-      "英伟达CEO黄仁勋曾公开将Marvell称为下一个万亿美元市值公司，显示其在AI供应链中获行业龙头的战略性认可，客户关系与产品路线图具备一定可信度",
-      "股价过去一个月累计下跌约49%，自黄仁勋言论以来回撤约46%，估值已大幅压缩，若AI资本支出和定制芯片订单保持韧性，存在估值修复空间"
+      "Marvell在定制AI计算芯片（ASIC/XPU）与高速互联芯片领域持续获得超大型云厂商认可，Jensen Huang此前公开将其称为「下一个万亿美元公司」，反映英伟达生态对其定制硅合作的高度重视",
+      "光学互联赛道并购活跃（Coherent拟收购Lumentum），市场评论指出即便下游数据中心需求放缓二三成，激光器/光模块供应仍可能维持紧张，Marvell在高速互联DSP芯片上有望受益于行业扩产周期",
+      "股价自高点回撤约46%后估值明显消化，近期半导体板块在中期选举后出现反弹迹象（AMD单日大涨逾10%，台积电限制卖空等），部分资金（如Cathie Wood方面）逢低加仓半导体标的，显示部分机构认为悲观预期已较充分反映"
     ],
     "bear": [
-      "股价自被称为万亿美元候选股以来已下跌约46%，显示此前过度乐观叙事正被市场重新评估，前期涨幅中可能包含过多预期溢价",
-      "近期美股科技与AI链条出现普遍性抛售，纳斯达克进入调整区间，市场担忧数据中心扩张受限及AI资本支出增速放缓，Marvell作为高贝塔AI硬件股首当其冲，11月5日即为标普成分股中交易最活跃个股之一",
-      "光学互连领域潜在的COHR与LITE相关整合可能改变独立激光/光学供应商格局，部分跟踪者指出客户或更倾向于避免利益冲突的独立供应商，而同业Credo因中期选举后监管与政策层面的「左尾风险」担忧同步大跌，反映市场对整个AI供应链相关个股的风险重新定价"
+      "股价较Jensen Huang喊话后的高点暴跌约46%，说明市场对「下一个万亿美元公司」叙事已出现明显质疑，公司增长能见度与订单兑现节奏未必支撑此前的乐观定价",
+      "公司业绩与估值高度集中押注于AI数据中心资本开支这一单一驱动力，一旦云厂商资本开支增速放缓或自研芯片内部化比例提升，收入弹性可能被放大化地冲击",
+      "Coherent与Lumentum的合并被部分观察者解读为负面信号——有评论认为下游客户会更倾向于选择独立于设备商之外、无利益冲突的光学器件供应商，这可能削弱Marvell在光学互联生态中的议价地位和客户粘性"
     ],
     "watch": [
-      "关注下一财季业绩电话会中关于定制硅/以太网交换机订单能见度、大客户集中度及产能利用率的最新披露",
-      "关注光学与激光供应链整合动态(包括COHR与LITE相关交易)对Marvell光学互连业务客户结构及议价能力的潜在影响，以及SIVE等新兴CW/ELS产能供应商的进展",
-      "关注中期选举后国会构成变化对AI数据中心基建、出口管制及相关产业政策的潜在影响，以及这是否会进一步压制或缓解市场对AI资本支出的预期"
+      "英伟达与Marvell之间定制芯片合作的具体订单规模、客户集中度及合同兑现节奏，是验证「万亿美元」叙事是否落地的关键指标",
+      "Coherent收购Lumentum交易的推进情况及其对光模块/激光器供应链格局的重塑，关注是否出现客户转向其他独立供应商（如Applied Optoelectronics等）的迹象",
+      "宏观流动性与联储12月议息结果、AI资本开支整体趋势及中期选举后市场风险偏好变化，这些因素将持续影响半导体板块整体估值弹性"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Marvell Technology是一家专注于数据基础设施的半导体公司，核心业务覆盖数据中心定制化芯片(ASIC/XPU)、以太网交换与互联芯片、光学互连组件以及存储与网络解决方案。公司近年来将战略重心转向云厂商定制AI芯片与数据中心互联，成为AI基础设施供应链中的重要参与者之一。"
+        "body": "Marvell Technology是一家专注于数据基础设施的半导体公司，核心产品包括数据中心用定制计算芯片（ASIC/XPU）、高速互联与光电子接口芯片、存储控制器等。公司近年来将战略重心大幅转向AI与云数据中心市场，与多家超大型云厂商开展定制芯片合作，并因此被视为英伟达AI生态圈中的重要合作伙伴之一。"
       },
       {
-        "heading": "业务与收入结构",
-        "body": "Marvell收入主要来自数据中心业务(含云厂商定制芯片与以太网交换芯片)，此外还包括企业网络、运营商基建、汽车与工业、消费电子等板块。近期行业关注点集中在其与超大规模云厂商的定制硅合作，以及光学互连产品线在AI集群内部与集群间通信中的角色。"
+        "heading": "业务与增长驱动",
+        "body": "公司增长的核心驱动力是云厂商自建/定制AI加速芯片的需求，以及数据中心内部与跨数据中心的高速互联升级（如光模块DSP、以太网交换芯片等）。部分跟踪信号提到，光学器件行业（激光器、光模块）存在结构性供需紧张，若此态势持续，将直接利好Marvell在互联芯片侧的出货与定价。"
       },
       {
-        "heading": "多头观点",
-        "body": "支持者认为，Marvell在AI数据中心定制芯片与高速互联领域具备技术与客户关系壁垒，受益于云厂商持续增加算力投入的长期趋势。英伟达CEO黄仁勋此前公开看好Marvell，被部分市场人士视为对其战略地位的背书。同时，近期股价大幅回撤后，估值吸引力有所提升，若后续业绩兑现可能带来修复行情。"
+        "heading": "近期股价与估值",
+        "body": "自Jensen Huang今年年中公开看好Marvell、称其有望成为下一个万亿美元公司后，股价一度大幅上涨，但此后又从高点回撤约46%，显示市场情绪大幅波动。近期伴随中期选举后科技股整体回调又反弹，半导体板块波动率显著放大，台积电等公司甚至采取限制卖空等非常规措施，反映行业整体处于高波动、预期快速切换的阶段。"
       },
       {
-        "heading": "空头观点/风险",
-        "body": "质疑者指出，Marvell股价自被称为万亿美元候选股以来已累计下跌约46%，显示此前市场预期可能过于乐观，叙事驱动的涨幅存在回吐风险。近期AI硬件板块遭遇普遍性抛售，纳斯达克进入调整区间，市场担忧数据中心建设受限及资本支出增速放缓。此外，光学/激光供应链整合(如COHR与LITE相关交易)带来的格局变化，以及同业Credo因监管与政策担忧同步大跌，均反映出市场对AI供应链相关个股风险的重新评估。"
+        "heading": "多空观点分歧",
+        "body": "多头观点集中在AI数据中心资本开支的长期确定性、英伟达关系背书以及光学供应链紧张带来的议价能力；空头观点则质疑此前的乐观叙事是否被过度定价、业务对单一主题（AI数据中心）依赖过重，以及Coherent与Lumentum的合并是否会削弱Marvell在光学生态中的地位。两种观点目前均未形成一致结论，股价的大幅波动本身即反映了这种分歧。"
       },
       {
-        "heading": "近期股价与市场环境",
-        "body": "近期新闻显示，科技与AI相关股票普遍经历剧烈抛售，纳斯达克期货大跌，英伟达、Sandisk、CoreWeave等AI链条个股同步下挫，市场担忧情绪指标大幅上升。Marvell在此背景下成为11月5日标普成分股中交易最活跃的个股之一，股价波动剧烈，反映出投资者对AI资本支出可持续性及监管政策不确定性的担忧正在集中释放。"
+        "heading": "行业与竞争格局",
+        "body": "在定制ASIC与数据中心互联芯片领域，Marvell的主要竞争对手包括Broadcom等同样深耕云厂商定制芯片业务的厂商；在光学互联方面，Coherent、Lumentum、Applied Optoelectronics等公司的整合与扩产动态，将直接影响上下游供应链话语权的分布，是观察Marvell中期竞争地位变化的重要窗口。"
       },
       {
-        "heading": "估值与同业比较",
-        "body": "在当前市场环境下，AI硬件与光学互连相关个股普遍出现估值压缩，Marvell与同业Credo、Lumentum等均出现大幅回撤。跟踪者讨论的焦点包括Marvell与Coherent/Lumentum在光学互连领域的竞合关系，以及定制芯片业务与Broadcom等大型竞争对手的对比。投资者需结合整体AI资本支出周期与监管政策演变，综合评估同业估值差异的合理性。"
+        "heading": "风险与催化剂",
+        "body": "主要催化剂包括新的定制芯片合同落地、云厂商资本开支指引上修、以及光学供应链紧张态势的延续；主要风险包括宏观流动性收紧（联储政策路径）、地缘政治与出口管制、云厂商自研芯片比例提升对第三方供应商的替代压力，以及行业高波动下市场情绪的进一步反复。"
       }
     ],
     "comparables": [
       {
         "ticker": "AVGO",
         "name": "Broadcom",
-        "note": "定制化AI芯片(ASIC)与网络芯片领域的主要竞争对手，客户结构与Marvell有一定重叠"
-      },
-      {
-        "ticker": "CRDO",
-        "name": "Credo Technology",
-        "note": "高速互联芯片供应商，近期因监管与政策担忧同步大幅下跌，反映AI供应链风险共性"
-      },
-      {
-        "ticker": "LITE",
-        "name": "Lumentum",
-        "note": "光学元件供应商，与Coherent存在整合传闻，涉及与Marvell光学互连业务的竞合关系"
+        "note": "在定制ASIC与网络互联芯片领域与Marvell形成直接竞争，近期股价同样经历较大幅度回调"
       },
       {
         "ticker": "COHR",
         "name": "Coherent",
-        "note": "光学与激光器供应商，相关并购传闻涉及独立光源供应商格局变化，间接影响Marvell客户关系"
+        "note": "拟收购Lumentum，光学器件与激光器供应商，交易进展将影响Marvell所处的光学互联生态格局"
       },
       {
-        "ticker": "NVDA",
-        "name": "Nvidia",
-        "note": "AI算力生态核心厂商，其CEO曾公开看好Marvell，二者股价近期均受AI板块整体抛售压力影响"
+        "ticker": "LITE",
+        "name": "Lumentum Holdings",
+        "note": "光模块与激光器厂商，为Coherent收购标的，市场关注其与Marvell在高速互联领域的协同或竞争关系"
+      },
+      {
+        "ticker": "AAOI",
+        "name": "Applied Optoelectronics",
+        "note": "光学器件供应商，被认为可能受益于客户寻求独立于并购整合之外的替代光学供应商"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-06T01:27:12.064265Z"
+    "generatedAt": "2026-11-07T00:44:39.354269Z"
   },
   "news": [
     {
-      "id": "MRVL-143543214",
-      "title": "What Insight Enterprises (NSIT) Said on Its Q3 Earnings Call",
+      "id": "MRVL-143591722",
+      "title": "Lumentum Holdings (LITE) Could Be 90% Undervalued Following The Marvell Deal",
       "source": "Yahoo",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=f962a0b26ec4972c858b50561cc3e8733b13163ba9b8daaaa2923de8c55925de",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=928c6346a891c689ecc4252d7583fd5e887b5f71611f34d769d2277ecbffee1a",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-143541987",
-      "title": "Why Marvell Stock Is Falling Today",
+      "id": "MRVL-143591624",
+      "title": "Broadcom Is Still Down 22% in the Past Month: Is AVGO Stock Really on a Road to Recovery?",
       "source": "Yahoo",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=788fd5bdeb8c650bad508a41bd744f8ef422da086afd928db2e2e69e0a682963",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=ceb93d212de466d3444f3787ae127328490c94f329e2391674794bab5b44860d",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-143541882",
-      "title": "Marvell Just Dropped 49% in a Month: Is MRVL Stock Hopeless or Ready for a Rebound?",
+      "id": "MRVL-143590762",
+      "title": "Investing.com’s stocks of the week",
       "source": "Yahoo",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=62c01bf8c245a147750755373aee48ac3b487aaf8c40eb712399e464c51ad965",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=1ff2ed5c5d44eccee32f2a100979194645338376190ca424b9c2e859f00dfc3c",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-143540620",
-      "title": "Equities Plunge in Tech-Led Sell-Off Amid Data Center Restriction Fears",
+      "id": "MRVL-143590932",
+      "title": "What B. Riley Financial (RILY) Said on Its Q3 Earnings Call",
       "source": "Yahoo",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=e80e15f4a9115bdf480d8cf8b85f947765e79615e89086537816973d248680e5",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=4dd4f7c95eff0ef08b0bfc45d829c39892600a00da57b8486db315b525107958",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-143539884",
-      "title": "This Little-Known Semiconductor Stock Has a Big AI Connection",
+      "id": "MRVL-143590931",
+      "title": "Coherent Surges 13% as Investors Revisit $20 Billion AI Deal After Sell-Off; Lumentum Climbs 4%, Applied Optoelectronics Gains 3%",
       "source": "Yahoo",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=187914c8399b1805dbf8827b712767a301cf1453881954d59dd8460a286981a3",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=f9d600b7737ea3d258525f7fcc9d61fff2360f7f10d70a34a09f175bcf45cd9b",
       "tags": [
         "MRVL"
       ]
     },
     {
-      "id": "MRVL-143539498",
-      "title": "Lumentum Sinks 15% as AI Chip Selloff Deepens",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=c57d28a53496a3a9206df4ded4196557a1602dba5cbc30acddcdbbe0ea61bf59",
+      "id": "MRVL-143592592",
+      "title": "Tech Stocks Rebound But Nasdaq Is Still In Correction Territory",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=c7b6c75c168ed93832eef1ecf7cd5b76d8460ecd86fd5da248568a28e38ba4ba",
       "tags": [
         "MRVL"
       ]

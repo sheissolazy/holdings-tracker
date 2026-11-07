@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 344.17,
-  "change5dPct": 0.1,
-  "changeYtdPct": 19.7,
-  "marketCap": "$5.00T",
-  "pe": 38.3,
+  "price": 342.37,
+  "change5dPct": -0.7,
+  "changeYtdPct": 19.1,
+  "marketCap": "$4.98T",
+  "pe": 37.8,
   "revenue": "—",
   "revenueYoYPct": 15,
   "prices": [
-    {
-      "t": "2026-05-06",
-      "o": 281.92,
-      "h": 288.03,
-      "l": 281.07,
-      "c": 287.51
-    },
     {
       "t": "2026-05-07",
       "o": 289.27,
@@ -899,127 +892,141 @@
       "h": 354.5,
       "l": 340.99,
       "c": 349.51
+    },
+    {
+      "t": "2026-11-05",
+      "o": 353.89,
+      "h": 355.38,
+      "l": 342.06,
+      "c": 344.17
+    },
+    {
+      "t": "2026-11-06",
+      "o": 338.73,
+      "h": 345.79,
+      "l": 338.3,
+      "c": 342.37
     }
   ],
   "thesis": {
     "bull": [
-      "iPhone销量创纪录，财报表现强劲，显示消费电子主业需求韧性强于市场担忧",
-      "英伟达CEO黄仁勋公开表态看好苹果在AI领域的布局，带动市场对苹果AI故事的正面预期",
-      "国会议员佩洛西在2025年12月30日对苹果新建多头仓位，显示部分知情投资者对短期前景仍持乐观态度"
+      "英伟达CEO黄仁勋公开表态看好苹果在AI领域的布局，带动市场对AI相关科技股的买盘情绪回升",
+      "分析师丹・艾夫斯（Dan Ives）提出全球约二成人口未来将通过苹果设备接入AI服务，显示苹果在AI终端分发层具备独特入口优势",
+      "近期财经报道将苹果与亚马逊、微软并列为本轮科技股回调中表现相对抗跌的龙头品种，资金在板块轮动中仍倾向于向其集中"
     ],
     "bear": [
-      "有分析指出苹果估值可能较基本面高出约30%，尽管iPhone销量创纪录，隐含市场对AI变现能力的担忧",
-      "佩洛西及关联账户在2025年12月24日、2025年10月22日、2024年12月31日等多个时点披露减仓记录，显示部分获利了结或谨慎情绪",
-      "近期AI相关科技股遭遇大幅抛售，纳斯达克指数进入调整区间，半导体板块出现2020年以来最差单日表现，苹果作为权重股难以完全独立于板块情绪"
+      "众议院前议长佩洛西在2025年12月30日申报新建AAPL多头仓位的同一批文件中，又出现多笔标记为减持退出的交易，且此前2025年10月22日及2024年12月31日也多次减持，交易信号本身自相矛盾，难以形成清晰方向判断",
+      "半导体与AI硬件板块近期波动剧烈，高通出现自2020年以来最差单日表现，博通股价一个月内仍下跌超过两成，显示AI产业链上游情绪脆弱，可能通过供应链预期传导至苹果",
+      "中期选举后市场出现一轮AI股抛售，美联储12月是否加息仍存不确定性，宏观流动性收紧预期对高估值科技股估值构成压力"
     ],
     "watch": [
-      "关注苹果AI产品与服务端功能的后续落地进度，能否兑现市场对AI叙事的高预期",
-      "关注英伟达、AMD等AI硬件产业链本轮大幅回调是否通过供应链或情绪联动进一步波及苹果",
-      "关注国会相关人士后续公开披露的持仓变动方向，以及这是否反映更广泛的市场或政策情绪变化"
+      "关注苹果是否在后续产品发布或财报电话会中进一步披露具体AI功能与设备整合进展，以验证黄仁勋与分析师的乐观预期是否兑现",
+      "关注国会议员申报文件中后续是否出现更一致方向的交易，以判断此前佩洛西申报中新建多头与减持并存是否只是仓位结构调整而非方向性信号",
+      "关注美联储12月议息会议决议及就业数据，货币政策路径变化可能显著影响市场对苹果等大盘科技股的估值假设"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Apple Inc. 是全球领先的消费电子、软件与服务公司，核心产品包括iPhone、Mac、iPad、可穿戴设备及持续增长的服务业务（App Store、Apple Music、iCloud等）。近期公司持续推进Apple Intelligence等AI功能在现有产品生态中的整合，试图将庞大装机量转化为新的增长动能"
+        "body": "苹果公司是全球领先的消费电子、软件与服务提供商，核心产品包括iPhone、Mac、iPad及可穿戴设备，并通过App Store、云服务、广告及订阅等业务构建多元化收入结构。公司长期被视为大盘科技股中现金流稳健、生态黏性强的代表性标的，在近期围绕人工智能的市场叙事中，其能否将AI能力嵌入终端设备成为外界关注焦点。"
       },
       {
-        "heading": "近期业绩与基本面",
-        "body": "据公开报道，苹果近期季度财报中iPhone销量创纪录，与Alphabet、Meta一同被视为近期科技巨头财报季的重要看点。不过也有分析机构提出，尽管销量数据强劲，当前股价相对基本面可能存在约30%的高估，反映市场对其服务与AI增长贡献的预期已较为充分计入股价"
+        "heading": "AI布局与市场预期",
+        "body": "近期新闻显示，英伟达CEO黄仁勋的公开评论带动了市场对AI相关股票的买盘情绪，并被引述为对苹果AI前景表达高度期待。同时有分析师预测全球约二成人口未来将通过苹果设备接入AI服务，反映市场对苹果作为AI分发入口的潜在价值存在较高预期，但这些仍停留在预期与评论层面，尚缺乏苹果官方层面明确的产品路线图佐证。"
       },
       {
-        "heading": "跟踪者与知情交易动向",
-        "body": "美国国会议员南希·佩洛西相关披露显示其在2025年12月30日对苹果新建多头仓位，但同一批次及此前（2025年12月24日、2025年10月22日、2024年12月31日）披露中也存在多次减仓记录，呈现买入与减持交织的复杂信号，难以简单解读为一致看多或看空。此外，英伟达CEO黄仁勋在2026年6月的公开言论中提及对苹果AI的「高期望」，一度带动AI关联股票买盘，侧面反映产业界对苹果AI潜力的关注"
+        "heading": "跟踪者动向解读",
+        "body": "公开披露的国会交易记录显示，佩洛西在2025年12月30日申报了一笔新建的AAPL多头仓位，但同一批次及此前多个时间点（2025年12月24日、2025年10月22日、2024年12月31日）又多次出现减持退出的记录。这种新建与减持并存的情况，可能反映的是期权组合调整或仓位再平衡，而非单一清晰的方向性判断，解读时需保持谨慎，不宜简单等同于看多或看空信号。"
       },
       {
         "heading": "行业与宏观环境",
-        "body": "近期市场正经历由AI交易退潮引发的大幅波动，纳斯达克指数进入调整区间，英伟达、AMD、CoreWeave等AI硬件链龙头股大幅下挫，半导体板块出现2020年以来最差单日表现。市场对数据中心扩张受限的担忧、中期选举后的政策不确定性，以及部分地缘政治事件共同加剧了风险资产的波动。作为权重科技股，苹果的股价表现与板块及大盘情绪存在较高联动性"
+        "body": "中期选举结果公布后，AI与半导体板块经历了一轮明显抛售，随后部分个股（如AMD、博通相关产业链公司）出现反弹，显示板块情绪波动剧烈。高通遭遇自2020年以来最差单日表现，显示半导体行业内部分化加大。与此同时，市场对美联储12月是否加息的讨论升温，强劲的就业数据被认为可能支持进一步收紧，这类宏观变量对包括苹果在内的大盘科技股估值具有外溢影响。"
       },
       {
-        "heading": "多空分歧",
-        "body": "多头观点认为，苹果iPhone销量创纪录证明其核心业务需求稳固，且公司通过Apple Intelligence等功能切入AI赛道，具备将庞大装机量转化为AI服务收入的潜力，知情人士如黄仁勋对其AI前景表达正面看法。空头观点则认为，当前股价已充分甚至过度计入AI预期，存在较高估值风险，叠加知情交易者在短期内出现减持动作，以及行业整体对AI硬件链的信心出现裂痕，苹果未必能完全独立于板块性回调。分歧核心在于iPhone及服务业务的现金流稳定性能否支撑当前估值溢价，以及AI商业化进度是否匹配市场预期节奏"
+        "heading": "多空分歧焦点",
+        "body": "市场对苹果的分歧主要集中在两点：其一，苹果能否真正将AI能力转化为设备销售与服务收入的增长动能，还是仅停留在市场情绪与分析师预期层面；其二，国会议员交易记录中出现的新建多头与减持并存现象，使得所谓的跟踪者动向信号本身存在内部矛盾，增加了市场解读的不确定性。此外，半导体板块的高波动性也让投资者担忧上游供应链风险是否会外溢至苹果这样的下游品牌厂商。"
       },
       {
-        "heading": "风险与关注点",
-        "body": "需关注的风险包括宏观流动性环境变化（如中期选举后政策不确定性、地缘政治事件）对科技股整体估值的压制，AI硬件产业链情绪的进一步恶化是否通过供应链或市场联动传导至苹果，以及公司自身AI产品落地进度与市场预期之间可能存在的预期差。此外，国会议员等公开披露交易的解读存在局限性，不能代表机构或长期基本面判断，仅可作为市场情绪的参考指标之一"
+        "heading": "展望与关注要点",
+        "body": "短期内，苹果股价走势预计将继续受到两方面因素牵引：一是AI叙事能否从评论预期进一步落地为具体产品与收入指引，二是宏观层面美联储利率路径及中期选举后市场情绪修复的持续性。建议持续关注苹果官方对AI产品计划的披露、半导体及科技板块的资金流向变化，以及后续国会交易披露是否呈现更一致的方向性信号，而非基于单一批次互相矛盾的记录做出判断。"
       }
     ],
     "comparables": [
       {
-        "ticker": "GOOGL",
-        "name": "Alphabet Inc.",
-        "note": "同期被纳入近期科技巨头财报季对比对象，同样面临AI投入与盈利兑现的市场审视"
+        "ticker": "MSFT",
+        "name": "微软",
+        "note": "同为近期报道中与苹果并列提及的抗跌大盘科技股，受AI云服务与企业软件业务支撑，可作为同类资金避险偏好的参照"
       },
       {
-        "ticker": "META",
-        "name": "Meta Platforms Inc.",
-        "note": "与苹果同属近期财报季焦点公司，AI相关资本支出与回报预期是市场关注的共同主题"
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "其CEO对苹果AI前景的公开评论直接影响了本轮AI股买盘情绪，是观察AI产业链上游情绪向苹果等终端品牌传导的关键参照对象"
       },
       {
-        "ticker": "QCOM",
-        "name": "Qualcomm Inc.",
-        "note": "作为苹果供应链相关芯片企业，其股价目标遭机构下调，反映市场对消费电子与AI终端需求预期的调整"
+        "ticker": "AVGO",
+        "name": "博通",
+        "note": "近期股价仍较高点下跌超过两成，反映半导体与AI硬件供应链板块的脆弱情绪，可用于对比苹果作为下游品牌厂商的相对抗跌程度"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-06T01:28:51.651920Z"
+    "generatedAt": "2026-11-07T00:46:14.564681Z"
   },
   "news": [
     {
-      "id": "AAPL-143543013",
-      "title": "Dow Jones Futures Fall; Nasdaq Dives 5.5%, Nvidia, Sandisk, CoreWeave, SpaceX Plunge, But Sell-Off Spreads Beyond AI",
+      "id": "AAPL-143591568",
+      "title": "Dow Jones Futures: Market Needs Repair But Sandisk, Micron Broken; Apple, Amazon, Microsoft Strong",
       "source": "Yahoo",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=b5f259a08cafeabcb7baa95c693afa494b1a20d608b9ca9a5f54b28f0f41e392",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=4ee5b6a059dd5bd95c396ca8a8e637a13a1ca1ef4f6606dee11cee58ecacdd36",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143544133",
-      "title": "Apple, Alphabet, and Meta: 3 Big Takeaways from Recent Earnings",
+      "id": "AAPL-143591570",
+      "title": "5 Latest Jim Cramer Stock Picks on Twitter and Mad Money",
       "source": "Yahoo",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=0b67865e4ba114dedc578c8f2a51a33f460e13c673214ecfe89e8e7969c253d9",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=dfbd3a28558813fc24dd47167dfdba2097db3fb605fedf6ea6b674ac7578e653",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143543040",
-      "title": "Berkshire After Buffett: Steady Hands, Big Bets In The Greg Abel Era",
+      "id": "AAPL-143590742",
+      "title": "Dan Ives: “20% of the World” Will Access AI Through an Apple Device",
       "source": "Yahoo",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=3e28f970e7793fe9c324a1b24748f43f79509f331e3f39cf9b4075dac2db7674",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=ab5323f46f0fa0682a6b445c8d67ac4b840b9604fb43c66a4553795bb3ed4d8f",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143543041",
-      "title": "Baird Cut Its Qualcomm Target to $320. It Still Sees 104% Upside",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=c6f5e07ffad618ccdfd345fcd0fa90688503440f6067022435ac6ad441b9286f",
+      "id": "AAPL-143592592",
+      "title": "Tech Stocks Rebound But Nasdaq Is Still In Correction Territory",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=c7b6c75c168ed93832eef1ecf7cd5b76d8460ecd86fd5da248568a28e38ba4ba",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143543038",
-      "title": "Apple (AAPL) Stock Could Be 30% Overvalued Despite Record iPhone Sales",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=29b967bab0424893c33f1c846a27b6c19cd73543f7c2f6ba314ece3c206ff81e",
+      "id": "AAPL-143592225",
+      "title": "Dividend Champion, Contender, And Challenger Highlights: Week of November 8",
+      "source": "SeekingAlpha",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=179932ced585c47b91f7c497290f9405d62b1ac2a2bf533cfb1fe4d053589441",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143543039",
-      "title": "Gap and 5 Other Dividend Stocks Safe From the AI Trade",
+      "id": "AAPL-143590743",
+      "title": "Qualcomm Faces Worst Day Since 2020 as Chips Crater",
       "source": "Yahoo",
-      "publishedAt": "2026-11-05",
-      "url": "https://finnhub.io/api/news?id=d71102d5e304b7fa93780fdbd5ac28057c70cbc5664ee7eaf03a7f85d1319b02",
+      "publishedAt": "2026-11-06",
+      "url": "https://finnhub.io/api/news?id=0f77d1b95792e9384dfc0ab93db662dee95830a1128ec2675d8f350424e296ff",
       "tags": [
         "AAPL"
       ]
