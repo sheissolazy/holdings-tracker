@@ -2,6 +2,17 @@
   {
     "personId": "pelosi",
     "type": "ptr",
+    "ticker": "WBD",
+    "asOf": "2026-11-06",
+    "txnDate": "2026-10-07",
+    "direction": "exit",
+    "sentiment": "bear",
+    "change": "exit",
+    "sourceUrl": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035780.pdf"
+  },
+  {
+    "personId": "pelosi",
+    "type": "ptr",
     "ticker": "BE",
     "asOf": "2026-08-21",
     "txnDate": "2026-07-28",
@@ -354,6 +365,42 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-11-09",
+    "sentiment": "watch",
+    "excerpt": "Defeated Republican Congressman Thomas Massie, a total loser, is trying to Impeach perhaps the most popular and successful military official in the Country, Secretary of War, Pete Hegseth. With recruitment at an ALL-TIME HIGH, from an all-t",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117589581287691662",
+    "ticker": "",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-11-08",
+    "sentiment": "watch",
+    "excerpt": "I am urging all Senators to vote for The American Affordability and Jobs Act (S. 5653)! This Bill is a BIG WIN for U.S. ENERGY INDEPENDENCE and DOMINANCE. This Landmark Permitting Reform Legislation will codify our America First Energy Agen",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117583560661477967",
+    "ticker": "",
+    "topics": [
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-11-08",
+    "sentiment": "watch",
+    "excerpt": "America took a giant step back in History with the results of the last Election — Even the Stock Market, which has been a “ROCKETSHIP” under “TRUMP,” took a one day, 3 Trillion Dollar loss. But have no fear, we will be back, BIGGER AND STRO",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117581137343877006",
+    "ticker": "",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-11-05",
     "sentiment": "watch",
     "excerpt": "The Stock Market crashed today because the Dumocrats had a big Tuesday — So sad to see, you only have yourselves to blame! President DONALD J. TRUMP",
@@ -398,6 +445,278 @@
     "topics": [
       "美联储/利率"
     ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-09",
+    "sentiment": "watch",
+    "excerpt": "Anthropic Fable 5.2 and Mythos 5.2 is out! \n\nDoesn't quite look like AI progress is slowing down anytime soon https://t.co/fMEIN2FdTH",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119874063132995880",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-09",
+    "sentiment": "watch",
+    "excerpt": "I did not expect everything in the AI trade from $LITE to $NBIS to rally today\n\nOff the “honeypot catalyst”? https://t.co/wGnMXBj9bH",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119807048204595582",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-09",
+    "sentiment": "watch",
+    "excerpt": "I did not expect everything in the AI trade from $LITE to $NBIS to rally today\n\nOff the “honeypot catalyst”? https://t.co/wGnMXBj9bH",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119807048204595582",
+    "ticker": "NBIS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-08",
+    "sentiment": "watch",
+    "excerpt": "Every AI name in Taiwan from Mediatek to Winbond looks like its limit up. \n\nTAIEX: +4.94%, its 2nd largest daily gain in history.\n\nI guess the market is impressed by $NVDA’s Jensen Huang vitality at his age? https://t.co/brvV79PfKl",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119689635869954503",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-08",
+    "sentiment": "watch",
+    "excerpt": "I fully support $NVDA and Jensen Huang through this time.\n\nEven the most legendary figure in the AI industry is human.\n\nTrump, Clinton, Bezos, Gates, and many others have faced scrutiny over their personal lives.\n\nIt takes courage to own up",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119633154629881997",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-08",
+    "sentiment": "watch",
+    "excerpt": "Various commentary from Qualcomm, Arm, to Meta executives this week during the AI selloff: \n\n$LITE CEO: \"You had a comment from the CEO of $IREN and I'd second that. There's a massive disconnect in what we're seeing in our demand books. \n\nA",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119458038260318634",
+    "ticker": "AMD",
+    "topics": [
+      "美联储/利率",
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-08",
+    "sentiment": "watch",
+    "excerpt": "Various commentary from Qualcomm, Arm, to Meta executives this week during the AI selloff: \n\n$LITE CEO: \"You had a comment from the CEO of $IREN and I'd second that. There's a massive disconnect in what we're seeing in our demand books. \n\nA",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119458038260318634",
+    "ticker": "APLD",
+    "topics": [
+      "美联储/利率",
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-08",
+    "sentiment": "watch",
+    "excerpt": "Various commentary from Qualcomm, Arm, to Meta executives this week during the AI selloff: \n\n$LITE CEO: \"You had a comment from the CEO of $IREN and I'd second that. There's a massive disconnect in what we're seeing in our demand books. \n\nA",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119458038260318634",
+    "ticker": "ARM",
+    "topics": [
+      "美联储/利率",
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-08",
+    "sentiment": "watch",
+    "excerpt": "Various commentary from Qualcomm, Arm, to Meta executives this week during the AI selloff: \n\n$LITE CEO: \"You had a comment from the CEO of $IREN and I'd second that. There's a massive disconnect in what we're seeing in our demand books. \n\nA",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119458038260318634",
+    "ticker": "IREN",
+    "topics": [
+      "美联储/利率",
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-08",
+    "sentiment": "watch",
+    "excerpt": "It think it's stupid that \"AI Bubble\" gets used over and over. In infra names you have: \n\n- 1-3x fwd P/E memory companies from Samsung to $ESMT. With HBM players now having hyperscaler multi-year price floor LTAs. \n\n- Optical companies like",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119363124147191823",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-08",
+    "sentiment": "watch",
+    "excerpt": "It think it's stupid that \"AI Bubble\" gets used over and over. In infra names you have: \n\n- 1-3x fwd P/E memory companies from Samsung to $ESMT. With HBM players now having hyperscaler multi-year price floor LTAs. \n\n- Optical companies like",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119363124147191823",
+    "ticker": "ESMT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-08",
+    "sentiment": "watch",
+    "excerpt": "It think it's stupid that \"AI Bubble\" gets used over and over. In infra names you have: \n\n- 1-3x fwd P/E memory companies from Samsung to $ESMT. With HBM players now having hyperscaler multi-year price floor LTAs. \n\n- Optical companies like",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119363124147191823",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-08",
+    "sentiment": "watch",
+    "excerpt": "It think it's stupid that \"AI Bubble\" gets used over and over. In infra names you have: \n\n- 1-3x fwd P/E memory companies from Samsung to $ESMT. With HBM players now having hyperscaler multi-year price floor LTAs. \n\n- Optical companies like",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119363124147191823",
+    "ticker": "POET",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-07",
+    "sentiment": "watch",
+    "excerpt": "The two things I'm excited about are Gen G vs. T1...\n\nand new NASA's $10 Billion contract to begin settling on the moon. NASA selected:\n\n- $SPCX (SpaceX)\n- Blue Origin\n- $FLY (Firefly)\n- $LUNR (Lunar)\n- $LMT (Lockheed Martin Space)\n- $NOC (",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119287752730738722",
+    "ticker": "FLY",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-07",
+    "sentiment": "watch",
+    "excerpt": "The two things I'm excited about are Gen G vs. T1...\n\nand new NASA's $10 Billion contract to begin settling on the moon. NASA selected:\n\n- $SPCX (SpaceX)\n- Blue Origin\n- $FLY (Firefly)\n- $LUNR (Lunar)\n- $LMT (Lockheed Martin Space)\n- $NOC (",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119287752730738722",
+    "ticker": "LMT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-07",
+    "sentiment": "watch",
+    "excerpt": "The two things I'm excited about are Gen G vs. T1...\n\nand new NASA's $10 Billion contract to begin settling on the moon. NASA selected:\n\n- $SPCX (SpaceX)\n- Blue Origin\n- $FLY (Firefly)\n- $LUNR (Lunar)\n- $LMT (Lockheed Martin Space)\n- $NOC (",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119287752730738722",
+    "ticker": "LUNR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-07",
+    "sentiment": "watch",
+    "excerpt": "The two things I'm excited about are Gen G vs. T1...\n\nand new NASA's $10 Billion contract to begin settling on the moon. NASA selected:\n\n- $SPCX (SpaceX)\n- Blue Origin\n- $FLY (Firefly)\n- $LUNR (Lunar)\n- $LMT (Lockheed Martin Space)\n- $NOC (",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119287752730738722",
+    "ticker": "NOC",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-07",
+    "sentiment": "watch",
+    "excerpt": "A $TSM Spokesperson has reportedly denied exploring 3D DRAM per Tom's Hardware. \n\nAfter a report yesterday from The Information stated TSMC's production plans were from $NVDA's request. \n\nThe implications would have put TSMC in competition ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119097842363211968",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-07",
+    "sentiment": "watch",
+    "excerpt": "A $TSM Spokesperson has reportedly denied exploring 3D DRAM per Tom's Hardware. \n\nAfter a report yesterday from The Information stated TSMC's production plans were from $NVDA's request. \n\nThe implications would have put TSMC in competition ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119097842363211968",
+    "ticker": "MU",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-07",
+    "sentiment": "watch",
+    "excerpt": "A $TSM Spokesperson has reportedly denied exploring 3D DRAM per Tom's Hardware. \n\nAfter a report yesterday from The Information stated TSMC's production plans were from $NVDA's request. \n\nThe implications would have put TSMC in competition ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119097842363211968",
+    "ticker": "TSM",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-07",
+    "sentiment": "watch",
+    "excerpt": "I'm going to give a contrarian take on Neoclouds like $NBIS and say the theme looks compelling after the valuation crash. \n\nSince there's a reason why Elon's $SPCX is heavily focused on this market full of \"guppies\" that would die: \n\nHe see",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119077473107472729",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-07",
+    "sentiment": "watch",
+    "excerpt": "I'm going to give a contrarian take on Neoclouds like $NBIS and say the theme looks compelling after the valuation crash. \n\nSince there's a reason why Elon's $SPCX is heavily focused on this market full of \"guppies\" that would die: \n\nHe see",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119077473107472729",
+    "ticker": "AMZN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-07",
+    "sentiment": "watch",
+    "excerpt": "I'm going to give a contrarian take on Neoclouds like $NBIS and say the theme looks compelling after the valuation crash. \n\nSince there's a reason why Elon's $SPCX is heavily focused on this market full of \"guppies\" that would die: \n\nHe see",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119077473107472729",
+    "ticker": "CRWV",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-07",
+    "sentiment": "watch",
+    "excerpt": "I'm going to give a contrarian take on Neoclouds like $NBIS and say the theme looks compelling after the valuation crash. \n\nSince there's a reason why Elon's $SPCX is heavily focused on this market full of \"guppies\" that would die: \n\nHe see",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119077473107472729",
+    "ticker": "GOOGL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-07",
+    "sentiment": "watch",
+    "excerpt": "Some industry commentary regarding a few claims recently on memory + Softbank Turbine defaulting.\n\n- On claims that LTAs are \"meaningless while prices fall\": \n\n$MU: \"strategic customer agreements cannot be unilaterally canceled.  Customers ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119023086502805730",
+    "ticker": "GE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-07",
+    "sentiment": "watch",
+    "excerpt": "Some industry commentary regarding a few claims recently on memory + Softbank Turbine defaulting.\n\n- On claims that LTAs are \"meaningless while prices fall\": \n\n$MU: \"strategic customer agreements cannot be unilaterally canceled.  Customers ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2119023086502805730",
+    "ticker": "MU",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -592,282 +911,6 @@
     "postUrl": "https://x.com/aleabitoreddit/status/2118389649941160083",
     "ticker": "",
     "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-05",
-    "sentiment": "watch",
-    "excerpt": "Citadel in October: Tech companies created an AI bubble reminiscent of the dot-com crash.\n\nCitadel in November: “The setup has improved” \n\nEarnings continue to beat while AI infrastructure valuations compressed sharply. https://t.co/qlC9s03",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118272043288547413",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "I think this is the time for AI companies to appoint representatives on X.\n\nTo directly combat misleading AI narratives affecting ecosystem valuations and their financing ability.\n\nThe financial incentives to amplify overblown fears are eno",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118247436733055110",
-    "ticker": "",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "$COHR earnings transcript TLDR:\n\nQ: On $LITE + $MRVL merger.\n\nA. Customers will prefer an independent optical supplier without competitive conflicts (opportunity for other merchant laser suppliers)\n\nQ: Loop Capital asked about 2028 laser in",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118200689453314341",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "$COHR earnings transcript TLDR:\n\nQ: On $LITE + $MRVL merger.\n\nA. Customers will prefer an independent optical supplier without competitive conflicts (opportunity for other merchant laser suppliers)\n\nQ: Loop Capital asked about 2028 laser in",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118200689453314341",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "$COHR earnings transcript TLDR:\n\nQ: On $LITE + $MRVL merger.\n\nA. Customers will prefer an independent optical supplier without competitive conflicts (opportunity for other merchant laser suppliers)\n\nQ: Loop Capital asked about 2028 laser in",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118200689453314341",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "New SEC filing discloses $INTC CEO buying $9.71M worth of Intel shares at $64.7 under his family trust. \n\nPretty large vote of confidence after the 49.9% drop this month.\n\nReminds me of the time the former $TSM chairman bought $7.8M of $MU ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118049698733064433",
-    "ticker": "INTC",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "New SEC filing discloses $INTC CEO buying $9.71M worth of Intel shares at $64.7 under his family trust. \n\nPretty large vote of confidence after the 49.9% drop this month.\n\nReminds me of the time the former $TSM chairman bought $7.8M of $MU ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118049698733064433",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "New SEC filing discloses $INTC CEO buying $9.71M worth of Intel shares at $64.7 under his family trust. \n\nPretty large vote of confidence after the 49.9% drop this month.\n\nReminds me of the time the former $TSM chairman bought $7.8M of $MU ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118049698733064433",
-    "ticker": "TSM",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "Cyberoffense/defense is probably going to eat up a TON of compute and end up a continuous compute-intensive arms race. \n\nEven $AMZN CEO thinks cybersecurity would take up 20% of tokens consumed for the next year. \n\nIt's literally a problem ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118044688829845703",
-    "ticker": "AAOI",
-    "topics": [
-      "通胀"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "Cyberoffense/defense is probably going to eat up a TON of compute and end up a continuous compute-intensive arms race. \n\nEven $AMZN CEO thinks cybersecurity would take up 20% of tokens consumed for the next year. \n\nIt's literally a problem ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118044688829845703",
-    "ticker": "AMZN",
-    "topics": [
-      "通胀"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "Cyberoffense/defense is probably going to eat up a TON of compute and end up a continuous compute-intensive arms race. \n\nEven $AMZN CEO thinks cybersecurity would take up 20% of tokens consumed for the next year. \n\nIt's literally a problem ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118044688829845703",
-    "ticker": "CRWD",
-    "topics": [
-      "通胀"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "Cyberoffense/defense is probably going to eat up a TON of compute and end up a continuous compute-intensive arms race. \n\nEven $AMZN CEO thinks cybersecurity would take up 20% of tokens consumed for the next year. \n\nIt's literally a problem ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118044688829845703",
-    "ticker": "NBIS",
-    "topics": [
-      "通胀"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "For companies like $SIVE / $AAOI, the demand imbalance for lasers are so severe\n\nThat even a 20-30% overall demand reduction from a hypothetical DC slowdown would likely not eliminate the shortage. \n\nWe're seeing this before the next archit",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118035778253283768",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "For companies like $SIVE / $AAOI, the demand imbalance for lasers are so severe\n\nThat even a 20-30% overall demand reduction from a hypothetical DC slowdown would likely not eliminate the shortage. \n\nWe're seeing this before the next archit",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118035778253283768",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "For companies like $SIVE / $AAOI, the demand imbalance for lasers are so severe\n\nThat even a 20-30% overall demand reduction from a hypothetical DC slowdown would likely not eliminate the shortage. \n\nWe're seeing this before the next archit",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118035778253283768",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "For companies like $SIVE / $AAOI, the demand imbalance for lasers are so severe\n\nThat even a 20-30% overall demand reduction from a hypothetical DC slowdown would likely not eliminate the shortage. \n\nWe're seeing this before the next archit",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118035778253283768",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "Little rant, but to show you how rampant deleveraging has become:\n\n- $CIFR is worth 44% LESS than when they announced their initial $GOOGL / $AMZN colo deals. \n\n- $AAOI is now ~ the same price BEFORE they secured major hyperscaler orders, r",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118015527440515458",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "Little rant, but to show you how rampant deleveraging has become:\n\n- $CIFR is worth 44% LESS than when they announced their initial $GOOGL / $AMZN colo deals. \n\n- $AAOI is now ~ the same price BEFORE they secured major hyperscaler orders, r",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118015527440515458",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "Little rant, but to show you how rampant deleveraging has become:\n\n- $CIFR is worth 44% LESS than when they announced their initial $GOOGL / $AMZN colo deals. \n\n- $AAOI is now ~ the same price BEFORE they secured major hyperscaler orders, r",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118015527440515458",
-    "ticker": "CIFR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "Little rant, but to show you how rampant deleveraging has become:\n\n- $CIFR is worth 44% LESS than when they announced their initial $GOOGL / $AMZN colo deals. \n\n- $AAOI is now ~ the same price BEFORE they secured major hyperscaler orders, r",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118015527440515458",
-    "ticker": "CRWD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "We’re seeing the great rotation into safe, quality assets.\n\n$DUOL +34.86%\n$MU -4.41% https://t.co/1aNnHcDBUR",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118004727053218010",
-    "ticker": "DUOL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-04",
-    "sentiment": "watch",
-    "excerpt": "We’re seeing the great rotation into safe, quality assets.\n\n$DUOL +34.86%\n$MU -4.41% https://t.co/1aNnHcDBUR",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118004727053218010",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-03",
-    "sentiment": "watch",
-    "excerpt": "ちいかわって日本で人気すぎて、お店に入ることすらできないんだけど\n\nちいかわの株のコールオプションって、どこかで買えないの？w https://t.co/oOx03YAtC0",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117884722076643829",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-03",
-    "sentiment": "watch",
-    "excerpt": "The rhetoric on X and from Elon leans overwhelmingly apocalyptic on Democrats winning.\n\nIt's a mini bubble here, but I think people forget AI is bipartisan national security priority, and that $NVDA's historic rally + AI buildout accelerati",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117835682702110999",
-    "ticker": "NVDA",
-    "topics": [
-      "加密"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-03",
-    "sentiment": "watch",
-    "excerpt": "The rhetoric on X and from Elon leans overwhelmingly apocalyptic on Democrats winning.\n\nIt's a mini bubble here, but I think people forget AI is bipartisan national security priority, and that $NVDA's historic rally + AI buildout accelerati",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117835682702110999",
-    "ticker": "CRWV",
-    "topics": [
-      "加密"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-03",
-    "sentiment": "watch",
-    "excerpt": "The rhetoric on X and from Elon leans overwhelmingly apocalyptic on Democrats winning.\n\nIt's a mini bubble here, but I think people forget AI is bipartisan national security priority, and that $NVDA's historic rally + AI buildout accelerati",
-    "postUrl": "https://x.com/aleabitoreddit/status/2117835682702110999",
-    "ticker": "TSM",
-    "topics": [
-      "加密"
-    ]
   },
   {
     "personId": "jensen",

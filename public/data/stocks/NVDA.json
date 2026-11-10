@@ -3,28 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 186.64,
-  "change5dPct": -8.8,
-  "changeYtdPct": -11.8,
-  "marketCap": "$4.50T",
-  "pe": 22.7,
+  "price": 178.67,
+  "change5dPct": -11.6,
+  "changeYtdPct": -18.6,
+  "marketCap": "$4.31T",
+  "pe": 23.3,
   "revenue": "—",
   "revenueYoYPct": 83,
   "prices": [
-    {
-      "t": "2026-05-07",
-      "o": 208.34,
-      "h": 214.2,
-      "l": 206.5,
-      "c": 211.5
-    },
-    {
-      "t": "2026-05-08",
-      "o": 213.03,
-      "h": 217.8,
-      "l": 212.89,
-      "c": 215.2
-    },
     {
       "t": "2026-05-11",
       "o": 214.04,
@@ -906,127 +892,139 @@
       "h": 194.9,
       "l": 185.22,
       "c": 186.64
+    },
+    {
+      "t": "2026-11-09",
+      "o": 173.07,
+      "h": 179.92,
+      "l": 170.24,
+      "c": 178.67
     }
   ],
   "thesis": {
     "bull": [
-      "超大规模云厂商资本开支未见放缓，谷歌宣布在怀俄明州投入170亿美元新建数据中心并承诺覆盖其全部用电，显示AI算力基础设施建设仍在加速，英伟达作为核心算力供应商直接受益",
-      "国会议员佩洛西在2025年底至2026年初多次申报新建NVDA多头仓位（2026-01-16、2025-12-30），公开披露记录显示部分知情投资者在近期回调中选择加仓而非离场",
-      "多条社交讨论认为AI已成为跨党派的国家安全优先议题，政策支持具有延续性，不会因中期选举结果出现而被大幅削弱，叠加光学元件等上游环节被形容为「需求缺口严重到即便数据中心需求下滑20%至30%也难以消化」，侧面印证AI基建链条景气度仍处于偏紧状态"
+      "数据中心GPU需求依旧强劲，多家云厂商资本开支指引未见明显放缓，有分析指出AI相关数据中心项目延迟或暂停的情况并不多见，支撑NVDA核心营收预期",
+      "公司治理层面具备「深厚替补梯队」，有科技投资人指出即便核心管理层出现变动，公司运营体系仍可维持连续性，缓解市场对单一关键人物依赖的担忧",
+      "国会议员此前对NVDA的交易记录显示其在2025年末至2026年初多次新建多头仓位，反映部分政治圈内部人士对公司长期前景仍持积极看法"
     ],
     "bear": [
-      "中期选举结果公布后，AI与半导体板块出现明显抛售，纳斯达克一度重新进入回调区间，高通等芯片股出现自2020年以来最差单日表现，显示市场对AI相关股票估值的敏感度和波动性在上升",
-      "多条社交媒体评论将当前AI建设描述为「迷你泡沫」，并质疑市场是否过度线性外推2027至2029年的长期需求，一旦数据中心投资增速低于预期，相关标的回撤风险不小",
-      "跟踪者动向记录中同样出现减持信号：佩洛西在2025年12月24日及2024年12月31日均有NVDA仓位被标记为exit/trim，说明即便是持续被外界视为看多的个人投资者，实际操作中也存在获利了结或仓位再平衡的行为，并非单向增持"
+      "围绕CEO黄仁勋的个人争议持续发酵，市场担忧若核心领导层发生变动，公司战略连续性和外部沟通将面临不确定性，且报道指出目前「无明显继任者」",
+      "AI产业链出现裂纹迹象，AMD等同业财报被解读为「现实检验」，Marvell、Lumentum等相关供应链公司股价出现大幅回撤，反映市场对AI资本开支可持续性的疑虑上升",
+      "有关TSMC为NVDA需求扩产3D DRAM的报道遭TSMC发言人否认，凸显供应链合作细节存在信息不对称，也放大了外界对NVDA与代工伙伴关系稳定性的猜测"
     ],
     "watch": [
-      "后续国会议员及其他内部人/知情投资者的PTR披露是否延续净买入趋势，可作为观察政策圈对AI硬件板块信心是否持续的一个侧面指标",
-      "光模块与激光器供应链公司（如Lumentum、Coherent、应用光电等）近期因并购传闻和需求紧张出现大幅波动，其业绩与指引变化可用来交叉验证数据中心真实建设节奏是否如预期般紧张",
-      "美联储12月议息会议走向（市场部分声音认为强劲就业和低裁员率支持进一步加息）及其对高估值成长股贴现率的影响，将是检验当前AI股估值韧性的重要宏观变量"
+      "黄仁勋相关个人争议事件的后续进展及其对公司治理、投资者信心的潜在影响",
+      "AI资本开支周期是否出现实质性放缓，需持续跟踪超大规模云厂商下一轮财报指引",
+      "Neocloud、ASIC等潜在替代算力路径（如NBIS等新兴云服务商）的订单与估值变化，以及其对NVDA市场份额叙事的边际影响"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达（NVIDIA Corporation，NVDA）是全球领先的图形处理器与AI加速计算芯片供应商，其数据中心GPU产品线（如Hopper、Blackwell系列）是当前全球AI模型训练与推理基础设施的核心硬件之一。公司客户群体覆盖各大云服务商、AI实验室及企业级数据中心建设方，业务高度绑定全球AI基建资本开支周期。"
+        "body": "NVIDIA是全球领先的GPU与AI加速计算平台提供商，业务覆盖数据中心、游戏、专业可视化及汽车等领域，其中数据中心业务已成为营收与利润的核心驱动力。公司市值体量庞大，在标普500指数中权重约为6%，其股价波动对整体美股市场情绪具有较强的传导效应。"
       },
       {
-        "heading": "近期股价与市场环境",
-        "body": "2026年11月上旬，受美国中期选举结果影响，市场情绪出现明显波动，AI与半导体板块经历了一轮急跌后反弹，纳斯达克一度重新进入回调区间。部分个股如AMD在财报后大涨，而高通等则出现数年来最差单日跌幅，反映出板块内部分化加剧，资金对不同AI链条环节的信心并不一致。台积电等上游代工企业通过限制卖空等方式试图稳定市场情绪，也从侧面说明近期市场波动的剧烈程度。"
+        "heading": "近期事件与舆论焦点",
+        "body": "近期市场关注点集中在两方面：一是围绕公司创始人兼CEO黄仁勋的个人争议事件持续发酵，引发关于管理层继任与公司治理的讨论；二是AI产业链内部出现分化迹象，部分供应链公司（如Marvell、Lumentum）股价大幅回撤，而台湾地区AI概念股（如联发科、华邦电）却出现历史级单日大涨，显示市场对AI主题的看法呈现明显分歧。"
       },
       {
-        "heading": "基本面与增长驱动",
-        "body": "英伟达增长的核心驱动仍是全球超大规模云厂商持续加码的数据中心资本开支，谷歌等公司宣布的大型数据中心建设项目（如170亿美元的怀俄明项目）延续了这一趋势。上游光学与互联组件环节被描述为供需严重失衡，即使出现一定幅度的需求回落也难以消化积压需求，这从侧面支持了对GPU及配套硬件维持高景气度的判断，但也意味着整个AI硬件链条对未来资本开支增速的预期高度敏感。"
+        "heading": "多头逻辑",
+        "body": "支持多头观点的论据包括：数据中心算力需求的结构性增长尚未看到明显拐点，有评论认为AI相关数据中心项目的延迟或暂停现象并不普遍；市场人士指出即便管理层出现变动，公司亦具备「深厚替补梯队」以维持运营连续性；此外，部分政治人物此前的持仓变动显示其对公司长期基本面仍持积极态度，但该类交易信号的解释力有限，不构成对公司价值的独立判断。"
       },
       {
-        "heading": "多空分歧",
-        "body": "多头观点强调AI基建投资具有跨周期、跨党派的政策支持属性，叠加国会议员等知情投资者近期的净买入记录，构成对公司长期前景的信心支撑。空头观点则聚焦于当前板块估值已price in较高的增长预期，中期选举后出现的剧烈抛售显示市场对AI支出可持续性存在疑虑，部分评论甚至将当前状态描述为局部泡沫。两种观点的核心分歧在于：AI数据中心资本开支的高增长能否在2027年及以后继续兑现，还是会在某个阶段出现增速放缓甚至收缩。"
+        "heading": "空头与风险因素",
+        "body": "空头及风险论据主要围绕：一是黄仁勋个人争议可能对公司品牌形象、管理层稳定性及对外沟通产生负面影响，报道称目前「无明确继任人选」；二是AI资本开支可持续性存疑，AMD等同业财报被部分投资者解读为「现实检验」信号，相关供应链股价的剧烈波动反映市场风险偏好正在重新定价；三是与代工伙伴TSMC的产能规划细节出现信息不一致（如3D DRAM扩产传闻遭否认），增加了外部对供应链协同的不确定性判断。"
       },
       {
-        "heading": "政策与宏观因素",
-        "body": "中期选举后白宫经济团队表态强调AI数据中心建设不会因选举结果而放缓，显示行政层面继续将AI基建作为优先政策方向。同时市场对美联储12月是否加息存在分歧，强劲的就业数据和偏低的裁员率被部分观点认为会支持进一步收紧货币政策，这将直接影响包括英伟达在内的高估值成长股的贴现率和估值水平。此外，针对伊朗相关资金渠道的制裁等地缘政治事件，也在为宏观环境增添不确定性。"
+        "heading": "跟踪者与另类数据信号",
+        "body": "公开披露记录显示，相关人士在2024年底至2026年初对NVDA持仓存在新建与减持交替的情况，整体方向偏多头但也包含阶段性获利了结，信号本身较为混杂，不宜单独作为投资依据。社交媒体讨论则呈现出对黄仁勋个人事件的「关注但未恐慌」态度，同时有声音将目光转向Neocloud等新兴算力服务商作为AI主题的替代配置思路，反映市场叙事正在从单一龙头向产业链多点扩散。"
       },
       {
-        "heading": "风险提示",
-        "body": "主要风险包括：AI数据中心资本开支增速不及预期导致的估值重新定价、半导体板块高波动性带来的短期剧烈回撤、宏观流动性收紧（如美联储维持偏鹰立场）对高估值成长股的压制，以及供应链环节（如先进封装、光学组件）出现瓶颈或价格波动对整体AI硬件生态的传导效应。此外需注意，知情投资者的仓位变动（买入与卖出并存）表明即便是长期看多的参与者也会根据市场情况动态调整仓位，不能简单理解为单向信号。"
+        "heading": "估值与展望",
+        "body": "当前市场对NVDA的分歧集中在「AI长周期叙事是否因短期事件和产业链波动而改变」。乐观观点认为这只是阶段性情绪扰动，AI资本开支大周期并未结束，游戏规则在变化而非终结；谨慎观点则提示，在股价已充分反映高增长预期的情况下，任何需求端或治理端的负面意外都可能放大估值修正的幅度。投资者需持续关注超大规模云厂商资本开支指引、同业财报信号以及公司治理事件的后续进展。"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "同为AI加速芯片主要供应商，近期财报显示营收创纪录并上调增长展望，股价在中期选举后反弹中表现强势，可作为观察AI硬件需求边际变化的参照"
-      },
-      {
-        "ticker": "AVGO",
-        "name": "Broadcom Inc",
-        "note": "在定制化AI芯片（ASIC）及网络互联领域与英伟达形成部分竞争与互补关系，近期股价经历较大回撤，其走势可用于对比市场对不同AI硬件路线的估值分歧"
+        "note": "数据中心GPU与加速计算领域主要竞争对手，其近期财报被部分市场人士视为AI需求的「现实检验」信号"
       },
       {
         "ticker": "TSM",
-        "name": "台湾积体电路制造（台积电）",
-        "note": "英伟达先进制程芯片的核心代工厂，近期因半导体板块剧烈波动而采取限制卖空等措施，其产能与良率状况直接影响英伟达新一代产品的出货节奏"
+        "name": "台湾积体电路制造",
+        "note": "NVDA核心代工伙伴，产能规划细节（如先进封装、3D DRAM传闻）直接影响市场对NVDA供应链稳定性的判断"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "AI数据中心定制芯片及互联方案供应商，近期股价大幅回撤，反映AI供应链内部分化"
+      },
+      {
+        "ticker": "NBIS",
+        "name": "Nebius Group",
+        "note": "新兴Neocloud算力服务商，被部分投资者视为AI主题的潜在替代配置标的"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-07T00:43:49.503421Z"
+    "generatedAt": "2026-11-10T03:18:38.815924Z"
   },
   "news": [
     {
-      "id": "NVDA-143592305",
-      "title": "Warren Buffett Says This 1 Investing Move Is Key After a Midterm Election. History Says He's Right.",
+      "id": "NVDA-143662570",
+      "title": "Is Wall Street Turning on AI?",
       "source": "Yahoo",
-      "publishedAt": "2026-11-06",
-      "url": "https://finnhub.io/api/news?id=628967b12c7a88ccc28463ca959eeeb225249976c94918bdeded518f54f4eb21",
+      "publishedAt": "2026-11-10",
+      "url": "https://finnhub.io/api/news?id=823ba12888a38b1e7a551dbfc81ac687d11ea4e328049a7144f5e5bb3b1d80d2",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143592306",
-      "title": "If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Stock Through a Democratic Congress, It Would Be This One",
+      "id": "NVDA-143662564",
+      "title": "We Are Witnessing the Stock Market Do Something for Only the 2nd Time in 136 Years, and History Is Clear What Comes Next for Stocks",
       "source": "Yahoo",
-      "publishedAt": "2026-11-06",
-      "url": "https://finnhub.io/api/news?id=f214d691a74eee8c779fbbb1c9654b9347d32eed3575ac0a73529ce404f35cd3",
+      "publishedAt": "2026-11-10",
+      "url": "https://finnhub.io/api/news?id=e17942e210b3e0a0539323136a367844b4c8ae35bb03a7c02fc30b5abca383a1",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143592307",
-      "title": "Cathie Wood buys $47 million of popular semiconductor stock",
+      "id": "NVDA-143662565",
+      "title": "Why Lincoln Educational Stock Surged Today",
       "source": "Yahoo",
-      "publishedAt": "2026-11-06",
-      "url": "https://finnhub.io/api/news?id=58618ad7e96f2173d57cca3e4b59fe0d803dd1aac398d0fc828b94030f1d5f67",
+      "publishedAt": "2026-11-10",
+      "url": "https://finnhub.io/api/news?id=df1ffa3770f96a6f013360dec55b81ee2b83b178defc1eb43db2dc3c57187afe",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143592317",
-      "title": "Stock Market Today, Nov. 6: AMD Surges 11% on Record Quarterly Revenue and Stronger Growth Outlook",
+      "id": "NVDA-143662566",
+      "title": "The AI Trade Looks Like It's Falling Apart. AMD's Earnings Delivered a Reality Check.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-06",
-      "url": "https://finnhub.io/api/news?id=5d83104a2bbd6fd95b963c64deec164ca27d56556f072585189da206fa940f8a",
+      "publishedAt": "2026-11-10",
+      "url": "https://finnhub.io/api/news?id=07fdb88990dd582c711543dad5ad060ce669a3c3240c5d7e783d370648ac943a",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143592304",
-      "title": "Chip rally may be time for investors to 'harvest cash and wait'",
+      "id": "NVDA-143662559",
+      "title": "What Does Nvidia (NVDA) Need To Prove As AI Rivalry And CEO Scrutiny Build?",
       "source": "Yahoo",
-      "publishedAt": "2026-11-06",
-      "url": "https://finnhub.io/api/news?id=a90492018e3890cb3ee9b3949f0eda9011ff7ced766bfa46c068f52affc41384",
+      "publishedAt": "2026-11-10",
+      "url": "https://finnhub.io/api/news?id=f55af9c53b5fac3d7a8783f85feec5091ffabcbe8fe51e63fb640dbfa6422074",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143591875",
-      "title": "Charlie Bilello Says “Some Sanity Has Returned to the Market.” What That Means for Your Portfolio",
+      "id": "NVDA-143662571",
+      "title": "Over 50? 3 Things You Should Be Doing to Prepare for Retirement Already",
       "source": "Yahoo",
-      "publishedAt": "2026-11-06",
-      "url": "https://finnhub.io/api/news?id=22ce207f35836c478ce166c6855d82bd51bd8c64ca92b0b6ef6c5f793ef9d2dd",
+      "publishedAt": "2026-11-10",
+      "url": "https://finnhub.io/api/news?id=29691cd1778229bf455495a620a7c52a6918c4454c128134abff5bc167ef63e1",
       "tags": [
         "NVDA"
       ]
