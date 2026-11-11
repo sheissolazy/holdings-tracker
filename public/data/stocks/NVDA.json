@@ -3,11 +3,11 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 178.67,
-  "change5dPct": -11.6,
-  "changeYtdPct": -18.6,
-  "marketCap": "$4.31T",
-  "pe": 23.3,
+  "price": 168.89,
+  "change5dPct": -16.4,
+  "changeYtdPct": -23.0,
+  "marketCap": "$4.07T",
+  "pe": 22.3,
   "revenue": "—",
   "revenueYoYPct": 83,
   "prices": [
@@ -903,128 +903,123 @@
   ],
   "thesis": {
     "bull": [
-      "数据中心GPU需求依旧强劲，多家云厂商资本开支指引未见明显放缓，有分析指出AI相关数据中心项目延迟或暂停的情况并不多见，支撑NVDA核心营收预期",
-      "公司治理层面具备「深厚替补梯队」，有科技投资人指出即便核心管理层出现变动，公司运营体系仍可维持连续性，缓解市场对单一关键人物依赖的担忧",
-      "国会议员此前对NVDA的交易记录显示其在2025年末至2026年初多次新建多头仓位，反映部分政治圈内部人士对公司长期前景仍持积极看法"
+      "算力需求仍处于早期扩张阶段，多家云厂商合计资本开支指引达到约1.3万亿美元规模（预计2027年），数据中心GPU采购是其中核心环节，为NVDA收入提供中期支撑",
+      "近期部分AI硬件股（AMD、Coherent等）在中期选举后的抛售中反弹明显，且有报道称对冲基金此前以罕见速度减持科技股后芯片股出现单周7%的反弹，显示部分资金认为当前估值已消化悲观预期，存在逢低布局空间",
+      "亚洲供应链（如台湾相关AI概念股台积电生态圈）在近期交易中出现台湾加权指数单日逾4.9%的历史级别涨幅，显示市场对NVDA所处产业链的长期需求信心并未完全崩塌"
     ],
     "bear": [
-      "围绕CEO黄仁勋的个人争议持续发酵，市场担忧若核心领导层发生变动，公司战略连续性和外部沟通将面临不确定性，且报道指出目前「无明显继任者」",
-      "AI产业链出现裂纹迹象，AMD等同业财报被解读为「现实检验」，Marvell、Lumentum等相关供应链公司股价出现大幅回撤，反映市场对AI资本开支可持续性的疑虑上升",
-      "有关TSMC为NVDA需求扩产3D DRAM的报道遭TSMC发言人否认，凸显供应链合作细节存在信息不对称，也放大了外界对NVDA与代工伙伴关系稳定性的猜测"
+      "股价从高点出现约25%的大幅回撤，市值蒸发接近2万亿美元，直接触发因素是此前对FY2028「供应受限式70%增长」预期的证伪或下修，显示市场对其超高增长假设的容忍度在下降",
+      "公司创始人兼CEO黄仁勋个人层面爆出与「Alice Huang」相关的关系丑闻，并被部分媒体与所谓「间谍」情节关联报道，媒体podcast提及FBI对NVDA展开调查，叠加「公司是否能承受失去黄仁勋」的讨论，治理与关键人风险成为新的不确定因素",
+      "宏观层面CPI数据偏热、美联储官员表态为更大幅度加息打开空间，10年期美债收益率走高，整体压制高估值成长股估值中枢，叠加Dell等同业因德州数据中心扩建受限（传言中的「暂停令」或「禁令」）传闻，反映AI基建扩张节奏可能遇到现实阻力"
     ],
     "watch": [
-      "黄仁勋相关个人争议事件的后续进展及其对公司治理、投资者信心的潜在影响",
-      "AI资本开支周期是否出现实质性放缓，需持续跟踪超大规模云厂商下一轮财报指引",
-      "Neocloud、ASIC等潜在替代算力路径（如NBIS等新兴云服务商）的订单与估值变化，以及其对NVDA市场份额叙事的边际影响"
+      "黄仁勋个人丑闻事件的后续调查进展及公司治理层面的应对（是否涉及管理层变动、合规审查结果），这将决定情绪冲击是短期还是会演变为结构性问题",
+      "TSMC是否真的应NVDA要求探索3D DRAM等先进封装/存储工艺的供应链传闻，官方已否认但报道仍存分歧，需关注后续双方表态及产能规划细节是否落地",
+      "Anthropic等AI相关公司历史性IPO及CoreWeave等「新云」股的表现，将检验市场对AI算力需求链条整体景气度的真实定价，是判断NVDA所处赛道情绪拐点的重要参照"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA是全球领先的GPU与AI加速计算平台提供商，业务覆盖数据中心、游戏、专业可视化及汽车等领域，其中数据中心业务已成为营收与利润的核心驱动力。公司市值体量庞大，在标普500指数中权重约为6%，其股价波动对整体美股市场情绪具有较强的传导效应。"
+        "body": "NVIDIA是全球数据中心GPU与AI加速计算芯片的主导供应商，产品覆盖训练与推理芯片、网络互联及软件生态（如CUDA），客户主要为大型云计算厂商及「新云」算力提供商。公司过去几年的增长高度依赖生成式AI带来的资本开支浪潮，股价与市场对AI算力需求前景的预期高度绑定，因此也更容易受单一负面事件或预期下修影响而出现大幅波动"
       },
       {
-        "heading": "近期事件与舆论焦点",
-        "body": "近期市场关注点集中在两方面：一是围绕公司创始人兼CEO黄仁勋的个人争议事件持续发酵，引发关于管理层继任与公司治理的讨论；二是AI产业链内部出现分化迹象，部分供应链公司（如Marvell、Lumentum）股价大幅回撤，而台湾地区AI概念股（如联发科、华邦电）却出现历史级单日大涨，显示市场对AI主题的看法呈现明显分歧。"
+        "heading": "近期动态",
+        "body": "近期市场出现对NVDA的剧烈抛售，股价一度下跌约25%，市值蒸发接近2万亿美元，直接背景是此前市场消化「FY2028供应受限式70%增长」预期落空或被重新定价。与此同时，有媒体报道NVDA创始人兼CEO黄仁勋个人生活卷入与「Alice Huang」相关的关系丑闻，并被部分报道与所谓「间谍」情节关联，另有podcast提及FBI对公司展开调查，这类治理与关键人风险叠加业绩预期波动，放大了市场的不确定情绪"
       },
       {
-        "heading": "多头逻辑",
-        "body": "支持多头观点的论据包括：数据中心算力需求的结构性增长尚未看到明显拐点，有评论认为AI相关数据中心项目的延迟或暂停现象并不普遍；市场人士指出即便管理层出现变动，公司亦具备「深厚替补梯队」以维持运营连续性；此外，部分政治人物此前的持仓变动显示其对公司长期基本面仍持积极态度，但该类交易信号的解释力有限，不构成对公司价值的独立判断。"
+        "heading": "多头逻辑梳理",
+        "body": "支持NVDA的核心逻辑在于AI算力基础设施建设的中长期趋势尚未结束：多家行业报告指出各大云厂商2027年合计资本开支可能达到约1.3万亿美元级别，数据中心及相关电力、网络设备的投资仍在加速。亚洲供应链（如台湾AI概念股单日出现历史级别涨幅）以及对冲基金在大幅减持后部分芯片股迅速反弹，均显示部分市场参与者认为近期的下跌更多是情绪与预期修正，而非产业趋势逆转"
       },
       {
-        "heading": "空头与风险因素",
-        "body": "空头及风险论据主要围绕：一是黄仁勋个人争议可能对公司品牌形象、管理层稳定性及对外沟通产生负面影响，报道称目前「无明确继任人选」；二是AI资本开支可持续性存疑，AMD等同业财报被部分投资者解读为「现实检验」信号，相关供应链股价的剧烈波动反映市场风险偏好正在重新定价；三是与代工伙伴TSMC的产能规划细节出现信息不一致（如3D DRAM扩产传闻遭否认），增加了外部对供应链协同的不确定性判断。"
+        "heading": "空头逻辑梳理",
+        "body": "空头观点主要集中在三方面：一是此前市场对NVDA「供应受限式超高增长」的假设可能过于乐观，一旦增速或供给节奏不及预期，估值回撤幅度会非常剧烈；二是CEO黄仁勋个人丑闻及被提及的FBI调查带来治理层面的不确定性，市场开始讨论公司是否能够承受失去关键创始人的风险；三是宏观环境转差，CPI数据偏热、美联储官员释放更大幅度加息的信号，叠加Dell等同业在德州数据中心扩张上传出受限消息，显示AI基建扩张的现实阻力可能比此前预期更大"
       },
       {
-        "heading": "跟踪者与另类数据信号",
-        "body": "公开披露记录显示，相关人士在2024年底至2026年初对NVDA持仓存在新建与减持交替的情况，整体方向偏多头但也包含阶段性获利了结，信号本身较为混杂，不宜单独作为投资依据。社交媒体讨论则呈现出对黄仁勋个人事件的「关注但未恐慌」态度，同时有声音将目光转向Neocloud等新兴算力服务商作为AI主题的替代配置思路，反映市场叙事正在从单一龙头向产业链多点扩散。"
+        "heading": "资金与舆论动向",
+        "body": "国会议员佩洛西在2026年初披露的PTR交易记录显示其对NVDA持仓存在新建仓与部分减持交叉出现的操作（2025年12月末及2026年1月中旬均有新建仓记录，同时12月24日前后出现减持记录），反映即便是信息相对敏感的交易者对该股的方向也并非单边判断。社交媒体上的讨论则普遍聚焦黄仁勋个人事件对公司基本面与情绪面的叠加冲击，同时也有声音呼吁理性看待创始人的个人问题，不应完全等同于公司基本面恶化"
       },
       {
-        "heading": "估值与展望",
-        "body": "当前市场对NVDA的分歧集中在「AI长周期叙事是否因短期事件和产业链波动而改变」。乐观观点认为这只是阶段性情绪扰动，AI资本开支大周期并未结束，游戏规则在变化而非终结；谨慎观点则提示，在股价已充分反映高增长预期的情况下，任何需求端或治理端的负面意外都可能放大估值修正的幅度。投资者需持续关注超大规模云厂商资本开支指引、同业财报信号以及公司治理事件的后续进展。"
+        "heading": "风险与观察点",
+        "body": "短期内需要重点关注：一是黄仁勋个人事件的调查进展及公司治理应对是否会扩大化；二是台积电与NVDA之间关于先进存储/封装产能传闻的真实性及后续官方表态；三是宏观流动性环境（美联储加息路径、美债收益率）对高估值成长股估值中枢的持续压制；四是同业Dell等公司在数据中心扩张上遇到的监管或场地限制是否具有行业普遍性。总体而言，当前NVDA面临的是「产业趋势仍在、但估值与情绪双重承压」的局面，多空分歧明显，不构成任何买卖建议"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "数据中心GPU与加速计算领域主要竞争对手，其近期财报被部分市场人士视为AI需求的「现实检验」信号"
-      },
-      {
-        "ticker": "TSM",
-        "name": "台湾积体电路制造",
-        "note": "NVDA核心代工伙伴，产能规划细节（如先进封装、3D DRAM传闻）直接影响市场对NVDA供应链稳定性的判断"
+        "note": "数据中心GPU/CPU领域的主要竞争者，近期被提及是中期选举后抛售中反弹最明显的AI硬件股之一，可作为观察AI硬件板块情绪修复的参照"
       },
       {
         "ticker": "MRVL",
         "name": "Marvell Technology",
-        "note": "AI数据中心定制芯片及互联方案供应商，近期股价大幅回撤，反映AI供应链内部分化"
+        "note": "定制芯片与网络互联供应商，2026年内股价涨幅居前，市场一度将其称为「下一个万亿美元公司」，可用于对比资本开支链条上游细分环节的估值弹性"
       },
       {
-        "ticker": "NBIS",
-        "name": "Nebius Group",
-        "note": "新兴Neocloud算力服务商，被部分投资者视为AI主题的潜在替代配置标的"
+        "ticker": "TSM",
+        "name": "Taiwan Semiconductor Manufacturing Company",
+        "note": "NVDA核心晶圆代工伙伴，近期涉及「是否应NVDA要求探索3D DRAM」的供应链传闻，官方已否认，但反映两者在先进制程/存储规划上的紧密关联性"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-10T03:18:38.815924Z"
+    "generatedAt": "2026-11-11T01:07:31.483986Z"
   },
   "news": [
     {
-      "id": "NVDA-143662570",
-      "title": "Is Wall Street Turning on AI?",
+      "id": "NVDA-143694121",
+      "title": "Dow Jones Futures: Stock Market Falls On Surging Treasury Yields, Nvidia Sell-Off; CoreWeave Rises Late",
       "source": "Yahoo",
       "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=823ba12888a38b1e7a551dbfc81ac687d11ea4e328049a7144f5e5bb3b1d80d2",
+      "url": "https://finnhub.io/api/news?id=0b137a6186a25e3654e20ff1b1f46d98a17d11a77b51a8e1fa1d59d378949301",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143662564",
-      "title": "We Are Witnessing the Stock Market Do Something for Only the 2nd Time in 136 Years, and History Is Clear What Comes Next for Stocks",
+      "id": "NVDA-143694830",
+      "title": "Why AAON Stock Popped Today",
       "source": "Yahoo",
       "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=e17942e210b3e0a0539323136a367844b4c8ae35bb03a7c02fc30b5abca383a1",
+      "url": "https://finnhub.io/api/news?id=be5c6e56935b256765cc8d382aff238b129fe5573cbe883392f6d5f64ab5f59b",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143662565",
-      "title": "Why Lincoln Educational Stock Surged Today",
+      "id": "NVDA-143694834",
+      "title": "2 Reasons AMD Can Still Outperform by 2030",
       "source": "Yahoo",
       "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=df1ffa3770f96a6f013360dec55b81ee2b83b178defc1eb43db2dc3c57187afe",
+      "url": "https://finnhub.io/api/news?id=59ca93a12e20eccc1252a040169f86e3a94b235f50d293bb2abd0bb87664333f",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143662566",
-      "title": "The AI Trade Looks Like It's Falling Apart. AMD's Earnings Delivered a Reality Check.",
+      "id": "NVDA-143694837",
+      "title": "Dell Sinks 12% in a Week on Texas Data Center Fears: “A Moratorium, a Ban”",
       "source": "Yahoo",
       "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=07fdb88990dd582c711543dad5ad060ce669a3c3240c5d7e783d370648ac943a",
+      "url": "https://finnhub.io/api/news?id=e4516d6d97c84f2acf787d63f00b52149497bacfdef4fd3cd885e9cd47edf894",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143662559",
-      "title": "What Does Nvidia (NVDA) Need To Prove As AI Rivalry And CEO Scrutiny Build?",
+      "id": "NVDA-143694835",
+      "title": "Hyperscalers Are Projected to Spend $1.3 Trillion on Capex in 2027. Here's the 1 Industrial Stock That Gets Paid Before a Single AI Token Is Sold.",
       "source": "Yahoo",
       "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=f55af9c53b5fac3d7a8783f85feec5091ffabcbe8fe51e63fb640dbfa6422074",
+      "url": "https://finnhub.io/api/news?id=cf4757ee07a82194a164a4db24e0cf6530b2794922273320ed7da8ea785e06b1",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143662571",
-      "title": "Over 50? 3 Things You Should Be Doing to Prepare for Retirement Already",
+      "id": "NVDA-143694838",
+      "title": "Why Lincoln Educational Services Stock Soared Again Today",
       "source": "Yahoo",
       "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=29691cd1778229bf455495a620a7c52a6918c4454c128134abff5bc167ef63e1",
+      "url": "https://finnhub.io/api/news?id=46f231d8abd0bcb5d12f5bba47f9348923202082d20b1058d631763efe4e4a9e",
       "tags": [
         "NVDA"
       ]

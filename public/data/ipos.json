@@ -1,5 +1,29 @@
 [
   {
+    "ticker": "WWB",
+    "name": "WINDWARD BIO GROUP AG",
+    "date": "2026-11-13",
+    "priceRange": [
+      16.0,
+      18.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
+    "ticker": "VVVV",
+    "name": "vVARDIS Holding AG",
+    "date": "2026-11-13",
+    "priceRange": [
+      21.0,
+      24.0
+    ],
+    "sector": "—",
+    "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
     "ticker": "RZRA",
     "name": "Rezera Inc.",
     "date": "2026-11-12",

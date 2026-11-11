@@ -447,6 +447,100 @@
     ]
   },
   {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-11-10",
+    "sentiment": "watch",
+    "excerpt": "Turns out that the Starlink software, built for managing the movement of vast amounts of data through space and to the ground, is also very well suited to training super intelligence",
+    "postUrl": "https://x.com/elonmusk/status/2120102767624880364",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-10",
+    "sentiment": "watch",
+    "excerpt": "It’s pretty wild to see $NVDA crash -25% and lose close to $2T in valuation\n\nAfter projecting 70% supply-constrained growth FY2028.\n\nAlso probably one of the worst times for $ANT to IPO at $1.4T ahead of Thursday… \n\nAre there still people o",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120198265346081174",
+    "ticker": "NVDA",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-10",
+    "sentiment": "watch",
+    "excerpt": "It’s pretty wild to see $NVDA crash -25% and lose close to $2T in valuation\n\nAfter projecting 70% supply-constrained growth FY2028.\n\nAlso probably one of the worst times for $ANT to IPO at $1.4T ahead of Thursday… \n\nAre there still people o",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120198265346081174",
+    "ticker": "ANT",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-10",
+    "sentiment": "watch",
+    "excerpt": "New commentary today from SoftBank on Elon Musks post 4 days ago: \n\n“SoftBank is defaulting on their turbine orders”\n\nAnalyst Question: “Any comment on that?” \n\nSoftBank CFO Yoshimitsu Goto: “this is simply not correct at all. There is no s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120106741090370030",
+    "ticker": "GE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-10",
+    "sentiment": "watch",
+    "excerpt": "New commentary today from SoftBank on Elon Musks post 4 days ago: \n\n“SoftBank is defaulting on their turbine orders”\n\nAnalyst Question: “Any comment on that?” \n\nSoftBank CFO Yoshimitsu Goto: “this is simply not correct at all. There is no s",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120106741090370030",
+    "ticker": "SPCX",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-10",
+    "sentiment": "watch",
+    "excerpt": "If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:\n\n70mW: ~$3–4\n100mW: ~$4–6 (Source Photonics channel checks).\n\nWith some premiums apparently going up to $7-$9 range with the recent shortage f",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120074819878449605",
+    "ticker": "MRVL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-10",
+    "sentiment": "watch",
+    "excerpt": "If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:\n\n70mW: ~$3–4\n100mW: ~$4–6 (Source Photonics channel checks).\n\nWith some premiums apparently going up to $7-$9 range with the recent shortage f",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120074819878449605",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-10",
+    "sentiment": "watch",
+    "excerpt": "If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:\n\n70mW: ~$3–4\n100mW: ~$4–6 (Source Photonics channel checks).\n\nWith some premiums apparently going up to $7-$9 range with the recent shortage f",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120074819878449605",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-10",
+    "sentiment": "watch",
+    "excerpt": "If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:\n\n70mW: ~$3–4\n100mW: ~$4–6 (Source Photonics channel checks).\n\nWith some premiums apparently going up to $7-$9 range with the recent shortage f",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120074819878449605",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
     "personId": "serenity",
     "type": "social",
     "asOf": "2026-11-09",
@@ -870,46 +964,6 @@
     "excerpt": "$AAOI earnings:\n\n- $1B-$1.5B LTA disclosed with a hyperscaler customer\n\n- 2nd LTA coming soon, worth 5x+ more (implying $5B-$7.5B), in its final stages. \n\nThis LTA explicitly includes lasers, very material for AOI that they're moving to sup",
     "postUrl": "https://x.com/aleabitoreddit/status/2118569237128286343",
     "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-05",
-    "sentiment": "watch",
-    "excerpt": "$GLXY CEO after pushing back on Texas political uncertainty:\n\n\"I see a massive disconnect between where Galaxy trades and what I believe this company is worth. \n\nThat’s why I’m buying more stock, starting today.\"\n\nGood vote of confidence to",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118446295274901803",
-    "ticker": "GLXY",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-05",
-    "sentiment": "watch",
-    "excerpt": "$GOOGL formally announces a new $17 Billion DC in Wyoming.\n\nGoogle also announced they’re using $BE fuel cells for this project. \n\nGuess this news means it’s all over for the AI buildout. https://t.co/WFzqUOiTcH",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118422637320007721",
-    "ticker": "BE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-05",
-    "sentiment": "watch",
-    "excerpt": "$GOOGL formally announces a new $17 Billion DC in Wyoming.\n\nGoogle also announced they’re using $BE fuel cells for this project. \n\nGuess this news means it’s all over for the AI buildout. https://t.co/WFzqUOiTcH",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118422637320007721",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-05",
-    "sentiment": "watch",
-    "excerpt": "Don’t look at the indexes https://t.co/nmzrhW9u6L",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118389649941160083",
-    "ticker": "",
     "topics": []
   },
   {
