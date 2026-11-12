@@ -3,21 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 185.42,
-  "change5dPct": -5.5,
-  "changeYtdPct": -34.7,
-  "marketCap": "$54.8B",
-  "pe": 104.9,
+  "price": 209.47,
+  "change5dPct": -2.1,
+  "changeYtdPct": -25.4,
+  "marketCap": "$61.9B",
+  "pe": 120.8,
   "revenue": "—",
   "revenueYoYPct": 111,
   "prices": [
-    {
-      "t": "2026-05-11",
-      "o": 269.5,
-      "h": 296.39,
-      "l": 267.98,
-      "c": 283.92
-    },
     {
       "t": "2026-05-12",
       "o": 276.0,
@@ -899,127 +892,134 @@
       "h": 199.83,
       "l": 180.5,
       "c": 193.88
+    },
+    {
+      "t": "2026-11-10",
+      "o": 185.0,
+      "h": 194.68,
+      "l": 181.01,
+      "c": 185.42
     }
   ],
   "thesis": {
     "bull": [
-      "AI数据中心电力需求爆发式增长，Bloom固态氧化物燃料电池可现场快速部署、不依赖电网扩容排队，近期披露的重大AI数据中心电力合同支撑营收加速增长",
-      "2026年7月下旬，佩洛西分别于7月24日与7月28日两次新建BE多头仓位，披露性质均为看涨信号，显示部分政治人物对公司前景持乐观态度",
-      "中期选举恐慌导致股价回调后，RBC等卖方机构给出大幅上调目标价，认为回调后估值提供安全边际，长期受益于算力扩张与分布式能源替代趋势"
+      "数据中心电力需求成为核心驱动：CoreWeave等AI云厂商财报显示算力扩张强劲，市场对电网供电瓶颈的担忧升温，Bloom Energy的固体氧化物燃料电池可绕开电网快速部署，被视为缓解数据中心用电紧张的方案之一，带动股价单日上涨约13%。",
+      "国会议员佩洛西在2026年7月24日及7月28日两次新建BE多头仓位（2026年8月21日披露），显示部分有信息优势的投资者在该时点对公司前景持乐观态度，可作为市场情绪的参考信号。",
+      "公司产品线覆盖工业备用电源、数据中心及公用事业侧场景，若AI基础设施投资周期持续，设备订单与长期服务协议的可见度有望进一步提升，带来收入结构的改善空间。"
     ],
     "bear": [
-      "美联储官员暗示不排除更大幅度加息，长期利率上行将压制高估值、资本密集型清洁能源资产的估值，BE作为高波动概念股首当其冲",
-      "数据中心资本开支与选址存在不确定性，如GE Vernova涉及的SoftBank俄亥俄数据中心项目被重新评估、Dell因得州数据中心政策受限等，显示算力基建扩张节奏可能放缓或遇阻",
-      "市场同时存在AI泡沫论与抛售声音，叠加对冲基金近期大幅减持科技股后芯片股又快速反弹，板块波动剧烈，BE股价对市场情绪及利率预期高度敏感"
+      "股价对AI算力叙事的敏感度极高，公开报道指出今年内股价曾较高点大幅回撤（市场描述为「腰斩」后反弹），说明当前涨幅很大程度上建立在题材情绪而非基本面兑现之上，一旦预期逆转，估值回吐风险较大。",
+      "燃料电池业务长期以来盈利能力与自由现金流转正的进度慢于市场预期，单位发电成本高于传统燃气轮机，补贴政策、天然气价格等外部变量仍可能持续压制毛利率。",
+      "近期科技板块出现重大不确定性（如英伟达CEO黄仁勋可能被罢免的传闻引发大盘科技股剧烈波动），若AI相关资本支出叙事整体降温，电力设备股的做多逻辑可能被同步削弱，BE缺乏独立于AI情绪的估值支撑。"
     ],
     "watch": [
-      "后续13F及国会议员PTR披露，观察是否有更多机构或政治人物跟随建仓或反向减持BE",
-      "美联储未来议息会议及通胀数据走向，加息幅度预期变化将直接影响BE等高估值成长股的折现率与股价波动",
-      "新增大型AI数据中心电力合同的落地节奏、客户集中度及毛利率变化，用以判断营收增长的可持续性"
+      "跟踪CoreWeave及其他主要AI云服务商后续季度的资本支出与电力采购指引，判断数据中心电力短缺叙事是否能持续获得业绩验证，而非一次性情绪驱动。",
+      "关注Bloom Energy后续财报中的订单backlog增长、毛利率变化及现金流改善节奏，验证当前估值隐含的乐观假设能否兑现。",
+      "关注国会议员及机构后续持仓变化、以及电力与公用事业板块整体资金流向，判断本轮上涨是主题性轮动还是具备持续资金支撑的趋势性机会。"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy（NYSE：BE）是美国固态氧化物燃料电池（SOFC）技术公司，产品可在客户现场为数据中心、工业设施提供分布式发电，无需接入或等待电网扩容。近年来公司逐步从传统分布式发电商转向以AI算力需求驱动的数据中心配套电力供应商定位"
+        "body": "Bloom Energy是美国固体氧化物燃料电池（SOFC）制造商，核心产品Energy Server可在现场进行分布式发电，客户覆盖工业企业、数据中心运营商及公用事业公司，商业模式包括设备销售与长期服务协议收入。"
       },
       {
-        "heading": "近期动态与新闻",
-        "body": "近期报道显示Bloom Energy获得重大AI数据中心电力合同，推动营收加速增长；与此同时，股价在中期选举前的避险情绪下一度下跌，随后RBC等机构指出回调后存在显著上行空间，市场对其短期波动与长期叙事存在分歧"
+        "heading": "业务与技术",
+        "body": "公司技术优势在于燃料电池系统可不依赖电网扩容即可快速部署，适合为电力紧张地区的数据中心提供过渡性或补充性电力供应；劣势在于单位发电成本普遍高于传统燃气轮机，长期竞争对手包括天然气发电、储能系统及传统电网扩容方案。"
       },
       {
-        "heading": "多空分歧",
-        "body": "多头认为，在电网扩容滞后、AI算力需求刚性增长的背景下，Bloom的现场发电方案具备稀缺性，新订单落地验证了这一逻辑；空头则担心利率上行周期中高估值成长股估值承压，且数据中心选址与电力基建项目（如GE Vernova涉及的俄亥俄项目被重新评估）存在节奏放缓或政策阻力风险，AI相关资本开支的持续性尚待观察"
+        "heading": "近期催化剂",
+        "body": "2026年11月CoreWeave公布财报，显示AI算力需求依然强劲，市场对数据中心电力短缺的担忧迅速转化为对电力设备与发电类股票的追捧，带动Bloom Energy单日上涨约13%；但同期英伟达CEO黄仁勋可能被罢免的传闻引发科技股剧烈波动，显示板块整体情绪仍不稳定。"
       },
       {
         "heading": "跟踪者动向解读",
-        "body": "公开披露显示，佩洛西在2026年7月24日与28日分别新建BE多头仓位，两笔交易均被标记为看涨信号。需注意国会议员交易披露存在滞后性，且交易可能由配偶或资产管理人代为执行，不代表本人对公司基本面的直接判断，投资者宜结合公司业绩与行业趋势综合评估，而非单纯跟随政治人物持仓变化"
+        "body": "公开披露显示众议院议员佩洛西在2026年7月下旬新建BE多头仓位（7月24日与7月28日两笔交易，8月21日对外披露），此类国会交易披露存在一定滞后性，信息价值有限，不宜直接作为投资决策依据，但可作为市场情绪的辅助参考。"
       },
       {
-        "heading": "估值与同业比较",
-        "body": "Bloom Energy常与其他分布式发电、氢能及电网设备公司对比。AI数据中心电力主题推升板块整体估值，市场对BE盈利能力与订单可持续性的分歧仍然较大，股价波动性高于传统公用事业类资产"
+        "heading": "财务与估值",
+        "body": "市场对Bloom Energy的估值高度依赖未来订单增长及盈利拐点预期，公开报道显示其股价年内波动剧烈，曾较高点大幅回撤后又快速反弹，当前估值隐含了较为乐观的数据中心电力需求假设，若实际兑现不及预期，下行风险不容忽视。"
       },
       {
-        "heading": "风险提示",
-        "body": "需关注美联储加息路径、数据中心资本开支放缓或政策限制（如得州数据中心相关争议）、AI板块整体情绪波动（泡沫论与抛售声音并存），以及公司订单集中度与毛利率变化等因素，上述因素均可能对BE股价造成较大扰动。本分析仅为信息梳理，不构成买卖建议"
+        "heading": "风险与分歧",
+        "body": "市场多空分歧主要集中在：一方认为AI算力扩张将持续拉动分布式电力需求，为公司带来结构性机会；另一方则认为当前涨幅更多反映短期题材炒作而非基本面改善，估值已透支乐观预期。此外，补贴政策变化、天然气价格波动及电力设备行业竞争格局演变也是影响后续走势的重要变量。"
       }
     ],
     "comparables": [
       {
-        "ticker": "GEV",
-        "name": "GE Vernova",
-        "note": "电网与发电设备商，近期因SoftBank俄亥俄数据中心项目被重新评估而承压，可作为数据中心电力基建景气度的参照"
-      },
-      {
         "ticker": "PLUG",
         "name": "Plug Power",
-        "note": "氢燃料电池同业，财务状况相对疲弱，可用于对比燃料电池行业整体估值与盈利路径差异"
+        "note": "氢能与燃料电池同业，财务状况与盈利路径常被市场用于与Bloom Energy类比"
       },
       {
         "ticker": "FCEL",
         "name": "FuelCell Energy",
-        "note": "固态氧化物燃料电池细分赛道同业，规模较小，可作为估值与技术路线参照"
+        "note": "固体氧化物与熔融碳酸盐燃料电池同业，业务规模相对较小，同样受电力需求题材影响"
+      },
+      {
+        "ticker": "GEV",
+        "name": "GE Vernova",
+        "note": "电力设备与电网基础设施龙头，业务更为多元化，同样受益于数据中心电力需求逻辑"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-11T01:09:08.621440Z"
+    "generatedAt": "2026-11-12T02:12:51.068190Z"
   },
   "news": [
     {
-      "id": "BE-143693904",
-      "title": "GE Vernova Falls 4% as SoftBank’s Ohio Data Center Undergoes “A Thorough Reassessment”",
+      "id": "BE-143741266",
+      "title": "Dow Jones Futures: Techs Tumble Late As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
       "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=935af7772999bfda72f511a6c4fae4bf6dbdf2623a86a033858d57accbd434b3",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=999ed9adfd53008a0f30252393df8c949ff7c3ca3fdfad8c9128ced5564281b0",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143694694",
-      "title": "S&P 500 Top Gainers and Losers for Today's Session",
+      "id": "BE-143741625",
+      "title": "What’s Propelling Bloom Energy’s (BE) 13% Run?",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=5c819833e358e11a47bb22c28df93252d3a0cd87f94a915cdc88bc2adcacbb03",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-143741626",
+      "title": "Bloom Energy Just Jumped 13% After CoreWeave Calmed AI Data Center Fears. History Says What Usually Comes Next for a Stock That Halved",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=f4dac49b27f7101d0e06ce8e0768668960bf3eaf7cf1617700092d08a4b6eb01",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-143740184",
+      "title": "Dow Jones Futures: CoreWeave, Sandisk, Nvidia, AMD, Nebius Lead Bullish Market Move; What To Do Now",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=51cc2c44b2755273f7f750a9bc9320e07404f1210a6d377d3890b281ac6acb17",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-143740999",
+      "title": "S&P 500 Top Movers: Nov. 11, 2026 Session Gainers and Losers",
       "source": "ChartMill",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=6fce76dd7876e030d37b388ebacf02dc819d615b61dee883f327a61f69708576",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=b6edd76c9f28a0250a1d0e93dd4e23366891419b67e1158365a3fb327561a645",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143692635",
-      "title": "AMD and Coherent: What the Biggest Gainers Since the Midterms Selloff Say About the AI Trade",
+      "id": "BE-143739402",
+      "title": "Bloom Energy stock surges as CoreWeave earnings spur rally in power stocks",
       "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=841222901ac783cb44e5817a841b091539fdd7c76b58e7db0d59dc6eba535370",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-143694689",
-      "title": "S&P 500 Top Movers: Today's US Session Gainers and Losers",
-      "source": "ChartMill",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=7298d9b65a4f1c1d8597bf187062a57b8ac62c13c137ce3889144a6764273edf",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-143691801",
-      "title": "Bloom Energy (BE) Lands a Major AI Data Center Deal as Revenue Surges",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=5ffed28d0bfc691e01d37d5382cabb7ac529ce2cffa84e6258bc8f37ef9cf019",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-143691802",
-      "title": "Bloom Energy Sank on Midterm Fears: Why RBC Sees 68% Upside",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=0633d8d7164f03dc749c2237acc8ef7a25539d76aeb1807eca3ecf6e609df8c2",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=1ace3e4d8437b7e5bbc1f69e501e678088b7122bd2a60c899354c3fb103f30b5",
       "tags": [
         "BE"
       ]

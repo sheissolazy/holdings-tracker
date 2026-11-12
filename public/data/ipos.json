@@ -1,5 +1,17 @@
 [
   {
+    "ticker": "ANT",
+    "name": "ANTHROPIC, PBC",
+    "date": "2026-11-19",
+    "priceRange": [
+      70.0,
+      78.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global Select",
+    "status": "expected"
+  },
+  {
     "ticker": "WWB",
     "name": "WINDWARD BIO GROUP AG",
     "date": "2026-11-13",
@@ -21,6 +33,18 @@
     ],
     "sector": "—",
     "exchange": "NYSE",
+    "status": "expected"
+  },
+  {
+    "ticker": "TRCX",
+    "name": "Tracx Logis Ltd.",
+    "date": "2026-11-13",
+    "priceRange": [
+      18.0,
+      22.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Capital",
     "status": "expected"
   },
   {

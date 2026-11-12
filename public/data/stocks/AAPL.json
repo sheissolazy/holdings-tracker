@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 348.51,
-  "change5dPct": 3.0,
-  "changeYtdPct": 19.1,
-  "marketCap": "$5.06T",
-  "pe": 38.2,
+  "price": 355.63,
+  "change5dPct": 7.1,
+  "changeYtdPct": 20.6,
+  "marketCap": "$5.17T",
+  "pe": 38.9,
   "revenue": "—",
   "revenueYoYPct": 15,
   "prices": [
-    {
-      "t": "2026-05-11",
-      "o": 291.98,
-      "h": 293.88,
-      "l": 290.23,
-      "c": 292.68
-    },
     {
       "t": "2026-05-12",
       "o": 292.56,
@@ -899,127 +892,134 @@
       "h": 352.33,
       "l": 344.78,
       "c": 350.69
+    },
+    {
+      "t": "2026-11-10",
+      "o": 351.35,
+      "h": 353.87,
+      "l": 346.46,
+      "c": 348.51
     }
   ],
   "thesis": {
     "bull": [
-      "苹果近期完成新一轮债券发行且交易溢价明显，显示信用市场对其长期现金流与偿债能力评价较高，为股票回购与资本开支提供弹性空间",
-      "英伟达CEO黄仁勋公开表态对苹果在生成式AI终端应用上寄予厚望，带动市场对Apple Intelligence商业化前景的乐观预期",
-      "2025年12月30日出现的新建仓记录（跟踪者动向）显示部分资金在近期回调后重新认为苹果具备吸引力，与同期减仓记录形成对照"
+      "苹果股价近期创出新高，期权市场交易活跃，反映市场对公司AI叙事及新产品周期预期偏乐观",
+      "服务业务（App Store、广告、云服务等）持续增长，提供高毛利且稳定的现金流，支撑整体估值中枢",
+      "公开披露显示美国国会议员佩洛西在2025年12月30日对AAPL有新建仓记录，说明部分受关注资金仍保持多头敞口"
     ],
     "bear": [
-      "跟踪者历史记录显示自2024年12月31日起、经2025年10月22日、直至2025年12月24日多次出现减持退出记录，呈现持续性减仓趋势，暗示部分长期持有者对估值或增长前景趋于谨慎",
-      "苹果新发债券后已出现约38%的交易溢价，反映市场对其信用与估值预期已较为充分，边际上行空间或受限，且高溢价本身也可能被解读为举债成本与市场预期出现分歧的信号",
-      "宏观环境偏紧：通胀数据超预期、美联储官员暗示不排除大幅加息（50个基点），10年期美债收益率走高，大盘权重科技股估值普遍承压，苹果难以完全脱钩于整体风险偏好下降"
+      "同一批国会交易披露中，佩洛西在2025年12月30日、2025年12月24日及2025年10月22日均出现减持动作，显示政治人物对AAPL持仓更偏向逐步兑现收益而非加仓",
+      "有报道提示「苹果股价对2027年展望而言显得偏贵」，显示市场内部对估值是否透支增长预期存在明显分歧",
+      "英伟达CEO黄仁勋被曝可能遭董事会罢免等丑闻持续发酵，引发AI硬件及相关生态系统信心波动，若情绪蔓延可能影响市场对苹果AI功能变现节奏的预期"
     ],
     "watch": [
-      "苹果用户被发出iPhone安全漏洞紧急警告，需持续关注官方补丁发布节奏、潜在数据安全事件及其对品牌与用户信任的影响",
-      "科技行业地缘政治与监管风险升温（如英伟达遭FBI调查、美军人员间谍指控等相关报道密集出现），苹果在中国市场的供应链与销售敞口是否受到外溢影响值得跟踪",
-      "市场上出现「AI泡沫即将再度破裂」的警示性言论，叠加对冲基金近期大举抛售科技股后又快速买回芯片股的剧烈波动，苹果作为大盘科技权重股的联动性与资金流向变化需要持续观察"
+      "谷歌Gemini语音助手已上线苹果CarPlay车机系统，需关注苹果自研Siri/AI功能与第三方大模型合作边界的演变",
+      "英伟达治理与管理层稳定性事件持续发酵，需关注其是否外溢至更广泛AI硬件供应链情绪并间接影响苹果相关叙事",
+      "后续国会及其他跟踪者的新增披露，需关注是否出现持续性加仓或减仓趋势以判断知情资金态度变化"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值最大的消费电子与服务公司之一，核心业务包括iPhone、Mac、iPad等硬件产品线，以及快速增长的服务业务（App Store、iCloud、Apple Music、AppleCare等）。公司近年来持续推进Apple Intelligence等生成式AI功能的终端集成，试图将AI能力嵌入现有设备生态，而非单独依赖云端大模型业务。"
+        "body": "苹果是全球市值领先的消费电子与软件服务公司，主营iPhone、Mac、iPad等硬件产品，并持续扩大服务业务（App Store、iCloud、广告、Apple Pay、订阅服务等）占收入比重。公司近年将AI能力整合进自有生态系统，同时与外部大模型厂商展开合作，试图在保持硬件壁垇的同时拓展软件与服务增长空间"
       },
       {
-        "heading": "基本面与资本运作",
-        "body": "近期新闻显示苹果完成新一轮债券发行，且该债券在二级市场出现约38%的交易溢价，说明固定收益投资者对其信用质量与现金流稳定性评价较高。此类融资通常被市场解读为用于股票回购、分红或基础设施投入的资金储备，但高溢价本身也反映出市场对其估值预期已相对充分，后续能否持续兑现增长预期值得关注。"
+        "heading": "基本面",
+        "body": "从公开新闻看，苹果股价近期表现强势并创出新高，期权交易活跃度明显上升，显示市场参与者对其短中期走势存在较强预期分歧，部分资金通过期权博弈方向性机会。服务业务增长与硬件换机周期仍是驱动基本面的两条主线，但具体财务数据需结合最新季报进一步验证"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "公开披露记录显示，相关人物在2025年12月30日对苹果出现一笔新建仓记录，同时在同一披露文件及此前（2025年10月22日、2025年12月24日、2024年12月31日）多次出现减持退出记录。整体来看，减仓记录在时间跨度和频次上更为密集，呈现出持续性减持的特征，而新建仓更像是在长期减仓趋势中的局部加仓动作，二者共同反映市场参与者对苹果的判断并不一致。此外，英伟达CEO黄仁勋公开表达对苹果AI布局的期待，带动短期市场情绪转向乐观，但这类高管公开表态更多属于情绪与叙事层面的催化，与具体财务数据的关联有待验证。"
+        "heading": "估值",
+        "body": "市场上出现「苹果股价对2027年而言显得偏贵」的观点，说明随着股价持续走高，部分分析人士开始质疑当前估值是否已充分甚至过度反映未来AI与服务增长预期。多空双方对于苹果能否持续维持高溢价存在明显分歧，估值讨论值得持续跟踪"
       },
       {
-        "heading": "多空分歧",
-        "body": "看多逻辑主要围绕苹果强大的品牌生态、服务业务的持续增长潜力，以及市场对其AI终端化应用（Apple Intelligence）商业化前景的期待；看空逻辑则聚焦于持续性的跟踪者减仓记录、新发债券后出现的高溢价所暗示的估值已较充分，以及宏观流动性收紧对高估值科技股的压制。两类信号在时间上高度重叠，反映市场对苹果中长期增长路径（硬件创新放缓 vs 服务与AI变现）存在明显分歧。"
+        "heading": "资金与跟踪者动向",
+        "body": "公开披露显示，美国国会议员佩洛西对AAPL的交易记录较为复杂：2025年12月30日同时出现新建仓与减持两类记录，且此前在2025年12月24日、2025年10月22日及2024年12月31日均有减持动作。整体看，该跟踪者对AAPL持仓呈现「边建仓边获利了结」的混合态势，并非单一方向的强烈看多或看空信号，解读时需谨慎，不宜过度外推为明确的多空指引"
       },
       {
-        "heading": "宏观与行业环境",
-        "body": "近期宏观新闻密集提示通胀数据超预期、美联储官员暗示不排除更大幅度加息，10年期美债收益率走高，这对高估值成长型及大盘科技股普遍构成压力。同时，AI相关板块出现剧烈分化：部分AI基础设施与算力相关标的因资本开支预期上调而受到追捧，但也有评论担忧「AI泡沫」存在再度破裂的风险，对冲基金在科技股上的仓位调整也显示出较高的不确定性与波动性，苹果作为权重股难以完全独立于这一整体风险情绪之外。"
+        "heading": "新闻与行业环境",
+        "body": "近期行业新闻以英伟达CEO黄仁勋可能被罢免的治理争议为焦点，该事件引发AI芯片与相关概念股大幅波动，市场情绪在「AI复苏」与「AI丑闻冲击」之间反复切换。同期还出现谷歌Gemini语音助手登陆苹果CarPlay的合作新闻，以及CoreWeave财报带动AI数据中心类股票（如Bloom Energy、Marvell等）大涨的联动效应，整体AI产业链情绪波动较大，可能通过供应链与投资者风险偏好间接影响苹果股价表现"
       },
       {
-        "heading": "风险与关注点展望",
-        "body": "短期需关注的风险点包括：iPhone安全漏洞引发的用户信任与后续补丁节奏问题、新发债券高溢价是否反映市场预期已price in大部分利好、以及更广泛的科技行业地缘政治与监管事件（如同业公司遭遇的调查与间谍指控报道）可能带来的行业性情绪冲击。这些因素叠加宏观流动性环境的不确定性，构成了苹果股价短中期波动的主要变量，但也存在服务业务与AI功能逐步落地带来的结构性机会，多空力量仍需后续财报与宏观数据进一步验证。"
+        "heading": "风险提示",
+        "body": "本分析基于公开新闻与国会交易披露等二级信息整理，不构成任何投资建议，也不构成买入或卖出指令。国会议员交易披露存在滞后性，且其个人投资决策可能基于分散化或税务等非基本面因素，不应被简单等同于对公司前景的专业判断。行业层面的治理丑闻、AI情绪波动及估值分歧均可能放大短期股价波动，投资者应结合自身风险承受能力独立判断"
       }
     ],
     "comparables": [
       {
         "ticker": "MSFT",
         "name": "Microsoft Corporation",
-        "note": "同为大盘科技权重股，云服务与AI商业化进展可作为苹果服务与AI变现路径的参照"
+        "note": "同为大型科技与AI叙事核心标的，服务与云业务结构可与苹果服务业务增长逻辑对比"
       },
       {
         "ticker": "GOOGL",
         "name": "Alphabet Inc.",
-        "note": "在生成式AI终端与搜索场景的竞争格局与苹果存在直接交叉，可比较AI功能落地节奏"
+        "note": "因Gemini语音助手登陆苹果CarPlay而与苹果产生生态合作关联，亦是AI大模型竞争的直接参与者"
       },
       {
-        "ticker": "AMZN",
-        "name": "Amazon.com Inc.",
-        "note": "同属消费电子与服务生态型巨头，可用于比较硬件与订阅服务的协同增长模式"
+        "ticker": "NVDA",
+        "name": "NVIDIA Corporation",
+        "note": "近期因CEO治理争议成为AI板块情绪波动的核心来源，其股价与声誉变化可能间接影响市场对AI硬件生态（包括苹果）的整体风险偏好"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-11T01:10:00.135888Z"
+    "generatedAt": "2026-11-12T02:13:29.206657Z"
   },
   "news": [
     {
-      "id": "AAPL-143694800",
-      "title": "What Could Lift Netflix Stock From Here?",
+      "id": "AAPL-143745472",
+      "title": "Nvidia Stock Tumbles. Jensen Huang Could Be Out Soon.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=51c4ec4330bc4bcfc52ec9f3e8514a77867b545037752073ea3f0b5726997714",
+      "publishedAt": "2026-11-12",
+      "url": "https://finnhub.io/api/news?id=95ed06642cc383b0f34912f19e57775b09226f28e28c06c5f63c307480fc2512",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143694801",
-      "title": "Bullish’s New President Backs Issuer-First Model for Tokenized Stocks",
+      "id": "AAPL-143741259",
+      "title": "Stock Market Today, Nov. 11: Stock Market Today, Nov. 11: Nasdaq Surges as CoreWeave's 25% Rally Reignites the AI Trade",
       "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=d04fdb227c426003275c52cd99cb38a35a7bd6ce1b5709fe91fc6a0180223f85",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=b3d97c9cdb2a2c151bfb29be44fc785c59d63530cdd8f2c6cc2a0dda2d6bfac4",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143694802",
-      "title": "Nvidia's trillion-dollar bind: Can it afford to lose Jensen Huang?",
+      "id": "AAPL-143740160",
+      "title": "Apple Shares (AAPL) Look Expensive Heading into 2027",
       "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=e68130faf41c2659d0293ed333b6bc09bd71f11fbca06bb92c62fee3eb5d8a0f",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=d724df0690ef5ddd6eaa553272cfdf694f9b5abd12f1d599761b79e888959ac9",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143693852",
-      "title": "Meta's Ember is a bet on cheaper models with competitors",
+      "id": "AAPL-143740162",
+      "title": "Is Dell Stock Priced Right Against Its Peers?",
       "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=bc239ea631cadf14b381b77d11d651f1333fb0c72a053a7b89c1c232a62f58f5",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=825afe4818a1adcb767552dc041f4b23716414a3d3407e5e949b66fb6aa3f5f0",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143693790",
-      "title": "Apple users get urgent security warning over iPhone flaw",
+      "id": "AAPL-143740163",
+      "title": "Google rolls out Gemini AI voice assistant to Apple CarPlay dashboards",
       "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=220c29faaada84f3c321769b653132706a011a92e64f7a0dd709d8c591964417",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=7c633254a9dd3782aa5e4d2a16aac5f4e0bff0ebcd14e464d3ed15848cd02d24",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143693789",
-      "title": "Apple (AAPL) Faces A 38% Premium Following Fresh Debt Issuance",
+      "id": "AAPL-143739114",
+      "title": "Micron Stock Fell 30% in a Week. Bernstein Says It Could Nearly Double",
       "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=e62abbdb00e27a285394b813ba408c7475f036929e7e9e0abf6904902cd0bc69",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=9c89f6032a67e9dc8a6d2e49e789ac8a701e2bf46d0fdc1a1c85fce63b74215e",
       "tags": [
         "AAPL"
       ]

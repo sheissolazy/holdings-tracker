@@ -435,26 +435,172 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-11-03",
+    "asOf": "2026-11-11",
     "sentiment": "watch",
-    "excerpt": "TO THE GREAT PEOPLE OF INDIANA, GET OUT AND VOTE FOR: – Max Engling for Secretary of State – Barb Regnitz for U.S. Congress (IN-01) – Rudy Yakym for U.S. Congress (IN-02) – Marlin Stutzman for U.S. Congress (IN-03) – Jim Baird for U.S. Cong",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117552791827923806",
+    "excerpt": "Person for scale https://t.co/6XGX98l38L",
+    "postUrl": "https://x.com/elonmusk/status/2120591950961353125",
     "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-11-11",
+    "sentiment": "watch",
+    "excerpt": "Tesla self-driving now approved in Finland",
+    "postUrl": "https://x.com/elonmusk/status/2120565179276832797",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-11",
+    "sentiment": "watch",
+    "excerpt": "All I’m going to say is that I hope board of $NVDA stands by Jensen, despite media and political pressures.\n\nThe same way $TSLA and SpaceX stood up for Elon Musk around similar allegations.\n\nThe AI trade won’t end off this but for Nvidia’s ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120658071274013137",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-11",
+    "sentiment": "watch",
+    "excerpt": "All I’m going to say is that I hope board of $NVDA stands by Jensen, despite media and political pressures.\n\nThe same way $TSLA and SpaceX stood up for Elon Musk around similar allegations.\n\nThe AI trade won’t end off this but for Nvidia’s ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120658071274013137",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-11",
+    "sentiment": "watch",
+    "excerpt": "All I’m going to say is that I hope board of $NVDA stands by Jensen, despite media and political pressures.\n\nThe same way $TSLA and SpaceX stood up for Elon Musk around similar allegations.\n\nThe AI trade won’t end off this but for Nvidia’s ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120658071274013137",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-11",
+    "sentiment": "watch",
+    "excerpt": "Holy crap, why does $NVDA nonstop TMZ scandals keep getting “leaked” left and right.\n\nThe cluster of news coming out about Jensen feel extremely bizarre. https://t.co/ezi7NRN14U",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120648172192378945",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-11",
+    "sentiment": "watch",
+    "excerpt": "This aged pretty well, when I said this last year in 2025, Clickhouse was a $6.7B company... \n\nNow as an update, their secondary valuation sits around ~$50B, which $NBIS owns 25%+ of. \n\nI've always liked Nebius the most because sum of parts",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120575364238094682",
+    "ticker": "NBIS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-11",
+    "sentiment": "watch",
+    "excerpt": "Let's fking go $ANT\n\nThis is how you sell the future of AI... by entering an \"Age of Miracles,\" not human extinction.\n\nI still think Anthropic is overvalued, but even I'm getting hyped by this IPO teaser. https://t.co/ebNkiRoogo",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120533451279642808",
+    "ticker": "ANT",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-11",
+    "sentiment": "watch",
+    "excerpt": "$ANT IPO at $1.4T valuation is now multiple times oversubscribed. \n\nAfter trying to raise $57.8–64.4B… pushing total Anthropic IPO funding closer to $100B.\n\nI guess the pool of capital is infinity in America if you can cure cancer with AI i",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120526218076504318",
+    "ticker": "ANT",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-11",
+    "sentiment": "watch",
+    "excerpt": "There's a lot of news about WT (3036) introducing their first CW DFB laser line card. \n\nMore significant than people think for medium-long term. For economic impact and what revenue looks like: \n\n- $SMTC generated 74% of its revenue through",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120523420639408175",
+    "ticker": "AMBA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-11",
+    "sentiment": "watch",
+    "excerpt": "There's a lot of news about WT (3036) introducing their first CW DFB laser line card. \n\nMore significant than people think for medium-long term. For economic impact and what revenue looks like: \n\n- $SMTC generated 74% of its revenue through",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120523420639408175",
+    "ticker": "AVGO",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-11",
+    "sentiment": "watch",
+    "excerpt": "There's a lot of news about WT (3036) introducing their first CW DFB laser line card. \n\nMore significant than people think for medium-long term. For economic impact and what revenue looks like: \n\n- $SMTC generated 74% of its revenue through",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120523420639408175",
+    "ticker": "SMTC",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-11",
+    "sentiment": "watch",
+    "excerpt": "You heard 10x demand for compute > supply from $CRWV today. \n\nHearing from $TSM today on Nikkei Forum: \n\n\"The demand on our leading node [most advanced] silicon is insatiable\"\n\nCustomers \"want to get [their] hands around any compute capabil",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120488757334044945",
+    "ticker": "CRWV",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-11",
+    "sentiment": "watch",
+    "excerpt": "You heard 10x demand for compute > supply from $CRWV today. \n\nHearing from $TSM today on Nikkei Forum: \n\n\"The demand on our leading node [most advanced] silicon is insatiable\"\n\nCustomers \"want to get [their] hands around any compute capabil",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120488757334044945",
+    "ticker": "TSM",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-10",
+    "sentiment": "watch",
+    "excerpt": "$CRWV ER and read through for $NBIS and other Neoclouds:\n\n“We have 10x as much qualified demand as available capacity”.\n\n- interest in 2028 capacity already amounts to several times what CoreWeave has available\n\n-  CoreWeave raised prices b",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120391635737649423",
+    "ticker": "CRWV",
     "topics": [
       "美联储/利率"
     ]
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-11-10",
     "sentiment": "watch",
-    "excerpt": "Turns out that the Starlink software, built for managing the movement of vast amounts of data through space and to the ground, is also very well suited to training super intelligence",
-    "postUrl": "https://x.com/elonmusk/status/2120102767624880364",
-    "ticker": "",
-    "topics": []
+    "excerpt": "$CRWV ER and read through for $NBIS and other Neoclouds:\n\n“We have 10x as much qualified demand as available capacity”.\n\n- interest in 2028 capacity already amounts to several times what CoreWeave has available\n\n-  CoreWeave raised prices b",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120391635737649423",
+    "ticker": "NBIS",
+    "topics": [
+      "美联储/利率"
+    ]
   },
   {
     "personId": "serenity",
@@ -750,220 +896,6 @@
     "excerpt": "A $TSM Spokesperson has reportedly denied exploring 3D DRAM per Tom's Hardware. \n\nAfter a report yesterday from The Information stated TSMC's production plans were from $NVDA's request. \n\nThe implications would have put TSMC in competition ",
     "postUrl": "https://x.com/aleabitoreddit/status/2119097842363211968",
     "ticker": "TSM",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-07",
-    "sentiment": "watch",
-    "excerpt": "I'm going to give a contrarian take on Neoclouds like $NBIS and say the theme looks compelling after the valuation crash. \n\nSince there's a reason why Elon's $SPCX is heavily focused on this market full of \"guppies\" that would die: \n\nHe see",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119077473107472729",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-07",
-    "sentiment": "watch",
-    "excerpt": "I'm going to give a contrarian take on Neoclouds like $NBIS and say the theme looks compelling after the valuation crash. \n\nSince there's a reason why Elon's $SPCX is heavily focused on this market full of \"guppies\" that would die: \n\nHe see",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119077473107472729",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-07",
-    "sentiment": "watch",
-    "excerpt": "I'm going to give a contrarian take on Neoclouds like $NBIS and say the theme looks compelling after the valuation crash. \n\nSince there's a reason why Elon's $SPCX is heavily focused on this market full of \"guppies\" that would die: \n\nHe see",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119077473107472729",
-    "ticker": "CRWV",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-07",
-    "sentiment": "watch",
-    "excerpt": "I'm going to give a contrarian take on Neoclouds like $NBIS and say the theme looks compelling after the valuation crash. \n\nSince there's a reason why Elon's $SPCX is heavily focused on this market full of \"guppies\" that would die: \n\nHe see",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119077473107472729",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-07",
-    "sentiment": "watch",
-    "excerpt": "Some industry commentary regarding a few claims recently on memory + Softbank Turbine defaulting.\n\n- On claims that LTAs are \"meaningless while prices fall\": \n\n$MU: \"strategic customer agreements cannot be unilaterally canceled.  Customers ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119023086502805730",
-    "ticker": "GE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-07",
-    "sentiment": "watch",
-    "excerpt": "Some industry commentary regarding a few claims recently on memory + Softbank Turbine defaulting.\n\n- On claims that LTAs are \"meaningless while prices fall\": \n\n$MU: \"strategic customer agreements cannot be unilaterally canceled.  Customers ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119023086502805730",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-06",
-    "sentiment": "watch",
-    "excerpt": "Woah, this caught my attention today. Apparently $ASTS decided to build their own medium/heavy lift reusable rockets. \n\nCould be a potential competitor to $RKLB Neutron or $SPCX Falcon 9? \n\n\"Starting in late 2028, the use of the Blacklift r",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118726497129423273",
-    "ticker": "ASTS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-06",
-    "sentiment": "watch",
-    "excerpt": "Woah, this caught my attention today. Apparently $ASTS decided to build their own medium/heavy lift reusable rockets. \n\nCould be a potential competitor to $RKLB Neutron or $SPCX Falcon 9? \n\n\"Starting in late 2028, the use of the Blacklift r",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118726497129423273",
-    "ticker": "RKLB",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-06",
-    "sentiment": "watch",
-    "excerpt": "Woah, this caught my attention today. Apparently $ASTS decided to build their own medium/heavy lift reusable rockets. \n\nCould be a potential competitor to $RKLB Neutron or $SPCX Falcon 9? \n\n\"Starting in late 2028, the use of the Blacklift r",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118726497129423273",
-    "ticker": "SPCX",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-06",
-    "sentiment": "watch",
-    "excerpt": "In response to the recent market volatility across $TSM to $SKHY to Innolight:\n\n- Taiwan to restrict borrowed share short selling from 30% -> 3% relative to order volumes (90% reduction),  effective Nov 9th. \n\nTaiwan is separately raising i",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118683089383874576",
-    "ticker": "SKHY",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-06",
-    "sentiment": "watch",
-    "excerpt": "In response to the recent market volatility across $TSM to $SKHY to Innolight:\n\n- Taiwan to restrict borrowed share short selling from 30% -> 3% relative to order volumes (90% reduction),  effective Nov 9th. \n\nTaiwan is separately raising i",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118683089383874576",
-    "ticker": "TSM",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-05",
-    "sentiment": "watch",
-    "excerpt": "Everyone’s a long term investor for 2027, 2028, or 2029 onward\n\nUntil their portfolio experiences volatility months in. I still think:\n\n- $RKLB could end up the next $SPCX\n\n- $NBIS has the potential to be the next hyperscaler\n\n- $SIVE has m",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118605467459199016",
-    "ticker": "NVDA",
-    "topics": [
-      "加密"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-05",
-    "sentiment": "watch",
-    "excerpt": "Everyone’s a long term investor for 2027, 2028, or 2029 onward\n\nUntil their portfolio experiences volatility months in. I still think:\n\n- $RKLB could end up the next $SPCX\n\n- $NBIS has the potential to be the next hyperscaler\n\n- $SIVE has m",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118605467459199016",
-    "ticker": "AMD",
-    "topics": [
-      "加密"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-05",
-    "sentiment": "watch",
-    "excerpt": "Everyone’s a long term investor for 2027, 2028, or 2029 onward\n\nUntil their portfolio experiences volatility months in. I still think:\n\n- $RKLB could end up the next $SPCX\n\n- $NBIS has the potential to be the next hyperscaler\n\n- $SIVE has m",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118605467459199016",
-    "ticker": "AXTI",
-    "topics": [
-      "加密"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-05",
-    "sentiment": "watch",
-    "excerpt": "Everyone’s a long term investor for 2027, 2028, or 2029 onward\n\nUntil their portfolio experiences volatility months in. I still think:\n\n- $RKLB could end up the next $SPCX\n\n- $NBIS has the potential to be the next hyperscaler\n\n- $SIVE has m",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118605467459199016",
-    "ticker": "INTC",
-    "topics": [
-      "加密"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-05",
-    "sentiment": "watch",
-    "excerpt": "Kinda wild to see how fast Anthropic is growing that they’ve now exceeded $80B run rate as of October.\n\nThe number materially exceeded expectations in the $70B range +- few billion).\n\nAnthropic should still probably follow what YMTC’s examp",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118584259619520787",
-    "ticker": "",
-    "topics": [
-      "IPO/财报"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-05",
-    "sentiment": "watch",
-    "excerpt": "$AAOI earnings:\n\n- $1B-$1.5B LTA disclosed with a hyperscaler customer\n\n- 2nd LTA coming soon, worth 5x+ more (implying $5B-$7.5B), in its final stages. \n\nThis LTA explicitly includes lasers, very material for AOI that they're moving to sup",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118569237128286343",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-05",
-    "sentiment": "watch",
-    "excerpt": "$AAOI earnings:\n\n- $1B-$1.5B LTA disclosed with a hyperscaler customer\n\n- 2nd LTA coming soon, worth 5x+ more (implying $5B-$7.5B), in its final stages. \n\nThis LTA explicitly includes lasers, very material for AOI that they're moving to sup",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118569237128286343",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-05",
-    "sentiment": "watch",
-    "excerpt": "$AAOI earnings:\n\n- $1B-$1.5B LTA disclosed with a hyperscaler customer\n\n- 2nd LTA coming soon, worth 5x+ more (implying $5B-$7.5B), in its final stages. \n\nThis LTA explicitly includes lasers, very material for AOI that they're moving to sup",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118569237128286343",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-05",
-    "sentiment": "watch",
-    "excerpt": "$AAOI earnings:\n\n- $1B-$1.5B LTA disclosed with a hyperscaler customer\n\n- 2nd LTA coming soon, worth 5x+ more (implying $5B-$7.5B), in its final stages. \n\nThis LTA explicitly includes lasers, very material for AOI that they're moving to sup",
-    "postUrl": "https://x.com/aleabitoreddit/status/2118569237128286343",
-    "ticker": "NBIS",
     "topics": []
   },
   {

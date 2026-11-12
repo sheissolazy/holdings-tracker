@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 168.89,
-  "change5dPct": -16.4,
-  "changeYtdPct": -23.0,
-  "marketCap": "$4.07T",
-  "pe": 22.3,
+  "price": 173.73,
+  "change5dPct": -15.9,
+  "changeYtdPct": -21.3,
+  "marketCap": "$4.19T",
+  "pe": 21.1,
   "revenue": "—",
   "revenueYoYPct": 83,
   "prices": [
-    {
-      "t": "2026-05-11",
-      "o": 214.04,
-      "h": 222.3,
-      "l": 213.89,
-      "c": 219.44
-    },
     {
       "t": "2026-05-12",
       "o": 218.55,
@@ -899,127 +892,139 @@
       "h": 179.92,
       "l": 170.24,
       "c": 178.67
+    },
+    {
+      "t": "2026-11-10",
+      "o": 173.97,
+      "h": 174.69,
+      "l": 165.89,
+      "c": 168.89
     }
   ],
   "thesis": {
     "bull": [
-      "算力需求仍处于早期扩张阶段，多家云厂商合计资本开支指引达到约1.3万亿美元规模（预计2027年），数据中心GPU采购是其中核心环节，为NVDA收入提供中期支撑",
-      "近期部分AI硬件股（AMD、Coherent等）在中期选举后的抛售中反弹明显，且有报道称对冲基金此前以罕见速度减持科技股后芯片股出现单周7%的反弹，显示部分资金认为当前估值已消化悲观预期，存在逢低布局空间",
-      "亚洲供应链（如台湾相关AI概念股台积电生态圈）在近期交易中出现台湾加权指数单日逾4.9%的历史级别涨幅，显示市场对NVDA所处产业链的长期需求信心并未完全崩塌"
+      "AI算力需求依然强劲，CoreWeave等云服务商资本支出及三季度业绩超预期，带动英伟达为首的AI产业链情绪明显回暖，纳斯达克随之反弹",
+      "部分知情资金仍逢低布局，佩洛西在2026年1月的国会交易披露中新增对NVDA的多头仓位，显示即便在管理层风波期间仍有机构或政治人物选择买入",
+      "供应链扩张预期支撑中长期营收空间，台积电先进封装与存力产能持续扩张，叠加台湾科技股联动大涨，反映市场对NVDA下一代Blackwell及后续平台放量仍抱期待"
     ],
     "bear": [
-      "股价从高点出现约25%的大幅回撤，市值蒸发接近2万亿美元，直接触发因素是此前对FY2028「供应受限式70%增长」预期的证伪或下修，显示市场对其超高增长假设的容忍度在下降",
-      "公司创始人兼CEO黄仁勋个人层面爆出与「Alice Huang」相关的关系丑闻，并被部分媒体与所谓「间谍」情节关联报道，媒体podcast提及FBI对NVDA展开调查，叠加「公司是否能承受失去黄仁勋」的讨论，治理与关键人风险成为新的不确定因素",
-      "宏观层面CPI数据偏热、美联储官员表态为更大幅度加息打开空间，10年期美债收益率走高，整体压制高估值成长股估值中枢，叠加Dell等同业因德州数据中心扩建受限（传言中的「暂停令」或「禁令」）传闻，反映AI基建扩张节奏可能遇到现实阻力"
+      "CEO黄仁勋深陷第二起婚外情指控，媒体密集爆料叠加董事会据报考虑是否撤换其职务，公司治理不确定性骤增，相关消息传出后股价单日重挫约25%，市值蒸发近2万亿美元级别",
+      "同一跟踪者的历史记录显示其在2025年12月末及2024年12月末均有减持或退出动作，说明即便长期看多的资金也会在高位或消息面转差时获利了结，并非单边加仓",
+      "AI硬件供应链叙事出现分歧与噪音，例如台积电被曝为NVDA需求筹划3D DRAM产能的报道遭官方否认，叠加Marvell收购Lumentum、美光存储股价剧烈波动，显示产业链各环节消息真伪不一、情绪敏感度极高"
     ],
     "watch": [
-      "黄仁勋个人丑闻事件的后续调查进展及公司治理层面的应对（是否涉及管理层变动、合规审查结果），这将决定情绪冲击是短期还是会演变为结构性问题",
-      "TSMC是否真的应NVDA要求探索3D DRAM等先进封装/存储工艺的供应链传闻，官方已否认但报道仍存分歧，需关注后续双方表态及产能规划细节是否落地",
-      "Anthropic等AI相关公司历史性IPO及CoreWeave等「新云」股的表现，将检验市场对AI算力需求链条整体景气度的真实定价，是判断NVDA所处赛道情绪拐点的重要参照"
+      "董事会关于黄仁勋去留的最终决定及后续治理安排，包括是否出现新的继任人选讨论，这将直接影响市场对公司战略连续性的信心",
+      "后续财报季与主要云厂商（如CoreWeave等）资本支出指引是否延续本周的乐观基调，以及蚂蚁集团等大型IPO对整体科技股估值情绪的外溢影响",
+      "围绕黄仁勋丑闻的舆论发酵节奏，包括社交媒体上支持与质疑声音的此消彼长，及是否有更多爆料或监管/媒体调查进一步升级"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA是全球数据中心GPU与AI加速计算芯片的主导供应商，产品覆盖训练与推理芯片、网络互联及软件生态（如CUDA），客户主要为大型云计算厂商及「新云」算力提供商。公司过去几年的增长高度依赖生成式AI带来的资本开支浪潮，股价与市场对AI算力需求前景的预期高度绑定，因此也更容易受单一负面事件或预期下修影响而出现大幅波动"
+        "body": "英伟达是全球领先的图形处理器与AI加速计算芯片供应商，其GPU产品在数据中心训练与推理市场占据主导地位，并通过CUDA软件生态构筑较深的护城河。公司近年营收高度依赖AI基础设施建设周期，云服务商与大型科技公司的资本支出是核心驱动力，同时也使其业绩与股价对该群体支出节奏的变化高度敏感。"
       },
       {
-        "heading": "近期动态",
-        "body": "近期市场出现对NVDA的剧烈抛售，股价一度下跌约25%，市值蒸发接近2万亿美元，直接背景是此前市场消化「FY2028供应受限式70%增长」预期落空或被重新定价。与此同时，有媒体报道NVDA创始人兼CEO黄仁勋个人生活卷入与「Alice Huang」相关的关系丑闻，并被部分报道与所谓「间谍」情节关联，另有podcast提及FBI对公司展开调查，这类治理与关键人风险叠加业绩预期波动，放大了市场的不确定情绪"
+        "heading": "近期动态：管理层风波",
+        "body": "近期市场焦点从基本面转向公司治理。多家媒体报道称CEO黄仁勋被曝涉及第二起婚外情指控，相关爆料密集出现，随后又有报道称董事会在考虑是否将其撤换。消息面冲击下，NVDA股价出现单日约25%的大幅下跌，市值蒸发接近2万亿美元级别，同时波及AMD等相关AI概念股。截至目前，撤换一事尚未有官方确认结果，仍处于传闻与报道阶段。"
       },
       {
-        "heading": "多头逻辑梳理",
-        "body": "支持NVDA的核心逻辑在于AI算力基础设施建设的中长期趋势尚未结束：多家行业报告指出各大云厂商2027年合计资本开支可能达到约1.3万亿美元级别，数据中心及相关电力、网络设备的投资仍在加速。亚洲供应链（如台湾AI概念股单日出现历史级别涨幅）以及对冲基金在大幅减持后部分芯片股迅速反弹，均显示部分市场参与者认为近期的下跌更多是情绪与预期修正，而非产业趋势逆转"
+        "heading": "增长动能与AI产业链联动",
+        "body": "在管理层风波之外，AI硬件产业链基本面出现局部回暖信号。CoreWeave等云基建公司财报表现强劲，带动纳斯达克及AI相关个股反弹，市场对AI资本开支持续性的担忧有所缓解。台湾科技股同步出现历史级别的单日大涨，显示亚洲供应链对NVDA相关需求预期仍较为敏感和积极。与此同时，Marvell以大型并购补强AI光学互联能力，美光存储价格波动剧烈，均反映整条AI硬件供应链仍处于高波动、高敏感状态。"
       },
       {
-        "heading": "空头逻辑梳理",
-        "body": "空头观点主要集中在三方面：一是此前市场对NVDA「供应受限式超高增长」的假设可能过于乐观，一旦增速或供给节奏不及预期，估值回撤幅度会非常剧烈；二是CEO黄仁勋个人丑闻及被提及的FBI调查带来治理层面的不确定性，市场开始讨论公司是否能够承受失去关键创始人的风险；三是宏观环境转差，CPI数据偏热、美联储官员释放更大幅度加息的信号，叠加Dell等同业在德州数据中心扩张上传出受限消息，显示AI基建扩张的现实阻力可能比此前预期更大"
+        "heading": "多空分歧",
+        "body": "多头逻辑集中在AI算力长期需求确定性、生态护城河以及部分资金逆势加仓的信号；空头逻辑则聚焦于管理层治理风险的突发性与不可预测性，以及供应链消息真伪混杂带来的叙事脆弱性。两种逻辑的核心分歧点在于：治理风波究竟是短期情绪冲击还是会实质影响公司战略执行与客户信任，这一点目前尚无定论。"
       },
       {
-        "heading": "资金与舆论动向",
-        "body": "国会议员佩洛西在2026年初披露的PTR交易记录显示其对NVDA持仓存在新建仓与部分减持交叉出现的操作（2025年12月末及2026年1月中旬均有新建仓记录，同时12月24日前后出现减持记录），反映即便是信息相对敏感的交易者对该股的方向也并非单边判断。社交媒体上的讨论则普遍聚焦黄仁勋个人事件对公司基本面与情绪面的叠加冲击，同时也有声音呼吁理性看待创始人的个人问题，不应完全等同于公司基本面恶化"
+        "heading": "跟踪者与资金动向",
+        "body": "公开披露的交易记录显示，佩洛西在2026年1月申报的文件中包含对NVDA的新增多头仓位（交易日2026年1月16日及2025年12月30日），但同一批文件中也包含一笔2025年12月24日的减持/退出记录；对比2025年1月披露的文件，2024年同期也呈现出先新增后小幅减持再新增的交替模式。整体看，该跟踪者对NVDA的操作并非单纯持续加仓，而是在高位附近伴随一定的仓位调整，反映即便是长期看多者也会阶段性锁定部分收益或控制风险敞口。社交媒体上围绕管理层丑闻的讨论热度很高，情绪标签以观察为主，既有为黄仁勋辩护的声音，也有对丑闻持续曝光感到不安的声音，尚未形成一致方向。"
       },
       {
-        "heading": "风险与观察点",
-        "body": "短期内需要重点关注：一是黄仁勋个人事件的调查进展及公司治理应对是否会扩大化；二是台积电与NVDA之间关于先进存储/封装产能传闻的真实性及后续官方表态；三是宏观流动性环境（美联储加息路径、美债收益率）对高估值成长股估值中枢的持续压制；四是同业Dell等公司在数据中心扩张上遇到的监管或场地限制是否具有行业普遍性。总体而言，当前NVDA面临的是「产业趋势仍在、但估值与情绪双重承压」的局面，多空分歧明显，不构成任何买卖建议"
+        "heading": "估值与同业比较",
+        "body": "在当前治理不确定性尚未消除的背景下，NVDA与同业的比较更多体现为AI硬件产业链各环节的风险收益特征差异：代工与封装环节（如台积电）承担需求传导与产能扩张的双重角色；竞争对手（如AMD）在生态与份额上仍有差距但波动性相对较低；上下游配套环节（光学互联、存储）则因自身并购与价格周期呈现独立于NVDA治理风波的高波动行情。整体而言，NVDA的短期估值叙事更多受治理事件扰动，而中长期估值仍锚定于AI资本开支周期的持续性。"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
-        "name": "Advanced Micro Devices",
-        "note": "数据中心GPU/CPU领域的主要竞争者，近期被提及是中期选举后抛售中反弹最明显的AI硬件股之一，可作为观察AI硬件板块情绪修复的参照"
-      },
-      {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "定制芯片与网络互联供应商，2026年内股价涨幅居前，市场一度将其称为「下一个万亿美元公司」，可用于对比资本开支链条上游细分环节的估值弹性"
+        "name": "超威半导体",
+        "note": "GPU与AI加速卡领域的主要竞争对手，生态与市场份额仍落后于NVDA，但受益于同一波AI硬件需求，股价与NVDA消息面存在联动"
       },
       {
         "ticker": "TSM",
-        "name": "Taiwan Semiconductor Manufacturing Company",
-        "note": "NVDA核心晶圆代工伙伴，近期涉及「是否应NVDA要求探索3D DRAM」的供应链传闻，官方已否认，但反映两者在先进制程/存储规划上的紧密关联性"
+        "name": "台湾积体电路制造",
+        "note": "NVDA先进芯片代工核心供应商，关于为NVDA筹划3D DRAM产能的报道曾引发关注但遭官方否认，是观察NVDA供应链真实需求的重要窗口"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "美满电子科技",
+        "note": "近期以大型并购收购Lumentum强化AI光学互联能力，在AI基础设施中游与NVDA形成生态互补及局部竞争关系"
+      },
+      {
+        "ticker": "MU",
+        "name": "美光科技",
+        "note": "HBM等AI相关存储核心供应商，近期股价大幅波动，反映市场对AI硬件供应链情绪的高敏感度及分歧"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-11T01:07:31.483986Z"
+    "generatedAt": "2026-11-12T02:10:39.494207Z"
   },
   "news": [
     {
-      "id": "NVDA-143694121",
-      "title": "Dow Jones Futures: Stock Market Falls On Surging Treasury Yields, Nvidia Sell-Off; CoreWeave Rises Late",
+      "id": "NVDA-143742624",
+      "title": "Nvidia Directors Reportedly Consider Ousting CEO Jensen Huang, WSJ Reports",
       "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=0b137a6186a25e3654e20ff1b1f46d98a17d11a77b51a8e1fa1d59d378949301",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=1e793578e568123606a1dba9e23dcb0b7bd1782b4c32c2fe5131b9884b13917d",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143694830",
-      "title": "Why AAON Stock Popped Today",
+      "id": "NVDA-143742625",
+      "title": "Nvidia sinks after report implicates CEO Jensen Huang in 2nd affair",
       "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=be5c6e56935b256765cc8d382aff238b129fe5573cbe883392f6d5f64ab5f59b",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=662fac808e5b9135fda0044b0cb23b925a9a75eea16b7433eb00a6b66f7dda91",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143694834",
-      "title": "2 Reasons AMD Can Still Outperform by 2030",
+      "id": "NVDA-143741265",
+      "title": "Nvidia's stock dives as board weighs move to oust Jensen Huang",
       "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=59ca93a12e20eccc1252a040169f86e3a94b235f50d293bb2abd0bb87664333f",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=2411578ee09832557fc1387c6f2181677be979b7b64e1ced2e6a1e0e00fa567c",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143694837",
-      "title": "Dell Sinks 12% in a Week on Texas Data Center Fears: “A Moratorium, a Ban”",
+      "id": "NVDA-143742630",
+      "title": "If You Invest $1,200 a year in Kroger Stock, Here's the Dividend Income It Could Generate Over 20 Years",
       "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=e4516d6d97c84f2acf787d63f00b52149497bacfdef4fd3cd885e9cd47edf894",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=8278acfb7180b4bd75b2f75074a34a2caa3a59816ecf4221a566ccca783dac46",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143694835",
-      "title": "Hyperscalers Are Projected to Spend $1.3 Trillion on Capex in 2027. Here's the 1 Industrial Stock That Gets Paid Before a Single AI Token Is Sold.",
+      "id": "NVDA-143742626",
+      "title": "The unfolding Jensen Huang scandal: a timeline",
       "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=cf4757ee07a82194a164a4db24e0cf6530b2794922273320ed7da8ea785e06b1",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=269d9f8cce746944827935452cabd408d5677612b7d897e955312367b75bb49e",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143694838",
-      "title": "Why Lincoln Educational Services Stock Soared Again Today",
+      "id": "NVDA-143741266",
+      "title": "Dow Jones Futures: Techs Tumble Late As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
       "source": "Yahoo",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=46f231d8abd0bcb5d12f5bba47f9348923202082d20b1058d631763efe4e4a9e",
+      "publishedAt": "2026-11-11",
+      "url": "https://finnhub.io/api/news?id=999ed9adfd53008a0f30252393df8c949ff7c3ca3fdfad8c9128ced5564281b0",
       "tags": [
         "NVDA"
       ]
