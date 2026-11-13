@@ -365,6 +365,38 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! President DONALD J. TRUMP",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117604177898784579",
+    "ticker": "AAPL",
+    "topics": []
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! President DONALD J. TRUMP",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117604177898784579",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "Here we go again! With the perceived loss by the Republicans in the Midterms - I WAS NOT ON THE BALLOT- the INVASION of our Country is taking place again. Huge CARAVANS are forming and beginning their illegal march through Mexico. Many of t",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117603372250841698",
+    "ticker": "",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-11-09",
     "sentiment": "watch",
     "excerpt": "Defeated Republican Congressman Thomas Massie, a total loser, is trying to Impeach perhaps the most popular and successful military official in the Country, Secretary of War, Pete Hegseth. With recruitment at an ALL-TIME HIGH, from an all-t",
@@ -423,35 +455,173 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-11-04",
+    "asOf": "2026-11-12",
     "sentiment": "watch",
-    "excerpt": "Stock Market just hit another Record High — 91 Days in just a short period of time — Less than two years. Your 401(k)s are through the roof. Record Setting All! President DONALD J. TRUMP",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117559346773956882",
-    "ticker": "",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
-    "personId": "musk",
-    "type": "social",
-    "asOf": "2026-11-11",
-    "sentiment": "watch",
-    "excerpt": "Person for scale https://t.co/6XGX98l38L",
-    "postUrl": "https://x.com/elonmusk/status/2120591950961353125",
-    "ticker": "",
+    "excerpt": "I’m sorry but why are we letting the future of $NVDA and American semiconductors \n\nBe decided by board members with experience from Taco Bell and the NFL",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120993521289326858",
+    "ticker": "NVDA",
     "topics": []
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-11-11",
+    "asOf": "2026-11-12",
     "sentiment": "watch",
-    "excerpt": "Tesla self-driving now approved in Finland",
-    "postUrl": "https://x.com/elonmusk/status/2120565179276832797",
+    "excerpt": "Former $NVDA CEO had a relationship with a second employee per Reuters. \n\nWhat is this timeline https://t.co/aMTgHsPz6V",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120964006328566047",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "Senior White House officials are discussing whether Commerce Secretary Howard Lutnick should be pushed out as well.\n\nFollowing $NVDA CEO controversy and his handling of China export controls (Reuters).\n\nHard to believe Washington didn’t hav",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120949820684972421",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "I have no confidence in the future of $NVDA after Jensen’s resignation.\n\nBeyond the next couple years of existing revenue + roadmaps.\n\nWithout Jensen’s visionary leadership that previously set them ahead of $AMD to Broadcom\n\nIt’s don’t find",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120943109505008055",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "I have no confidence in the future of $NVDA after Jensen’s resignation.\n\nBeyond the next couple years of existing revenue + roadmaps.\n\nWithout Jensen’s visionary leadership that previously set them ahead of $AMD to Broadcom\n\nIt’s don’t find",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120943109505008055",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "I have no confidence in the future of $NVDA after Jensen’s resignation.\n\nBeyond the next couple years of existing revenue + roadmaps.\n\nWithout Jensen’s visionary leadership that previously set them ahead of $AMD to Broadcom\n\nIt’s don’t find",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120943109505008055",
+    "ticker": "AVGO",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "$NVDA Jensen Huang has now resigned.\n\nDespite the overwhelming support worldwide and from his employees. \n\nThis is an end of an era for Nvidia. https://t.co/GwtmTgkHBa",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120878368975618315",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "Regarding $NBIS earnings results:\n\nTo show you how fast they're growing... from Q2 to Q3: \n\nRevenue: $582.3M -> $980.8M (+68% QoQ)\nAdjusted EBITDA: $236.2M -> $465.8M (+97% QoQ)\nAI cloud adj. EBITDA margin: 49.7% -> 53.2%\nNet Income: −$190.",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120866647930187882",
+    "ticker": "BE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "Regarding $NBIS earnings results:\n\nTo show you how fast they're growing... from Q2 to Q3: \n\nRevenue: $582.3M -> $980.8M (+68% QoQ)\nAdjusted EBITDA: $236.2M -> $465.8M (+97% QoQ)\nAI cloud adj. EBITDA margin: 49.7% -> 53.2%\nNet Income: −$190.",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120866647930187882",
+    "ticker": "IBM",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "Regarding $NBIS earnings results:\n\nTo show you how fast they're growing... from Q2 to Q3: \n\nRevenue: $582.3M -> $980.8M (+68% QoQ)\nAdjusted EBITDA: $236.2M -> $465.8M (+97% QoQ)\nAI cloud adj. EBITDA margin: 49.7% -> 53.2%\nNet Income: −$190.",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120866647930187882",
+    "ticker": "MSFT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "Regarding $NBIS earnings results:\n\nTo show you how fast they're growing... from Q2 to Q3: \n\nRevenue: $582.3M -> $980.8M (+68% QoQ)\nAdjusted EBITDA: $236.2M -> $465.8M (+97% QoQ)\nAI cloud adj. EBITDA margin: 49.7% -> 53.2%\nNet Income: −$190.",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120866647930187882",
+    "ticker": "NBIS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "Okay, let’s gauge individual investor and public sentiment independently.\n\nShould Jensen Huang remain CEO of $NVDA?",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120822653997261079",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "I disagree, Jensen Huang is practically irreplaceable from $NVDA.\n\nAnd it's like if you took out Elon from $TSLA, the valuation and confidence in the company would collapse. \n\nThe foresight to bet on CUDA before AI took off, build the Neocl",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120798356205093139",
+    "ticker": "MRVL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "I disagree, Jensen Huang is practically irreplaceable from $NVDA.\n\nAnd it's like if you took out Elon from $TSLA, the valuation and confidence in the company would collapse. \n\nThe foresight to bet on CUDA before AI took off, build the Neocl",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120798356205093139",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "I disagree, Jensen Huang is practically irreplaceable from $NVDA.\n\nAnd it's like if you took out Elon from $TSLA, the valuation and confidence in the company would collapse. \n\nThe foresight to bet on CUDA before AI took off, build the Neocl",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120798356205093139",
+    "ticker": "AVGO",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "I disagree, Jensen Huang is practically irreplaceable from $NVDA.\n\nAnd it's like if you took out Elon from $TSLA, the valuation and confidence in the company would collapse. \n\nThe foresight to bet on CUDA before AI took off, build the Neocl",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120798356205093139",
     "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-12",
+    "sentiment": "watch",
+    "excerpt": "\"Chinese AI firms rush to secure $NVDA chip capacity as spy scandal stirs fear of US curbs\"\n\nWow, Jensen really took one for the team just to generate more GPU and Neocloud demand https://t.co/Y1rDNXx6Vi",
+    "postUrl": "https://x.com/aleabitoreddit/status/2120792625477468583",
+    "ticker": "NVDA",
     "topics": []
   },
   {
@@ -644,258 +814,6 @@
     "excerpt": "New commentary today from SoftBank on Elon Musks post 4 days ago: \n\n“SoftBank is defaulting on their turbine orders”\n\nAnalyst Question: “Any comment on that?” \n\nSoftBank CFO Yoshimitsu Goto: “this is simply not correct at all. There is no s",
     "postUrl": "https://x.com/aleabitoreddit/status/2120106741090370030",
     "ticker": "SPCX",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-10",
-    "sentiment": "watch",
-    "excerpt": "If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:\n\n70mW: ~$3–4\n100mW: ~$4–6 (Source Photonics channel checks).\n\nWith some premiums apparently going up to $7-$9 range with the recent shortage f",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120074819878449605",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-10",
-    "sentiment": "watch",
-    "excerpt": "If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:\n\n70mW: ~$3–4\n100mW: ~$4–6 (Source Photonics channel checks).\n\nWith some premiums apparently going up to $7-$9 range with the recent shortage f",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120074819878449605",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-10",
-    "sentiment": "watch",
-    "excerpt": "If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:\n\n70mW: ~$3–4\n100mW: ~$4–6 (Source Photonics channel checks).\n\nWith some premiums apparently going up to $7-$9 range with the recent shortage f",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120074819878449605",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-10",
-    "sentiment": "watch",
-    "excerpt": "If you look at CW laser ASPs for AI data centers, the pricing differences are pretty substantial:\n\n70mW: ~$3–4\n100mW: ~$4–6 (Source Photonics channel checks).\n\nWith some premiums apparently going up to $7-$9 range with the recent shortage f",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120074819878449605",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-09",
-    "sentiment": "watch",
-    "excerpt": "Anthropic Fable 5.2 and Mythos 5.2 is out! \n\nDoesn't quite look like AI progress is slowing down anytime soon https://t.co/fMEIN2FdTH",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119874063132995880",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-09",
-    "sentiment": "watch",
-    "excerpt": "I did not expect everything in the AI trade from $LITE to $NBIS to rally today\n\nOff the “honeypot catalyst”? https://t.co/wGnMXBj9bH",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119807048204595582",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-09",
-    "sentiment": "watch",
-    "excerpt": "I did not expect everything in the AI trade from $LITE to $NBIS to rally today\n\nOff the “honeypot catalyst”? https://t.co/wGnMXBj9bH",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119807048204595582",
-    "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-08",
-    "sentiment": "watch",
-    "excerpt": "Every AI name in Taiwan from Mediatek to Winbond looks like its limit up. \n\nTAIEX: +4.94%, its 2nd largest daily gain in history.\n\nI guess the market is impressed by $NVDA’s Jensen Huang vitality at his age? https://t.co/brvV79PfKl",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119689635869954503",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-08",
-    "sentiment": "watch",
-    "excerpt": "I fully support $NVDA and Jensen Huang through this time.\n\nEven the most legendary figure in the AI industry is human.\n\nTrump, Clinton, Bezos, Gates, and many others have faced scrutiny over their personal lives.\n\nIt takes courage to own up",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119633154629881997",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-08",
-    "sentiment": "watch",
-    "excerpt": "Various commentary from Qualcomm, Arm, to Meta executives this week during the AI selloff: \n\n$LITE CEO: \"You had a comment from the CEO of $IREN and I'd second that. There's a massive disconnect in what we're seeing in our demand books. \n\nA",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119458038260318634",
-    "ticker": "AMD",
-    "topics": [
-      "美联储/利率",
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-08",
-    "sentiment": "watch",
-    "excerpt": "Various commentary from Qualcomm, Arm, to Meta executives this week during the AI selloff: \n\n$LITE CEO: \"You had a comment from the CEO of $IREN and I'd second that. There's a massive disconnect in what we're seeing in our demand books. \n\nA",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119458038260318634",
-    "ticker": "APLD",
-    "topics": [
-      "美联储/利率",
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-08",
-    "sentiment": "watch",
-    "excerpt": "Various commentary from Qualcomm, Arm, to Meta executives this week during the AI selloff: \n\n$LITE CEO: \"You had a comment from the CEO of $IREN and I'd second that. There's a massive disconnect in what we're seeing in our demand books. \n\nA",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119458038260318634",
-    "ticker": "ARM",
-    "topics": [
-      "美联储/利率",
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-08",
-    "sentiment": "watch",
-    "excerpt": "Various commentary from Qualcomm, Arm, to Meta executives this week during the AI selloff: \n\n$LITE CEO: \"You had a comment from the CEO of $IREN and I'd second that. There's a massive disconnect in what we're seeing in our demand books. \n\nA",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119458038260318634",
-    "ticker": "IREN",
-    "topics": [
-      "美联储/利率",
-      "AI/芯片"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-08",
-    "sentiment": "watch",
-    "excerpt": "It think it's stupid that \"AI Bubble\" gets used over and over. In infra names you have: \n\n- 1-3x fwd P/E memory companies from Samsung to $ESMT. With HBM players now having hyperscaler multi-year price floor LTAs. \n\n- Optical companies like",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119363124147191823",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-08",
-    "sentiment": "watch",
-    "excerpt": "It think it's stupid that \"AI Bubble\" gets used over and over. In infra names you have: \n\n- 1-3x fwd P/E memory companies from Samsung to $ESMT. With HBM players now having hyperscaler multi-year price floor LTAs. \n\n- Optical companies like",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119363124147191823",
-    "ticker": "ESMT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-08",
-    "sentiment": "watch",
-    "excerpt": "It think it's stupid that \"AI Bubble\" gets used over and over. In infra names you have: \n\n- 1-3x fwd P/E memory companies from Samsung to $ESMT. With HBM players now having hyperscaler multi-year price floor LTAs. \n\n- Optical companies like",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119363124147191823",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-08",
-    "sentiment": "watch",
-    "excerpt": "It think it's stupid that \"AI Bubble\" gets used over and over. In infra names you have: \n\n- 1-3x fwd P/E memory companies from Samsung to $ESMT. With HBM players now having hyperscaler multi-year price floor LTAs. \n\n- Optical companies like",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119363124147191823",
-    "ticker": "POET",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-07",
-    "sentiment": "watch",
-    "excerpt": "The two things I'm excited about are Gen G vs. T1...\n\nand new NASA's $10 Billion contract to begin settling on the moon. NASA selected:\n\n- $SPCX (SpaceX)\n- Blue Origin\n- $FLY (Firefly)\n- $LUNR (Lunar)\n- $LMT (Lockheed Martin Space)\n- $NOC (",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119287752730738722",
-    "ticker": "FLY",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-07",
-    "sentiment": "watch",
-    "excerpt": "The two things I'm excited about are Gen G vs. T1...\n\nand new NASA's $10 Billion contract to begin settling on the moon. NASA selected:\n\n- $SPCX (SpaceX)\n- Blue Origin\n- $FLY (Firefly)\n- $LUNR (Lunar)\n- $LMT (Lockheed Martin Space)\n- $NOC (",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119287752730738722",
-    "ticker": "LMT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-07",
-    "sentiment": "watch",
-    "excerpt": "The two things I'm excited about are Gen G vs. T1...\n\nand new NASA's $10 Billion contract to begin settling on the moon. NASA selected:\n\n- $SPCX (SpaceX)\n- Blue Origin\n- $FLY (Firefly)\n- $LUNR (Lunar)\n- $LMT (Lockheed Martin Space)\n- $NOC (",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119287752730738722",
-    "ticker": "LUNR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-07",
-    "sentiment": "watch",
-    "excerpt": "The two things I'm excited about are Gen G vs. T1...\n\nand new NASA's $10 Billion contract to begin settling on the moon. NASA selected:\n\n- $SPCX (SpaceX)\n- Blue Origin\n- $FLY (Firefly)\n- $LUNR (Lunar)\n- $LMT (Lockheed Martin Space)\n- $NOC (",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119287752730738722",
-    "ticker": "NOC",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-07",
-    "sentiment": "watch",
-    "excerpt": "A $TSM Spokesperson has reportedly denied exploring 3D DRAM per Tom's Hardware. \n\nAfter a report yesterday from The Information stated TSMC's production plans were from $NVDA's request. \n\nThe implications would have put TSMC in competition ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119097842363211968",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-07",
-    "sentiment": "watch",
-    "excerpt": "A $TSM Spokesperson has reportedly denied exploring 3D DRAM per Tom's Hardware. \n\nAfter a report yesterday from The Information stated TSMC's production plans were from $NVDA's request. \n\nThe implications would have put TSMC in competition ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119097842363211968",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-07",
-    "sentiment": "watch",
-    "excerpt": "A $TSM Spokesperson has reportedly denied exploring 3D DRAM per Tom's Hardware. \n\nAfter a report yesterday from The Information stated TSMC's production plans were from $NVDA's request. \n\nThe implications would have put TSMC in competition ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2119097842363211968",
-    "ticker": "TSM",
     "topics": []
   },
   {

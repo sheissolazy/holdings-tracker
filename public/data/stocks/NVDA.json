@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 173.73,
-  "change5dPct": -15.9,
-  "changeYtdPct": -21.3,
-  "marketCap": "$4.19T",
-  "pe": 21.1,
+  "price": 166.19,
+  "change5dPct": -17.0,
+  "changeYtdPct": -26.4,
+  "marketCap": "$4.01T",
+  "pe": 21.7,
   "revenue": "—",
   "revenueYoYPct": 83,
   "prices": [
-    {
-      "t": "2026-05-12",
-      "o": 218.55,
-      "h": 223.75,
-      "l": 214.92,
-      "c": 220.78
-    },
     {
       "t": "2026-05-13",
       "o": 224.93,
@@ -899,132 +892,139 @@
       "h": 174.69,
       "l": 165.89,
       "c": 168.89
+    },
+    {
+      "t": "2026-11-11",
+      "o": 172.8,
+      "h": 177.54,
+      "l": 170.77,
+      "c": 173.73
     }
   ],
   "thesis": {
     "bull": [
-      "AI算力需求依然强劲，CoreWeave等云服务商资本支出及三季度业绩超预期，带动英伟达为首的AI产业链情绪明显回暖，纳斯达克随之反弹",
-      "部分知情资金仍逢低布局，佩洛西在2026年1月的国会交易披露中新增对NVDA的多头仓位，显示即便在管理层风波期间仍有机构或政治人物选择买入",
-      "供应链扩张预期支撑中长期营收空间，台积电先进封装与存力产能持续扩张，叠加台湾科技股联动大涨，反映市场对NVDA下一代Blackwell及后续平台放量仍抱期待"
+      "英伟达在AI芯片市场仍占据绝对主导地位，CUDA生态与客户锁定效应短期内难以被AMD、博通等对手撼动，核心硬件业务基本面并未因管理层变动而立即受损",
+      "微软、Cisco、Cerebras等产业链公司近期财报均指向AI基础设施资本开支与收入仍在加速，侧面支撑英伟达订单可见度与供应链地位",
+      "市场对创始人兼CEO离任的恐慌情绪可能被过度定价，若董事会能完成平稳的管理层交接并维持原有战略方向，股价短期剧烈波动后仍存在估值修复空间"
     ],
     "bear": [
-      "CEO黄仁勋深陷第二起婚外情指控，媒体密集爆料叠加董事会据报考虑是否撤换其职务，公司治理不确定性骤增，相关消息传出后股价单日重挫约25%，市值蒸发近2万亿美元级别",
-      "同一跟踪者的历史记录显示其在2025年12月末及2024年12月末均有减持或退出动作，说明即便长期看多的资金也会在高位或消息面转差时获利了结，并非单边加仓",
-      "AI硬件供应链叙事出现分歧与噪音，例如台积电被曝为NVDA需求筹划3D DRAM产能的报道遭官方否认，叠加Marvell收购Lumentum、美光存储股价剧烈波动，显示产业链各环节消息真伪不一、情绪敏感度极高"
+      "创始人兼CEO黄仁勋突然辞职，管理学专家指出公司组织架构「并非为没有黄仁勋而建」，管理真空可能削弱战略执行力、产品路线图连续性与客户信心",
+      "单日市值蒸发约4900亿美元，股价重挫约25%，叠加黄仁勋个人丑闻、白宫内部讨论是否连带问责商务部长Lutnick在对华出口管制上的处理方式，公司治理与政治监管风险同时上升",
+      "知名空头Michael Burry加码做空纳斯达克100指数与半导体板块，多家机构下调英伟达公允价值，反映市场对AI硬件需求可持续性与估值泡沫的担忧正在从边缘声音扩散为主流分歧"
     ],
     "watch": [
-      "董事会关于黄仁勋去留的最终决定及后续治理安排，包括是否出现新的继任人选讨论，这将直接影响市场对公司战略连续性的信心",
-      "后续财报季与主要云厂商（如CoreWeave等）资本支出指引是否延续本周的乐观基调，以及蚂蚁集团等大型IPO对整体科技股估值情绪的外溢影响",
-      "围绕黄仁勋丑闻的舆论发酵节奏，包括社交媒体上支持与质疑声音的此消彼长，及是否有更多爆料或监管/媒体调查进一步升级"
+      "下一任CEO人选悬而未决，预测市场与媒体猜测人选从Tim Cook到Eric Schmidt不等，董事会后续治理安排与接班方案将是决定公司战略方向和市场信心的关键变量",
+      "对华芯片出口管制政策走向及「美国情报部门介入此次高管变动」的传闻真实性有待验证，这将直接影响英伟达在中国市场的收入敞口与地缘政治风险定价",
+      "国会议员关联方（如佩洛西）近期披露的期权与股票交易显示新建仓与减持动作并存，反映相关方对短期走势看法分歧，需持续关注后续国会交易披露与机构持仓变化"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达是全球领先的图形处理器与AI加速计算芯片供应商，其GPU产品在数据中心训练与推理市场占据主导地位，并通过CUDA软件生态构筑较深的护城河。公司近年营收高度依赖AI基础设施建设周期，云服务商与大型科技公司的资本支出是核心驱动力，同时也使其业绩与股价对该群体支出节奏的变化高度敏感。"
+        "body": "英伟达（NVDA）是全球领先的图形处理器与AI加速计算芯片供应商，凭借CUDA软件生态与数据中心GPU产品线，在生成式AI训练与推理硬件市场建立了显著的领先地位，是过去两年AI资本开支周期的核心受益者之一"
       },
       {
-        "heading": "近期动态：管理层风波",
-        "body": "近期市场焦点从基本面转向公司治理。多家媒体报道称CEO黄仁勋被曝涉及第二起婚外情指控，相关爆料密集出现，随后又有报道称董事会在考虑是否将其撤换。消息面冲击下，NVDA股价出现单日约25%的大幅下跌，市值蒸发接近2万亿美元级别，同时波及AMD等相关AI概念股。截至目前，撤换一事尚未有官方确认结果，仍处于传闻与报道阶段。"
+        "heading": "近期重大事件",
+        "body": "2026年11月，创始人兼CEO黄仁勋宣布辞职，引发市场剧烈反应，股价单日下跌约25%，市值蒸发约4900亿美元。消息伴随其个人丑闻传闻、对华出口管制处理方式受到的政治问责讨论，以及关于谁将接任CEO的广泛猜测，目前市场情绪高度不确定"
       },
       {
-        "heading": "增长动能与AI产业链联动",
-        "body": "在管理层风波之外，AI硬件产业链基本面出现局部回暖信号。CoreWeave等云基建公司财报表现强劲，带动纳斯达克及AI相关个股反弹，市场对AI资本开支持续性的担忧有所缓解。台湾科技股同步出现历史级别的单日大涨，显示亚洲供应链对NVDA相关需求预期仍较为敏感和积极。与此同时，Marvell以大型并购补强AI光学互联能力，美光存储价格波动剧烈，均反映整条AI硬件供应链仍处于高波动、高敏感状态。"
+        "heading": "基本面与业务展望",
+        "body": "从产业链角度看，微软、Cisco、Cerebras等公司近期披露的AI基础设施需求和资本开支仍在扩张，显示终端客户对AI算力的采购意愿尚未因英伟达管理层变动而明显动摇，但长期来看，公司路线图执行、供应链管理与大客户关系能否延续此前高速增长节奏，取决于新管理层的能力与过渡的平稳程度"
       },
       {
-        "heading": "多空分歧",
-        "body": "多头逻辑集中在AI算力长期需求确定性、生态护城河以及部分资金逆势加仓的信号；空头逻辑则聚焦于管理层治理风险的突发性与不可预测性，以及供应链消息真伪混杂带来的叙事脆弱性。两种逻辑的核心分歧点在于：治理风波究竟是短期情绪冲击还是会实质影响公司战略执行与客户信任，这一点目前尚无定论。"
+        "heading": "估值与分析师观点",
+        "body": "分析师群体对英伟达公允价值出现明显分化，部分机构在CEO离任后下调目标价，反映对治理风险与增长可持续性的担忧；与此同时，知名空头Michael Burry加码做空半导体板块与纳斯达克100指数，而另一部分市场参与者认为抛售反应过度，核心AI硬件需求基本面未变，估值分歧短期内预计将持续存在"
       },
       {
-        "heading": "跟踪者与资金动向",
-        "body": "公开披露的交易记录显示，佩洛西在2026年1月申报的文件中包含对NVDA的新增多头仓位（交易日2026年1月16日及2025年12月30日），但同一批文件中也包含一笔2025年12月24日的减持/退出记录；对比2025年1月披露的文件，2024年同期也呈现出先新增后小幅减持再新增的交替模式。整体看，该跟踪者对NVDA的操作并非单纯持续加仓，而是在高位附近伴随一定的仓位调整，反映即便是长期看多者也会阶段性锁定部分收益或控制风险敞口。社交媒体上围绕管理层丑闻的讨论热度很高，情绪标签以观察为主，既有为黄仁勋辩护的声音，也有对丑闻持续曝光感到不安的声音，尚未形成一致方向。"
+        "heading": "政策与地缘政治风险",
+        "body": "市场流传美国情报部门可能与此次CEO变动有关的猜测，以及白宫内部讨论是否连带问责商务部长在对华出口管制政策上的处理方式，显示英伟达正处于美中科技竞争与出口管制政策的焦点位置，相关政策走向仍是影响其中国收入敞口与估值的重要不确定因素"
       },
       {
-        "heading": "估值与同业比较",
-        "body": "在当前治理不确定性尚未消除的背景下，NVDA与同业的比较更多体现为AI硬件产业链各环节的风险收益特征差异：代工与封装环节（如台积电）承担需求传导与产能扩张的双重角色；竞争对手（如AMD）在生态与份额上仍有差距但波动性相对较低；上下游配套环节（光学互联、存储）则因自身并购与价格周期呈现独立于NVDA治理风波的高波动行情。整体而言，NVDA的短期估值叙事更多受治理事件扰动，而中长期估值仍锚定于AI资本开支周期的持续性。"
+        "heading": "跟踪者与市场情绪",
+        "body": "国会议员关联方（如佩洛西）近期披露的期权交易显示新建仓与平仓动作并存，反映相关方对短期走势存在分歧看法；社交媒体与公众讨论则围绕黄仁勋是否「不可替代」、董事会人员背景是否匹配半导体行业治理需求等话题展开，整体情绪偏向谨慎与观望，而非一致乐观或悲观"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
-        "name": "超威半导体",
-        "note": "GPU与AI加速卡领域的主要竞争对手，生态与市场份额仍落后于NVDA，但受益于同一波AI硬件需求，股价与NVDA消息面存在联动"
+        "name": "Advanced Micro Devices",
+        "note": "英伟达在GPU与数据中心加速计算市场最主要的直接竞争对手，若英伟达因管理层动荡出现执行力下滑，AMD可能是份额转移的潜在受益者"
       },
       {
-        "ticker": "TSM",
-        "name": "台湾积体电路制造",
-        "note": "NVDA先进芯片代工核心供应商，关于为NVDA筹划3D DRAM产能的报道曾引发关注但遭官方否认，是观察NVDA供应链真实需求的重要窗口"
+        "ticker": "AVGO",
+        "name": "Broadcom Inc",
+        "note": "在定制AI芯片（ASIC）与网络互联领域与英伟达形成竞争和互补关系，是云厂商自研AI芯片趋势下的关键受益标的"
       },
       {
-        "ticker": "MRVL",
-        "name": "美满电子科技",
-        "note": "近期以大型并购收购Lumentum强化AI光学互联能力，在AI基础设施中游与NVDA形成生态互补及局部竞争关系"
+        "ticker": "INTC",
+        "name": "Intel Corporation",
+        "note": "传统芯片巨头，正在数据中心与AI加速器领域寻求重新定位，可作为观察行业格局是否因英伟达变动而重塑的参照"
       },
       {
-        "ticker": "MU",
-        "name": "美光科技",
-        "note": "HBM等AI相关存储核心供应商，近期股价大幅波动，反映市场对AI硬件供应链情绪的高敏感度及分歧"
+        "ticker": "AAPL",
+        "name": "Apple Inc",
+        "note": "因市场猜测其CEO Tim Cook为英伟达接任人选之一而被提及，也是比较「创始人式领导」对科技公司估值影响的参照对象"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-12T02:10:39.494207Z"
+    "generatedAt": "2026-11-13T01:44:04.435988Z"
   },
   "news": [
     {
-      "id": "NVDA-143742624",
-      "title": "Nvidia Directors Reportedly Consider Ousting CEO Jensen Huang, WSJ Reports",
+      "id": "NVDA-143776878",
+      "title": "Nvidia Stock Shock Puts These AI Infrastructure Chip Shares In Focus",
       "source": "Yahoo",
-      "publishedAt": "2026-11-11",
-      "url": "https://finnhub.io/api/news?id=1e793578e568123606a1dba9e23dcb0b7bd1782b4c32c2fe5131b9884b13917d",
+      "publishedAt": "2026-11-13",
+      "url": "https://finnhub.io/api/news?id=f22d663d31eb1752b449e842f7f4a04630a5df1f38e72cd93692f2e91fd79467",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143742625",
-      "title": "Nvidia sinks after report implicates CEO Jensen Huang in 2nd affair",
+      "id": "NVDA-143776879",
+      "title": "Who Will Replace Jensen Huang? Here's What Prediction Markets Think.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-11",
-      "url": "https://finnhub.io/api/news?id=662fac808e5b9135fda0044b0cb23b925a9a75eea16b7433eb00a6b66f7dda91",
+      "publishedAt": "2026-11-13",
+      "url": "https://finnhub.io/api/news?id=c9cba0dd2c74bb8fd1978ceb12b272e67ddd40a1595b045aef3a1f635da320e5",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143741265",
-      "title": "Nvidia's stock dives as board weighs move to oust Jensen Huang",
+      "id": "NVDA-143776155",
+      "title": "S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s Exit, Oil Price Pressure  —  CRWV, CBRS, NVDA, TSLA In Focus",
       "source": "Yahoo",
-      "publishedAt": "2026-11-11",
-      "url": "https://finnhub.io/api/news?id=2411578ee09832557fc1387c6f2181677be979b7b64e1ced2e6a1e0e00fa567c",
+      "publishedAt": "2026-11-13",
+      "url": "https://finnhub.io/api/news?id=383ecf6f897beec4320ed48bd9da1a155c4211611ff169f0435fe4be0923459c",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143742630",
-      "title": "If You Invest $1,200 a year in Kroger Stock, Here's the Dividend Income It Could Generate Over 20 Years",
+      "id": "NVDA-143776881",
+      "title": "SemiAnalysis speculates U.S. intelligence played role in Nvidia CEO exit",
       "source": "Yahoo",
-      "publishedAt": "2026-11-11",
-      "url": "https://finnhub.io/api/news?id=8278acfb7180b4bd75b2f75074a34a2caa3a59816ecf4221a566ccca783dac46",
+      "publishedAt": "2026-11-13",
+      "url": "https://finnhub.io/api/news?id=d5c9cae3a024ea7f69234b49060cae0c140f0a767da8102359e477a670110381",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143742626",
-      "title": "The unfolding Jensen Huang scandal: a timeline",
+      "id": "NVDA-143776889",
+      "title": "3 Canadian AI Stocks With Up To 5x P S",
       "source": "Yahoo",
-      "publishedAt": "2026-11-11",
-      "url": "https://finnhub.io/api/news?id=269d9f8cce746944827935452cabd408d5677612b7d897e955312367b75bb49e",
+      "publishedAt": "2026-11-13",
+      "url": "https://finnhub.io/api/news?id=69385fe0ca798161584507d47a6be1079646aabd029b07d4ea6d9c9a5dcbed68",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143741266",
-      "title": "Dow Jones Futures: Techs Tumble Late As Nvidia May Oust CEO Huang; AI Stocks Slide, But Not AMD",
+      "id": "NVDA-143776882",
+      "title": "Nvidia (NVDA) Stock Gets Fair Value Trim As Analyst Views Turn More Divided",
       "source": "Yahoo",
-      "publishedAt": "2026-11-11",
-      "url": "https://finnhub.io/api/news?id=999ed9adfd53008a0f30252393df8c949ff7c3ca3fdfad8c9128ced5564281b0",
+      "publishedAt": "2026-11-13",
+      "url": "https://finnhub.io/api/news?id=c0aeae8ccf1b4145aac3467e8297fedbb616e8dd243cdb84cb8a825f877d10a4",
       "tags": [
         "NVDA"
       ]

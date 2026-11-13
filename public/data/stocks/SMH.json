@@ -3,21 +3,14 @@
   "name": "VanEck Semiconductor ETF",
   "exchange": "NASDAQ",
   "sector": "半导体 ETF",
-  "price": 506.96,
-  "change5dPct": -2.2,
-  "changeYtdPct": -9.7,
+  "price": 501.73,
+  "change5dPct": -0.5,
+  "changeYtdPct": -12.4,
   "marketCap": "—",
   "pe": null,
   "revenue": "—",
   "revenueYoYPct": null,
   "prices": [
-    {
-      "t": "2026-05-12",
-      "o": 565.01,
-      "h": 570.4,
-      "l": 542.67,
-      "c": 561.25
-    },
     {
       "t": "2026-05-13",
       "o": 571.8,
@@ -899,132 +892,82 @@
       "h": 492.74,
       "l": 474.03,
       "c": 483.63
+    },
+    {
+      "t": "2026-11-11",
+      "o": 504.99,
+      "h": 516.65,
+      "l": 496.01,
+      "c": 506.96
     }
   ],
   "thesis": {
-    "bull": [
-      "AI算力需求持续强劲，CoreWeave等云端AI厂商财报超预期带动英伟达、AMD、美光等AI芯片链条股集体反弹，显示终端资本开支并未明显放缓",
-      "半导体并购整合加速，Marvell以约800亿美元收购Lumentum，反映AI光学互联与高速连接需求旺盛，相关细分赛道估值获得支撑",
-      "散户资金持续通过ETF等渠道增配半导体与AI主题资产，而部分对冲基金转为低配，若情绪切换可能带来增量买盘"
-    ],
-    "bear": [
-      "英伟达治理风险骤增，媒体报道其董事会讨论是否罢免CEO黄仁勋，叠加个人丑闻传闻，若属实将对公司战略连续性与市场信心造成重大冲击，而英伟达是SMH权重最大的成分股，波动将直接传导至ETF净值",
-      "AI硬件股近期波动剧烈（如美光单周重挫30%），显示市场对AI资本支出可持续性与库存周期存在分歧，情绪一旦逆转可能引发板块系统性抛售",
-      "SMH成分股高度集中于少数AI相关大盘股，单一公司（尤其龙头）的负面事件会被放大，分散化不足使ETF整体风险敞口偏高"
-    ],
-    "watch": [
-      "英伟达治理事件的后续进展，包括董事会决议、黄仁勋去留及其对公司订单与客户关系的潜在影响",
-      "Marvell收购Lumentum交易的监管审批进度与整合细节，以及其对光模块、AI互联赛道估值的外溢效应",
-      "后续财报季中云服务商（如CoreWeave等）资本开支指引是否维持强劲，这将是判断AI硬件需求能否持续的关键先行指标"
-    ],
-    "sections": [
-      {
-        "heading": "公司概览",
-        "body": "VanEck Semiconductor ETF（SMH）是一只跟踪全球半导体行业的交易所交易基金，持仓集中于设计、制造与设备环节的龙头企业，包括英伟达、台积电、博通、AMD、阿斯麦等，权重分布向少数超大市值AI相关芯片公司倾斜，因此该ETF的走势在很大程度上与AI算力叙事及头部公司的个股事件高度相关"
-      },
-      {
-        "heading": "近期动态解读",
-        "body": "近期市场最大的扰动来自英伟达治理层面的传闻，多家媒体报道其董事会正在讨论是否因个人丑闻及信誉问题罢免CEO黄仁勋，消息导致英伟达及相关AI芯片股在周内出现明显抛压，但同期CoreWeave公布强于预期的财报并带动AMD、美光、Nebius等股大幅反弹，显示市场对AI需求本身仍有支撑，波动更多来自公司治理与情绪层面而非需求基本面"
-      },
-      {
-        "heading": "行业结构与资金流向",
-        "body": "Marvell以约800亿美元收购Lumentum的交易，以及光模块、AI互联相关股票（如Lumentum）近期的强势表现，反映半导体产业链正围绕AI数据中心的光学与高速互联需求进行整合与重估；同时有报道指出散户通过ETF等被动工具持续加仓AI相关资产，而部分对冲基金转为低配，资金结构上存在多空力量的再平衡"
-      },
-      {
-        "heading": "估值与分歧",
-        "body": "美光股价曾单周下跌约30%，随后有卖方机构看多其未来涨幅空间，说明市场对存储及AI硬件板块的估值判断存在较大分歧；类似地，苹果等权重股估值是否偏高的讨论也反映出市场对2027年AI硬件周期能否持续存在不同看法，SMH作为集中度较高的行业ETF，其整体估值将直接受到这类分歧情绪的影响"
-      },
-      {
-        "heading": "风险因素",
-        "body": "主要风险包括：一是英伟达治理与管理层变动的不确定性，若最终导致战略或执行层面的中断，可能通过权重传导显著拖累ETF表现；二是AI资本支出周期是否持续超预期存在不确定性，一旦云厂商指引转弱，板块估值回调风险较大；三是地缘政治及中东局势等宏观风险事件（如沙特拦截导弹、伊朗相关表态）可能通过市场整体风险偏好间接影响半导体板块估值"
-      },
-      {
-        "heading": "需关注的催化剂",
-        "body": "短期需关注英伟达治理事件的最终结果及其对订单与客户信心的影响、Marvell与Lumentum交易的监管进展、以及后续云服务商资本开支指引是否维持强劲；中长期则需观察AI硬件需求能否从云端资本开支延伸至更广泛的企业端采用，以验证当前板块估值的可持续性"
-      }
-    ],
-    "comparables": [
-      {
-        "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "SMH第一大权重股，当前面临CEO黄仁勋去留的治理传闻，波动直接影响ETF净值"
-      },
-      {
-        "ticker": "AMD",
-        "name": "美国超微半导体",
-        "note": "AI芯片主要竞争者之一，受益于近期云厂商资本开支超预期带动的板块反弹"
-      },
-      {
-        "ticker": "MU",
-        "name": "美光科技",
-        "note": "存储芯片龙头，近期股价单周大跌约30%后获部分机构看多，反映估值分歧"
-      },
-      {
-        "ticker": "MRVL",
-        "name": "迈威尔科技",
-        "note": "近期宣布约800亿美元收购Lumentum，强化AI光学互联布局，为SMH成分股之一"
-      }
-    ],
-    "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-12T02:14:10.823489Z"
+    "bull": [],
+    "bear": [],
+    "watch": [],
+    "sections": [],
+    "comparables": [],
+    "model": "（分析暂不可用）",
+    "generatedAt": null,
+    "unavailable": true
   },
   "news": [
     {
-      "id": "SMH-143731980",
-      "title": "CoreWeave Earnings Trigger AI Revival on Wall Street; Asia, Europe Up",
+      "id": "SMH-143774205",
+      "title": "Michael Burry Doubles Down On Nasdaq 100 Puts, Adds To Semiconductor Shorts As Nvidia Faces Scrutiny",
       "source": "Yahoo",
-      "publishedAt": "2026-11-11",
-      "url": "https://finnhub.io/api/news?id=a721fd8614bae2ab2313d0ad8bf89033bf416d98c00fe373f1c1776573f86482",
+      "publishedAt": "2026-11-12",
+      "url": "https://finnhub.io/api/news?id=2a23d00328472aa9de06e890184049fbbc6a679c87eba157f1d878b454db5fcc",
       "tags": [
         "SMH"
       ]
     },
     {
-      "id": "SMH-143735331",
-      "title": "3 Stocks I'm Buying As The Huang Scandal Unfolds",
+      "id": "SMH-143773483",
+      "title": "Discerning The AI Industrial Buildout Through An Energy Lens",
       "source": "SeekingAlpha",
-      "publishedAt": "2026-11-11",
-      "url": "https://finnhub.io/api/news?id=70a2d34fc4d7ffe5d217f8693a346464efb5ba5b5b759342db24f3f02dae10d9",
+      "publishedAt": "2026-11-12",
+      "url": "https://finnhub.io/api/news?id=4428d87e2689063e59dd40e84d7e84e23ed2b84f60632e3fce537388991ddeab",
       "tags": [
         "SMH"
       ]
     },
     {
-      "id": "SMH-143734303",
-      "title": "Retail Pours Billions Into ETFs As Hedge Funds Go Underweight AI",
-      "source": "Benzinga",
-      "publishedAt": "2026-11-11",
-      "url": "https://finnhub.io/api/news?id=0e7e3a9fd3675c65872eaf625fd739cd9fbaf9d96ffad2123ad8cec4541f03a0",
-      "tags": [
-        "SMH"
-      ]
-    },
-    {
-      "id": "SMH-143746770",
-      "title": "What the Nvidia Debacle Means for ETFs",
+      "id": "SMH-143775385",
+      "title": "Nvidia's CEO Exit Sends Shockwaves Across ETF Markets",
       "source": "Yahoo",
-      "publishedAt": "2026-11-11",
-      "url": "https://finnhub.io/api/news?id=019e4d6dec9072b48a2c0700d893e58f880dadc841b6fe29b71c8601264e4fc3",
+      "publishedAt": "2026-11-12",
+      "url": "https://finnhub.io/api/news?id=1d3e0c1b868a7185d7b616cc5d2fb7525eb682d60468a856b061b526aa9f76e7",
       "tags": [
         "SMH"
       ]
     },
     {
-      "id": "SMH-143710730",
-      "title": "AI In 2027: 20 Questions For The Global Economy",
-      "source": "SeekingAlpha",
-      "publishedAt": "2026-11-11",
-      "url": "https://finnhub.io/api/news?id=8a5480e954805b2076cffdbc48627ab2955bd58914fe433081d713009fd60b84",
+      "id": "SMH-143774853",
+      "title": "Jensen Huang Is Out. Here’s How Much Nvidia’s Selloff Cost a $10,000 QQQ Position",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-12",
+      "url": "https://finnhub.io/api/news?id=f432323ecc5f07db6436bc850e7163f25d7f61a4a2ed4fc5507468cb89122e51",
       "tags": [
         "SMH"
       ]
     },
     {
-      "id": "SMH-143736142",
-      "title": "$100 Invested In VanEck Semiconductor ETF 5 Years Ago Would Be Worth This Much Today",
-      "source": "Benzinga",
-      "publishedAt": "2026-11-10",
-      "url": "https://finnhub.io/api/news?id=4f8f09dbe0cf4dc0c5bffa90c2c7b5cad49cd6d515c1f772380cf07cbb81a469",
+      "id": "SMH-143765129",
+      "title": "Nvidia Turmoil Pressures Wall Street Pre-Bell; Asia Off, Europe Up",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-12",
+      "url": "https://finnhub.io/api/news?id=4e3bff26dedf08bf82f239db9a4854a27330257fa13fe56f95410cdd37688fd8",
+      "tags": [
+        "SMH"
+      ]
+    },
+    {
+      "id": "SMH-143764934",
+      "title": "Semiconductor ETFs to Buy as Qualcomm Plunges Despite Q4 Earnings Beat",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-12",
+      "url": "https://finnhub.io/api/news?id=3967cb2dad9b9fb260365798a9bda484ae8c78ea4a9118f976cfccfe8d621d1b",
       "tags": [
         "SMH"
       ]

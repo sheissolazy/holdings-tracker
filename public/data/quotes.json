@@ -1,224 +1,164 @@
 {
-  "AAOI": {
-    "price": 55.86,
-    "prevClose": 59.27,
-    "chgPct": -5.75,
-    "asOf": "2026-11-12"
-  },
   "AAPL": {
-    "price": 355.63,
-    "prevClose": 349.51,
-    "chgPct": 1.75,
-    "asOf": "2026-11-12"
+    "price": 354.88,
+    "prevClose": 344.17,
+    "chgPct": 3.11,
+    "asOf": "2026-11-13"
   },
   "AB": {
-    "price": 33.88,
-    "prevClose": 35.3,
-    "chgPct": -4.02,
-    "asOf": "2026-11-12"
+    "price": 33.6,
+    "prevClose": 34.9,
+    "chgPct": -3.72,
+    "asOf": "2026-11-13"
   },
   "AMBA": {
-    "price": 62.49,
-    "prevClose": 60.92,
-    "chgPct": 2.58,
-    "asOf": "2026-11-12"
+    "price": 61.06,
+    "prevClose": 55.17,
+    "chgPct": 10.68,
+    "asOf": "2026-11-13"
   },
   "AMD": {
-    "price": 552.9,
-    "prevClose": 488.78,
-    "chgPct": 13.12,
-    "asOf": "2026-11-12"
+    "price": 585.3,
+    "prevClose": 404.4,
+    "chgPct": 44.73,
+    "asOf": "2026-11-13"
   },
   "AMZN": {
-    "price": 266.17,
-    "prevClose": 266.03,
-    "chgPct": 0.05,
-    "asOf": "2026-11-12"
-  },
-  "APLD": {
-    "price": 17.91,
-    "prevClose": 16.61,
-    "chgPct": 7.83,
-    "asOf": "2026-11-12"
-  },
-  "ARM": {
-    "price": 203.36,
-    "prevClose": 191.8,
-    "chgPct": 6.03,
-    "asOf": "2026-11-12"
+    "price": 267.44,
+    "prevClose": 260.21,
+    "chgPct": 2.78,
+    "asOf": "2026-11-13"
   },
   "AVGO": {
-    "price": 345.22,
-    "prevClose": 325.48,
-    "chgPct": 6.06,
-    "asOf": "2026-11-12"
+    "price": 364.36,
+    "prevClose": 291.53,
+    "chgPct": 24.98,
+    "asOf": "2026-11-13"
   },
   "BE": {
-    "price": 209.47,
-    "prevClose": 200.4,
-    "chgPct": 4.53,
-    "asOf": "2026-11-12"
-  },
-  "COHR": {
-    "price": 234.51,
-    "prevClose": 195.09,
-    "chgPct": 20.21,
-    "asOf": "2026-11-12"
+    "price": 201.93,
+    "prevClose": 167.52,
+    "chgPct": 20.54,
+    "asOf": "2026-11-13"
   },
   "CRWV": {
-    "price": 60.77,
-    "prevClose": 48.42,
-    "chgPct": 25.51,
-    "asOf": "2026-11-12"
+    "price": 56.6,
+    "prevClose": 43.66,
+    "chgPct": 29.64,
+    "asOf": "2026-11-13"
   },
   "DIS": {
-    "price": 119.65,
-    "prevClose": 118.95,
-    "chgPct": 0.59,
-    "asOf": "2026-11-12"
-  },
-  "FLY": {
-    "price": 26.61,
-    "prevClose": 17.16,
-    "chgPct": 55.07,
-    "asOf": "2026-11-12"
+    "price": 118.23,
+    "prevClose": 117.22,
+    "chgPct": 0.86,
+    "asOf": "2026-11-13"
   },
   "GE": {
-    "price": 342.75,
-    "prevClose": 329.45,
-    "chgPct": 4.04,
-    "asOf": "2026-11-12"
+    "price": 330.86,
+    "prevClose": 314.73,
+    "chgPct": 5.13,
+    "asOf": "2026-11-13"
   },
   "GOOGL": {
-    "price": 293.45,
-    "prevClose": 288.93,
-    "chgPct": 1.56,
-    "asOf": "2026-11-12"
+    "price": 298.7,
+    "prevClose": 282.57,
+    "chgPct": 5.71,
+    "asOf": "2026-11-13"
+  },
+  "IBM": {
+    "price": 244.67,
+    "prevClose": 247.11,
+    "chgPct": -0.99,
+    "asOf": "2026-11-13"
   },
   "INTC": {
-    "price": 62.5,
-    "prevClose": 58.27,
-    "chgPct": 7.26,
-    "asOf": "2026-11-12"
-  },
-  "IREN": {
-    "price": 20.84,
-    "prevClose": 21.71,
-    "chgPct": -4.01,
-    "asOf": "2026-11-12"
-  },
-  "LITE": {
-    "price": 648.06,
-    "prevClose": 626.75,
-    "chgPct": 3.4,
-    "asOf": "2026-11-12"
-  },
-  "LMT": {
-    "price": 610.05,
-    "prevClose": 595.04,
-    "chgPct": 2.52,
-    "asOf": "2026-11-12"
-  },
-  "LUNR": {
-    "price": 12.18,
-    "prevClose": 9.93,
-    "chgPct": 22.66,
-    "asOf": "2026-11-12"
+    "price": 61.2,
+    "prevClose": 52.25,
+    "chgPct": 17.13,
+    "asOf": "2026-11-13"
   },
   "MRVL": {
-    "price": 168.8,
-    "prevClose": 159.8,
-    "chgPct": 5.63,
-    "asOf": "2026-11-12"
+    "price": 164.45,
+    "prevClose": 133.55,
+    "chgPct": 23.14,
+    "asOf": "2026-11-13"
   },
-  "MU": {
-    "price": 811.3,
-    "prevClose": 795.23,
-    "chgPct": 2.02,
-    "asOf": "2026-11-12"
+  "MSFT": {
+    "price": 523.0,
+    "prevClose": 535.93,
+    "chgPct": -2.41,
+    "asOf": "2026-11-13"
   },
   "NBIS": {
-    "price": 154.69,
-    "prevClose": 141.52,
-    "chgPct": 9.31,
-    "asOf": "2026-11-12"
-  },
-  "NOC": {
-    "price": 550.96,
-    "prevClose": 525.35,
-    "chgPct": 4.87,
-    "asOf": "2026-11-12"
+    "price": 128.64,
+    "prevClose": 120.37,
+    "chgPct": 6.87,
+    "asOf": "2026-11-13"
   },
   "NVDA": {
-    "price": 173.73,
-    "prevClose": 200.13,
-    "chgPct": -13.19,
-    "asOf": "2026-11-12"
+    "price": 166.19,
+    "prevClose": 181.6,
+    "chgPct": -8.49,
+    "asOf": "2026-11-13"
   },
   "PANW": {
-    "price": 334.47,
-    "prevClose": 348.04,
-    "chgPct": -3.9,
-    "asOf": "2026-11-12"
-  },
-  "POET": {
-    "price": 5.59,
-    "prevClose": 4.88,
-    "chgPct": 14.55,
-    "asOf": "2026-11-12"
+    "price": 322.66,
+    "prevClose": 314.67,
+    "chgPct": 2.54,
+    "asOf": "2026-11-13"
   },
   "PYPL": {
-    "price": 59.48,
-    "prevClose": 60.2,
-    "chgPct": -1.2,
-    "asOf": "2026-11-12"
+    "price": 58.3,
+    "prevClose": 58.96,
+    "chgPct": -1.12,
+    "asOf": "2026-11-13"
   },
   "SMTC": {
-    "price": 125.22,
-    "prevClose": 110.96,
-    "chgPct": 12.85,
-    "asOf": "2026-11-12"
+    "price": 119.44,
+    "prevClose": 91.54,
+    "chgPct": 30.48,
+    "asOf": "2026-11-13"
   },
   "SPCX": {
-    "price": 139.75,
-    "prevClose": 135.92,
-    "chgPct": 2.82,
-    "asOf": "2026-11-12"
+    "price": 139.94,
+    "prevClose": 123.62,
+    "chgPct": 13.2,
+    "asOf": "2026-11-13"
   },
   "TEM": {
-    "price": 79.43,
-    "prevClose": 75.61,
-    "chgPct": 5.05,
-    "asOf": "2026-11-12"
+    "price": 75.89,
+    "prevClose": 70.43,
+    "chgPct": 7.75,
+    "asOf": "2026-11-13"
   },
   "TSLA": {
-    "price": 390.84,
-    "prevClose": 385.19,
-    "chgPct": 1.47,
-    "asOf": "2026-11-12"
+    "price": 397.45,
+    "prevClose": 343.69,
+    "chgPct": 15.64,
+    "asOf": "2026-11-13"
   },
   "TSM": {
-    "price": 413.35,
-    "prevClose": 395.75,
-    "chgPct": 4.45,
-    "asOf": "2026-11-12"
+    "price": 405.49,
+    "prevClose": 353.1,
+    "chgPct": 14.84,
+    "asOf": "2026-11-13"
   },
   "UBER": {
-    "price": 70.68,
-    "prevClose": 69.87,
-    "chgPct": 1.16,
-    "asOf": "2026-11-12"
+    "price": 69.12,
+    "prevClose": 68.78,
+    "chgPct": 0.49,
+    "asOf": "2026-11-13"
   },
   "VST": {
-    "price": 133.45,
-    "prevClose": 120.29,
-    "chgPct": 10.94,
-    "asOf": "2026-11-12"
+    "price": 134.51,
+    "prevClose": 112.89,
+    "chgPct": 19.15,
+    "asOf": "2026-11-13"
   },
   "WBD": {
     "price": 30.95,
     "prevClose": 30.95,
     "chgPct": 0.0,
-    "asOf": "2026-11-12"
+    "asOf": "2026-11-13"
   }
 }
