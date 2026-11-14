@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 166.19,
-  "change5dPct": -17.0,
-  "changeYtdPct": -26.4,
-  "marketCap": "$4.01T",
-  "pe": 21.7,
+  "price": 162.85,
+  "change5dPct": -10.3,
+  "changeYtdPct": -30.9,
+  "marketCap": "$3.92T",
+  "pe": 20.8,
   "revenue": "—",
   "revenueYoYPct": 83,
   "prices": [
-    {
-      "t": "2026-05-13",
-      "o": 224.93,
-      "h": 227.84,
-      "l": 221.57,
-      "c": 225.83
-    },
     {
       "t": "2026-05-14",
       "o": 229.85,
@@ -899,132 +892,152 @@
       "h": 177.54,
       "l": 170.77,
       "c": 173.73
+    },
+    {
+      "t": "2026-11-12",
+      "o": 151.01,
+      "h": 167.14,
+      "l": 148.8,
+      "c": 166.19
     }
   ],
   "thesis": {
     "bull": [
-      "英伟达在AI芯片市场仍占据绝对主导地位，CUDA生态与客户锁定效应短期内难以被AMD、博通等对手撼动，核心硬件业务基本面并未因管理层变动而立即受损",
-      "微软、Cisco、Cerebras等产业链公司近期财报均指向AI基础设施资本开支与收入仍在加速，侧面支撑英伟达订单可见度与供应链地位",
-      "市场对创始人兼CEO离任的恐慌情绪可能被过度定价，若董事会能完成平稳的管理层交接并维持原有战略方向，股价短期剧烈波动后仍存在估值修复空间"
+      {
+        "point": "黄仁勋辞任CEO后，市场传言埃隆·马斯克等外部力量可能推动其以某种方式重返管理层，若成真可能部分扭转情绪冲击，且英伟达在数据中心GPU的市场份额与CUDA生态壁垒短期内未发生改变"
+      },
+      {
+        "point": "尽管出现管理层动荡，中国AI企业据报道仍在加紧锁定英伟达芯片产能，显示即便存在出口管制不确定性，终端需求依然强劲，核心业务基本面尚未被证实恶化"
+      },
+      {
+        "point": "员工内部投票与大规模民调显示绝大多数支持黄仁勋留任，说明公司内部文化与执行团队凝聚力仍较稳固，继任若由熟悉公司运营的内部人选主导，业务连续性风险可控"
+      }
     ],
     "bear": [
-      "创始人兼CEO黄仁勋突然辞职，管理学专家指出公司组织架构「并非为没有黄仁勋而建」，管理真空可能削弱战略执行力、产品路线图连续性与客户信心",
-      "单日市值蒸发约4900亿美元，股价重挫约25%，叠加黄仁勋个人丑闻、白宫内部讨论是否连带问责商务部长Lutnick在对华出口管制上的处理方式，公司治理与政治监管风险同时上升",
-      "知名空头Michael Burry加码做空纳斯达克100指数与半导体板块，多家机构下调英伟达公允价值，反映市场对AI硬件需求可持续性与估值泡沫的担忧正在从边缘声音扩散为主流分歧"
+      {
+        "point": "黄仁勋被普遍认为是英伟达不可替代的创始人式领袖，分析师Dan Ives等估算其个人价值贡献高达约1万亿美元，此次辞任事件已被市场定价为约6390亿美元的市值损失，且仍在扩大"
+      },
+      {
+        "point": "股价在一个月内下跌约30%，财政部长贝森特公开质疑公司是否了解其客户情况，知名空头迈克尔·伯里加仓做空纳斯达克100与半导体板块，机构态度明显转向谨慎，华尔街已有大行将目标价从465美元大幅下调至186美元"
+      },
+      {
+        "point": "管理层继任存在高度不确定性：董事会尚未确定寻找永久继任者的猎头公司，财务负责人Kress的领导风格被部分投资者认为对以英伟达为中心的生态系统及其融资安排不利，叠加对华出口管制与所谓「间谍丑闻」的政治压力，治理与监管风险交织上升"
+      }
     ],
     "watch": [
-      "下一任CEO人选悬而未决，预测市场与媒体猜测人选从Tim Cook到Eric Schmidt不等，董事会后续治理安排与接班方案将是决定公司战略方向和市场信心的关键变量",
-      "对华芯片出口管制政策走向及「美国情报部门介入此次高管变动」的传闻真实性有待验证，这将直接影响英伟达在中国市场的收入敞口与地缘政治风险定价",
-      "国会议员关联方（如佩洛西）近期披露的期权与股票交易显示新建仓与减持动作并存，反映相关方对短期走势看法分歧，需持续关注后续国会交易披露与机构持仓变化"
+      {
+        "point": "英伟达董事会遴选永久CEO的进展与候选人选（包括是否存在黄仁勋以某种形式重返的可能性），是决定未来战略连续性的核心变量"
+      },
+      {
+        "point": "白宫及国会层面围绕对华芯片出口管制、商务部长卢特尼克去留的讨论，可能影响公司对华业务及整体监管环境"
+      },
+      {
+        "point": "同业表现分化：AMD、Marvell等竞争对手股价同步大跌但程度不同，GPU租赁价格及CoreWeave等云服务商融资传闻（如40亿美元贷款磋商）值得持续跟踪，以判断AI基础设施需求是否整体降温或仅为英伟达特定事件冲击"
+      }
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达（NVDA）是全球领先的图形处理器与AI加速计算芯片供应商，凭借CUDA软件生态与数据中心GPU产品线，在生成式AI训练与推理硬件市场建立了显著的领先地位，是过去两年AI资本开支周期的核心受益者之一"
+        "body": "英伟达是全球领先的GPU与AI加速计算公司，凭借CUDA软件生态与数据中心芯片在生成式AI基础设施建设中占据主导地位。2026年11月，创始人兼长期CEO黄仁勋宣布辞任，引发公司治理与战略方向的重大不确定性，成为近期市场关注的焦点事件"
       },
       {
-        "heading": "近期重大事件",
-        "body": "2026年11月，创始人兼CEO黄仁勋宣布辞职，引发市场剧烈反应，股价单日下跌约25%，市值蒸发约4900亿美元。消息伴随其个人丑闻传闻、对华出口管制处理方式受到的政治问责讨论，以及关于谁将接任CEO的广泛猜测，目前市场情绪高度不确定"
+        "heading": "近期动态",
+        "body": "黄仁勋辞任消息导致股价单月下跌约30%，市值蒸发规模据估算达6390亿美元以上并仍在扩大。CNBC援引董事会消息称尚未选定猎头公司寻找永久继任者。与此同时，有报道称前CEO与第二名员工存在关系的传闻，以及财务负责人Kress的领导风格引发部分投资者对公司生态与融资安排的担忧"
       },
       {
-        "heading": "基本面与业务展望",
-        "body": "从产业链角度看，微软、Cisco、Cerebras等公司近期披露的AI基础设施需求和资本开支仍在扩张，显示终端客户对AI算力的采购意愿尚未因英伟达管理层变动而明显动摇，但长期来看，公司路线图执行、供应链管理与大客户关系能否延续此前高速增长节奏，取决于新管理层的能力与过渡的平稳程度"
+        "heading": "多空分歧",
+        "body": "多方观点认为，黄仁勋的个人魅力与远见固然重要，但英伟达在GPU架构、供应链整合与CUDA护城河上建立的优势并非一人之力可以瞬间瓦解，中国厂商抢购芯片产能即为需求端仍然强劲的证据。空方则强调，黄仁勋对客户关系、供应链资源调动（如拜访亚洲供应商）及资本号召力具有不可替代性，一旦创始人式领导力缺失，估值中枢可能面临长期重估，财政部长公开质疑及知名空头加仓做空进一步放大市场疑虑"
       },
       {
-        "heading": "估值与分析师观点",
-        "body": "分析师群体对英伟达公允价值出现明显分化，部分机构在CEO离任后下调目标价，反映对治理风险与增长可持续性的担忧；与此同时，知名空头Michael Burry加码做空半导体板块与纳斯达克100指数，而另一部分市场参与者认为抛售反应过度，核心AI硬件需求基本面未变，估值分歧短期内预计将持续存在"
+        "heading": "政策与地缘风险",
+        "body": "对华出口管制政策持续是悬而未决的变量，有报道称白宫内部正讨论商务部长卢特尼克的去留，与英伟达CEO风波及其对华政策执行存在关联。中国AI企业据称正加速锁定现有芯片库存以防范未来管制收紧，这既反映需求韧性，也凸显地缘政治对公司长期供应与市场准入的潜在扰动"
       },
       {
-        "heading": "政策与地缘政治风险",
-        "body": "市场流传美国情报部门可能与此次CEO变动有关的猜测，以及白宫内部讨论是否连带问责商务部长在对华出口管制政策上的处理方式，显示英伟达正处于美中科技竞争与出口管制政策的焦点位置，相关政策走向仍是影响其中国收入敞口与估值的重要不确定因素"
+        "heading": "同业与产业链影响",
+        "body": "英伟达此次冲击波及整个半导体与AI基础设施产业链，AMD、Marvell等竞争对手股价同步重挫，但程度与归因存在差异（如Marvell还受到自身并购估值及评级下调因素影响）。Bloom Energy、Vertiv等数据中心电力与基础设施相关标的近期出现反弹，显示市场对「AI建设周期是否整体放缓」与「英伟达特定事件冲击」两种叙事仍在博弈"
       },
       {
-        "heading": "跟踪者与市场情绪",
-        "body": "国会议员关联方（如佩洛西）近期披露的期权交易显示新建仓与平仓动作并存，反映相关方对短期走势存在分歧看法；社交媒体与公众讨论则围绕黄仁勋是否「不可替代」、董事会人员背景是否匹配半导体行业治理需求等话题展开，整体情绪偏向谨慎与观望，而非一致乐观或悲观"
+        "heading": "跟踪者与舆情信号",
+        "body": "国会议员佩洛西过去一年多次申报英伟达股票交易，方向上有新增持仓亦有部分减持，未呈现单一清晰立场。社交媒体与民调显示散户与员工群体压倒性支持黄仁勋留任（约91%支持比例），但政治人物公开评论（如建议由苹果CEO蒂姆·库克接任）增添了舆论的不确定性与戏剧性，这类信号更多反映市场情绪波动，而非公司基本面的直接证据"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "英伟达在GPU与数据中心加速计算市场最主要的直接竞争对手，若英伟达因管理层动荡出现执行力下滑，AMD可能是份额转移的潜在受益者"
+        "note": "GPU与数据中心加速卡领域主要竞争对手，近期同步大跌，跌幅约9%，被视为AI芯片板块情绪的联动指标"
       },
       {
         "ticker": "AVGO",
-        "name": "Broadcom Inc",
-        "note": "在定制AI芯片（ASIC）与网络互联领域与英伟达形成竞争和互补关系，是云厂商自研AI芯片趋势下的关键受益标的"
+        "name": "Broadcom",
+        "note": "定制化AI芯片与网络互联方案提供商，常被列为英伟达生态之外的替代叙事对象"
       },
       {
-        "ticker": "INTC",
-        "name": "Intel Corporation",
-        "note": "传统芯片巨头，正在数据中心与AI加速器领域寻求重新定位，可作为观察行业格局是否因英伟达变动而重塑的参照"
-      },
-      {
-        "ticker": "AAPL",
-        "name": "Apple Inc",
-        "note": "因市场猜测其CEO Tim Cook为英伟达接任人选之一而被提及，也是比较「创始人式领导」对科技公司估值影响的参照对象"
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "数据中心互联与定制芯片厂商，近期受评级下调及并购价差扩大等因素叠加下跌，与英伟达走势部分联动但驱动因素不同"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-13T01:44:04.435988Z"
+    "generatedAt": "2026-11-14T01:21:14.429952Z"
   },
   "news": [
     {
-      "id": "NVDA-143776878",
-      "title": "Nvidia Stock Shock Puts These AI Infrastructure Chip Shares In Focus",
+      "id": "NVDA-143805512",
+      "title": "S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August —  SPCX, NVDA, ARM, AZN In Focus",
       "source": "Yahoo",
       "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=f22d663d31eb1752b449e842f7f4a04630a5df1f38e72cd93692f2e91fd79467",
+      "url": "https://finnhub.io/api/news?id=8883930906339ea2702d39740cca5933cd51cd819a6ff65f5b6953a44eef2a78",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143776879",
-      "title": "Who Will Replace Jensen Huang? Here's What Prediction Markets Think.",
+      "id": "NVDA-143805519",
+      "title": "Sandisk Stock Fell Back Under $900 on Friday. I'd Start With a Small Position.",
       "source": "Yahoo",
       "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=c9cba0dd2c74bb8fd1978ceb12b272e67ddd40a1595b045aef3a1f635da320e5",
+      "url": "https://finnhub.io/api/news?id=a57498c628cb0032fa23fde9cc67d798216302eb02d785bc035063d0c7dc67d1",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143776155",
-      "title": "S&P 500, Dow, Nasdaq Futures Recover After Markets End Lower On Jensen Huang’s Exit, Oil Price Pressure  —  CRWV, CBRS, NVDA, TSLA In Focus",
+      "id": "NVDA-143805520",
+      "title": "Why Newsmax Stock Popped on Friday",
       "source": "Yahoo",
       "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=383ecf6f897beec4320ed48bd9da1a155c4211611ff169f0435fe4be0923459c",
+      "url": "https://finnhub.io/api/news?id=bea622e07473eca5c64a5abb3a5ffa4311e404c9610ac9c2030515b39a38e8b6",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143776881",
-      "title": "SemiAnalysis speculates U.S. intelligence played role in Nvidia CEO exit",
+      "id": "NVDA-143805513",
+      "title": "Why Intel Stock Slumped Today",
       "source": "Yahoo",
       "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=d5c9cae3a024ea7f69234b49060cae0c140f0a767da8102359e477a670110381",
+      "url": "https://finnhub.io/api/news?id=cf73b339f6ee94bd531fa99dd101e301e6ccca89981288579b5569a5353b7e22",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143776889",
-      "title": "3 Canadian AI Stocks With Up To 5x P S",
+      "id": "NVDA-143805514",
+      "title": "Wall Street stocks mostly lower as Nvidia extends slump",
       "source": "Yahoo",
       "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=69385fe0ca798161584507d47a6be1079646aabd029b07d4ea6d9c9a5dcbed68",
+      "url": "https://finnhub.io/api/news?id=0d9b9cfa98b5ec996c26cf12ec3cac006164623cc2af91af3c48da84732a5b82",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143776882",
-      "title": "Nvidia (NVDA) Stock Gets Fair Value Trim As Analyst Views Turn More Divided",
+      "id": "NVDA-143805524",
+      "title": "Stock Market Today, Nov. 13: CoreWeave Falls Over 6% on AI-Cloud Selling and Reported $4 Billion Loan Talks",
       "source": "Yahoo",
       "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=c0aeae8ccf1b4145aac3467e8297fedbb616e8dd243cdb84cb8a825f877d10a4",
+      "url": "https://finnhub.io/api/news?id=12c86d8215eb32b3613664273027f4d0348f6b9a3dc7fbcdaacfced282718328",
       "tags": [
         "NVDA"
       ]

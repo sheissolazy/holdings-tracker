@@ -4,44 +4,44 @@
     "name": "NVIDIA Corporation",
     "exchange": "NASDAQ",
     "sector": "半导体",
-    "price": 166.19,
-    "change5dPct": -17.0,
-    "changeYtdPct": -26.4
+    "price": 162.85,
+    "change5dPct": -10.3,
+    "changeYtdPct": -30.9
   },
   {
     "ticker": "MRVL",
     "name": "Marvell Technology",
     "exchange": "NASDAQ",
     "sector": "半导体",
-    "price": 164.45,
-    "change5dPct": 2.9,
-    "changeYtdPct": -7.6
+    "price": 156.76,
+    "change5dPct": 17.4,
+    "changeYtdPct": -14.1
   },
   {
     "ticker": "BE",
     "name": "Bloom Energy",
     "exchange": "NYSE",
     "sector": "清洁能源",
-    "price": 201.93,
-    "change5dPct": 0.8,
-    "changeYtdPct": -30.3
+    "price": 191.99,
+    "change5dPct": 14.6,
+    "changeYtdPct": -36.7
   },
   {
     "ticker": "AAPL",
     "name": "Apple Inc.",
     "exchange": "NASDAQ",
     "sector": "消费电子",
-    "price": 354.88,
-    "change5dPct": 1.5,
-    "changeYtdPct": 18.7
+    "price": 356.27,
+    "change5dPct": 3.5,
+    "changeYtdPct": 19.5
   },
   {
     "ticker": "SMH",
     "name": "VanEck Semiconductor ETF",
     "exchange": "NASDAQ",
     "sector": "半导体 ETF",
-    "price": 501.73,
-    "change5dPct": -0.5,
-    "changeYtdPct": -12.4
+    "price": 486.75,
+    "change5dPct": 8.7,
+    "changeYtdPct": -15.8
   }
 ]

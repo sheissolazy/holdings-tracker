@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 354.88,
-  "change5dPct": 1.5,
-  "changeYtdPct": 18.7,
-  "marketCap": "$5.16T",
-  "pe": 39.1,
+  "price": 356.27,
+  "change5dPct": 3.5,
+  "changeYtdPct": 19.5,
+  "marketCap": "$5.18T",
+  "pe": 39.4,
   "revenue": "—",
   "revenueYoYPct": 15,
   "prices": [
-    {
-      "t": "2026-05-13",
-      "o": 293.5,
-      "h": 300.92,
-      "l": 293.5,
-      "c": 298.87
-    },
     {
       "t": "2026-05-14",
       "o": 299.82,
@@ -899,127 +892,152 @@
       "h": 355.91,
       "l": 349.33,
       "c": 355.63
+    },
+    {
+      "t": "2026-11-12",
+      "o": 357.81,
+      "h": 359.37,
+      "l": 354.41,
+      "c": 354.88
     }
   ],
   "thesis": {
     "bull": [
-      "谷歌被曝将在下一代AI产品中把苹果纳入布局考量，若设备端AI合作深化，苹果有望在AI叙事中获得新的成长点",
-      "苹果在《Roundtable 100》排名上升26位，显示市场或机构对其综合基本面评价有所改善",
-      "中国相关机构China Renaissance将苹果评级上调至买入，显示部分分析师对中国区需求或供应链边际改善持乐观态度"
+      {
+        "point": "国会议员Pelosi在2025年12月30日申报新建AAPL多头仓位，被部分市场观察者视为对公司基本面或短期催化剂的信心信号"
+      },
+      {
+        "point": "Trump在社交媒体公开喊话Tim Cook接棒行业领导地位，暗示市场对苹果在AI领域的期待升温，叠加早前Jensen Huang言论引发的AI概念买盘情绪"
+      },
+      {
+        "point": "有报道提及某价位区间的产品出现「售罄」现象（如China Renaissance相关评论），若需求端确实强劲，有望支撑硬件业务的季度营收预期"
+      }
     ],
     "bear": [
-      "国会议员佩洛西的PTR披露显示其在2024年末至2025年末多次减持或清仓AAPL（2024-12-31、2025-10-22、2025-12-24），释放了减少敞口的信号",
-      "DZ Bank将苹果评级下调至卖出，与China Renaissance的上调形成鲜明对立，显示机构对估值与增长前景分歧加大",
-      "英伟达CEO黄仁勋意外离职引发全球AI产业链动荡，市场情绪整体转弱，若行业重塑过程持续，可能通过供应链与投资情绪间接影响苹果"
+      {
+        "point": "同一份Pelosi披露文件中同时出现多笔减持（trim/exit）记录，且过去一年（2025-10-22、2024-12-31）持续出现减持动作，长期趋势偏谨慎而非单边加仓"
+      },
+      {
+        "point": "近期Nvidia CEO更替引发的「AI震荡」拖累整个科技与半导体板块，纳斯达克和多只芯片股大幅下挫，若市场对AI资本开支前景转弱，苹果的供应链与AI叙事也可能被连带重新定价"
+      },
+      {
+        "point": "大型机构与知名空头（如Michael Burry）加码做空纳斯达克100及半导体板块，显示部分专业投资者对AI驱动的高估值科技股持续保持警惕，苹果作为权重股难以完全独立于板块情绪"
+      }
     ],
     "watch": [
-      "美国前总统特朗普在社交媒体上喊话建议库克接任英伟达CEO，尽管真实性与可行性存疑，需关注该传闻是否影响苹果管理层稳定性预期",
-      "需跟踪英伟达CEO更替后AI基础设施格局的重新洗牌（如Cerebras与微软合作、显存芯片股承压等）是否波及苹果的AI供应链布局",
-      "佩洛西同一份披露文件中同时出现新建仓与清仓记录，方向不完全一致，需等待后续季度披露以确认其真实净头寸变化"
+      {
+        "point": "Nvidia CEO继任人选尚未确定，相关不确定性可能持续影响市场对AI硬件生态（含苹果自研芯片与供应链伙伴）的预期"
+      },
+      {
+        "point": "美国国债收益率上行（提及触及5%）对高估值成长股估值的压制效应，需关注利率环境变化对AAPL估值倍数的影响"
+      },
+      {
+        "point": "跟踪者（如Pelosi）后续是否有新的申报动作，以及其买入与减持记录之间的矛盾信号是否会在下一期披露中进一步明确方向"
+      }
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果公司是全球领先的消费电子、软件与服务提供商，核心产品包括iPhone、Mac、iPad、可穿戴设备以及App Store、iCloud、Apple Music等服务生态，总部位于加州库比蒂诺，是市值最高的科技公司之一"
+        "body": "苹果（AAPL）是全球市值领先的消费电子与软件服务公司，核心业务包括iPhone、Mac、iPad、可穿戴设备以及服务业务（App Store、云服务、订阅等）。公司近年持续强调自研芯片与生态整合能力，并被市场视为AI终端应用落地的重要载体之一，尽管其AI叙事更多体现在端侧集成而非基础模型研发层面。"
       },
       {
-        "heading": "近期动态",
-        "body": "英伟达CEO黄仁勋突然离职成为近期科技板块最大事件，引发全球AI相关股票剧烈波动；市场随后出现特朗普建议库克接任英伟达CEO的言论，以及此前黄仁勋在6月对苹果AI前景表达看好的历史言论，均使苹果在AI产业叙事中被反复提及；同期苹果在《Roundtable 100》榜单排名上升26位"
+        "heading": "近期市场环境",
+        "body": "当前市场正经历由Nvidia CEO Jensen Huang意外辞任引发的剧烈波动，AI与半导体板块普遍承压，AMD、Marvell等相关个股出现显著回调，同时十年期美债收益率走高至5%附近，压制高估值成长股估值中枢。大盘指数（标普500、道指、纳指）在剧烈波动中仍录得周度上涨，显示市场情绪尚未全面转向防御。"
       },
       {
-        "heading": "跟踪者与政治人物动向解读",
-        "body": "根据公开PTR披露，佩洛西在2024年底至2025年底多次出现AAPL减持或清仓记录（2024-12-31、2025-10-22、2025-12-24），同时在同一批文件中又出现2025-12-30的新建仓记录，方向并不完全一致，提示应结合具体成交规模与后续季度披露综合判断，而非简单视为单向多空信号"
+        "heading": "跟踪者动向解读",
+        "body": "公开披露显示，国会议员Pelosi在2025年12月30日申报了一笔AAPL新建多头仓位，但同一批文件及此前多期披露中也持续出现减持记录（分别涉及2025年12月24日、2025年10月22日及2024年12月31日），买入与卖出信号并存，难以得出单一方向性结论。此外，Trump在社交平台公开提及Tim Cook，将其与Nvidia管理层变动相联系，更多反映政治人物对科技行业格局的评论，而非基于基本面的明确态度。"
       },
       {
-        "heading": "行业与竞争格局",
-        "body": "英伟达管理层动荡为AI基础设施格局带来不确定性，Cerebras、微软等公司动作频繁，竞争版图加速演变；谷歌被报道在下一代AI产品规划中考虑与苹果的协作关系，若落地可能影响苹果在设备端AI生态中的定位，但具体细节与时间表尚未明确"
+        "heading": "多空分歧焦点",
+        "body": "市场多空分歧主要集中在两点：一是苹果能否在端侧AI应用上形成差异化优势，从而受益于当前AI硬件热潮而非被动承压；二是在利率上行与AI板块估值重估的背景下，苹果作为高权重、高估值股票是否会被纳入整体「去泡沫化」的调整范畴。看多者关注产品需求端的积极信号（如部分报道提及的售罄现象），看空者则担忧板块联动风险与机构持续加码的空头仓位。"
       },
       {
-        "heading": "财务与估值观察",
-        "body": "所提供公开信息未涉及苹果最新财报细节，但分析师观点出现明显分歧，China Renaissance上调评级至买入，DZ Bank下调至卖出，反映市场对其估值水平、中国区需求前景及AI变现路径存在不同判断，建议结合后续财报与指引进一步验证"
+        "heading": "潜在催化剂与风险",
+        "body": "潜在催化剂包括：苹果AI相关功能或硬件的进一步落地、节假日购物季终端需求数据、以及Nvidia继任CEO人选明确后市场情绪的企稳。潜在风险包括：AI资本开支预期下修对整个科技板块估值的连带冲击、美债利率持续上行对成长股折现率的压制，以及跟踪者披露中买卖并存所反映的机构内部分歧可能预示更广泛的观望态度。"
       },
       {
-        "heading": "风险因素",
-        "body": "需关注地缘政治风险（如伊朗局势、胡塞武装袭击沙特石油管线）对宏观流动性与油价的扰动，英伟达人事变动引发的AI行业连锁反应，以及政治人物相关言论对市场情绪造成的短期波动，这些均为外部不可控变量，可能间接影响苹果股价表现"
+        "heading": "可比公司参考",
+        "body": "在可比分析中，可将苹果与同样深度参与AI生态但业务模式不同的大型科技公司进行对照，包括同为消费硬件及生态巨头的公司，以及在AI基础设施层面受本轮Nvidia事件直接冲击的半导体公司，以帮助判断苹果股价波动中有多少属于板块联动、多少属于公司特定因素。"
       }
     ],
     "comparables": [
       {
+        "ticker": "MSFT",
+        "name": "微软",
+        "note": "同属大型科技权重股，AI布局集中在云服务与企业软件层，受益逻辑与苹果的端侧AI路径不同，可用于区分板块性与公司特定驱动因素"
+      },
+      {
         "ticker": "NVDA",
         "name": "英伟达",
-        "note": "AI芯片龙头，近期因CEO黄仁勋离职陷入管理层不确定性，是当前AI板块情绪的核心风向标"
+        "note": "本轮市场波动的直接源头，CEO变动及AI资本开支预期变化对其股价冲击最大，苹果作为其下游生态伙伴间接受到情绪传导"
       },
       {
         "ticker": "GOOGL",
-        "name": "Alphabet谷歌",
-        "note": "被报道在下一代AI产品规划中考虑与苹果合作，是苹果设备端AI生态潜在的重要伙伴"
-      },
-      {
-        "ticker": "MSFT",
-        "name": "微软",
-        "note": "在AI基础设施领域动作活跃，近期与Cerebras达成合作，可作为AI产业链布局节奏的参照对象"
+        "name": "谷歌母公司Alphabet",
+        "note": "同为AI与消费生态并重的公司，近期获多家机构看好（如被提及纳入逢低买入名单），可作为对比苹果在AI叙事中相对强弱的参照"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-13T01:46:31.262129Z"
+    "generatedAt": "2026-11-14T01:23:42.594958Z"
   },
   "news": [
     {
-      "id": "AAPL-143774191",
-      "title": "Apple rises 26 places on the Roundtable 100",
+      "id": "AAPL-143805511",
+      "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
       "source": "Yahoo",
-      "publishedAt": "2026-11-12",
-      "url": "https://finnhub.io/api/news?id=9247e43d6e381ba32a75240049b7bd0225154f9d05b25d29c91cf116ef4c8d1e",
+      "publishedAt": "2026-11-13",
+      "url": "https://finnhub.io/api/news?id=1fc1d13f73bcf983a5eb38cc36c23709e38240955653931730eeff6a5cf85c19",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143774192",
-      "title": "Google's Next Big AI Push Has Apple in the Picture",
+      "id": "AAPL-143805230",
+      "title": "Stock Market Today: Indexes Trim Losses, Manage To Score Weekly Gains Despite Strong Volatility",
       "source": "Yahoo",
-      "publishedAt": "2026-11-12",
-      "url": "https://finnhub.io/api/news?id=fca59ee8f61ace5223fd1411a35e5e479088f5e9b00305a4767a403c9cbfd23e",
+      "publishedAt": "2026-11-13",
+      "url": "https://finnhub.io/api/news?id=151dacea4fb01da21ba22fb4ef780e793df7e558bbc22db74fe00e4bc4c94eaf",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143774194",
-      "title": "Nvidia market cap plunges $490 billion following former CEO Huang's affair scandals",
+      "id": "AAPL-143805228",
+      "title": "A $1,999 Sellout. What China Renaissance Sees in Apple (AAPL)",
       "source": "Yahoo",
-      "publishedAt": "2026-11-12",
-      "url": "https://finnhub.io/api/news?id=ef3690a199cad18ff4738586e3d039e04181020736c4f5f692d69e801c1f082a",
+      "publishedAt": "2026-11-13",
+      "url": "https://finnhub.io/api/news?id=983dcf7597b733fd15c5c76fa71ee7fc2ac93d041eaa8ae602c66611345117d7",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143774193",
-      "title": "China Renaissance Upgraded Apple (AAPL) to Buy. DZ Bank Cut It to Sell. Here’s the Split",
+      "id": "AAPL-143805231",
+      "title": "Inside Jim Cramer’s Charitable Trust: 5 Stocks He Actually Owns",
       "source": "Yahoo",
-      "publishedAt": "2026-11-12",
-      "url": "https://finnhub.io/api/news?id=242a7046fc8d208a6f5f0055144d31da3696a301b7c4d375bc47969255ca78b4",
+      "publishedAt": "2026-11-13",
+      "url": "https://finnhub.io/api/news?id=770781c3648449b4bd5eadeb2eefe4f00628b6042ce6b2f31d7035af97e7600b",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143776542",
-      "title": "Why Tim Cook Shouldn’t Run Nvidia",
+      "id": "AAPL-143805232",
+      "title": "The Price Tag on Jensen Huang’s Resignation: $639 Billion and Counting",
       "source": "Yahoo",
-      "publishedAt": "2026-11-12",
-      "url": "https://finnhub.io/api/news?id=2abb57e56d0f1c510f425288ea96d066022a2a0fcf77c5583f44d82ea9e0803b",
+      "publishedAt": "2026-11-13",
+      "url": "https://finnhub.io/api/news?id=1b77d1df80ed0f5ab6d066e9ab4d2d8c07bac9e2d1cb2a1fb2bed3cff3274c87",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143774195",
-      "title": "Nvidia Needs a Colossus to Replace Jensen Huang, and Eric Schmidt May Be the Only One Who Fits",
+      "id": "AAPL-143805229",
+      "title": "Meta tests prediction-market app for employees, WSJ reports",
       "source": "Yahoo",
-      "publishedAt": "2026-11-12",
-      "url": "https://finnhub.io/api/news?id=034f14283f4fcbd3268f00172f916edeffd0fb70ffdd8f7b7d8f3850c8c9df44",
+      "publishedAt": "2026-11-13",
+      "url": "https://finnhub.io/api/news?id=8b1c1f045cdbbffaad8f9c103ff75da573581d8bc2016334dd3b10f02de62a5f",
       "tags": [
         "AAPL"
       ]
