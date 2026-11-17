@@ -365,6 +365,30 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-11-16",
+    "sentiment": "watch",
+    "excerpt": "Under my leadership, our Economy is booming! New Businesses created in America have reached ALL-TIME HIGHS — Over 500,000 new Businesses formed every month this year. Unlike the Communists that want to tax our Small Business Owners to “deat",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117629001831609398",
+    "ticker": "",
+    "topics": [
+      "财政/税收"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-11-14",
+    "sentiment": "watch",
+    "excerpt": "Has anyone noticed that immediately after the Election the Stock Market lost 3 Trillion Dollars in Value? In other words, Investors throughout the World hated seeing what took place on Election Day. But have no fear, the Market has since go",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117617708553644602",
+    "ticker": "",
+    "topics": [
+      "大盘/宏观"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-11-12",
     "sentiment": "watch",
     "excerpt": "NOW THAT Nvidia CEO JENSEN HUANG, who has done a fantastic job, has resigned, there is only one man to take his place - TIM COOK of Apple. A Legend replaces a Legend! President DONALD J. TRUMP",
@@ -431,47 +455,195 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-11-05",
+    "asOf": "2026-11-16",
     "sentiment": "watch",
-    "excerpt": "The Stock Market crashed today because the Dumocrats had a big Tuesday — So sad to see, you only have yourselves to blame! President DONALD J. TRUMP",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117566560747501657",
-    "ticker": "",
-    "topics": [
-      "大盘/宏观"
-    ]
+    "excerpt": "$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.\n\n- Fully autonomous vulnerability exploitation is now happening\n\n- Adversaries transitioned beyond manual prompting to deploying autonomous multi-agent offensive",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122519172664209692",
+    "ticker": "AMZN",
+    "topics": []
   },
   {
-    "personId": "trump",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-11-05",
+    "asOf": "2026-11-16",
     "sentiment": "watch",
-    "excerpt": "The Stock Market suffered one of the Worst Days in History based on the results of the Election. Such a sad thing to watch! It took so much work to get us to a level that no one has ever seen before, and then this. Your 401(k)s have, theref",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117566389105992268",
-    "ticker": "",
-    "topics": [
-      "大盘/宏观"
-    ]
+    "excerpt": "$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.\n\n- Fully autonomous vulnerability exploitation is now happening\n\n- Adversaries transitioned beyond manual prompting to deploying autonomous multi-agent offensive",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122519172664209692",
+    "ticker": "GOOGL",
+    "topics": []
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-11-13",
+    "asOf": "2026-11-16",
     "sentiment": "watch",
-    "excerpt": "Live Starship video from space https://t.co/PSFPxivC0z",
-    "postUrl": "https://x.com/elonmusk/status/2121388517540716839",
+    "excerpt": "DeepSeek is now restricting users due to “insufficient compute capacity”.\n\nPrompting rationing over inference usage and tighter restrictions (input limit, conversation history) per Cailian \n\nBelieve it or not, compute shortages are a bullis",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122485440469241998",
     "ticker": "",
     "topics": []
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-11-13",
+    "asOf": "2026-11-16",
     "sentiment": "watch",
-    "excerpt": "And remember … https://t.co/Mw9eFTosGO",
-    "postUrl": "https://x.com/elonmusk/status/2121268692453343344",
+    "excerpt": "Leopold’s Situational Awareness 13F filing reveals: \n\n- $BE $389.2M calls\n- $NBIS $332.6M calls\n- $SNDK $182.7M calls\n\nWith $440.7M in SHAZ shares, $140.3M in DRAM ETF calls, and additional exposure to IREN + Neoclouds/Colo players.\n\nCall v",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122455173356536151",
+    "ticker": "BE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-16",
+    "sentiment": "watch",
+    "excerpt": "Leopold’s Situational Awareness 13F filing reveals: \n\n- $BE $389.2M calls\n- $NBIS $332.6M calls\n- $SNDK $182.7M calls\n\nWith $440.7M in SHAZ shares, $140.3M in DRAM ETF calls, and additional exposure to IREN + Neoclouds/Colo players.\n\nCall v",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122455173356536151",
+    "ticker": "NBIS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-16",
+    "sentiment": "watch",
+    "excerpt": "Leopold’s Situational Awareness 13F filing reveals: \n\n- $BE $389.2M calls\n- $NBIS $332.6M calls\n- $SNDK $182.7M calls\n\nWith $440.7M in SHAZ shares, $140.3M in DRAM ETF calls, and additional exposure to IREN + Neoclouds/Colo players.\n\nCall v",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122455173356536151",
+    "ticker": "SNDK",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-16",
+    "sentiment": "watch",
+    "excerpt": "Well, most of the time projections are noise and reactionary. \n\nLike right now, sky-high projections for $ANT $700-$800B ARR over next few years is stirring up hype that I'd argue gets revised down later. \n\nI do think it's important to mode",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122428876748206564",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-16",
+    "sentiment": "watch",
+    "excerpt": "Well, most of the time projections are noise and reactionary. \n\nLike right now, sky-high projections for $ANT $700-$800B ARR over next few years is stirring up hype that I'd argue gets revised down later. \n\nI do think it's important to mode",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122428876748206564",
+    "ticker": "ANT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-16",
+    "sentiment": "watch",
+    "excerpt": "Well, most of the time projections are noise and reactionary. \n\nLike right now, sky-high projections for $ANT $700-$800B ARR over next few years is stirring up hype that I'd argue gets revised down later. \n\nI do think it's important to mode",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122428876748206564",
+    "ticker": "IREN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-16",
+    "sentiment": "watch",
+    "excerpt": "Well, most of the time projections are noise and reactionary. \n\nLike right now, sky-high projections for $ANT $700-$800B ARR over next few years is stirring up hype that I'd argue gets revised down later. \n\nI do think it's important to mode",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122428876748206564",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-16",
+    "sentiment": "watch",
+    "excerpt": "I don't know what it takes to convince the Taco Bell board member or Washington at this point? \n\n$NVDA is not the same thing as Apple or McDonalds. \n\nYou also cannot replace Jensen with ARM CEO or Palo Alto Networks CEO... then expect local",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122404712800723209",
+    "ticker": "AAPL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-16",
+    "sentiment": "watch",
+    "excerpt": "I don't know what it takes to convince the Taco Bell board member or Washington at this point? \n\n$NVDA is not the same thing as Apple or McDonalds. \n\nYou also cannot replace Jensen with ARM CEO or Palo Alto Networks CEO... then expect local",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122404712800723209",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-16",
+    "sentiment": "watch",
+    "excerpt": "I think AI is one of the few industries where investors celebrate deteriorating supply conditions.\n\nMLCC lead times are extending per new Trendforce data… now “very tight” at 40W.\n\nContent per system keeps going up as well (eg. $AMD using +",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122306534772519308",
+    "ticker": "AMD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-16",
+    "sentiment": "watch",
+    "excerpt": "Morgan Stanley sends a note to clients using the term:\n\n“Max Overweight” for global equities.\n\nArguing that AI capex cycle remains intact and sustains corporate earnings into 2027.\n\nThey told clients:\n\n- hold less cash, trim commodities and",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122268155682996328",
     "ticker": "",
+    "topics": [
+      "通胀"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-15",
+    "sentiment": "watch",
+    "excerpt": "It’s time for Jensen’s redemption arc at $NVDA.\n\nFT: Jensen Huang discusses comeback as Nvidia CEO. https://t.co/h1cTjTlx6G",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122046823934407066",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-15",
+    "sentiment": "watch",
+    "excerpt": "I've posted a lot about $NVDA because Jensen Huang is worth fighting for.\n\nTalking with Jensen and those around him convinced me he's 1 of 1... both for Nvidia's future and US leadership in AI. \n\nA friend asked me to share this petition (I ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2121981880480522483",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-15",
+    "sentiment": "watch",
+    "excerpt": "The most interesting lesson Jensen Huang taught me\n\nAnd gave PTSD to Google executives over from his leadership at $NVDA:\n\nWas that if a critical material can be bought out for spare change eg. ~$400m (FY2028 Photonics-SOI revenue forecast ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2121918080293196209",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-15",
+    "sentiment": "watch",
+    "excerpt": "The most interesting lesson Jensen Huang taught me\n\nAnd gave PTSD to Google executives over from his leadership at $NVDA:\n\nWas that if a critical material can be bought out for spare change eg. ~$400m (FY2028 Photonics-SOI revenue forecast ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2121918080293196209",
+    "ticker": "SOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-14",
+    "sentiment": "watch",
+    "excerpt": "Western media coverage of $NVDA and Jensen Huang have reached a point\n\nWhere it even gives Chinese people more pride in CCP state media.\n\nVery dark times for Western journalism. https://t.co/oJ8eEgOIDS",
+    "postUrl": "https://x.com/aleabitoreddit/status/2121852636261724398",
+    "ticker": "NVDA",
     "topics": []
   },
   {
@@ -635,234 +807,14 @@
     "topics": []
   },
   {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
+    "personId": "jensen",
+    "type": "statement",
+    "asOf": "2026-11-16",
     "sentiment": "watch",
-    "excerpt": "$SHOP CEO: 今天，真正的 $NVDA 就此终结。\n\n取而代之的，不过是一个披着英伟达外衣、徒有其形的仿冒品。\n\n未来掌舵的，将不再是开创者，而只是一群守成的看管者。他们会竭力守护黄仁勋亲手点燃的那团火焰，却终究无法让它延续下去。 https://t.co/pwmAJx1gdv",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121182068558446730",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "$SHOP CEO: 今天，真正的 $NVDA 就此终结。\n\n取而代之的，不过是一个披着英伟达外衣、徒有其形的仿冒品。\n\n未来掌舵的，将不再是开创者，而只是一群守成的看管者。他们会竭力守护黄仁勋亲手点燃的那团火焰，却终究无法让它延续下去。 https://t.co/pwmAJx1gdv",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121182068558446730",
-    "ticker": "SHOP",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "The people have spoken.\n\nIn the largest large-scale poll of 22,965 respondents:\n\n19,750 supported @JensenHuang remaining CEO of $NVDA, compared with just 1,840 opposing him.\n\nAmong respondents expressing a position Jensen received a:\n\n- 91.",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121148384555995136",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "I’m sorry but why are we letting the future of $NVDA and American semiconductors \n\nBe decided by board members with experience from Taco Bell and the NFL",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120993521289326858",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "Former $NVDA CEO had a relationship with a second employee per Reuters. \n\nWhat is this timeline https://t.co/aMTgHsPz6V",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120964006328566047",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "Senior White House officials are discussing whether Commerce Secretary Howard Lutnick should be pushed out as well.\n\nFollowing $NVDA CEO controversy and his handling of China export controls (Reuters).\n\nHard to believe Washington didn’t hav",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120949820684972421",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "I have no confidence in the future of $NVDA after Jensen’s resignation.\n\nBeyond the next couple years of existing revenue + roadmaps.\n\nWithout Jensen’s visionary leadership that previously set them ahead of $AMD to Broadcom\n\nIt’s don’t find",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120943109505008055",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "I have no confidence in the future of $NVDA after Jensen’s resignation.\n\nBeyond the next couple years of existing revenue + roadmaps.\n\nWithout Jensen’s visionary leadership that previously set them ahead of $AMD to Broadcom\n\nIt’s don’t find",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120943109505008055",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "I have no confidence in the future of $NVDA after Jensen’s resignation.\n\nBeyond the next couple years of existing revenue + roadmaps.\n\nWithout Jensen’s visionary leadership that previously set them ahead of $AMD to Broadcom\n\nIt’s don’t find",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120943109505008055",
-    "ticker": "AVGO",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "$NVDA Jensen Huang has now resigned.\n\nDespite the overwhelming support worldwide and from his employees. \n\nThis is an end of an era for Nvidia. https://t.co/GwtmTgkHBa",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120878368975618315",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "Regarding $NBIS earnings results:\n\nTo show you how fast they're growing... from Q2 to Q3: \n\nRevenue: $582.3M -> $980.8M (+68% QoQ)\nAdjusted EBITDA: $236.2M -> $465.8M (+97% QoQ)\nAI cloud adj. EBITDA margin: 49.7% -> 53.2%\nNet Income: −$190.",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120866647930187882",
-    "ticker": "BE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "Regarding $NBIS earnings results:\n\nTo show you how fast they're growing... from Q2 to Q3: \n\nRevenue: $582.3M -> $980.8M (+68% QoQ)\nAdjusted EBITDA: $236.2M -> $465.8M (+97% QoQ)\nAI cloud adj. EBITDA margin: 49.7% -> 53.2%\nNet Income: −$190.",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120866647930187882",
-    "ticker": "IBM",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "Regarding $NBIS earnings results:\n\nTo show you how fast they're growing... from Q2 to Q3: \n\nRevenue: $582.3M -> $980.8M (+68% QoQ)\nAdjusted EBITDA: $236.2M -> $465.8M (+97% QoQ)\nAI cloud adj. EBITDA margin: 49.7% -> 53.2%\nNet Income: −$190.",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120866647930187882",
-    "ticker": "MSFT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "Regarding $NBIS earnings results:\n\nTo show you how fast they're growing... from Q2 to Q3: \n\nRevenue: $582.3M -> $980.8M (+68% QoQ)\nAdjusted EBITDA: $236.2M -> $465.8M (+97% QoQ)\nAI cloud adj. EBITDA margin: 49.7% -> 53.2%\nNet Income: −$190.",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120866647930187882",
-    "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "Okay, let’s gauge individual investor and public sentiment independently.\n\nShould Jensen Huang remain CEO of $NVDA?",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120822653997261079",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "I disagree, Jensen Huang is practically irreplaceable from $NVDA.\n\nAnd it's like if you took out Elon from $TSLA, the valuation and confidence in the company would collapse. \n\nThe foresight to bet on CUDA before AI took off, build the Neocl",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120798356205093139",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "I disagree, Jensen Huang is practically irreplaceable from $NVDA.\n\nAnd it's like if you took out Elon from $TSLA, the valuation and confidence in the company would collapse. \n\nThe foresight to bet on CUDA before AI took off, build the Neocl",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120798356205093139",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "I disagree, Jensen Huang is practically irreplaceable from $NVDA.\n\nAnd it's like if you took out Elon from $TSLA, the valuation and confidence in the company would collapse. \n\nThe foresight to bet on CUDA before AI took off, build the Neocl",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120798356205093139",
-    "ticker": "AVGO",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "I disagree, Jensen Huang is practically irreplaceable from $NVDA.\n\nAnd it's like if you took out Elon from $TSLA, the valuation and confidence in the company would collapse. \n\nThe foresight to bet on CUDA before AI took off, build the Neocl",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120798356205093139",
-    "ticker": "TSLA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-12",
-    "sentiment": "watch",
-    "excerpt": "\"Chinese AI firms rush to secure $NVDA chip capacity as spy scandal stirs fear of US curbs\"\n\nWow, Jensen really took one for the team just to generate more GPU and Neocloud demand https://t.co/Y1rDNXx6Vi",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120792625477468583",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-11",
-    "sentiment": "watch",
-    "excerpt": "All I’m going to say is that I hope board of $NVDA stands by Jensen, despite media and political pressures.\n\nThe same way $TSLA and SpaceX stood up for Elon Musk around similar allegations.\n\nThe AI trade won’t end off this but for Nvidia’s ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120658071274013137",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-11",
-    "sentiment": "watch",
-    "excerpt": "All I’m going to say is that I hope board of $NVDA stands by Jensen, despite media and political pressures.\n\nThe same way $TSLA and SpaceX stood up for Elon Musk around similar allegations.\n\nThe AI trade won’t end off this but for Nvidia’s ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120658071274013137",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-11",
-    "sentiment": "watch",
-    "excerpt": "All I’m going to say is that I hope board of $NVDA stands by Jensen, despite media and political pressures.\n\nThe same way $TSLA and SpaceX stood up for Elon Musk around similar allegations.\n\nThe AI trade won’t end off this but for Nvidia’s ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2120658071274013137",
-    "ticker": "TSLA",
-    "topics": []
+    "excerpt": "Steve Jobs Went Back to Apple in 1997 and $10,000 Became $18.6 Million. Jensen Huang May Be Next",
+    "postUrl": "https://finnhub.io/api/news?id=3c3636285e8e2ebde36df13211feee6ddb4bb6f475f98801e796426dc61945b5",
+    "topics": [],
+    "ticker": "AAPL"
   },
   {
     "personId": "jensen",

@@ -3,28 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 356.27,
-  "change5dPct": 3.5,
-  "changeYtdPct": 19.5,
-  "marketCap": "$5.18T",
-  "pe": 39.4,
+  "price": 352.78,
+  "change5dPct": 0.6,
+  "changeYtdPct": 18.4,
+  "marketCap": "$5.13T",
+  "pe": 38.8,
   "revenue": "—",
   "revenueYoYPct": 15,
   "prices": [
-    {
-      "t": "2026-05-14",
-      "o": 299.82,
-      "h": 300.45,
-      "l": 295.38,
-      "c": 298.21
-    },
-    {
-      "t": "2026-05-15",
-      "o": 297.9,
-      "h": 303.2,
-      "l": 296.52,
-      "c": 300.23
-    },
     {
       "t": "2026-05-18",
       "o": 300.24,
@@ -899,145 +885,141 @@
       "h": 359.37,
       "l": 354.41,
       "c": 354.88
+    },
+    {
+      "t": "2026-11-13",
+      "o": 357.96,
+      "h": 360.83,
+      "l": 355.75,
+      "c": 356.27
+    },
+    {
+      "t": "2026-11-16",
+      "o": 357.13,
+      "h": 357.13,
+      "l": 351.31,
+      "c": 352.78
     }
   ],
   "thesis": {
     "bull": [
-      {
-        "point": "国会议员Pelosi在2025年12月30日申报新建AAPL多头仓位，被部分市场观察者视为对公司基本面或短期催化剂的信心信号"
-      },
-      {
-        "point": "Trump在社交媒体公开喊话Tim Cook接棒行业领导地位，暗示市场对苹果在AI领域的期待升温，叠加早前Jensen Huang言论引发的AI概念买盘情绪"
-      },
-      {
-        "point": "有报道提及某价位区间的产品出现「售罄」现象（如China Renaissance相关评论），若需求端确实强劲，有望支撑硬件业务的季度营收预期"
-      }
+      "机构持仓变化显示并非一致看空：2025年12月末的国会披露文件中出现对AAPL的新增多头头寸，说明仍有重量级投资者愿意逆势增持，释放出底部布局信号",
+      "苹果在当前这轮英伟达人事动荡（黄仁勋卸任）引发的AI板块重新定价中，被部分舆论视为潜在受益方，市场开始讨论苹果在AI端侧应用与自研芯片路线上的长期潜力",
+      "相较于高估值、高波动的AI算力股（如英伟达链上的CoreWeave、Oracle、Nebius等），苹果现金流稳定、品牌护城河深厚，在当前市场对AI泡沫担忧升温（如伯里加码做空纳斯达克100）的背景下，具备防御属性"
     ],
     "bear": [
-      {
-        "point": "同一份Pelosi披露文件中同时出现多笔减持（trim/exit）记录，且过去一年（2025-10-22、2024-12-31）持续出现减持动作，长期趋势偏谨慎而非单边加仓"
-      },
-      {
-        "point": "近期Nvidia CEO更替引发的「AI震荡」拖累整个科技与半导体板块，纳斯达克和多只芯片股大幅下挫，若市场对AI资本开支前景转弱，苹果的供应链与AI叙事也可能被连带重新定价"
-      },
-      {
-        "point": "大型机构与知名空头（如Michael Burry）加码做空纳斯达克100及半导体板块，显示部分专业投资者对AI驱动的高估值科技股持续保持警惕，苹果作为权重股难以完全独立于板块情绪"
-      }
+      "同一份国会披露文件显示该议员账户在2025年12月30日和12月24日分别有减持动作，叠加2025年10月和2025年初多次减持记录，长期来看减持频率明显高于增持，趋势偏空",
+      "近期新闻标题「拖累标普500的是什么？苹果成焦点」表明苹果近期走势疲弱，是大盘下跌的拖累因素之一，而非避风港",
+      "市场情绪面临AI叙事混乱的冲击：英伟达CEO黄仁勋意外卸任引发关于AI接班人选的各种猜测（包括特朗普社交媒体上关于蒂姆·库克的言论），这类噱头性讨论反而凸显市场对AI龙头治理与接班不确定性的担忧，苹果若被动卷入该叙事，估值逻辑可能被情绪化炒作干扰而非基本面驱动"
     ],
     "watch": [
-      {
-        "point": "Nvidia CEO继任人选尚未确定，相关不确定性可能持续影响市场对AI硬件生态（含苹果自研芯片与供应链伙伴）的预期"
-      },
-      {
-        "point": "美国国债收益率上行（提及触及5%）对高估值成长股估值的压制效应，需关注利率环境变化对AAPL估值倍数的影响"
-      },
-      {
-        "point": "跟踪者（如Pelosi）后续是否有新的申报动作，以及其买入与减持记录之间的矛盾信号是否会在下一期披露中进一步明确方向"
-      }
+      "特朗普在社交媒体上发帖称蒂姆·库克应接替黄仁勋担任英伟达CEO，此类言论真实性与影响力存疑，但若持续发酵可能引发市场对苹果管理层稳定性的关注，需留意苹果官方及库克本人是否回应",
+      "黄仁勋卸任英伟达CEO及其后续动向（有分析类比1997年乔布斯回归苹果的历史案例）是本周AI板块核心变量，需关注英伟达财报（本周发布）及联储会议纪要如何影响整体AI交易情绪，进而传导至苹果供应链与估值",
+      "跟踪者（如佩洛西账户）后续披露文件中对AAPL仓位的进一步调整方向，以及其一致呈现的减持趋势是否会延续或逆转，是判断聪明钱对苹果态度的重要观察点"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果（AAPL）是全球市值领先的消费电子与软件服务公司，核心业务包括iPhone、Mac、iPad、可穿戴设备以及服务业务（App Store、云服务、订阅等）。公司近年持续强调自研芯片与生态整合能力，并被市场视为AI终端应用落地的重要载体之一，尽管其AI叙事更多体现在端侧集成而非基础模型研发层面。"
-      },
-      {
-        "heading": "近期市场环境",
-        "body": "当前市场正经历由Nvidia CEO Jensen Huang意外辞任引发的剧烈波动，AI与半导体板块普遍承压，AMD、Marvell等相关个股出现显著回调，同时十年期美债收益率走高至5%附近，压制高估值成长股估值中枢。大盘指数（标普500、道指、纳指）在剧烈波动中仍录得周度上涨，显示市场情绪尚未全面转向防御。"
+        "body": "苹果（AAPL）是全球市值最大的消费电子与服务公司之一，主营iPhone、Mac、iPad等硬件产品及App Store、iCloud、Apple Music等服务业务。公司现金流充沛、品牌与生态壁垒深厚，长期被视为科技股中的「压舱石」资产，但近期在AI叙事主导的市场中被认为创新步伐相对滞后。"
       },
       {
         "heading": "跟踪者动向解读",
-        "body": "公开披露显示，国会议员Pelosi在2025年12月30日申报了一笔AAPL新建多头仓位，但同一批文件及此前多期披露中也持续出现减持记录（分别涉及2025年12月24日、2025年10月22日及2024年12月31日），买入与卖出信号并存，难以得出单一方向性结论。此外，Trump在社交平台公开提及Tim Cook，将其与Nvidia管理层变动相联系，更多反映政治人物对科技行业格局的评论，而非基于基本面的明确态度。"
+        "body": "公开披露的国会交易记录显示，相关账户在2025年至2026年初对AAPL的操作呈现「先小幅新增、随后多次减持」的格局，2025年12月30日曾出现一笔新增多头，但同期及此前（2025年10月、2025年12月24日、2024年12月）均有减持记录，整体减持信号数量明显多于增持，提示聪明钱对苹果估值或前景存在分歧，净态度偏谨慎。"
       },
       {
-        "heading": "多空分歧焦点",
-        "body": "市场多空分歧主要集中在两点：一是苹果能否在端侧AI应用上形成差异化优势，从而受益于当前AI硬件热潮而非被动承压；二是在利率上行与AI板块估值重估的背景下，苹果作为高权重、高估值股票是否会被纳入整体「去泡沫化」的调整范畴。看多者关注产品需求端的积极信号（如部分报道提及的售罄现象），看空者则担忧板块联动风险与机构持续加码的空头仓位。"
+        "heading": "围绕AI领导力真空的舆情",
+        "body": "本周市场焦点集中在英伟达CEO黄仁勋意外卸任，引发关于AI板块接班人与领导力真空的广泛讨论。特朗普在社交媒体上提出由蒂姆·库克接任英伟达CEO的言论被部分评论人士质疑（如将苹果、麦当劳与英伟达类比为不同性质的公司，认为该建议不合理），这类噱头性话题虽不涉及苹果基本面，但可能短期影响市场对苹果管理层角色与AI战略定位的关注度和情绪面波动。"
       },
       {
-        "heading": "潜在催化剂与风险",
-        "body": "潜在催化剂包括：苹果AI相关功能或硬件的进一步落地、节假日购物季终端需求数据、以及Nvidia继任CEO人选明确后市场情绪的企稳。潜在风险包括：AI资本开支预期下修对整个科技板块估值的连带冲击、美债利率持续上行对成长股折现率的压制，以及跟踪者披露中买卖并存所反映的机构内部分歧可能预示更广泛的观望态度。"
+        "heading": "宏观与板块联动",
+        "body": "近期新闻显示，标普500指数在英伟达财报、美联储会议纪要及Anthropic IPO等多重事件前整体承压下跌，其中有报道明确指出苹果是拖累大盘表现的个股之一。半导体与AI算力相关标的（Marvell、CoreWeave、Oracle、Nebius等）同期也出现明显调整，显示AI交易整体降温对科技权重股形成共振压力，苹果股价表现与大盘AI情绪高度相关。"
       },
       {
-        "heading": "可比公司参考",
-        "body": "在可比分析中，可将苹果与同样深度参与AI生态但业务模式不同的大型科技公司进行对照，包括同为消费硬件及生态巨头的公司，以及在AI基础设施层面受本轮Nvidia事件直接冲击的半导体公司，以帮助判断苹果股价波动中有多少属于板块联动、多少属于公司特定因素。"
+        "heading": "估值与资金流观察",
+        "body": "在AI泡沫担忧升温（如知名空头迈克尔·伯里加仓做空纳斯达克100并将当前高点类比2000年3月互联网泡沫顶部）的背景下，市场资金出现从高估值AI算力股向防御性或现金流稳定资产轮动的讨论。苹果作为现金流充裕、估值相对AI算力股更为保守的公司，可能在风险偏好下降阶段获得部分避险配置关注，但其自身也被视为大盘科技权重股而非独立于AI叙事之外的资产。"
+      },
+      {
+        "heading": "风险与展望",
+        "body": "短期关键变量包括：英伟达财报与管理层过渡进展、美联储会议纪要对利率路径的指引、以及AI板块整体情绪是否企稳。跟踪者持续减持的信号与特朗普言论等噱头性新闻叠加，使得苹果短期走势存在较高不确定性，多空双方均有合理依据，建议持续关注后续财报指引、AI产品线进展及跟踪者披露的最新动向，而非依赖单一信号做判断。"
       }
     ],
     "comparables": [
       {
-        "ticker": "MSFT",
-        "name": "微软",
-        "note": "同属大型科技权重股，AI布局集中在云服务与企业软件层，受益逻辑与苹果的端侧AI路径不同，可用于区分板块性与公司特定驱动因素"
-      },
-      {
         "ticker": "NVDA",
         "name": "英伟达",
-        "note": "本轮市场波动的直接源头，CEO变动及AI资本开支预期变化对其股价冲击最大，苹果作为其下游生态伙伴间接受到情绪传导"
+        "note": "AI算力龙头，近期因CEO黄仁勋卸任引发市场对AI板块领导力与接班问题的广泛讨论，是本周影响整体科技股情绪的核心变量"
       },
       {
-        "ticker": "GOOGL",
-        "name": "谷歌母公司Alphabet",
-        "note": "同为AI与消费生态并重的公司，近期获多家机构看好（如被提及纳入逢低买入名单），可作为对比苹果在AI叙事中相对强弱的参照"
+        "ticker": "MRVL",
+        "name": "迈威尔科技",
+        "note": "AI存储与互联芯片厂商，近期因AI内存技术发布及人事变动受到关注，股价波动可作为AI硬件链景气度的参照"
+      },
+      {
+        "ticker": "MSFT",
+        "name": "微软",
+        "note": "同为大型科技权重股，在AI叙事与云服务布局上与苹果形成对比，可用于衡量市场对「AI投入型」与「现金流防御型」科技股的相对偏好"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-14T01:23:42.594958Z"
+    "generatedAt": "2026-11-17T03:33:45.951178Z"
   },
   "news": [
     {
-      "id": "AAPL-143805511",
-      "title": "Nvidia's competitors pounce, and what GPU rental prices say about the AI race",
+      "id": "AAPL-143854557",
+      "title": "David Tepper’s Appaloosa Goes Big on SpaceX, While Slashing Alphabet Stake",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=1fc1d13f73bcf983a5eb38cc36c23709e38240955653931730eeff6a5cf85c19",
+      "publishedAt": "2026-11-16",
+      "url": "https://finnhub.io/api/news?id=0de404b2bafd13f96cbdefd9ca9180f568a642bcafd0e82cdcad092a64dfdb37",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143805230",
-      "title": "Stock Market Today: Indexes Trim Losses, Manage To Score Weekly Gains Despite Strong Volatility",
+      "id": "AAPL-143850647",
+      "title": "Berkshire Boosts Lennar, Starts Bending Spoons, Trims Bank Of America In Q3",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=151dacea4fb01da21ba22fb4ef780e793df7e558bbc22db74fe00e4bc4c94eaf",
+      "publishedAt": "2026-11-16",
+      "url": "https://finnhub.io/api/news?id=4a5031bd5f84d1f7e60e1c3881cde54f756bc2b7bccb033fdc26b93ffb37ad39",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143805228",
-      "title": "A $1,999 Sellout. What China Renaissance Sees in Apple (AAPL)",
+      "id": "AAPL-143850650",
+      "title": "Huang’s ‘trillion-dollar dinners’ with Taiwan chip bosses were Nvidia’s secret weapon. Now he’s out. Can he be replaced?",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=983dcf7597b733fd15c5c76fa71ee7fc2ac93d041eaa8ae602c66611345117d7",
+      "publishedAt": "2026-11-16",
+      "url": "https://finnhub.io/api/news?id=ef6c0db9d5cb7fa9baa81c5aad7eb0517bdb595ea10725da7fd760d7b84e2530",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143805231",
-      "title": "Inside Jim Cramer’s Charitable Trust: 5 Stocks He Actually Owns",
+      "id": "AAPL-143854001",
+      "title": "Here's What Berkshire Hathaway Bought and Sold in Q3",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=770781c3648449b4bd5eadeb2eefe4f00628b6042ce6b2f31d7035af97e7600b",
+      "publishedAt": "2026-11-16",
+      "url": "https://finnhub.io/api/news?id=de5085bf48f0f8613d05e037a329d798ab61b09218da115c7d1ea49520ec291c",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143805232",
-      "title": "The Price Tag on Jensen Huang’s Resignation: $639 Billion and Counting",
+      "id": "AAPL-143850649",
+      "title": "Nvidia is not considering rehiring Jensen Huang, and Amazon's data center gets bought",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=1b77d1df80ed0f5ab6d066e9ab4d2d8c07bac9e2d1cb2a1fb2bed3cff3274c87",
+      "publishedAt": "2026-11-16",
+      "url": "https://finnhub.io/api/news?id=2c187bcc0c45d3792e728d697d5ab75445f40c510d0907866e90edf00973ed69",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143805229",
-      "title": "Meta tests prediction-market app for employees, WSJ reports",
+      "id": "AAPL-143850341",
+      "title": "What's dragging down the S&P 500? Apple in focus",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=8b1c1f045cdbbffaad8f9c103ff75da573581d8bc2016334dd3b10f02de62a5f",
+      "publishedAt": "2026-11-16",
+      "url": "https://finnhub.io/api/news?id=247299d1ab30b189136329f7a2f877cabe730885cc260e39bc2ee29038a00a3f",
       "tags": [
         "AAPL"
       ]

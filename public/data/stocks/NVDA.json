@@ -3,28 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 162.85,
-  "change5dPct": -10.3,
-  "changeYtdPct": -30.9,
-  "marketCap": "$3.92T",
-  "pe": 20.8,
+  "price": 156.14,
+  "change5dPct": -12.6,
+  "changeYtdPct": -29.8,
+  "marketCap": "$3.76T",
+  "pe": 20.3,
   "revenue": "—",
   "revenueYoYPct": 83,
   "prices": [
-    {
-      "t": "2026-05-14",
-      "o": 229.85,
-      "h": 236.54,
-      "l": 229.3,
-      "c": 235.74
-    },
-    {
-      "t": "2026-05-15",
-      "o": 229.76,
-      "h": 231.5,
-      "l": 224.24,
-      "c": 225.32
-    },
     {
       "t": "2026-05-18",
       "o": 229.87,
@@ -899,145 +885,141 @@
       "h": 167.14,
       "l": 148.8,
       "c": 166.19
+    },
+    {
+      "t": "2026-11-13",
+      "o": 169.91,
+      "h": 170.0,
+      "l": 158.39,
+      "c": 162.85
+    },
+    {
+      "t": "2026-11-16",
+      "o": 159.02,
+      "h": 163.2,
+      "l": 155.01,
+      "c": 156.14
     }
   ],
   "thesis": {
     "bull": [
-      {
-        "point": "黄仁勋辞任CEO后，市场传言埃隆·马斯克等外部力量可能推动其以某种方式重返管理层，若成真可能部分扭转情绪冲击，且英伟达在数据中心GPU的市场份额与CUDA生态壁垒短期内未发生改变"
-      },
-      {
-        "point": "尽管出现管理层动荡，中国AI企业据报道仍在加紧锁定英伟达芯片产能，显示即便存在出口管制不确定性，终端需求依然强劲，核心业务基本面尚未被证实恶化"
-      },
-      {
-        "point": "员工内部投票与大规模民调显示绝大多数支持黄仁勋留任，说明公司内部文化与执行团队凝聚力仍较稳固，继任若由熟悉公司运营的内部人选主导，业务连续性风险可控"
-      }
+      "AI算力基础设施的资本支出仍处于高位，云厂商与企业客户对高端GPU及配套网络产品的采购计划尚未出现系统性收缩，公司核心业务的订单可见度依然较高",
+      "国会议员等建仓记录显示部分对冲基金与政治人物在股价回调期间逆势增持，反映部分市场参与者认为短期治理动荡尚未动摇长期基本面",
+      "公司在GPU架构、CUDA生态与规模化数据中心方案上积累的技术护城河短期内难以被竞争对手或客户自研芯片完全替代，切换成本仍然较高"
     ],
     "bear": [
-      {
-        "point": "黄仁勋被普遍认为是英伟达不可替代的创始人式领袖，分析师Dan Ives等估算其个人价值贡献高达约1万亿美元，此次辞任事件已被市场定价为约6390亿美元的市值损失，且仍在扩大"
-      },
-      {
-        "point": "股价在一个月内下跌约30%，财政部长贝森特公开质疑公司是否了解其客户情况，知名空头迈克尔·伯里加仓做空纳斯达克100与半导体板块，机构态度明显转向谨慎，华尔街已有大行将目标价从465美元大幅下调至186美元"
-      },
-      {
-        "point": "管理层继任存在高度不确定性：董事会尚未确定寻找永久继任者的猎头公司，财务负责人Kress的领导风格被部分投资者认为对以英伟达为中心的生态系统及其融资安排不利，叠加对华出口管制与所谓「间谍丑闻」的政治压力，治理与监管风险交织上升"
-      }
+      "联合创始人兼长期CEO离任后公司治理与战略连续性存在不确定性，激进投资人（如Altimeter与Atreides致董事会信函）公开施压，显示机构投资者对继任安排信心不足",
+      "美国政府进一步收紧对华高端AI芯片出口限制，叠加地缘政治摩擦，可能压缩公司在中国这一重要市场的中长期收入空间",
+      "AI资本开支的可持续性受到部分知名空头（如Michael Burry加仓做空纳斯达克100）质疑，若云厂商资本支出增速放缓或客户转向自研芯片，估值回调风险上升"
     ],
     "watch": [
-      {
-        "point": "英伟达董事会遴选永久CEO的进展与候选人选（包括是否存在黄仁勋以某种形式重返的可能性），是决定未来战略连续性的核心变量"
-      },
-      {
-        "point": "白宫及国会层面围绕对华芯片出口管制、商务部长卢特尼克去留的讨论，可能影响公司对华业务及整体监管环境"
-      },
-      {
-        "point": "同业表现分化：AMD、Marvell等竞争对手股价同步大跌但程度不同，GPU租赁价格及CoreWeave等云服务商融资传闻（如40亿美元贷款磋商）值得持续跟踪，以判断AI基础设施需求是否整体降温或仅为英伟达特定事件冲击"
-      }
+      "11月18日即将公布的季度财报将是检验「后黄仁勋时代」AI需求与执行力的关键窗口，市场普遍视其为AI行情能否延续的试金石",
+      "公司CEO人选最终归属存在高度不确定性，包括黄仁勋是否「回归」的传闻、临时管理层（如财务负责人Kress）的角色，以及是否引入外部人选均需持续跟踪",
+      "激进股东（Altimeter、Atreides）与董事会之间的博弈进展，以及相关请愿与舆论压力是否转化为实质性治理变化，值得密切关注"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达是全球领先的GPU与AI加速计算公司，凭借CUDA软件生态与数据中心芯片在生成式AI基础设施建设中占据主导地位。2026年11月，创始人兼长期CEO黄仁勋宣布辞任，引发公司治理与战略方向的重大不确定性，成为近期市场关注的焦点事件"
+        "body": "NVIDIA是全球领先的图形处理器与AI加速计算公司，产品覆盖数据中心GPU、网络互连设备及软件生态（CUDA），客户以超大规模云计算厂商、企业及主权AI项目为主。公司过去数年受益于生成式AI训练与推理需求的爆发式增长，成为全球市值最高的科技公司之一。近期市场关注点从产品周期转向了公司治理层面的突发变化。"
       },
       {
-        "heading": "近期动态",
-        "body": "黄仁勋辞任消息导致股价单月下跌约30%，市值蒸发规模据估算达6390亿美元以上并仍在扩大。CNBC援引董事会消息称尚未选定猎头公司寻找永久继任者。与此同时，有报道称前CEO与第二名员工存在关系的传闻，以及财务负责人Kress的领导风格引发部分投资者对公司生态与融资安排的担忧"
+        "heading": "领导层动荡与治理",
+        "body": "市场近期围绕联合创始人兼CEO黄仁勋的去留出现大量讨论，包括其「离任」传闻、是否「回归」的猜测，以及公司高层（如财务负责人Kress）在过渡期中角色的争议。社交媒体上出现要求黄仁勋重新掌舵的请愿，同时激进投资机构Altimeter与Atreides联名致信董事会表达关切。这类治理不确定性在短期内成为压制股价情绪的核心变量，市场对继任安排及战略连续性存在明显分歧。"
       },
       {
-        "heading": "多空分歧",
-        "body": "多方观点认为，黄仁勋的个人魅力与远见固然重要，但英伟达在GPU架构、供应链整合与CUDA护城河上建立的优势并非一人之力可以瞬间瓦解，中国厂商抢购芯片产能即为需求端仍然强劲的证据。空方则强调，黄仁勋对客户关系、供应链资源调动（如拜访亚洲供应商）及资本号召力具有不可替代性，一旦创始人式领导力缺失，估值中枢可能面临长期重估，财政部长公开质疑及知名空头加仓做空进一步放大市场疑虑"
+        "heading": "近期业绩与增长动能",
+        "body": "11月18日的季度财报被广泛视为检验AI资本支出周期是否降温的关键事件，叠加同期美联储会议纪要与Anthropic上市等重大事件，本周被市场称为近期最重要的交易窗口之一。从新闻流看，CoreWeave、Oracle、Nebius等AI云服务商股价因「Nvidia效应」出现联动下跌，显示市场对AI产业链整体需求的担忧有所升温，而非仅针对单一公司。"
       },
       {
-        "heading": "政策与地缘风险",
-        "body": "对华出口管制政策持续是悬而未决的变量，有报道称白宫内部正讨论商务部长卢特尼克的去留，与英伟达CEO风波及其对华政策执行存在关联。中国AI企业据称正加速锁定现有芯片库存以防范未来管制收紧，这既反映需求韧性，也凸显地缘政治对公司长期供应与市场准入的潜在扰动"
+        "heading": "政策与地缘政治风险",
+        "body": "美国政府计划进一步收紧对华高端AI芯片出口限制，这将直接影响公司在中国市场的收入敞口与长期战略布局。与此同时，中美在芯片领域的博弈仍是行业共同面对的结构性变量，相关政策走向会持续影响公司及同业的收入预期与产品路线图调整。"
       },
       {
-        "heading": "同业与产业链影响",
-        "body": "英伟达此次冲击波及整个半导体与AI基础设施产业链，AMD、Marvell等竞争对手股价同步重挫，但程度与归因存在差异（如Marvell还受到自身并购估值及评级下调因素影响）。Bloom Energy、Vertiv等数据中心电力与基础设施相关标的近期出现反弹，显示市场对「AI建设周期是否整体放缓」与「英伟达特定事件冲击」两种叙事仍在博弈"
+        "heading": "市场情绪与资金动向",
+        "body": "从披露的交易记录看，部分国会议员在股价回调阶段仍有逢低加仓的动作，但历史记录中也存在买入后短期内再减仓的情况，反映出即便是信息相对占优的参与者对走势判断也并不一致。社交平台上关于黄仁勋去留的讨论热度极高，部分声音强调其对公司生态与供应链动员能力的不可替代性，也有声音对董事会决策提出质疑，整体情绪呈现高度两极化。"
       },
       {
-        "heading": "跟踪者与舆情信号",
-        "body": "国会议员佩洛西过去一年多次申报英伟达股票交易，方向上有新增持仓亦有部分减持，未呈现单一清晰立场。社交媒体与民调显示散户与员工群体压倒性支持黄仁勋留任（约91%支持比例），但政治人物公开评论（如建议由苹果CEO蒂姆·库克接任）增添了舆论的不确定性与戏剧性，这类信号更多反映市场情绪波动，而非公司基本面的直接证据"
+        "heading": "估值与同业比较",
+        "body": "在AI硬件板块整体承压的背景下，公司估值与AMD、Broadcom、Marvell等同业公司的相对表现出现联动，市场开始更细致地区分受益于通用GPU需求与受益于定制化AI芯片（ASIC）需求的公司。部分分析师同时提示，当前板块估值对宏观流动性与资本支出假设的敏感度较高，是否出现类似2000年科技泡沫的回调风险存在争议。"
       }
     ],
     "comparables": [
       {
         "ticker": "AMD",
         "name": "Advanced Micro Devices",
-        "note": "GPU与数据中心加速卡领域主要竞争对手，近期同步大跌，跌幅约9%，被视为AI芯片板块情绪的联动指标"
+        "note": "GPU与数据中心加速器业务的直接竞争对手，近期股价同样随AI板块情绪波动"
       },
       {
         "ticker": "AVGO",
         "name": "Broadcom",
-        "note": "定制化AI芯片与网络互联方案提供商，常被列为英伟达生态之外的替代叙事对象"
+        "note": "受益于定制化AI芯片（ASIC）与网络互连需求，被部分投资者视为分散AI硬件集中度风险的替代配置"
       },
       {
         "ticker": "MRVL",
         "name": "Marvell Technology",
-        "note": "数据中心互联与定制芯片厂商，近期受评级下调及并购价差扩大等因素叠加下跌，与英伟达走势部分联动但驱动因素不同"
+        "note": "在AI内存与定制芯片领域有新进展，近期因董事会扩容及AI存储方案发布受到关注"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-14T01:21:14.429952Z"
+    "generatedAt": "2026-11-17T03:31:40.194494Z"
   },
   "news": [
     {
-      "id": "NVDA-143805512",
-      "title": "S&P 500, Dow, Nasdaq End Lower Amid Nvidia Turmoil, But Record Best Week Since August —  SPCX, NVDA, ARM, AZN In Focus",
+      "id": "NVDA-143856235",
+      "title": "Investors Are Fleeing Navitas Semiconductor (NVTS). Here’s Why",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=8883930906339ea2702d39740cca5933cd51cd819a6ff65f5b6953a44eef2a78",
+      "publishedAt": "2026-11-17",
+      "url": "https://finnhub.io/api/news?id=31c26e0cd15334c84e38c6e46fadcde38522488b952f97b97780226806b19143",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143805519",
-      "title": "Sandisk Stock Fell Back Under $900 on Friday. I'd Start With a Small Position.",
+      "id": "NVDA-143856227",
+      "title": "Nvidia earnings to test AI boom after Huang's exit",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=a57498c628cb0032fa23fde9cc67d798216302eb02d785bc035063d0c7dc67d1",
+      "publishedAt": "2026-11-17",
+      "url": "https://finnhub.io/api/news?id=47452ed0648fab9f518a837a16380505a6a7ccec5f8133a4ac378d9205180444",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143805520",
-      "title": "Why Newsmax Stock Popped on Friday",
+      "id": "NVDA-143856228",
+      "title": "Prediction: Nov. 18 Will Be a Huge Day for AI Power Stocks. Here’s Why.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=bea622e07473eca5c64a5abb3a5ffa4311e404c9610ac9c2030515b39a38e8b6",
+      "publishedAt": "2026-11-17",
+      "url": "https://finnhub.io/api/news?id=6a2c3abdbc6db76971c4f324a0d78de61609f237ae127f86749d99c59939bc40",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143805513",
-      "title": "Why Intel Stock Slumped Today",
+      "id": "NVDA-143856236",
+      "title": "What SharonAI (SHAZ) Said on Its Q3 Earnings Call",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=cf73b339f6ee94bd531fa99dd101e301e6ccca89981288579b5569a5353b7e22",
+      "publishedAt": "2026-11-17",
+      "url": "https://finnhub.io/api/news?id=0e83363725985736e92d2a239448212aee0cf1f0c2a99d5eb169941c012525b0",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143805514",
-      "title": "Wall Street stocks mostly lower as Nvidia extends slump",
+      "id": "NVDA-143856237",
+      "title": "SpaceX Just Brought a Starship Back From Orbit and Caught It. Here's the Part of the Business That Gains the Most.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=0d9b9cfa98b5ec996c26cf12ec3cac006164623cc2af91af3c48da84732a5b82",
+      "publishedAt": "2026-11-17",
+      "url": "https://finnhub.io/api/news?id=2383ef5354a8c8ac60eeff59353abafa7aa403712868fc8e0dae268ca36caa80",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143805524",
-      "title": "Stock Market Today, Nov. 13: CoreWeave Falls Over 6% on AI-Cloud Selling and Reported $4 Billion Loan Talks",
+      "id": "NVDA-143854156",
+      "title": "This Is a Huge Week for the Stock Market: Nvidia Earnings, Fed Minutes, and Anthropic’s IPO",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=12c86d8215eb32b3613664273027f4d0348f6b9a3dc7fbcdaacfced282718328",
+      "publishedAt": "2026-11-17",
+      "url": "https://finnhub.io/api/news?id=3aa37774fbae62d6611f869f3f52bb1660e5e496139a8f66b78a28a93e2d5daf",
       "tags": [
         "NVDA"
       ]

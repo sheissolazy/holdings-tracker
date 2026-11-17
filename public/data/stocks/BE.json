@@ -3,28 +3,14 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 191.99,
-  "change5dPct": 14.6,
-  "changeYtdPct": -36.7,
-  "marketCap": "$56.8B",
-  "pe": 108.9,
+  "price": 177.28,
+  "change5dPct": -8.6,
+  "changeYtdPct": -31.5,
+  "marketCap": "$52.4B",
+  "pe": 101.1,
   "revenue": "—",
   "revenueYoYPct": 111,
   "prices": [
-    {
-      "t": "2026-05-14",
-      "o": 291.0,
-      "h": 310.0,
-      "l": 282.1,
-      "c": 303.41
-    },
-    {
-      "t": "2026-05-15",
-      "o": 286.79,
-      "h": 288.7,
-      "l": 275.4,
-      "c": 275.95
-    },
     {
       "t": "2026-05-18",
       "o": 275.66,
@@ -899,127 +885,159 @@
       "h": 208.9,
       "l": 193.44,
       "c": 201.93
+    },
+    {
+      "t": "2026-11-13",
+      "o": 200.45,
+      "h": 205.92,
+      "l": 183.89,
+      "c": 191.99
+    },
+    {
+      "t": "2026-11-16",
+      "o": 176.6,
+      "h": 183.2,
+      "l": 173.9,
+      "c": 177.28
     }
   ],
   "thesis": {
     "bull": [
-      "国会跟踪动向显示佩洛西在2026年7月下旬两次新建BE多头仓位（披露于8月21日），反映部分政治人物资金对公司前景的乐观预期",
-      "近期市场情绪转暖，HSBC等机构看多BE并提示有较大反弹空间，相关报道提及股价单周上涨约13%，显示资金对数据中心电力标的的修复性买盘",
-      "AI数据中心建设对分布式发电与备用电力需求持续扩张，作为固体氧化物燃料电池供应商，BE处于「AI电力基建」主题的核心受益逻辑之中"
+      {
+        "point": "Bloom Energy的固体氧化物燃料电池被视为AI数据中心短期备用/主力电力解决方案之一，媒体多次将其与英伟达财报后的「AI电力股」叙事绑定，11月18日前后被称为该板块的关键节点"
+      },
+      {
+        "point": "国会议员佩洛西在2026年7月下旬两次新建BE相关多头仓位（期权/股票），公开披露时间为8月21日，显示部分政治人物对其数据中心电力叙事持乐观态度"
+      },
+      {
+        "point": "社交媒体披露的Situational Awareness基金13F显示其对BE持有约3.89亿美元看涨期权头寸，规模在其AI算力相关持仓中位居首位，反映部分专业投资者押注BE受益于算力扩张带来的电力需求"
+      }
     ],
     "bear": [
-      "英伟达CEO离任引发AI板块估值剧烈重定价，相关波动外溢至电力与基建类AI概念股，BE股价走势与芯片板块情绪高度联动而非独立定价",
-      "十年期美债收益率升至约5%的高位，对资本密集、尚未实现稳定自由现金流的公司估值构成压力，融资与再估值环境趋紧",
-      "数据中心电力需求叙事在近期出现「恐慌-缓解」式的剧烈摆动，说明该板块定价对宏观叙事和同业消息高度敏感，BE自身基本面是否支撑估值仍缺乏独立验证"
+      {
+        "point": "近期报道显示BE股价在一个月内下跌约26%，市场对其能否重新站上250美元存在明显分歧，说明短期动能已经转弱"
+      },
+      {
+        "point": "燃料电池行业整体预期到2030年才达到180亿美元规模，行业报道同时指出「各家季度业绩分化」，意味着增长故事尚未在财务数据上普遍兑现"
+      },
+      {
+        "point": "英伟达CEO黄仁勋卸任引发的AI算力板块连锁抛售（CoreWeave、Oracle、Nebius等大跌）以及迈克尔·伯里加仓纳斯达克100指数空头头寸，表明AI算力链条估值普遍承压，BE作为「AI电力」叙事股容易被情绪传导"
+      }
     ],
     "watch": [
-      "同属AI基建链的Nebius等云厂商最新财报显示收入与调整后EBITDA高速增长但净利润仍为负，需关注BE自身盈利路径是否呈现类似「高增长、未转正」特征",
-      "英伟达尚未确定永久继任CEO人选，需跟踪AI资本开支连续性是否受此治理不确定性影响，进而传导至BE的订单与交付节奏",
-      "国会议员BE交易披露存在披露时点滞后（交易发生于7月下旬，披露于8月21日），需持续跟踪后续是否有新增减仓或其他政治人物跟进动向"
+      {
+        "point": "英伟达11月财报及美联储会议纪要公布后市场情绪的变化，将直接影响AI数据中心资本开支预期，进而传导至BE的电力需求假设"
+      },
+      {
+        "point": "Situational Awareness等机构的看涨期权头寸后续是否继续加仓或获利了结，可作为专业资金对BE叙事信心变化的观察窗口"
+      },
+      {
+        "point": "BE自身即将公布的季度财报中订单积压、毛利率及现金流数据，将检验「AI电力」叙事能否转化为实际财务改善"
+      }
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy是固体氧化物燃料电池技术供应商，产品主要用于企业、工业及数据中心场景的分布式发电与备用电力。随着AI数据中心对持续、可靠电力供给的需求上升，公司被市场视为「电力瓶颈」主题下的潜在受益标的之一。"
+        "body": "Bloom Energy是一家专注于固体氧化物燃料电池技术的能源公司，产品主要用于为数据中心、工业设施及电网提供分布式发电和备用电力。随着人工智能算力扩张带来的电力需求激增，公司被市场重新定位为「AI电力基础设施」相关标的，而非单纯的清洁能源公司。"
       },
       {
-        "heading": "近期股价与市场表现",
-        "body": "公开报道显示BE股价近期出现明显反弹，单周涨幅被报道为约13%，与Vertiv等数据中心基建相关股票同步走强，市场解读为此前对数据中心建设放缓的担忧有所缓解。同时也有报道提出「BE股价能否再涨50%」等多头叙事，显示市场预期分化较大。"
+        "heading": "增长动力",
+        "body": "核心驱动来自数据中心运营商和算力供应商对快速、可靠电力的迫切需求，传统电网扩容周期长，燃料电池可在无需等待电网升级的情况下提供现场发电，这是近期媒体反复提及的叙事支点。多篇报道将11月中旬视为AI电力股的关键窗口，显示市场对需求端的持续关注。"
       },
       {
-        "heading": "多空分歧",
-        "body": "多头逻辑集中于AI数据中心电力需求的结构性增长以及机构（如HSBC）看多评级；空头或谨慎逻辑则指向板块情绪对英伟达等芯片龙头事件的高度敏感性，以及高利率环境下资本密集型企业估值承压。两者分歧的核心在于：AI电力基建需求是长期结构性趋势，还是当前被情绪放大的短期叙事。"
+        "heading": "财务与估值分歧",
+        "body": "公开报道提到BE股价近一个月下跌约26%，并质疑其回到前期高点（约250美元）所需的条件，说明市场对当前估值是否已充分反映增长预期存在较大分歧。燃料电池行业预计到2030年整体规模达180亿美元，但同期行业内企业季度业绩表现分化明显，意味着并非所有参与者都能同步兑现增长。"
       },
       {
-        "heading": "政治/内部人动向",
-        "body": "公开的国会交易披露显示，佩洛西在2026年7月下旬两次新建BE多头仓位，相关披露于8月21日提交。此类披露反映部分政治人物对公司前景持positive态度，但披露存在时滞，且不代表其对公司基本面有超出公开信息的判断，投资者应结合其他信息独立评估。"
+        "heading": "竞争与行业格局",
+        "body": "BE所处的分布式发电/燃料电池赛道还包括Plug Power、FuelCell Energy等公司，同时在「数据中心电力解决方案」这一更广泛的叙事下，还与GE Vernova、Vertiv等传统电力设备及基础设施公司存在部分需求重叠。行业整体仍处于从示范项目向规模化商业订单过渡的阶段。"
       },
       {
-        "heading": "宏观与行业背景",
-        "body": "近期市场背景包括英伟达CEO黄仁勋意外离任引发的AI板块剧烈波动、十年期美债收益率升至约5%的高位、以及Marvell、AMD等芯片股大幅回调。同时也有报道称数据中心相关恐慌情绪有所缓解，资金重新流入Bloom Energy、Vertiv等电力与基建类标的，显示板块内部出现结构性分化。"
+        "heading": "资金与跟踪者动向",
+        "body": "公开披露显示，国会议员佩洛西在2026年7月下旬两次新建BE相关多头仓位；社交媒体披露的某对冲基金13F文件显示其持有约3.89亿美元BE看涨期权，是其算力相关持仓中最大的单一头寸之一。这些信号显示部分政治人物和专业投资者对BE的AI电力叙事持乐观态度，但这类披露存在滞后性，不能完全反映当前实时仓位。"
       },
       {
         "heading": "风险与关注点",
-        "body": "主要风险包括：AI资本开支的持续性在英伟达治理不确定性下存疑；高利率环境对公司融资成本与估值倍数的压制；板块情绪对单一事件（如芯片龙头人事变动）的高敏感度可能导致股价与基本面脱钩。建议持续关注公司自身订单、产能交付及现金流数据，而非仅依赖板块情绪或政治人物交易信号。"
+        "body": "主要风险包括：英伟达CEO更替后引发的AI算力板块估值重新评估和连锁抛售情绪，可能通过情绪传导影响BE股价；宏观层面知名空头投资人加仓纳斯达克看跌头寸，暗示部分机构认为当前AI相关板块估值已偏离基本面；此外，公司自身订单能否持续转化为收入和利润仍需后续财报验证。"
       }
     ],
     "comparables": [
       {
+        "ticker": "PLUG",
+        "name": "Plug Power",
+        "note": "同属氢能与燃料电池领域，与BE在分布式发电及能源基础设施叙事上存在直接对标关系"
+      },
+      {
         "ticker": "FCEL",
         "name": "FuelCell Energy",
-        "note": "同属燃料电池技术路线的竞争对手，可用于比较技术路径与盈利能力差异"
+        "note": "另一家固体氧化物及其他类型燃料电池厂商，季度业绩波动性可作为行业分化的参照"
       },
       {
         "ticker": "GEV",
         "name": "GE Vernova",
-        "note": "电力设备与电网基建龙头，可作为AI数据中心电力需求主题的大盘对照"
-      },
-      {
-        "ticker": "VRT",
-        "name": "Vertiv",
-        "note": "数据中心基础设施与冷却/电力管理供应商，近期与BE同步受益于数据中心建设情绪回暖"
+        "note": "提供电网及发电设备，是数据中心电力解决方案叙事下的大型传统电力设备对比标的"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-14T01:23:00.273789Z"
+    "generatedAt": "2026-11-17T03:33:00.089113Z"
   },
   "news": [
     {
-      "id": "BE-143805615",
-      "title": "Bloom Energy Supports Louisiana Disaster Relief Ahead of Texas-LSU Matchup",
+      "id": "BE-143852148",
+      "title": "S&P 500, Dow, Nasdaq End Lower As Investors Hold Back Ahead Of Nvidia Earnings, Anthropic IPO This Week —  NVDA, TSLA, ANT In Focus",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=0d48b9755d0f09be2be39ce15c7a64ea8a8eef60874587f1cd011d2d36334500",
+      "publishedAt": "2026-11-17",
+      "url": "https://finnhub.io/api/news?id=947c6dabff9b185059b77dd7080dd7859482ac74c838af5eeb8b327b20851188",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143805044",
-      "title": "Can Bloom Energy Stock Jump 50%?",
+      "id": "BE-143851599",
+      "title": "Fuel Cell Market Seen at $18 Billion by 2030 as Quarterly Results Diverge",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=85299aeb7056ea69d7dfd4cf261acdc8c0a21e31055b0d7b087869a5f9f687db",
+      "publishedAt": "2026-11-17",
+      "url": "https://finnhub.io/api/news?id=bd6de464d931ea2b5955f1da0e84db904b19d68db37dcf48d0eee721d3e24071",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143805041",
-      "title": "HSBC Sees Room for a Big Rebound in Bloom Energy Stock",
+      "id": "BE-143850794",
+      "title": "Here Is What Most Retail Investors Miss About Bloom Energy Stock",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=3d5651b3fbeecdcb1cc71521a60aa8eedd88f874261382894f4204086951c505",
+      "publishedAt": "2026-11-16",
+      "url": "https://finnhub.io/api/news?id=8d6ebccaedf8c7e807ced16ae3a0f9a2018c74b7457e6e949b067f1869749486",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143804961",
-      "title": "HSBC Says Buy the Dip in These 11 Stocks -- Alphabet and Oracle Top the List",
+      "id": "BE-143850485",
+      "title": "S&P 500 Tumbles 1.9%. It’s Not Just AI.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=41ad63f4a971868b1dac34ab948ea98f411df94edc990b65f2d357af70183969",
+      "publishedAt": "2026-11-16",
+      "url": "https://finnhub.io/api/news?id=9d69eb8cc3c70514d7956824dc630020f4d0e257213370155ca3bcf983c511ac",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143804641",
-      "title": "Bloom Energy Soars 13%, Vertiv Up 14% in a Week as Data-Center Fears Ease",
+      "id": "BE-143850518",
+      "title": "Bloom Energy Is Down 26% in a Month. What Will It Take to Get BE Stock Back to $250?",
       "source": "Yahoo",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=196b6930c747d092e563c0e5b7674418f0bb21d616be69721f9dd84330a07316",
+      "publishedAt": "2026-11-16",
+      "url": "https://finnhub.io/api/news?id=de40087e64f271d61613adececd6cbcf971268a1ea9992a65e9d7196ec2a62ab",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-143802644",
-      "title": "11 AI Stocks to Buy on Dips: 'Don't Waste a Good Sell-Off,' Analyst Says",
-      "source": "Benzinga",
-      "publishedAt": "2026-11-13",
-      "url": "https://finnhub.io/api/news?id=9e25e4d1f539d00a245e8a09d8783622f0a4cb0190b295e6d5eec032543f95f3",
+      "id": "BE-143850620",
+      "title": "S&P 500 Top Movers: Gainers and Losers for Nov. 16, 2026",
+      "source": "ChartMill",
+      "publishedAt": "2026-11-16",
+      "url": "https://finnhub.io/api/news?id=643fd1d4c5d1bf6eff8aea504dc0b40993044b4a0d5cfdb8e997baf62d02def9",
       "tags": [
         "BE"
       ]
