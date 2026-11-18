@@ -3,11 +3,11 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 352.78,
-  "change5dPct": 0.6,
-  "changeYtdPct": 18.4,
-  "marketCap": "$5.13T",
-  "pe": 38.8,
+  "price": 351.91,
+  "change5dPct": 1.0,
+  "changeYtdPct": 18.2,
+  "marketCap": "$5.11T",
+  "pe": 38.7,
   "revenue": "—",
   "revenueYoYPct": 15,
   "prices": [
@@ -899,127 +899,134 @@
       "h": 357.13,
       "l": 351.31,
       "c": 352.78
+    },
+    {
+      "t": "2026-11-17",
+      "o": 352.83,
+      "h": 355.36,
+      "l": 349.67,
+      "c": 351.91
     }
   ],
   "thesis": {
     "bull": [
-      "机构持仓变化显示并非一致看空：2025年12月末的国会披露文件中出现对AAPL的新增多头头寸，说明仍有重量级投资者愿意逆势增持，释放出底部布局信号",
-      "苹果在当前这轮英伟达人事动荡（黄仁勋卸任）引发的AI板块重新定价中，被部分舆论视为潜在受益方，市场开始讨论苹果在AI端侧应用与自研芯片路线上的长期潜力",
-      "相较于高估值、高波动的AI算力股（如英伟达链上的CoreWeave、Oracle、Nebius等），苹果现金流稳定、品牌护城河深厚，在当前市场对AI泡沫担忧升温（如伯里加码做空纳斯达克100）的背景下，具备防御属性"
+      "苹果据称已接触三星电子寻求DRAM长期供应协议（LTA），预计2027年上半年启动、合约期4至5年，若落地有助于摆脱对CXMT等中国低价内存供应的依赖，改善供应链安全与议价能力",
+      "英伟达CEO黄仁勋多次公开表态对苹果AI业务抱有高期待，部分评论将其与1997年乔布斯回归苹果相提并论，显示市场仍对苹果AI转型留有乐观想象空间",
+      "当前AI题材股集体回调、资金出现从成长股转向防御性资产的迹象，苹果作为现金流充裕、业务多元的大盘科技股，在避险情绪升温阶段可能获得相对资金偏好"
     ],
     "bear": [
-      "同一份国会披露文件显示该议员账户在2025年12月30日和12月24日分别有减持动作，叠加2025年10月和2025年初多次减持记录，长期来看减持频率明显高于增持，趋势偏空",
-      "近期新闻标题「拖累标普500的是什么？苹果成焦点」表明苹果近期走势疲弱，是大盘下跌的拖累因素之一，而非避风港",
-      "市场情绪面临AI叙事混乱的冲击：英伟达CEO黄仁勋意外卸任引发关于AI接班人选的各种猜测（包括特朗普社交媒体上关于蒂姆·库克的言论），这类噱头性讨论反而凸显市场对AI龙头治理与接班不确定性的担忧，苹果若被动卷入该叙事，估值逻辑可能被情绪化炒作干扰而非基本面驱动"
+      "国会议员佩洛西在2024年末至2025年末的多次季度披露中呈现持续减持或退出AAPL仓位的记录，尽管同期也有一笔新建多头头寸，信号本身并不一致，整体偏谨慎",
+      "Apple Pay近期出现故障，导致即时加密货币购买功能受阻，暴露其支付基础设施在高需求或新兴应用场景下存在稳定性与可靠性隐患",
+      "市场恐慌情绪升温、避险指标走高，叠加AI关联股票普遍承压，苹果作为权重科技股若AI相关进展不及市场预期，同样可能受到情绪面拖累"
     ],
     "watch": [
-      "特朗普在社交媒体上发帖称蒂姆·库克应接替黄仁勋担任英伟达CEO，此类言论真实性与影响力存疑，但若持续发酵可能引发市场对苹果管理层稳定性的关注，需留意苹果官方及库克本人是否回应",
-      "黄仁勋卸任英伟达CEO及其后续动向（有分析类比1997年乔布斯回归苹果的历史案例）是本周AI板块核心变量，需关注英伟达财报（本周发布）及联储会议纪要如何影响整体AI交易情绪，进而传导至苹果供应链与估值",
-      "跟踪者（如佩洛西账户）后续披露文件中对AAPL仓位的进一步调整方向，以及其一致呈现的减持趋势是否会延续或逆转，是判断聪明钱对苹果态度的重要观察点"
+      "苹果与三星DRAM供应协议能否最终签署及具体定价条款，这将直接影响其硬件成本结构与毛利率，预计2027年上半年才会落地，需持续跟踪进展",
+      "社交媒体与政治人物（如特朗普提及库克可能接替黄仁勋）围绕苹果高管的话题化讨论增多，属于行业噪音范畴，但需关注是否对品牌声誉或股价产生超预期的联动效应",
+      "国会议员交易申报的后续变化及其与苹果基本面消息（AI产品发布、供应链调整等）在时间上的吻合度，用以判断是否存在信息提前消化的情况"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果（AAPL）是全球市值最大的消费电子与服务公司之一，主营iPhone、Mac、iPad等硬件产品及App Store、iCloud、Apple Music等服务业务。公司现金流充沛、品牌与生态壁垒深厚，长期被视为科技股中的「压舱石」资产，但近期在AI叙事主导的市场中被认为创新步伐相对滞后。"
+        "body": "苹果是全球市值最大的消费电子与软件服务公司之一，核心产品包括iPhone、Mac、iPad及可穿戴设备，并通过App Store、Apple Pay、iCloud等服务业务贡献持续增长的高毛利收入。近期围绕公司的讨论更多集中在AI战略布局、核心零部件供应链调整及支付服务可靠性等议题上，而非单一产品周期本身"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "公开披露的国会交易记录显示，相关账户在2025年至2026年初对AAPL的操作呈现「先小幅新增、随后多次减持」的格局，2025年12月30日曾出现一笔新增多头，但同期及此前（2025年10月、2025年12月24日、2024年12月）均有减持记录，整体减持信号数量明显多于增持，提示聪明钱对苹果估值或前景存在分歧，净态度偏谨慎。"
+        "heading": "近期动态",
+        "body": "市场消息显示苹果正接触三星电子以签订DRAM长期供应协议，合约预计2027年上半年生效并持续4至5年，被部分评论视为对中国CXMT等低价内存供应商依赖的一种对冲。同时Apple Pay被报出现故障，一度阻断即时加密货币购买功能，反映其支付基础设施在应对新兴高频场景时仍存在改进空间"
       },
       {
-        "heading": "围绕AI领导力真空的舆情",
-        "body": "本周市场焦点集中在英伟达CEO黄仁勋意外卸任，引发关于AI板块接班人与领导力真空的广泛讨论。特朗普在社交媒体上提出由蒂姆·库克接任英伟达CEO的言论被部分评论人士质疑（如将苹果、麦当劳与英伟达类比为不同性质的公司，认为该建议不合理），这类噱头性话题虽不涉及苹果基本面，但可能短期影响市场对苹果管理层角色与AI战略定位的关注度和情绪面波动。"
+        "heading": "供应链与成本结构",
+        "body": "若苹果与三星的DRAM长期协议顺利落地，将在2027年之后影响其内存采购成本与供应稳定性，理论上有助于降低对单一区域或单一供应商的依赖，但合约尚未正式签署，具体定价与数量条款仍不明确，短期内对财务报表影响有限"
       },
       {
-        "heading": "宏观与板块联动",
-        "body": "近期新闻显示，标普500指数在英伟达财报、美联储会议纪要及Anthropic IPO等多重事件前整体承压下跌，其中有报道明确指出苹果是拖累大盘表现的个股之一。半导体与AI算力相关标的（Marvell、CoreWeave、Oracle、Nebius等）同期也出现明显调整，显示AI交易整体降温对科技权重股形成共振压力，苹果股价表现与大盘AI情绪高度相关。"
+        "heading": "AI业务与竞争格局",
+        "body": "围绕英伟达CEO黄仁勋因故辞任及其继任人选的讨论中，有政治人物提及苹果CEO库克可作为潜在替代人选，这类话题更多属于舆论噪音，但也侧面反映市场仍将苹果与AI叙事紧密关联。同时黄仁勋本人多次公开表达对苹果AI业务的期待，被部分评论类比乔布斯1997年回归苹果的历史事件，显示外部对苹果AI转型仍抱有较高想象空间，但这更多是预期层面，尚未反映为明确的产品或财务指标"
       },
       {
-        "heading": "估值与资金流观察",
-        "body": "在AI泡沫担忧升温（如知名空头迈克尔·伯里加仓做空纳斯达克100并将当前高点类比2000年3月互联网泡沫顶部）的背景下，市场资金出现从高估值AI算力股向防御性或现金流稳定资产轮动的讨论。苹果作为现金流充裕、估值相对AI算力股更为保守的公司，可能在风险偏好下降阶段获得部分避险配置关注，但其自身也被视为大盘科技权重股而非独立于AI叙事之外的资产。"
+        "heading": "资金与情绪面",
+        "body": "近期市场出现资金从AI及成长股向防御性资产轮动的迹象，叠加恐慌情绪指标走高、AI关联股票普遍回调，整体风险偏好有所下降。苹果作为现金流稳定、业务结构相对多元的大盘科技股，在此类避险环境中可能呈现与纯AI叙事股票不同的资金流向特征，但仍需观察其是否被一并纳入科技股整体抛售范畴"
       },
       {
-        "heading": "风险与展望",
-        "body": "短期关键变量包括：英伟达财报与管理层过渡进展、美联储会议纪要对利率路径的指引、以及AI板块整体情绪是否企稳。跟踪者持续减持的信号与特朗普言论等噱头性新闻叠加，使得苹果短期走势存在较高不确定性，多空双方均有合理依据，建议持续关注后续财报指引、AI产品线进展及跟踪者披露的最新动向，而非依赖单一信号做判断。"
+        "heading": "风险与分歧",
+        "body": "多空分歧主要体现在两方面：一是国会议员佩洛西近两年披露记录显示对AAPL持续减持或退出，与市场对苹果AI及供应链改善的乐观叙事形成对比；二是Apple Pay故障等运营细节问题，与苹果长期被视为高可靠性公司的形象之间存在张力。此外，围绕英伟达继任人选的话题化讨论虽与苹果基本面关联有限，但也提示苹果高管声誉易被卷入行业外部事件，需留意其对市场情绪的间接影响"
       }
     ],
     "comparables": [
       {
         "ticker": "NVDA",
         "name": "英伟达",
-        "note": "AI算力龙头，近期因CEO黄仁勋卸任引发市场对AI板块领导力与接班问题的广泛讨论，是本周影响整体科技股情绪的核心变量"
+        "note": "近期因CEO黄仁勋相关事件及财报表现成为市场焦点，其股价波动与AI板块情绪高度联动，可作为对比苹果AI叙事敏感度的参照"
+      },
+      {
+        "ticker": "005930.KS",
+        "name": "三星电子",
+        "note": "据称是苹果DRAM长期供应协议的潜在合作方，其内存业务产能与定价将直接影响苹果未来硬件成本结构"
       },
       {
         "ticker": "MRVL",
-        "name": "迈威尔科技",
-        "note": "AI存储与互联芯片厂商，近期因AI内存技术发布及人事变动受到关注，股价波动可作为AI硬件链景气度的参照"
-      },
-      {
-        "ticker": "MSFT",
-        "name": "微软",
-        "note": "同为大型科技权重股，在AI叙事与云服务布局上与苹果形成对比，可用于衡量市场对「AI投入型」与「现金流防御型」科技股的相对偏好"
+        "name": "美满电子科技",
+        "note": "同属半导体与数据中心互联领域，近期因与Credo的专利纠纷达成和解而受到关注，可作为供应链上游零部件厂商的参照样本"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-17T03:33:45.951178Z"
+    "generatedAt": "2026-11-18T02:49:57.388307Z"
   },
   "news": [
     {
-      "id": "AAPL-143854557",
-      "title": "David Tepper’s Appaloosa Goes Big on SpaceX, While Slashing Alphabet Stake",
+      "id": "AAPL-143886409",
+      "title": "National Security Outage Is Just One Reason for Today’s Software Stock Selloff",
       "source": "Yahoo",
-      "publishedAt": "2026-11-16",
-      "url": "https://finnhub.io/api/news?id=0de404b2bafd13f96cbdefd9ca9180f568a642bcafd0e82cdcad092a64dfdb37",
+      "publishedAt": "2026-11-17",
+      "url": "https://finnhub.io/api/news?id=658d34eb447feb5a96439da8dd54480edc29c0ecf544c4fbe7edce3f218d68ce",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143850647",
-      "title": "Berkshire Boosts Lennar, Starts Bending Spoons, Trims Bank Of America In Q3",
+      "id": "AAPL-143886431",
+      "title": "Nvidia with a positive Q3 despite SEC probing Nvidia amid Huang Scandal",
       "source": "Yahoo",
-      "publishedAt": "2026-11-16",
-      "url": "https://finnhub.io/api/news?id=4a5031bd5f84d1f7e60e1c3881cde54f756bc2b7bccb033fdc26b93ffb37ad39",
+      "publishedAt": "2026-11-17",
+      "url": "https://finnhub.io/api/news?id=e88e1527f6b33fdd8478ad3cc35db170ba848153139da30952878c47fba9ac82",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143850650",
-      "title": "Huang’s ‘trillion-dollar dinners’ with Taiwan chip bosses were Nvidia’s secret weapon. Now he’s out. Can he be replaced?",
+      "id": "AAPL-143886410",
+      "title": "Fund Manager Lists Three Reasons He Still Won’t Buy Tesla Stock",
       "source": "Yahoo",
-      "publishedAt": "2026-11-16",
-      "url": "https://finnhub.io/api/news?id=ef6c0db9d5cb7fa9baa81c5aad7eb0517bdb595ea10725da7fd760d7b84e2530",
+      "publishedAt": "2026-11-17",
+      "url": "https://finnhub.io/api/news?id=97b4bcc70c30bccf6f2815c546383d706431b5897434bd0dc9eb885c3a9f5d45",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143854001",
-      "title": "Here's What Berkshire Hathaway Bought and Sold in Q3",
+      "id": "AAPL-143886408",
+      "title": "Apple Pay outage blocks instant crypto purchases",
       "source": "Yahoo",
-      "publishedAt": "2026-11-16",
-      "url": "https://finnhub.io/api/news?id=de5085bf48f0f8613d05e037a329d798ab61b09218da115c7d1ea49520ec291c",
+      "publishedAt": "2026-11-17",
+      "url": "https://finnhub.io/api/news?id=887b6a066b80aa35c6fc9789be0a8f712054c87456f031d5d30664bcf476fe01",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143850649",
-      "title": "Nvidia is not considering rehiring Jensen Huang, and Amazon's data center gets bought",
+      "id": "AAPL-143885473",
+      "title": "Warren Buffett Buys: 3 Forever Stocks the Billionaire Investor Has Invested In",
       "source": "Yahoo",
-      "publishedAt": "2026-11-16",
-      "url": "https://finnhub.io/api/news?id=2c187bcc0c45d3792e728d697d5ab75445f40c510d0907866e90edf00973ed69",
+      "publishedAt": "2026-11-17",
+      "url": "https://finnhub.io/api/news?id=3f89e84a3d2d65d79c31d09b7cae6f9e28ba200e86cfeead281655e395f80ab1",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143850341",
-      "title": "What's dragging down the S&P 500? Apple in focus",
+      "id": "AAPL-143885474",
+      "title": "Coca-Cola Stock (KO) May Struggle to Repeat Its Strong 2026 Performance",
       "source": "Yahoo",
-      "publishedAt": "2026-11-16",
-      "url": "https://finnhub.io/api/news?id=247299d1ab30b189136329f7a2f877cabe730885cc260e39bc2ee29038a00a3f",
+      "publishedAt": "2026-11-17",
+      "url": "https://finnhub.io/api/news?id=67642c7f53d3c4105f49a4e0c3d095a8e6df92faea51c68ff0249d618750c70d",
       "tags": [
         "AAPL"
       ]

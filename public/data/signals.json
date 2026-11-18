@@ -365,6 +365,18 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-11-17",
+    "sentiment": "watch",
+    "excerpt": "RT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602 Biggest drop in gasoline in 18 years. Notice that they waited until after the “Election?” President DJT Quoted Schoenlaw https:// tradersunion.com/news/market-v oices/s",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117634065135557984",
+    "ticker": "",
+    "topics": [
+      "能源/油价"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-11-16",
     "sentiment": "watch",
     "excerpt": "Under my leadership, our Economy is booming! New Businesses created in America have reached ALL-TIME HIGHS — Over 500,000 new Businesses formed every month this year. Unlike the Communists that want to tax our Small Business Owners to “deat",
@@ -443,16 +455,84 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-11-08",
+    "asOf": "2026-11-17",
     "sentiment": "watch",
-    "excerpt": "America took a giant step back in History with the results of the last Election — Even the Stock Market, which has been a “ROCKETSHIP” under “TRUMP,” took a one day, 3 Trillion Dollar loss. But have no fear, we will be back, BIGGER AND STRO",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117581137343877006",
-    "ticker": "",
-    "topics": [
-      "大盘/宏观"
-    ]
+    "excerpt": "Advanced solid state transformers at scale from Tesla",
+    "postUrl": "https://x.com/elonmusk/status/2122733232894468308",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-17",
+    "sentiment": "watch",
+    "excerpt": "$NVDA earnings transcript + industry read through. To sum it up: \"Demand far exceeds supply\".  \n\n- Good news for the $MU / Samsung memory longs: \n\n\"Our supply commitments increased from $279B last quarter to $390B, primarily related to the ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122835908596846950",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-17",
+    "sentiment": "watch",
+    "excerpt": "$NVDA earnings transcript + industry read through. To sum it up: \"Demand far exceeds supply\".  \n\n- Good news for the $MU / Samsung memory longs: \n\n\"Our supply commitments increased from $279B last quarter to $390B, primarily related to the ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122835908596846950",
+    "ticker": "MU",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-17",
+    "sentiment": "watch",
+    "excerpt": "$AAOI management lost all credibility by launching another $550M ATM.\n\nEspecially after it comes contrary to earlier commentary about other financing methods + share price caution.\n\nI still find AOI operationally compelling around their CPO",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122814062329471182",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-17",
+    "sentiment": "watch",
+    "excerpt": "Jensen’s first public statement since leaving $NVDA.\n\nThe support for Jensen is absolutely overwhelming.\n\nCan’t think of anyone else who is better suited to lead Nvidia and America’s future in AI",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122791681405997440",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-17",
+    "sentiment": "watch",
+    "excerpt": "Just now: Trump administration to press ahead and block imports of AI DC equipment from China, such as new optical transceiver models.  \n\nDespite opposition from hyperscalers like $AMZN to solana:GooGLMvZtJZXHdNZy95RUrAMCCKxV6ghK3qE5ddBgVm5",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122660925488718046",
+    "ticker": "AMZN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-17",
+    "sentiment": "watch",
+    "excerpt": "It looks like $AAPL finally gave up on cheap memory supply with $CMXT and China. \n\nThat they've approached Samsung Electronics for DRAM supply LTAs. Contracts are expected to start H1 2027, and run 4-5 years. \n\nThis is positive on regarding",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122628849657954454",
+    "ticker": "AAPL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-17",
+    "sentiment": "watch",
+    "excerpt": "It looks like $AAPL finally gave up on cheap memory supply with $CMXT and China. \n\nThat they've approached Samsung Electronics for DRAM supply LTAs. Contracts are expected to start H1 2027, and run 4-5 years. \n\nThis is positive on regarding",
+    "postUrl": "https://x.com/aleabitoreddit/status/2122628849657954454",
+    "ticker": "CMXT",
+    "topics": []
   },
   {
     "personId": "serenity",
@@ -664,146 +744,6 @@
     "excerpt": "With Elon’s involvement, the odds of Jensen rejoining as $NVDA CEO just shot up.",
     "postUrl": "https://x.com/aleabitoreddit/status/2121349155457261991",
     "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "It's been overwhelmingly negative recently, but here's some perspective on how supply-constrained demand from $LITE to $MU looks amid possible AI capex slowdowns. \n\nAs one Korean executive on memory puts it: \n\n\"Thirty people are already lin",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121338681571328368",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "It's been overwhelmingly negative recently, but here's some perspective on how supply-constrained demand from $LITE to $MU looks amid possible AI capex slowdowns. \n\nAs one Korean executive on memory puts it: \n\n\"Thirty people are already lin",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121338681571328368",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "Be Jensen:\n\n> Asian American Dishwasher at Dennys\n> Founded $NVDA and pioneered GPU computing\n> Took an extraordinary gamble in CUDA, despite the company close to bankruptcy risk. \n> Bet paid off heavily, and Nvidia was there as the infrast",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121300436011590104",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "Be Jensen:\n\n> Asian American Dishwasher at Dennys\n> Founded $NVDA and pioneered GPU computing\n> Took an extraordinary gamble in CUDA, despite the company close to bankruptcy risk. \n> Bet paid off heavily, and Nvidia was there as the infrast",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121300436011590104",
-    "ticker": "META",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "My personal opinion is that Kress leadership is negative for $NVDA centric ecosystems and its financing.\n\nCompanies like $COHR that supply everyone, with long term visibility are more isolated.\n\nAs for some of the commentary:\n\nKress reporte",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121265837000782035",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "My personal opinion is that Kress leadership is negative for $NVDA centric ecosystems and its financing.\n\nCompanies like $COHR that supply everyone, with long term visibility are more isolated.\n\nAs for some of the commentary:\n\nKress reporte",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121265837000782035",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "My personal opinion is that Kress leadership is negative for $NVDA centric ecosystems and its financing.\n\nCompanies like $COHR that supply everyone, with long term visibility are more isolated.\n\nAs for some of the commentary:\n\nKress reporte",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121265837000782035",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "My personal opinion is that Kress leadership is negative for $NVDA centric ecosystems and its financing.\n\nCompanies like $COHR that supply everyone, with long term visibility are more isolated.\n\nAs for some of the commentary:\n\nKress reporte",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121265837000782035",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "Following the $MRVL and $LITE acquisition announcement…\n\nSamsung Electronics has been doing vertical integration of their own in photonics to thermal:\n\n- New report from Bloomberg states that \nSamsung Electronics is in talks to buy $MOD Mod",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121221289440665737",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "Following the $MRVL and $LITE acquisition announcement…\n\nSamsung Electronics has been doing vertical integration of their own in photonics to thermal:\n\n- New report from Bloomberg states that \nSamsung Electronics is in talks to buy $MOD Mod",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121221289440665737",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "Following the $MRVL and $LITE acquisition announcement…\n\nSamsung Electronics has been doing vertical integration of their own in photonics to thermal:\n\n- New report from Bloomberg states that \nSamsung Electronics is in talks to buy $MOD Mod",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121221289440665737",
-    "ticker": "MOD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "Just to state the nuances of my opinion: Jensen is irreplaceable to $NVDA.\n\nNo other CEO can visit a chicken shop in Korea, noodle shop in Japan\n\nAnd rally hundred of billions of capital and supply chain commitment into Nvidia’s next techno",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121203324167037436",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "Just to state the nuances of my opinion: Jensen is irreplaceable to $NVDA.\n\nNo other CEO can visit a chicken shop in Korea, noodle shop in Japan\n\nAnd rally hundred of billions of capital and supply chain commitment into Nvidia’s next techno",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121203324167037436",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "Just to state the nuances of my opinion: Jensen is irreplaceable to $NVDA.\n\nNo other CEO can visit a chicken shop in Korea, noodle shop in Japan\n\nAnd rally hundred of billions of capital and supply chain commitment into Nvidia’s next techno",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121203324167037436",
-    "ticker": "AVGO",
     "topics": []
   },
   {
