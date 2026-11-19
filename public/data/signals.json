@@ -367,6 +367,18 @@
     "type": "social",
     "asOf": "2026-11-17",
     "sentiment": "watch",
+    "excerpt": "I am now heading to China, from the Philippines, where we had a wonderful meeting on Trade, National Security, and other subjects. I am pleased to announce that we made a new and completely different Trade Deal with the Philippines, one tha",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117636323928351024",
+    "ticker": "",
+    "topics": [
+      "关税/贸易"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-11-17",
+    "sentiment": "watch",
     "excerpt": "RT: https://truthsocial.com/users/Schoenlaw/statuses/117632129147481602 Biggest drop in gasoline in 18 years. Notice that they waited until after the “Election?” President DJT Quoted Schoenlaw https:// tradersunion.com/news/market-v oices/s",
     "postUrl": "https://truthsocial.com/@realDonaldTrump/117634065135557984",
     "ticker": "",
@@ -443,25 +455,185 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-11-08",
+    "asOf": "2026-11-18",
     "sentiment": "watch",
-    "excerpt": "I am urging all Senators to vote for The American Affordability and Jobs Act (S. 5653)! This Bill is a BIG WIN for U.S. ENERGY INDEPENDENCE and DOMINANCE. This Landmark Permitting Reform Legislation will codify our America First Energy Agen",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117583560661477967",
-    "ticker": "",
+    "excerpt": "$GOOGL releases benchmarks for  Gemini 4 Neon, ahead of $ANT IPO. https://t.co/S1qsTA3Qug",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123173088598938033",
+    "ticker": "ANT",
     "topics": [
-      "AI/芯片"
+      "IPO/财报"
     ]
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
     "type": "social",
-    "asOf": "2026-11-17",
+    "asOf": "2026-11-18",
     "sentiment": "watch",
-    "excerpt": "Advanced solid state transformers at scale from Tesla",
-    "postUrl": "https://x.com/elonmusk/status/2122733232894468308",
-    "ticker": "TSLA",
+    "excerpt": "$GOOGL releases benchmarks for  Gemini 4 Neon, ahead of $ANT IPO. https://t.co/S1qsTA3Qug",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123173088598938033",
+    "ticker": "GOOGL",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-18",
+    "sentiment": "watch",
+    "excerpt": "Woah, the charts mapping the recent AI crash is insane. \n\nNet momentum exposure went from ~60% of hedge fund equity at the peak down to 8%.\n\nThe weeks before Nov 13 also saw the heaviest net selling of global tech stocks in the past 9 years",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123152181134234071",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-18",
+    "sentiment": "watch",
+    "excerpt": "Situational Awareness 2.0 is coming. \n\nI think Leopold's early ideas were directionally right from $SNDK to $BE. \n\nEven his recent ones like Taiyo Yuden, I do see MLCCs becoming a bottleneck in 2027. \n\nUnfortunately, due to excessive levera",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123137705597120613",
+    "ticker": "BE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-18",
+    "sentiment": "watch",
+    "excerpt": "Situational Awareness 2.0 is coming. \n\nI think Leopold's early ideas were directionally right from $SNDK to $BE. \n\nEven his recent ones like Taiyo Yuden, I do see MLCCs becoming a bottleneck in 2027. \n\nUnfortunately, due to excessive levera",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123137705597120613",
+    "ticker": "SNDK",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-18",
+    "sentiment": "watch",
+    "excerpt": "Did you listen Citibank?\n\nWhen I first took positions in $SOI, Citi reacted to my analysis and warned: \"investor expectations for Photonics-SOI growth might be excessive\"\n\nSoitec back then had:\n-> $25M in Photonics-SOI revenue, with no guid",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123126925908742463",
+    "ticker": "SOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-18",
+    "sentiment": "watch",
+    "excerpt": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we look at Anthropic's $900.9B of eventual ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123116246183088517",
+    "ticker": "AMD",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-18",
+    "sentiment": "watch",
+    "excerpt": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we look at Anthropic's $900.9B of eventual ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123116246183088517",
+    "ticker": "AMZN",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-18",
+    "sentiment": "watch",
+    "excerpt": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we look at Anthropic's $900.9B of eventual ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123116246183088517",
+    "ticker": "ANT",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-18",
+    "sentiment": "watch",
+    "excerpt": "On the bright side, capital flowing from other sectors + semis to a successful $ANT IPO...\n\nwill eventually flow back into semi balance sheets over the long run. Circle of life. but for semis.\n\nIf we look at Anthropic's $900.9B of eventual ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123116246183088517",
+    "ticker": "AVGO",
+    "topics": [
+      "IPO/财报"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-18",
+    "sentiment": "watch",
+    "excerpt": "A faction of $NVDA board are now pushing for Jensen Huang to return as CEO per Semafor.\n\nI hope the market’s reaction, even after record earnings…\n\nsends a message to the rest of the board. https://t.co/aEve8LRHnv",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123100162616951229",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-18",
+    "sentiment": "watch",
+    "excerpt": "Does anyone remember the days…\n\nWhen $NVDA disclosing an additional $111B+ in primarily memory procurement in a single quarter…\n\nwas good news for memory names like $MU and SK Hynix? https://t.co/oVZauK6LEn",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123080934362845437",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-18",
+    "sentiment": "watch",
+    "excerpt": "Does anyone remember the days…\n\nWhen $NVDA disclosing an additional $111B+ in primarily memory procurement in a single quarter…\n\nwas good news for memory names like $MU and SK Hynix? https://t.co/oVZauK6LEn",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123080934362845437",
+    "ticker": "MU",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-18",
+    "sentiment": "watch",
+    "excerpt": "Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:\n\n1. Capex cuts past 2028 \n2. Stranded Compute / DC Slowdowns \n3. Finance deterioration (base case)\n4. 2x+ rate hikes\n\nWorking in parallel and se",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123067177905643769",
+    "ticker": "MRVL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-18",
+    "sentiment": "watch",
+    "excerpt": "Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:\n\n1. Capex cuts past 2028 \n2. Stranded Compute / DC Slowdowns \n3. Finance deterioration (base case)\n4. 2x+ rate hikes\n\nWorking in parallel and se",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123067177905643769",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-18",
+    "sentiment": "watch",
+    "excerpt": "Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:\n\n1. Capex cuts past 2028 \n2. Stranded Compute / DC Slowdowns \n3. Finance deterioration (base case)\n4. 2x+ rate hikes\n\nWorking in parallel and se",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123067177905643769",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-18",
+    "sentiment": "watch",
+    "excerpt": "Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:\n\n1. Capex cuts past 2028 \n2. Stranded Compute / DC Slowdowns \n3. Finance deterioration (base case)\n4. 2x+ rate hikes\n\nWorking in parallel and se",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123067177905643769",
+    "ticker": "COHR",
     "topics": []
   },
   {
@@ -651,98 +823,6 @@
     "sentiment": "watch",
     "excerpt": "I don't know what it takes to convince the Taco Bell board member or Washington at this point? \n\n$NVDA is not the same thing as Apple or McDonalds. \n\nYou also cannot replace Jensen with ARM CEO or Palo Alto Networks CEO... then expect local",
     "postUrl": "https://x.com/aleabitoreddit/status/2122404712800723209",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-16",
-    "sentiment": "watch",
-    "excerpt": "I think AI is one of the few industries where investors celebrate deteriorating supply conditions.\n\nMLCC lead times are extending per new Trendforce data… now “very tight” at 40W.\n\nContent per system keeps going up as well (eg. $AMD using +",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122306534772519308",
-    "ticker": "AMD",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-16",
-    "sentiment": "watch",
-    "excerpt": "Morgan Stanley sends a note to clients using the term:\n\n“Max Overweight” for global equities.\n\nArguing that AI capex cycle remains intact and sustains corporate earnings into 2027.\n\nThey told clients:\n\n- hold less cash, trim commodities and",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122268155682996328",
-    "ticker": "",
-    "topics": [
-      "通胀"
-    ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-15",
-    "sentiment": "watch",
-    "excerpt": "It’s time for Jensen’s redemption arc at $NVDA.\n\nFT: Jensen Huang discusses comeback as Nvidia CEO. https://t.co/h1cTjTlx6G",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122046823934407066",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-15",
-    "sentiment": "watch",
-    "excerpt": "I've posted a lot about $NVDA because Jensen Huang is worth fighting for.\n\nTalking with Jensen and those around him convinced me he's 1 of 1... both for Nvidia's future and US leadership in AI. \n\nA friend asked me to share this petition (I ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121981880480522483",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-15",
-    "sentiment": "watch",
-    "excerpt": "The most interesting lesson Jensen Huang taught me\n\nAnd gave PTSD to Google executives over from his leadership at $NVDA:\n\nWas that if a critical material can be bought out for spare change eg. ~$400m (FY2028 Photonics-SOI revenue forecast ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121918080293196209",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-15",
-    "sentiment": "watch",
-    "excerpt": "The most interesting lesson Jensen Huang taught me\n\nAnd gave PTSD to Google executives over from his leadership at $NVDA:\n\nWas that if a critical material can be bought out for spare change eg. ~$400m (FY2028 Photonics-SOI revenue forecast ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121918080293196209",
-    "ticker": "SOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-14",
-    "sentiment": "watch",
-    "excerpt": "Western media coverage of $NVDA and Jensen Huang have reached a point\n\nWhere it even gives Chinese people more pride in CCP state media.\n\nVery dark times for Western journalism. https://t.co/oJ8eEgOIDS",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121852636261724398",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "Altimeter and Atreides' letter to the board of $NVDA. https://t.co/vC4lgj6OxC",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121396827484524803",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-13",
-    "sentiment": "watch",
-    "excerpt": "With Elon’s involvement, the odds of Jensen rejoining as $NVDA CEO just shot up.",
-    "postUrl": "https://x.com/aleabitoreddit/status/2121349155457261991",
     "ticker": "NVDA",
     "topics": []
   },

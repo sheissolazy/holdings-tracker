@@ -1,7 +1,19 @@
 [
   {
+    "ticker": "FBLLU",
+    "name": "Football Manager SPAC Inc.",
+    "date": "2026-11-20",
+    "priceRange": [
+      10.0,
+      10.0
+    ],
+    "sector": "—",
+    "exchange": "NASDAQ Global",
+    "status": "expected"
+  },
+  {
     "ticker": "ANT",
-    "name": "Anthropic, PBC",
+    "name": "ANTHROPIC, PBC",
     "date": "2026-11-19",
     "priceRange": [
       70.0,

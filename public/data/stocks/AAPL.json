@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 351.91,
-  "change5dPct": 1.0,
-  "changeYtdPct": 18.2,
-  "marketCap": "$5.11T",
-  "pe": 38.7,
+  "price": 352.45,
+  "change5dPct": 1.1,
+  "changeYtdPct": 17.9,
+  "marketCap": "$5.12T",
+  "pe": 38.8,
   "revenue": "—",
   "revenueYoYPct": 15,
   "prices": [
-    {
-      "t": "2026-05-18",
-      "o": 300.24,
-      "h": 300.66,
-      "l": 294.91,
-      "c": 297.84
-    },
     {
       "t": "2026-05-19",
       "o": 296.97,
@@ -909,124 +902,72 @@
     }
   ],
   "thesis": {
-    "bull": [
-      "苹果据称已接触三星电子寻求DRAM长期供应协议（LTA），预计2027年上半年启动、合约期4至5年，若落地有助于摆脱对CXMT等中国低价内存供应的依赖，改善供应链安全与议价能力",
-      "英伟达CEO黄仁勋多次公开表态对苹果AI业务抱有高期待，部分评论将其与1997年乔布斯回归苹果相提并论，显示市场仍对苹果AI转型留有乐观想象空间",
-      "当前AI题材股集体回调、资金出现从成长股转向防御性资产的迹象，苹果作为现金流充裕、业务多元的大盘科技股，在避险情绪升温阶段可能获得相对资金偏好"
-    ],
-    "bear": [
-      "国会议员佩洛西在2024年末至2025年末的多次季度披露中呈现持续减持或退出AAPL仓位的记录，尽管同期也有一笔新建多头头寸，信号本身并不一致，整体偏谨慎",
-      "Apple Pay近期出现故障，导致即时加密货币购买功能受阻，暴露其支付基础设施在高需求或新兴应用场景下存在稳定性与可靠性隐患",
-      "市场恐慌情绪升温、避险指标走高，叠加AI关联股票普遍承压，苹果作为权重科技股若AI相关进展不及市场预期，同样可能受到情绪面拖累"
-    ],
-    "watch": [
-      "苹果与三星DRAM供应协议能否最终签署及具体定价条款，这将直接影响其硬件成本结构与毛利率，预计2027年上半年才会落地，需持续跟踪进展",
-      "社交媒体与政治人物（如特朗普提及库克可能接替黄仁勋）围绕苹果高管的话题化讨论增多，属于行业噪音范畴，但需关注是否对品牌声誉或股价产生超预期的联动效应",
-      "国会议员交易申报的后续变化及其与苹果基本面消息（AI产品发布、供应链调整等）在时间上的吻合度，用以判断是否存在信息提前消化的情况"
-    ],
-    "sections": [
-      {
-        "heading": "公司概览",
-        "body": "苹果是全球市值最大的消费电子与软件服务公司之一，核心产品包括iPhone、Mac、iPad及可穿戴设备，并通过App Store、Apple Pay、iCloud等服务业务贡献持续增长的高毛利收入。近期围绕公司的讨论更多集中在AI战略布局、核心零部件供应链调整及支付服务可靠性等议题上，而非单一产品周期本身"
-      },
-      {
-        "heading": "近期动态",
-        "body": "市场消息显示苹果正接触三星电子以签订DRAM长期供应协议，合约预计2027年上半年生效并持续4至5年，被部分评论视为对中国CXMT等低价内存供应商依赖的一种对冲。同时Apple Pay被报出现故障，一度阻断即时加密货币购买功能，反映其支付基础设施在应对新兴高频场景时仍存在改进空间"
-      },
-      {
-        "heading": "供应链与成本结构",
-        "body": "若苹果与三星的DRAM长期协议顺利落地，将在2027年之后影响其内存采购成本与供应稳定性，理论上有助于降低对单一区域或单一供应商的依赖，但合约尚未正式签署，具体定价与数量条款仍不明确，短期内对财务报表影响有限"
-      },
-      {
-        "heading": "AI业务与竞争格局",
-        "body": "围绕英伟达CEO黄仁勋因故辞任及其继任人选的讨论中，有政治人物提及苹果CEO库克可作为潜在替代人选，这类话题更多属于舆论噪音，但也侧面反映市场仍将苹果与AI叙事紧密关联。同时黄仁勋本人多次公开表达对苹果AI业务的期待，被部分评论类比乔布斯1997年回归苹果的历史事件，显示外部对苹果AI转型仍抱有较高想象空间，但这更多是预期层面，尚未反映为明确的产品或财务指标"
-      },
-      {
-        "heading": "资金与情绪面",
-        "body": "近期市场出现资金从AI及成长股向防御性资产轮动的迹象，叠加恐慌情绪指标走高、AI关联股票普遍回调，整体风险偏好有所下降。苹果作为现金流稳定、业务结构相对多元的大盘科技股，在此类避险环境中可能呈现与纯AI叙事股票不同的资金流向特征，但仍需观察其是否被一并纳入科技股整体抛售范畴"
-      },
-      {
-        "heading": "风险与分歧",
-        "body": "多空分歧主要体现在两方面：一是国会议员佩洛西近两年披露记录显示对AAPL持续减持或退出，与市场对苹果AI及供应链改善的乐观叙事形成对比；二是Apple Pay故障等运营细节问题，与苹果长期被视为高可靠性公司的形象之间存在张力。此外，围绕英伟达继任人选的话题化讨论虽与苹果基本面关联有限，但也提示苹果高管声誉易被卷入行业外部事件，需留意其对市场情绪的间接影响"
-      }
-    ],
-    "comparables": [
-      {
-        "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "近期因CEO黄仁勋相关事件及财报表现成为市场焦点，其股价波动与AI板块情绪高度联动，可作为对比苹果AI叙事敏感度的参照"
-      },
-      {
-        "ticker": "005930.KS",
-        "name": "三星电子",
-        "note": "据称是苹果DRAM长期供应协议的潜在合作方，其内存业务产能与定价将直接影响苹果未来硬件成本结构"
-      },
-      {
-        "ticker": "MRVL",
-        "name": "美满电子科技",
-        "note": "同属半导体与数据中心互联领域，近期因与Credo的专利纠纷达成和解而受到关注，可作为供应链上游零部件厂商的参照样本"
-      }
-    ],
-    "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-18T02:49:57.388307Z"
+    "bull": [],
+    "bear": [],
+    "watch": [],
+    "sections": [],
+    "comparables": [],
+    "model": "（分析暂不可用）",
+    "generatedAt": null,
+    "unavailable": true
   },
   "news": [
     {
-      "id": "AAPL-143886409",
-      "title": "National Security Outage Is Just One Reason for Today’s Software Stock Selloff",
+      "id": "AAPL-143927468",
+      "title": "Corning CEO on working with Steve Jobs to make screens for the first iPhone",
       "source": "Yahoo",
-      "publishedAt": "2026-11-17",
-      "url": "https://finnhub.io/api/news?id=658d34eb447feb5a96439da8dd54480edc29c0ecf544c4fbe7edce3f218d68ce",
+      "publishedAt": "2026-11-19",
+      "url": "https://finnhub.io/api/news?id=054c6dfe215f2e7ce92a4b71e774ca443836d80663a994e4b3a4d81e8085b7d8",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143886431",
-      "title": "Nvidia with a positive Q3 despite SEC probing Nvidia amid Huang Scandal",
+      "id": "AAPL-143922091",
+      "title": "Alphabet vs. Apple: Which Warren Buffett Stock Is the Better Buy?",
       "source": "Yahoo",
-      "publishedAt": "2026-11-17",
-      "url": "https://finnhub.io/api/news?id=e88e1527f6b33fdd8478ad3cc35db170ba848153139da30952878c47fba9ac82",
+      "publishedAt": "2026-11-18",
+      "url": "https://finnhub.io/api/news?id=46a902c47b68144cede499af2d96270b76bd0d295e65c60202e236e6975c45f5",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143886410",
-      "title": "Fund Manager Lists Three Reasons He Still Won’t Buy Tesla Stock",
+      "id": "AAPL-143922095",
+      "title": "Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell",
       "source": "Yahoo",
-      "publishedAt": "2026-11-17",
-      "url": "https://finnhub.io/api/news?id=97b4bcc70c30bccf6f2815c546383d706431b5897434bd0dc9eb885c3a9f5d45",
+      "publishedAt": "2026-11-18",
+      "url": "https://finnhub.io/api/news?id=67a5d3be9d437380861d3d9e01fdb22a61927b759f97c5ff6f6c5a2c52f8b329",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143886408",
-      "title": "Apple Pay outage blocks instant crypto purchases",
+      "id": "AAPL-143922096",
+      "title": "I Listened to MP Materials' Earnings Call. Here's the 1 Thing That Stuck With Me.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-17",
-      "url": "https://finnhub.io/api/news?id=887b6a066b80aa35c6fc9789be0a8f712054c87456f031d5d30664bcf476fe01",
+      "publishedAt": "2026-11-18",
+      "url": "https://finnhub.io/api/news?id=db6c9c8a7206b66dba389147bc03839d25b3b80323ce7b232b090e09a712284a",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143885473",
-      "title": "Warren Buffett Buys: 3 Forever Stocks the Billionaire Investor Has Invested In",
+      "id": "AAPL-143921229",
+      "title": "Memory supply constraints will be even 'tighter' in 2027: Micron CTO",
       "source": "Yahoo",
-      "publishedAt": "2026-11-17",
-      "url": "https://finnhub.io/api/news?id=3f89e84a3d2d65d79c31d09b7cae6f9e28ba200e86cfeead281655e395f80ab1",
+      "publishedAt": "2026-11-18",
+      "url": "https://finnhub.io/api/news?id=bbe39f3f4604c8c66e92f3b2ffc1fa1a23d7a470d2aed8fa127fcf42aaf3d732",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143885474",
-      "title": "Coca-Cola Stock (KO) May Struggle to Repeat Its Strong 2026 Performance",
+      "id": "AAPL-143922094",
+      "title": "Citi CEO Expects More Tech Outages",
       "source": "Yahoo",
-      "publishedAt": "2026-11-17",
-      "url": "https://finnhub.io/api/news?id=67642c7f53d3c4105f49a4e0c3d095a8e6df92faea51c68ff0249d618750c70d",
+      "publishedAt": "2026-11-18",
+      "url": "https://finnhub.io/api/news?id=29a135d4c6a593ea8588ff6170d5d64c6ae20a13e2d79818622477e4f374e43e",
       "tags": [
         "AAPL"
       ]

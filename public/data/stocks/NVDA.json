@@ -3,21 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 155.46,
-  "change5dPct": -8.0,
-  "changeYtdPct": -30.1,
-  "marketCap": "$3.75T",
-  "pe": 19.5,
+  "price": 150.96,
+  "change5dPct": -10.6,
+  "changeYtdPct": -31.6,
+  "marketCap": "$3.64T",
+  "pe": 16.6,
   "revenue": "—",
-  "revenueYoYPct": 83,
+  "revenueYoYPct": 93,
   "prices": [
-    {
-      "t": "2026-05-18",
-      "o": 229.87,
-      "h": 230.0,
-      "l": 218.37,
-      "c": 222.32
-    },
     {
       "t": "2026-05-19",
       "o": 219.62,
@@ -910,141 +903,128 @@
   ],
   "thesis": {
     "bull": [
-      {
-        "point": "第三季度财报超市场预期，管理层表示当前AI芯片「需求远超供给」，面向存储等供应商的采购承诺从上季度的2790亿美元跃升至3900亿美元，显示下游数据中心建设周期尚未见顶"
-      },
-      {
-        "point": "财报公布后股价短线大幅反弹，而同业半导体ETF反应相对温和，说明市场仍将NVDA视为板块核心资产，公司在AI算力生态中的议价地位暂未被动摇"
-      },
-      {
-        "point": "部分国会议员等公开持仓记录显示其在过去一年多次新建NVDA多头仓位，反映部分长期资金对公司基本面仍持积极态度"
-      }
+      "2026财年三季度业绩超市场预期，管理层在财报电话会上明确表示「需求远超供给」，供应链采购承诺从上季度二千七百九十亿美元大幅提升至三千九百亿美元，显示下游云厂商与企业客户的资本支出意愿依然强劲，订单可见度延伸较远",
+      "公司持续扩大存储芯片采购规模，带动美光、SK海力士、三星等存储产业链景气度上行，形成AI基础设施建设的协同拉动效应，产业链多方印证需求而非单一公司乐观叙事",
+      "政治人物（如佩洛西）在二零二五年末至二零二六年初多次申报买入该股，叠加公司回购计划仍在推进，显示部分机构与政治圈对公司长期竞争地位维持信心"
     ],
     "bear": [
-      {
-        "point": "围绕原CEO黄仁勋离职的争议持续发酵，叠加SEC被曝就相关事件展开调查，公司治理与管理层继任的不确定性显著上升，可能拖累估值"
-      },
-      {
-        "point": "尽管财报向好，股价自「黄仁勋事件」爆发以来累计下跌约18%，说明市场对治理风险的担忧尚未被业绩利好完全抵消"
-      },
-      {
-        "point": "激进投资者Altimeter与Atreides联合致信董事会表达关切，叠加总统公开表态支持由苹果CEO蒂姆库克接任，政治与股东层面的外部压力同时存在，公司战略方向存在变数"
-      }
+      "联合创始人兼CEO黄仁勋突然离职引发治理与战略连续性担忧，据Semafor等媒体报道部分董事会成员正推动黄仁勋重返，内部权力分歧尚未平息，临时CEO高瑞斯（Colette Kress）在首次全员会议上表态维稳，但管理层不确定性短期难以完全消除",
+      "对华出口管制持续限制高端AI芯片在中国市场的销售空间，叠加地缘政治摩擦（如对伊朗石油运输的新一轮制裁、中东局势等宏观不确定性），可能对部分海外收入造成结构性压制",
+      "市场有分析指出估值已反映较高的乐观预期，若二零二八年后资本支出出现削减、出现「算力闲置」或数据中心扩张放缓、企业融资环境恶化叠加美联储可能的多次加息，则需求与盈利增长曲线存在显著下修风险，部分知名投资人（如阿施布伦纳旗下基金）已大幅削减持仓"
     ],
     "watch": [
-      {
-        "point": "黄仁勋是否最终回归CEO职位、或由外部人选接任，将直接影响公司战略连续性与市场信心"
-      },
-      {
-        "point": "SEC调查的推进节奏与可能结论，是判断治理风险是否进一步升级的关键信号"
-      },
-      {
-        "point": "与存储芯片厂商等供应商的采购承诺能否按期兑现，是验证「需求远超供给」说法可持续性的重要观察点"
-      }
+      "新任首席执行官人选悬而未决，社交媒体流传特朗普曾公开建议由苹果CEO库克接任，但随后又有报道称董事会内部有派系倾向迎回黄仁勋，最终治理结构走向及其对战略连续性的影响需紧密跟踪",
+      "美联储会议纪要显示官员预期未来可能进一步加息，并担忧AI相关投资对通胀的传导效应，利率路径变化将直接影响云厂商资本支出节奏与公司估值贴现",
+      "数据中心电力供给瓶颈是否会实质性制约GPU与配套算力的出货节奏和客户部署进度，是检验「需求远超供给」说法能否持续兑现的关键变量"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA是全球领先的GPU与AI加速计算芯片设计公司，核心业务包括数据中心加速计算、游戏显卡及CUDA软件生态。公司目前正处于管理层剧变期，原CEO黄仁勋被报道离职，市场与舆论围绕继任人选展开激烈讨论，公司治理问题成为近期关注焦点"
+        "body": "NVIDIA Corporation是全球领先的图形处理器与加速计算平台提供商，业务已从传统游戏显卡扩展至数据中心、人工智能训练与推理加速、网络互联及汽车智能驾驶等多个领域。公司目前是全球市值最大的AI基础设施供应商之一，其GPU与配套软件生态（如CUDA）在大模型训练与云端部署中占据主导地位。近期公司经历联合创始人兼CEO黄仁勋意外离职，由首席财务官高瑞斯（Colette Kress）暂代首席执行官职责，公司治理结构正处于过渡期。"
+      },
+      {
+        "heading": "近期动态",
+        "body": "黄仁勋的离职是近期最重大的公司事件，市场反应复杂：一方面有声音（包括社交媒体流传的特朗普言论）提议由苹果CEO库克接任；另一方面据Semafor等媒体报道，部分董事会成员正推动黄仁勋重返管理层，黄本人在离职后首次公开表态也获得外界大量支持声音。临时CEO高瑞斯已召开首次全员会议，表态「向前推进」，意在稳定员工与投资者信心，但最终领导层归属仍不明朗。"
       },
       {
         "heading": "财务与业绩",
-        "body": "公司第三季度业绩表现强劲，好于市场预期。管理层在业绩会上强调当前AI芯片「需求远超供给」，并披露供应商采购承诺总额从上季度的2790亿美元大幅上升至3900亿美元，显示数据中心基础设施投入仍在加速阶段。财报公布后股价曾出现大幅跳涨"
+        "body": "公司最新一季度财报呈现「喜忧交织」的局面：核心业绩指标超出市场预期，管理层强调当前「需求远超供给」，并披露采购供应承诺由上季度二千七百九十亿美元跃升至三千九百亿美元，其中很大比例与存储芯片采购相关，反映其为满足AI算力需求而进行的大规模前瞻性产能锁定。不过财报发布后股价表现出现反复，显示市场对指引质量、利润率及资本开支强度仍存分歧，财报被评价为「对多空双方都各有利好利空」。"
       },
       {
-        "heading": "治理与管理层风云",
-        "body": "近期关于黄仁勋的争议成为市场核心变量。社交媒体显示其发表了离职后首次公开声明并获得广泛支持；与此同时，激进投资者Altimeter与Atreides联合致信董事会表达对公司治理方向的关切；美国总统公开表态支持由苹果CEO蒂姆库克接任，使本应属于公司内部治理的问题带有一定政治色彩。另有报道称SEC正就相关事件展开调查，监管层面的不确定性有所上升"
+        "heading": "行业与竞争格局",
+        "body": "公司在AI加速芯片市场仍保持领先地位，但面临来自博通（Broadcom）、Marvell等定制ASIC芯片厂商的竞争压力，部分知名投资人近期减持相关大型科技股并转向定制芯片与小盘科技股（如肯·格里芬减持SpaceX、亚马逊并加仓Marvell）。同时，公司的存储采购规模扩张正在重塑存储产业链景气度，美光等公司管理层已表示二零二七年存储供应将「更紧张」，显示AI算力建设对上游产业链的外溢效应显著。"
       },
       {
-        "heading": "供应链与需求",
-        "body": "公司与存储芯片厂商之间的供应协议规模持续扩大，反映出AI服务器对高带宽存储器件需求的持续攀升，这一动态也被视为对相关存储厂商的间接利好。同期，数据中心互联赛道的Marvell与Credo就专利纠纷达成和解，显示行业内竞争与合作关系仍在不断演变"
+        "heading": "风险与监管",
+        "body": "主要风险包括：中国出口管制持续限制高端产品在华销售；宏观层面美联储官员在会议纪要中表达对进一步加息及AI相关通胀压力的担忧，若利率持续上行将抬高企业资本开支的融资成本；此外，有分析师提出需对二零二八年后资本开支削减、算力闲置、企业融资环境恶化等下行情景进行压力测试，叠加公司治理层面的CEO人选不确定性，构成短中期主要风险敞口。"
       },
       {
-        "heading": "市场表现与同业比较",
-        "body": "尽管财报表现积极，NVDA股价自「黄仁勋事件」爆发以来累计下跌约18%，但同期费城半导体指数ETF等同业基准波动相对有限，部分原因在于NVDA在该ETF中权重约17%，个股特定风险尚未完全传导至板块整体。与此同时，市场资金流向出现分化：部分基金在高位减持AI相关持仓，也有基金逆势加仓，显示机构投资者对后续走势存在明显分歧"
-      },
-      {
-        "heading": "风险与展望",
-        "body": "短期内，管理层继任安排的最终结果、SEC调查进展，以及董事会应对激进投资者压力的方式，是影响市场情绪的关键变量。长期而言，全球AI算力需求的持续性、公司在上游供应链中的议价能力，仍是判断基本面的核心因素。鉴于治理风险与业绩利好并存，市场对公司前景存在明显分歧，建议持续关注后续信息披露，不构成任何买卖建议"
+        "heading": "跟踪者与市场情绪",
+        "body": "国会议员佩洛西在二零二五年末至二零二六年初多次申报买入该股（同期亦有部分仓位申报退出/减持），显示政治圈对公司长期前景仍保持一定关注度；社交媒体上关于黄仁勋去留、CEO继任人选以及存储产业链联动的讨论热度居高，市场情绪呈现「强业绩数据与治理不确定性并存」的分裂状态，投资者在解读财报与管理层变动信号时存在明显分歧。"
       }
     ],
     "comparables": [
       {
-        "ticker": "SMH",
-        "name": "VanEck半导体ETF",
-        "note": "NVDA占该ETF权重约17%，可用于观察NVDA特定风险与半导体板块整体表现的联动程度"
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices",
+        "note": "GPU与数据中心加速计算领域的主要直接竞争对手，市场份额与生态规模均小于公司"
       },
       {
-        "ticker": "MU",
-        "name": "美光科技",
-        "note": "作为NVDA存储芯片供应链的重要合作方，其业绩与订单变化可间接反映AI服务器存储需求景气度"
+        "ticker": "AVGO",
+        "name": "Broadcom Inc",
+        "note": "定制ASIC芯片与网络互联方案提供商，被视为云厂商自研芯片路线下对通用GPU需求的潜在替代力量"
       },
       {
         "ticker": "MRVL",
-        "name": "迈威尔科技",
-        "note": "数据中心互联技术领域的重要参与者，与Credo的专利和解反映行业竞争格局的演变，可作为AI基础设施产业链的参照标的"
+        "name": "Marvell Technology",
+        "note": "定制硅芯片与数据中心互联方案厂商，近期获部分知名投资人加仓，被视为AI基础设施多元化布局的受益标的"
+      },
+      {
+        "ticker": "MU",
+        "name": "Micron Technology",
+        "note": "存储芯片供应商，受益于公司大规模存储采购承诺扩张，产业链景气度与公司需求高度联动"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-18T02:47:36.087260Z"
+    "generatedAt": "2026-11-19T02:23:29.823715Z"
   },
   "news": [
     {
-      "id": "NVDA-143893397",
-      "title": "Dow Jones Futures: Techs Rise As Nvidia Beats, Says This On Jensen Huang; Target, Anthropic IPO Ahead",
+      "id": "NVDA-143927491",
+      "title": "Anthropic Prices IPO at $83 a Share, Raising $81.3 Billion in Largest Listing on Record",
       "source": "Yahoo",
-      "publishedAt": "2026-11-18",
-      "url": "https://finnhub.io/api/news?id=4fca2e56670f0ff0f0e303326fe61e80b2faf7bb352d7ffbaa7ae7a8016c3f3d",
+      "publishedAt": "2026-11-19",
+      "url": "https://finnhub.io/api/news?id=b3ea722093ad7ba3fd0db36da835f1d3b6a8cfa8d7e176f56bbd3968718161ea",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143893406",
-      "title": "SoFi Is Targeting 100 Million Products by 2030. Here’s What $10,000 Invested Today Could Be Worth if It Gets There.",
+      "id": "NVDA-143926988",
+      "title": "Why Peabody Energy Stock Slumped Today",
       "source": "Yahoo",
-      "publishedAt": "2026-11-18",
-      "url": "https://finnhub.io/api/news?id=70945d506731b0372472604e9fa9b5a9eca4c286a24c9701f65e1fa78b2fa868",
+      "publishedAt": "2026-11-19",
+      "url": "https://finnhub.io/api/news?id=9a9ed804b620056dc5e884ff24291dab3b7fd6b1e055bf2c2b4826bf1e41e4f5",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143893407",
-      "title": "Should You Buy Anthropic Stock on Day 1 or Wait?",
+      "id": "NVDA-143926672",
+      "title": "Warren Buffett Expects Berkshire Hathaway (BRKA, BRKB) Stock to Drop About 50% Again Someday. Here's What He Says to Do Then.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-18",
-      "url": "https://finnhub.io/api/news?id=62b65e0559146f65595d9ad6cb18057b2274255ebe8f8310a5ad354a109f36fd",
+      "publishedAt": "2026-11-19",
+      "url": "https://finnhub.io/api/news?id=0d8d40ee387216ce6fd0c04ad8a92611c7eafb76f23c7e14049e81725501d02a",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143893398",
-      "title": "Could IBM (IBM) Reshape Scientific Computing With Its New Quantum Classical Platform?",
+      "id": "NVDA-143927485",
+      "title": "Why Bullish Stock Crushed it on Wednesday",
       "source": "Yahoo",
-      "publishedAt": "2026-11-18",
-      "url": "https://finnhub.io/api/news?id=0be4c523a702f773a27195dd3f65463178ad18f7194665c38caef58d3e8c901f",
+      "publishedAt": "2026-11-19",
+      "url": "https://finnhub.io/api/news?id=15f15d3d578b00bd4d4980237253023ab858aff3f7ed73eb80094d56faa80b14",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143891874",
-      "title": "NVIDIA Q3 Earnings Call Highlights",
+      "id": "NVDA-143927492",
+      "title": "Stock-Split Watch: Is Micron Next?",
       "source": "Yahoo",
-      "publishedAt": "2026-11-18",
-      "url": "https://finnhub.io/api/news?id=0859321ec316448904b21682047296d3297676dfd0ffdcf89e36286a7cc6a784",
+      "publishedAt": "2026-11-19",
+      "url": "https://finnhub.io/api/news?id=5c9325227107b0d7da3e5463f59f1409e1ef9feb61f0edf6a39ecbd442039089",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143892312",
-      "title": "3 AI Data Center Stocks Retail Investors Are Watching After Nvidia News",
+      "id": "NVDA-143925307",
+      "title": "3 Investments to Give a Child This Holiday Season and Leave Alone Until 2040",
       "source": "Yahoo",
-      "publishedAt": "2026-11-18",
-      "url": "https://finnhub.io/api/news?id=56b2518521a35308a5b657e052d2dd937d3f936c37c6103e63289c70bf23ad8f",
+      "publishedAt": "2026-11-19",
+      "url": "https://finnhub.io/api/news?id=9a8cf0a6d09f5ba08cec38fefa2c24e9eb3f17fb662eda0acc9470803af95bed",
       "tags": [
         "NVDA"
       ]
