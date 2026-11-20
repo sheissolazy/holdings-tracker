@@ -443,15 +443,145 @@
     ]
   },
   {
-    "personId": "trump",
+    "personId": "musk",
     "type": "social",
-    "asOf": "2026-11-09",
+    "asOf": "2026-11-18",
     "sentiment": "watch",
-    "excerpt": "Defeated Republican Congressman Thomas Massie, a total loser, is trying to Impeach perhaps the most popular and successful military official in the Country, Secretary of War, Pete Hegseth. With recruitment at an ALL-TIME HIGH, from an all-t",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117589581287691662",
+    "excerpt": "Remember to cast your Tesla votes!",
+    "postUrl": "https://x.com/elonmusk/status/2123320336544649485",
+    "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-19",
+    "sentiment": "watch",
+    "excerpt": "I'm actually very impressed with market-chan. If we look at ESMT numbers today: \n\n> $1.58B MC\n> $747M net cash, $274.7M net inventory from Q3\n> $349.5M in Q3 free cash flow\nAdjusted EV: $559.3M\n\n> Q3 net income: $327M (1.2x annualized P/E)\n",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123598186065559858",
     "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-19",
+    "sentiment": "watch",
+    "excerpt": "True, I've looked at biotech, physical AI, cybersecurity, space, and others... But I still have conviction that optics is the most compelling opportunity. \n\nIf you look at Elon Musk $SPCX (Mesh acquisition), $MRVL (Lumentum acqusition), Sam",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123588783753048553",
+    "ticker": "MRVL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-19",
+    "sentiment": "watch",
+    "excerpt": "True, I've looked at biotech, physical AI, cybersecurity, space, and others... But I still have conviction that optics is the most compelling opportunity. \n\nIf you look at Elon Musk $SPCX (Mesh acquisition), $MRVL (Lumentum acqusition), Sam",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123588783753048553",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-19",
+    "sentiment": "watch",
+    "excerpt": "True, I've looked at biotech, physical AI, cybersecurity, space, and others... But I still have conviction that optics is the most compelling opportunity. \n\nIf you look at Elon Musk $SPCX (Mesh acquisition), $MRVL (Lumentum acqusition), Sam",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123588783753048553",
+    "ticker": "LITE",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-19",
+    "sentiment": "watch",
+    "excerpt": "True, I've looked at biotech, physical AI, cybersecurity, space, and others... But I still have conviction that optics is the most compelling opportunity. \n\nIf you look at Elon Musk $SPCX (Mesh acquisition), $MRVL (Lumentum acqusition), Sam",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123588783753048553",
+    "ticker": "SOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-19",
+    "sentiment": "watch",
+    "excerpt": "I'm hearing multiple things from industry executives:\n\n1. Potential $NVDA employee exodus if Jensen doesn't come back soon.\n\nMany senior management and engineers can easily retire after Nvidia stock appreciation over the years.\n\nThey don't ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123565807653552458",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-19",
+    "sentiment": "watch",
+    "excerpt": "I'm hearing multiple things from industry executives:\n\n1. Potential $NVDA employee exodus if Jensen doesn't come back soon.\n\nMany senior management and engineers can easily retire after Nvidia stock appreciation over the years.\n\nThey don't ",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123565807653552458",
+    "ticker": "ARM",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-19",
+    "sentiment": "watch",
+    "excerpt": "$AAPL is now developing its own AI agent offerings to compete vs. $ANT, Meta Muse, Google Gemini, and OpenAI. \n\nGiven on-device inference isn't quite ready yet for complex workflows...\n\n+ Apple isn't really known for doing much in the AI ra",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123543880780132572",
+    "ticker": "AAPL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-19",
+    "sentiment": "watch",
+    "excerpt": "$AAPL is now developing its own AI agent offerings to compete vs. $ANT, Meta Muse, Google Gemini, and OpenAI. \n\nGiven on-device inference isn't quite ready yet for complex workflows...\n\n+ Apple isn't really known for doing much in the AI ra",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123543880780132572",
+    "ticker": "ANT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-19",
+    "sentiment": "watch",
+    "excerpt": "Wow $ANT at a $1.74T valuation…\n\nis now worth hundreds of billions more than $META.\n\nDid anyone end up investing? https://t.co/qwMEVzFOli",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123488317425820130",
+    "ticker": "ANT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-19",
+    "sentiment": "watch",
+    "excerpt": "Wow $ANT at a $1.74T valuation…\n\nis now worth hundreds of billions more than $META.\n\nDid anyone end up investing? https://t.co/qwMEVzFOli",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123488317425820130",
+    "ticker": "META",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-19",
+    "sentiment": "watch",
+    "excerpt": "That’s the signal of confidence I like to see: $COHR issues a new $2B share buyback, through open market purchases.\n\nOptical industry looks very undervalued right now, especially as it reaches the inflection of the next supercycle.\n\nWe’re a",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123401652782923980",
+    "ticker": "COHR",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-19",
+    "sentiment": "watch",
+    "excerpt": "Markets have now given me PTSD on every green rally.\n\nThat being said, $SOI accelerating from $25m quarterly photonics-SOI revenue… with no forward visibility earlier this year.\n\nInto securing $1.2B in agreements this quarter, backed by cas",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123335230870392843",
+    "ticker": "SOI",
     "topics": [
-      "大盘/宏观"
+      "AI/芯片"
     ]
   },
   {
@@ -704,126 +834,6 @@
     "excerpt": "It looks like $AAPL finally gave up on cheap memory supply with $CMXT and China. \n\nThat they've approached Samsung Electronics for DRAM supply LTAs. Contracts are expected to start H1 2027, and run 4-5 years. \n\nThis is positive on regarding",
     "postUrl": "https://x.com/aleabitoreddit/status/2122628849657954454",
     "ticker": "CMXT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-16",
-    "sentiment": "watch",
-    "excerpt": "$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.\n\n- Fully autonomous vulnerability exploitation is now happening\n\n- Adversaries transitioned beyond manual prompting to deploying autonomous multi-agent offensive",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122519172664209692",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-16",
-    "sentiment": "watch",
-    "excerpt": "$GOOGL Threat Intelligence Group: “The era of autonomous attacks has arrived”.\n\n- Fully autonomous vulnerability exploitation is now happening\n\n- Adversaries transitioned beyond manual prompting to deploying autonomous multi-agent offensive",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122519172664209692",
-    "ticker": "GOOGL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-16",
-    "sentiment": "watch",
-    "excerpt": "DeepSeek is now restricting users due to “insufficient compute capacity”.\n\nPrompting rationing over inference usage and tighter restrictions (input limit, conversation history) per Cailian \n\nBelieve it or not, compute shortages are a bullis",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122485440469241998",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-16",
-    "sentiment": "watch",
-    "excerpt": "Leopold’s Situational Awareness 13F filing reveals: \n\n- $BE $389.2M calls\n- $NBIS $332.6M calls\n- $SNDK $182.7M calls\n\nWith $440.7M in SHAZ shares, $140.3M in DRAM ETF calls, and additional exposure to IREN + Neoclouds/Colo players.\n\nCall v",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122455173356536151",
-    "ticker": "BE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-16",
-    "sentiment": "watch",
-    "excerpt": "Leopold’s Situational Awareness 13F filing reveals: \n\n- $BE $389.2M calls\n- $NBIS $332.6M calls\n- $SNDK $182.7M calls\n\nWith $440.7M in SHAZ shares, $140.3M in DRAM ETF calls, and additional exposure to IREN + Neoclouds/Colo players.\n\nCall v",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122455173356536151",
-    "ticker": "NBIS",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-16",
-    "sentiment": "watch",
-    "excerpt": "Leopold’s Situational Awareness 13F filing reveals: \n\n- $BE $389.2M calls\n- $NBIS $332.6M calls\n- $SNDK $182.7M calls\n\nWith $440.7M in SHAZ shares, $140.3M in DRAM ETF calls, and additional exposure to IREN + Neoclouds/Colo players.\n\nCall v",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122455173356536151",
-    "ticker": "SNDK",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-16",
-    "sentiment": "watch",
-    "excerpt": "Well, most of the time projections are noise and reactionary. \n\nLike right now, sky-high projections for $ANT $700-$800B ARR over next few years is stirring up hype that I'd argue gets revised down later. \n\nI do think it's important to mode",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122428876748206564",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-16",
-    "sentiment": "watch",
-    "excerpt": "Well, most of the time projections are noise and reactionary. \n\nLike right now, sky-high projections for $ANT $700-$800B ARR over next few years is stirring up hype that I'd argue gets revised down later. \n\nI do think it's important to mode",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122428876748206564",
-    "ticker": "ANT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-16",
-    "sentiment": "watch",
-    "excerpt": "Well, most of the time projections are noise and reactionary. \n\nLike right now, sky-high projections for $ANT $700-$800B ARR over next few years is stirring up hype that I'd argue gets revised down later. \n\nI do think it's important to mode",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122428876748206564",
-    "ticker": "IREN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-16",
-    "sentiment": "watch",
-    "excerpt": "Well, most of the time projections are noise and reactionary. \n\nLike right now, sky-high projections for $ANT $700-$800B ARR over next few years is stirring up hype that I'd argue gets revised down later. \n\nI do think it's important to mode",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122428876748206564",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-16",
-    "sentiment": "watch",
-    "excerpt": "I don't know what it takes to convince the Taco Bell board member or Washington at this point? \n\n$NVDA is not the same thing as Apple or McDonalds. \n\nYou also cannot replace Jensen with ARM CEO or Palo Alto Networks CEO... then expect local",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122404712800723209",
-    "ticker": "AAPL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-16",
-    "sentiment": "watch",
-    "excerpt": "I don't know what it takes to convince the Taco Bell board member or Washington at this point? \n\n$NVDA is not the same thing as Apple or McDonalds. \n\nYou also cannot replace Jensen with ARM CEO or Palo Alto Networks CEO... then expect local",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122404712800723209",
-    "ticker": "NVDA",
     "topics": []
   },
   {

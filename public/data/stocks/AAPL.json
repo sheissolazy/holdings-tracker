@@ -3,21 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 352.45,
-  "change5dPct": 1.1,
-  "changeYtdPct": 17.9,
-  "marketCap": "$5.12T",
-  "pe": 38.8,
+  "price": 349.21,
+  "change5dPct": -1.8,
+  "changeYtdPct": 15.5,
+  "marketCap": "$5.07T",
+  "pe": 38.5,
   "revenue": "—",
   "revenueYoYPct": 15,
   "prices": [
-    {
-      "t": "2026-05-19",
-      "o": 296.97,
-      "h": 300.51,
-      "l": 296.35,
-      "c": 298.97
-    },
     {
       "t": "2026-05-20",
       "o": 298.18,
@@ -899,75 +892,134 @@
       "h": 355.36,
       "l": 349.67,
       "c": 351.91
+    },
+    {
+      "t": "2026-11-18",
+      "o": 351.94,
+      "h": 356.42,
+      "l": 351.47,
+      "c": 352.45
     }
   ],
   "thesis": {
-    "bull": [],
-    "bear": [],
-    "watch": [],
-    "sections": [],
-    "comparables": [],
-    "model": "（分析暂不可用）",
-    "generatedAt": null,
-    "unavailable": true
+    "bull": [
+      "国会议员佩洛西在2025年12月30日申报新建AAPL多头仓位，说明部分密切关注政策与科技动向的资金对苹果仍保持信心",
+      "社交媒体消息称苹果已与三星电子接触商谈DRAM长期供货协议，预计2027年上半年起执行、跨度4至5年，若落地将显著改善苹果对内存供应链的稳定性，降低对中国CXMT等低价供应的依赖",
+      "市场围绕英伟达CEO继任人选的讨论（包括有观点认为黄仁勋未来可能转向苹果）叠加苹果自身正在开发AI代理产品以对标Meta Muse、谷歌Gemini等，若推进顺利有望打开苹果在AI叙事上的估值想象空间"
+    ],
+    "bear": [
+      "同一申报周期内佩洛西账户也出现多次减持与退出记录（2025-12-24、2025-10-22、2024-12-31等），显示相关仓位变动频繁，整体态度并非单纯看多，反而带有获利了结或降低暴露的意味",
+      "有分析人士指出苹果在生成式AI及代理型产品上起步较晚，端侧推理能力尚未成熟，难以与Anthropic、OpenAI、谷歌Gemini等在复杂工作流场景中的能力相比，技术落差可能持续存在",
+      "近期美股及科技股连续多周下跌，标普500指数出现四至六连阴，AI板块估值波动剧烈，整体风险偏好转弱的宏观环境可能对苹果这类权重股形成压制"
+    ],
+    "watch": [
+      "川普在社交媒体上就苹果CEO人选发表政治化言论，需关注此类表态是否会外溢至关税、监管等政策层面，进而影响苹果的经营环境",
+      "与三星电子DRAM长期协议的具体价格、规模及是否最终签署尚未完全明朗，需持续跟踪协议落地进展及对苹果硬件成本结构的实际影响",
+      "英伟达CEO继任风波仍在发酵，凯茜·伍德与凯文·奥莱里对现任临时CEO的评价存在明显分歧，加上黄仁勋未来动向的市场猜测，可能间接影响AI硬件供应链格局及苹果相关合作关系"
+    ],
+    "sections": [
+      {
+        "heading": "公司概览",
+        "body": "苹果是全球市值领先的消费电子与软件服务公司，核心产品包括iPhone、Mac、iPad、可穿戴设备及App Store、iCloud等服务业务。公司长期依赖强大的品牌粘性与生态系统变现能力，同时正处于向生成式AI与设备端智能化转型的关键阶段，市场对其AI战略的执行力度存在较大分歧。"
+      },
+      {
+        "heading": "跟踪者动向解读",
+        "body": "公开披露显示，国会议员佩洛西账户在2025年末对AAPL既有新建多头的记录，也有多次减持退出的记录，时间点分散在2025年10月、12月以及2024年末，整体呈现仓位调整频繁、多空信号并存的特征，难以简单解读为单边看多或看空，更可能反映阶段性的仓位管理而非长期趋势判断。"
+      },
+      {
+        "heading": "供应链动态",
+        "body": "社交媒体消息指出苹果正就DRAM长期供应协议与三星电子接触，若达成将覆盖2027年上半年起约4至5年的供货安排，被部分观察者解读为苹果降低对中国内存供应商依赖、强化供应链安全的举措。但该消息尚未获得官方确认，具体条款、价格及对成本结构的影响仍待观察。"
+      },
+      {
+        "heading": "AI战略与竞争格局",
+        "body": "市场评论显示苹果正在开发自有AI代理产品，意图在该领域与Anthropic、Meta、谷歌Gemini及OpenAI等竞争，但也有声音认为苹果在生成式AI领域起步较晚，且端侧推理能力尚未成熟，难以支撑复杂工作流场景，这构成了对苹果AI叙事能否兑现的核心分歧点。"
+      },
+      {
+        "heading": "行业与竞争对手动态",
+        "body": "同期英伟达CEO继任问题引发广泛讨论，凯茜·伍德与凯文·奥莱里对临时CEO能力评价存在明显分歧，叠加黄仁勋未来是否转向其他公司的市场猜测，反映出AI硬件及芯片产业链当前处于管理层与格局重塑的敏感阶段，这类不确定性可能通过供应链或人才流动间接波及苹果。"
+      },
+      {
+        "heading": "宏观与市场环境",
+        "body": "近期美股整体承压，标普500指数出现连续多周下跌，Anthropic上市等事件为AI板块带来波动，市场对AI相关资本开支与估值的可持续性存在分歧。在此背景下，苹果作为权重股，其股价表现也容易受到大盘风险偏好变化及AI叙事情绪波动的联动影响。"
+      }
+    ],
+    "comparables": [
+      {
+        "ticker": "NVDA",
+        "name": "英伟达",
+        "note": "AI算力硬件龙头，近期因CEO继任问题受到市场关注，其管理层变化及与苹果等终端厂商的合作关系值得对比观察"
+      },
+      {
+        "ticker": "GOOGL",
+        "name": "谷歌母公司Alphabet",
+        "note": "Gemini被视为苹果AI代理产品的直接竞争对手之一，两者在生成式AI能力上的差距是市场讨论的焦点"
+      },
+      {
+        "ticker": "MRVL",
+        "name": "Marvell Technology",
+        "note": "AI网络及存储相关芯片公司，近期因专利纠纷和解消息受关注，可作为观察AI供应链硬件端景气度的参照"
+      }
+    ],
+    "model": "claude-code（订阅）",
+    "generatedAt": "2026-11-20T02:10:01.825785Z"
   },
   "news": [
     {
-      "id": "AAPL-143927468",
-      "title": "Corning CEO on working with Steve Jobs to make screens for the first iPhone",
+      "id": "AAPL-143947996",
+      "title": "S&P 500, Nasdaq, Dow End Lower As Anthropic Trading Debut Fails To Provide Adequate Confidence —  ANT, META, AAPL, GME In Focus",
       "source": "Yahoo",
       "publishedAt": "2026-11-19",
-      "url": "https://finnhub.io/api/news?id=054c6dfe215f2e7ce92a4b71e774ca443836d80663a994e4b3a4d81e8085b7d8",
+      "url": "https://finnhub.io/api/news?id=f651be9663f5e6db171be082b341381743ec55ca6369c463dcf5dc2c4cb4a997",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143922091",
-      "title": "Alphabet vs. Apple: Which Warren Buffett Stock Is the Better Buy?",
+      "id": "AAPL-143947998",
+      "title": "3 ETFs for the 58-Year-Old Who Opened the 401(k) Brokerage Window and Did Not Know What to Buy",
       "source": "Yahoo",
-      "publishedAt": "2026-11-18",
-      "url": "https://finnhub.io/api/news?id=46a902c47b68144cede499af2d96270b76bd0d295e65c60202e236e6975c45f5",
+      "publishedAt": "2026-11-19",
+      "url": "https://finnhub.io/api/news?id=f609a25cfb0308e982f554aa59a8cabca8fdf404a0197a801e33064dcfddad19",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143922095",
-      "title": "Ken Griffin Dumps SpaceX, Amazon; Buys ARKK and Bets Big on Marvell",
+      "id": "AAPL-143947997",
+      "title": "Anthropic Closes Up 17% While Nasdaq Falls; Mohamed El-Erian Calls It ‘Making Room’ For AI",
       "source": "Yahoo",
-      "publishedAt": "2026-11-18",
-      "url": "https://finnhub.io/api/news?id=67a5d3be9d437380861d3d9e01fdb22a61927b759f97c5ff6f6c5a2c52f8b329",
+      "publishedAt": "2026-11-19",
+      "url": "https://finnhub.io/api/news?id=708616c2239321ce5029db74ffcc10c19d34de688eff181f1e7d5e13821cf3c3",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143922096",
-      "title": "I Listened to MP Materials' Earnings Call. Here's the 1 Thing That Stuck With Me.",
+      "id": "AAPL-143946911",
+      "title": "Intuit Stock Tumbles After Earnings Beat. It’s Selling Mailchimp.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-18",
-      "url": "https://finnhub.io/api/news?id=db6c9c8a7206b66dba389147bc03839d25b3b80323ce7b232b090e09a712284a",
+      "publishedAt": "2026-11-19",
+      "url": "https://finnhub.io/api/news?id=37ba5922a099995f39e17d7f9b5dec87195afcc3c65077c8c79b6015feadf48f",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143921229",
-      "title": "Memory supply constraints will be even 'tighter' in 2027: Micron CTO",
+      "id": "AAPL-143946909",
+      "title": "Bridgewater Warns of AI Security Risk as Anthropic Shares Rise in Debut",
       "source": "Yahoo",
-      "publishedAt": "2026-11-18",
-      "url": "https://finnhub.io/api/news?id=bbe39f3f4604c8c66e92f3b2ffc1fa1a23d7a470d2aed8fa127fcf42aaf3d732",
+      "publishedAt": "2026-11-19",
+      "url": "https://finnhub.io/api/news?id=86f0f70b3dbbb031578c60d23282f67ec43d96a75a29fe7bcd2b4d1b99d5d3d3",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-143922094",
-      "title": "Citi CEO Expects More Tech Outages",
+      "id": "AAPL-143946912",
+      "title": "Anthropic has a 17-fold revenue growth hurdle to tackle: A closer look",
       "source": "Yahoo",
-      "publishedAt": "2026-11-18",
-      "url": "https://finnhub.io/api/news?id=29a135d4c6a593ea8588ff6170d5d64c6ae20a13e2d79818622477e4f374e43e",
+      "publishedAt": "2026-11-19",
+      "url": "https://finnhub.io/api/news?id=ca982ca003caf78ae6c117f89c4276531cf9e98070ad945b6c2b69782b95d0d3",
       "tags": [
         "AAPL"
       ]
