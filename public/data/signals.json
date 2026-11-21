@@ -445,11 +445,137 @@
   {
     "personId": "musk",
     "type": "social",
-    "asOf": "2026-11-18",
+    "asOf": "2026-11-20",
     "sentiment": "watch",
-    "excerpt": "Remember to cast your Tesla votes!",
-    "postUrl": "https://x.com/elonmusk/status/2123320336544649485",
-    "ticker": "TSLA",
+    "excerpt": "Hear me out: “Singularity dot Com”, a dating site for digital superintelligences …",
+    "postUrl": "https://x.com/elonmusk/status/2123852660688494744",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-11-20",
+    "sentiment": "watch",
+    "excerpt": "I was just thinking that (for myself) stupidity doesn’t count unless I’m also really obstinate about it",
+    "postUrl": "https://x.com/elonmusk/status/2123845867526574261",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "musk",
+    "type": "social",
+    "asOf": "2026-11-20",
+    "sentiment": "watch",
+    "excerpt": "Made with Grok @Bot\nhttps://t.co/b1rXfw9h4K",
+    "postUrl": "https://x.com/elonmusk/status/2123827993382687217",
+    "ticker": "",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-20",
+    "sentiment": "watch",
+    "excerpt": "$NVDA drops over -12%+, from a new report that the SEC is probing potential accounting issues at Nvidia.\n\nAt this point, the collateral damage is starting to hit major indexes and retirement portfolios.\n\nIt's just wild to witness a $5T+ com",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123878986686333308",
+    "ticker": "NVDA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-20",
+    "sentiment": "watch",
+    "excerpt": "I covered this earlier in Jan regarding PCB bottlenecks with photonics + $AMZN Kuiper / $SPCX starlink supply chains.\n\nBut as an update, it like other industries outside of AI are really starting to feel the pain now too.  \n\nGlobal Electron",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123851594811011470",
+    "ticker": "AMZN",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-20",
+    "sentiment": "watch",
+    "excerpt": "I covered this earlier in Jan regarding PCB bottlenecks with photonics + $AMZN Kuiper / $SPCX starlink supply chains.\n\nBut as an update, it like other industries outside of AI are really starting to feel the pain now too.  \n\nGlobal Electron",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123851594811011470",
+    "ticker": "SPCX",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-20",
+    "sentiment": "watch",
+    "excerpt": "> Democrats: \"Let's ban new datacenters in the US\"\n> Trump: \"Let's ban new datacenters overseas\"\n> $CRWV: ??? https://t.co/2sOPrHkl9J",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123841418577973727",
+    "ticker": "CRWV",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-20",
+    "sentiment": "watch",
+    "excerpt": "Feels like every growth equity, even outside of AI, from $HOOD to $NBIS has fallen off a cliff.\n\nMeanwhile bubbles are forming in consumer staples, with valuations not seen since 1999.\n\nDo you guys think markets are right... that premiums g",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123805601411277149",
+    "ticker": "HOOD",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-20",
+    "sentiment": "watch",
+    "excerpt": "Feels like every growth equity, even outside of AI, from $HOOD to $NBIS has fallen off a cliff.\n\nMeanwhile bubbles are forming in consumer staples, with valuations not seen since 1999.\n\nDo you guys think markets are right... that premiums g",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123805601411277149",
+    "ticker": "NBIS",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-20",
+    "sentiment": "watch",
+    "excerpt": "$P earnings were actually interesting, not really in terms actionable investments. \n\nBut more on AI capex broadening, where deployments are happening, and what Jensen at $NVDA might envisioned with open weight model + GPU demand. \n\n- Everpu",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123762482280055255",
+    "ticker": "NVDA",
+    "topics": [
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-20",
+    "sentiment": "watch",
+    "excerpt": "$P earnings were actually interesting, not really in terms actionable investments. \n\nBut more on AI capex broadening, where deployments are happening, and what Jensen at $NVDA might envisioned with open weight model + GPU demand. \n\n- Everpu",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123762482280055255",
+    "ticker": "ANT",
+    "topics": [
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-20",
+    "sentiment": "watch",
+    "excerpt": "$P earnings were actually interesting, not really in terms actionable investments. \n\nBut more on AI capex broadening, where deployments are happening, and what Jensen at $NVDA might envisioned with open weight model + GPU demand. \n\n- Everpu",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123762482280055255",
+    "ticker": "P",
+    "topics": [
+      "AI/芯片"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-19",
+    "sentiment": "watch",
+    "excerpt": "Markets appear to be wrongly interpreting Chinese eSSD cuts as deteriorating demand and NAND oversupply.\n\nPhison CEO commentary today + more context behind $SNDK / Kioxia selloff regarding Trendforce revisions: \n\n- \"Pua attributed China's r",
+    "postUrl": "https://x.com/aleabitoreddit/status/2123633356969775107",
+    "ticker": "SNDK",
     "topics": []
   },
   {
@@ -695,146 +821,6 @@
     "topics": [
       "IPO/财报"
     ]
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-18",
-    "sentiment": "watch",
-    "excerpt": "A faction of $NVDA board are now pushing for Jensen Huang to return as CEO per Semafor.\n\nI hope the market’s reaction, even after record earnings…\n\nsends a message to the rest of the board. https://t.co/aEve8LRHnv",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123100162616951229",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-18",
-    "sentiment": "watch",
-    "excerpt": "Does anyone remember the days…\n\nWhen $NVDA disclosing an additional $111B+ in primarily memory procurement in a single quarter…\n\nwas good news for memory names like $MU and SK Hynix? https://t.co/oVZauK6LEn",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123080934362845437",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-18",
-    "sentiment": "watch",
-    "excerpt": "Does anyone remember the days…\n\nWhen $NVDA disclosing an additional $111B+ in primarily memory procurement in a single quarter…\n\nwas good news for memory names like $MU and SK Hynix? https://t.co/oVZauK6LEn",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123080934362845437",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-18",
-    "sentiment": "watch",
-    "excerpt": "Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:\n\n1. Capex cuts past 2028 \n2. Stranded Compute / DC Slowdowns \n3. Finance deterioration (base case)\n4. 2x+ rate hikes\n\nWorking in parallel and se",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123067177905643769",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-18",
-    "sentiment": "watch",
-    "excerpt": "Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:\n\n1. Capex cuts past 2028 \n2. Stranded Compute / DC Slowdowns \n3. Finance deterioration (base case)\n4. 2x+ rate hikes\n\nWorking in parallel and se",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123067177905643769",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-18",
-    "sentiment": "watch",
-    "excerpt": "Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:\n\n1. Capex cuts past 2028 \n2. Stranded Compute / DC Slowdowns \n3. Finance deterioration (base case)\n4. 2x+ rate hikes\n\nWorking in parallel and se",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123067177905643769",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-18",
-    "sentiment": "watch",
-    "excerpt": "Now that we're close to 2027 it's a good idea to stress test downside scenarios where you have:\n\n1. Capex cuts past 2028 \n2. Stranded Compute / DC Slowdowns \n3. Finance deterioration (base case)\n4. 2x+ rate hikes\n\nWorking in parallel and se",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123067177905643769",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-17",
-    "sentiment": "watch",
-    "excerpt": "$NVDA earnings transcript + industry read through. To sum it up: \"Demand far exceeds supply\".  \n\n- Good news for the $MU / Samsung memory longs: \n\n\"Our supply commitments increased from $279B last quarter to $390B, primarily related to the ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122835908596846950",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-17",
-    "sentiment": "watch",
-    "excerpt": "$NVDA earnings transcript + industry read through. To sum it up: \"Demand far exceeds supply\".  \n\n- Good news for the $MU / Samsung memory longs: \n\n\"Our supply commitments increased from $279B last quarter to $390B, primarily related to the ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122835908596846950",
-    "ticker": "MU",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-17",
-    "sentiment": "watch",
-    "excerpt": "$AAOI management lost all credibility by launching another $550M ATM.\n\nEspecially after it comes contrary to earlier commentary about other financing methods + share price caution.\n\nI still find AOI operationally compelling around their CPO",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122814062329471182",
-    "ticker": "AAOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-17",
-    "sentiment": "watch",
-    "excerpt": "Jensen’s first public statement since leaving $NVDA.\n\nThe support for Jensen is absolutely overwhelming.\n\nCan’t think of anyone else who is better suited to lead Nvidia and America’s future in AI",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122791681405997440",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-17",
-    "sentiment": "watch",
-    "excerpt": "Just now: Trump administration to press ahead and block imports of AI DC equipment from China, such as new optical transceiver models.  \n\nDespite opposition from hyperscalers like $AMZN to solana:GooGLMvZtJZXHdNZy95RUrAMCCKxV6ghK3qE5ddBgVm5",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122660925488718046",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-17",
-    "sentiment": "watch",
-    "excerpt": "It looks like $AAPL finally gave up on cheap memory supply with $CMXT and China. \n\nThat they've approached Samsung Electronics for DRAM supply LTAs. Contracts are expected to start H1 2027, and run 4-5 years. \n\nThis is positive on regarding",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122628849657954454",
-    "ticker": "AAPL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-17",
-    "sentiment": "watch",
-    "excerpt": "It looks like $AAPL finally gave up on cheap memory supply with $CMXT and China. \n\nThat they've approached Samsung Electronics for DRAM supply LTAs. Contracts are expected to start H1 2027, and run 4-5 years. \n\nThis is positive on regarding",
-    "postUrl": "https://x.com/aleabitoreddit/status/2122628849657954454",
-    "ticker": "CMXT",
-    "topics": []
   },
   {
     "personId": "jensen",
