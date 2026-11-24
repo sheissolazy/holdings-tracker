@@ -3,28 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 125.53,
-  "change5dPct": -24.5,
-  "changeYtdPct": -42.8,
-  "marketCap": "$3.03T",
-  "pe": 15.5,
+  "price": 165.05,
+  "change5dPct": 5.7,
+  "changeYtdPct": -23.2,
+  "marketCap": "$3.98T",
+  "pe": 13.4,
   "revenue": "—",
   "revenueYoYPct": 93,
   "prices": [
-    {
-      "t": "2026-05-21",
-      "o": 222.29,
-      "h": 227.4,
-      "l": 217.93,
-      "c": 219.51
-    },
-    {
-      "t": "2026-05-22",
-      "o": 220.9,
-      "h": 221.01,
-      "l": 214.8,
-      "c": 215.33
-    },
     {
       "t": "2026-05-26",
       "o": 216.54,
@@ -899,132 +885,164 @@
       "h": 158.13,
       "l": 145.71,
       "c": 145.98
+    },
+    {
+      "t": "2026-11-20",
+      "o": 143.52,
+      "h": 143.73,
+      "l": 124.5,
+      "c": 125.53
+    },
+    {
+      "t": "2026-11-23",
+      "o": 167.04,
+      "h": 171.5,
+      "l": 156.93,
+      "c": 165.05
     }
   ],
   "thesis": {
     "bull": [
-      "AI资本开支仍在扩张且呈现广度化趋势，部署场景从头部云厂商延伸到更多行业客户，叠加开放权重模型兴起，对GPU的增量需求基础尚未被证伪",
-      "SMH等半导体ETF在近期暴跌后出现获评级上调、「可考虑回补空头」的声音，显示部分机构认为抛售已price in悲观预期，存在修复性反弹空间",
-      "行业高管在AI峰会上公开力挺黄仁勋并淡化市场动荡，显示产业界对英伟达技术路线与客户订单的信心尚未动摇，供应链层面暂未出现明显砍单信号"
+      {
+        "text": "黄仁勋在董事会决议、特朗普公开喊话及马斯克等业界人士声援下重返CEO职位，市场情绪迅速回暖，带动纳斯达克100指数单日增加约2万亿美元市值，为近一年来最佳单日表现之一"
+      },
+      {
+        "text": "CEO回归触发半导体及AI供应链股票联动上涨，Marvell、Coherent（英伟达曾斥资约20亿美元买入其股票）、博通等相关标的同步走强，显示市场对AI资本开支链条信心修复"
+      },
+      {
+        "text": "部分分析人士（如社交媒体评论者）认为黄回归后，客户与合作伙伴对加速器以外的AI基础设施（电力、数据中心供应链）投入信心上升，AI资本开支预期有被上修的可能"
+      }
     ],
     "bear": [
-      "路透社独家报道美国SEC正就英伟达会计处理展开调查，消息发布后股价出现近18年最差单周表现，监管不确定性短期内难以证伪或证实，构成重大尾部风险",
-      "知名空头迈克尔伯里已在英伟达及芯片ETF空头头寸上落袋获利，叠加芯片股出现2020年3月以来级别的剧烈反转及「大规模看跌期权交易」，显示聪明资金层面已有明显获利/避险行为",
-      "前CEO黄仁勋辞任、同意出席参议院公开听证，叠加传言若黄仁勋不回归可能引发核心高管与工程师出走潮，管理层与治理层面的不确定性短期内压制估值"
+      {
+        "text": "此前有报道称SEC正调查英伟达潜在会计问题，消息一度导致股价单日下跌逾12%，目前尚无公开结论，调查结果仍是悬而未决的重大不确定性"
+      },
+      {
+        "text": "知名空头迈克尔伯里虽买入英伟达看涨期权并削减部分半导体空头仓位，但其公开表态显示仍对黄仁勋的公司治理与信息披露存疑，并未完全转向看多"
+      },
+      {
+        "text": "在黄仁勋离任期间曾出现核心工程与管理团队潜在离职的报道，反映公司治理动荡对人才留存的冲击，即便黄已回归，此前积累的组织不确定性影响仍需时间消化"
+      }
     ],
     "watch": [
-      "英伟达CEO继任与治理安排：市场流传黄仁勋辞任、由苹果蒂姆库克接任的说法出自社交媒体而非官方公告，真实性与细节有待公司正式确认，需跟踪股东大会或监管文件披露",
-      "SEC会计调查的具体范围与进展：目前仅为路透援引匿名信源的报道，调查是否涉及收入确认、渠道库存或关联交易等实质性问题尚不明确，后续SEC问询函或公司回应是公告关键节点",
-      "AI板块资金流向与同业比较：高盛下调博通目标价、Lumentum与Marvell并购案估值测试、Anthropic IPO后科技股大幅抛售等事件显示AI链条估值体系正在重新定价，需观察英伟达估值相对同业的变化"
+      {
+        "text": "国会议员佩洛西的PTR披露显示其在2025年末至2026年初对NVDA持仓有新建仓与部分获利了结并存的操作，买卖节奏显示对该股看法并非单一方向"
+      },
+      {
+        "text": "特朗普总统与财政部长贝森特持续公开评论英伟达人事变动及所谓AI泡沫、循环融资担忧，政治层面的关注度和表态可能继续影响市场情绪"
+      },
+      {
+        "text": "SEC调查后续进展、AMD为OpenAI与Meta认股权相关增发约3.37亿股对半导体板块估值与供给的潜在稀释效应，以及英伟达将安全能力嵌入芯片对网络安全板块（如CrowdStrike）竞争格局的影响，均为后续需要跟踪的关键变量"
+      }
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达是全球领先的GPU与AI加速计算平台供应商，产品覆盖数据中心训练/推理芯片、网络互联、软件生态（CUDA）及终端游戏显卡业务，数据中心业务近年已成为营收与利润的主要驱动。公司市值一度突破5万亿美元量级，是过去两年AI资本开支周期中最核心的受益标的之一，但近期因治理与监管事件处于舆论与资金双重压力之下"
+        "body": "英伟达（NVDA）是全球领先的图形处理器与AI加速计算芯片供应商，核心业务围绕数据中心GPU、AI训练与推理硬件及配套软件生态。公司近期因创始人兼CEO黄仁勋的离任与回归事件成为市场焦点，股价及衍生品市场均出现剧烈波动。"
       },
       {
-        "heading": "管理层变动与治理风险",
-        "body": "社交媒体流传英伟达CEO黄仁勋已辞任、由苹果蒂姆库克接任的说法，但该信息来源于总统社交媒体账号而非公司官方公告，真实性存疑；与此同时路透社报道黄仁勋已同意出席参议院公开听证会。无论继任传闻最终是否属实，管理层连续性与对外沟通的不确定性本身已成为市场关注焦点，也带来「核心高管与工程师出走潮」的担忧"
+        "heading": "CEO人事变动与市场反应",
+        "body": "据公开报道，英伟达董事会决定让黄仁勋重新出任CEO，特朗普总统在社交平台多次公开表态支持其回归，马斯克等业界人士亦表达欢迎。消息公布后，英伟达期权交易量创纪录，纳斯达克100指数单日市值增加约2万亿美元，半导体与AI供应链相关个股（Marvell、Coherent、博通等）同步大涨，亚洲市场（包括台湾投资者）反应积极。"
       },
       {
-        "heading": "SEC会计调查",
-        "body": "路透社独家报道美国SEC正就英伟达的会计处理展开调查，报道发布后公司股价出现近18年来最差单周表现，并带动纳斯达克指数2026年以来涨幅被大幅侵蚀。目前公开信息仅为匿名信源披露，调查范围、是否涉及收入确认或关联交易等细节尚未明确，公司亦未就此发布正式声明，这是短期内最大的不确定性来源"
+        "heading": "基本面与竞争格局",
+        "body": "英伟达在AI加速芯片市场仍保持领先地位，但市场对其增长可持续性存在分歧：一方面有观点认为黄仁勋回归后AI资本开支预期可能被上修，供应链投入信心增强；另一方面，AMD、博通、Marvell等竞争对手及上下游企业的股权结构变化（如AMD为换取OpenAI、Meta认股权而登记约3.37亿股用于转售）可能影响行业估值与供需平衡。英伟达近期还被报道将代理安全能力集成至芯片层面，对CrowdStrike等网络安全厂商构成潜在竞争或合作关系的新变量。"
       },
       {
-        "heading": "行业与资金动向",
-        "body": "芯片板块近期出现「2020年3月以来级别的反转」及大规模看跌期权交易，知名空头迈克尔伯里已在英伟达相关空头仓位上获利了结；另一方面，SMH等半导体ETF获评级上调，部分声音认为可考虑回补空头。行业高管在AI峰会上公开维护黄仁勋及英伟达的技术路线，显示产业链信心与二级市场情绪出现一定分化"
+        "heading": "监管与政策关注",
+        "body": "市场消息显示SEC正对英伟达潜在会计问题展开调查，此事曾一度导致股价单日下跌超过12%，目前调查进展与最终结论尚未公开，是悬而未决的重大风险点。同时，美联储官员（如威廉姆斯）暗示利率可能仍需维持在较高水平以应对通胀，财政部长贝森特亦公开评论了AI市场波动与所谓循环融资的担忧，宏观政策环境对AI板块估值的影响需持续关注。"
       },
       {
-        "heading": "跟踪者动向解读",
-        "body": "国会议员佩洛西在2025年末至2026年初的申报中呈现「新建多头仓位」与「减持/退出」交替出现的模式，反映的是常规的期权滚动或再平衡操作，而非单向的强烈多空判断，不宜过度解读为对公司基本面的明确表态；需要注意国会议员交易披露存在滞后性，不能作为及时的交易信号"
+        "heading": "国会与政治人物动向",
+        "body": "根据公开披露，众议院议员佩洛西在2025年底至2026年初对NVDA有多笔交易申报，既包含新建仓也包含部分头寸的获利了结，反映出即便是政治人物投资者对该股走势也并非一致看法。与此同时，总统特朗普多次在社交媒体公开评论英伟达CEO人事问题，显示出该公司已超出单纯商业议题，成为具有一定政治关注度的焦点标的。"
       },
       {
-        "heading": "风险与展望",
-        "body": "英伟达当前站在AI资本开支长周期与短期治理/监管冲击的交叉点：若SEC调查被证实为程序性问询且管理层交接平稳过渡，当前抛售可能提供预期修复的窗口；若调查升级或继任安排出现混乱，叠加「AI泡沫见顶」的宏观叙事发酵，则可能形成基本面与估值的双重下修。建议持续关注SEC是否发出正式问询函、公司对CEO传闻的官方回应，以及下游云厂商资本开支指引的变化"
+        "heading": "风险与分歧总结",
+        "body": "综合来看，市场在英伟达CEO回归后呈现明显乐观情绪，期权交易与股价联动数据支持短期看多叙事；但SEC会计问题调查、知名空头伯里对公司治理的持续质疑，以及此前管理层动荡可能遗留的人才流失风险，构成不可忽视的反方论据。投资者在评估该股时需要在情绪驱动的上涨与尚未解决的监管及治理不确定性之间进行权衡，本分析不构成任何买卖建议。"
       }
     ],
     "comparables": [
       {
-        "ticker": "AVGO",
-        "name": "博通",
-        "note": "数据中心定制芯片（ASIC）与网络互连的主要竞争者/合作方，近期被高盛下调目标价，估值是否过高存在分歧"
+        "ticker": "AMD",
+        "name": "Advanced Micro Devices",
+        "note": "AI加速芯片主要竞争对手，近期因向OpenAI与Meta发行认股权相关股份登记转售而引发市场对股权稀释的讨论"
       },
       {
         "ticker": "MRVL",
-        "name": "迈威尔科技",
-        "note": "数据中心AI芯片与光互连布局者，宣布对Lumentum的大额并购，市场正在重新测试其估值体系"
+        "name": "Marvell Technology",
+        "note": "数据中心定制芯片与互连方案供应商，英伟达CEO回归消息公布后同步大涨，被视为AI供应链联动标的之一"
       },
       {
-        "ticker": "QCOM",
-        "name": "高通",
-        "note": "上季度获索罗斯等多家大基金增持，同时也有基金减持，显示机构对其移动与边缘AI芯片业务分歧较大"
+        "ticker": "AVGO",
+        "name": "Broadcom",
+        "note": "网络与定制AI芯片领域重要参与者，常被作为英伟达在数据中心芯片生态中的对比标的"
       },
       {
-        "ticker": "LITE",
-        "name": "Lumentum",
-        "note": "光模块供应商，因被迈威尔收购而股价波动，是AI数据中心光通信需求的风向标之一"
+        "ticker": "CRWD",
+        "name": "CrowdStrike",
+        "note": "网络安全厂商，因英伟达将代理安全能力集成至芯片层面而被市场讨论其竞争格局变化"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-21T02:02:16.692663Z"
+    "generatedAt": "2026-11-24T05:11:08.746148Z"
   },
   "news": [
     {
-      "id": "NVDA-143994647",
-      "title": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
+      "id": "NVDA-144062197",
+      "title": "In Taiwan, investors 'really happy' at Jensen Huang's return",
       "source": "Yahoo",
-      "publishedAt": "2026-11-21",
-      "url": "https://finnhub.io/api/news?id=c46246a8258c4d88e89cd01e06b0b7645fc4810002dfc7208a2060f9219ded69",
+      "publishedAt": "2026-11-24",
+      "url": "https://finnhub.io/api/news?id=f32bfde2816c9bef62a1818caf6ebeca35d9920b92fa33d34e6e0cd8e2448aa1",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143993619",
-      "title": "Prediction: Nvidia Stock Will Do This in the 6 Months After a New CEO Takes Over, According to History",
+      "id": "NVDA-144062198",
+      "title": "AMD Stock Dips Overnight After Nvidia-Triggered Rally: AMD Registers 337M Shares For Resale Tied To OpenAI, Meta Warrants",
       "source": "Yahoo",
-      "publishedAt": "2026-11-21",
-      "url": "https://finnhub.io/api/news?id=f42b6b0936e5b436cf568eaee0a53500e3ccf3c4459b53880f1ae1ebca984852",
+      "publishedAt": "2026-11-24",
+      "url": "https://finnhub.io/api/news?id=65b84ff5d824ba1bb5f8a8b11ce90a25daf9124937c7c86a0c8450b6953663bc",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143993142",
-      "title": "Prediction: Rocket Lab Will Triple Its Revenue by 2028. Here’s What That Would Mean for the Stock.",
+      "id": "NVDA-144062199",
+      "title": "Nvidia Just Built Agent Security Into Its Chips. What Does That Mean for CrowdStrike?",
       "source": "Yahoo",
-      "publishedAt": "2026-11-20",
-      "url": "https://finnhub.io/api/news?id=75a882110e5cfd6ec662c4acd3c19687c4ff7f9da6f8a7171e94437b2739e369",
+      "publishedAt": "2026-11-24",
+      "url": "https://finnhub.io/api/news?id=2d2dcc79292e3970b27336fdffdb036545a9c8b38a5f2266f127c64079dd3796",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143993135",
-      "title": "NVDA Stock Clocks Worst Week In 18 Years As SEC Reportedly Probes Its Accounting Practices",
+      "id": "NVDA-144062212",
+      "title": "Asian stocks rally after Wall Street rebound as Jensen Huang returns as Nvidia’s CEO",
       "source": "Yahoo",
-      "publishedAt": "2026-11-20",
-      "url": "https://finnhub.io/api/news?id=fe85428ac252f2f71c02ad6b9d581ebd740aaf7f4f5e9da38c5158286056f3ff",
+      "publishedAt": "2026-11-24",
+      "url": "https://finnhub.io/api/news?id=7f5d81a3a41a511f97040b73e0259305cee5b85e387e0edf9f8d7de2928acb61",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143947017",
-      "title": "At AI Summit, Industry Titans Wave Off Market Woes—and Defend Jensen Huang",
+      "id": "NVDA-144062203",
+      "title": "IREN Ltd. (IREN) Just Exploded 24%. Here’s What Sent Shares Flying",
       "source": "Yahoo",
-      "publishedAt": "2026-11-20",
-      "url": "https://finnhub.io/api/news?id=e825bf6bbc69998e51749805a83f0e52db1eb913e548582fe18fe01aad4d0ee1",
+      "publishedAt": "2026-11-24",
+      "url": "https://finnhub.io/api/news?id=decf97179c760dd0ced429a99890b0015ac6bcb9cb1a66c264c989e6ed066a2d",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-143993137",
-      "title": "Data Center AI Chips Could Change the Winners: Broadcom and Marvell",
+      "id": "NVDA-144062200",
+      "title": "Michael Burry Bought Nvidia Calls, Cut His Semiconductor Shorts Before The Rally – But He’s Not Done Questioning Jensen Huang",
       "source": "Yahoo",
-      "publishedAt": "2026-11-20",
-      "url": "https://finnhub.io/api/news?id=350b7b787df4ab1d9e0d47982aacd2338851263fb35869cc7aa66e9b84608c46",
+      "publishedAt": "2026-11-24",
+      "url": "https://finnhub.io/api/news?id=26c2c2f293915fc7af9aae46b9fc7fec952aba5be60d16801255e2fea98586cc",
       "tags": [
         "NVDA"
       ]
