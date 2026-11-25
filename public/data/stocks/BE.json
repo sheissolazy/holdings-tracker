@@ -3,11 +3,11 @@
   "name": "Bloom Energy",
   "exchange": "NYSE",
   "sector": "清洁能源",
-  "price": 168.15,
-  "change5dPct": -5.2,
-  "changeYtdPct": -44.4,
-  "marketCap": "$49.7B",
-  "pe": 95.9,
+  "price": 156.41,
+  "change5dPct": -9.8,
+  "changeYtdPct": -48.3,
+  "marketCap": "$46.2B",
+  "pe": 88.8,
   "revenue": "—",
   "revenueYoYPct": 111,
   "prices": [
@@ -899,127 +899,134 @@
       "h": 177.01,
       "l": 165.3,
       "c": 168.15
+    },
+    {
+      "t": "2026-11-24",
+      "o": 162.69,
+      "h": 164.18,
+      "l": 151.41,
+      "c": 156.41
     }
   ],
   "thesis": {
     "bull": [
-      "国会议员佩洛西在2026年7月下旬两次新建BE多头仓位并于8月下旬披露，市场解读为知情资金对公司前景的积极信号",
-      "AI数据中心对电力的刚性需求被视为公司核心催化剂，有分析称当前AI基建扩张仅完成约15%，意味着后续电力设备需求仍有较大成长空间",
-      "中期选举后数据中心选址与电网接入审批出现松动迹象，利好「表后」即用户侧发电设备供应商，公司燃料电池产品契合这一趋势"
+      "AI数据中心用电需求快速扩张，Bloom Energy的固态氧化物燃料电池方案可绕开电网扩容瓶颈实现快速并网发电，公司近期营收同比增长138%，显示下游需求兑现较快",
+      "国会议员佩洛西在2026年7月连续两次新建BE多头头寸，市场上部分投资者将跟踪者动向视为对公司中长期前景的积极信号",
+      "在11月股价累计下跌约22%后，有华尔街分析人士维持看多评级并给出大幅高于现价的目标价，认为抛售后估值吸引力上升"
     ],
     "bear": [
-      "多项市场评论指出看空情绪目前在该股投资者中占据主导地位，反映市场对其盈利路径和估值仍存疑虑",
-      "美联储官员威廉姆斯暗示未来利率可能进一步上行，对资本密集、依赖外部融资扩产的发电设备企业构成压力",
-      "公司股价近期的大幅上涨更多是跟随英伟达CEO黄仁勋回归引发的半导体与AI连带行情，而非自身基本面的独立催化，一旦板块情绪降温存在回撤风险"
+      "近期AI芯片与AI电力相关题材股整体遭遇抛售，BE本月下跌约22%，情绪面明显承压，股价波动大于基本面变化",
+      "同期伯克希尔股价创历史新高，而AI电力股集体回调，显示部分资金正从高增长高估值题材转向价值股和防御性资产，可能持续压制BE等题材股表现",
+      "燃料电池发电技术长期面临燃气轮机、电池储能等替代方案的竞争，138%的收入增速能否在未来多个季度持续兑现仍存在分歧，且同类电力设备股如nVent Electric、Advanced Energy近期也出现无个股消息驱动的大幅下跌，显示板块系统性风险不低"
     ],
     "watch": [
-      "关注AI数据中心用电需求的实际落地节奏，包括大型云厂商资本开支指引是否持续兑现此前的乐观预期",
-      "关注美联储后续利率表态与整体利率环境变化，评估其对公司融资成本和项目经济性的影响",
-      "关注国会议员等相关方后续信息披露文件，判断此前买入是否为一次性交易还是趋势性加仓"
+      "后续季度营收增速与利润率是否能延续本次138%的高增长，还是会随基数抬升而放缓",
+      "英伟达等AI算力龙头股价波动是否会影响数据中心资本支出节奏，进而传导至Bloom Energy等上游电力设备需求",
+      "国会议员及机构投资者后续持仓变化、分析师目标价与评级调整，可作为观察市场情绪分歧的参考指标"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "Bloom Energy是一家从事固体氧化物燃料电池发电系统研发与销售的公司，产品主要面向数据中心、工业设施等场景提供表后即用户侧的分布式发电方案。公司近年来将自身定位与AI算力扩张及数据中心用电需求紧密绑定，成为市场讨论AI基础设施供应链时经常提及的标的之一"
+        "body": "Bloom Energy是一家专注于固态氧化物燃料电池「SOFC」技术的能源公司，主要产品为可现场部署的分布式发电系统，近年来将增长叙事与数据中心、AI算力集群的用电需求紧密绑定，强调其发电方案不依赖电网扩容即可实现较快交付"
       },
       {
-        "heading": "近期股价与情绪",
-        "body": "公开报道显示该股近期录得近五个月来最佳单日涨幅，带动因素主要是英伟达创始人黄仁勋重新出任CEO所引发的整个半导体与AI相关板块的普涨行情，Bloom Energy与美光、Marvell等公司一同被提及为受益标的。不过同一报道也指出，当前投资者情绪层面看空声音仍占多数，显示市场对公司基本面的分歧并未因股价反弹而消除"
+        "heading": "近期业绩与财务",
+        "body": "公开报道显示公司最新一期营收同比增长138%，增速显著，市场评论认为公司下一阶段的增长空间可能进一步打开，但高基数之下能否持续维持如此高的增速仍有待观察，这也是多空双方关注的核心变量"
       },
       {
-        "heading": "多空分歧焦点",
-        "body": "多头观点认为AI驱动的数据中心建设仍处于早期阶段，电力基础设施尤其是表后发电方案的渗透率有限，公司有望受益于长期结构性需求；空头观点则强调目前股价上涨更多由板块联动与资金情绪驱动，公司自身盈利能力、现金流状况及项目经济性尚未得到充分验证，叠加较高估值使其对利率和情绪变化更为敏感"
-      },
-      {
-        "heading": "宏观与行业背景",
-        "body": "近期宏观层面，美联储官员表态显示利率可能在较长时间内维持相对偏高水平，这对依赖项目融资和长期资本支出的发电设备企业而言是潜在逆风。另一方面，中期选举后数据中心选址与电网接入审批政策出现被重新讨论的迹象，有报道将其与表后供电模式的受益industrial标的联系起来，这类政策环境变化可能影响公司项目落地节奏"
+        "heading": "行业与竞争格局",
+        "body": "AI数据中心电力紧缺是当前市场的核心主题之一，Bloom Energy被视为受益标的之一，但同一赛道内的电力设备与能源基础设施公司「如nVent Electric、Advanced Energy、Eaton等」近期同样出现明显波动，说明板块整体估值与情绪高度联动，个股独立性有限，燃气轮机、电池储能等技术路线也在争夺同一增量市场"
       },
       {
         "heading": "跟踪者动向解读",
-        "body": "公开披露文件显示，国会议员佩洛西在2026年7月下旬就BE建立了两笔新的多头仓位，并于8月下旬完成披露。此类信息仅反映特定个人或机构在披露时点的交易行为，不构成对公司基本面的独立验证，但因披露主体身份特殊，历史上常被部分投资者视为值得关注的参考信号之一"
+        "body": "根据披露，国会议员佩洛西在2026年7月24日和7月28日两次新建BE的多头仓位，披露文件标注为「new」且情绪标签为看多，这类跟踪者动向常被部分投资者作为参考信号，但需注意国会议员交易披露存在滞后性，且不能替代对公司基本面的独立判断"
       },
       {
-        "heading": "需要进一步验证的问题",
-        "body": "目前依据的主要是新闻标题层面的公开信息和一份跟踪者披露记录，缺乏公司财报、现金流、订单积压及项目毛利率等具体财务数据支撑。对AI数据中心用电需求「仅完成15%」这类表述的信息来源与计算口径也需要进一步核实，不宜直接作为投资决策依据"
+        "heading": "估值与股价走势",
+        "body": "进入11月以来，受AI相关股票整体回调影响，BE当月累计下跌约22%，与此同时市场资金在同期将伯克希尔股价推至历史新高，形成AI题材股与价值股此消彼长的局面；部分分析师在股价回调后仍给出较高目标价，认为存在修复空间，但这类预测的分歧也反映出市场对公司估值合理区间尚未形成一致意见"
+      },
+      {
+        "heading": "风险与催化剂",
+        "body": "主要风险包括AI资本支出周期性放缓、燃料电池替代技术竞争加剧、以及题材股资金流向逆转带来的估值压缩；潜在催化剂则包括后续季度财报对高增长的进一步验证、新订单或合作公告，以及更广泛的AI电力基础设施建设进度"
       }
     ],
     "comparables": [
       {
-        "ticker": "PLQ",
-        "name": "Plug Power",
-        "note": "同属氢能与燃料电池赛道，可作为行业景气度与融资环境的参照"
+        "ticker": "NVT",
+        "name": "nVent Electric",
+        "note": "近期AI芯片抛售中同步下跌，反映电力设备板块的联动性"
       },
       {
-        "ticker": "MRVL",
-        "name": "Marvell Technology",
-        "note": "同一轮因黄仁勋回归引发的半导体与AI基建联动行情中被提及的受益标的"
+        "ticker": "AEIS",
+        "name": "Advanced Energy",
+        "note": "在无公司特定消息情况下单日下跌约9.6%，显示板块情绪驱动明显"
       },
       {
-        "ticker": "NVDA",
-        "name": "NVIDIA",
-        "note": "AI算力需求的核心驱动方，其资本开支与数据中心扩张节奏直接影响Bloom Energy等配套电力设备商的下游需求"
+        "ticker": "ETN",
+        "name": "Eaton",
+        "note": "同为电力基础设施相关公司，近期股价波动同样受到市场关注"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-24T05:12:22.001079Z"
+    "generatedAt": "2026-11-25T04:02:34.807016Z"
   },
   "news": [
     {
-      "id": "BE-144062278",
-      "title": "BE Stock Clocks Best Gains In Nearly 5 Months: Bloom Energy Bears Dominate Sentiment But Bulls Smell A Comeback: ‘AI Buildout Is Only 15%’",
+      "id": "BE-144092953",
+      "title": "Berkshire Hit a Record High While AI Power Stocks Sold Off. Here’s What That Says About Where Energy Money Is Going.",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-25",
+      "url": "https://finnhub.io/api/news?id=b75ce53dc881664ef46b3b15a86b6889c55ca52a1190410336894cc37548a3ae",
+      "tags": [
+        "BE"
+      ]
+    },
+    {
+      "id": "BE-144089063",
+      "title": "nVent Electric (NVT) Stock Is Down 8.4% Today: AI Chip Selloff Drags Power Peers",
       "source": "Yahoo",
       "publishedAt": "2026-11-24",
-      "url": "https://finnhub.io/api/news?id=b54099aadb0a1143601ba59c836b4a77c23d46345df2921f25935367237acb78",
+      "url": "https://finnhub.io/api/news?id=df6da8cc70f5beaa1fd90b9feb801b519fd6964997db343becd74a7162918ec3",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-144060173",
-      "title": "Bloom Energy Stock What Changed in AI Data Center Demand",
+      "id": "BE-144089072",
+      "title": "Advanced Energy (AEIS) Stock Is Down 9.6% Today Without Company News",
       "source": "Yahoo",
       "publishedAt": "2026-11-24",
-      "url": "https://finnhub.io/api/news?id=7e5715ad600a5fae06da035d2867303c1d8f2bcbdff9b3ab33e0409b4daf9920",
+      "url": "https://finnhub.io/api/news?id=3cc51db4a556747b4f958448b38df8cffc4ad3eeeb1f18c79338039a8241ae1d",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-144060166",
-      "title": "The Midterms Put Data Center Permitting Back in Play. Here Are 2 Industrial Stocks That Win if Power Moves Behind the Meter.",
+      "id": "BE-144087970",
+      "title": "Bloom Energy Revenue Jumped 138%. Its Next Growth Phase Could Be Even Bigger",
       "source": "Yahoo",
       "publishedAt": "2026-11-24",
-      "url": "https://finnhub.io/api/news?id=28e4b1ea13feb22a41bf3e474cbfd48d14f32b6f91b8dbfa532ec019b033039a",
+      "url": "https://finnhub.io/api/news?id=e7ebb8c257270598262f1bfc6c4ef6da28d9c47eb71bbd913055cfeb3ca4b2d7",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-144051418",
-      "title": "Nvidia, Dell, Micron, Anthropic, CrowdStrike, UnitedHealth, and More Stocks That Explain Today’s Market",
+      "id": "BE-144088166",
+      "title": "What Triggered The Move In Eaton Stock?",
       "source": "Yahoo",
-      "publishedAt": "2026-11-23",
-      "url": "https://finnhub.io/api/news?id=09cf19af0fe9a0487238ba27a10caf366fe163161448fa75ad70d74e6b741720",
+      "publishedAt": "2026-11-24",
+      "url": "https://finnhub.io/api/news?id=33638ff460727044e28e2e2e45a59036d47e0f9cffbff3f7a8ca47d56c284d72",
       "tags": [
         "BE"
       ]
     },
     {
-      "id": "BE-144054184",
-      "title": "S&P 500 Top Movers: Today's US Session Gainers and Losers",
-      "source": "ChartMill",
-      "publishedAt": "2026-11-23",
-      "url": "https://finnhub.io/api/news?id=d33a321c4f0d63865b5020981f259c6f0c7c6d8770044a22c5790270da2d8417",
-      "tags": [
-        "BE"
-      ]
-    },
-    {
-      "id": "BE-144054182",
-      "title": "S&P 500 Most Active Stocks Today: Heavy Turnover and Double-Digit Moves",
-      "source": "ChartMill",
-      "publishedAt": "2026-11-23",
-      "url": "https://finnhub.io/api/news?id=522bd3d5cda9dc1c68603f8761449d667a6a9be5fc5b8c7da7e282124e903310",
+      "id": "BE-144086913",
+      "title": "Bloom Energy is Down 22% Just This Month: Two Wall Street Pros Predict 109% Gains With 2 More $1 Dollar Lower",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-24",
+      "url": "https://finnhub.io/api/news?id=354f3f30568dc85684bfcab86dc671aad440d4dbb8042a6a6cadc615e5d5e4b9",
       "tags": [
         "BE"
       ]

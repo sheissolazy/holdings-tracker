@@ -3,11 +3,11 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 349.08,
-  "change5dPct": -1.0,
-  "changeYtdPct": 13.2,
-  "marketCap": "$5.07T",
-  "pe": 38.3,
+  "price": 354.07,
+  "change5dPct": 0.6,
+  "changeYtdPct": 14.8,
+  "marketCap": "$5.15T",
+  "pe": 38.9,
   "revenue": "—",
   "revenueYoYPct": 15,
   "prices": [
@@ -899,127 +899,134 @@
       "h": 352.6,
       "l": 345.44,
       "c": 349.08
+    },
+    {
+      "t": "2026-11-24",
+      "o": 348.06,
+      "h": 354.4,
+      "l": 345.88,
+      "c": 354.07
     }
   ],
   "thesis": {
     "bull": [
-      "苹果被曝正在自主研发AI智能体（Agent）产品，意图在设备端生态中对抗Anthropic、Meta Muse、谷歌Gemini及OpenAI等竞争者，显示其AI投入正在从被动追赶转向主动布局",
-      "英伟达CEO黄仁勋在近期多次公开言论中将苹果与英伟达并列视为全球市值最高公司，市场情绪整体偏向认可苹果在AI硬件与终端生态中的独特地位",
-      "国会议员佩洛西披露文件显示其在2025年12月30日对AAPL建立了一笔新增多头头寸，说明部分知情投资者在当前价位仍愿意加仓，而非单边看空"
+      "英伟达CEO黄仁勋近期多次公开对苹果在人工智能领域的前景表达乐观，带动市场对苹果与AI结合预期的关注度上升",
+      "近期ETF被动买入资金重新回流苹果，显示在芯片股剧烈波动期间部分资金转向大盘科技龙头寻求相对稳定性",
+      "苹果现金流充裕、生态系统粘性强，叠加台积电等代工企业加码美国本土产能布局，整体供应链多元化程度有望提升，具备一定抗政策风险能力"
     ],
     "bear": [
-      "同一份2026年1月23日披露文件中，佩洛西账户同时出现多笔减持与退出记录（涉及2025年12月30日及12月24日交易），叠加此前2025年10月及2025年1月的减持记录，整体呈现持续性获利了结或降低敞口的趋势，与同期新增多头头寸形成明显矛盾信号",
-      "有社媒评论指出，苹果设备端（on-device）AI推理能力尚未成熟，难以支撑复杂的智能体工作流，可能导致其AI产品在功能完整度上落后于率先推出智能体服务的同业",
-      "近期资金与市场关注度明显向英伟达及其芯片生态（如Coherent、Marvell、Bloom Energy等AI基建相关标的）倾斜，苹果在AI叙事中的边际关注度与资金热度可能被稀释"
+      "公开披露显示佩洛西及家族在2025年10月至12月期间多次减持苹果仓位，仅有一笔新建仓记录，整体操作偏谨慎，与市场乐观情绪形成反差",
+      "多篇市场评论质疑苹果当前股价是否已高于合理估值，ETF被动买盘可能是推高股价的主要因素而非基本面改善",
+      "特朗普政府多次就芯片关税表态，甚至提及未来两年可能面临高达200%的关税税率，若落地将显著抬升苹果硬件成本与供应链不确定性"
     ],
     "watch": [
-      "英伟达黄仁勋回归引发的大盘与芯片股暴涨行情，是否会持续吸引资金从苹果等传统科技龙头轮动至英伟达产业链相关标的",
-      "美联储官员威廉姆斯暗示未来利率可能维持在较高水平以应对通胀，需关注利率路径变化对苹果这类高估值成长股估值倍数的潜在压制",
-      "苹果与博通（Broadcom）在AI相关营收趋势上的对比报道受到关注，后续需观察双方业务结构差异是否影响投资者对苹果AI敞口的重新定价"
+      "英伟达与苹果在全球市值排名中的交替领先，反映资金在AI基础设施与消费电子龙头之间的轮动，需关注这种轮动是否具有持续性",
+      "特朗普政府关税政策及台积电德州226亿美元新厂等供应链布局的后续进展，将直接影响苹果产品成本结构",
+      "近期AI及芯片板块出现剧烈波动（包括大幅下跌后的反弹），需关注苹果是否会受到板块联动性抛售或情绪传导的影响"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果（AAPL）是全球市值最高的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品及服务生态。近期公司被曝正加速自研AI智能体产品，试图在快速演进的生成式AI竞争格局中建立自身定位，这一战略转向成为市场评估其中长期增长前景的重要变量"
+        "body": "苹果是全球市值最高的科技公司之一，核心业务涵盖iPhone、Mac、iPad、可穿戴设备以及App Store、iCloud、Apple Music等服务业务。公司长期依靠生态系统粘性和高毛利服务业务维持稳定的盈利能力，近年来也在逐步跟进行业的人工智能功能整合趋势。截至2026年11月，苹果与英伟达在全球市值排名中交替领先，反映市场资金在消费电子巨头与AI基础设施龙头之间的轮动。"
       },
       {
-        "heading": "AI战略与竞争格局",
-        "body": "市场评论显示苹果正在开发AI智能体服务，对标Anthropic、Meta Muse、谷歌Gemini及OpenAI等竞争对手。看多者认为这是苹果补齐AI短板、巩固生态壁垒的关键举措；但也有观点指出，苹果在设备端推理能力尚不足以支撑复杂AI工作流，且公司历来在AI领域的动作被认为相对保守，执行节奏与效果仍待验证"
+        "heading": "近期动态与市场环境",
+        "body": "近期科技股及AI相关板块出现剧烈波动，芯片股经历急跌后出现反弹尝试，但市场对AI投资回报的可持续性仍存在明显分歧。多篇报道提到英伟达CEO黄仁勋对苹果在AI领域的潜力表达看好，引发部分资金短期买入苹果股票，但这种情绪驱动的上涨能否持续仍有疑问。同时也有评论指出苹果当前估值可能已高于合理水平，ETF被动买入是推动股价的重要力量之一。"
       },
       {
-        "heading": "行业对比与资金轮动",
-        "body": "近期英伟达黄仁勋回归CEO职位引发半导体与AI基建板块（英伟达、Marvell、Bloom Energy、Coherent等）大幅上涨，纳斯达克亦录得强劲涨幅。与此同时，苹果与博通在AI相关营收趋势上的对比报道受到关注，反映市场正重新审视不同科技龙头在AI产业链中的相对敞口与估值逻辑"
+        "heading": "政策与关税风险",
+        "body": "特朗普政府多次就芯片关税表态，甚至提及未来两年可能面临高达200%的关税税率，促使台积电等代工企业加码美国本土产能布局，例如投资约226亿美元在德州新建工厂。若相关关税政策落地，高度依赖亚洲供应链进行芯片与整机组装的苹果可能面临成本上升和供应链重构压力，这是中长期需要持续跟踪的宏观政策风险。"
       },
       {
         "heading": "跟踪者动向解读",
-        "body": "公开披露的国会交易记录显示，账户对AAPL的操作存在内部矛盾：2026年1月23日披露文件中既包含一笔2025年12月30日的新增多头，也包含同日及2025年12月24日的减持退出记录；叠加2025年10月及2025年1月的历史减持记录，整体呈现持续性降低敞口的倾向，新增多头更像是局部调仓而非方向性转多。此外，社媒与行业人士（如英伟达CEO）的相关言论更多属于行业评论性质，而非针对苹果基本面的直接判断，解读时需保持谨慎"
+        "body": "公开披露显示，佩洛西及家族在2025年10月至12月期间对苹果持仓进行了多次减持，仅在2025年12月30日出现一笔新建仓记录，整体呈现谨慎、分散操作的态势，而非单边看多或看空。与此同时，英伟达CEO黄仁勋多次公开发表对苹果AI前景的乐观评论，被部分媒体解读为「乔布斯式回归」叙事的延伸，但这类言论更多属于行业观察性质，并非苹果公司官方业绩指引，对股价的实际影响力需谨慎评估。"
       },
       {
-        "heading": "宏观与行业风险",
-        "body": "美联储官员威廉姆斯近期表态指出，为应对通胀，利率可能需要在较长时间内维持偏高水平，这对包括苹果在内的高估值成长型科技股构成潜在估值压力。同时，中东地缘局势（如霍尔木兹海峡相关威胁、对伊朗网络攻击的调查）及原油供给过剩等宏观因素，也可能通过整体风险偏好渠道间接影响科技股表现"
+        "heading": "估值与资金流向",
+        "body": "有分析文章提出疑问，苹果当前股价是否已经高于合理估值，同时指出近期ETF被动买入资金重新回流苹果，可能是支撑股价的重要力量。这与部分知情投资者持续减持的行为形成一定反差，显示市场对苹果估值水平存在明显分歧：一方认为苹果作为现金流稳定、生态壁垒深厚的龙头值得溢价，另一方则认为当前价格已充分甚至过度反映了未来增长预期。"
       },
       {
-        "heading": "多空关键分歧总结",
-        "body": "围绕苹果的多空分歧主要集中在AI战略执行力与资金关注度两方面：看多逻辑强调苹果具备生态壁垒和品牌认可度，且正加速补齐AI短板；看空逻辑则担忧其AI技术路径（尤其是设备端推理）相对滞后，且近期资金与叙事热点明显偏向英伟达产业链。跟踪者动向本身也呈现矛盾信号，减持记录多于新增持仓，投资者需结合自身研究独立判断，而非简单依赖单一信号"
+        "heading": "风险与分歧总结",
+        "body": "综合来看，苹果面临的主要分歧集中在三方面：其一，AI叙事能否真正转化为苹果产品端的增量收入，还是更多停留在市场情绪层面；其二，关税与供应链政策的不确定性可能侵蚀利润率；其三，当前估值是否已充分甚至过度定价了乐观预期。建议持续关注关税政策落地情况、苹果AI功能的实际商业化进展，以及机构与知情投资者仓位变化，以判断市场分歧将如何收敛。"
       }
     ],
     "comparables": [
       {
         "ticker": "NVDA",
-        "name": "英伟达",
-        "note": "近期因CEO黄仁勋回归引发市值大幅波动，与苹果同列全球市值最高公司之列，是当前AI基础设施叙事的核心受益标的"
-      },
-      {
-        "ticker": "AVGO",
-        "name": "博通",
-        "note": "与苹果在AI相关营收趋势上被直接对比，是衡量苹果AI敞口相对强弱的重要参照标的"
+        "name": "Nvidia Corporation",
+        "note": "AI算力硬件龙头，与苹果在全球市值排名中交替领先，受CEO黄仁勋言论直接影响市场情绪"
       },
       {
         "ticker": "MRVL",
-        "name": "迈威尔科技",
-        "note": "受英伟达相关行情带动大幅上涨，反映资金对AI基建链条的持续追捧，可作为观察资金轮动方向的参照"
+        "name": "Marvell Technology",
+        "note": "数据中心网络与AI芯片相关标的，近期随AI板块剧烈波动同步下跌，可作为芯片供应链景气度参照"
+      },
+      {
+        "ticker": "DELL",
+        "name": "Dell Technologies",
+        "note": "PC与硬件制造商，近期季度业绩超预期，可与苹果消费电子及硬件业务进行横向对比"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-24T05:13:08.736104Z"
+    "generatedAt": "2026-11-25T04:03:29.022323Z"
   },
   "news": [
     {
-      "id": "AAPL-144060764",
-      "title": "QQQ Paid a $300,000 Holder $1,524 in Dividends Over the Past Year While VYM Paid $7,164",
+      "id": "AAPL-144090181",
+      "title": "Tech Keeps Eating Hollywood As Netflix Buys Historic Seinfeld Lot",
       "source": "Yahoo",
       "publishedAt": "2026-11-24",
-      "url": "https://finnhub.io/api/news?id=06073609b74a93fba68cd6513d2f01f808e1e1e95d14d363a46c9f8679e7740d",
+      "url": "https://finnhub.io/api/news?id=de438a217028924294bc00f83cc3281d0f195397d84fcf4f4c0d5dbbe2344bf7",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-144056176",
-      "title": "Own HP Stock? Memory Costs Are The Risk",
+      "id": "AAPL-144088987",
+      "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
       "source": "Yahoo",
-      "publishedAt": "2026-11-23",
-      "url": "https://finnhub.io/api/news?id=bd9efb70c9d96d80d11a84abbd0a2b555d2288a0f65a3f3a6555630efcff5681",
+      "publishedAt": "2026-11-24",
+      "url": "https://finnhub.io/api/news?id=c2952b3908350c0e71623c919f1512f71d67fadd670a221e0f07bf40330f0563",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-144054462",
-      "title": "Chamath Says Microsoft “Clearly Is Going to Need to Have a Frontier Model.” Nadella Is Betting It Won’t",
+      "id": "AAPL-144088988",
+      "title": "Is Apple (AAPL) Above Fair Value As ETF Buying Returns?",
       "source": "Yahoo",
-      "publishedAt": "2026-11-23",
-      "url": "https://finnhub.io/api/news?id=39f3d390f731ef3ef1fea99637909813c359f0b067ba589c5861452146a15e4b",
+      "publishedAt": "2026-11-24",
+      "url": "https://finnhub.io/api/news?id=cd3cee1b8e359c3b17e508db134c9d09ee533d2ddf31ddd2857a94f6d203df79",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-144054463",
-      "title": "How Risky Is Snap Stock Now?",
+      "id": "AAPL-144089370",
+      "title": "Top Analyst Reports for Apple, Philip Morris & Intel",
       "source": "Yahoo",
-      "publishedAt": "2026-11-23",
-      "url": "https://finnhub.io/api/news?id=73b4fd62921d0762aa937ed10ad61270d3ef34eaed8a8ce4bb4267f7eef52bd0",
+      "publishedAt": "2026-11-24",
+      "url": "https://finnhub.io/api/news?id=764d55c69ca785aa343eecf68a083d0fcdf5759f7ccf85661f27cc140c313399",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-144053545",
-      "title": "Apple vs. Broadcom: Comparing Revenue Trends Amid the Artificial Intelligence Boom",
+      "id": "AAPL-144088989",
+      "title": "Trump Warns of “Paying 200 Percent on Chips” in Two Years. That Pushes TSMC Toward a $22.6 Billion Texas Plant",
       "source": "Yahoo",
-      "publishedAt": "2026-11-23",
-      "url": "https://finnhub.io/api/news?id=79634169220a98f79344de85b7fbc26f860646f0ddd42c1ff9a5957d506213b6",
+      "publishedAt": "2026-11-24",
+      "url": "https://finnhub.io/api/news?id=71854de2d805bbf0febeb62e0e9e1b935c7249c3fd4840afc9852c05d6d170df",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-144052567",
-      "title": "CrowdStrike Shares Fall 10% After a $44 Billion Zscaler Deal Despite an Earnings Beat and Raised Guidance",
+      "id": "AAPL-144087939",
+      "title": "Why the Jensen Huang rally faded so quickly",
       "source": "Yahoo",
-      "publishedAt": "2026-11-23",
-      "url": "https://finnhub.io/api/news?id=e9487030f80754a4c72ee170d230a291ac265dbb244fcf197c292e1233c9e8c9",
+      "publishedAt": "2026-11-24",
+      "url": "https://finnhub.io/api/news?id=c74d9d12a82b5c61e0ea9883c05952e9d3b6850e9e520b6ad4e12d1b2b168485",
       "tags": [
         "AAPL"
       ]

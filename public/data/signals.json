@@ -418,13 +418,66 @@
     ]
   },
   {
-    "personId": "musk",
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-24",
+    "sentiment": "watch",
+    "excerpt": "Wow, memory names like $SNDK just keep on dropping.\n\nAt a $89B MC they have: \n\n> $89B minimum in LTAs with contractual price floors supporting at least 80% gross margins\n\n\"The floor pricing for those contracts, we said in aggregate, will de",
+    "postUrl": "https://x.com/aleabitoreddit/status/2125311224242164185",
+    "ticker": "SNDK",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-24",
+    "sentiment": "watch",
+    "excerpt": "Always a fun time for markets: \"Trump administration set to unveil new tariffs\" \n\n- Japan, South Korea, and the EU could face incremental increases of 2.5-5% percentage points, with potentially steeper increases for Vietnam to India\n\n- \"The",
+    "postUrl": "https://x.com/aleabitoreddit/status/2125289945367707945",
+    "ticker": "",
+    "topics": [
+      "关税/贸易",
+      "中美/制裁"
+    ]
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-24",
+    "sentiment": "watch",
+    "excerpt": "I wonder if we'll see an AI quantum discovery theme emerge in the future, following biotech discovery. \n\n$GOOGL Deepmind: \"Finding faster quantum algorithms with agents\":\n\n1. The timeline by which quantum computers can solve breakthrough pr",
+    "postUrl": "https://x.com/aleabitoreddit/status/2125276382909566982",
+    "ticker": "ANT",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-24",
+    "sentiment": "watch",
+    "excerpt": "I wonder if we'll see an AI quantum discovery theme emerge in the future, following biotech discovery. \n\n$GOOGL Deepmind: \"Finding faster quantum algorithms with agents\":\n\n1. The timeline by which quantum computers can solve breakthrough pr",
+    "postUrl": "https://x.com/aleabitoreddit/status/2125276382909566982",
+    "ticker": "GOOGL",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-24",
+    "sentiment": "watch",
+    "excerpt": "$AAOI signs $2.2B LTA with hyperscaler customer. \n\n- $1.5 billion of 800G transceivers in 2027\n- $0.7 billion in lasers between 2028 and 2029\n\n\"Customer forecast indicates demand that could exceed $10 billion over the four-year term\". https",
+    "postUrl": "https://x.com/aleabitoreddit/status/2125215193139663292",
+    "ticker": "AAOI",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
     "type": "social",
     "asOf": "2026-11-23",
     "sentiment": "watch",
-    "excerpt": "Everyone I know at Nvidia wanted Jensen back and it shows",
-    "postUrl": "https://x.com/elonmusk/status/2124942828274925651",
-    "ticker": "NVDA",
+    "excerpt": "Who said Neoclouds don't have a technical moat? High confidence this statement is about $NBIS. \n\nDatabricks co-founder: \n\n\"We are VERY CAREFUL about where compute runs and so far we've only found a *single* neocloud we think has robust enou",
+    "postUrl": "https://x.com/aleabitoreddit/status/2125115492935549060",
+    "ticker": "NBIS",
     "topics": []
   },
   {
@@ -644,116 +697,6 @@
     "excerpt": "Markets appear to be wrongly interpreting Chinese eSSD cuts as deteriorating demand and NAND oversupply.\n\nPhison CEO commentary today + more context behind $SNDK / Kioxia selloff regarding Trendforce revisions: \n\n- \"Pua attributed China's r",
     "postUrl": "https://x.com/aleabitoreddit/status/2123633356969775107",
     "ticker": "SNDK",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-19",
-    "sentiment": "watch",
-    "excerpt": "I'm actually very impressed with market-chan. If we look at ESMT numbers today: \n\n> $1.58B MC\n> $747M net cash, $274.7M net inventory from Q3\n> $349.5M in Q3 free cash flow\nAdjusted EV: $559.3M\n\n> Q3 net income: $327M (1.2x annualized P/E)\n",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123598186065559858",
-    "ticker": "",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-19",
-    "sentiment": "watch",
-    "excerpt": "True, I've looked at biotech, physical AI, cybersecurity, space, and others... But I still have conviction that optics is the most compelling opportunity. \n\nIf you look at Elon Musk $SPCX (Mesh acquisition), $MRVL (Lumentum acqusition), Sam",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123588783753048553",
-    "ticker": "MRVL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-19",
-    "sentiment": "watch",
-    "excerpt": "True, I've looked at biotech, physical AI, cybersecurity, space, and others... But I still have conviction that optics is the most compelling opportunity. \n\nIf you look at Elon Musk $SPCX (Mesh acquisition), $MRVL (Lumentum acqusition), Sam",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123588783753048553",
-    "ticker": "COHR",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-19",
-    "sentiment": "watch",
-    "excerpt": "True, I've looked at biotech, physical AI, cybersecurity, space, and others... But I still have conviction that optics is the most compelling opportunity. \n\nIf you look at Elon Musk $SPCX (Mesh acquisition), $MRVL (Lumentum acqusition), Sam",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123588783753048553",
-    "ticker": "LITE",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-19",
-    "sentiment": "watch",
-    "excerpt": "True, I've looked at biotech, physical AI, cybersecurity, space, and others... But I still have conviction that optics is the most compelling opportunity. \n\nIf you look at Elon Musk $SPCX (Mesh acquisition), $MRVL (Lumentum acqusition), Sam",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123588783753048553",
-    "ticker": "SOI",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-19",
-    "sentiment": "watch",
-    "excerpt": "I'm hearing multiple things from industry executives:\n\n1. Potential $NVDA employee exodus if Jensen doesn't come back soon.\n\nMany senior management and engineers can easily retire after Nvidia stock appreciation over the years.\n\nThey don't ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123565807653552458",
-    "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-19",
-    "sentiment": "watch",
-    "excerpt": "I'm hearing multiple things from industry executives:\n\n1. Potential $NVDA employee exodus if Jensen doesn't come back soon.\n\nMany senior management and engineers can easily retire after Nvidia stock appreciation over the years.\n\nThey don't ",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123565807653552458",
-    "ticker": "ARM",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-19",
-    "sentiment": "watch",
-    "excerpt": "$AAPL is now developing its own AI agent offerings to compete vs. $ANT, Meta Muse, Google Gemini, and OpenAI. \n\nGiven on-device inference isn't quite ready yet for complex workflows...\n\n+ Apple isn't really known for doing much in the AI ra",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123543880780132572",
-    "ticker": "AAPL",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-19",
-    "sentiment": "watch",
-    "excerpt": "$AAPL is now developing its own AI agent offerings to compete vs. $ANT, Meta Muse, Google Gemini, and OpenAI. \n\nGiven on-device inference isn't quite ready yet for complex workflows...\n\n+ Apple isn't really known for doing much in the AI ra",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123543880780132572",
-    "ticker": "ANT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-19",
-    "sentiment": "watch",
-    "excerpt": "Wow $ANT at a $1.74T valuation…\n\nis now worth hundreds of billions more than $META.\n\nDid anyone end up investing? https://t.co/qwMEVzFOli",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123488317425820130",
-    "ticker": "ANT",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-19",
-    "sentiment": "watch",
-    "excerpt": "Wow $ANT at a $1.74T valuation…\n\nis now worth hundreds of billions more than $META.\n\nDid anyone end up investing? https://t.co/qwMEVzFOli",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123488317425820130",
-    "ticker": "META",
     "topics": []
   },
   {
