@@ -3,11 +3,11 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 155.38,
-  "change5dPct": -0.1,
-  "changeYtdPct": -27.7,
-  "marketCap": "$3.74T",
-  "pe": 17.6,
+  "price": 149.3,
+  "change5dPct": -1.1,
+  "changeYtdPct": -30.5,
+  "marketCap": "$3.60T",
+  "pe": 16.6,
   "revenue": "—",
   "revenueYoYPct": 93,
   "prices": [
@@ -906,132 +906,152 @@
       "h": 159.92,
       "l": 150.5,
       "c": 155.38
+    },
+    {
+      "t": "2026-11-25",
+      "o": 144.06,
+      "h": 150.37,
+      "l": 141.17,
+      "c": 149.3
     }
   ],
   "thesis": {
     "bull": [
-      "詹森·黄重返CEO后，市场情绪迅速回暖，芯片股出现自2000年以来最强单日表现之一，显示投资者对英伟达领导层稳定性的担忧明显缓解",
-      "多位社交媒体分析人士认为，詹森·黄回归可能带动AI资本支出预测上修，上游供应链（服务器、电力、存储）有望同步受益",
-      "知名空头迈克尔·伯里在股价反弹约31%前大幅平仓其英伟达空头期权仓位，暗示部分激进看空力量正在撤退，短期抛压有所缓解"
+      {
+        "point": "创始人兼CEO黄仁勋在争议后被董事会迅速重新任命，获得特朗普总统公开背书，显示公司治理层面对核心领导力的信心有所恢复，市场情绪随之出现「AI交易回归」式反弹"
+      },
+      {
+        "point": "下游云计算与AI基础设施资本支出预期在黄仁勋复任后被部分分析人士上修，存储芯片厂商（HPE、戴尔高管）表示NAND与DRAM供应将持续紧张至少到2028年，暗示上游算力需求并未见顶"
+      },
+      {
+        "point": "作为AI算力核心供应商，NVDA在本轮大盘剧烈波动（纳斯达克一度逼近熊市区间）中仍展现较强反弹能力，股价在消息面改善后出现单日大幅跳升，显示机构资金对其长期叙事的认可"
+      }
     ],
     "bear": [
-      "美国证券交易委员会被曝正在调查英伟达潜在会计问题，消息公布当日股价重挫逾12%，公司治理与信息披露风险尚未完全消除",
-      "市场持续质疑AI资本支出中的「循环融资」模式，即芯片商、云厂商与被投企业之间互相注资采购，一旦需求或融资链条收紧，相关收入确定性存疑",
-      "国会议员佩洛西的交易记录显示其在2025年底曾减持英伟达相关仓位，随后又新建仓位，反映部分「知情交易者」对短期走势本身也存在分歧，并非单边看多"
+      {
+        "point": "标普警告可能下调Nvidia信用评级，理由是公司治理与管理层风险「上升」，叠加SEC对其会计处理展开调查，公司治理与财务透明度正受到前所未有的监管与评级机构审视"
+      },
+      {
+        "point": "财政部长贝森特对AI市场「泡沫与循环融资」的质疑尚未消散，市场对AI资本支出可持续性、厂商间交叉持股与采购协议的循环性融资模式存在结构性担忧"
+      },
+      {
+        "point": "黄仁勋复任事件本身伴随前CIA官员对调查程序「仓促、草率」的批评，以及万斯被迫公开澄清黄仁勋未受司法部调查，政治与监管层面的不确定性仍未完全出清，叠加股价此前因SEC调查消息单日重挫逾12%，波动性风险突出"
+      }
     ],
     "watch": [
-      "詹森·黄辞任及董事会重新任命CEO的完整细节与原因仍需进一步披露，后续公司治理声明和临时管理层决策将是关键观察点",
-      "SEC会计问题调查的后续进展，包括是否发现实质性问题、是否涉及收入确认或关联交易，将决定市场对财报可信度的重新评估",
-      "即将公布的行业同业财报（如戴尔、美光、Marvell等）可持续验证数据中心与AI芯片终端需求是否真实支撑当前资本支出规模"
+      {
+        "point": "SEC对Nvidia会计问题的正式调查进展及标普评级行动的最终结论，将是检验公司治理修复成效的关键节点"
+      },
+      {
+        "point": "黄仁勋复任后管理层稳定性与战略连续性，包括其对AI资本支出与供应链（尤其存储与先进封装）布局的最新表态"
+      },
+      {
+        "point": "国会及政治人物（如佩洛西）对NVDA持仓的后续披露动向，以及更广泛AI板块（博通、迈威尔、Credo等）估值与资金流向的联动变化，可作为板块情绪的侧面指标"
+      }
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "英伟达是全球数据中心AI加速芯片的主导供应商，产品覆盖GPU、网络互联、AI软件生态（如CUDA）等，是过去两年AI资本支出浪潮的核心受益者之一，市值一度突破5万亿美元。公司近期经历了罕见的高层动荡：联合创始人兼CEO詹森·黄曾一度离开管理层，随后董事会迅速决定将其重新任命为CEO，这一过程在短时间内引发股价剧烈波动，也成为近期市场关注的焦点事件。"
+        "body": "NVIDIA是全球领先的GPU与AI加速计算芯片设计公司，产品广泛应用于数据中心训练与推理、游戏显卡及自动驾驶等领域。近期公司因CEO黄仁勋的去留问题引发市场剧烈波动：董事会一度决定更换CEO，随后在外部压力（包括总统公开呼吁）下迅速逆转决定，重新任命黄仁勋为CEO，事件本身凸显公司治理结构仍处于磨合与修复阶段"
       },
       {
-        "heading": "近期动态与催化事件",
-        "body": "市场消息显示，有报道称SEC正在调查英伟达潜在的会计问题，相关消息公布后股价单日下跌超过12%，波及整体科技与指数表现。随后董事会做出决定，将詹森·黄重新任命为CEO，美国总统特朗普公开表示支持并祝贺，社交媒体上普遍将此视为对AI板块信心的「清算事件」，推动芯片股出现近20多年来最强劲的单日反弹之一。"
+        "heading": "近期动态",
+        "body": "过去一周内，NVDA经历了罕见的治理冲击：先是传出SEC就会计问题展开调查，股价单日重挫逾12%，随后董事会宣布更换CEO引发进一步抛售，但在特朗普总统公开呼吁「重新任命黄仁勋」、万斯澄清黄仁勋未涉司法部调查后，董事会迅速决定让黄仁勋复任，市场情绪明显回暖，部分分析师将AI资本支出预期重新上修。整体而言，股价在剧烈波动中呈现「利空出尽、利好驱动反弹」的特征，但波动幅度和频率均显著高于历史常态"
       },
       {
-        "heading": "基本面与财务",
-        "body": "从同业财报来看，戴尔等公司第三财季业绩超出市场预期，显示数据中心及服务器端需求仍具韧性；Marvell、美光等相关芯片股近期波动剧烈，反映投资者对AI硬件链条盈利可持续性的敏感度上升。目前尚无独立确认的英伟达最新财报数据作为补充，公司基本面叙事仍主要建立在此前的数据中心收入增长趋势与市场对未来资本支出的预期之上，SEC调查结果将是检验财务披露质量的重要节点。"
+        "heading": "多空分歧",
+        "body": "多头观点认为，黄仁勋的快速复任证明公司治理问题已得到纠偏，核心领导力与AI长期叙事未受根本动摇，叠加存储芯片供应持续紧张暗示下游AI硬件需求依然旺盛；空头观点则聚焦于标普评级警告、SEC会计调查尚未有最终结论、以及财政部长对AI行业「循环融资」模式的质疑，认为短期治理风波只是更深层次估值与财务透明度问题的表象，市场对AI资本支出可持续性的担忧并未消除"
       },
       {
-        "heading": "跟踪者与情绪动向",
-        "body": "国会议员佩洛西的最新PTR披露显示其在英伟达上存在新建仓与减持交替的操作，2025年12月末曾减持，随后在2026年1月又新建多笔仓位，反映即便是「知情交易者」对短期走势也存在分歧而非单边看多。社交平台上多位评论者（如aleabitoreddit）密集讨论詹森·黄回归对AI资本支出预测、上游供应链信心及大盘情绪的影响，情绪整体偏向关注而非一致看多或看空，财政部长贝森特亦就AI市场波动与「循环融资」问题发表了较为谨慎的评论。"
+        "heading": "估值与同业比较",
+        "body": "NVDA作为AI算力龙头长期享有明显的估值溢价，但近期板块内博通、迈威尔、Credo等同业股价同样出现大幅波动，显示整个AI硬件供应链正经历系统性重新定价，而非NVDA个股孤立事件。投资者需关注的是，此轮波动是否反映AI资本支出周期见顶的早期信号，还是仅为治理风波引发的短期错杀，这将直接影响同业估值比较的参照意义"
       },
       {
-        "heading": "风险因素",
-        "body": "主要风险包括：一、SEC对会计问题的调查结果尚未明朗，若涉及实质性违规可能引发监管处罚、诉讼或市场信任危机；二、市场对AI资本支出中「循环融资」结构的担忧持续存在，若下游客户资本开支或再融资能力收紧，可能影响英伟达收入确定性；三、公司治理层面的CEO更替事件本身反映董事会与管理层关系存在不确定性，短期内管理层稳定性仍需进一步观察；四、整体AI板块估值已处于历史高位，任何需求或情绪层面的负面消息都可能引发剧烈回调，正如近期多次出现的单日两位数跌幅所示。"
+        "heading": "主要风险",
+        "body": "核心风险集中在三方面：一是SEC会计调查及标普评级下调可能带来的信用成本上升与市场信心冲击；二是公司治理层面CEO去留的反复，暴露董事会与管理层之间潜在的沟通与信任问题；三是宏观层面AI资本支出可持续性、循环融资模式及大盘波动（纳斯达克一度逼近熊市区间）对整个AI板块估值的系统性压制"
       },
       {
-        "heading": "多空分歧总结",
-        "body": "看多方认为，詹森·黄回归强化了市场对英伟达长期技术领导地位与AI需求持续性的信心，叠加知名空头陆续平仓空头仓位，短期抛压已大幅释放，芯片板块情绪有望企稳；看空方则强调，SEC会计调查、循环融资质疑以及公司治理层面暴露出的不确定性，均是尚未解决的结构性风险，当前股价反弹更多反映情绪修复而非基本面本身发生实质改善，两类观点在近期新闻与社交媒体讨论中呈现明显分歧，投资者需持续关注监管调查进展与后续财报数据以验证何种叙事更接近事实。"
+        "heading": "跟踪者信号解读",
+        "body": "佩洛西过去两个年度（2025年1月与2026年1月）披露的NVDA相关交易呈现「新建仓与部分退出交替」的模式，并非单向看多或看空，更多反映常规的仓位调整而非对公司前景的明确判断。社交媒体与政治人物（特朗普、贝森特、万斯）围绕CEO去留事件的密集表态，更多属于短期事件驱动的「关注」类信号，而非基于基本面的长期观点，需谨慎区分事件性噪音与真实基本面变化"
       }
     ],
     "comparables": [
       {
-        "ticker": "AMD",
-        "name": "Advanced Micro Devices",
-        "note": "数据中心GPU与CPU领域的主要竞争对手，被视为英伟达market share的潜在分食者，常在AI芯片叙事中被联动比较"
-      },
-      {
         "ticker": "AVGO",
         "name": "Broadcom",
-        "note": "在定制AI加速芯片（ASIC）与网络互联领域与英伟达形成差异化竞争，是云厂商自研芯片趋势下的关键受益者之一"
+        "note": "同为AI基础设施核心供应商，近期股价跌至2025年7月以来低点，部分分析师认为具备低位配置价值，可作为AI硬件板块情绪的参照"
       },
       {
         "ticker": "MRVL",
         "name": "Marvell Technology",
-        "note": "数据中心互联与定制芯片供应商，近期股价波动剧烈，常被用作验证AI硬件需求广度的同业参考"
+        "note": "数据中心业务占比高，近期因数据中心敞口担忧股价大幅下跌，反映市场对AI数据中心资本支出可持续性的担忧具有板块普遍性"
       },
       {
-        "ticker": "TSM",
-        "name": "台湾积体电路制造公司",
-        "note": "英伟达先进制程芯片的核心代工伙伴，其产能与资本支出计划（如美国德州新厂）直接反映下游AI芯片需求强度"
+        "ticker": "CRDO",
+        "name": "Credo Technology",
+        "note": "过去一个月股价大幅波动（一度重挫27%），部分卖方仍给出高预期回报目标，显示市场对AI硬件细分龙头的分歧同样显著"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-25T04:00:52.195591Z"
+    "generatedAt": "2026-11-26T03:25:30.994219Z"
   },
   "news": [
     {
-      "id": "NVDA-144095369",
-      "title": "Dow Jones Futures Fall After AI Stocks Tumble; Trump Says 'Not Too Late' For Nvidia Stake",
+      "id": "NVDA-144133209",
+      "title": "Broadcom Stock Hasn't Traded This Low Since July 2025. I Think It's a Buy.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-25",
-      "url": "https://finnhub.io/api/news?id=7c631a0af4fb5c60045497a9b53256b831697c66e5db07fc429ed119b5bed9cf",
+      "publishedAt": "2026-11-26",
+      "url": "https://finnhub.io/api/news?id=6cadcf9d3c05ee8fb7a66fd6666a88fbea8f25e033ef5f7b932745f9cb58ecdb",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-144096691",
-      "title": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
+      "id": "NVDA-144135073",
+      "title": "'Alarming, if unsurprising': Trump administration cut corners with hasty Nvidia investigation, former CIA officer warns",
       "source": "Yahoo",
-      "publishedAt": "2026-11-25",
-      "url": "https://finnhub.io/api/news?id=a25c0b17d4b4ac5bb45371a7b191bebaaa2253d9fa3da256347e60d46b27e519",
+      "publishedAt": "2026-11-26",
+      "url": "https://finnhub.io/api/news?id=6f393e1fab1b62c1644942b6aa5fccf3176a6f8d0b74f8d155f48dc81e146e9a",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-144096692",
-      "title": "Why Nvidia's rebound may not mean the S&P 500 has bottomed",
+      "id": "NVDA-144134187",
+      "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
       "source": "Yahoo",
-      "publishedAt": "2026-11-25",
-      "url": "https://finnhub.io/api/news?id=fc89dbbad873c20e4a6d278e42940c4713e12b973c1e5aaa97dd11605f208b86",
+      "publishedAt": "2026-11-26",
+      "url": "https://finnhub.io/api/news?id=8b493a0aabf1e7a97892b2891e9cfeccb44d087bf39cb88af27632f46e461646",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-144096702",
-      "title": "Anthropic Has Plunged 30% From Its Peak. Here’s the Price at Which I’d Buy.",
+      "id": "NVDA-144131449",
+      "title": "Dow Jones Futures Rise; Market Goes On Wild Ride As Nasdaq Slashes Losses",
       "source": "Yahoo",
-      "publishedAt": "2026-11-25",
-      "url": "https://finnhub.io/api/news?id=030d049ed29e22a7bb19ac5add997904c34e4174e80b2f8c3beaae0280dd2360",
+      "publishedAt": "2026-11-26",
+      "url": "https://finnhub.io/api/news?id=44a96bba1bfc393fcabed4ca3666db1b64e5fa8d9c85f7a1ac35285748b71fbf",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-144096693",
-      "title": "Trump Says Inflation Could Help Pay Down the National Debt. Here's What That Means for Your Retirement Savings",
+      "id": "NVDA-144131450",
+      "title": "Vertex Pharmaceuticals Has Turned $10,000 Into $61,660 Over 10 Years. Here's What Could Come Next",
       "source": "Yahoo",
-      "publishedAt": "2026-11-25",
-      "url": "https://finnhub.io/api/news?id=a8a7e79fbea931157a6cc7e36fadfb7926f6ba2bbcdd664e7cc969043cba0f42",
+      "publishedAt": "2026-11-26",
+      "url": "https://finnhub.io/api/news?id=a48962df6df8632af96aac9c5be9da2c2de84ea5f72262d51d7f590333a0eb10",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-144096705",
-      "title": "These Billionaire Investors Made Big Bets Against Tech Stocks. Should You Worry?",
+      "id": "NVDA-144132145",
+      "title": "Why CleanSpark Stock Was a Winner on Wednesday",
       "source": "Yahoo",
-      "publishedAt": "2026-11-25",
-      "url": "https://finnhub.io/api/news?id=deaa3a138dd26962b5a427623a3b1748541aab7856f615d84b02617044e210c4",
+      "publishedAt": "2026-11-26",
+      "url": "https://finnhub.io/api/news?id=13d5e6e9dc09274cb0f569acfa21ad53a34a18f3bd69baa765b4f8226886fafb",
       "tags": [
         "NVDA"
       ]

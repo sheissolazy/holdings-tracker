@@ -1,423 +1,401 @@
 [
   {
-    "id": "NVDA-144095369",
-    "title": "Dow Jones Futures Fall After AI Stocks Tumble; Trump Says 'Not Too Late' For Nvidia Stake",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-25",
-    "url": "https://finnhub.io/api/news?id=7c631a0af4fb5c60045497a9b53256b831697c66e5db07fc429ed119b5bed9cf",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "NVDA-144096691",
-    "title": "Wall St futures fall after S&P 500, Nasdaq end lower; inflation data eyed",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-25",
-    "url": "https://finnhub.io/api/news?id=a25c0b17d4b4ac5bb45371a7b191bebaaa2253d9fa3da256347e60d46b27e519",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "NVDA-144096692",
-    "title": "Why Nvidia's rebound may not mean the S&P 500 has bottomed",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-25",
-    "url": "https://finnhub.io/api/news?id=fc89dbbad873c20e4a6d278e42940c4713e12b973c1e5aaa97dd11605f208b86",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "NVDA-144096702",
-    "title": "Anthropic Has Plunged 30% From Its Peak. Here’s the Price at Which I’d Buy.",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-25",
-    "url": "https://finnhub.io/api/news?id=030d049ed29e22a7bb19ac5add997904c34e4174e80b2f8c3beaae0280dd2360",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "NVDA-144096693",
-    "title": "Trump Says Inflation Could Help Pay Down the National Debt. Here's What That Means for Your Retirement Savings",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-25",
-    "url": "https://finnhub.io/api/news?id=a8a7e79fbea931157a6cc7e36fadfb7926f6ba2bbcdd664e7cc969043cba0f42",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "NVDA-144096705",
-    "title": "These Billionaire Investors Made Big Bets Against Tech Stocks. Should You Worry?",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-25",
-    "url": "https://finnhub.io/api/news?id=deaa3a138dd26962b5a427623a3b1748541aab7856f615d84b02617044e210c4",
-    "tags": [
-      "NVDA"
-    ]
-  },
-  {
-    "id": "BE-144092953",
-    "title": "Berkshire Hit a Record High While AI Power Stocks Sold Off. Here’s What That Says About Where Energy Money Is Going.",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-25",
-    "url": "https://finnhub.io/api/news?id=b75ce53dc881664ef46b3b15a86b6889c55ca52a1190410336894cc37548a3ae",
-    "tags": [
-      "BE"
-    ]
-  },
-  {
-    "id": "gen-8805256",
-    "title": "US CIA, ODNI suffer cybersecurity breach of some unclassified information, source says - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-24",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEY3TVFidy1CMzFaVE9HN09yYWVNX25JZ0hKNkhmVmJYMFhNdDQyd2k5TzFHWkhhUjFrbzBiSkIxWkZZREdEZ2Z2b2QwVFhDVEtEYzNuc19LWGd4SkdaMjRuZFVWVjJjMXR0MGwyNWRvOFZCVjdPYUVCaUJzbEpkVmtNWjJQalR2UlVfVVdEUElpZTR1Z0FnVW51alF3SkppOXdWNThkUU84bEgxalNDeTRkaVR5QQ?oc=5",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8802328",
-    "title": "COMMENTARY: Middle East crude oil exports trend lower amid fake Iran stalemate - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-24",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVzZpMHFTclFHbWV5MGFQbmJCOHhtaS02NUQyVmFmU09tZHVJRXZCeHRNWTFNQ0hVenFvQ1JnS2p0aHd0LVFjRE5KTi0tQkVZdElhcko2YXRmWnpkbGtkc0lJX0JjVGtXSE1TbWwyVklTcHVrSWNaTExxT1hYV3JEdG92Ny03TEFNWEJ0Q1hIY2lReVVlZHhkRS0zUUlkZkFiTHhiV0UwVF9RMVdxS2RlS1pseXBJQ3ZwaDBqak5zd29Hd3NGYW5nNUVfZERkR0pI?oc=5",
-    "tags": [
-      "宏观",
-      "双边关系"
-    ]
-  },
-  {
-    "id": "gen-8805662",
-    "title": "Israel's Eisenkot clinches first coalition agreement in bid to form government - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-24",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbVR5QS1fSDJ5YWoyNmRLQ0t2Vm1lZTdWdDlXaU5MakhodlR5QmJyRlhKLTc0dmZuZ2pTYVNwYllvQTIxblMwcm1FZHhPRUl5RWJfRFoxRWNjREZLWjh1MGFlSUUxeDlHdVpIeWlxQmY4dFlDZE55SHFtZkVXazhXWFZiVVZXbkZSX2xySnE1MWtOLWk5ZldQSU10eUtuUjJwM2VEOEc3TExPVDBRekZZc1FsSmhfYWFMYjNZRlVPWGdVWFE?oc=5",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8806075",
-    "title": "Saudi-led coalition issues evacuation warning for Yemen's Hodeidah port - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-24",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVG1zbDJSYngzOXYyX0pnWnBSUFB6Q0FYVzBkUzNtSVpRQm9ZZEY1S3VtMFJFWHVVbjFqQ29aeXhILVNwekVkX0Y1SUp1T3lUZXFCY2hOVWd1YWhVZVBVRFhoeWF2Y01jUkFGQTl0LWRsWUVNZU0xSGJsTE5hVjlOMm1KOVBOVlJtSGcwYm1zV3d2OE52VHJ1ZEFNeXdQRjhPTGhLMmRDNk14QVo4UHg1THdEQ2xMekJ2ZzJxXw?oc=5",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8804413",
-    "title": "UK warns of Russian sabotage threat to companies that supply Ukraine - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-24",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObWthWEU2V2VxbjBhWTVtNE5wdC1LWFBYM24tVF92ekgyb25wMDRablR5eUJCQXFNUFVXU2NMYnkwWUlkWmpmNnhNaUhXZGdOSjUxeVItUzdING0xbDZZRENTTmFHdzJyWXZHM0NCbl91QU1DR3ZpMlpWNGYyVmVVV3dXM2RJSWMxUk1qckdVR18tSjJfbml3enVHUFpZcDBEaG5lSVlDQQ?oc=5",
-    "tags": [
-      "宏观",
-      "双边关系"
-    ]
-  },
-  {
-    "id": "gen-8804946",
-    "title": "Hostages held in Cartagena, Colombia, supermarket after failed armored car hijacking - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-24",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUklaemoxV1Blc3lnelpxZHVwbmdXYUZBVHg2M1dBUzhwcU1PNVp2STNsbWlQMU5POEpHNmFabWtzNjMyTGRwR3dVRURmbDJITXdKZHJsbGdQVkQwZ1d1dmM3cVc3RGZsUGxGbDVmeDVRQVJMZ0c2b3ZNcTdyQ08ycHlSMlNnT3dYMUJzWXZ1VXh0LWJBdkFpeDF5TjRyMk40Y0FHZDdaSWoxQjFIUGNEYlJQWEZKZl9BQ04tTnl1WXl1cElH?oc=5",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8805046",
-    "title": "Houthis won't seize Aden, Yemeni government forces say - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-24",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbU02anladzhtMHNRSjU4cmRGa2o1dHV0RVVVOERwaVdjUU9OdXFXUEw4cEh3TVBuUHBkUXdWSzh5Tl9VRWcybDBGRldhWmhYeXRqVnV6aWE3S2NhVUhZRkhNZV9FcjNrU25UVGhxQ1VLa2J2aHNuRG80RWhuenh5TVI0M25XOGFWOENmQ3FtNlAyRUNMdkM5SVhFZnpNRGRzNVBDSEFQSGJFUQ?oc=5",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8804840",
-    "title": "Houthis hit Riyadh's tallest tower, 11 wounded, Saudi Civil defense says - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-24",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT2lRbHFjYmphSTFEMlhhRmVYd0dzWklmWmxFZFhMVG41LTJWdEZpNW9oYU5JUy1NS1ZORl80Wml6clJ6UnJOenN2TDBjSUpDbHRlVTdWNWpkdXZGejZwdTM4U1J3UWZyYnUzMzhMSGRKZWFwdjZUSFVLdTlRSWlMVVFtQ05kUDlQVGtEY1FXTHRXQmVfSmgzSndIWGxqZ2NRWXM4WjluTTgyallieG9JOXdISmlacFRUUDFiOUplaUZmNC1vUkJLSzZn?oc=5",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8805261",
-    "title": "Shein to pay $100 million to settle US shipping, customer service claims - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-24",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcWhsZ000UTV1SjF3ak9ONXpxUy1JWUFjM2wtMWZTQ3dqOVhZNDBKRHFQVkFlYjZaVWRjWXFoSUY3Ry1JN1ozRk9TQTQ3R2ZFV2ZVQUx6MjF5endGeUptTU5OakRMNlVjb01qWi0ySHItb1dEUFJDc3kxNTJ0akJfbXBlSVZMdkdwb2p1b3BHWnh3aW5scllxRVg2M3BFSHc?oc=5",
-    "tags": [
-      "宏观"
-    ]
-  },
-  {
-    "id": "gen-8805042",
-    "title": "How Meta is using Instagram to get an ad boost from its Muse personal AI agent",
+    "id": "gen-8811058",
+    "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk",
     "source": "CNBC",
-    "publishedAt": "2026-11-24",
-    "url": "https://www.cnbc.com/2026/11/24/meta-instagram-muse-ad-revenue.html",
+    "publishedAt": "2026-11-26",
+    "url": "https://www.cnbc.com/2026/11/26/nvidia-market-governance-risk.html",
     "tags": [
       "宏观"
     ]
   },
   {
-    "id": "gen-8805254",
-    "title": "China's Huawei convicted in sprawling US criminal trial over Iran business - Reuters",
+    "id": "NVDA-144133209",
+    "title": "Broadcom Stock Hasn't Traded This Low Since July 2025. I Think It's a Buy.",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-26",
+    "url": "https://finnhub.io/api/news?id=6cadcf9d3c05ee8fb7a66fd6666a88fbea8f25e033ef5f7b932745f9cb58ecdb",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "NVDA-144135073",
+    "title": "'Alarming, if unsurprising': Trump administration cut corners with hasty Nvidia investigation, former CIA officer warns",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-26",
+    "url": "https://finnhub.io/api/news?id=6f393e1fab1b62c1644942b6aa5fccf3176a6f8d0b74f8d155f48dc81e146e9a",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "NVDA-144134187",
+    "title": "Apple Stock Defies AI Selloff: Is It the Market's Safe Haven?",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-26",
+    "url": "https://finnhub.io/api/news?id=8b493a0aabf1e7a97892b2891e9cfeccb44d087bf39cb88af27632f46e461646",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "NVDA-144131449",
+    "title": "Dow Jones Futures Rise; Market Goes On Wild Ride As Nasdaq Slashes Losses",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-26",
+    "url": "https://finnhub.io/api/news?id=44a96bba1bfc393fcabed4ca3666db1b64e5fa8d9c85f7a1ac35285748b71fbf",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "NVDA-144131450",
+    "title": "Vertex Pharmaceuticals Has Turned $10,000 Into $61,660 Over 10 Years. Here's What Could Come Next",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-26",
+    "url": "https://finnhub.io/api/news?id=a48962df6df8632af96aac9c5be9da2c2de84ea5f72262d51d7f590333a0eb10",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "NVDA-144132145",
+    "title": "Why CleanSpark Stock Was a Winner on Wednesday",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-26",
+    "url": "https://finnhub.io/api/news?id=13d5e6e9dc09274cb0f569acfa21ad53a34a18f3bd69baa765b4f8226886fafb",
+    "tags": [
+      "NVDA"
+    ]
+  },
+  {
+    "id": "gen-8810541",
+    "title": "US airlines face higher costs from proposed Embraer duty - Reuters",
     "source": "Reuters",
-    "publishedAt": "2026-11-24",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSmhBaGpBTEdjQXR4UmRuMy1KVWY0anJiNkxHQ2NVTjBFbWc4RE5MRk5KU1lzZ1BKMVNKVUNRV3hlRmxtYWc0cmlpSlAxWkJDXzBhdjFqY0RfbE54clBNU1hDODJjbEk2ZENVMWtuM3F6VVZjWGpDZXNhZGowZW1UNUlLWGJSU0tYbXhlYU8xRkYweTJrd1JsM0pDdzd3UkM1ZkpTSXdHYTkxQjNzNlhfU2pTcXExSlFJ?oc=5",
+    "publishedAt": "2026-11-25",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQWpyd1BJdFpVWVVZa2U5Zzcxa2trQ29NTFItblc0Q0VJaWx3TEZvUjkwb1BlWXUwZW1vUXZSNkZSODduRzM5a1diUGJOdE1zc0dlb2lxNGhUaDhTVUJQUzk2b1JSZTRzSDBPenkxTVU0T2QtYlhsb2RGX0o1OG4tNkltblFaMUVRMk9hUEZsU2hGUlRVNnpNN3JIVGtWMkpUR0g0S3pSQUlYdkpUdTdfWkFQRGs?oc=5",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8809501",
+    "title": "EXCLUSIVE: Billionaire Boehly signs US-backed share swap deal to buy Lukoil global assets - Reuters",
+    "source": "Reuters",
+    "publishedAt": "2026-11-25",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM05VWXNudnhTWW1BY2VFUHpZRzdNSjU4TG1Ob3NYZTRKM0tNUWNGQmxyNEp6NW0yTEJWaTZabF9UNW9CUUZTclBhaGpnQmZ6WVRZTVhqS3dpOTBsZEtaOGZnMzFPQlR5MDRpZThJNmU0cXc5Q0trMDNhdWtxVjV4V1lMYzYyR1RHU0lBNDdWZDlzOWxBN1J1Wm0xWlJkNEVMaVNXUXdQcTRuUHlvczlnMTd1VGRWQQ?oc=5",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8810230",
+    "title": "Russian forces hit Kyiv with ballistic missiles, mayor says - Reuters",
+    "source": "Reuters",
+    "publishedAt": "2026-11-25",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOUhrdXc0NFhybXpCcmF1VjM2RlFseVBqOW0xdXJBQlZWT0w5TmZRTjFTbEpjWTVlZHBmMHZMQ0tVcm5OMnk5RjhKWklxQlFfY1hDQTB4dmZNQWwwd2tLb0xLNGRNbUpNXzNCZGw0Sm1fNlhkSEUzNUZvQ2hkVHNOMGhOOFJlSnZJcXQ4UldFb01FY2J2YmpLUW1NTi1rWnRBb3c?oc=5",
     "tags": [
       "宏观",
       "双边关系"
     ]
   },
   {
-    "id": "gen-8802733",
-    "title": "Iraqi PM cracks down on Kurds' control of oilfields, Kurds reject risky move - Reuters",
-    "source": "Reuters",
-    "publishedAt": "2026-11-24",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQT0ttY1ZZa0d3ajhmMUVZYmhrdHNGd0E4aC0wQWswZzc0UkFrcndsZ3pJUkJQMVF3Rlp0cjdGdkc2bG5XY093OWx6QWdtQVlJMVpRN2QzUUZicGRBZEROT2JUZEdQUTRpWHBpYzNXMVVwN1FQbmZpVmZfTm1leHQzclpZSkdsRk9MWHBzZEpaSlFoVjd0QzZQMnl2SDladHhlTzFmYkhmT2xPSlRTc2o2VmY2ZThoQ0dxbl94NXAxaXFWTHBNb1V6bzhXRTFPQQ?oc=5",
+    "id": "gen-8809914",
+    "title": "Macy's postpones Thanksgiving Day Parade due to severe weather",
+    "source": "CNBC",
+    "publishedAt": "2026-11-25",
+    "url": "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html",
     "tags": [
       "宏观"
     ]
   },
   {
-    "id": "MRVL-144090219",
-    "title": "Stephanie Link Says Marvell Could Earn $30 a Share by 2031. Is She Right?",
+    "id": "gen-8809704",
+    "title": "Vance says he was assured Jensen Huang was not under DOJ investigation",
+    "source": "CNBC",
+    "publishedAt": "2026-11-25",
+    "url": "https://www.cnbc.com/2026/11/25/vance-jensen-huang-nvidia-doj-investigation.html",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8809601",
+    "title": "SpaceX, Musk pledge to donate a share each to active Trump Accounts",
+    "source": "CNBC",
+    "publishedAt": "2026-11-25",
+    "url": "https://www.cnbc.com/2026/11/25/spacex-musk-trump-account-stock.html",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8809703",
+    "title": "We're buying more of a stock down big from its July highs",
+    "source": "CNBC",
+    "publishedAt": "2026-11-25",
+    "url": "https://www.cnbc.com/investingclub/2026/11/25/were-buying-more-of-a-stock-down-big-from-its-july-highs.html",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8810336",
+    "title": "Pakistan's PIA to shift UK flights to own fleet after Norse Atlantic suspension - Reuters",
+    "source": "Reuters",
+    "publishedAt": "2026-11-25",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTkFGakJWZVBjNkpWNGJSajBSZFVudDhWdVhpYU4xWjROeWRjZ05JMHpDa0oxekJDeUUxQTVIVHc3cUZYQktSbmV1bVFZT2VsR0tJVW1NWk9maVVmU0RrY1J0U050cU14S2s5MEZLS28xM3lIVDEzcThxbmlGWXBvOGxaZkNEbEZJdGN5aFRxSndmU0RhSGVyN0tsaS1SWkl1WFJ2ajZZcWJnMEJSS2NZd3A0QUp4MFdPRk1jWlg2SWdhaEFqdlpLZlRTT1JLcVla?oc=5",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8809500",
+    "title": "Bullish hopes spring as traders bet against a higher VIX: Options Action Live",
+    "source": "CNBC",
+    "publishedAt": "2026-11-25",
+    "url": "https://www.cnbc.com/2026/11/25/bullish-hopes-spring-as-traders-bet-against-a-higher-vix-options-action-live.html",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8808346",
+    "title": "Iraq's top court says Baghdad can deploy troops to secure borders in Kurdistan region - Reuters",
+    "source": "Reuters",
+    "publishedAt": "2026-11-25",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeGlKWlRMLUx5SDRZY3FLU3VLM19RX2JqVko0T3dBakVEVHVldFVtQ21MbGo2WEEzUXU1clEteTVvWWh3bkdkQzZPX3RSemt5eWlBVjJQZy1RdjNjNnlpT19ZZUd0ekFDc3JuVHZKVWJfX2VtTlBzU3ZTTHlBX3dkV1NNVXA4NmJMVlRGX3FidmJsa0VacW5fQ2E1ZHBZTnJrN2pVc1BkUk1aZVliX2lMdHJBcUFaYlh5WmY3a05aSVZYN1hKemFtTGFUMG0?oc=5",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "gen-8809295",
+    "title": "SpaceX wins FCC approval to deploy 1 million orbital data center satellites",
+    "source": "CNBC",
+    "publishedAt": "2026-11-25",
+    "url": "https://www.cnbc.com/2026/11/25/spacex-fcc-satellite-approval.html",
+    "tags": [
+      "宏观"
+    ]
+  },
+  {
+    "id": "MRVL-144128881",
+    "title": "Analysts Expect More From Marvell Than Marvell Does",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=ab77a10b151f09ce79026aae903aebe9440ff11260eb8efa36ce9f47eef12ded",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=bf101ed60032eeae2f8fdd1f824e67b2ba8d56ccf743c475b96637ff8a4e02a1",
     "tags": [
       "MRVL"
     ]
   },
   {
-    "id": "MRVL-144090611",
-    "title": "3 Winners From Huang’s Return—for the Long Haul",
+    "id": "MRVL-144128039",
+    "title": "Why Is Credo Stock Going Up?",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=28871ec753833c0059aaac77031827d55aab3bb305ce16c6c5c90149554514ad",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=f94f2d4f17fcbdccb5a89a0f1e686d896b408355077966a7dd2751643766fb78",
     "tags": [
       "MRVL"
     ]
   },
   {
-    "id": "MRVL-144090526",
-    "title": "Morning Movers: Dick’s Sporting and Dollar Tree gain following quarterly reports",
+    "id": "MRVL-144126919",
+    "title": "Why Did Nvidia Stock Jump So Much?",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=1c8e7e79d0f3c6c1a65c3155e09689a87698b220be964ee9a232d42883e51098",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=6551907c443e424ec02725fdbae8025a45b7e2ab50205d854e05cb7595613b03",
     "tags": [
       "MRVL"
     ]
   },
   {
-    "id": "MRVL-144092795",
-    "title": "Marvell Technology (MRVL) Suffers a Larger Drop Than the General Market: Key Insights",
+    "id": "MRVL-144126964",
+    "title": "Anthropic, Nvidia, Micron, HP Inc., Dell, Deere, and More Stocks That Explain Today’s Market",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=9ddc0497f823a5a63440b8da125002c3d4d712ba9d3aa143879d794ea95bcfd8",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=e90ca90663abae20139ce2648b22ce7adbf2bd644711c46aac6dfa4457875169",
     "tags": [
       "MRVL"
     ]
   },
   {
-    "id": "MRVL-144092807",
-    "title": "Dell Technologies (DELL) Q3 Earnings and Revenues Surpass Estimates",
+    "id": "MRVL-144127080",
+    "title": "Marvell Technology Stocks Fall 8.47% as Data Center Exposure Bites",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=5803156b596f5f850f0f317122fe9e7bbbeacc3bce590c54b7297d2b47809175",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=b864c8d8f7c057b7009421878bb323d87fcba21018a1c2d259845e28d2791642",
     "tags": [
       "MRVL"
     ]
   },
   {
-    "id": "MRVL-144089032",
-    "title": "Morgan Stanley’s 4 Best Semiconductor and Server Stocks to Buy for 2027",
+    "id": "MRVL-144125934",
+    "title": "Credo Technology Crashed 27% Over a Month: This Wall Street Desk Now Expects 190% Returns",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=a66f85ee57836f6dec6e6bc9f29a3be0ee862162bce3aeaa8666a6336e8505ce",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=79a5b93534487c3359b892c8f1e6ad71b61065b3a551b82cb0d449f75ba1b8d6",
     "tags": [
       "MRVL"
     ]
   },
   {
-    "id": "BE-144089063",
-    "title": "nVent Electric (NVT) Stock Is Down 8.4% Today: AI Chip Selloff Drags Power Peers",
+    "id": "BE-144127127",
+    "title": "Why ADS-TEC Energy (ADSE) Stock Is Up 6.8% Today Without Company News",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=df6da8cc70f5beaa1fd90b9feb801b519fd6964997db343becd74a7162918ec3",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=1ee1e9a4d12dee17e64970f67425e9136b01c5fdcf454605fbd3fd734d4e3b89",
     "tags": [
       "BE"
     ]
   },
   {
-    "id": "BE-144089072",
-    "title": "Advanced Energy (AEIS) Stock Is Down 9.6% Today Without Company News",
+    "id": "BE-144127128",
+    "title": "Plug Power (PLUG) Stock Is Up 12.2% Today Without Company News",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=3cc51db4a556747b4f958448b38df8cffc4ad3eeeb1f18c79338039a8241ae1d",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=ec71e7c199744d9da703040e0a921b548856358a64819f82a8523a3845395bcc",
     "tags": [
       "BE"
     ]
   },
   {
-    "id": "BE-144087970",
-    "title": "Bloom Energy Revenue Jumped 138%. Its Next Growth Phase Could Be Even Bigger",
+    "id": "BE-144127146",
+    "title": "Lyft Stock Poised to Bounce Off Key Trendline",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=e7ebb8c257270598262f1bfc6c4ef6da28d9c47eb71bbd913055cfeb3ca4b2d7",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=adf1a3f067240160048a953a5f3122ce7f35801eeaa6fda9e6990fcf2f478da8",
     "tags": [
       "BE"
     ]
   },
   {
-    "id": "BE-144088166",
-    "title": "What Triggered The Move In Eaton Stock?",
+    "id": "BE-144126094",
+    "title": "Bloom Energy Stocks Slide 7.93% as AI Power Names Lose Momentum",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=33638ff460727044e28e2e2e45a59036d47e0f9cffbff3f7a8ca47d56c284d72",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=c490bd17650dc35f68dc98e15b0985a174ba82802803b28bf49cdb95539d636c",
     "tags": [
       "BE"
     ]
   },
   {
-    "id": "BE-144086913",
-    "title": "Bloom Energy is Down 22% Just This Month: Two Wall Street Pros Predict 109% Gains With 2 More $1 Dollar Lower",
+    "id": "BE-144126095",
+    "title": "This AI Power Stock More Than Doubled Its Revenue and Still Burned Cash. Which Number Matters More?",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=354f3f30568dc85684bfcab86dc671aad440d4dbb8042a6a6cadc615e5d5e4b9",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=c5c20a5588910fdffb78079757bc881c7a67e2d73893f0649081a0d29258bfc1",
     "tags": [
       "BE"
     ]
   },
   {
-    "id": "AAPL-144090181",
-    "title": "Tech Keeps Eating Hollywood As Netflix Buys Historic Seinfeld Lot",
+    "id": "BE-144124878",
+    "title": "Bloom Energy Tumbles 11% Despite Morgan Stanley Reiterating $335 Target; FuelCell Energy Drops 7%, Plug Power Falls 6%",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=de438a217028924294bc00f83cc3281d0f195397d84fcf4f4c0d5dbbe2344bf7",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=cde681cabddb68ab8799c9d150172fbf8e46306e9efc85588acdbe210ec0a477",
+    "tags": [
+      "BE"
+    ]
+  },
+  {
+    "id": "AAPL-144128189",
+    "title": "Dow Jones Futures: Market Goes On Wild Ride. Nasdaq, Nvidia Slash Losses While Anthropic Reverses Higher.",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=37e810abbd6318dcef19cc006990e5a6a0131b21e16944b93c130712a4a4548f",
     "tags": [
       "AAPL"
     ]
   },
   {
-    "id": "AAPL-144088987",
-    "title": "Maple raises $5.3M to build AI products that protect your data, even from itself",
+    "id": "AAPL-144128015",
+    "title": "Is the market experiencing a 'dead cat' bounce?",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=c2952b3908350c0e71623c919f1512f71d67fadd670a221e0f07bf40330f0563",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=b7ae2d64d8150a6196bc205c4b1316733e2f6cbfc99a8b9b917ffb86318d68ef",
     "tags": [
       "AAPL"
     ]
   },
   {
-    "id": "AAPL-144088988",
-    "title": "Is Apple (AAPL) Above Fair Value As ETF Buying Returns?",
+    "id": "AAPL-144128019",
+    "title": "Qualcomm vs. Sandisk: Which Technology Stock Is a Better Buy for 2027?",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=cd3cee1b8e359c3b17e508db134c9d09ee533d2ddf31ddd2857a94f6d203df79",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=b6236334201c9643249d124aa4570edf40accf5cced23e6434560b08e8a94307",
     "tags": [
       "AAPL"
     ]
   },
   {
-    "id": "AAPL-144089370",
-    "title": "Top Analyst Reports for Apple, Philip Morris & Intel",
+    "id": "AAPL-144128016",
+    "title": "Apple (AAPL) Pushes Back As 24 7 Tokenized Shares Trading Opens",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=764d55c69ca785aa343eecf68a083d0fcdf5759f7ccf85661f27cc140c313399",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=57423974c39a5788070df93a39570953d50651c621f2813f64d7461c476724f7",
     "tags": [
       "AAPL"
     ]
   },
   {
-    "id": "AAPL-144088989",
-    "title": "Trump Warns of “Paying 200 Percent on Chips” in Two Years. That Pushes TSMC Toward a $22.6 Billion Texas Plant",
+    "id": "SMH-144128031",
+    "title": "Update: US Equity Indexes Mixed, Treasury Yields Drop as Investors Rotate Out of Chipmakers While Assessing Trade Tariffs",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=71854de2d805bbf0febeb62e0e9e1b935c7249c3fd4840afc9852c05d6d170df",
-    "tags": [
-      "AAPL"
-    ]
-  },
-  {
-    "id": "AAPL-144087939",
-    "title": "Why the Jensen Huang rally faded so quickly",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=c74d9d12a82b5c61e0ea9883c05952e9d3b6850e9e520b6ad4e12d1b2b168485",
-    "tags": [
-      "AAPL"
-    ]
-  },
-  {
-    "id": "SMH-144086818",
-    "title": "Micron Jumped 19% Monday, Then Sank Double Digits. Here’s What That Swing Means for SMH Holders",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=093ec7008b6daafae95e7f8eee6e92b504f7bb54a61a6bb35b1494517661cc38",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=1682756898b211e90215bf904a22b33f7629d6d54a0f89034e251fbcba267792",
     "tags": [
       "SMH"
     ]
   },
   {
-    "id": "SMH-144088907",
-    "title": "Don't Be A Hero: The Wrong Way To Buy The Tech Dip",
+    "id": "SMH-144128073",
+    "title": "Billionaire Brad Gerstner’s Altimeter Opened a $680 Million Tesla Stake and Exited Qualcomm and Applied Materials",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=8dddda9e784ea509d9f37136165d64d0c78e37e7811e2b73b98aa8e65a9423a5",
+    "tags": [
+      "SMH"
+    ]
+  },
+  {
+    "id": "SMH-144127028",
+    "title": "Update: Nasdaq Heads for Bear Market as Sellers Descend on AI Trade",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=fd6eb3bec951a505948ad700772bb97d58664c22bd17909efcbcc34b5d399154",
+    "tags": [
+      "SMH"
+    ]
+  },
+  {
+    "id": "SMH-144124565",
+    "title": "Chip Stocks Just Pulled a Whipsaw Last Seen at the April 2025 Tariff Pause",
+    "source": "Yahoo",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=0ec23d396726f3eb76b0322af61001ba17418f10a1b4177c07f2ace9a43e3626",
+    "tags": [
+      "SMH"
+    ]
+  },
+  {
+    "id": "SMH-144127331",
+    "title": "Where AI Money Flows In 2027 After Anthropic's IPO",
     "source": "SeekingAlpha",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=241df4d0abcc07478c124c3cf5cb5ce55810e50d75a5d55d588241685d7723ee",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=9039cc7977eefb7ba98c4868fc86780e3aa17b5e6ef08e10043fb5f198dc01d1",
     "tags": [
       "SMH"
     ]
   },
   {
-    "id": "SMH-144088702",
-    "title": "No Exposure? Think Again: How Anthropic's Fall Threatens Every Investor",
-    "source": "SeekingAlpha",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=3242bf55276018cb50fdb45e07eb3d5099c6beb78ca76f12b79ba126c30e4a4d",
-    "tags": [
-      "SMH"
-    ]
-  },
-  {
-    "id": "SMH-144091014",
-    "title": "Michael Burry Sells Most of His Nvidia Puts Before Stock Jumps 31%",
+    "id": "SMH-144120391",
+    "title": "AI Anxiety Rules Wall Street Pre-Bell; Asia Off, Europe Up",
     "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=709ac1bea9e39e3953d3c3a4508a208d1366e642e0fa606cc994fcd3f9447f1e",
-    "tags": [
-      "SMH"
-    ]
-  },
-  {
-    "id": "SMH-144085367",
-    "title": "Chip Stocks Just Had Their Fourth-Best Day Since 2000",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=62daf75939ddfc83c33da0d00348ca7a6c8dc17a6349bb61ffc717e19165686d",
-    "tags": [
-      "SMH"
-    ]
-  },
-  {
-    "id": "SMH-144081948",
-    "title": "Will Jensen’s return act as a clearing event for chip stocks?",
-    "source": "Yahoo",
-    "publishedAt": "2026-11-24",
-    "url": "https://finnhub.io/api/news?id=018997fb0aaa3858b1df3f3d7aeb77a838c08c95d3fe177189ab681d221ede37",
+    "publishedAt": "2026-11-25",
+    "url": "https://finnhub.io/api/news?id=ee54d85b8938165b37ab5cd98efb96679c4525010a226e11f66b39362dfa6c48",
     "tags": [
       "SMH"
     ]
