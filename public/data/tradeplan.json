@@ -1,13 +1,13 @@
 {
-  "forDate": "2026-11-27",
-  "generatedAt": "2026-11-26T03:28:28Z",
+  "forDate": "2026-11-28",
+  "generatedAt": "2026-11-27T03:37:32Z",
   "model": "确定性技术位 + 风险计（无 AI、无编造）",
   "catalysts": [],
   "pendingSignals": [],
   "draftActions": [],
   "risk": {
     "available": true,
-    "asOf": "2026-11-26",
+    "asOf": "2026-11-27",
     "score": -3,
     "level": "高",
     "label": "风险高 · 防守优先",
@@ -35,8 +35,8 @@
       },
       {
         "name": "美元指数 · 1月",
-        "value": "+1.4%",
-        "detail": "当前 DXY 103.79",
+        "value": "+1.3%",
+        "detail": "当前 DXY 103.68",
         "contribution": 0,
         "note": "美元区间波动"
       }

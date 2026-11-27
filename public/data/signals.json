@@ -365,6 +365,42 @@
   {
     "personId": "trump",
     "type": "social",
+    "asOf": "2026-11-26",
+    "sentiment": "watch",
+    "excerpt": "HAPPY THANKSGIVING TO ALL AMERICAN PATRIOTS WHO HAVE WORKED SO HARD TO MAKE OUR COUNTRY GREAT! Additionally, I would like to wish a Happy Thanksgiving to even those who issued fake Economic Numbers, just prior to the Election, and corrected",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117683512952489451",
+    "ticker": "",
+    "topics": [
+      "经济数据"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-11-26",
+    "sentiment": "watch",
+    "excerpt": "It was just revealed that the REAL Numbers on the Economy, published before the Election, were FAKE, and a correction was issued yesterday by the people in the Government Agency that does these numbers. The American Economy under The Trump ",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117683194517889136",
+    "ticker": "",
+    "topics": [
+      "经济数据"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
+    "asOf": "2026-11-26",
+    "sentiment": "watch",
+    "excerpt": "“U.S. Q3 GDP just got revised UP to a massive +4.3% — shattering expert predictions and nearly DOUBLING Q2’s 2.2% growth! The Trump Economy is ROARING, and the mainstream media can’t hide it anymore!” View image",
+    "postUrl": "https://truthsocial.com/@realDonaldTrump/117682778730108467",
+    "ticker": "",
+    "topics": [
+      "经济数据"
+    ]
+  },
+  {
+    "personId": "trump",
+    "type": "social",
     "asOf": "2026-11-25",
     "sentiment": "watch",
     "excerpt": "Stocks are down sharply because of the November Third Election results. I wasn’t on the Ballot, but if I was, the results, just like all three times before, would have been much different, and the Stock Market, and your 401-k’s, would be BO",
@@ -418,25 +454,23 @@
     ]
   },
   {
-    "personId": "trump",
-    "type": "social",
-    "asOf": "2026-11-22",
-    "sentiment": "watch",
-    "excerpt": "The Market is down more than 6 Trillion Dollars since the Democrats’ rather strange “win” on November 3rd. NASDAQ, by itself, is down 20%. This is 100% due to the fact that the Democrats are “BAD” due to their Anti Growth, and Retribution O",
-    "postUrl": "https://truthsocial.com/@realDonaldTrump/117661238591305263",
-    "ticker": "",
-    "topics": [
-      "大盘/宏观"
-    ]
-  },
-  {
     "personId": "musk",
     "type": "social",
-    "asOf": "2026-11-25",
+    "asOf": "2026-11-26",
     "sentiment": "watch",
-    "excerpt": "Thanks Ron ❤️\n\nMy greatest privilege is being able to work with the incredibly talented people of SpaceX, Tesla, Neuralink and Boring Company, without whom I would be able to accomplish nothing.",
-    "postUrl": "https://x.com/elonmusk/status/2125670205456257409",
+    "excerpt": "Super appreciate your support. Tesla wouldn’t be where it is without our awesome customers.",
+    "postUrl": "https://x.com/elonmusk/status/2126064330022265197",
     "ticker": "TSLA",
+    "topics": []
+  },
+  {
+    "personId": "serenity",
+    "type": "social",
+    "asOf": "2026-11-26",
+    "sentiment": "watch",
+    "excerpt": "Mustafa Suleyman, CEO of $MSFT AI: \n\n“For all those people who keep predicting we're overbuilding chips / we aren't seeing jevon's paradox etc. \n\nThings are just getting started.” https://t.co/ijwdXn8HhB",
+    "postUrl": "https://x.com/aleabitoreddit/status/2125976593076252865",
+    "ticker": "MSFT",
     "topics": []
   },
   {
@@ -755,26 +789,6 @@
     "excerpt": "$NVDA drops over -12%+, from a new report that the SEC is probing potential accounting issues at Nvidia.\n\nAt this point, the collateral damage is starting to hit major indexes and retirement portfolios.\n\nIt's just wild to witness a $5T+ com",
     "postUrl": "https://x.com/aleabitoreddit/status/2123878986686333308",
     "ticker": "NVDA",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-20",
-    "sentiment": "watch",
-    "excerpt": "I covered this earlier in Jan regarding PCB bottlenecks with photonics + $AMZN Kuiper / $SPCX starlink supply chains.\n\nBut as an update, it like other industries outside of AI are really starting to feel the pain now too.  \n\nGlobal Electron",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123851594811011470",
-    "ticker": "AMZN",
-    "topics": []
-  },
-  {
-    "personId": "serenity",
-    "type": "social",
-    "asOf": "2026-11-20",
-    "sentiment": "watch",
-    "excerpt": "I covered this earlier in Jan regarding PCB bottlenecks with photonics + $AMZN Kuiper / $SPCX starlink supply chains.\n\nBut as an update, it like other industries outside of AI are really starting to feel the pain now too.  \n\nGlobal Electron",
-    "postUrl": "https://x.com/aleabitoreddit/status/2123851594811011470",
-    "ticker": "SPCX",
     "topics": []
   },
   {
