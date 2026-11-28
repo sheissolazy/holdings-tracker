@@ -3,28 +3,14 @@
   "name": "Apple Inc.",
   "exchange": "NASDAQ",
   "sector": "消费电子",
-  "price": 355.58,
-  "change5dPct": 0.9,
-  "changeYtdPct": 15.3,
-  "marketCap": "$5.17T",
-  "pe": 39.1,
+  "price": 358.54,
+  "change5dPct": 2.7,
+  "changeYtdPct": 14.7,
+  "marketCap": "$5.21T",
+  "pe": 39.5,
   "revenue": "—",
   "revenueYoYPct": 15,
   "prices": [
-    {
-      "t": "2026-05-26",
-      "o": 309.56,
-      "h": 311.82,
-      "l": 307.67,
-      "c": 308.33
-    },
-    {
-      "t": "2026-05-27",
-      "o": 308.33,
-      "h": 313.26,
-      "l": 308.3,
-      "c": 310.85
-    },
     {
       "t": "2026-05-28",
       "o": 310.68,
@@ -913,127 +899,134 @@
       "h": 356.75,
       "l": 345.13,
       "c": 355.58
+    },
+    {
+      "t": "2026-11-27",
+      "o": 358.21,
+      "h": 359.5,
+      "l": 355.64,
+      "c": 358.54
     }
   ],
   "thesis": {
     "bull": [
-      "苹果近期宣布加码布局AI代理（AI Agent）领域，正面对标OpenAI、Anthropic与Meta，显示公司管理层已将生成式AI列为核心战略方向，若执行顺利有望为服务生态带来新的增长点",
-      "在近期AI板块大幅回调、英伟达等芯片股下跌逾三成的背景下，苹果股价相对抗跌，市场解读为资金从纯AI硬件叙事转向现金流稳健、估值相对保守的大型科技龙头",
-      "公司持续通过股息与超额股票回购回馈股东，被媒体归类为「超额回馈股东」的代表性公司之一，叠加运营商（如Verizon）推出新的苹果设备合约与忠诚度计划，有助于维持用户粘性与换机需求"
+      "2026年苹果股价表现跑赢「科技七巨头」整体水平，有报道称其年内涨幅达到26%，期间AI芯片股剧烈波动，苹果展现出明显的防御属性和现金流稳定性，吸引资金在板块轮动中增配",
+      "2027年智能手机市场展望预计全球出货量将下滑约5%，但多方预测苹果将跑赢行业平均，反映其高端市场份额与用户生态粘性依然稳固",
+      "英伟达创始人黄仁勋多次公开表态看好苹果在AI终端领域的潜力，并将其与1997年乔布斯回归后的历史性反弹类比，提升市场对苹果AI硬件叙事的关注度"
     ],
     "bear": [
-      "公开披露显示，佩洛西（Pelosi）在2025年底至2026年初的多笔交易中持续减持苹果仓位（标记为trim/exit），且此前2024年底、2025年10月也有同向减持记录，显示至少部分知情资金对苹果估值或增长前景趋于谨慎",
-      "在英伟达CEO黄仁勋多次公开唱好苹果AI前景的同时，市场报道苹果在全球市值排名上被英伟达超越，反映投资者对苹果在AI浪潮中是否真正具备硬核技术护城河仍存疑虑",
-      "苹果因应用内容监管问题下架了AI聊天应用Talkie（因存在不当AI对话内容的报道），暴露出公司在快速拓展AI生态、开放第三方AI应用的同时，内容与合规治理仍面临挑战"
+      "知名跟踪对象在2025年末至2026年初的多份申报中显示对苹果持仓以减持（trim/exit）为主，仅有一次新建仓记录，整体动向偏谨慎，与股价上涨形成一定背离",
+      "有报道称OpenAI方面声称获得所谓「间谍」提供的苹果秘密AI设备研发计划，若消息属实，可能意味着产品路线图提前曝光，削弱苹果在下一代AI硬件上的先发优势",
+      "社交媒体上出现据称来自Telegram创始人的高可信度爆料，指出iOS存在严重安全漏洞，仅访问网页即可能导致设备被攻破，若坐实将冲击用户信任并带来潜在监管压力"
     ],
     "watch": [
-      "英伀达CEO黄仁勋近期多次就苹果AI前景发表乐观言论（包括将其类比1997年乔布斯回归苹果的历史性机遇），这类第三方背书可能成为股价催化剂，但也需警惕预期过高后的落差风险",
-      "苹果与运营商（如Verizon）新签订的设备合约及忠诚度计划能否实质拉动用户增长与换机周期，是观察iPhone业务短期动能的重要指标",
-      "感恩节前科技股整体走势分化，AI板块轮动明显（资金在芯片股与苹果等「AI受益但非纯敞口」公司之间切换），需关注苹果能否在AI叙事降温时继续维持相对抗跌表现"
+      "苹果与OpenAI、英伟达等AI生态参与者之间竞争与合作关系的演变，及其对iPhone端侧AI功能和长期产品竞争力的实际影响",
+      "2027年全球智能手机出货量下行周期中，苹果实际市场份额、定价策略与新机型需求的验证情况",
+      "关于iOS安全漏洞的爆料是否得到苹果官方证实或回应，以及是否需要发布紧急安全更新"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "苹果是全球市值最大的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品，以及App Store、iCloud、Apple Music等高毛利服务生态。公司以强劲的自由现金流、品牌忠诚度和垂直整合的软硬件体验著称，近年来服务业务收入占比持续提升，成为盈利结构中愈发重要的一环。"
+        "body": "苹果（AAPL）是全球市值最高的科技公司之一，核心业务涵盖iPhone、Mac、iPad等硬件产品以及服务生态（App Store、iCloud、Apple Music等）。公司以高毛利率、强大品牌忠诚度和庄重的现金流产生能力著称，长期被视为「科技七巨头」中偏防御性的配置标的。近期报道显示，英伟达一度在市值上反超苹果成为全球第二大公司，随后局势又出现反复，反映出科技巨头之间市值排名的激烈竞争。"
       },
       {
-        "heading": "业务与竞争格局",
-        "body": "在智能手机与个人计算设备市场，苹果面临三星、华为等厂商的持续竞争；在新兴的生成式AI与AI代理领域，公司近期公开表态将与OpenAI、Anthropic、Meta等正面竞争，试图将Siri及设备端智能升级为真正的AI代理平台。与此同时，英伟达等AI基础设施公司因算力需求爆发一度在市值上超越苹果，反映市场对「AI硬件/算力提供商」与「AI应用与终端整合者」两类资产给予了不同的估值路径。"
+        "heading": "近期股价与业绩表现",
+        "body": "公开报道显示，2026年苹果股价表现领先于「科技七巨头」整体水平，年内涨幅一度达到26%，在AI芯片股普遍大幅波动、市场情绪一度转向谨慎的背景下，苹果凭借相对稳定的业绩预期获得资金避险配置。多篇报道提及知名价值投资者旗下基金持续重仓苹果，这一持仓在近期的科技股调整中表现相对抗跌，成为市场关注的焦点之一。"
       },
       {
-        "heading": "财务与股东回报",
-        "body": "苹果长期维持高比例的股票回购与稳定增长的股息政策，近期报道将其与埃克森美孚、劳氏等公司并列为「超额回馈股东」的代表。这种资本配置策略有助于在增长放缓周期中支撑每股指标与股价表现，但也引发关于公司是否将足够资源投入新业务研发与AI基础设施建设的讨论。"
+        "heading": "产品与AI战略",
+        "body": "市场对苹果在生成式AI领域的落地进展持续关注。黄仁勋多次公开发言看好苹果AI硬件前景，并将其与历史上苹果股价的大幅上涨周期相提并论，带动部分资金对苹果AI叙事的想象空间。另一方面，有报道称OpenAI方面声称掌握据称来自「间谍」提供的苹果秘密AI设备研发计划，暗示苹果可能面临产品路线图提前曝光、竞争对手抢先布局的风险，这一说法目前未见苹果官方证实。"
       },
       {
-        "heading": "AI战略进展",
-        "body": "苹果正式进入AI代理赛道，被视为对Siri长期落后于ChatGPT、Gemini等竞品的回应。黄仁勋等行业人士公开表达对苹果AI前景的看好，为市场叙事提供了外部支撑；但苹果同时也暴露出AI内容治理的短板，例如因不当对话内容下架第三方AI聊天应用Talkie，显示其在开放AI生态与维护平台安全之间仍需持续调整策略。"
+        "heading": "跟踪者与机构动向",
+        "body": "从公开的国会议员交易申报记录看，知名跟踪对象在2025年10月至2026年初期间对苹果持仓的操作以减持为主：2025年10月22日、2025年12月24日均有退出记录，2025年12月30日申报中同时出现一笔新建仓和两笔退出记录，整体呈现持仓动作频繁且方向不完全一致的特征。结合2024年末同样存在的减持记录，可以观察到该跟踪对象对苹果的持仓在过去一年总体呈逐步调整、而非单边加仓的态势，与同期苹果股价强势表现形成一定反差，值得留意其背后考量（如仓位再平衡、税务规划等多种可能性，公开信息无法确认具体动机）。"
       },
       {
-        "heading": "政治人物与机构动向",
-        "body": "公开披露数据显示，知名政治人物佩洛西在2024年底至2026年初的多个申报周期中对苹果持仓多次执行减持（trim/exit），仅在2025年12月底出现一笔新增（new）交易，整体呈现「增减并存、减持频率更高」的模式。这类申报信息反映部分政治人物相关账户对苹果估值或持仓集中度的再平衡行为，但不构成对公司基本面的直接判断，投资者应结合更广泛的机构持仓数据综合解读。"
+        "heading": "行业格局与竞争",
+        "body": "当前科技板块的核心焦点集中在AI基础设施与端侧AI能力的竞争上。英伟达等芯片公司在AI热潮中几度成为市场市值排名的挑战者，而苹果凭借其设备生态和品牌优势在「七巨头」中保持相对稳健的位置。2027年智能手机行业展望预计全球出货量将同比下滑约5%，若苹果能够如市场预期跑赢大盘，将进一步巩固其在高端市场的地位；反之，若AI终端创新落后于竞争对手，则可能面临份额压力。"
       },
       {
-        "heading": "风险与关注点",
-        "body": "苹果面临的主要风险包括：AI竞赛中硬核技术护城河被质疑、新业务（AI代理、第三方AI应用生态）合规与内容治理压力、以及整体科技股在高估值环境下对利率与风险偏好变化的敏感性。此外，公司高比例回购与分红的资本配置策略在增长预期下修时可能面临「增长投资不足」的质疑，需持续跟踪其研发投入与AI产品的实际落地效果。"
+        "heading": "风险与多空分歧",
+        "body": "当前市场对苹果的多空分歧主要集中在三方面：其一，苹果股价的强势表现与部分知名投资者持仓的持续减持之间存在背离，需观察后续申报是否延续该趋势；其二，关于AI设备研发计划可能泄露的报道若被证实，将对苹果的产品竞争优势构成实质影响，但目前仅为未经官方确认的报道；其三，社交媒体上关于iOS安全漏洞的爆料虽来源被称具有一定可信度，但尚缺乏权威机构或苹果官方的正式确认，其真实影响范围和严重程度仍有待观察。整体来看，苹果基本面的稳健性与外部叙事风险（AI竞争、安全事件）并存，多空观点均有现实依据支撑。"
       }
     ],
     "comparables": [
       {
         "ticker": "NVDA",
         "name": "英伟达",
-        "note": "AI算力基础设施龙头，近期黄仁勋多次公开看好苹果AI前景，两者在市值排名上互有交替，可作为AI叙事下资金轮动的参照对象"
+        "note": "同属「科技七巨头」，AI硬件叙事的直接受益者，近期市值排名与苹果互有领先，波动性明显高于苹果"
       },
       {
         "ticker": "MSFT",
         "name": "微软",
-        "note": "同为大型科技平台型公司，在生成式AI代理与企业级AI服务布局上进度较快，可作为苹果AI代理战略的直接对标对象"
+        "note": "同为大型科技平台公司，在AI云服务与生产力软件领域与苹果形成生态层面的间接竞争"
       },
       {
         "ticker": "GOOGL",
         "name": "谷歌母公司Alphabet",
-        "note": "在搜索、Android生态与自研AI模型（Gemini）方面与苹果存在生态竞争关系，尤其在终端智能助手领域构成直接竞争"
+        "note": "在移动操作系统、AI模型与终端生态方面与苹果存在长期竞争关系，可作为AI及移动互联网业务对比参照"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-27T03:36:29.579966Z"
+    "generatedAt": "2026-11-28T03:12:38.104516Z"
   },
   "news": [
     {
-      "id": "AAPL-144163352",
-      "title": "Apple Enters the AI Agent Race as It Takes on OpenAI, Anthropic, and Meta. What That Means for AAPL Stock.",
+      "id": "AAPL-144183463",
+      "title": "Apple Is Beating the Rest of the \"Magnificent Seven\" in 2026. Can It Do It Again in 2027?",
       "source": "Yahoo",
-      "publishedAt": "2026-11-26",
-      "url": "https://finnhub.io/api/news?id=dc1e040bbf5786aec0b3b70456f11d8ebab66d219831bae31c94e525b9a63244",
+      "publishedAt": "2026-11-28",
+      "url": "https://finnhub.io/api/news?id=99b36f5e91cfa5424783695ea2d69d16329b9a486abca7ca930c536d37fbae7d",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-144157681",
-      "title": "Apple Stocks Rise as AI Selloff Spares the iPhone Maker",
+      "id": "AAPL-144183464",
+      "title": "Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-26",
-      "url": "https://finnhub.io/api/news?id=5f56e36170ac823f2feb83953186054df99533505ad98d17320111190a71ec4d",
+      "publishedAt": "2026-11-28",
+      "url": "https://finnhub.io/api/news?id=8a9bc66e9716dd14bf14d42e26a153ca10dfa86e3292230084d6f99d149b9846",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-144157682",
-      "title": "Apple Removes Talkie From App Store After Reports of Inappropriate AI Messages",
+      "id": "AAPL-144183465",
+      "title": "OpenAI says a spy handed Apple secret plans for AI devices that could 'outcompete' the iPhone maker on its 'own turf'",
       "source": "Yahoo",
-      "publishedAt": "2026-11-26",
-      "url": "https://finnhub.io/api/news?id=eaa7252afb93fc46d7e7891479662a54c3961a378d859c489a892cd66d21a21c",
+      "publishedAt": "2026-11-28",
+      "url": "https://finnhub.io/api/news?id=71c0d75361262bf1b5de367f99a0c038579f4dab286970bd08b5ee6a1ce9c0a7",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-144156779",
-      "title": "Apple, Exxon and Lowe’s Are Rewarding Shareholders Beyond Their Regular Dividends",
+      "id": "AAPL-144183466",
+      "title": "2027 smartphone market outlook: Apple to outperform as shipments fall 5%",
       "source": "Yahoo",
-      "publishedAt": "2026-11-26",
-      "url": "https://finnhub.io/api/news?id=ef160b29ee3719ce754becc4a970781515ebfef3417364410fab4cffef8504c2",
+      "publishedAt": "2026-11-28",
+      "url": "https://finnhub.io/api/news?id=c6618fdaf497fae05a333022fc3ce0d56ee7fd0401135dd6a8947eba68f5421c",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-144155839",
-      "title": "The Economy Grew Way Faster Than First Reported: Q3 GDP Revised Up to 4.3%",
+      "id": "AAPL-144180326",
+      "title": "S&P 500, Nasdaq End Best Week In Over A Year As AI Optimism Makes Comeback — VZ, ANT, ADBE, TSLA In Focus",
       "source": "Yahoo",
-      "publishedAt": "2026-11-26",
-      "url": "https://finnhub.io/api/news?id=c4079b41499c39a3562eff34451594219699874c9557af1a537f97c58861c560",
+      "publishedAt": "2026-11-27",
+      "url": "https://finnhub.io/api/news?id=062c6dc9674f05d9484818878dd1f4fe3421a09d91f9f95f021d086f85ff05c8",
       "tags": [
         "AAPL"
       ]
     },
     {
-      "id": "AAPL-144156780",
-      "title": "Can VZ's New Apple Deals and Loyalty Benefits Drive Subscriber Growth?",
+      "id": "AAPL-144178908",
+      "title": "AI Chip Stocks Swung Wildly—While Warren Buffett’s Apple Climbed 26%",
       "source": "Yahoo",
-      "publishedAt": "2026-11-26",
-      "url": "https://finnhub.io/api/news?id=59cfad9c0c780a8bf9be55f442088bd6535f9ab92a929129aab18428c3a9b0d9",
+      "publishedAt": "2026-11-27",
+      "url": "https://finnhub.io/api/news?id=dc91559ee9ae23aba325f5aa93ab40862e6b6bcce93b8b7d76986c08d0a009c2",
       "tags": [
         "AAPL"
       ]

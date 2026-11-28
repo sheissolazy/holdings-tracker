@@ -3,28 +3,14 @@
   "name": "NVIDIA Corporation",
   "exchange": "NASDAQ",
   "sector": "半导体",
-  "price": 149.3,
-  "change5dPct": -1.1,
-  "changeYtdPct": -30.5,
-  "marketCap": "$3.60T",
+  "price": 150.49,
+  "change5dPct": 3.1,
+  "changeYtdPct": -29.8,
+  "marketCap": "$3.63T",
   "pe": 15.9,
   "revenue": "—",
   "revenueYoYPct": 93,
   "prices": [
-    {
-      "t": "2026-05-26",
-      "o": 216.54,
-      "h": 218.18,
-      "l": 212.0,
-      "c": 214.86
-    },
-    {
-      "t": "2026-05-27",
-      "o": 214.12,
-      "h": 214.15,
-      "l": 208.78,
-      "c": 212.6
-    },
     {
       "t": "2026-05-28",
       "o": 211.28,
@@ -913,127 +899,134 @@
       "h": 150.37,
       "l": 141.17,
       "c": 149.3
+    },
+    {
+      "t": "2026-11-27",
+      "o": 151.9,
+      "h": 151.98,
+      "l": 145.39,
+      "c": 150.49
     }
   ],
   "thesis": {
     "bull": [
-      "Jensen Huang于2026年11月重新被董事会任命为CEO，特朗普总统公开表态支持并祝贺该决定，市场解读为管理层不确定性消除，AI资本开支预期可能上修，叠加供应链上游（内存、NAND等关键零部件）持续处于紧张状态，暗示下游需求依旧旺盛",
-      "知名投资人Michael Burry在清空纳斯达克空头仓位后转向看多，并提及在200美元附近关注NVDA，被部分市场人士视为AI板块情绪阶段性筑底的信号",
-      "部分分析观点认为NVDA相较同业AI芯片股被低估，且在近期AI板块普跌后存在修复性反弹空间，机构评级中出现「上调至持有」等边际转暖的措辞"
+      "黄仁勋重回CEO一职后，特朗普等政治人物公开表态支持，市场解读为公司治理风险阶段性降温，叠加AI资本开支周期仍在延续，机构逢低加仓意愑明显",
+      "存储与先进封装环节持续处于紧缺状态，HPE、戴尔等厂商高管表示NAND与DRAM供给紧张预计延续至2028年下半年，上游涨价压力有望传导为NVDA平台级产品的议价优势",
+      "部分政要（如佩洛西）历史申报中多次新建NVDA多头仓位，叠加分析师文章指出以当前38%回撤幅度计算，若参照历史修复节奏，长期持有仍可能获得可观回报，显示部分资金将短期抛售视为逢低布局机会"
     ],
     "bear": [
-      "2026年11月20日有报道称SEC正在调查NVIDIA潜在的会计问题，当日股价重挫逾12%，叠加循环融资（circular financing）质疑，财政部长贝森特被问及AI市场崩盘与循环融资问题时回应谨慎，显示监管与财务透明度风险仍未消散",
-      "佩洛西的个人交易披露显示其在NVDA上存在新建仓与减仓交替出现的情况（2025年末至2026年初），反映即便是消息相对灵通的参与者对该股方向也未形成一致判断，增添了解读上的分歧",
-      "多篇近期报道指出AI芯片股（包括NVDA）较高点下跌36%至39%，科技股在感恩节前陷入停滞，有评级观点认为「现在买入NVDA还为时过早」，显示市场对AI资本开支持续性和估值消化尚存疑虑"
+      "股价较历史高点仍下跌约38%，AI板块本周经历剧烈震荡（单日曾上涨15%），显示市场对AI资本开支可持续性与估值分歧加大，波动性本身是风险信号",
+      "佩洛西最新披露中出现「exit」减仓记录，并非单边加仓，说明即便是长期看多的政要账户也在部分获利了结或对冲，不能简单解读为一致性看多信号",
+      "社媒渠道检查显示，AI光模块与激光供应链上下游（如Eoptolink、AXTI相关标的）存在产能与分配变化，若上游供给结构调整不利，可能通过生态链反向影响NVDA数据中心出货节奏；同时「国会相关措施」与潜在出口限制被部分机构列为近期负面催化之一"
     ],
     "watch": [
-      "Jensen Huang重新就任CEO后的具体战略与资本开支指引是否会在后续财报或公开沟通中进一步明确，这将影响市场对AI资本开支上修预期的验证",
-      "SEC关于NVIDIA会计问题的调查进展及NVIDIA官方回应，调查结果若升级可能对估值与信任度造成持续压力",
-      "AI板块整体资金流向与同业（Marvell、Credo、美光等）财报及资本开支数据，作为判断AI硬件需求是否真实企稳的交叉验证指标"
+      "黄仁勋CEO职位变动的后续治理安排及董事会沟通内容，是否会引发进一步管理层或战略方向的调整",
+      "美国对华芯片相关限制及国会动向的具体细则是否落地，将直接影响NVDA在中国及周边市场的收入假设",
+      "存储芯片（HBM/DRAM/NAND）价格与供给紧张趋势是否持续至2028年，这将决定NVDA产品成本结构与毛利率弹性"
     ],
     "sections": [
       {
         "heading": "公司概览",
-        "body": "NVIDIA是全球领先的GPU与AI加速计算芯片设计公司，产品广泛应用于数据中心、游戏、自动驾驶及专业可视化领域，近年来受益于生成式AI与大模型训练推理需求的爆发式增长，成为全球市值最高的公司之一。公司创始人兼长期CEO Jensen Huang在2026年11月经历短暂的管理层变动后由董事会重新任命为CEO，凸显其在公司战略方向上的核心地位。"
+        "body": "NVIDIA是全球领先的GPU与AI加速计算平台提供商，业务涵盖数据中心、游戏、专业可视化与汽车等板块，其中数据中心AI芯片是近年收入增长的核心驱动力。公司在高性能计算生态（CUDA软件栈、网络互联、系统集成）上建立了较高的转换成本护城河，但也因此成为AI投资周期情绪的风向标，股价波动常被视为整个AI硬件板块景气度的代理指标"
       },
       {
-        "heading": "近期动态与催化剂",
-        "body": "2026年11月，NVIDIA董事会一度调整后又重新任命Jensen Huang为CEO，特朗普总统在社交媒体上多次公开表态支持其回归，并称赞董事会的决定，市场情绪随之明显改善，相关报道称「AI交易回来了」。但与此同时，11月20日出现SEC对公司潜在会计问题展开调查的报道，当日股价单日大跌超过12%，显示公司同时面临治理层面的不确定性与监管审查压力，多空消息交织出现。"
+        "heading": "管理层与治理动态",
+        "body": "近期市场关注焦点集中在黄仁勋重新回归CEO一职。公开社媒信息显示，美国总统特朗普多次表态支持董事会「恢复黄仁勋领导地位」的决定，并在决定落地后公开祝贺，将其与公司及美国整体利益绑定表述。这一管理层变动本身反映出此前存在一定内部治理不确定性，市场对其前因及后续影响仍在消化，媒体评论指出「黄仁勋回归并未完全缓解AI板块的紧张情绪」，说明治理层面的不确定性并未完全出清"
       },
       {
-        "heading": "多头逻辑",
-        "body": "支持看多的论据主要包括：管理层不确定性随Jensen Huang回归而消除，有分析认为此前因其可能离任而下修的AI资本开支预测存在上修空间；供应链上游（内存、NAND等）被行业人士预期至少持续紧张到2028年下半年，侧面反映下游AI硬件需求依旧强劲；此外部分知名投资人（如Michael Burry）在近期AI股普跌后转为关注NVDA的逢低布局机会，显示部分聪明资金认为估值已具备吸引力。"
+        "heading": "政要与知名投资者动向",
+        "body": "根据公开披露，佩洛西（Pelosi）账户在2025年末至2026年初期间对NVDA有多笔交易记录，既包含新建多头仓位（买入），也包含减仓（exit/trim）操作，呈现出「边买边卖」的组合调整特征，而非单一方向的押注。结合历史披露（2024年末至2025年初同样呈现新建与减仓交替的模式），可以看出即便是长期持有者也会根据估值与消息面进行仓位再平衡，这类信息可作为市场情绪的参考，但不构成对未来走势的直接指引"
       },
       {
-        "heading": "空头与风险",
-        "body": "看空或谨慎的论据集中在：SEC对会计问题的调查尚无明确结论，若调查升级可能冲击投资者信任与估值；市场对「循环融资」模式（即AI产业链内部企业间交叉投资与采购形成的资金闭环）的可持续性存疑，财政部长贝森特在被问及相关问题时态度谨慎并未给出明确背书；此外，AI芯片板块整体已从高点回落逾三分之一，部分评级观点认为当前仍「为时过早」给出买入建议，显示板块情绪尚未完全修复，估值消化可能需要更长时间。"
+        "heading": "基本面与行业环境",
+        "body": "行业层面，存储芯片供给紧张是近期反复被提及的主题，惠普企业（HPE）与戴尔（DELL）高管公开表示内存、NAND等关键元器件供给紧张状况预计将持续至2028年下半年，且价格难以回落。这对包括NVDA在内的AI硬件产业链而言是双刃剑：一方面可能推高系统端整体成本，另一方面也反映出下游AI基础设施需求依然旺盛。同时，光模块、激光器等配套生态（如Eoptolink、AXTI、Lumentum、Marvell等相关标的）的产能分配变化，也是观察NVDA数据中心出货景气度的间接指标"
       },
       {
-        "heading": "跟踪者与政策动向解读",
-        "body": "从公开披露的交易记录看，佩洛西在2025年初与2026年初均出现对NVDA新建仓与减仓交替操作的情况，并非单向看多或看空，反映即便是信息相对敏感的政治人物在该股上的立场也存在摇摆，不宜简单解读为明确多空信号。特朗普总统本人则多次公开力挺Jensen Huang留任CEO，带有一定的政治与产业政策色彩，但其表态更多聚焦于管理层与公司治理层面，而非直接评价股票估值本身。这些动向应作为情绪与舆论层面的参考，而非独立的投资决策依据。"
+        "heading": "多空分歧与市场情绪",
+        "body": "近期AI芯片板块经历剧烈波动，评论指出「抛售更像是拥挤仓位的解除，而非AI投资逻辑的根本性破裂」，同时列出三项潜在负面催化：NVDA的CEO变动、美国国会相关措施，以及NVDA面临的（出口/市场准入类）限制。另一方面，也有评论认为当前股价回撤提供了逢低布局窗口，并引用历史修复节奏作为参考依据。两种观点并存，说明市场对AI资本开支的持续性、地缘政治与监管风险的权重判断存在明显分化，短期情绪面波动较大"
       },
       {
-        "heading": "估值与同业比较",
-        "body": "在AI芯片与数据中心基础设施板块中，NVDA常与Marvell（MRVL）、Credo（CRDO）、美光（Micron）等公司进行横向比较。近期报道显示，Marvell与Broadcom之间存在和解及现金流差距等话题，Credo因该和解被部分观点认为股价可能被低估；同时也有观点提出若只能长期持有一只AI半导体股，未必会选择NVDA或美光，反映市场对板块内部个股分化及相对价值的持续讨论。整体来看，AI硬件板块估值在近期普跌后出现分歧较大的修复预期，需结合各公司基本面与资本开支指引进一步跟踪。"
+        "heading": "风险与关注点",
+        "body": "主要风险包括：一是管理层变动后续治理安排的不确定性；二是美国对华出口管制及国会相关立法进展，可能直接影响海外市场收入假设；三是存储等上游关键元器件的价格与供给走势，将影响成本结构；四是AI资本开支周期本身的可持续性，一旦下游云厂商资本支出节奏放缓，将对整个产业链估值产生连锁影响。以上信息均为公开报道与社媒观点的梳理，不构成对公司价值或股价走势的结论性判断"
       }
     ],
     "comparables": [
       {
         "ticker": "MRVL",
         "name": "Marvell Technology",
-        "note": "数据中心互联与定制芯片业务与NVDA生态存在协同与竞争关系，近期因与Broadcom的和解消息及现金流话题受到关注"
+        "note": "ASIC与数据中心互联业务与NVDA存在竞争合作关系，近期有报道关注其ASIC业务增长放缓及Penguin Solutions整合带来的估值重估讨论"
       },
       {
-        "ticker": "CRDO",
-        "name": "Credo Technology Group Holding",
-        "note": "连接芯片供应商，部分观点认为其因Marvell和解等事件存在估值低估空间，是AI基础设施供应链的间接受益者"
+        "ticker": "LITE",
+        "name": "Lumentum Holdings",
+        "note": "光模块与光器件供应商，被视为AI数据中心网络生态的关键配套环节，近期随AI板块回暖反弹"
       },
       {
         "ticker": "MU",
         "name": "Micron Technology",
-        "note": "内存与存储芯片供应商，受益于AI服务器对高带宽内存的需求，但也被部分观点视为相对NVDA的另一选择而非必然更优"
+        "note": "存储芯片厂商，受益于HBM与DRAM供给紧张叠加AI需求，其涨价节奏与产能规划被视为NVDA上游成本与生态景气度的重要观察指标"
       }
     ],
     "model": "claude-code（订阅）",
-    "generatedAt": "2026-11-27T03:34:00.965526Z"
+    "generatedAt": "2026-11-28T03:10:08.912533Z"
   },
   "news": [
     {
-      "id": "NVDA-144160552",
-      "title": "1 Incredibly Cheap Artificial Intelligence (AI) Stock to Buy Before It Doubles in 2027",
+      "id": "NVDA-144183463",
+      "title": "Apple Is Beating the Rest of the \"Magnificent Seven\" in 2026. Can It Do It Again in 2027?",
       "source": "Yahoo",
-      "publishedAt": "2026-11-27",
-      "url": "https://finnhub.io/api/news?id=f7203484576ea5cd972ddcce643f05582291d66f2626096214116aa43bbeda89",
+      "publishedAt": "2026-11-28",
+      "url": "https://finnhub.io/api/news?id=99b36f5e91cfa5424783695ea2d69d16329b9a486abca7ca930c536d37fbae7d",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-144160546",
-      "title": "These 2 AI Chip Stocks Are Down 36% to 39% From Their Highs. Here’s What History Says Happens Next.",
+      "id": "NVDA-144183932",
+      "title": "Nvidia Stock Is Still Down 38% From Its Peak Despite Jensen Huang's Return. History Suggests a $10,000 Investment Today Will Be Worth This Much by Year-End 2027.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-27",
-      "url": "https://finnhub.io/api/news?id=8f377026c02684c28af2245b965ae35185baa4b14dea7345993296adb4c5f08d",
+      "publishedAt": "2026-11-28",
+      "url": "https://finnhub.io/api/news?id=e07d3a43315060afd5e0d3bc3c2192d50d0b4a848235681d146e184299fe362c",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-144159192",
-      "title": "2 Dividend Stocks to Buy in November and 1 to Leave on the Shelf",
+      "id": "NVDA-144183464",
+      "title": "Vanguard's Growth ETF Has 3 Stocks Making Up More Than a Third of It. Only 1 Has Held Up in the Tech Sell-Off.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-26",
-      "url": "https://finnhub.io/api/news?id=ca3493180995282de152842aabb327039bdedb61a0b561a6efaccbf4e1c50fbb",
+      "publishedAt": "2026-11-28",
+      "url": "https://finnhub.io/api/news?id=8a9bc66e9716dd14bf14d42e26a153ca10dfa86e3292230084d6f99d149b9846",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-144159194",
-      "title": "Dow Jones Futures Rise; Look For This Bullish Market Signal On Black Friday",
+      "id": "NVDA-144183934",
+      "title": "3 Reasons I Might Buy More Nvidia in December",
       "source": "Yahoo",
-      "publishedAt": "2026-11-26",
-      "url": "https://finnhub.io/api/news?id=ad1499815de9fcb015c4d8f9a5870e9036fff5d0b19bac37e6ac3602b1115bc7",
+      "publishedAt": "2026-11-28",
+      "url": "https://finnhub.io/api/news?id=0b2acc6a0bdaa0b905568d1dac4ab17287e47a473d5507b373e52c81b41d24a4",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-144159184",
-      "title": "Not Nvidia. Not Micron. If I Could Buy and Hold Only 1 Artificial Intelligence (AI) Semiconductor Stock Through 2030, This Would Be It.",
+      "id": "NVDA-144183944",
+      "title": "Why Monte Rosa Therapeutics Stock Slumped Today",
       "source": "Yahoo",
-      "publishedAt": "2026-11-26",
-      "url": "https://finnhub.io/api/news?id=0e56a35f5645b5a73c26870701de9815fb57d698eaf78dfa2a5bbc1fab6df80f",
+      "publishedAt": "2026-11-28",
+      "url": "https://finnhub.io/api/news?id=5f0bf6c25110327769b9d199cbf7e015067412b75be67a93446c252d952d9bac",
       "tags": [
         "NVDA"
       ]
     },
     {
-      "id": "NVDA-144159185",
-      "title": "Did Jensen Huang’s Alleged Chinese Spy Get Him to Do Anything Nvidia Didn’t Want?",
+      "id": "NVDA-144183942",
+      "title": "Anthropic's Best Customers Spend 20 Times More Than the Rest. That's Why I'm Buying the Stock.",
       "source": "Yahoo",
-      "publishedAt": "2026-11-26",
-      "url": "https://finnhub.io/api/news?id=549d58c0687944ed251bd01b581409ad37503dc43d6b2fba79a06933d06acad9",
+      "publishedAt": "2026-11-28",
+      "url": "https://finnhub.io/api/news?id=cc5b45be7d54bfa0718acea0b430ddd1492dd3808675d1ed0c08ac0b63bf0e4f",
       "tags": [
         "NVDA"
       ]
